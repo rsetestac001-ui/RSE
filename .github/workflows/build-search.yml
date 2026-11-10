@@ -31,7 +31,9 @@ jobs:
         run: python scripts/build_search.py search "scheduled area GI" --limit 10
       - name: Build compact ChatGPT retrieval files
         run: python scripts/build_retrieval.py
-      - name: Build auditable PNAP paragraph JSON\n        run: python scripts/build_pnap_paragraphs.py\n      - name: Commit database and audit
+      - name: Build auditable PNAP paragraph JSON
+        run: python scripts/build_pnap_paragraphs.py
+      - name: Commit database and audit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
