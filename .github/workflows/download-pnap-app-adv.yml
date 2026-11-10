@@ -1,0 +1,28 @@
+name: Download official PNAP APP and ADV PDFs
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 3 1 * *'
+permissions:
+  contents: write
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4
+      - name: Fetch official APP and ADV PDFs
+        run: python scripts/download_pnap_app_adv.py
+      - name: Commit PDFs and source manifest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add documents/PNAP/APP documents/PNAP/ADV pnap_app_adv_sources.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Sync official PNAP APP and ADV PDFs"
+            git push
+          fi
