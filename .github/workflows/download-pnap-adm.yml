@@ -1,0 +1,27 @@
+name: Download official PNAP ADM PDFs
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 3 1 * *'
+permissions:
+  contents: write
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4
+      - name: Fetch and verify official ADM PDFs
+        run: python scripts/download_pnap_adm.py
+      - name: Commit documents and provenance
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add documents/PNAP/ADM pnap_adm_sources.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Sync official PNAP ADM PDFs"
+            git push
+          fi
