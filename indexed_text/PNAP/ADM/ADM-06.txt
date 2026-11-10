@@ -1,0 +1,396 @@
+
+
+===== PDF PAGE 1 =====
+Practice Note for Authorized Persons,Buildings Department                                     ADM-6
+                               Registered Structural Engineers and
+                               Registered Geotechnical Engineers
+
+
+
+                       Computer Programs for Use
+                         in Structural and Geotechnical Design
+
+
+          An authorized person (AP), a registered structural engineer (RSE) or a
+registered geotechnical engineer (RGE) may use computer programs  to produce
+calculations  to support  his design or  to produce designs for submissions  to the
+Building Authority (BA).  Where he intends to do so, he should ensure that the
+program from which such calculations or designs are produced is acceptable to the BA
+before submitting plans for approval under the Buildings Ordinance.
+
+Prior Acceptance of Computer Program
+
+2.        An application for prior acceptance of structural computer program and
+geotechnical computer program should be made by a RSE and a RGE respectively. A
+computer program accepted by the Buildings Department (BD) will be assigned a BD
+reference number (prefixed ‘S’ for structural and ‘G’ for geotechnical), which should
+be quoted in submissions.
+
+3.            Application for prior acceptance of a computer program (including the
+renewal  of  prior acceptance) should be made using  the standard pro forma  in
+Appendix A.   The  completed  pro forma  should  be accompanied by  relevant
+documentation  of  the  program  including  a  user’s  manual  with  the  following
+information:
+
+                (a)  mathematical modelling of the analysis and/or design;
+
+                (b)  flow  charts  showing  the  analysis  and/or  design
+                   procedure;
+
+                (c)  Building  Regulations,  codes  of  practice  or  other
+                   requirements which the analysis or design produced by
+                    the program will comply with;
+
+                (d)  theory  of  analysis  and  mathematical  basis  of  the
+                   computational algorithm which are used in the program
+                   including any references;
+
+                (e)   limitations and applicability of the program;
+
+                  (f)   structure and method of data input and output;
+
+
+                                                                                      /(g) …..
+
+
+===== PDF PAGE 2 =====
+- 2 -
+
+
+
+
+                (g)   interpretation of results; and
+
+                (h)  examples which are sufficient to illustrate the operation
+                    of every part of the program at all representative input
+                    data values and verified by the RSE or the RGE, as
+                   appropriate to the type of computer program.
+
+Additional test examples may be required in order that the accuracy of the computer
+program can be fully demonstrated.
+
+Use of computer Program in Submission of Plans for Approval
+
+4.         When using an accepted computer program to support structural or
+geotechnical design, the AP or RSE or RGE is required to provide the information in
+the first part of the structural calculations as stipulated in paragraph 9(b) of PNAP
+ADM-8.
+
+5.           For structural computer programs, the RSE should be responsible for
+the program execution. Similarly, a RGE should be responsible for the program
+execution for geotechnical computer programs. The AP/RSE/RGE is also required to
+complete the standard pro forma in Appendix B and/or C and include  it in the
+submission.
+
+6.         When a submission is supported by a computer program which does not
+bear a valid BD reference number, the BA may require  all information listed in
+paragraph 3 to be included in the submission for consideration.
+
+Renewal of Prior Acceptance and Changes to Pre-Accepted Programs
+
+7.          The prior acceptance of any computer program will be valid for a
+period of up to three years.  In view of advances in science and technology and
+periodic revision to Codes of Practice, prior acceptance of any computer program will
+be considered  to have expired on a date three years from the date of the  last
+acceptance.
+
+8.            Application for renewal of the prior acceptance may be made upon
+expiry, but not earlier than four months from the expiry date. Such applications will
+be examined by BD in the light of the requirements set out in this practice note.
+
+9.                If  changes  are  proposed  to an  accepted program,  details  of  the
+amendments and the updated user manual (if applicable) should be submitted to BD
+for acceptance before using the revised program.
+
+
+
+                                                                             /10. …..
+
+
+===== PDF PAGE 3 =====
+- 3 -
+
+
+
+
+10.            Lists  of  currently  accepted  structural  and  geotechnical  computer
+programs, and program limitations are available for inspection at the Receipt and
+Dispatch  Counter  at  the  office  of New  Buildings  Divisions  of  the  Buildings
+Department on 7/F, Cityplaza 3, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong or
+through the website of the Buildings Department (www.bd.gov.hk)
+
+
+
+
+
+                                                                       ( HUI Siu-wai )
+                                                     Building Authority
+
+
+
+
+
+Ref.: BD GR/1-150/42
+
+This PNAP is previously known as PNAP-79
+First issue      December 1981
+Last revision    December 2005
+This revision    June 2016 (AD/NB2) (Appendices A to C amended)
+
+Index under: Computer Programs
+
+
+===== PDF PAGE 4 =====
+APPLICATION FOR PRIOR-ACCEPTANCE* / RENEWAL*                 Appendix A
+OF STRUCTURAL* / GEOTECHNICAL* COMPUTER PROGRAM      (PNAP ADM-6)
+A.  Details of Applicant (RSE for Structural Program; RGE for Geotechnical Program):
+
+    Name: ............................................................(RSE* / RGE*) & Registration No: ..........………..
+     Address: ................................................................................................................……………….
+                    ................................................................................................................……………….
+
+
+B.
+    Program Name: ........................................................................................................………………
+
+    Program Version: .....................................................................................................………………
+    Program Developer:
+     (Name/Identification) ................................................................................................……………..
+   BD Reference Number (for renewal case only): …………………………………………………………………………..
+C.  The following Supporting Documents substantiating the application are enclosed (please tick
+     box):-
+      (a)  Structural Program:- One copy of Program Manual ...........…...    &    Flow chart(s).........
+      (b) Geotechnical Program:- TWO copies of Program Manual …...    &    Flow chart(s).........
+D.  Areas of application of the computer program (e.g. Space frame/space truss/core wall/seepage/slope
+      stability/retaining wall stability analysis, etc.):
+
+
+
+E.   Brief description of program, assumptions and theory (e.g. linear/non-linear, static/dynamic analysis;
+    method of data input and result output; modular ratio/finite element/stiffness method; etc.):
+
+
+
+F.  Program  Limitations  (e.g.  number  of  elements/joints/nodes/material  zones/struts/surcharges/load
+     cases/end releases; load types/conditions; scope of analysis; compliance standards/codes; partial load
+      factors; load combination factors; etc.):
+
+
+
+
+                                                                          [Use Additional sheets as required]
+G.  Other relevant information supporting the application (e.g. codes of practice or other requirements
+     with which the program complies, sufficient self-verified examples to demonstrate the operation of every
+      part of the program, etc.):
+
+
+
+
+I confirm that I have carried out adequate assessment on the computer program and I
+consider it suitable to be used to support designs for submission to the Building Authority.
+
+Signature of Applicant (RSE*/RGE*) : .................……….................. Date : ...........….........………….
+
+& Full Name (in block letters) : ...................………………………………….......………....................
+
+Certificate of Registration No. : ………………………..….…… Expiry date : …………….…………
+
+*Deletewhicheverisinapplicable.
+
+
+===== PDF PAGE 5 =====
+Matters to Note (PNAP ADM-6 Appendix A)
+
+PERSONAL DATA
+
+Purposes of Collection
+1.  The personal data provided will be used by the Buildings Department for the following purposes:
+     (a)  activities relating to the processing of the submission; and
+     (b)  facilitating communication between the Buildings Department and the related personnel.
+
+Classes of Transferees
+2.  The personal data provided may be disclosed to:
+     (a)  other Government departments, bureaux & relevant organizations for the purposes mentioned
+         in paragraph 1 above; and
+     (b) any person for the purpose mentioned in paragraph 1(b) above.
+
+Access to Personal Data
+3.  You have a right of access and correction with respect to personal data as provided for in section
+    18 and 22 and principle 6 of Schedule 1 of the Personal Data (Privacy) Ordinance. Your right of
+    access includes the right to obtain a copy of your personal data provided by this form.
+
+
+
+(Rev. 6/2016)
+
+
+===== PDF PAGE 6 =====
+Appendix B
+                                                   (PNAP ADM-6)
+
+
+                     Structural Computer Program Statement
+
+BD file ref. no. : .....................................................................................
+
+Address of site : ......................................................................................
+
+                     ......................................................................................
+
+Authorized Person : .................................................................................
+
+Registered Structural Engineer : ..................................................................
+
+Structural computer programs used :-
+
+      Program Name                             BD Ref. No.
+
+(1)†.............................................................................S.......................
+(2)†.............................................................................S.......................
+(3)†.............................................................................S.......................
+(4)†.............................................................................S.......................
+(5)†.............................................................................S.......................
+
+(Show against each program the Methodology Adopted  e.g.,  Elastic Theory, Load
+Factor, Ultimate Limit State, etc.)
+The above programs were used to perform the following († insert the appropriate number
+from table in brackets) :-
+
+(             )  Foundation                      (             )  Pile cap
+             *Analysis/Design                        *Analysis/Design
+(             )  Footing                           (             )  Superstructure
+             *Analysis/Design                        *Analysis/Design
+
+(             )  Others (please specify) ..........................................................
+                                               *Analysis/Design
+
+I confirm that I have carried out adequate assessment on the above computer programs
+and  I consider them suitable to be used to support design for the above structural
+submission to the Building Authority.
+
+The information about the structural computer programs is also enclosed in pursuance of
+paragraph 4 of PNAP ADM-6.
+
+Signature of RSE : ........................................ Date : ................................
+
+& Full name (in block letters) : ....................…............................................
+
+Certificate of Registration No. : ………………………. Expiry date : ……..…………….
+ * Deletewhicheverisinapplicable
+
+
+===== PDF PAGE 7 =====
+Matters to Note (PNAP ADM-6 Appendix B)
+
+PERSONAL DATA
+
+Purposes of Collection
+1.  The personal data provided will be used by the Buildings Department for the
+    following purposes:
+     (a)  activities relating to the processing of the submission; and
+     (b)  facilitating communication between the Buildings Department and the related
+         personnel.
+
+Classes of Transferees
+2.  The personal data provided may be disclosed to:
+     (a)  other Government departments, bureaux & relevant organizations  for the
+        purposes mentioned in paragraph 1 above; and
+     (b) any person for the purpose mentioned in paragraph 1(b) above.
+
+Access to Personal Data
+3.  Data subject has a right of access and correction with respect to personal data as
+    provided for in section 18 and 22 and principle 6 of Schedule 1 of the Personal
+    Data (Privacy) Ordinance. Data subject’s right of access includes the right to obtain
+    a copy of his/her personal data provided by this form.
+
+Responsibility of the RSE
+4.  The RSE should be responsible for disseminating of the above information to the
+     relevant data subjects.
+
+
+
+(Rev. 6/2016)
+
+
+===== PDF PAGE 8 =====
+Appendix C
+                                                      (PNAP ADM-6)
+
+
+               Geotechnical Computer Program Statement
+
+
+BD file ref. no.: .............................................................................................................................
+
+Address of site: ..............................................................................................................................
+
+                          ..............................................................................................................................
+
+
+Registered Geotechnical Engineer: ..........................................................................
+
+Geotechnical computer programs used :-
+
+                Program Name                     BD Ref. No.
+
+(1)† ...............................................................................................................G.............................
+
+(2)† ........................................................................................ .......................G.............................
+
+(3)†......................................................................................... .......................G.............................
+
+Above programs were used to analyse the following designs († insert the appropriate number
+from table in brackets) :-
+
+(       )  Earth-retaining Structures
+
+(       )  Excavation and Lateral Support Works
+
+(       )  Slope Works
+
+(       )  Others (please specify) ...................................................................................................
+
+
+I confirm that I am responsible for executing the geotechnical computer programs in respect of
+the above designs.
+
+The information about the geotechnical computer programs is also enclosed in pursuance of
+paragraph 4 of PNAP ADM-6.
+
+Signature of RGE : ................................................................. Date: .....................……..............
+
+& Full name (in block letters) : ................................................................................................….
+
+Certificate of Registration No. : ……………...………….. Expiry date : …………...…………
+
+* Delete whichever is inapplicable
+
+
+===== PDF PAGE 9 =====
+Matters to Note (PNAP ADM-6 Appendix C)
+
+PERSONAL DATA
+
+Purposes of Collection
+1.  The personal data provided will be used by the Buildings Department for the following
+    purposes:
+     (a)  activities relating to the processing of the submission; and
+     (b)  facilitating communication between  the  Buildings  Department and  the  related
+         personnel.
+
+Classes of Transferees
+2.  The personal data provided may be disclosed to:
+     (a)  other Government departments, bureaux & relevant organizations for the purposes
+        mentioned in paragraph 1 above; and
+     (b) any person for the purpose mentioned in paragraph 1(b) above.
+
+Access to Personal Data
+3.  You have a right of access and correction with respect to personal data as provided for in
+    section 18 and 22 and principle 6 of Schedule 1 of the Personal Data (Privacy) Ordinance.
+   Your right of access includes the right to obtain a copy of your personal data provided by
+     this form.
+
+
+
+
+(Rev. 6/2016)
