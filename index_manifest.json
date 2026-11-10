@@ -1,1 +1,2054 @@
-{"total_pdfs":0,"indexed":0,"failed":0,"needs_review":0,"documents":[]}
+{
+  "total_pdfs": 224,
+  "indexed": 224,
+  "failed": 0,
+  "needs_review": 7,
+  "documents": [
+    {
+      "source": "PNAP/ADM/ADM-01.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-01.txt",
+      "sha256": "724177d20ca6272d1a0149f270aa41718243432927cddf64a8d216fb4df2c26a",
+      "status": "ok",
+      "pages": 14,
+      "empty_pages": [],
+      "characters": 34864
+    },
+    {
+      "source": "PNAP/ADM/ADM-02.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-02.txt",
+      "sha256": "64044ee4e0e42899c420c06736c3981f0f454e6a6e8bb6c433fc0bb25b9cff62",
+      "status": "review_empty_pages",
+      "pages": 40,
+      "empty_pages": [
+        39
+      ],
+      "characters": 107526
+    },
+    {
+      "source": "PNAP/ADM/ADM-03.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-03.txt",
+      "sha256": "210a6624dbdd8f2da22c574efb63f9b4faecacf69bba7159b7c64296b2ad3311",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 3520
+    },
+    {
+      "source": "PNAP/ADM/ADM-04.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-04.txt",
+      "sha256": "a824c59b9932d374a78852fcb621e20984e0e63c3b8f0c864a043389cae8bab9",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 3283
+    },
+    {
+      "source": "PNAP/ADM/ADM-05.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-05.txt",
+      "sha256": "63df4ca45b604df410d93e7957a0a9815bbf9b3ce76504d46999f33ef2fcec77",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 2867
+    },
+    {
+      "source": "PNAP/ADM/ADM-06.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-06.txt",
+      "sha256": "53b84a616817ba3b2fd1fe7e72267034c026d0850e34551c02bd502144cf5231",
+      "status": "ok",
+      "pages": 9,
+      "empty_pages": [],
+      "characters": 16544
+    },
+    {
+      "source": "PNAP/ADM/ADM-07.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-07.txt",
+      "sha256": "5a9955b3b7d191aea7c0fe8255f7f26f5e5386b20ea80e0921f61d1a20c26caf",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 3958
+    },
+    {
+      "source": "PNAP/ADM/ADM-08.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-08.txt",
+      "sha256": "83bc2e696c276ecbd6e4b5ad8bdd6733c538b8498f2a47127a49b741170a239a",
+      "status": "ok",
+      "pages": 8,
+      "empty_pages": [],
+      "characters": 19887
+    },
+    {
+      "source": "PNAP/ADM/ADM-09.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-09.txt",
+      "sha256": "c3bad2a685bd5186e5b34be14f304e9bbc787f23f208cfbd39d2c1ff4506e4d8",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 5288
+    },
+    {
+      "source": "PNAP/ADM/ADM-10.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-10.txt",
+      "sha256": "722f092985b3cf4528499ab6a0a4df0d7f05e5d65117319025811d2f3356b3ed",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 7375
+    },
+    {
+      "source": "PNAP/ADM/ADM-11.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-11.txt",
+      "sha256": "fafdc25046ed51808525614c16fd5996c7b84e26fe2cf2f7845ba1492a22de6f",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 1316
+    },
+    {
+      "source": "PNAP/ADM/ADM-13.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-13.txt",
+      "sha256": "53396d64dd863e26145622393ab26a668472d947ded83927513ebcace22021dd",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 6647
+    },
+    {
+      "source": "PNAP/ADM/ADM-14.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-14.txt",
+      "sha256": "2268cb1784d65968273600695012b352030707b3f5789b5febb1072a1e3f4351",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 6026
+    },
+    {
+      "source": "PNAP/ADM/ADM-15.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-15.txt",
+      "sha256": "8da7ea7384de3e6d3003fb4dad2c7889603371f44e147757beede3401ccd2c95",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 3807
+    },
+    {
+      "source": "PNAP/ADM/ADM-16.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-16.txt",
+      "sha256": "e6818a97a326e029596f5020f50732100f0ce8bf5e81c0245b3d0f18139de3bd",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 1741
+    },
+    {
+      "source": "PNAP/ADM/ADM-17.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-17.txt",
+      "sha256": "bfeb5c89f600f6a2219d9628e65ffe9166fffe551e0d9ff508d8e64ad8de022a",
+      "status": "ok",
+      "pages": 10,
+      "empty_pages": [],
+      "characters": 21809
+    },
+    {
+      "source": "PNAP/ADM/ADM-18.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-18.txt",
+      "sha256": "a63c280206e261444f87e713f6d82f9e2224129c2b5170d08a92b539db1528c3",
+      "status": "ok",
+      "pages": 7,
+      "empty_pages": [],
+      "characters": 17073
+    },
+    {
+      "source": "PNAP/ADM/ADM-19.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-19.txt",
+      "sha256": "dff7640d7f5b225dc4af752cd80c0e9f72bef6c7e5a3f9a3299e88b28d18c0e8",
+      "status": "ok",
+      "pages": 35,
+      "empty_pages": [],
+      "characters": 75996
+    },
+    {
+      "source": "PNAP/ADM/ADM-20.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-20.txt",
+      "sha256": "5782c686836d136e50e0a434e108432045b7ddeec5e3391c25185030b78ef9b4",
+      "status": "ok",
+      "pages": 5,
+      "empty_pages": [],
+      "characters": 12940
+    },
+    {
+      "source": "PNAP/ADM/ADM-21.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-21.txt",
+      "sha256": "5ec55e9c67c8a118eb7f8911dbbd4015bd1bba8cda8f059f5278d2a0b72dff1a",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 6045
+    },
+    {
+      "source": "PNAP/ADM/ADM-22.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-22.txt",
+      "sha256": "a01d1c9c4fa14dc06a8fa5d50b98740e75d535b7efd5ad302c4c35e761ad8ba8",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 1566
+    },
+    {
+      "source": "PNAP/ADM/ADM-23.pdf",
+      "text_file": "indexed_text/PNAP/ADM/ADM-23.txt",
+      "sha256": "38e63bed233bd42698ccfd6415bada4f1666f0f93b84b4122c0e687dc9621745",
+      "status": "ok",
+      "pages": 25,
+      "empty_pages": [],
+      "characters": 59549
+    },
+    {
+      "source": "PNAP/ADV/ADV-001.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-001.txt",
+      "sha256": "fb4a8cdf7d3a6d327f1f0d6eb96e928552b0346054067df5716af78bb613ad9d",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 6674
+    },
+    {
+      "source": "PNAP/ADV/ADV-002.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-002.txt",
+      "sha256": "9272d4f50bae8b23464ddb9ad5a2c9579df96cd3359ab91df6a8acf7df74cc61",
+      "status": "ok",
+      "pages": 12,
+      "empty_pages": [],
+      "characters": 19389
+    },
+    {
+      "source": "PNAP/ADV/ADV-003.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-003.txt",
+      "sha256": "991bc798d5a42f4f4b5d0f078e9195362da27863e154f6b8bd267f90123560d9",
+      "status": "ok",
+      "pages": 5,
+      "empty_pages": [],
+      "characters": 9611
+    },
+    {
+      "source": "PNAP/ADV/ADV-004.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-004.txt",
+      "sha256": "f886c3a12b2306b22374451b1077d96d5872986f280b18281cf41bdfbe10221e",
+      "status": "ok",
+      "pages": 9,
+      "empty_pages": [],
+      "characters": 43311
+    },
+    {
+      "source": "PNAP/ADV/ADV-005.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-005.txt",
+      "sha256": "265d70df2db275e63d1e8dc1a75659acb874d8c78807561fba99676ca23b2e82",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 5383
+    },
+    {
+      "source": "PNAP/ADV/ADV-006.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-006.txt",
+      "sha256": "3202802637884e7d7d0eb3eeb15c6dcb962e85dac5b90ff2abdad03f35632582",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 1884
+    },
+    {
+      "source": "PNAP/ADV/ADV-008.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-008.txt",
+      "sha256": "7178c2511c7332e30f8a179db230a5e8124e0cd7bdc2453b58982f08d7b33d81",
+      "status": "ok",
+      "pages": 12,
+      "empty_pages": [],
+      "characters": 31616
+    },
+    {
+      "source": "PNAP/ADV/ADV-009.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-009.txt",
+      "sha256": "65a3c0e3a2f0e7fcfb1340c6b0347dd70c15f9a09d900cdb4c6d76c2c508b42d",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 5827
+    },
+    {
+      "source": "PNAP/ADV/ADV-010.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-010.txt",
+      "sha256": "dda3211c9c13be34bada9c6ce8df59d92a5e1f04f5f92a70bdf1993405ef557e",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 8079
+    },
+    {
+      "source": "PNAP/ADV/ADV-011.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-011.txt",
+      "sha256": "28e38bfe5548d12c0410594bc400ebd16b2a9a9e02386705331bb9dc3702baca",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 6530
+    },
+    {
+      "source": "PNAP/ADV/ADV-012.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-012.txt",
+      "sha256": "fa809e65ff1116a58f3c423cf1c94b2b065a8af9989431e8f0d11ae155013ef9",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2042
+    },
+    {
+      "source": "PNAP/ADV/ADV-013.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-013.txt",
+      "sha256": "e5d504bb2a969a7b73f1f2260a4948233d2994e2ebd99ef5165d982b0390d186",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 3113
+    },
+    {
+      "source": "PNAP/ADV/ADV-014.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-014.txt",
+      "sha256": "c0779fcf82874823f15192c3994c0f3c7ac4d4898598ae88316364545be579d9",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 7417
+    },
+    {
+      "source": "PNAP/ADV/ADV-015.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-015.txt",
+      "sha256": "3ef2c0f9243bc063feaa3a0181ca95527e1affd40b757eaa0e8431b1ba606bfe",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 5280
+    },
+    {
+      "source": "PNAP/ADV/ADV-016.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-016.txt",
+      "sha256": "b50ba865f85fe11b0bedeeb60d1603d89925a0e01034521c5beb9043c02ea568",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4136
+    },
+    {
+      "source": "PNAP/ADV/ADV-017.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-017.txt",
+      "sha256": "0c6e3d9afc5a74d52cf354985c55ab57e896dda0b4e9f5c58330d6c4eabb70a7",
+      "status": "ok",
+      "pages": 5,
+      "empty_pages": [],
+      "characters": 3647
+    },
+    {
+      "source": "PNAP/ADV/ADV-018.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-018.txt",
+      "sha256": "88b1aafa85c5a8d2ab48988ccea4186e22f51811a1d84ac59517da493099d211",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4417
+    },
+    {
+      "source": "PNAP/ADV/ADV-019.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-019.txt",
+      "sha256": "5278904f4d4f256a614c18d32b9a99fbdfd2be4e4eb9bed02cfea39bd1533a9c",
+      "status": "ok",
+      "pages": 8,
+      "empty_pages": [],
+      "characters": 12441
+    },
+    {
+      "source": "PNAP/ADV/ADV-021.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-021.txt",
+      "sha256": "b1ce25db514b0822834f9c0014c7b390da04bfd6419e1397f31cc90f4bbb8773",
+      "status": "ok",
+      "pages": 18,
+      "empty_pages": [],
+      "characters": 40225
+    },
+    {
+      "source": "PNAP/ADV/ADV-023.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-023.txt",
+      "sha256": "5f858434c52235e9ff7a010616aba74aea5ec27103dd253e7e6d6e31ba5ff1bd",
+      "status": "ok",
+      "pages": 5,
+      "empty_pages": [],
+      "characters": 12952
+    },
+    {
+      "source": "PNAP/ADV/ADV-024.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-024.txt",
+      "sha256": "052292eb53c1187d21b00511567d4320ea4f18d130052fecb32a07df50c792a8",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 1870
+    },
+    {
+      "source": "PNAP/ADV/ADV-025.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-025.txt",
+      "sha256": "a9d06ccab9abf4e9cc5d1f6acb7ae1021185edaae2d25fd4d641fac3fe9d277a",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2260
+    },
+    {
+      "source": "PNAP/ADV/ADV-026.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-026.txt",
+      "sha256": "bd55e50fdfa3d9edc67a75a10479f2ffcfff48f9b6fdc47756fcccc08e2e69f0",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2619
+    },
+    {
+      "source": "PNAP/ADV/ADV-027.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-027.txt",
+      "sha256": "99741df000743e929a7b072ac435897de456669115b2c51ef904772523c4575c",
+      "status": "ok",
+      "pages": 8,
+      "empty_pages": [],
+      "characters": 16498
+    },
+    {
+      "source": "PNAP/ADV/ADV-028.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-028.txt",
+      "sha256": "673b2c2c07b3fa247573a5b8b6a15e0a303909f475e867344a812df29e65db13",
+      "status": "ok",
+      "pages": 13,
+      "empty_pages": [],
+      "characters": 23788
+    },
+    {
+      "source": "PNAP/ADV/ADV-029.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-029.txt",
+      "sha256": "77bd11dabc65d623ff551603968f3fe330f212dfa6638bac94e4cb12e63d2672",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4342
+    },
+    {
+      "source": "PNAP/ADV/ADV-030.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-030.txt",
+      "sha256": "f6e58be25cbb2e8c22b53bb02761e7b5f13112b5631927f76cc621fb4d495d3a",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2118
+    },
+    {
+      "source": "PNAP/ADV/ADV-031.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-031.txt",
+      "sha256": "45b933e42fc37775067f0babbc75bd484ec9302c22acbf748a860a19b3e7aa34",
+      "status": "ok",
+      "pages": 8,
+      "empty_pages": [],
+      "characters": 20821
+    },
+    {
+      "source": "PNAP/ADV/ADV-032.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-032.txt",
+      "sha256": "ee610f5207344cd3529ed58a93bf81c5973be235d739d0ca1f93456c9476455a",
+      "status": "ok",
+      "pages": 7,
+      "empty_pages": [],
+      "characters": 10766
+    },
+    {
+      "source": "PNAP/ADV/ADV-033.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-033.txt",
+      "sha256": "e958e92c4932c743dce72acdf3293af7aeb5565c63673f88ac9c729373a2fc6a",
+      "status": "review_empty_pages",
+      "pages": 129,
+      "empty_pages": [
+        110,
+        111,
+        112,
+        114,
+        115
+      ],
+      "characters": 1803404
+    },
+    {
+      "source": "PNAP/ADV/ADV-034.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-034.txt",
+      "sha256": "aa45cced0da8469d541e6a18d5c6c8f9e908776a9951acc5633742d6c9d110bc",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 9682
+    },
+    {
+      "source": "PNAP/ADV/ADV-035.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-035.txt",
+      "sha256": "fd495985e801539f3093cb64dabfd972d938c629d1c493cf190cd54228056975",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 6627
+    },
+    {
+      "source": "PNAP/ADV/ADV-036.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-036.txt",
+      "sha256": "d1b77572804b81b14840bfa43967a728d505d6e597898216da9ce0dfcd82b2e1",
+      "status": "ok",
+      "pages": 35,
+      "empty_pages": [],
+      "characters": 691324
+    },
+    {
+      "source": "PNAP/ADV/ADV-037.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-037.txt",
+      "sha256": "d8beedf34bec591896f5cec204887d9501920ad228b53c00374212cf211d376f",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 6292
+    },
+    {
+      "source": "PNAP/ADV/ADV-038.pdf",
+      "text_file": "indexed_text/PNAP/ADV/ADV-038.txt",
+      "sha256": "4f823349dd14b03f47995c9e515762e23525914ffe3f817f0b8cf2052c5e3674",
+      "status": "ok",
+      "pages": 16,
+      "empty_pages": [],
+      "characters": 40461
+    },
+    {
+      "source": "PNAP/APP/APP-001.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-001.txt",
+      "sha256": "5782a47a93d2162e6abb7c5d5640d4c6fb53222779a6dd358d23bc5a3497fd4e",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 3452
+    },
+    {
+      "source": "PNAP/APP/APP-002.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-002.txt",
+      "sha256": "b4d4f1f17b9548dd67384d80a7fb0affceb5395c616e284a84c84c124f50ab8f",
+      "status": "ok",
+      "pages": 16,
+      "empty_pages": [],
+      "characters": 41013
+    },
+    {
+      "source": "PNAP/APP/APP-003.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-003.txt",
+      "sha256": "1fa516b179b26ff80199f4e6355e9dcf9c54555ae6660109832386d007dfe6d1",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4497
+    },
+    {
+      "source": "PNAP/APP/APP-004.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-004.txt",
+      "sha256": "3d080dddb95fe288837c05794fe4880ccb73b67c2de3c0f31f2171e365f82365",
+      "status": "ok",
+      "pages": 8,
+      "empty_pages": [],
+      "characters": 15604
+    },
+    {
+      "source": "PNAP/APP/APP-005.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-005.txt",
+      "sha256": "8e4903d8595603f93db0b3625c7781367e7dd84426506ccfa67f9071c1c268f8",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4022
+    },
+    {
+      "source": "PNAP/APP/APP-007.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-007.txt",
+      "sha256": "39648d79b175758b76760c8af8c4b588ba2ee9b8af8c8fba033a25992bc9f0d3",
+      "status": "ok",
+      "pages": 5,
+      "empty_pages": [],
+      "characters": 12244
+    },
+    {
+      "source": "PNAP/APP/APP-008.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-008.txt",
+      "sha256": "61fd3150fbaefa58eec952ddf3bdc745907af84121da33c8c466d5904b6c5a51",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4242
+    },
+    {
+      "source": "PNAP/APP/APP-009.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-009.txt",
+      "sha256": "22dffde5dd00d241876c44897aaa6af3d8fab602363c7a7d5c45d49a0ed64657",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2451
+    },
+    {
+      "source": "PNAP/APP/APP-010.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-010.txt",
+      "sha256": "dfad9647cfa88d5a06c9c5255a4481ddb78b830271eaf9f56eee5ee597581db0",
+      "status": "ok",
+      "pages": 10,
+      "empty_pages": [],
+      "characters": 16117
+    },
+    {
+      "source": "PNAP/APP/APP-011.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-011.txt",
+      "sha256": "cb9bc878afa69fc640ae95b0df526492928ed93a5eedd2b1ceed671c9f039489",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2543
+    },
+    {
+      "source": "PNAP/APP/APP-012.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-012.txt",
+      "sha256": "2daadd37fa54c164aa057ce3bfe834de997350e826c597a9bc9eec1797a99b26",
+      "status": "ok",
+      "pages": 6,
+      "empty_pages": [],
+      "characters": 15816
+    },
+    {
+      "source": "PNAP/APP/APP-013.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-013.txt",
+      "sha256": "d42e543d0ae6f6bda80267d3a6cab781ef892c93bd2e8aaea0a2176b5210622f",
+      "status": "ok",
+      "pages": 41,
+      "empty_pages": [],
+      "characters": 135940
+    },
+    {
+      "source": "PNAP/APP/APP-014.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-014.txt",
+      "sha256": "959b682c65d69709b2d794ad349f3230f7f69dea738a90dd68231d85b0df2ef9",
+      "status": "ok",
+      "pages": 7,
+      "empty_pages": [],
+      "characters": 16299
+    },
+    {
+      "source": "PNAP/APP/APP-015.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-015.txt",
+      "sha256": "fdd2a5399ffcd5d9048de551b894a54079f01160a893e2205e129718e7c36552",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 9227
+    },
+    {
+      "source": "PNAP/APP/APP-016.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-016.txt",
+      "sha256": "4a6c102d56703a6d200b3654871df011c402b3b9d322630c6ec1d8d826ee7469",
+      "status": "ok",
+      "pages": 10,
+      "empty_pages": [],
+      "characters": 23150
+    },
+    {
+      "source": "PNAP/APP/APP-017.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-017.txt",
+      "sha256": "1ad644b866090ab59785b7b2f604409d8c8b96ee0d6f188384247c93e85c9420",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 7308
+    },
+    {
+      "source": "PNAP/APP/APP-018.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-018.txt",
+      "sha256": "0bbad37c1fbc9c3d22da92806e74f3350e7313cdd36bd895257b0d88f03663a2",
+      "status": "review_empty_pages",
+      "pages": 18,
+      "empty_pages": [
+        9
+      ],
+      "characters": 40905
+    },
+    {
+      "source": "PNAP/APP/APP-019.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-019.txt",
+      "sha256": "9a4bd6c3c23b9d4988b4f63610a8c6cb9512626634069fb1333905a189c9525d",
+      "status": "ok",
+      "pages": 9,
+      "empty_pages": [],
+      "characters": 14837
+    },
+    {
+      "source": "PNAP/APP/APP-020.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-020.txt",
+      "sha256": "4455c4ae2c046cc2147efa844828489616737cabd8d390d35ac4905038c3d987",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4832
+    },
+    {
+      "source": "PNAP/APP/APP-021.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-021.txt",
+      "sha256": "da14340f0c02f8c2b0cf56c05363e162ee4d1f4d9f6839bc54353a6a22bb6e96",
+      "status": "ok",
+      "pages": 13,
+      "empty_pages": [],
+      "characters": 27047
+    },
+    {
+      "source": "PNAP/APP/APP-022.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-022.txt",
+      "sha256": "0ff9d576ec4b04e5e0d1b6deba2eef7ff019d6357526fd591e927106d0e2d2c7",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4945
+    },
+    {
+      "source": "PNAP/APP/APP-023.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-023.txt",
+      "sha256": "eb6db1cfc7a186d4483ce66ebeb6eb322f5dd16cfea89199a7f82b2da421155b",
+      "status": "ok",
+      "pages": 45,
+      "empty_pages": [],
+      "characters": 109305
+    },
+    {
+      "source": "PNAP/APP/APP-024.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-024.txt",
+      "sha256": "15d297fb647d8e2b55588ac1689ddfd87418a1d6bc9ba658ce7bb71ab513a5c1",
+      "status": "ok",
+      "pages": 16,
+      "empty_pages": [],
+      "characters": 42459
+    },
+    {
+      "source": "PNAP/APP/APP-025.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-025.txt",
+      "sha256": "c2c727d25b0ec62a0cde7b90640b530c9fbc6890612ddc120a91d14218ae2dfd",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 5152
+    },
+    {
+      "source": "PNAP/APP/APP-026.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-026.txt",
+      "sha256": "fc47fce9cdf4cf3505e372519421ac25e0d66c8b38af6e9c3222ca1a76bcbf60",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2099
+    },
+    {
+      "source": "PNAP/APP/APP-027.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-027.txt",
+      "sha256": "d319c1e05a8422991abce35a952ac089bc723a9cae270505893035875463cba6",
+      "status": "ok",
+      "pages": 5,
+      "empty_pages": [],
+      "characters": 10374
+    },
+    {
+      "source": "PNAP/APP/APP-028.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-028.txt",
+      "sha256": "52d259d778c1d39acc61cb1605e832fa65c477548833dd90100f533ec294aefc",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 7172
+    },
+    {
+      "source": "PNAP/APP/APP-029.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-029.txt",
+      "sha256": "947f744ba7ffe2a963ed3f90256885c783915fd9b919fa97243010b967b7be9e",
+      "status": "ok",
+      "pages": 14,
+      "empty_pages": [],
+      "characters": 30659
+    },
+    {
+      "source": "PNAP/APP/APP-030.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-030.txt",
+      "sha256": "2a1707428fee7f4db1f8f51fe02647c3cc985be4d9570ef6a97a6cbb17f6179f",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 7825
+    },
+    {
+      "source": "PNAP/APP/APP-031.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-031.txt",
+      "sha256": "b69d858fb794eaf9063260bebef54097a8d492d2c107e98a5bcf26b1bf823745",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2292
+    },
+    {
+      "source": "PNAP/APP/APP-032.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-032.txt",
+      "sha256": "98ecdb464186544c6a4d74db21b8a41e8620a17568f0ad9acfa6a0f20d55a509",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 3074
+    },
+    {
+      "source": "PNAP/APP/APP-033.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-033.txt",
+      "sha256": "f111cdc15ecc5798eba2f303b5cbea4ca5dca1e0694176610506c673c57b74fb",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2918
+    },
+    {
+      "source": "PNAP/APP/APP-034.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-034.txt",
+      "sha256": "89c1232fc60ba39333d6b1812cb9fbd958707a5b9f175522ef004a36e1e07e34",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 6391
+    },
+    {
+      "source": "PNAP/APP/APP-035.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-035.txt",
+      "sha256": "96bf9335374babc22dbbddb671bce5d2bd50ab72c8826b5e9f4b73468915f7fd",
+      "status": "ok",
+      "pages": 13,
+      "empty_pages": [],
+      "characters": 15450
+    },
+    {
+      "source": "PNAP/APP/APP-037.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-037.txt",
+      "sha256": "ab4d242d4a711ace68f5bcea30b22947899ecbf3ab61720505ff0e696ee91a8b",
+      "status": "ok",
+      "pages": 20,
+      "empty_pages": [],
+      "characters": 48568
+    },
+    {
+      "source": "PNAP/APP/APP-038.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-038.txt",
+      "sha256": "cd09982195b5b066f3665bc54068c8153d97664cb4c64f9f47126a94c8f88b8b",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 9564
+    },
+    {
+      "source": "PNAP/APP/APP-039.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-039.txt",
+      "sha256": "323f482554a821f6fcec5e6998a7f19c19fdb3a04df80629c19858a50b0ee184",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 9171
+    },
+    {
+      "source": "PNAP/APP/APP-040.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-040.txt",
+      "sha256": "ce20ab3da583bf659e0fe38d7eb2e70d473f4a429270837e431f79bd3ffb6f00",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 10049
+    },
+    {
+      "source": "PNAP/APP/APP-041.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-041.txt",
+      "sha256": "5b465d763d245bf339ecc4cbb01c53f8858654cabff5d9419746637c28e4d470",
+      "status": "ok",
+      "pages": 92,
+      "empty_pages": [],
+      "characters": 165559
+    },
+    {
+      "source": "PNAP/APP/APP-042.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-042.txt",
+      "sha256": "35ec88d1953df0900a6abaaf94d6c0ae1a2dda4c74a43415eb7e96faa87c90e7",
+      "status": "ok",
+      "pages": 10,
+      "empty_pages": [],
+      "characters": 28063
+    },
+    {
+      "source": "PNAP/APP/APP-043.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-043.txt",
+      "sha256": "2e7f8ff9ac587baf9bc2fc5a933f32529e9b8827d3c57c3168ab9e3e152758b5",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 8962
+    },
+    {
+      "source": "PNAP/APP/APP-044.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-044.txt",
+      "sha256": "14b0b514582c86e22ae742e41b17735d2c57f13fad59f431d2fccae32d37f542",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 3184
+    },
+    {
+      "source": "PNAP/APP/APP-045.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-045.txt",
+      "sha256": "73ccdf071d5e49b09ee8a7e9e2679c9d22a2a53265b05fab1bf65037f9a4544e",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 7837
+    },
+    {
+      "source": "PNAP/APP/APP-046.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-046.txt",
+      "sha256": "201bfa91104904c438b066a14eb45bd431cd9fc5e2d4653d901594f29125081a",
+      "status": "review_empty_pages",
+      "pages": 4,
+      "empty_pages": [
+        3,
+        4
+      ],
+      "characters": 5893
+    },
+    {
+      "source": "PNAP/APP/APP-047.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-047.txt",
+      "sha256": "03519c84e4697fb5af0a6820524415c1b501420550ae7e49830a20c108998a34",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4794
+    },
+    {
+      "source": "PNAP/APP/APP-048.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-048.txt",
+      "sha256": "7e87e409b5c32068593e6bc08cbd999dc9f9785e2a9b81bf36973929e6126a4b",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2667
+    },
+    {
+      "source": "PNAP/APP/APP-049.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-049.txt",
+      "sha256": "83512f6b61ddb8a3a02243178a48586c8d78be1d712ae87332775fa856686514",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 6807
+    },
+    {
+      "source": "PNAP/APP/APP-050.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-050.txt",
+      "sha256": "799931cc624f06065d7d9a73fd10047fd548188b36eae325c09ac9a77b7648e2",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4744
+    },
+    {
+      "source": "PNAP/APP/APP-051.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-051.txt",
+      "sha256": "3a29f0d76e4981af1a3dee611dd82bb80bec3e4d6a079ec6dbec7ddd6d80d925",
+      "status": "ok",
+      "pages": 5,
+      "empty_pages": [],
+      "characters": 13854
+    },
+    {
+      "source": "PNAP/APP/APP-052.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-052.txt",
+      "sha256": "8ed0639ea424ec0dd2dd520de893412d6f70d03ac83e5d6b47485f4cfc43147e",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 2782
+    },
+    {
+      "source": "PNAP/APP/APP-053.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-053.txt",
+      "sha256": "b6f081d8e7a064547a5eabcef9d76daad8941bd6954a4b5edf0740ed740cf253",
+      "status": "ok",
+      "pages": 12,
+      "empty_pages": [],
+      "characters": 26827
+    },
+    {
+      "source": "PNAP/APP/APP-054.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-054.txt",
+      "sha256": "35cbc62b383da5322a7c321d6d0576e5034c53618a09bf75834b647766969e91",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 6926
+    },
+    {
+      "source": "PNAP/APP/APP-055.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-055.txt",
+      "sha256": "6859c740ab92f464783b3e46fe5b57f447f7a9f9c33502b2e6967ae6f261b6f5",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 11145
+    },
+    {
+      "source": "PNAP/APP/APP-056.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-056.txt",
+      "sha256": "09c8971ca111afbfcaa4987713d21c34e2b370798feb8fb7f25f830b4e7342ad",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 5877
+    },
+    {
+      "source": "PNAP/APP/APP-057.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-057.txt",
+      "sha256": "8d01dd704341af4aa9267781aa38b10923395b62557d19d8c48663184df4a8f2",
+      "status": "ok",
+      "pages": 6,
+      "empty_pages": [],
+      "characters": 13458
+    },
+    {
+      "source": "PNAP/APP/APP-058.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-058.txt",
+      "sha256": "24b3afab15375fb3e327a04a979ee300e27cd911ee7bcf65a7e0a7a19dd66894",
+      "status": "review_empty_pages",
+      "pages": 3,
+      "empty_pages": [
+        2,
+        3
+      ],
+      "characters": 1925
+    },
+    {
+      "source": "PNAP/APP/APP-059.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-059.txt",
+      "sha256": "e135723b0ec3bb0f5011856423cb78c07879042d0804f4462c6d133fc2fe6e28",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 3844
+    },
+    {
+      "source": "PNAP/APP/APP-060.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-060.txt",
+      "sha256": "ccf3baa18768a565b2915c7fd388522d10a06b085f7779f0a606f20f6eb80e4f",
+      "status": "ok",
+      "pages": 9,
+      "empty_pages": [],
+      "characters": 21545
+    },
+    {
+      "source": "PNAP/APP/APP-061.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-061.txt",
+      "sha256": "7fe5454154bcfa7450f4fdb7c30632e5b49f09847ed7e2f0c3b6c0ab585be697",
+      "status": "ok",
+      "pages": 7,
+      "empty_pages": [],
+      "characters": 14976
+    },
+    {
+      "source": "PNAP/APP/APP-062.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-062.txt",
+      "sha256": "dd812a6a4aeab35410185d708e2182dfdbb2a0fdf2476a5cb01bdd4156ea919e",
+      "status": "ok",
+      "pages": 6,
+      "empty_pages": [],
+      "characters": 13664
+    },
+    {
+      "source": "PNAP/APP/APP-063.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-063.txt",
+      "sha256": "b7c3ebdf2df9a088da52e4bdd159b24917b8e4e439bc60161bc873286b06c19f",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2346
+    },
+    {
+      "source": "PNAP/APP/APP-064.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-064.txt",
+      "sha256": "1b46402f382b0cecde535945f1a29cde829088828b7d10276ff38bc49704a73d",
+      "status": "ok",
+      "pages": 8,
+      "empty_pages": [],
+      "characters": 18733
+    },
+    {
+      "source": "PNAP/APP/APP-065.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-065.txt",
+      "sha256": "c3e918b7a01808b737a71edbf048d4fa5f9a356e6ade0b1fbd7dfdd4c9325633",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4827
+    },
+    {
+      "source": "PNAP/APP/APP-066.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-066.txt",
+      "sha256": "e34fc3487d91d1abde33eacdbbc1daab741beae1a69735b0966b553665074e5e",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2235
+    },
+    {
+      "source": "PNAP/APP/APP-067.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-067.txt",
+      "sha256": "8b14c05749420c2b0709d381b3aa3116d409f8d6610304e76571becc2b3bc202",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 11796
+    },
+    {
+      "source": "PNAP/APP/APP-068.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-068.txt",
+      "sha256": "b687b09fbeba1a46436754996278ef6c4abc4adc5db1cb0d324ee12e7507f2c7",
+      "status": "ok",
+      "pages": 7,
+      "empty_pages": [],
+      "characters": 17973
+    },
+    {
+      "source": "PNAP/APP/APP-069.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-069.txt",
+      "sha256": "72ed8c543dbeefc186d80a2d5553237c0c62352e9ece0387749fa22c542e70bb",
+      "status": "ok",
+      "pages": 7,
+      "empty_pages": [],
+      "characters": 18771
+    },
+    {
+      "source": "PNAP/APP/APP-070.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-070.txt",
+      "sha256": "8fae0977db2749f382c6025295660718fef3b08aa3cab85e17c13c3bf7cd5b57",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2562
+    },
+    {
+      "source": "PNAP/APP/APP-071.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-071.txt",
+      "sha256": "7f77860f2094c875586cd027bdfd50342dbcb12d8d6c08020cd20df00f93675c",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2121
+    },
+    {
+      "source": "PNAP/APP/APP-072.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-072.txt",
+      "sha256": "76572df7e22b6bf0bf8b209cb476bd7c28aa99bd8d9878766fc2dc9e61d5108f",
+      "status": "ok",
+      "pages": 6,
+      "empty_pages": [],
+      "characters": 14235
+    },
+    {
+      "source": "PNAP/APP/APP-073.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-073.txt",
+      "sha256": "de957f1db5a193e61d90c9c436ae527055c3c745c8ddee8cd9b6e83fbf8d2a0f",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 5106
+    },
+    {
+      "source": "PNAP/APP/APP-074.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-074.txt",
+      "sha256": "80078f9746565511f535258710d83a47bc15b5cb1afcb8d217472769a9aee9b3",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 7962
+    },
+    {
+      "source": "PNAP/APP/APP-075.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-075.txt",
+      "sha256": "8e81720a8d129a7af58a7eb50a14471591a00f625d913c6b7ec01084ecd44823",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2132
+    },
+    {
+      "source": "PNAP/APP/APP-076.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-076.txt",
+      "sha256": "817407a1565f760793188f1d549fd364b6c2bd4daaa4f55a1373282cdcd971d4",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 5507
+    },
+    {
+      "source": "PNAP/APP/APP-078.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-078.txt",
+      "sha256": "783d33ceccb17386b53240ef808319ee6c010b481119fd5035775cb24190970e",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4308
+    },
+    {
+      "source": "PNAP/APP/APP-079.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-079.txt",
+      "sha256": "dfbef1037c9e51022d836b4efa903607a4b463c770433fa972fdec2c98fa7e9d",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 3157
+    },
+    {
+      "source": "PNAP/APP/APP-080.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-080.txt",
+      "sha256": "2195b77d602ef8e75230bb6d32f96a1d9c499207c3a18aeae6bdbe4b9b39448a",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 1973
+    },
+    {
+      "source": "PNAP/APP/APP-081.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-081.txt",
+      "sha256": "b47f850d2f65d81188817297fe0d189d967f6479dbaacb13d7f197cc2d8ccb56",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 3035
+    },
+    {
+      "source": "PNAP/APP/APP-082.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-082.txt",
+      "sha256": "9a123d7675af9f34df252169999c419beb57276db2416d2fbcd1c2ddbd8da980",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 2793
+    },
+    {
+      "source": "PNAP/APP/APP-083.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-083.txt",
+      "sha256": "452304a7b938fb2335ee327a4365dc15c4f6aa075103868b4fe6ccfa25b6fa53",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 5488
+    },
+    {
+      "source": "PNAP/APP/APP-084.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-084.txt",
+      "sha256": "3b4cf51607a129da3c051b99ee7c90af1928ea90fec33619ed4ea3e9ece68067",
+      "status": "ok",
+      "pages": 13,
+      "empty_pages": [],
+      "characters": 34395
+    },
+    {
+      "source": "PNAP/APP/APP-085.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-085.txt",
+      "sha256": "867e9b62b6ac1dd82245ed1a5d382dbbfd21a3c43d1e6adaa57a498de401c1da",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4511
+    },
+    {
+      "source": "PNAP/APP/APP-086.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-086.txt",
+      "sha256": "df5b9253dd6b93b3c0fa9c11e8a5d9da32925449cc987d47dacc543c8052e3de",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 2522
+    },
+    {
+      "source": "PNAP/APP/APP-087.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-087.txt",
+      "sha256": "a1a243c8e14d32e77cd4af1cc8e11f916c98c0b560097ea98638bcbf68012ee9",
+      "status": "ok",
+      "pages": 7,
+      "empty_pages": [],
+      "characters": 16215
+    },
+    {
+      "source": "PNAP/APP/APP-088.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-088.txt",
+      "sha256": "b945ee03056257864de31227a3016af21fa5b3b571ec265bef27921d51840b3d",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2578
+    },
+    {
+      "source": "PNAP/APP/APP-089.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-089.txt",
+      "sha256": "e086324f5ca6fb58b0643f32e810e2f2dc60392311acc67fc27eba1c54700f1c",
+      "status": "ok",
+      "pages": 6,
+      "empty_pages": [],
+      "characters": 13100
+    },
+    {
+      "source": "PNAP/APP/APP-090.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-090.txt",
+      "sha256": "a59f31fd507e029f3dc866d707f23c35539572c5adfa7cdcc3430295717a0ab8",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4000
+    },
+    {
+      "source": "PNAP/APP/APP-091.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-091.txt",
+      "sha256": "0162ae1c50176407a56f8d98e84dd0c2ac72aea90212ae34cb4d0efa97ecf850",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 5082
+    },
+    {
+      "source": "PNAP/APP/APP-092.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-092.txt",
+      "sha256": "62519efda199704e0c7492fcbb4df4d268dff3eee329dd0c8e39d5ab60bd6b4b",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2019
+    },
+    {
+      "source": "PNAP/APP/APP-093.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-093.txt",
+      "sha256": "94660f08d6e42efa8b9abfc7415394848c9373741ef749d01cd420a230bcf165",
+      "status": "ok",
+      "pages": 14,
+      "empty_pages": [],
+      "characters": 26593
+    },
+    {
+      "source": "PNAP/APP/APP-094.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-094.txt",
+      "sha256": "b43793943f6196da27c5c196927bf1ace2f6354516a114520437364e40e6ccee",
+      "status": "review_empty_pages",
+      "pages": 8,
+      "empty_pages": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "characters": 9047
+    },
+    {
+      "source": "PNAP/APP/APP-095.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-095.txt",
+      "sha256": "7274ffba4d283540e35564f8569644c28570870c446c22da89f2c87e093a3c9f",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 3695
+    },
+    {
+      "source": "PNAP/APP/APP-096.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-096.txt",
+      "sha256": "9ce2c111dc709fd8033093ebff732d93db25ae70fb26d0f6bc028568677ff241",
+      "status": "ok",
+      "pages": 10,
+      "empty_pages": [],
+      "characters": 24735
+    },
+    {
+      "source": "PNAP/APP/APP-097.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-097.txt",
+      "sha256": "3604bea4b5fa5637fb8e7b26aed7526115cb5657602ee17db752f7346204a7fb",
+      "status": "ok",
+      "pages": 7,
+      "empty_pages": [],
+      "characters": 16179
+    },
+    {
+      "source": "PNAP/APP/APP-098.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-098.txt",
+      "sha256": "23e159f8df1a72934e26e896c705fcc2526ab5ce5c0daae7cb39b3ed2d187763",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4975
+    },
+    {
+      "source": "PNAP/APP/APP-099.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-099.txt",
+      "sha256": "f4948c74d67a586502bf94645e6639041ae7261e7da07b144a520922a1651f68",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2353
+    },
+    {
+      "source": "PNAP/APP/APP-100.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-100.txt",
+      "sha256": "f227b253dad71829e0486c0b54842f752c16bafd65f782129146be324841449e",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 5773
+    },
+    {
+      "source": "PNAP/APP/APP-101.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-101.txt",
+      "sha256": "2ea783a447896cc41480268b8c725ba9b9b4b342723c523e8d96d31cf17ee790",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2248
+    },
+    {
+      "source": "PNAP/APP/APP-104.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-104.txt",
+      "sha256": "225c2900ccb819bc3b898731ff6bffa1056c4608a0c6201349bb136dbae83e67",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 8842
+    },
+    {
+      "source": "PNAP/APP/APP-105.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-105.txt",
+      "sha256": "0b4787a543a039fbe1a29615179df3378ecafeec98228982f76c5cc9fdafb9aa",
+      "status": "ok",
+      "pages": 23,
+      "empty_pages": [],
+      "characters": 46248
+    },
+    {
+      "source": "PNAP/APP/APP-106.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-106.txt",
+      "sha256": "d7e2766ed520f2501cf17e45dae8e156ebcee99d56d282c7a6960a3da45bfdd4",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2147
+    },
+    {
+      "source": "PNAP/APP/APP-107.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-107.txt",
+      "sha256": "843f1e640fb765d484b39e8c3acbc9a63771e35991daa185083e4f5136ca2e4e",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 1892
+    },
+    {
+      "source": "PNAP/APP/APP-108.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-108.txt",
+      "sha256": "2701be0ad552eb6f68cf1cfc9a59eefbe90077757e8185ed7fb6cd023c5549c2",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 7126
+    },
+    {
+      "source": "PNAP/APP/APP-109.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-109.txt",
+      "sha256": "67adf73fa9ea7a918238c6881b5d9b3ec113eeca8d79b51b5a708bba6db703b4",
+      "status": "ok",
+      "pages": 13,
+      "empty_pages": [],
+      "characters": 31419
+    },
+    {
+      "source": "PNAP/APP/APP-110.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-110.txt",
+      "sha256": "1881d609435e44f2cbb21219ad0bb5dea995f5d26831fdc8f3b0c81f21153903",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 7992
+    },
+    {
+      "source": "PNAP/APP/APP-111.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-111.txt",
+      "sha256": "1903a4ff898d78d9b88884173a8db231a675cb26cb90ac0c3454fc0ea4ecde60",
+      "status": "ok",
+      "pages": 6,
+      "empty_pages": [],
+      "characters": 14369
+    },
+    {
+      "source": "PNAP/APP/APP-112.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-112.txt",
+      "sha256": "f024813ffb0689e0005c3afcf6f3c6a15ea22dc519143699756c04f745604e0f",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 1241
+    },
+    {
+      "source": "PNAP/APP/APP-114.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-114.txt",
+      "sha256": "8e971df1b4ce76142413d819beb7125677e8e5916bb24e02897340eb680d8900",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4946
+    },
+    {
+      "source": "PNAP/APP/APP-115.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-115.txt",
+      "sha256": "3bcaaccca393c2145cdb4b42a98149343efde7ace708154740aee65c67a24a7d",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 4735
+    },
+    {
+      "source": "PNAP/APP/APP-116.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-116.txt",
+      "sha256": "ea493d42fda59cd29590072d7028f77836d7bcc16c12a9545a9b5949518f14ee",
+      "status": "ok",
+      "pages": 7,
+      "empty_pages": [],
+      "characters": 11865
+    },
+    {
+      "source": "PNAP/APP/APP-117.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-117.txt",
+      "sha256": "fd2f446e3d59e8330aedf4bdee0cb869d5400f723e0b5c750711934678719209",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4891
+    },
+    {
+      "source": "PNAP/APP/APP-118.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-118.txt",
+      "sha256": "bc5bde689658335ad252032591ad7d7d9e14ad492e63017d4ff6dfa32ee2097b",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 4475
+    },
+    {
+      "source": "PNAP/APP/APP-119.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-119.txt",
+      "sha256": "2785b0ba0774d4a21b148717fb929101cae326f20839957365b1a5829bd349b3",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2223
+    },
+    {
+      "source": "PNAP/APP/APP-120.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-120.txt",
+      "sha256": "c1aa4e49d556adda4156f76ce29daada6b4b078313378fa17e1f0b0be78b066e",
+      "status": "ok",
+      "pages": 7,
+      "empty_pages": [],
+      "characters": 9925
+    },
+    {
+      "source": "PNAP/APP/APP-121.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-121.txt",
+      "sha256": "39db4f326acdd81c8fe752ce855837925cd212cdcc7fddfa78dd243d34e5ebae",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 1463
+    },
+    {
+      "source": "PNAP/APP/APP-122.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-122.txt",
+      "sha256": "47a4208a1ba55babb280e50c21038fc6d4259b20d70bcfc4243bb09cefc94ca8",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 7795
+    },
+    {
+      "source": "PNAP/APP/APP-123.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-123.txt",
+      "sha256": "0d3d87cf7d303a84dcaf006ddfb0df9cd56157e6e37b8ecb5e28b525a6e7c70b",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 1706
+    },
+    {
+      "source": "PNAP/APP/APP-124.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-124.txt",
+      "sha256": "10a9974e94516c539a29ec848196a1ec8c1537e4133d84d5bbb97b9df241cfdd",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 7539
+    },
+    {
+      "source": "PNAP/APP/APP-125.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-125.txt",
+      "sha256": "e4e5ed5cb2ea1454c998e34379d88bc153a92638fbec9cc8c9713affc83184d3",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2451
+    },
+    {
+      "source": "PNAP/APP/APP-126.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-126.txt",
+      "sha256": "b20b45b90db7a0965919c27d9c6b15323a574d1ca068f5acd8671f61acb62941",
+      "status": "ok",
+      "pages": 46,
+      "empty_pages": [],
+      "characters": 79139
+    },
+    {
+      "source": "PNAP/APP/APP-127.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-127.txt",
+      "sha256": "4db83f79c8282d6d0a0e29a7f9c0483c6f7c1ff8ffbd8a0819c13c7095ff7ecf",
+      "status": "ok",
+      "pages": 8,
+      "empty_pages": [],
+      "characters": 16113
+    },
+    {
+      "source": "PNAP/APP/APP-128.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-128.txt",
+      "sha256": "fdb65117787010bca3531307a1e64e987c2e1306a5fa5ad6c7acfbb6f6c002b9",
+      "status": "ok",
+      "pages": 5,
+      "empty_pages": [],
+      "characters": 11647
+    },
+    {
+      "source": "PNAP/APP/APP-129.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-129.txt",
+      "sha256": "7966ed76012a91b6c369e3a4d21f2aa1dbb99c3f4fa5b1121d147a17893d096d",
+      "status": "ok",
+      "pages": 9,
+      "empty_pages": [],
+      "characters": 17398
+    },
+    {
+      "source": "PNAP/APP/APP-130.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-130.txt",
+      "sha256": "8c4ac9d8849ba2106808570db553d3b74f67dd64d84922c43d5c60aaf0ac8489",
+      "status": "ok",
+      "pages": 34,
+      "empty_pages": [],
+      "characters": 59716
+    },
+    {
+      "source": "PNAP/APP/APP-132.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-132.txt",
+      "sha256": "e209ffcbffea3406f8ea8e30c8fc1f54f5c90337dda704863d758c4b3bc4d1f3",
+      "status": "ok",
+      "pages": 6,
+      "empty_pages": [],
+      "characters": 13834
+    },
+    {
+      "source": "PNAP/APP/APP-133.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-133.txt",
+      "sha256": "4388a995458842cb8485eb04622ae88f9a38064fc92e62dcb7cf440c9729125a",
+      "status": "ok",
+      "pages": 1,
+      "empty_pages": [],
+      "characters": 2763
+    },
+    {
+      "source": "PNAP/APP/APP-134.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-134.txt",
+      "sha256": "3b81e1ff30789c976f5a8e51c5579639d8f24096fc2703243fcd0ba290fe9277",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 7518
+    },
+    {
+      "source": "PNAP/APP/APP-135.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-135.txt",
+      "sha256": "ed1d236a4733494f7b28a3f7ff8dd4b020910da13d48ae3e60b8fcdd646bd22a",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 5866
+    },
+    {
+      "source": "PNAP/APP/APP-136.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-136.txt",
+      "sha256": "b00502d62ba2172e563c08f2c0cdbac3a4a6df72f5d74ff182715f26883112af",
+      "status": "ok",
+      "pages": 5,
+      "empty_pages": [],
+      "characters": 9964
+    },
+    {
+      "source": "PNAP/APP/APP-137.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-137.txt",
+      "sha256": "6f42619c2bb0a9dbb96821036fb7cd6dd8beb20f129d6ca4e5fc57b286c55047",
+      "status": "ok",
+      "pages": 8,
+      "empty_pages": [],
+      "characters": 21455
+    },
+    {
+      "source": "PNAP/APP/APP-138.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-138.txt",
+      "sha256": "74c672318e888bb5d9c7e65c3278ad5bcb5699c19ef1a6616c9a3cef1a3afc2f",
+      "status": "ok",
+      "pages": 5,
+      "empty_pages": [],
+      "characters": 11049
+    },
+    {
+      "source": "PNAP/APP/APP-139.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-139.txt",
+      "sha256": "b00cc6d73688bd0a6b83c648340e7c6fbedfb41f5a13b3802981e03cf9e74644",
+      "status": "ok",
+      "pages": 17,
+      "empty_pages": [],
+      "characters": 29219
+    },
+    {
+      "source": "PNAP/APP/APP-140.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-140.txt",
+      "sha256": "fdc219f6a8e1283b1436f928d68c8a408fd023382857a6c424d7e1a94220c568",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 5232
+    },
+    {
+      "source": "PNAP/APP/APP-141.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-141.txt",
+      "sha256": "05d6ea3feebce37c230641709428e0a9357cccd88da935844541665b0da27574",
+      "status": "ok",
+      "pages": 17,
+      "empty_pages": [],
+      "characters": 81282
+    },
+    {
+      "source": "PNAP/APP/APP-142.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-142.txt",
+      "sha256": "fd928c66bd4adb6006ec872abf9d01bee1c446948fb5bb60d8efe05460d76994",
+      "status": "ok",
+      "pages": 30,
+      "empty_pages": [],
+      "characters": 67720
+    },
+    {
+      "source": "PNAP/APP/APP-143.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-143.txt",
+      "sha256": "05c974504d3759a8c734d1b55c4d02e7c7be9c13e0a9b28cd11a0097b5cdc3dc",
+      "status": "ok",
+      "pages": 13,
+      "empty_pages": [],
+      "characters": 33513
+    },
+    {
+      "source": "PNAP/APP/APP-144.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-144.txt",
+      "sha256": "87727d4cb3bd11da0034d697e7f9c074a45979f3245f3025fb4635976ef8c2ab",
+      "status": "review_empty_pages",
+      "pages": 16,
+      "empty_pages": [
+        8,
+        9,
+        10,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "characters": 10942
+    },
+    {
+      "source": "PNAP/APP/APP-145.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-145.txt",
+      "sha256": "dc3262cc55c5fd79d29f337fd811cdd871543f59d795972d9f30f558e313127c",
+      "status": "ok",
+      "pages": 5,
+      "empty_pages": [],
+      "characters": 9661
+    },
+    {
+      "source": "PNAP/APP/APP-146.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-146.txt",
+      "sha256": "60127b85a99b2a2931975ced68200cc0c468744c8d0df30a2e94e287dcd8a61e",
+      "status": "ok",
+      "pages": 7,
+      "empty_pages": [],
+      "characters": 15768
+    },
+    {
+      "source": "PNAP/APP/APP-147.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-147.txt",
+      "sha256": "95755fe9d009688a3de1727fa5c7c064188b39b222040b896f282363734709da",
+      "status": "ok",
+      "pages": 17,
+      "empty_pages": [],
+      "characters": 37200
+    },
+    {
+      "source": "PNAP/APP/APP-148.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-148.txt",
+      "sha256": "164e5bc82f9b97d06e50280be1dd71caaff8ba8f603736b7dbeb2277dceef381",
+      "status": "ok",
+      "pages": 6,
+      "empty_pages": [],
+      "characters": 12654
+    },
+    {
+      "source": "PNAP/APP/APP-149.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-149.txt",
+      "sha256": "a5b4d5a1af5f4a32b43973db33d95436f9390e8e2da77747ee666015077bb1a8",
+      "status": "ok",
+      "pages": 5,
+      "empty_pages": [],
+      "characters": 11835
+    },
+    {
+      "source": "PNAP/APP/APP-150.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-150.txt",
+      "sha256": "effb622d6ae1cfe5603328df2dfd85b1eebe77bd437fe09b7b3207f1e283a9b5",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 7026
+    },
+    {
+      "source": "PNAP/APP/APP-151.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-151.txt",
+      "sha256": "34e92ffe7431d143aa3d9670ebf0af6aca85a4c1c50442ca59f34c9bed544118",
+      "status": "ok",
+      "pages": 59,
+      "empty_pages": [],
+      "characters": 100762
+    },
+    {
+      "source": "PNAP/APP/APP-152.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-152.txt",
+      "sha256": "b3d7d054f6f4e9ec627e5c976d5cdf11afe7141801c5c4c2e59196d8a4260cef",
+      "status": "ok",
+      "pages": 44,
+      "empty_pages": [],
+      "characters": 85812
+    },
+    {
+      "source": "PNAP/APP/APP-153.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-153.txt",
+      "sha256": "b4def90175159eddd477e5ba2ad0a2c595e2f1f6d615b8e6f5622f54c159af1c",
+      "status": "ok",
+      "pages": 86,
+      "empty_pages": [],
+      "characters": 176318
+    },
+    {
+      "source": "PNAP/APP/APP-154.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-154.txt",
+      "sha256": "a0bd776c3a0db6f28e9e60f6369d50cfbf9958cecef29e7cc376c439bc608529",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 6480
+    },
+    {
+      "source": "PNAP/APP/APP-155.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-155.txt",
+      "sha256": "f8187f72d23c61464dc292ab6d70209bb2ac11655ebbfc8b2526e618156e8de4",
+      "status": "ok",
+      "pages": 24,
+      "empty_pages": [],
+      "characters": 41688
+    },
+    {
+      "source": "PNAP/APP/APP-156.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-156.txt",
+      "sha256": "61bb16584f2a7df6f7161cf87dbf86bfc9e5cdc6572e6a878ce1c2b643b9b7cc",
+      "status": "ok",
+      "pages": 7,
+      "empty_pages": [],
+      "characters": 19340
+    },
+    {
+      "source": "PNAP/APP/APP-157.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-157.txt",
+      "sha256": "93f706ea9e8fd18536097b6ec0452400778779a9422becfdcb44a468efdfe91e",
+      "status": "ok",
+      "pages": 99,
+      "empty_pages": [],
+      "characters": 49755
+    },
+    {
+      "source": "PNAP/APP/APP-158.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-158.txt",
+      "sha256": "1a035143eae5d69748298fade5d42d6f291409840715c6d432c8806ac521ab29",
+      "status": "ok",
+      "pages": 13,
+      "empty_pages": [],
+      "characters": 33694
+    },
+    {
+      "source": "PNAP/APP/APP-159.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-159.txt",
+      "sha256": "f758f8f71c939bb28cb8b07f13c6c81846c472a8f1bc078df678a23c3165ead1",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 2712
+    },
+    {
+      "source": "PNAP/APP/APP-162.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-162.txt",
+      "sha256": "824a1d3f8198ea07903e5f75bc718fbe3db1b7c408cc581dd3811a9ebd97a5a9",
+      "status": "ok",
+      "pages": 6,
+      "empty_pages": [],
+      "characters": 16108
+    },
+    {
+      "source": "PNAP/APP/APP-163.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-163.txt",
+      "sha256": "e59312ee1741a1f2c67c48836e351cbec40755339bb3867e625bcc3e01b1c276",
+      "status": "ok",
+      "pages": 8,
+      "empty_pages": [],
+      "characters": 18397
+    },
+    {
+      "source": "PNAP/APP/APP-164.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-164.txt",
+      "sha256": "af42aafd00e67afc2abaf5601d433737a266e4797b5cc897c96d511539219b4b",
+      "status": "ok",
+      "pages": 11,
+      "empty_pages": [],
+      "characters": 14958
+    },
+    {
+      "source": "PNAP/APP/APP-165.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-165.txt",
+      "sha256": "4dae0be495bb3c7997dd28401c53d978f431f7aacb6959ff6945f172b3179cf6",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 5167
+    },
+    {
+      "source": "PNAP/APP/APP-166.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-166.txt",
+      "sha256": "370aa1f5760b20b190b523c13b27181184f4feec1e9d2d9c637f76454e6dd977",
+      "status": "ok",
+      "pages": 3,
+      "empty_pages": [],
+      "characters": 6552
+    },
+    {
+      "source": "PNAP/APP/APP-167.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-167.txt",
+      "sha256": "220f9cb922e34daa02fb05938d3c46488c68c5dbbfb9645d7ae15f9e86e06f9b",
+      "status": "ok",
+      "pages": 5,
+      "empty_pages": [],
+      "characters": 10141
+    },
+    {
+      "source": "PNAP/APP/APP-168.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-168.txt",
+      "sha256": "006094583ce6125f6965c21d8677de68807e7b5155747dd1d3148906e731c67f",
+      "status": "ok",
+      "pages": 21,
+      "empty_pages": [],
+      "characters": 55905
+    },
+    {
+      "source": "PNAP/APP/APP-169.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-169.txt",
+      "sha256": "0040bf245d1c09e73c7f8c5174e79a9b7c000b05e094cec6147fcebddfd435a3",
+      "status": "ok",
+      "pages": 12,
+      "empty_pages": [],
+      "characters": 26715
+    },
+    {
+      "source": "PNAP/APP/APP-170.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-170.txt",
+      "sha256": "da4d7728f2f6cf31391f9f45937fe0eeaf6f736b97040dec0993ce7b53c902aa",
+      "status": "ok",
+      "pages": 41,
+      "empty_pages": [],
+      "characters": 147404
+    },
+    {
+      "source": "PNAP/APP/APP-171.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-171.txt",
+      "sha256": "11e4a09c9b08a1b00c233eb24e3c73812da5e17f6f71583b6c1ca25c8e836621",
+      "status": "ok",
+      "pages": 10,
+      "empty_pages": [],
+      "characters": 14216
+    },
+    {
+      "source": "PNAP/APP/APP-172.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-172.txt",
+      "sha256": "b3eddcdaafc9b44adcfdd97a48a087bb5f91a3205d3b7b826f30448c2afa8f91",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 5200
+    },
+    {
+      "source": "PNAP/APP/APP-173.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-173.txt",
+      "sha256": "5cb406776cd609b3a9bbaa934bc8ddc42bf870891dbc65132a8524b6ae84610a",
+      "status": "ok",
+      "pages": 5,
+      "empty_pages": [],
+      "characters": 11285
+    },
+    {
+      "source": "PNAP/APP/APP-174.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-174.txt",
+      "sha256": "75f64fdc5f0ccd385c26e454d3664ca4b22084da2e6f54cf643d46d2d1be5a0e",
+      "status": "ok",
+      "pages": 12,
+      "empty_pages": [],
+      "characters": 26511
+    },
+    {
+      "source": "PNAP/APP/APP-175.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-175.txt",
+      "sha256": "d579f7a443347052e2ab89f67451a54f86a2e3b583c217c35277e6df1747bd0b",
+      "status": "ok",
+      "pages": 5,
+      "empty_pages": [],
+      "characters": 10520
+    },
+    {
+      "source": "PNAP/APP/APP-176.pdf",
+      "text_file": "indexed_text/PNAP/APP/APP-176.txt",
+      "sha256": "bd3c00db52e0c2840db6a84cc293ba414fdb034817677f760490979fe6a87415",
+      "status": "ok",
+      "pages": 2,
+      "empty_pages": [],
+      "characters": 5861
+    }
+  ]
+}
