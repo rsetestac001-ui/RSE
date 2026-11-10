@@ -10,8 +10,8 @@ import json
 import re
 import shutil
 import sqlite3
+import subprocess
 import tempfile
-import urllib.request
 import xml.etree.ElementTree as ET
 import zipfile
 from datetime import datetime, timezone
@@ -61,8 +61,11 @@ def refresh(archives):
             if not archive:
                 archive = stage / (lang+'.zip')
                 print('Downloading', FEED.format(lang), flush=True)
-                with urllib.request.urlopen(FEED.format(lang), timeout=180) as response, open(archive,'wb') as out:
-                    shutil.copyfileobj(response, out)
+                subprocess.run(['curl', '--fail', '--location', '--silent', '--show-error',
+                                '--retry', '3', '--retry-all-errors', '--max-time', '180',
+                                '--user-agent', 'Mozilla/5.0 (compatible; RSE-legislation-index/1.0)',
+                                '--referer', manifest['dataset'],
+                                '--output', str(archive), FEED.format(lang)], check=True)
             with zipfile.ZipFile(archive) as z:
                 names = {n.replace('\\','/'):n for n in z.namelist()}
                 for cap in CAPS:
