@@ -1,0 +1,102 @@
+{
+  "documents": 224,
+  "pages": 1995,
+  "empty_pages": [
+    {
+      "file": "PNAP/ADM/ADM-02.txt",
+      "page": 39
+    },
+    {
+      "file": "PNAP/ADV/ADV-033.txt",
+      "page": 110
+    },
+    {
+      "file": "PNAP/ADV/ADV-033.txt",
+      "page": 111
+    },
+    {
+      "file": "PNAP/ADV/ADV-033.txt",
+      "page": 112
+    },
+    {
+      "file": "PNAP/ADV/ADV-033.txt",
+      "page": 114
+    },
+    {
+      "file": "PNAP/ADV/ADV-033.txt",
+      "page": 115
+    },
+    {
+      "file": "PNAP/APP/APP-018.txt",
+      "page": 9
+    },
+    {
+      "file": "PNAP/APP/APP-046.txt",
+      "page": 3
+    },
+    {
+      "file": "PNAP/APP/APP-046.txt",
+      "page": 4
+    },
+    {
+      "file": "PNAP/APP/APP-058.txt",
+      "page": 2
+    },
+    {
+      "file": "PNAP/APP/APP-058.txt",
+      "page": 3
+    },
+    {
+      "file": "PNAP/APP/APP-094.txt",
+      "page": 5
+    },
+    {
+      "file": "PNAP/APP/APP-094.txt",
+      "page": 6
+    },
+    {
+      "file": "PNAP/APP/APP-094.txt",
+      "page": 7
+    },
+    {
+      "file": "PNAP/APP/APP-094.txt",
+      "page": 8
+    },
+    {
+      "file": "PNAP/APP/APP-144.txt",
+      "page": 8
+    },
+    {
+      "file": "PNAP/APP/APP-144.txt",
+      "page": 9
+    },
+    {
+      "file": "PNAP/APP/APP-144.txt",
+      "page": 10
+    },
+    {
+      "file": "PNAP/APP/APP-144.txt",
+      "page": 12
+    },
+    {
+      "file": "PNAP/APP/APP-144.txt",
+      "page": 13
+    },
+    {
+      "file": "PNAP/APP/APP-144.txt",
+      "page": 14
+    },
+    {
+      "file": "PNAP/APP/APP-144.txt",
+      "page": 15
+    },
+    {
+      "file": "PNAP/APP/APP-144.txt",
+      "page": 16
+    }
+  ],
+  "errors": [],
+  "manifest_documents": 224,
+  "manifest_failed": 0,
+  "manifest_needs_review": 7
+}
