@@ -2,7 +2,7 @@ name: Download official PNAP APP and ADV PDFs
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 3 1 * *'
+    - cron: '45 3 * * *'
 permissions:
   contents: write
 jobs:
