@@ -1,0 +1,30 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s15",
+  "kind": "section",
+  "role": "section",
+  "heading": "Approval and consent deemed to be given unless refusal notified",
+  "context": [
+    "Control of Building"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402641763_002",
+  "content": "15.\nApproval and consent deemed to be given unless refusal notified\n(1)\nWhere an application is made in the specified form for the Building Authority to approve plans or to consent to the commencement of building works or street works, he shall be deemed to have given his approval or consent, as the case may be, unless within the period prescribed by the regulations he has notified his refusal to give his approval or consent, as the case may be, in writing setting out the grounds for such refusal, and where one of such grounds is that further particulars and plans are required, he shall specify such plans and particulars.\n(Amended 68 of 1993 s. 7)\n(2)\nThe grounds set out for any refusal to approve plans shall not be treated as being exhaustive, and no such refusal shall be construed as implying any approval of any part of such plans.\n(Added 44 of 1959 s. 4)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s15_1",
+      "content": "(1)\nWhere an application is made in the specified form for the Building Authority to approve plans or to consent to the commencement of building works or street works, he shall be deemed to have given his approval or consent, as the case may be, unless within the period prescribed by the regulations he has notified his refusal to give his approval or consent, as the case may be, in writing setting out the grounds for such refusal, and where one of such grounds is that further particulars and plans are required, he shall specify such plans and particulars.\n(Amended 68 of 1993 s. 7)"
+    },
+    {
+      "identifier": "s15_2",
+      "content": "(2)\nThe grounds set out for any refusal to approve plans shall not be treated as being exhaustive, and no such refusal shall be construed as implying any approval of any part of such plans."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s15.json"
+}

@@ -1,0 +1,3684 @@
+{
+  "documents": [
+    {
+      "chapter": "123",
+      "language": "en",
+      "version_date": "2026-03-01",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_en.zip",
+      "archive_member": "cap_123_en_c/cap_123_20260301000000_en_c.xml",
+      "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+      "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+      "files": [
+        {
+          "path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+          "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+          "bytes": 795667
+        }
+      ],
+      "full_text_path": "legislation/text/cap123/en.txt",
+      "provisions": [
+        {
+          "id": "s1",
+          "heading": "Short title",
+          "path": "legislation/provisions/cap123/en/s1.json"
+        },
+        {
+          "id": "s2",
+          "heading": "Interpretation",
+          "path": "legislation/provisions/cap123/en/s2.json"
+        },
+        {
+          "id": "s2A",
+          "heading": "Designation of specialized works",
+          "path": "legislation/provisions/cap123/en/s2A.json"
+        },
+        {
+          "id": "s3",
+          "heading": "Registers of authorized persons, structural engineers, geotechnical engineers and\ninspectors",
+          "path": "legislation/provisions/cap123/en/s3.json"
+        },
+        {
+          "id": "s4",
+          "heading": "Appointment and duties of authorized person, registered structural engineer or registered geotechnical engineer",
+          "path": "legislation/provisions/cap123/en/s4.json"
+        },
+        {
+          "id": "s4A",
+          "heading": "Appointment of prescribed building professionals: minor works commenced or carried out without approval and consent",
+          "path": "legislation/provisions/cap123/en/s4A.json"
+        },
+        {
+          "id": "s4B",
+          "heading": "Duties of prescribed building professional appointed or nominated in respect of minor works commenced under simplified requirements",
+          "path": "legislation/provisions/cap123/en/s4B.json"
+        },
+        {
+          "id": "s5",
+          "heading": "Appointment and powers of disciplinary board",
+          "path": "legislation/provisions/cap123/en/s5.json"
+        },
+        {
+          "id": "s5A",
+          "heading": "Authorized Persons’, Registered Structural Engineers’ and Registered Geotechnical\nEngineers’ Disciplinary Board Panel and Registered Inspectors’ Disciplinary Board\nPanel",
+          "path": "legislation/provisions/cap123/en/s5A.json"
+        },
+        {
+          "id": "s5AA",
+          "heading": "Secretary to the disciplinary board",
+          "path": "legislation/provisions/cap123/en/s5AA.json"
+        },
+        {
+          "id": "s6",
+          "heading": "",
+          "path": "legislation/provisions/cap123/en/s6.json"
+        },
+        {
+          "id": "s7",
+          "heading": "Disciplinary proceedings for authorized person, registered structural engineer,\nregistered geotechnical engineer or registered\ninspector",
+          "path": "legislation/provisions/cap123/en/s7.json"
+        },
+        {
+          "id": "s8",
+          "heading": "Contractors Registration Committee",
+          "path": "legislation/provisions/cap123/en/s8.json"
+        },
+        {
+          "id": "s8A",
+          "heading": "Registers of contractors, etc.",
+          "path": "legislation/provisions/cap123/en/s8A.json"
+        },
+        {
+          "id": "s8B",
+          "heading": "Application for registration as a contractor",
+          "path": "legislation/provisions/cap123/en/s8B.json"
+        },
+        {
+          "id": "s8C",
+          "heading": "Renewal of registration as a contractor",
+          "path": "legislation/provisions/cap123/en/s8C.json"
+        },
+        {
+          "id": "s8D",
+          "heading": "Restoring name to register of contractors",
+          "path": "legislation/provisions/cap123/en/s8D.json"
+        },
+        {
+          "id": "s8E",
+          "heading": "Building Authority to give reasons",
+          "path": "legislation/provisions/cap123/en/s8E.json"
+        },
+        {
+          "id": "s8F",
+          "heading": "Effective dates",
+          "path": "legislation/provisions/cap123/en/s8F.json"
+        },
+        {
+          "id": "s8G",
+          "heading": "",
+          "path": "legislation/provisions/cap123/en/s8G.json"
+        },
+        {
+          "id": "s9",
+          "heading": "Appointment and duties of registered contractors",
+          "path": "legislation/provisions/cap123/en/s9.json"
+        },
+        {
+          "id": "s9AA",
+          "heading": "Appointment and duties of prescribed registered contractors: minor works",
+          "path": "legislation/provisions/cap123/en/s9AA.json"
+        },
+        {
+          "id": "s9A",
+          "heading": "Appeals from Registration Committees",
+          "path": "legislation/provisions/cap123/en/s9A.json"
+        },
+        {
+          "id": "s10",
+          "heading": "",
+          "path": "legislation/provisions/cap123/en/s10.json"
+        },
+        {
+          "id": "s11",
+          "heading": "Appointment and powers of disciplinary board",
+          "path": "legislation/provisions/cap123/en/s11.json"
+        },
+        {
+          "id": "s11A",
+          "heading": "Contractors’ Disciplinary Board Panel",
+          "path": "legislation/provisions/cap123/en/s11A.json"
+        },
+        {
+          "id": "s11AA",
+          "heading": "Secretary to the disciplinary board",
+          "path": "legislation/provisions/cap123/en/s11AA.json"
+        },
+        {
+          "id": "s12",
+          "heading": "",
+          "path": "legislation/provisions/cap123/en/s12.json"
+        },
+        {
+          "id": "s13",
+          "heading": "Disciplinary proceedings for contractors",
+          "path": "legislation/provisions/cap123/en/s13.json"
+        },
+        {
+          "id": "s13A",
+          "heading": "Appeal against Building Authority’s decision",
+          "path": "legislation/provisions/cap123/en/s13A.json"
+        },
+        {
+          "id": "s14",
+          "heading": "Approval and consent required for commencement of building works, etc.",
+          "path": "legislation/provisions/cap123/en/s14.json"
+        },
+        {
+          "id": "s14A",
+          "heading": "Building Authority not deemed to consent if supervision plan not lodged",
+          "path": "legislation/provisions/cap123/en/s14A.json"
+        },
+        {
+          "id": "s14AA",
+          "heading": "Approval and consent not required for minor works",
+          "path": "legislation/provisions/cap123/en/s14AA.json"
+        },
+        {
+          "id": "s15",
+          "heading": "Approval and consent deemed to be given unless refusal notified",
+          "path": "legislation/provisions/cap123/en/s15.json"
+        },
+        {
+          "id": "s16",
+          "heading": "Grounds on which approval or consent may be refused",
+          "path": "legislation/provisions/cap123/en/s16.json"
+        },
+        {
+          "id": "s17",
+          "heading": "Conditions may be imposed in certain cases",
+          "path": "legislation/provisions/cap123/en/s17.json"
+        },
+        {
+          "id": "s17A",
+          "heading": "Incompatibility with sewage tunnel works",
+          "path": "legislation/provisions/cap123/en/s17A.json"
+        },
+        {
+          "id": "s18",
+          "heading": "Authority to erect shoring in certain cases",
+          "path": "legislation/provisions/cap123/en/s18.json"
+        },
+        {
+          "id": "s18A",
+          "heading": "Claims for compensation",
+          "path": "legislation/provisions/cap123/en/s18A.json"
+        },
+        {
+          "id": "s19",
+          "heading": "Provision for urgent work",
+          "path": "legislation/provisions/cap123/en/s19.json"
+        },
+        {
+          "id": "s20",
+          "heading": "Resumption of work suspended",
+          "path": "legislation/provisions/cap123/en/s20.json"
+        },
+        {
+          "id": "s21",
+          "heading": "Occupation of new building",
+          "path": "legislation/provisions/cap123/en/s21.json"
+        },
+        {
+          "id": "s22",
+          "heading": "Powers of Building Authority",
+          "path": "legislation/provisions/cap123/en/s22.json"
+        },
+        {
+          "id": "s23",
+          "heading": "Building works, etc. to cease on order of Building Authority",
+          "path": "legislation/provisions/cap123/en/s23.json"
+        },
+        {
+          "id": "s24",
+          "heading": "Order for demolition, removal, or alteration of building, building works (other\nthan minor works commenced under simplified requirements) or street\nworks",
+          "path": "legislation/provisions/cap123/en/s24.json"
+        },
+        {
+          "id": "s24A",
+          "heading": "Order to cease or remedy dangerous works",
+          "path": "legislation/provisions/cap123/en/s24A.json"
+        },
+        {
+          "id": "s24AA",
+          "heading": "Order for demolition, removal, or alteration of minor works commenced under\nsimplified requirements",
+          "path": "legislation/provisions/cap123/en/s24AA.json"
+        },
+        {
+          "id": "s24B",
+          "heading": "Priority demolition",
+          "path": "legislation/provisions/cap123/en/s24B.json"
+        },
+        {
+          "id": "s24C",
+          "heading": "Notice for demolition or alteration of building or building works",
+          "path": "legislation/provisions/cap123/en/s24C.json"
+        },
+        {
+          "id": "s25",
+          "heading": "Change in use of buildings",
+          "path": "legislation/provisions/cap123/en/s25.json"
+        },
+        {
+          "id": "s26",
+          "heading": "Dangerous buildings",
+          "path": "legislation/provisions/cap123/en/s26.json"
+        },
+        {
+          "id": "s26A",
+          "heading": "Defective buildings",
+          "path": "legislation/provisions/cap123/en/s26A.json"
+        },
+        {
+          "id": "s27",
+          "heading": "Closure Order",
+          "path": "legislation/provisions/cap123/en/s27.json"
+        },
+        {
+          "id": "s27A",
+          "heading": "Dangerous hillsides, etc.",
+          "path": "legislation/provisions/cap123/en/s27A.json"
+        },
+        {
+          "id": "s27B",
+          "heading": "Danger to buildings caused by abstraction of groundwater from wells",
+          "path": "legislation/provisions/cap123/en/s27B.json"
+        },
+        {
+          "id": "s27C",
+          "heading": "Water pipes, drains or sewers laid in slopes, etc.",
+          "path": "legislation/provisions/cap123/en/s27C.json"
+        },
+        {
+          "id": "s28",
+          "heading": "Drainage",
+          "path": "legislation/provisions/cap123/en/s28.json"
+        },
+        {
+          "id": "s28A",
+          "heading": "Groundwater drainage works in scheduled area",
+          "path": "legislation/provisions/cap123/en/s28A.json"
+        },
+        {
+          "id": "s28B",
+          "heading": "Authorization to carry out relevant works in case of objection etc. by persons whose property is affected",
+          "path": "legislation/provisions/cap123/en/s28B.json"
+        },
+        {
+          "id": "s28C",
+          "heading": "Magistrate’s warrant",
+          "path": "legislation/provisions/cap123/en/s28C.json"
+        },
+        {
+          "id": "s28D",
+          "heading": "Obligation to make good, and compensation for, damage",
+          "path": "legislation/provisions/cap123/en/s28D.json"
+        },
+        {
+          "id": "s29",
+          "heading": "Construction and maintenance of private streets and access roads",
+          "path": "legislation/provisions/cap123/en/s29.json"
+        },
+        {
+          "id": "s29A",
+          "heading": "Maintenance of emergency vehicular access",
+          "path": "legislation/provisions/cap123/en/s29A.json"
+        },
+        {
+          "id": "s30",
+          "heading": "Openings to or from streets",
+          "path": "legislation/provisions/cap123/en/s30.json"
+        },
+        {
+          "id": "s30A",
+          "heading": "Application",
+          "path": "legislation/provisions/cap123/en/s30A.json"
+        },
+        {
+          "id": "s30B",
+          "heading": "Obligation on owners to carry out prescribed inspection and prescribed repair in\nrespect of buildings",
+          "path": "legislation/provisions/cap123/en/s30B.json"
+        },
+        {
+          "id": "s30C",
+          "heading": "Obligation on owners to carry out prescribed inspection and prescribed repair in\nrespect of windows",
+          "path": "legislation/provisions/cap123/en/s30C.json"
+        },
+        {
+          "id": "s30D",
+          "heading": "Appointment and duties of registered inspectors",
+          "path": "legislation/provisions/cap123/en/s30D.json"
+        },
+        {
+          "id": "s30E",
+          "heading": "Appointment and duties of qualified persons",
+          "path": "legislation/provisions/cap123/en/s30E.json"
+        },
+        {
+          "id": "s30F",
+          "heading": "Duties of registered general building contractors and registered\nminor works contractors",
+          "path": "legislation/provisions/cap123/en/s30F.json"
+        },
+        {
+          "id": "s31",
+          "heading": "Projections on or over streets",
+          "path": "legislation/provisions/cap123/en/s31.json"
+        },
+        {
+          "id": "s32",
+          "heading": "Naming of streets and numbering of buildings",
+          "path": "legislation/provisions/cap123/en/s32.json"
+        },
+        {
+          "id": "s32A",
+          "heading": "Carrying out of other works and provision of services",
+          "path": "legislation/provisions/cap123/en/s32A.json"
+        },
+        {
+          "id": "s32B",
+          "heading": "Cost of abortive visit",
+          "path": "legislation/provisions/cap123/en/s32B.json"
+        },
+        {
+          "id": "s33",
+          "heading": "Recovery of costs and surcharge by Building\nAuthority",
+          "path": "legislation/provisions/cap123/en/s33.json"
+        },
+        {
+          "id": "s34",
+          "heading": "Disposal of materials resulting from works carried out by Building Authority",
+          "path": "legislation/provisions/cap123/en/s34.json"
+        },
+        {
+          "id": "s35",
+          "heading": "Service of notices and orders",
+          "path": "legislation/provisions/cap123/en/s35.json"
+        },
+        {
+          "id": "s36",
+          "heading": "",
+          "path": "legislation/provisions/cap123/en/s36.json"
+        },
+        {
+          "id": "s36A",
+          "heading": "",
+          "path": "legislation/provisions/cap123/en/s36A.json"
+        },
+        {
+          "id": "s36B",
+          "heading": "",
+          "path": "legislation/provisions/cap123/en/s36B.json"
+        },
+        {
+          "id": "s36C",
+          "heading": "Powers to make records of specified documents and copy records",
+          "path": "legislation/provisions/cap123/en/s36C.json"
+        },
+        {
+          "id": "s36D",
+          "heading": "Disposal of documents",
+          "path": "legislation/provisions/cap123/en/s36D.json"
+        },
+        {
+          "id": "s36E",
+          "heading": "Specified document records to be treated as specified documents",
+          "path": "legislation/provisions/cap123/en/s36E.json"
+        },
+        {
+          "id": "s36F",
+          "heading": "Making available specified document records to public through electronic networks",
+          "path": "legislation/provisions/cap123/en/s36F.json"
+        },
+        {
+          "id": "s36G",
+          "heading": "Issue, certification and inspection of copies, etc. of specified documents or specified document records",
+          "path": "legislation/provisions/cap123/en/s36G.json"
+        },
+        {
+          "id": "s36H",
+          "heading": "Power to certify copies, etc. of specified documents or specified document records",
+          "path": "legislation/provisions/cap123/en/s36H.json"
+        },
+        {
+          "id": "s36I",
+          "heading": "Admissibility in evidence of copies, etc.",
+          "path": "legislation/provisions/cap123/en/s36I.json"
+        },
+        {
+          "id": "s37",
+          "heading": "Limitation of public liability",
+          "path": "legislation/provisions/cap123/en/s37.json"
+        },
+        {
+          "id": "s38",
+          "heading": "Regulations",
+          "path": "legislation/provisions/cap123/en/s38.json"
+        },
+        {
+          "id": "s39",
+          "heading": "Application of new regulations",
+          "path": "legislation/provisions/cap123/en/s39.json"
+        },
+        {
+          "id": "s39A",
+          "heading": "Technical memorandum",
+          "path": "legislation/provisions/cap123/en/s39A.json"
+        },
+        {
+          "id": "s39B",
+          "heading": "Obstruction of owners’ corporation",
+          "path": "legislation/provisions/cap123/en/s39B.json"
+        },
+        {
+          "id": "s39C",
+          "heading": "Building Authority must not serve order under section 24 or notice under\nsection\n24C",
+          "path": "legislation/provisions/cap123/en/s39C.json"
+        },
+        {
+          "id": "s40",
+          "heading": "Offences",
+          "path": "legislation/provisions/cap123/en/s40.json"
+        },
+        {
+          "id": "s41",
+          "heading": "Exemptions",
+          "path": "legislation/provisions/cap123/en/s41.json"
+        },
+        {
+          "id": "s42",
+          "heading": "Building Authority’s powers of exemption",
+          "path": "legislation/provisions/cap123/en/s42.json"
+        },
+        {
+          "id": "s43",
+          "heading": "Interpretation",
+          "path": "legislation/provisions/cap123/en/s43.json"
+        },
+        {
+          "id": "s44",
+          "heading": "Appeals from decisions of Building Authority",
+          "path": "legislation/provisions/cap123/en/s44.json"
+        },
+        {
+          "id": "s45",
+          "heading": "Appeal Tribunal Panel",
+          "path": "legislation/provisions/cap123/en/s45.json"
+        },
+        {
+          "id": "s46",
+          "heading": "Secretary to the Appeal Tribunal",
+          "path": "legislation/provisions/cap123/en/s46.json"
+        },
+        {
+          "id": "s47",
+          "heading": "Notice of appeal",
+          "path": "legislation/provisions/cap123/en/s47.json"
+        },
+        {
+          "id": "s48",
+          "heading": "Appeal Tribunal",
+          "path": "legislation/provisions/cap123/en/s48.json"
+        },
+        {
+          "id": "s49",
+          "heading": "Preliminary hearing",
+          "path": "legislation/provisions/cap123/en/s49.json"
+        },
+        {
+          "id": "s50",
+          "heading": "Determination of appeal",
+          "path": "legislation/provisions/cap123/en/s50.json"
+        },
+        {
+          "id": "s51",
+          "heading": "Power to award costs",
+          "path": "legislation/provisions/cap123/en/s51.json"
+        },
+        {
+          "id": "s52",
+          "heading": "Representation",
+          "path": "legislation/provisions/cap123/en/s52.json"
+        },
+        {
+          "id": "s53",
+          "heading": "Inspection",
+          "path": "legislation/provisions/cap123/en/s53.json"
+        },
+        {
+          "id": "s53A",
+          "heading": "Immunity",
+          "path": "legislation/provisions/cap123/en/s53A.json"
+        },
+        {
+          "id": "s53B",
+          "heading": "Offences in respect of Appeal Tribunal",
+          "path": "legislation/provisions/cap123/en/s53B.json"
+        },
+        {
+          "id": "s53C",
+          "heading": "Case stated",
+          "path": "legislation/provisions/cap123/en/s53C.json"
+        },
+        {
+          "id": "s53D",
+          "heading": "Chairman’s power to determine procedure",
+          "path": "legislation/provisions/cap123/en/s53D.json"
+        },
+        {
+          "id": "s53E",
+          "heading": "Interpretation",
+          "path": "legislation/provisions/cap123/en/s53E.json"
+        },
+        {
+          "id": "s53F",
+          "heading": "",
+          "path": "legislation/provisions/cap123/en/s53F.json"
+        },
+        {
+          "id": "s53G",
+          "heading": "Preservation of right of appeal and determination of pending applications",
+          "path": "legislation/provisions/cap123/en/s53G.json"
+        },
+        {
+          "id": "s53H",
+          "heading": "Inclusion of certain registered professional engineers in geotechnical engineers’ register",
+          "path": "legislation/provisions/cap123/en/s53H.json"
+        },
+        {
+          "id": "s53I",
+          "heading": "Application for inclusion in geotechnical engineers’ register without prescribed qualifications",
+          "path": "legislation/provisions/cap123/en/s53I.json"
+        },
+        {
+          "id": "s53J",
+          "heading": "Transitional provisions for other miscellaneous matters",
+          "path": "legislation/provisions/cap123/en/s53J.json"
+        },
+        {
+          "id": "s54",
+          "heading": "Saving",
+          "path": "legislation/provisions/cap123/en/s54.json"
+        },
+        {
+          "id": "s55",
+          "heading": "Validation",
+          "path": "legislation/provisions/cap123/en/s55.json"
+        },
+        {
+          "id": "s56",
+          "heading": "Savings and transitional provisions relating to minor works",
+          "path": "legislation/provisions/cap123/en/s56.json"
+        },
+        {
+          "id": "sch1",
+          "heading": "",
+          "path": "legislation/provisions/cap123/en/sch1.json"
+        },
+        {
+          "id": "sch2",
+          "heading": "Provisions\nof\nBuildings\nOrdinance\n1935\nto\nContinue in Operation",
+          "path": "legislation/provisions/cap123/en/sch2.json"
+        },
+        {
+          "id": "sch3",
+          "heading": "Form\nof\nWarrant",
+          "path": "legislation/provisions/cap123/en/sch3.json"
+        },
+        {
+          "id": "sch4",
+          "heading": "Departments",
+          "path": "legislation/provisions/cap123/en/sch4.json"
+        },
+        {
+          "id": "sch5",
+          "heading": "Scheduled Areas",
+          "path": "legislation/provisions/cap123/en/sch5.json"
+        },
+        {
+          "id": "sch6",
+          "heading": "Form\nof\nWarrant",
+          "path": "legislation/provisions/cap123/en/sch6.json"
+        },
+        {
+          "id": "sch7",
+          "heading": "Penalty\nNotice",
+          "path": "legislation/provisions/cap123/en/sch7.json"
+        },
+        {
+          "id": "sch8",
+          "heading": "Prescribed Building or Building\nWorks",
+          "path": "legislation/provisions/cap123/en/sch8.json"
+        }
+      ]
+    },
+    {
+      "chapter": "123A",
+      "language": "en",
+      "version_date": "2024-06-30",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123A",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_en.zip",
+      "archive_member": "cap_123A_en_c/cap_123A_20240630000000_en_c.xml",
+      "xml_path": "legislation/raw/cap123A/en/cap_123A_20240630000000_en_c.xml",
+      "sha256": "5771573b06136e07b8ae6089ce698688f3d10bcd2b49e6a2bc79daddd58fb6f9",
+      "files": [
+        {
+          "path": "legislation/raw/cap123A/en/cap_123A_20240630000000_en_c.xml",
+          "sha256": "5771573b06136e07b8ae6089ce698688f3d10bcd2b49e6a2bc79daddd58fb6f9",
+          "bytes": 215624
+        }
+      ],
+      "full_text_path": "legislation/text/cap123A/en.txt",
+      "provisions": [
+        {
+          "id": "s1",
+          "heading": "Citation",
+          "path": "legislation/provisions/cap123A/en/s1.json"
+        },
+        {
+          "id": "s2",
+          "heading": "Interpretation",
+          "path": "legislation/provisions/cap123A/en/s2.json"
+        },
+        {
+          "id": "s3",
+          "heading": "Qualification for inclusion in register",
+          "path": "legislation/provisions/cap123A/en/s3.json"
+        },
+        {
+          "id": "s4",
+          "heading": "Requirements upon application for inclusion in register",
+          "path": "legislation/provisions/cap123A/en/s4.json"
+        },
+        {
+          "id": "s4A",
+          "heading": "Requirements for inclusion in registers of general building contractors and specialist contractors",
+          "path": "legislation/provisions/cap123A/en/s4A.json"
+        },
+        {
+          "id": "s5",
+          "heading": "Authorized person, registered structural engineer or registered geotechnical engineer not to act as contractor, etc. without disclosure to client",
+          "path": "legislation/provisions/cap123A/en/s5.json"
+        },
+        {
+          "id": "s5A",
+          "heading": "Registered inspector not to deal in building materials etc. without disclosure to client",
+          "path": "legislation/provisions/cap123A/en/s5A.json"
+        },
+        {
+          "id": "s6",
+          "heading": "Delivery of notices, plans, etc.",
+          "path": "legislation/provisions/cap123A/en/s6.json"
+        },
+        {
+          "id": "s6A",
+          "heading": "",
+          "path": "legislation/provisions/cap123A/en/s6A.json"
+        },
+        {
+          "id": "s7",
+          "heading": "Completion of notices, etc. and signature thereon",
+          "path": "legislation/provisions/cap123A/en/s7.json"
+        },
+        {
+          "id": "s8",
+          "heading": "Prescribed plans in respect of building works",
+          "path": "legislation/provisions/cap123A/en/s8.json"
+        },
+        {
+          "id": "s9",
+          "heading": "Prescribed plans in respect of street works",
+          "path": "legislation/provisions/cap123A/en/s9.json"
+        },
+        {
+          "id": "s10",
+          "heading": "Power of Building Authority to require additional plans, etc.",
+          "path": "legislation/provisions/cap123A/en/s10.json"
+        },
+        {
+          "id": "s11",
+          "heading": "Submission\nof plans and related documents",
+          "path": "legislation/provisions/cap123A/en/s11.json"
+        },
+        {
+          "id": "s11A",
+          "heading": "Foundation plan to be submitted with site formation plan",
+          "path": "legislation/provisions/cap123A/en/s11A.json"
+        },
+        {
+          "id": "s12",
+          "heading": "Plans, etc. to be signed by person who prepared them",
+          "path": "legislation/provisions/cap123A/en/s12.json"
+        },
+        {
+          "id": "s13",
+          "heading": "Ratio of plans",
+          "path": "legislation/provisions/cap123A/en/s13.json"
+        },
+        {
+          "id": "s14",
+          "heading": "Plans\nmust\nbe clear and drawn or reproduced on suitable material",
+          "path": "legislation/provisions/cap123A/en/s14.json"
+        },
+        {
+          "id": "s15",
+          "heading": "Power of Building Authority to refuse to accept plans",
+          "path": "legislation/provisions/cap123A/en/s15.json"
+        },
+        {
+          "id": "s16",
+          "heading": "",
+          "path": "legislation/provisions/cap123A/en/s16.json"
+        },
+        {
+          "id": "s17",
+          "heading": "",
+          "path": "legislation/provisions/cap123A/en/s17.json"
+        },
+        {
+          "id": "s18",
+          "heading": "Stability\ncertificate",
+          "path": "legislation/provisions/cap123A/en/s18.json"
+        },
+        {
+          "id": "s18A",
+          "heading": "Certificate by authorized person, etc. to be submitted with plans",
+          "path": "legislation/provisions/cap123A/en/s18A.json"
+        },
+        {
+          "id": "s19",
+          "heading": "Authorized person, registered structural engineer or registered\ngeotechnical engineer who has prepared plans submitted to\nBuilding Authority to notify Building Authority if he ceases to\nbe engaged",
+          "path": "legislation/provisions/cap123A/en/s19.json"
+        },
+        {
+          "id": "s20",
+          "heading": "Notification to Building Authority before commencement of building works or street works",
+          "path": "legislation/provisions/cap123A/en/s20.json"
+        },
+        {
+          "id": "s21",
+          "heading": "",
+          "path": "legislation/provisions/cap123A/en/s21.json"
+        },
+        {
+          "id": "s22",
+          "heading": "Building Authority to be notified on change of authorized person, registered structural engineer, registered geotechnical engineer, registered contractor, etc.",
+          "path": "legislation/provisions/cap123A/en/s22.json"
+        },
+        {
+          "id": "s23",
+          "heading": "Information to be supplied to Building\nAuthority respecting appointments, etc.",
+          "path": "legislation/provisions/cap123A/en/s23.json"
+        },
+        {
+          "id": "s24",
+          "heading": "Duties of registered contractor who ceases to be appointed",
+          "path": "legislation/provisions/cap123A/en/s24.json"
+        },
+        {
+          "id": "s25",
+          "heading": "Certificate to be given by registered contractor and authorized person on completion of building works",
+          "path": "legislation/provisions/cap123A/en/s25.json"
+        },
+        {
+          "id": "s25A",
+          "heading": "Certificates as to supply of water",
+          "path": "legislation/provisions/cap123A/en/s25A.json"
+        },
+        {
+          "id": "s26",
+          "heading": "Certificate to be given by registered contractor and authorized person on completion of street works",
+          "path": "legislation/provisions/cap123A/en/s26.json"
+        },
+        {
+          "id": "s27",
+          "heading": "",
+          "path": "legislation/provisions/cap123A/en/s27.json"
+        },
+        {
+          "id": "s28",
+          "heading": "Certificate to be given by authorized person, registered structural engineer, registered geotechnical engineer and registered contractor engaged in respect of emergency work",
+          "path": "legislation/provisions/cap123A/en/s28.json"
+        },
+        {
+          "id": "s29",
+          "heading": "Application for approval",
+          "path": "legislation/provisions/cap123A/en/s29.json"
+        },
+        {
+          "id": "s30",
+          "heading": "Approval of plans",
+          "path": "legislation/provisions/cap123A/en/s30.json"
+        },
+        {
+          "id": "s31",
+          "heading": "Application for consent to commence",
+          "path": "legislation/provisions/cap123A/en/s31.json"
+        },
+        {
+          "id": "s32",
+          "heading": "Consent to commencement",
+          "path": "legislation/provisions/cap123A/en/s32.json"
+        },
+        {
+          "id": "s32A",
+          "heading": "",
+          "path": "legislation/provisions/cap123A/en/s32A.json"
+        },
+        {
+          "id": "s33",
+          "heading": "Alterations or additions to building works and street works",
+          "path": "legislation/provisions/cap123A/en/s33.json"
+        },
+        {
+          "id": "s34",
+          "heading": "Consent to the resumption of suspended work",
+          "path": "legislation/provisions/cap123A/en/s34.json"
+        },
+        {
+          "id": "s35",
+          "heading": "Duties imposed by this Part not to prejudice any other duties imposed by Ordinance or other regulations",
+          "path": "legislation/provisions/cap123A/en/s35.json"
+        },
+        {
+          "id": "s36",
+          "heading": "Duty of authorized person to supply copy of plans of building works or street works\nto registered contractor",
+          "path": "legislation/provisions/cap123A/en/s36.json"
+        },
+        {
+          "id": "s37",
+          "heading": "Duty of authorized person, registered structural engineer or registered geotechnical engineer",
+          "path": "legislation/provisions/cap123A/en/s37.json"
+        },
+        {
+          "id": "s38",
+          "heading": "Duty of authorized person or registered structural engineer to submit to Building Authority notice under regulation 24",
+          "path": "legislation/provisions/cap123A/en/s38.json"
+        },
+        {
+          "id": "s39",
+          "heading": "Fees in respect of additional inspection upon completion of building works or street works",
+          "path": "legislation/provisions/cap123A/en/s39.json"
+        },
+        {
+          "id": "s40",
+          "heading": "Duty of registered contractor to keep approved plans and supervision plans on\nsite",
+          "path": "legislation/provisions/cap123A/en/s40.json"
+        },
+        {
+          "id": "s41",
+          "heading": "Duty of registered contractor to supervise",
+          "path": "legislation/provisions/cap123A/en/s41.json"
+        },
+        {
+          "id": "s42",
+          "heading": "Fees",
+          "path": "legislation/provisions/cap123A/en/s42.json"
+        },
+        {
+          "id": "s43",
+          "heading": "",
+          "path": "legislation/provisions/cap123A/en/s43.json"
+        },
+        {
+          "id": "s44",
+          "heading": "Duty of authorized person, registered structural engineer or registered geotechnical engineer who has prepared plans to supply to Building Authority such information as he may require",
+          "path": "legislation/provisions/cap123A/en/s44.json"
+        },
+        {
+          "id": "s45",
+          "heading": "Duty of authorized person, registered structural engineer, registered geotechnical\nengineer, registered inspector, registered contractor, etc. to notify Building Authority\nof change of business\naddress",
+          "path": "legislation/provisions/cap123A/en/s45.json"
+        },
+        {
+          "id": "s46",
+          "heading": "Power of Building Authority to require new plans in certain cases",
+          "path": "legislation/provisions/cap123A/en/s46.json"
+        },
+        {
+          "id": "s47",
+          "heading": "Notice under section 25 of Ordinance to be accompanied by plan",
+          "path": "legislation/provisions/cap123A/en/s47.json"
+        },
+        {
+          "id": "s48",
+          "heading": "Regulations do not apply to minor works commenced under simplified requirements",
+          "path": "legislation/provisions/cap123A/en/s48.json"
+        },
+        {
+          "id": "sch0",
+          "heading": "",
+          "path": "legislation/provisions/cap123A/en/sch0.json"
+        }
+      ]
+    },
+    {
+      "chapter": "123C",
+      "language": "en",
+      "version_date": "2021-05-13",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123C",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_en.zip",
+      "archive_member": "cap_123C_en_c/cap_123C_20210513000000_en_c.xml",
+      "xml_path": "legislation/raw/cap123C/en/cap_123C_20210513000000_en_c.xml",
+      "sha256": "5785982adec017e9f95fecf183dd7f5a95861bdab777f1171630a8ca354c3c85",
+      "files": [
+        {
+          "path": "legislation/raw/cap123C/en/cap_123C_20210513000000_en_c.xml",
+          "sha256": "5785982adec017e9f95fecf183dd7f5a95861bdab777f1171630a8ca354c3c85",
+          "bytes": 21188
+        }
+      ],
+      "full_text_path": "legislation/text/cap123C/en.txt",
+      "provisions": [
+        {
+          "id": "s1",
+          "heading": "Citation",
+          "path": "legislation/provisions/cap123C/en/s1.json"
+        },
+        {
+          "id": "s2",
+          "heading": "Application",
+          "path": "legislation/provisions/cap123C/en/s2.json"
+        },
+        {
+          "id": "s3",
+          "heading": "Duties of authorized person and registered specialist contractor prior to commencement of demolition",
+          "path": "legislation/provisions/cap123C/en/s3.json"
+        },
+        {
+          "id": "s4",
+          "heading": "Provisions as to shoring, etc.",
+          "path": "legislation/provisions/cap123C/en/s4.json"
+        },
+        {
+          "id": "s4A",
+          "heading": "Sequence of carrying out demolition works",
+          "path": "legislation/provisions/cap123C/en/s4A.json"
+        },
+        {
+          "id": "s5",
+          "heading": "Electric cables, etc. not to be remain charged",
+          "path": "legislation/provisions/cap123C/en/s5.json"
+        },
+        {
+          "id": "s6",
+          "heading": "Precautions to be taken to prevent danger from fire or explosion, etc.",
+          "path": "legislation/provisions/cap123C/en/s6.json"
+        },
+        {
+          "id": "s7",
+          "heading": "Provisions in relation to shutes for removal of materials, etc.",
+          "path": "legislation/provisions/cap123C/en/s7.json"
+        },
+        {
+          "id": "s8",
+          "heading": "Demolition works to be carried out under supervision of technically competent person",
+          "path": "legislation/provisions/cap123C/en/s8.json"
+        },
+        {
+          "id": "s9",
+          "heading": "Certain operations to be carried out only under competent supervision",
+          "path": "legislation/provisions/cap123C/en/s9.json"
+        },
+        {
+          "id": "s10",
+          "heading": "Floors, etc. not to be overloaded",
+          "path": "legislation/provisions/cap123C/en/s10.json"
+        },
+        {
+          "id": "s11",
+          "heading": "Precautions to be taken in relation to cutting of steelwork, etc.",
+          "path": "legislation/provisions/cap123C/en/s11.json"
+        },
+        {
+          "id": "s12",
+          "heading": "Precautions to be taken in removing framing",
+          "path": "legislation/provisions/cap123C/en/s12.json"
+        },
+        {
+          "id": "s13",
+          "heading": "Offences and penalties",
+          "path": "legislation/provisions/cap123C/en/s13.json"
+        }
+      ]
+    },
+    {
+      "chapter": "123F",
+      "language": "en",
+      "version_date": "2026-09-17",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123F",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_en.zip",
+      "archive_member": "cap_123F_en_c/cap_123F_20260917000000_en_c.xml",
+      "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+      "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+      "files": [
+        {
+          "path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+          "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+          "bytes": 468868
+        },
+        {
+          "path": "legislation/raw/cap123F/en/images/CAP123F_en_sch3_20200910_000000_0001.jpg",
+          "sha256": "3869f45a9ec86e54e0b160325255738f2ee11ea0c2c3f3aa98f3d3c4402a65aa",
+          "bytes": 7583093
+        },
+        {
+          "path": "legislation/raw/cap123F/en/images/CAP123F_en_sch3_20200910_000000_0002.jpg",
+          "sha256": "624635e406aab19add83602a22db7bb4135978a54dec43d24666596190491201",
+          "bytes": 4565133
+        },
+        {
+          "path": "legislation/raw/cap123F/en/images/CAP123F_en_sch3_20200910_000000_0003.jpg",
+          "sha256": "6208ec155731030e52e34dff81a410f776d4cc80e3f08f41941c132e6f6c7a78",
+          "bytes": 8359213
+        },
+        {
+          "path": "legislation/raw/cap123F/en/images/CAP123F_en_sch3_20200910_000000_0004.jpg",
+          "sha256": "f770978309a59c0ab40af4baa6d2e3adb58d539d8221e7b6fcf47c117f13126b",
+          "bytes": 6914312
+        },
+        {
+          "path": "legislation/raw/cap123F/en/images/CAP123F_en_sch3_20200910_000000_0005.jpg",
+          "sha256": "0c645dd19a3a4d5a81ecac7201a752528c500f84050cc538d93ce0f81125347b",
+          "bytes": 6892345
+        },
+        {
+          "path": "legislation/raw/cap123F/en/images/CAP123F_en_sch3_20200910_000000_0006.jpg",
+          "sha256": "8460078cd55b13bd5191916e041f3e75a1001e83adf3a5d11d736c768f2a90b9",
+          "bytes": 6518668
+        },
+        {
+          "path": "legislation/raw/cap123F/en/images/CAP123F_en_sch3_20200910_000000_0007.jpg",
+          "sha256": "88db16125a139647d265c94f19f5e723132d3f34eb0366874a2ddd6258d14b20",
+          "bytes": 6534783
+        },
+        {
+          "path": "legislation/raw/cap123F/en/images/CAP123F_en_sch3_20200910_000000_0008.jpg",
+          "sha256": "dd1c84adb45c91b09d80ad8fa4e3eba0d4428467ec13b8c7d5dcd30f0c509140",
+          "bytes": 7591726
+        }
+      ],
+      "full_text_path": "legislation/text/cap123F/en.txt",
+      "provisions": [
+        {
+          "id": "s1",
+          "heading": "Citation",
+          "path": "legislation/provisions/cap123F/en/s1.json"
+        },
+        {
+          "id": "s2",
+          "heading": "Interpretation",
+          "path": "legislation/provisions/cap123F/en/s2.json"
+        },
+        {
+          "id": "s3",
+          "heading": "Protection of balconies and verandahs",
+          "path": "legislation/provisions/cap123F/en/s3.json"
+        },
+        {
+          "id": "s3A",
+          "heading": "Protection of openings",
+          "path": "legislation/provisions/cap123F/en/s3A.json"
+        },
+        {
+          "id": "s4",
+          "heading": "Buildings not to obstruct, endanger or cause nuisances",
+          "path": "legislation/provisions/cap123F/en/s4.json"
+        },
+        {
+          "id": "s5",
+          "heading": "Access to buildings and provision of access lanes, etc., on site of new building",
+          "path": "legislation/provisions/cap123F/en/s5.json"
+        },
+        {
+          "id": "s6",
+          "heading": "Building Authority to determine width of road or street",
+          "path": "legislation/provisions/cap123F/en/s6.json"
+        },
+        {
+          "id": "s7",
+          "heading": "Eaves, cornices, mouldings, etc.",
+          "path": "legislation/provisions/cap123F/en/s7.json"
+        },
+        {
+          "id": "s8",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/en/s8.json"
+        },
+        {
+          "id": "s9",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/en/s9.json"
+        },
+        {
+          "id": "s10",
+          "heading": "Balconies and canopies over streets",
+          "path": "legislation/provisions/cap123F/en/s10.json"
+        },
+        {
+          "id": "s11",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/en/s11.json"
+        },
+        {
+          "id": "s12",
+          "heading": "No doorways on to canopy",
+          "path": "legislation/provisions/cap123F/en/s12.json"
+        },
+        {
+          "id": "s13",
+          "heading": "Use of verandahs or balconies",
+          "path": "legislation/provisions/cap123F/en/s13.json"
+        },
+        {
+          "id": "s14",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/en/s14.json"
+        },
+        {
+          "id": "s15",
+          "heading": "Doors, etc. not to open over streets",
+          "path": "legislation/provisions/cap123F/en/s15.json"
+        },
+        {
+          "id": "s16",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/en/s16.json"
+        },
+        {
+          "id": "s17",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/en/s17.json"
+        },
+        {
+          "id": "s18",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/en/s18.json"
+        },
+        {
+          "id": "s18A",
+          "heading": "Site classification",
+          "path": "legislation/provisions/cap123F/en/s18A.json"
+        },
+        {
+          "id": "s19",
+          "heading": "General provisions concerning site coverage and plot ratio",
+          "path": "legislation/provisions/cap123F/en/s19.json"
+        },
+        {
+          "id": "s19A",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/en/s19A.json"
+        },
+        {
+          "id": "s20",
+          "heading": "Permitted site coverage",
+          "path": "legislation/provisions/cap123F/en/s20.json"
+        },
+        {
+          "id": "s21",
+          "heading": "Permitted plot ratio",
+          "path": "legislation/provisions/cap123F/en/s21.json"
+        },
+        {
+          "id": "s22",
+          "heading": "Permitted site coverage and plot ratio may be exceeded in certain cases",
+          "path": "legislation/provisions/cap123F/en/s22.json"
+        },
+        {
+          "id": "s23",
+          "heading": "Provisions supplementary to regulations 19, 20, 21 and 22",
+          "path": "legislation/provisions/cap123F/en/s23.json"
+        },
+        {
+          "id": "s23A",
+          "heading": "Provisions supplementary to regulations 19, 20,\n21 and 22 in respect of hotels",
+          "path": "legislation/provisions/cap123F/en/s23A.json"
+        },
+        {
+          "id": "s24",
+          "heading": "Height of storeys",
+          "path": "legislation/provisions/cap123F/en/s24.json"
+        },
+        {
+          "id": "s25",
+          "heading": "Space about domestic buildings",
+          "path": "legislation/provisions/cap123F/en/s25.json"
+        },
+        {
+          "id": "s26",
+          "heading": "New buildings on existing street less than 4.5 m wide to be set back from centre line of street",
+          "path": "legislation/provisions/cap123F/en/s26.json"
+        },
+        {
+          "id": "s27",
+          "heading": "Cuttings",
+          "path": "legislation/provisions/cap123F/en/s27.json"
+        },
+        {
+          "id": "s28",
+          "heading": "Service lanes",
+          "path": "legislation/provisions/cap123F/en/s28.json"
+        },
+        {
+          "id": "s28A",
+          "heading": "Access facilities for telecommunications and broadcasting services",
+          "path": "legislation/provisions/cap123F/en/s28A.json"
+        },
+        {
+          "id": "s29",
+          "heading": "Lighting and ventilation",
+          "path": "legislation/provisions/cap123F/en/s29.json"
+        },
+        {
+          "id": "s30",
+          "heading": "Lighting and ventilation of rooms used or intended to be used for habitation or as\nan office or kitchen",
+          "path": "legislation/provisions/cap123F/en/s30.json"
+        },
+        {
+          "id": "s31",
+          "heading": "Minimum requirements of window",
+          "path": "legislation/provisions/cap123F/en/s31.json"
+        },
+        {
+          "id": "s32",
+          "heading": "Restriction on distance any part of room may be from prescribed window",
+          "path": "legislation/provisions/cap123F/en/s32.json"
+        },
+        {
+          "id": "s33",
+          "heading": "Windows opening on to enclosed verandah, etc.",
+          "path": "legislation/provisions/cap123F/en/s33.json"
+        },
+        {
+          "id": "s34",
+          "heading": "Mechanical ventilation and\nartificial\nlighting of offices",
+          "path": "legislation/provisions/cap123F/en/s34.json"
+        },
+        {
+          "id": "s35",
+          "heading": "Additional vent may be required",
+          "path": "legislation/provisions/cap123F/en/s35.json"
+        },
+        {
+          "id": "s35A",
+          "heading": "Provision for room-sealed gas water heater in bathrooms",
+          "path": "legislation/provisions/cap123F/en/s35A.json"
+        },
+        {
+          "id": "s36",
+          "heading": "Rooms containing soil fitments",
+          "path": "legislation/provisions/cap123F/en/s36.json"
+        },
+        {
+          "id": "s37",
+          "heading": "Light and air not to be diminished",
+          "path": "legislation/provisions/cap123F/en/s37.json"
+        },
+        {
+          "id": "s38",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/en/s38.json"
+        },
+        {
+          "id": "s39",
+          "heading": "Staircases",
+          "path": "legislation/provisions/cap123F/en/s39.json"
+        },
+        {
+          "id": "s40",
+          "heading": "Staircases in buildings intended for separate occupation",
+          "path": "legislation/provisions/cap123F/en/s40.json"
+        },
+        {
+          "id": "s40A",
+          "heading": "Escalator to be in addition to staircases or means of escape in case of emergency",
+          "path": "legislation/provisions/cap123F/en/s40A.json"
+        },
+        {
+          "id": "s41",
+          "heading": "Means of escape",
+          "path": "legislation/provisions/cap123F/en/s41.json"
+        },
+        {
+          "id": "s41A",
+          "heading": "Access staircases for firemen",
+          "path": "legislation/provisions/cap123F/en/s41A.json"
+        },
+        {
+          "id": "s41B",
+          "heading": "Fireman’s lifts",
+          "path": "legislation/provisions/cap123F/en/s41B.json"
+        },
+        {
+          "id": "s41C",
+          "heading": "Firefighting and rescue stairway",
+          "path": "legislation/provisions/cap123F/en/s41C.json"
+        },
+        {
+          "id": "s41D",
+          "heading": "Emergency vehicular access",
+          "path": "legislation/provisions/cap123F/en/s41D.json"
+        },
+        {
+          "id": "s42",
+          "heading": "Landings, lobbies and passages",
+          "path": "legislation/provisions/cap123F/en/s42.json"
+        },
+        {
+          "id": "s43",
+          "heading": "Distance from staircase",
+          "path": "legislation/provisions/cap123F/en/s43.json"
+        },
+        {
+          "id": "s44",
+          "heading": "Revolving doors and turnstiles",
+          "path": "legislation/provisions/cap123F/en/s44.json"
+        },
+        {
+          "id": "s45",
+          "heading": "Kitchens",
+          "path": "legislation/provisions/cap123F/en/s45.json"
+        },
+        {
+          "id": "s46",
+          "heading": "Tenement house",
+          "path": "legislation/provisions/cap123F/en/s46.json"
+        },
+        {
+          "id": "s47",
+          "heading": "Building abutting on retaining wall",
+          "path": "legislation/provisions/cap123F/en/s47.json"
+        },
+        {
+          "id": "s48",
+          "heading": "Retaining wall forming part of a building",
+          "path": "legislation/provisions/cap123F/en/s48.json"
+        },
+        {
+          "id": "s49",
+          "heading": "Building not to be used for domestic purposes and for dangerous trade",
+          "path": "legislation/provisions/cap123F/en/s49.json"
+        },
+        {
+          "id": "s49A",
+          "heading": "Situation of a place of public entertainment",
+          "path": "legislation/provisions/cap123F/en/s49A.json"
+        },
+        {
+          "id": "s49B",
+          "heading": "Cinemas",
+          "path": "legislation/provisions/cap123F/en/s49B.json"
+        },
+        {
+          "id": "s49C",
+          "heading": "Domestic accommodation",
+          "path": "legislation/provisions/cap123F/en/s49C.json"
+        },
+        {
+          "id": "s49D",
+          "heading": "Floors and tiers",
+          "path": "legislation/provisions/cap123F/en/s49D.json"
+        },
+        {
+          "id": "s49E",
+          "heading": "Waiting accommodation",
+          "path": "legislation/provisions/cap123F/en/s49E.json"
+        },
+        {
+          "id": "s50",
+          "heading": "Definition of temporary buildings and short lived materials",
+          "path": "legislation/provisions/cap123F/en/s50.json"
+        },
+        {
+          "id": "s51",
+          "heading": "Application to be made",
+          "path": "legislation/provisions/cap123F/en/s51.json"
+        },
+        {
+          "id": "s52",
+          "heading": "Siting to temporary building",
+          "path": "legislation/provisions/cap123F/en/s52.json"
+        },
+        {
+          "id": "s53",
+          "heading": "Contractor’s sheds",
+          "path": "legislation/provisions/cap123F/en/s53.json"
+        },
+        {
+          "id": "s54",
+          "heading": "Kitchens, latrines and drainage required",
+          "path": "legislation/provisions/cap123F/en/s54.json"
+        },
+        {
+          "id": "s55",
+          "heading": "Live wire or cable to be made safe",
+          "path": "legislation/provisions/cap123F/en/s55.json"
+        },
+        {
+          "id": "s56",
+          "heading": "Building Authority may erect sheds",
+          "path": "legislation/provisions/cap123F/en/s56.json"
+        },
+        {
+          "id": "s57",
+          "heading": "Deposit of security",
+          "path": "legislation/provisions/cap123F/en/s57.json"
+        },
+        {
+          "id": "s58",
+          "heading": "Cancellation of permit",
+          "path": "legislation/provisions/cap123F/en/s58.json"
+        },
+        {
+          "id": "s59",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/en/s59.json"
+        },
+        {
+          "id": "s60",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/en/s60.json"
+        },
+        {
+          "id": "s61",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/en/s61.json"
+        },
+        {
+          "id": "s62",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/en/s62.json"
+        },
+        {
+          "id": "s63",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/en/s63.json"
+        },
+        {
+          "id": "s64",
+          "heading": "Plans of hoardings, etc. to be submitted",
+          "path": "legislation/provisions/cap123F/en/s64.json"
+        },
+        {
+          "id": "s65",
+          "heading": "Form of permit and power of Building Authority to make requirements",
+          "path": "legislation/provisions/cap123F/en/s65.json"
+        },
+        {
+          "id": "s66",
+          "heading": "Maintenance of hoardings, etc.",
+          "path": "legislation/provisions/cap123F/en/s66.json"
+        },
+        {
+          "id": "s67",
+          "heading": "Liability of permittee",
+          "path": "legislation/provisions/cap123F/en/s67.json"
+        },
+        {
+          "id": "s68",
+          "heading": "Live wire or cable to be made safe",
+          "path": "legislation/provisions/cap123F/en/s68.json"
+        },
+        {
+          "id": "s69",
+          "heading": "Deposit of security",
+          "path": "legislation/provisions/cap123F/en/s69.json"
+        },
+        {
+          "id": "s70",
+          "heading": "Cancellation of permit",
+          "path": "legislation/provisions/cap123F/en/s70.json"
+        },
+        {
+          "id": "s71",
+          "heading": "Power of Building Authority to permit windows, etc. to face or ventilate into unenclosed verandah, etc.",
+          "path": "legislation/provisions/cap123F/en/s71.json"
+        },
+        {
+          "id": "s72",
+          "heading": "Buildings to be planned for use by persons with a disability",
+          "path": "legislation/provisions/cap123F/en/s72.json"
+        },
+        {
+          "id": "s73",
+          "heading": "Building\ndesign requirements to facilitate elderly persons",
+          "path": "legislation/provisions/cap123F/en/s73.json"
+        },
+        {
+          "id": "sch1",
+          "heading": "Percentage\nSite\nCoverages\nand\nPlot\nRatios",
+          "path": "legislation/provisions/cap123F/en/sch1.json"
+        },
+        {
+          "id": "sch2",
+          "heading": "Open\nSpace\nabout\nDomestic\nBuildings",
+          "path": "legislation/provisions/cap123F/en/sch2.json"
+        },
+        {
+          "id": "sch3",
+          "heading": "Persons\nwith a\nDisability",
+          "path": "legislation/provisions/cap123F/en/sch3.json"
+        },
+        {
+          "id": "sch4",
+          "heading": "Building\nDesign Requirements to Facilitate Elderly\nPersons",
+          "path": "legislation/provisions/cap123F/en/sch4.json"
+        }
+      ]
+    },
+    {
+      "chapter": "123Q",
+      "language": "en",
+      "version_date": "2021-06-24",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123Q",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_en.zip",
+      "archive_member": "cap_123Q_en_c/cap_123Q_20210624000000_en_c.xml",
+      "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+      "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+      "files": [
+        {
+          "path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+          "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+          "bytes": 183907
+        }
+      ],
+      "full_text_path": "legislation/text/cap123Q/en.txt",
+      "provisions": [
+        {
+          "id": "s1",
+          "heading": "",
+          "path": "legislation/provisions/cap123Q/en/s1.json"
+        },
+        {
+          "id": "s2",
+          "heading": "Interpretation",
+          "path": "legislation/provisions/cap123Q/en/s2.json"
+        },
+        {
+          "id": "s3",
+          "heading": "Materials",
+          "path": "legislation/provisions/cap123Q/en/s3.json"
+        },
+        {
+          "id": "s4",
+          "heading": "Dead loads",
+          "path": "legislation/provisions/cap123Q/en/s4.json"
+        },
+        {
+          "id": "s5",
+          "heading": "Imposed loads",
+          "path": "legislation/provisions/cap123Q/en/s5.json"
+        },
+        {
+          "id": "s6",
+          "heading": "Wind loads",
+          "path": "legislation/provisions/cap123Q/en/s6.json"
+        },
+        {
+          "id": "s7",
+          "heading": "Imposed loads to be applied",
+          "path": "legislation/provisions/cap123Q/en/s7.json"
+        },
+        {
+          "id": "s8",
+          "heading": "Reduction of imposed loads",
+          "path": "legislation/provisions/cap123Q/en/s8.json"
+        },
+        {
+          "id": "s9",
+          "heading": "Imposed loads—design of protective barrier",
+          "path": "legislation/provisions/cap123Q/en/s9.json"
+        },
+        {
+          "id": "s10",
+          "heading": "Imposed loads—forces produced by dynamic effects",
+          "path": "legislation/provisions/cap123Q/en/s10.json"
+        },
+        {
+          "id": "s11",
+          "heading": "Notice as to load",
+          "path": "legislation/provisions/cap123Q/en/s11.json"
+        },
+        {
+          "id": "s12",
+          "heading": "Overloading",
+          "path": "legislation/provisions/cap123Q/en/s12.json"
+        },
+        {
+          "id": "s13",
+          "heading": "Design methodology",
+          "path": "legislation/provisions/cap123Q/en/s13.json"
+        },
+        {
+          "id": "s14",
+          "heading": "Strength and serviceability considerations",
+          "path": "legislation/provisions/cap123Q/en/s14.json"
+        },
+        {
+          "id": "s15",
+          "heading": "Stability",
+          "path": "legislation/provisions/cap123Q/en/s15.json"
+        },
+        {
+          "id": "s16",
+          "heading": "Construction methods and procedures",
+          "path": "legislation/provisions/cap123Q/en/s16.json"
+        },
+        {
+          "id": "s17",
+          "heading": "Site investigation",
+          "path": "legislation/provisions/cap123Q/en/s17.json"
+        },
+        {
+          "id": "s18",
+          "heading": "Foundations",
+          "path": "legislation/provisions/cap123Q/en/s18.json"
+        },
+        {
+          "id": "s19",
+          "heading": "Building Authority may require on-site tests",
+          "path": "legislation/provisions/cap123Q/en/s19.json"
+        },
+        {
+          "id": "s20",
+          "heading": "Proof tests on foundation units",
+          "path": "legislation/provisions/cap123Q/en/s20.json"
+        },
+        {
+          "id": "s21",
+          "heading": "Site formation works",
+          "path": "legislation/provisions/cap123Q/en/s21.json"
+        },
+        {
+          "id": "s22",
+          "heading": "Interpretation—sections 22, 23 and 24",
+          "path": "legislation/provisions/cap123Q/en/s22.json"
+        },
+        {
+          "id": "s23",
+          "heading": "Retaining wall—design and construction",
+          "path": "legislation/provisions/cap123Q/en/s23.json"
+        },
+        {
+          "id": "s24",
+          "heading": "Retaining wall—drainage and other requirements",
+          "path": "legislation/provisions/cap123Q/en/s24.json"
+        },
+        {
+          "id": "s25",
+          "heading": "Bulk excavation in area number 1 of scheduled areas",
+          "path": "legislation/provisions/cap123Q/en/s25.json"
+        },
+        {
+          "id": "s26",
+          "heading": "Interpretation—Part 8",
+          "path": "legislation/provisions/cap123Q/en/s26.json"
+        },
+        {
+          "id": "s27",
+          "heading": "External wall",
+          "path": "legislation/provisions/cap123Q/en/s27.json"
+        },
+        {
+          "id": "s28",
+          "heading": "Cladding",
+          "path": "legislation/provisions/cap123Q/en/s28.json"
+        },
+        {
+          "id": "s29",
+          "heading": "Curtain wall—design",
+          "path": "legislation/provisions/cap123Q/en/s29.json"
+        },
+        {
+          "id": "s30",
+          "heading": "Curtain wall—materials",
+          "path": "legislation/provisions/cap123Q/en/s30.json"
+        },
+        {
+          "id": "s31",
+          "heading": "Curtain wall—fixing of supports and maintenance",
+          "path": "legislation/provisions/cap123Q/en/s31.json"
+        },
+        {
+          "id": "s32",
+          "heading": "Walls—protection against moisture penetration",
+          "path": "legislation/provisions/cap123Q/en/s32.json"
+        },
+        {
+          "id": "s33",
+          "heading": "Floor and adjoining ground surface",
+          "path": "legislation/provisions/cap123Q/en/s33.json"
+        },
+        {
+          "id": "s34",
+          "heading": "Roof",
+          "path": "legislation/provisions/cap123Q/en/s34.json"
+        },
+        {
+          "id": "s35",
+          "heading": "Fire resisting construction",
+          "path": "legislation/provisions/cap123Q/en/s35.json"
+        },
+        {
+          "id": "s36",
+          "heading": "Application—Division 1",
+          "path": "legislation/provisions/cap123Q/en/s36.json"
+        },
+        {
+          "id": "s37",
+          "heading": "Provision of protective barrier",
+          "path": "legislation/provisions/cap123Q/en/s37.json"
+        },
+        {
+          "id": "s38",
+          "heading": "Protective barrier—design and construction",
+          "path": "legislation/provisions/cap123Q/en/s38.json"
+        },
+        {
+          "id": "s39",
+          "heading": "Application and interpretation—Division 2",
+          "path": "legislation/provisions/cap123Q/en/s39.json"
+        },
+        {
+          "id": "s40",
+          "heading": "Design and construction in connection with lift and escalator",
+          "path": "legislation/provisions/cap123Q/en/s40.json"
+        },
+        {
+          "id": "s41",
+          "heading": "Warning notices on use of lift and escalator",
+          "path": "legislation/provisions/cap123Q/en/s41.json"
+        },
+        {
+          "id": "s42",
+          "heading": "Ground treatment",
+          "path": "legislation/provisions/cap123Q/en/s42.json"
+        },
+        {
+          "id": "s43",
+          "heading": "Well",
+          "path": "legislation/provisions/cap123Q/en/s43.json"
+        },
+        {
+          "id": "s44",
+          "heading": "Chimney and flue",
+          "path": "legislation/provisions/cap123Q/en/s44.json"
+        },
+        {
+          "id": "s45",
+          "heading": "Fireplace",
+          "path": "legislation/provisions/cap123Q/en/s45.json"
+        },
+        {
+          "id": "s46",
+          "heading": "Habitation by vermin",
+          "path": "legislation/provisions/cap123Q/en/s46.json"
+        },
+        {
+          "id": "s47",
+          "heading": "Duct",
+          "path": "legislation/provisions/cap123Q/en/s47.json"
+        },
+        {
+          "id": "sch0",
+          "heading": "Calculations in relation to Imposed\nLoads",
+          "path": "legislation/provisions/cap123Q/en/sch0.json"
+        }
+      ]
+    },
+    {
+      "chapter": "123",
+      "language": "zh-Hant",
+      "version_date": "2026-03-01",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_zh-Hant.zip",
+      "archive_member": "cap_123_zh-Hant_c/cap_123_20260301000000_zh-Hant_c.xml",
+      "xml_path": "legislation/raw/cap123/zh-Hant/cap_123_20260301000000_zh-Hant_c.xml",
+      "sha256": "c563be5190519c71a48e73e4242ded97a7b163828dd618f1d7bd442168d18a87",
+      "files": [
+        {
+          "path": "legislation/raw/cap123/zh-Hant/cap_123_20260301000000_zh-Hant_c.xml",
+          "sha256": "c563be5190519c71a48e73e4242ded97a7b163828dd618f1d7bd442168d18a87",
+          "bytes": 700277
+        }
+      ],
+      "full_text_path": "legislation/text/cap123/zh-Hant.txt",
+      "provisions": [
+        {
+          "id": "s1",
+          "heading": "簡稱",
+          "path": "legislation/provisions/cap123/zh-Hant/s1.json"
+        },
+        {
+          "id": "s2",
+          "heading": "釋義",
+          "path": "legislation/provisions/cap123/zh-Hant/s2.json"
+        },
+        {
+          "id": "s2A",
+          "heading": "專門工程的指定",
+          "path": "legislation/provisions/cap123/zh-Hant/s2A.json"
+        },
+        {
+          "id": "s3",
+          "heading": "認可人士、結構工程師、岩土工程師及檢驗人員的名冊",
+          "path": "legislation/provisions/cap123/zh-Hant/s3.json"
+        },
+        {
+          "id": "s4",
+          "heading": "認可人士、註冊結構工程師或註冊岩土工程師的委任及職責",
+          "path": "legislation/provisions/cap123/zh-Hant/s4.json"
+        },
+        {
+          "id": "s4A",
+          "heading": "訂明建築專業人士的委任︰在沒有批准及同意下展開或進行小型工程",
+          "path": "legislation/provisions/cap123/zh-Hant/s4A.json"
+        },
+        {
+          "id": "s4B",
+          "heading": "就根據簡化規定展開的小型工程獲委任或提名的訂明建築專業人士的職責",
+          "path": "legislation/provisions/cap123/zh-Hant/s4B.json"
+        },
+        {
+          "id": "s5",
+          "heading": "紀律委員會的委任及權力",
+          "path": "legislation/provisions/cap123/zh-Hant/s5.json"
+        },
+        {
+          "id": "s5A",
+          "heading": "認可人士、註冊結構工程師及註冊岩土工程師紀律委員團及註冊檢驗人員紀律委員團",
+          "path": "legislation/provisions/cap123/zh-Hant/s5A.json"
+        },
+        {
+          "id": "s5AA",
+          "heading": "紀律委員會秘書",
+          "path": "legislation/provisions/cap123/zh-Hant/s5AA.json"
+        },
+        {
+          "id": "s6",
+          "heading": "",
+          "path": "legislation/provisions/cap123/zh-Hant/s6.json"
+        },
+        {
+          "id": "s7",
+          "heading": "就認可人士、註冊結構工程師、註冊岩土工程師或註冊檢驗人員進行的紀律處分程序",
+          "path": "legislation/provisions/cap123/zh-Hant/s7.json"
+        },
+        {
+          "id": "s8",
+          "heading": "承建商註冊事務委員會",
+          "path": "legislation/provisions/cap123/zh-Hant/s8.json"
+        },
+        {
+          "id": "s8A",
+          "heading": "承建商名冊等",
+          "path": "legislation/provisions/cap123/zh-Hant/s8A.json"
+        },
+        {
+          "id": "s8B",
+          "heading": "註冊為承建商的申請",
+          "path": "legislation/provisions/cap123/zh-Hant/s8B.json"
+        },
+        {
+          "id": "s8C",
+          "heading": "承建商註冊的續期",
+          "path": "legislation/provisions/cap123/zh-Hant/s8C.json"
+        },
+        {
+          "id": "s8D",
+          "heading": "將姓名或名稱重新列入承建商名冊",
+          "path": "legislation/provisions/cap123/zh-Hant/s8D.json"
+        },
+        {
+          "id": "s8E",
+          "heading": "建築事務監督須述明理由",
+          "path": "legislation/provisions/cap123/zh-Hant/s8E.json"
+        },
+        {
+          "id": "s8F",
+          "heading": "生效日期",
+          "path": "legislation/provisions/cap123/zh-Hant/s8F.json"
+        },
+        {
+          "id": "s8G",
+          "heading": "",
+          "path": "legislation/provisions/cap123/zh-Hant/s8G.json"
+        },
+        {
+          "id": "s9",
+          "heading": "註冊承建商的委任及職責",
+          "path": "legislation/provisions/cap123/zh-Hant/s9.json"
+        },
+        {
+          "id": "s9AA",
+          "heading": "訂明註冊承建商的委任及職責︰小型工程",
+          "path": "legislation/provisions/cap123/zh-Hant/s9AA.json"
+        },
+        {
+          "id": "s9A",
+          "heading": "就註冊事務委員會的決定而提出的上訴",
+          "path": "legislation/provisions/cap123/zh-Hant/s9A.json"
+        },
+        {
+          "id": "s10",
+          "heading": "",
+          "path": "legislation/provisions/cap123/zh-Hant/s10.json"
+        },
+        {
+          "id": "s11",
+          "heading": "紀律委員會的委任及權力",
+          "path": "legislation/provisions/cap123/zh-Hant/s11.json"
+        },
+        {
+          "id": "s11A",
+          "heading": "承建商紀律委員團",
+          "path": "legislation/provisions/cap123/zh-Hant/s11A.json"
+        },
+        {
+          "id": "s11AA",
+          "heading": "紀律委員會秘書",
+          "path": "legislation/provisions/cap123/zh-Hant/s11AA.json"
+        },
+        {
+          "id": "s12",
+          "heading": "",
+          "path": "legislation/provisions/cap123/zh-Hant/s12.json"
+        },
+        {
+          "id": "s13",
+          "heading": "承建商的紀律處分程序",
+          "path": "legislation/provisions/cap123/zh-Hant/s13.json"
+        },
+        {
+          "id": "s13A",
+          "heading": "針對建築事務監督的決定而提出的上訴",
+          "path": "legislation/provisions/cap123/zh-Hant/s13A.json"
+        },
+        {
+          "id": "s14",
+          "heading": "展開建築工程等所需的批准及同意",
+          "path": "legislation/provisions/cap123/zh-Hant/s14.json"
+        },
+        {
+          "id": "s14A",
+          "heading": "如不遞交監工計劃書不得當作建築事務監督同意",
+          "path": "legislation/provisions/cap123/zh-Hant/s14A.json"
+        },
+        {
+          "id": "s14AA",
+          "heading": "小型工程不需批准及同意",
+          "path": "legislation/provisions/cap123/zh-Hant/s14AA.json"
+        },
+        {
+          "id": "s15",
+          "heading": "除非發出拒絕的通知，否則當作給予批准及同意",
+          "path": "legislation/provisions/cap123/zh-Hant/s15.json"
+        },
+        {
+          "id": "s16",
+          "heading": "拒絕給予批准或同意可根據的理由",
+          "path": "legislation/provisions/cap123/zh-Hant/s16.json"
+        },
+        {
+          "id": "s17",
+          "heading": "在某些情況下可施加條件",
+          "path": "legislation/provisions/cap123/zh-Hant/s17.json"
+        },
+        {
+          "id": "s17A",
+          "heading": "與污水隧道工程不相容",
+          "path": "legislation/provisions/cap123/zh-Hant/s17A.json"
+        },
+        {
+          "id": "s18",
+          "heading": "授權在某些情況下豎設撑柱",
+          "path": "legislation/provisions/cap123/zh-Hant/s18.json"
+        },
+        {
+          "id": "s18A",
+          "heading": "申索補償",
+          "path": "legislation/provisions/cap123/zh-Hant/s18A.json"
+        },
+        {
+          "id": "s19",
+          "heading": "有關緊急工程的規定",
+          "path": "legislation/provisions/cap123/zh-Hant/s19.json"
+        },
+        {
+          "id": "s20",
+          "heading": "恢復暫停的工程",
+          "path": "legislation/provisions/cap123/zh-Hant/s20.json"
+        },
+        {
+          "id": "s21",
+          "heading": "新建築物的佔用",
+          "path": "legislation/provisions/cap123/zh-Hant/s21.json"
+        },
+        {
+          "id": "s22",
+          "heading": "建築事務監督的權力",
+          "path": "legislation/provisions/cap123/zh-Hant/s22.json"
+        },
+        {
+          "id": "s23",
+          "heading": "建築工程在建築事務監督的命令下須停止等",
+          "path": "legislation/provisions/cap123/zh-Hant/s23.json"
+        },
+        {
+          "id": "s24",
+          "heading": "拆卸、移去或改動建築物、建築工程(根據簡化規定展開的小型工程除外)或街道工程的命令",
+          "path": "legislation/provisions/cap123/zh-Hant/s24.json"
+        },
+        {
+          "id": "s24A",
+          "heading": "停止危險工程或對危險工程作出補救的命令",
+          "path": "legislation/provisions/cap123/zh-Hant/s24A.json"
+        },
+        {
+          "id": "s24AA",
+          "heading": "拆卸、移去或改動根據簡化規定展開的小型工程的命令",
+          "path": "legislation/provisions/cap123/zh-Hant/s24AA.json"
+        },
+        {
+          "id": "s24B",
+          "heading": "優先拆卸",
+          "path": "legislation/provisions/cap123/zh-Hant/s24B.json"
+        },
+        {
+          "id": "s24C",
+          "heading": "就建築物或建築工程的拆卸或改動發出的通知",
+          "path": "legislation/provisions/cap123/zh-Hant/s24C.json"
+        },
+        {
+          "id": "s25",
+          "heading": "建築物用途的更改",
+          "path": "legislation/provisions/cap123/zh-Hant/s25.json"
+        },
+        {
+          "id": "s26",
+          "heading": "危險建築物",
+          "path": "legislation/provisions/cap123/zh-Hant/s26.json"
+        },
+        {
+          "id": "s26A",
+          "heading": "欠妥的建築物",
+          "path": "legislation/provisions/cap123/zh-Hant/s26A.json"
+        },
+        {
+          "id": "s27",
+          "heading": "封閉令",
+          "path": "legislation/provisions/cap123/zh-Hant/s27.json"
+        },
+        {
+          "id": "s27A",
+          "heading": "危險山坡等",
+          "path": "legislation/provisions/cap123/zh-Hant/s27A.json"
+        },
+        {
+          "id": "s27B",
+          "heading": "從水井抽取地下水對建築物造成的危險",
+          "path": "legislation/provisions/cap123/zh-Hant/s27B.json"
+        },
+        {
+          "id": "s27C",
+          "heading": "在斜坡等敷設的水管、排水渠或污水渠",
+          "path": "legislation/provisions/cap123/zh-Hant/s27C.json"
+        },
+        {
+          "id": "s28",
+          "heading": "排水",
+          "path": "legislation/provisions/cap123/zh-Hant/s28.json"
+        },
+        {
+          "id": "s28A",
+          "heading": "附表所列地區內的地下水排水工程",
+          "path": "legislation/provisions/cap123/zh-Hant/s28A.json"
+        },
+        {
+          "id": "s28B",
+          "heading": "在物業受影響的人提出反對等的情況下授權進行有關工程",
+          "path": "legislation/provisions/cap123/zh-Hant/s28B.json"
+        },
+        {
+          "id": "s28C",
+          "heading": "裁判官的手令",
+          "path": "legislation/provisions/cap123/zh-Hant/s28C.json"
+        },
+        {
+          "id": "s28D",
+          "heading": "修復損毀的義務及損毀的補償",
+          "path": "legislation/provisions/cap123/zh-Hant/s28D.json"
+        },
+        {
+          "id": "s29",
+          "heading": "私家街道及通路的建造及保養",
+          "path": "legislation/provisions/cap123/zh-Hant/s29.json"
+        },
+        {
+          "id": "s29A",
+          "heading": "緊急車輛通道的保養",
+          "path": "legislation/provisions/cap123/zh-Hant/s29A.json"
+        },
+        {
+          "id": "s30",
+          "heading": "街道的出入口",
+          "path": "legislation/provisions/cap123/zh-Hant/s30.json"
+        },
+        {
+          "id": "s30A",
+          "heading": "適用範圍",
+          "path": "legislation/provisions/cap123/zh-Hant/s30A.json"
+        },
+        {
+          "id": "s30B",
+          "heading": "擁有人對建築物進行訂明檢驗及訂明修葺的義務",
+          "path": "legislation/provisions/cap123/zh-Hant/s30B.json"
+        },
+        {
+          "id": "s30C",
+          "heading": "擁有人就窗戶進行訂明檢驗及訂明修葺的義務",
+          "path": "legislation/provisions/cap123/zh-Hant/s30C.json"
+        },
+        {
+          "id": "s30D",
+          "heading": "註冊檢驗人員的委任及職責",
+          "path": "legislation/provisions/cap123/zh-Hant/s30D.json"
+        },
+        {
+          "id": "s30E",
+          "heading": "合資格人士的委任及職責",
+          "path": "legislation/provisions/cap123/zh-Hant/s30E.json"
+        },
+        {
+          "id": "s30F",
+          "heading": "註冊一般建築承建商及註冊小型工程承建商的職責",
+          "path": "legislation/provisions/cap123/zh-Hant/s30F.json"
+        },
+        {
+          "id": "s31",
+          "heading": "在街道上或街道上方的伸出物",
+          "path": "legislation/provisions/cap123/zh-Hant/s31.json"
+        },
+        {
+          "id": "s32",
+          "heading": "街道命名與建築物編號",
+          "path": "legislation/provisions/cap123/zh-Hant/s32.json"
+        },
+        {
+          "id": "s32A",
+          "heading": "其他工程的進行和服務的提供",
+          "path": "legislation/provisions/cap123/zh-Hant/s32A.json"
+        },
+        {
+          "id": "s32B",
+          "heading": "前往施工未遂的費用",
+          "path": "legislation/provisions/cap123/zh-Hant/s32B.json"
+        },
+        {
+          "id": "s33",
+          "heading": "由建築事務監督追討費用及附加費",
+          "path": "legislation/provisions/cap123/zh-Hant/s33.json"
+        },
+        {
+          "id": "s34",
+          "heading": "對建築事務監督進行工程所產生的物料的處置",
+          "path": "legislation/provisions/cap123/zh-Hant/s34.json"
+        },
+        {
+          "id": "s35",
+          "heading": "通知及命令的送達",
+          "path": "legislation/provisions/cap123/zh-Hant/s35.json"
+        },
+        {
+          "id": "s36",
+          "heading": "",
+          "path": "legislation/provisions/cap123/zh-Hant/s36.json"
+        },
+        {
+          "id": "s36A",
+          "heading": "",
+          "path": "legislation/provisions/cap123/zh-Hant/s36A.json"
+        },
+        {
+          "id": "s36B",
+          "heading": "",
+          "path": "legislation/provisions/cap123/zh-Hant/s36B.json"
+        },
+        {
+          "id": "s36C",
+          "heading": "製作指明文件的紀錄和紀錄的文本或副本的權力",
+          "path": "legislation/provisions/cap123/zh-Hant/s36C.json"
+        },
+        {
+          "id": "s36D",
+          "heading": "文件的處置",
+          "path": "legislation/provisions/cap123/zh-Hant/s36D.json"
+        },
+        {
+          "id": "s36E",
+          "heading": "指明文件紀錄視為指明文件",
+          "path": "legislation/provisions/cap123/zh-Hant/s36E.json"
+        },
+        {
+          "id": "s36F",
+          "heading": "透過電子網絡向公眾提供指明文件紀錄",
+          "path": "legislation/provisions/cap123/zh-Hant/s36F.json"
+        },
+        {
+          "id": "s36G",
+          "heading": "指明文件的或指明文件紀錄的文本或副本等的發出、核證及查閱",
+          "path": "legislation/provisions/cap123/zh-Hant/s36G.json"
+        },
+        {
+          "id": "s36H",
+          "heading": "核證指明文件的或指明文件紀錄的文本或副本等的權力",
+          "path": "legislation/provisions/cap123/zh-Hant/s36H.json"
+        },
+        {
+          "id": "s36I",
+          "heading": "文本或副本等作為證據的可接納性",
+          "path": "legislation/provisions/cap123/zh-Hant/s36I.json"
+        },
+        {
+          "id": "s37",
+          "heading": "公職人員的法律責任的限制",
+          "path": "legislation/provisions/cap123/zh-Hant/s37.json"
+        },
+        {
+          "id": "s38",
+          "heading": "規例",
+          "path": "legislation/provisions/cap123/zh-Hant/s38.json"
+        },
+        {
+          "id": "s39",
+          "heading": "新規例的適用範圍",
+          "path": "legislation/provisions/cap123/zh-Hant/s39.json"
+        },
+        {
+          "id": "s39A",
+          "heading": "技術備忘錄",
+          "path": "legislation/provisions/cap123/zh-Hant/s39A.json"
+        },
+        {
+          "id": "s39B",
+          "heading": "阻礙業主立案法團",
+          "path": "legislation/provisions/cap123/zh-Hant/s39B.json"
+        },
+        {
+          "id": "s39C",
+          "heading": "建築事務監督不得根據第24條送達命令或根據第24C條送達通知",
+          "path": "legislation/provisions/cap123/zh-Hant/s39C.json"
+        },
+        {
+          "id": "s40",
+          "heading": "罪行",
+          "path": "legislation/provisions/cap123/zh-Hant/s40.json"
+        },
+        {
+          "id": "s41",
+          "heading": "豁免",
+          "path": "legislation/provisions/cap123/zh-Hant/s41.json"
+        },
+        {
+          "id": "s42",
+          "heading": "建築事務監督的豁免權力",
+          "path": "legislation/provisions/cap123/zh-Hant/s42.json"
+        },
+        {
+          "id": "s43",
+          "heading": "釋義",
+          "path": "legislation/provisions/cap123/zh-Hant/s43.json"
+        },
+        {
+          "id": "s44",
+          "heading": "就建築事務監督的決定提出上訴",
+          "path": "legislation/provisions/cap123/zh-Hant/s44.json"
+        },
+        {
+          "id": "s45",
+          "heading": "上訴審裁團",
+          "path": "legislation/provisions/cap123/zh-Hant/s45.json"
+        },
+        {
+          "id": "s46",
+          "heading": "上訴審裁小組秘書",
+          "path": "legislation/provisions/cap123/zh-Hant/s46.json"
+        },
+        {
+          "id": "s47",
+          "heading": "上訴通知",
+          "path": "legislation/provisions/cap123/zh-Hant/s47.json"
+        },
+        {
+          "id": "s48",
+          "heading": "上訴審裁小組",
+          "path": "legislation/provisions/cap123/zh-Hant/s48.json"
+        },
+        {
+          "id": "s49",
+          "heading": "初步聆訊",
+          "path": "legislation/provisions/cap123/zh-Hant/s49.json"
+        },
+        {
+          "id": "s50",
+          "heading": "上訴的裁定",
+          "path": "legislation/provisions/cap123/zh-Hant/s50.json"
+        },
+        {
+          "id": "s51",
+          "heading": "判給訟費的權力",
+          "path": "legislation/provisions/cap123/zh-Hant/s51.json"
+        },
+        {
+          "id": "s52",
+          "heading": "申述",
+          "path": "legislation/provisions/cap123/zh-Hant/s52.json"
+        },
+        {
+          "id": "s53",
+          "heading": "檢查",
+          "path": "legislation/provisions/cap123/zh-Hant/s53.json"
+        },
+        {
+          "id": "s53A",
+          "heading": "豁免權",
+          "path": "legislation/provisions/cap123/zh-Hant/s53A.json"
+        },
+        {
+          "id": "s53B",
+          "heading": "與上訴審裁小組有關的罪行",
+          "path": "legislation/provisions/cap123/zh-Hant/s53B.json"
+        },
+        {
+          "id": "s53C",
+          "heading": "案件呈述",
+          "path": "legislation/provisions/cap123/zh-Hant/s53C.json"
+        },
+        {
+          "id": "s53D",
+          "heading": "主席決定程序的權力",
+          "path": "legislation/provisions/cap123/zh-Hant/s53D.json"
+        },
+        {
+          "id": "s53E",
+          "heading": "釋義",
+          "path": "legislation/provisions/cap123/zh-Hant/s53E.json"
+        },
+        {
+          "id": "s53F",
+          "heading": "",
+          "path": "legislation/provisions/cap123/zh-Hant/s53F.json"
+        },
+        {
+          "id": "s53G",
+          "heading": "上訴權利的保留以及待決申請的裁定",
+          "path": "legislation/provisions/cap123/zh-Hant/s53G.json"
+        },
+        {
+          "id": "s53H",
+          "heading": "將某些註冊專業工程師列入岩土工程師名冊",
+          "path": "legislation/provisions/cap123/zh-Hant/s53H.json"
+        },
+        {
+          "id": "s53I",
+          "heading": "申請在沒有訂明資格的情況下名列岩土工程師名冊",
+          "path": "legislation/provisions/cap123/zh-Hant/s53I.json"
+        },
+        {
+          "id": "s53J",
+          "heading": "其他雜項事宜的過渡性條文",
+          "path": "legislation/provisions/cap123/zh-Hant/s53J.json"
+        },
+        {
+          "id": "s54",
+          "heading": "保留條文",
+          "path": "legislation/provisions/cap123/zh-Hant/s54.json"
+        },
+        {
+          "id": "s55",
+          "heading": "認可",
+          "path": "legislation/provisions/cap123/zh-Hant/s55.json"
+        },
+        {
+          "id": "s56",
+          "heading": "關於小型工程的保留條文及過渡性條文",
+          "path": "legislation/provisions/cap123/zh-Hant/s56.json"
+        },
+        {
+          "id": "sch1",
+          "heading": "",
+          "path": "legislation/provisions/cap123/zh-Hant/sch1.json"
+        },
+        {
+          "id": "sch2",
+          "heading": "《1935年建築物條例》*的條文繼續實施",
+          "path": "legislation/provisions/cap123/zh-Hant/sch2.json"
+        },
+        {
+          "id": "sch3",
+          "heading": "手令表格",
+          "path": "legislation/provisions/cap123/zh-Hant/sch3.json"
+        },
+        {
+          "id": "sch4",
+          "heading": "政府部門",
+          "path": "legislation/provisions/cap123/zh-Hant/sch4.json"
+        },
+        {
+          "id": "sch5",
+          "heading": "附表所列地區",
+          "path": "legislation/provisions/cap123/zh-Hant/sch5.json"
+        },
+        {
+          "id": "sch6",
+          "heading": "手令表格",
+          "path": "legislation/provisions/cap123/zh-Hant/sch6.json"
+        },
+        {
+          "id": "sch7",
+          "heading": "罰款通知書",
+          "path": "legislation/provisions/cap123/zh-Hant/sch7.json"
+        },
+        {
+          "id": "sch8",
+          "heading": "訂明建築物或建築工程",
+          "path": "legislation/provisions/cap123/zh-Hant/sch8.json"
+        }
+      ]
+    },
+    {
+      "chapter": "123A",
+      "language": "zh-Hant",
+      "version_date": "2024-06-30",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123A",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_zh-Hant.zip",
+      "archive_member": "cap_123A_zh-Hant_c/cap_123A_20240630000000_zh-Hant_c.xml",
+      "xml_path": "legislation/raw/cap123A/zh-Hant/cap_123A_20240630000000_zh-Hant_c.xml",
+      "sha256": "ff9d62aee5d5d6f3137ecdef06f6a35eb781648786844f89a374cc9aaf9134ea",
+      "files": [
+        {
+          "path": "legislation/raw/cap123A/zh-Hant/cap_123A_20240630000000_zh-Hant_c.xml",
+          "sha256": "ff9d62aee5d5d6f3137ecdef06f6a35eb781648786844f89a374cc9aaf9134ea",
+          "bytes": 198831
+        }
+      ],
+      "full_text_path": "legislation/text/cap123A/zh-Hant.txt",
+      "provisions": [
+        {
+          "id": "s1",
+          "heading": "引稱",
+          "path": "legislation/provisions/cap123A/zh-Hant/s1.json"
+        },
+        {
+          "id": "s2",
+          "heading": "釋義",
+          "path": "legislation/provisions/cap123A/zh-Hant/s2.json"
+        },
+        {
+          "id": "s3",
+          "heading": "名列於名冊的資格",
+          "path": "legislation/provisions/cap123A/zh-Hant/s3.json"
+        },
+        {
+          "id": "s4",
+          "heading": "對申請列入名冊所作的規定",
+          "path": "legislation/provisions/cap123A/zh-Hant/s4.json"
+        },
+        {
+          "id": "s4A",
+          "heading": "關於列入一般建築承建商名冊及專門承建商名冊的規定",
+          "path": "legislation/provisions/cap123A/zh-Hant/s4A.json"
+        },
+        {
+          "id": "s5",
+          "heading": "認可人士、註冊結構工程師或註冊岩土工程師不得沒有向委託人披露而以承建商等身分行事",
+          "path": "legislation/provisions/cap123A/zh-Hant/s5.json"
+        },
+        {
+          "id": "s5A",
+          "heading": "註冊檢驗人員不得沒有向委託人披露而從事建築物料交易等",
+          "path": "legislation/provisions/cap123A/zh-Hant/s5A.json"
+        },
+        {
+          "id": "s6",
+          "heading": "通知、圖則等的交付",
+          "path": "legislation/provisions/cap123A/zh-Hant/s6.json"
+        },
+        {
+          "id": "s6A",
+          "heading": "",
+          "path": "legislation/provisions/cap123A/zh-Hant/s6A.json"
+        },
+        {
+          "id": "s7",
+          "heading": "通知等的填寫及其上的簽署",
+          "path": "legislation/provisions/cap123A/zh-Hant/s7.json"
+        },
+        {
+          "id": "s8",
+          "heading": "就建築工程訂明的圖則",
+          "path": "legislation/provisions/cap123A/zh-Hant/s8.json"
+        },
+        {
+          "id": "s9",
+          "heading": "就街道工程訂明的圖則",
+          "path": "legislation/provisions/cap123A/zh-Hant/s9.json"
+        },
+        {
+          "id": "s10",
+          "heading": "建築事務監督要求取得額外圖則等的權力",
+          "path": "legislation/provisions/cap123A/zh-Hant/s10.json"
+        },
+        {
+          "id": "s11",
+          "heading": "呈交圖則及相關文件",
+          "path": "legislation/provisions/cap123A/zh-Hant/s11.json"
+        },
+        {
+          "id": "s11A",
+          "heading": "基礎圖則須與地盤平整工程圖則一併呈交",
+          "path": "legislation/provisions/cap123A/zh-Hant/s11A.json"
+        },
+        {
+          "id": "s12",
+          "heading": "圖則等須由製備的人簽署",
+          "path": "legislation/provisions/cap123A/zh-Hant/s12.json"
+        },
+        {
+          "id": "s13",
+          "heading": "圖則比例",
+          "path": "legislation/provisions/cap123A/zh-Hant/s13.json"
+        },
+        {
+          "id": "s14",
+          "heading": "圖則須清楚及在適當的物料上繪製或複製",
+          "path": "legislation/provisions/cap123A/zh-Hant/s14.json"
+        },
+        {
+          "id": "s15",
+          "heading": "建築事務監督拒絕接受圖則的權力",
+          "path": "legislation/provisions/cap123A/zh-Hant/s15.json"
+        },
+        {
+          "id": "s16",
+          "heading": "",
+          "path": "legislation/provisions/cap123A/zh-Hant/s16.json"
+        },
+        {
+          "id": "s17",
+          "heading": "",
+          "path": "legislation/provisions/cap123A/zh-Hant/s17.json"
+        },
+        {
+          "id": "s18",
+          "heading": "穩定性證明書",
+          "path": "legislation/provisions/cap123A/zh-Hant/s18.json"
+        },
+        {
+          "id": "s18A",
+          "heading": "認可人士等發出的證明書須與圖則一併呈交",
+          "path": "legislation/provisions/cap123A/zh-Hant/s18A.json"
+        },
+        {
+          "id": "s19",
+          "heading": "製備呈交建築事務監督的圖則的認可人士、註冊結構工程師或註冊岩土工程師如不再受聘須通知建築事務監督",
+          "path": "legislation/provisions/cap123A/zh-Hant/s19.json"
+        },
+        {
+          "id": "s20",
+          "heading": "在建築工程或街道工程展開前向建築事務監督發出通知",
+          "path": "legislation/provisions/cap123A/zh-Hant/s20.json"
+        },
+        {
+          "id": "s21",
+          "heading": "",
+          "path": "legislation/provisions/cap123A/zh-Hant/s21.json"
+        },
+        {
+          "id": "s22",
+          "heading": "更換認可人士、註冊結構工程師、註冊岩土工程師、註冊承建商等時須通知建築事務監督",
+          "path": "legislation/provisions/cap123A/zh-Hant/s22.json"
+        },
+        {
+          "id": "s23",
+          "heading": "須就委任等向建築事務監督提供的資料",
+          "path": "legislation/provisions/cap123A/zh-Hant/s23.json"
+        },
+        {
+          "id": "s24",
+          "heading": "不再獲委任的註冊承建商的責任",
+          "path": "legislation/provisions/cap123A/zh-Hant/s24.json"
+        },
+        {
+          "id": "s25",
+          "heading": "註冊承建商及認可人士須在建築工程完成時發出證明書",
+          "path": "legislation/provisions/cap123A/zh-Hant/s25.json"
+        },
+        {
+          "id": "s25A",
+          "heading": "供水證明書",
+          "path": "legislation/provisions/cap123A/zh-Hant/s25A.json"
+        },
+        {
+          "id": "s26",
+          "heading": "註冊承建商及認可人士須在街道工程完成時發出證明書",
+          "path": "legislation/provisions/cap123A/zh-Hant/s26.json"
+        },
+        {
+          "id": "s27",
+          "heading": "",
+          "path": "legislation/provisions/cap123A/zh-Hant/s27.json"
+        },
+        {
+          "id": "s28",
+          "heading": "就緊急工程聘用的認可人士、註冊結構工程師、註冊岩土工程師及註冊承建商須發出證明書",
+          "path": "legislation/provisions/cap123A/zh-Hant/s28.json"
+        },
+        {
+          "id": "s29",
+          "heading": "要求批准的申請",
+          "path": "legislation/provisions/cap123A/zh-Hant/s29.json"
+        },
+        {
+          "id": "s30",
+          "heading": "圖則的批准",
+          "path": "legislation/provisions/cap123A/zh-Hant/s30.json"
+        },
+        {
+          "id": "s31",
+          "heading": "要求同意展開工程的申請",
+          "path": "legislation/provisions/cap123A/zh-Hant/s31.json"
+        },
+        {
+          "id": "s32",
+          "heading": "同意展開工程",
+          "path": "legislation/provisions/cap123A/zh-Hant/s32.json"
+        },
+        {
+          "id": "s32A",
+          "heading": "",
+          "path": "legislation/provisions/cap123A/zh-Hant/s32A.json"
+        },
+        {
+          "id": "s33",
+          "heading": "建築工程及街道工程的改動或加建",
+          "path": "legislation/provisions/cap123A/zh-Hant/s33.json"
+        },
+        {
+          "id": "s34",
+          "heading": "同意恢復暫停的工程",
+          "path": "legislation/provisions/cap123A/zh-Hant/s34.json"
+        },
+        {
+          "id": "s35",
+          "heading": "本部所施加的職責對本條例或其他規例所施加的任何其他職責並無損害",
+          "path": "legislation/provisions/cap123A/zh-Hant/s35.json"
+        },
+        {
+          "id": "s36",
+          "heading": "認可人士向註冊承建商提供建築工程或街道工程圖則文本的職責",
+          "path": "legislation/provisions/cap123A/zh-Hant/s36.json"
+        },
+        {
+          "id": "s37",
+          "heading": "認可人士、註冊結構工程師或註冊岩土工程師的職責",
+          "path": "legislation/provisions/cap123A/zh-Hant/s37.json"
+        },
+        {
+          "id": "s38",
+          "heading": "認可人士或註冊結構工程師將第24條所指的通知呈交建築事務監督的職責",
+          "path": "legislation/provisions/cap123A/zh-Hant/s38.json"
+        },
+        {
+          "id": "s39",
+          "heading": "在建築工程或街道工程完成後進行額外檢查的費用",
+          "path": "legislation/provisions/cap123A/zh-Hant/s39.json"
+        },
+        {
+          "id": "s40",
+          "heading": "註冊承建商在地盤備存經批准圖則及監工計劃書的職責",
+          "path": "legislation/provisions/cap123A/zh-Hant/s40.json"
+        },
+        {
+          "id": "s41",
+          "heading": "註冊承建商監督的職責",
+          "path": "legislation/provisions/cap123A/zh-Hant/s41.json"
+        },
+        {
+          "id": "s42",
+          "heading": "費用",
+          "path": "legislation/provisions/cap123A/zh-Hant/s42.json"
+        },
+        {
+          "id": "s43",
+          "heading": "",
+          "path": "legislation/provisions/cap123A/zh-Hant/s43.json"
+        },
+        {
+          "id": "s44",
+          "heading": "製備圖則的認可人士、註冊結構工程師或註冊岩土工程師向建築事務監督提供他所要求的資料的職責",
+          "path": "legislation/provisions/cap123A/zh-Hant/s44.json"
+        },
+        {
+          "id": "s45",
+          "heading": "認可人士、註冊結構工程師、註冊岩土工程師、註冊檢驗人員、註冊承建商等就更改營業地址須通知建築事務監督的職責",
+          "path": "legislation/provisions/cap123A/zh-Hant/s45.json"
+        },
+        {
+          "id": "s46",
+          "heading": "建築事務監督在某些情況下要求新圖則的權力",
+          "path": "legislation/provisions/cap123A/zh-Hant/s46.json"
+        },
+        {
+          "id": "s47",
+          "heading": "根據本條例第25條發出的通知須附有圖則",
+          "path": "legislation/provisions/cap123A/zh-Hant/s47.json"
+        },
+        {
+          "id": "s48",
+          "heading": "規例不適用於根據簡化規定展開的小型工程",
+          "path": "legislation/provisions/cap123A/zh-Hant/s48.json"
+        },
+        {
+          "id": "sch0",
+          "heading": "",
+          "path": "legislation/provisions/cap123A/zh-Hant/sch0.json"
+        }
+      ]
+    },
+    {
+      "chapter": "123C",
+      "language": "zh-Hant",
+      "version_date": "2021-05-13",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123C",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_zh-Hant.zip",
+      "archive_member": "cap_123C_zh-Hant_c/cap_123C_20210513000000_zh-Hant_c.xml",
+      "xml_path": "legislation/raw/cap123C/zh-Hant/cap_123C_20210513000000_zh-Hant_c.xml",
+      "sha256": "e4ee074c3052dd376e5978bf1535c27e9a437491ab9c3ac196affd01849beb0c",
+      "files": [
+        {
+          "path": "legislation/raw/cap123C/zh-Hant/cap_123C_20210513000000_zh-Hant_c.xml",
+          "sha256": "e4ee074c3052dd376e5978bf1535c27e9a437491ab9c3ac196affd01849beb0c",
+          "bytes": 19031
+        }
+      ],
+      "full_text_path": "legislation/text/cap123C/zh-Hant.txt",
+      "provisions": [
+        {
+          "id": "s1",
+          "heading": "引稱",
+          "path": "legislation/provisions/cap123C/zh-Hant/s1.json"
+        },
+        {
+          "id": "s2",
+          "heading": "適用範圍",
+          "path": "legislation/provisions/cap123C/zh-Hant/s2.json"
+        },
+        {
+          "id": "s3",
+          "heading": "認可人士及註冊專門承建商在拆卸展開前的職責",
+          "path": "legislation/provisions/cap123C/zh-Hant/s3.json"
+        },
+        {
+          "id": "s4",
+          "heading": "有關撑柱等的條文",
+          "path": "legislation/provisions/cap123C/zh-Hant/s4.json"
+        },
+        {
+          "id": "s4A",
+          "heading": "進行拆卸工程的先後次序",
+          "path": "legislation/provisions/cap123C/zh-Hant/s4A.json"
+        },
+        {
+          "id": "s5",
+          "heading": "電纜等不得保持帶電",
+          "path": "legislation/provisions/cap123C/zh-Hant/s5.json"
+        },
+        {
+          "id": "s6",
+          "heading": "須採取預防措施以防止火警或爆炸等所構成的危險",
+          "path": "legislation/provisions/cap123C/zh-Hant/s6.json"
+        },
+        {
+          "id": "s7",
+          "heading": "有關用以移走物料等的槽管的條文",
+          "path": "legislation/provisions/cap123C/zh-Hant/s7.json"
+        },
+        {
+          "id": "s8",
+          "heading": "拆卸工程須在適任技術人員的監督下進行",
+          "path": "legislation/provisions/cap123C/zh-Hant/s8.json"
+        },
+        {
+          "id": "s9",
+          "heading": "某些工作只可在合資格的人的監督下進行",
+          "path": "legislation/provisions/cap123C/zh-Hant/s9.json"
+        },
+        {
+          "id": "s10",
+          "heading": "樓面等不得負荷過重",
+          "path": "legislation/provisions/cap123C/zh-Hant/s10.json"
+        },
+        {
+          "id": "s11",
+          "heading": "須就切割鋼製部分等採取預防措施",
+          "path": "legislation/provisions/cap123C/zh-Hant/s11.json"
+        },
+        {
+          "id": "s12",
+          "heading": "移走構架時須採取預防措施",
+          "path": "legislation/provisions/cap123C/zh-Hant/s12.json"
+        },
+        {
+          "id": "s13",
+          "heading": "罪行及罰則",
+          "path": "legislation/provisions/cap123C/zh-Hant/s13.json"
+        }
+      ]
+    },
+    {
+      "chapter": "123F",
+      "language": "zh-Hant",
+      "version_date": "2026-09-17",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123F",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_zh-Hant.zip",
+      "archive_member": "cap_123F_zh-Hant_c/cap_123F_20260917000000_zh-Hant_c.xml",
+      "xml_path": "legislation/raw/cap123F/zh-Hant/cap_123F_20260917000000_zh-Hant_c.xml",
+      "sha256": "1507dac47a72681d534292fbcbffe25ea46dd7d615534e4b09ecc61be464cbd7",
+      "files": [
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/cap_123F_20260917000000_zh-Hant_c.xml",
+          "sha256": "1507dac47a72681d534292fbcbffe25ea46dd7d615534e4b09ecc61be464cbd7",
+          "bytes": 416588
+        },
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/images/CAP123F_zh-Hant-HK_sch3_20200910_000000_0001.jpg",
+          "sha256": "aacd91daafc2e637427f5eb220d98ba2600044a0552714fcacc5dbf7cc50250f",
+          "bytes": 5101741
+        },
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/images/CAP123F_zh-Hant-HK_sch3_20200910_000000_0002.jpg",
+          "sha256": "bc2f204e85c6ec45b16c3e2861c320cd8ad536478d37a223ac0a364eda288ac4",
+          "bytes": 6428304
+        },
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/images/CAP123F_zh-Hant-HK_sch3_20200910_000000_0003.jpg",
+          "sha256": "9c21c8617c9b8cc6716223af29fa1459a19ac628c1e6f4b80f77a0911e0f559e",
+          "bytes": 8552743
+        },
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/images/CAP123F_zh-Hant-HK_sch3_20200910_000000_0004.jpg",
+          "sha256": "a497906ccabf92ea8ba5bfa51cf797ed9892ac569bc35141ac5c7a414300faa8",
+          "bytes": 5621459
+        },
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/images/CAP123F_zh-Hant-HK_sch3_20200910_000000_0005.jpg",
+          "sha256": "15b9a8dd3fd897a464628018f7abff6539a8b72bef6d61cea57718512dd7bc20",
+          "bytes": 6103500
+        },
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/images/CAP123F_zh-Hant-HK_sch3_20200910_000000_0006.jpg",
+          "sha256": "d53521a8f76f824eeea2545b757bcaa014f23fa13544f5b03dff6238f18f7ba9",
+          "bytes": 5315990
+        },
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/images/CAP123F_zh-Hant-HK_sch3_20200910_000000_0007.jpg",
+          "sha256": "5a6cc15913f770c4c666e168226ac6ab785b493b1c23e6792669eda5fb9a6696",
+          "bytes": 6450665
+        },
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/images/CAP123F_zh-Hant-HK_sch3_20200910_000000_0008.jpg",
+          "sha256": "6c45de1c87ace87a4dcfa1b21dfb06c5bb8b144e4392e6d40d24b64ffcc961a8",
+          "bytes": 5979487
+        }
+      ],
+      "full_text_path": "legislation/text/cap123F/zh-Hant.txt",
+      "provisions": [
+        {
+          "id": "s1",
+          "heading": "引稱",
+          "path": "legislation/provisions/cap123F/zh-Hant/s1.json"
+        },
+        {
+          "id": "s2",
+          "heading": "釋義",
+          "path": "legislation/provisions/cap123F/zh-Hant/s2.json"
+        },
+        {
+          "id": "s3",
+          "heading": "露台及外廊的防護",
+          "path": "legislation/provisions/cap123F/zh-Hant/s3.json"
+        },
+        {
+          "id": "s3A",
+          "heading": "開口的防護",
+          "path": "legislation/provisions/cap123F/zh-Hant/s3A.json"
+        },
+        {
+          "id": "s4",
+          "heading": "建築物不得阻礙或危及他人或造成滋擾",
+          "path": "legislation/provisions/cap123F/zh-Hant/s4.json"
+        },
+        {
+          "id": "s5",
+          "heading": "通往建築物的途徑與在新建築物的地盤闢設進出路徑等",
+          "path": "legislation/provisions/cap123F/zh-Hant/s5.json"
+        },
+        {
+          "id": "s6",
+          "heading": "由建築事務監督釐定道路或街道的闊度",
+          "path": "legislation/provisions/cap123F/zh-Hant/s6.json"
+        },
+        {
+          "id": "s7",
+          "heading": "屋簷、飛簷、裝飾線條等",
+          "path": "legislation/provisions/cap123F/zh-Hant/s7.json"
+        },
+        {
+          "id": "s8",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/zh-Hant/s8.json"
+        },
+        {
+          "id": "s9",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/zh-Hant/s9.json"
+        },
+        {
+          "id": "s10",
+          "heading": "街道上方的露台及簷篷",
+          "path": "legislation/provisions/cap123F/zh-Hant/s10.json"
+        },
+        {
+          "id": "s11",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/zh-Hant/s11.json"
+        },
+        {
+          "id": "s12",
+          "heading": "不得有門道通往簷篷",
+          "path": "legislation/provisions/cap123F/zh-Hant/s12.json"
+        },
+        {
+          "id": "s13",
+          "heading": "外廊或露台的用途",
+          "path": "legislation/provisions/cap123F/zh-Hant/s13.json"
+        },
+        {
+          "id": "s14",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/zh-Hant/s14.json"
+        },
+        {
+          "id": "s15",
+          "heading": "門等不得在街道上方開啟",
+          "path": "legislation/provisions/cap123F/zh-Hant/s15.json"
+        },
+        {
+          "id": "s16",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/zh-Hant/s16.json"
+        },
+        {
+          "id": "s17",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/zh-Hant/s17.json"
+        },
+        {
+          "id": "s18",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/zh-Hant/s18.json"
+        },
+        {
+          "id": "s18A",
+          "heading": "地盤分類",
+          "path": "legislation/provisions/cap123F/zh-Hant/s18A.json"
+        },
+        {
+          "id": "s19",
+          "heading": "關於上蓋面積及地積比率的一般條文",
+          "path": "legislation/provisions/cap123F/zh-Hant/s19.json"
+        },
+        {
+          "id": "s19A",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/zh-Hant/s19A.json"
+        },
+        {
+          "id": "s20",
+          "heading": "准許上蓋面積",
+          "path": "legislation/provisions/cap123F/zh-Hant/s20.json"
+        },
+        {
+          "id": "s21",
+          "heading": "准許地積比率",
+          "path": "legislation/provisions/cap123F/zh-Hant/s21.json"
+        },
+        {
+          "id": "s22",
+          "heading": "在某些情況下可超逾准許上蓋面積及地積比率",
+          "path": "legislation/provisions/cap123F/zh-Hant/s22.json"
+        },
+        {
+          "id": "s23",
+          "heading": "第19、20、21及22條的補充規定",
+          "path": "legislation/provisions/cap123F/zh-Hant/s23.json"
+        },
+        {
+          "id": "s23A",
+          "heading": "在關乎旅館方面對第19、20、21及22條作出補充的條文",
+          "path": "legislation/provisions/cap123F/zh-Hant/s23A.json"
+        },
+        {
+          "id": "s24",
+          "heading": "樓層高度",
+          "path": "legislation/provisions/cap123F/zh-Hant/s24.json"
+        },
+        {
+          "id": "s25",
+          "heading": "住用建築物周圍的空地",
+          "path": "legislation/provisions/cap123F/zh-Hant/s25.json"
+        },
+        {
+          "id": "s26",
+          "heading": "位於闊度少於4.5米的現有街道上的新建築物須自街道中心線向後退入",
+          "path": "legislation/provisions/cap123F/zh-Hant/s26.json"
+        },
+        {
+          "id": "s27",
+          "heading": "路塹",
+          "path": "legislation/provisions/cap123F/zh-Hant/s27.json"
+        },
+        {
+          "id": "s28",
+          "heading": "通道",
+          "path": "legislation/provisions/cap123F/zh-Hant/s28.json"
+        },
+        {
+          "id": "s28A",
+          "heading": "為電訊及廣播服務而設的接達設施",
+          "path": "legislation/provisions/cap123F/zh-Hant/s28A.json"
+        },
+        {
+          "id": "s29",
+          "heading": "照明與通風",
+          "path": "legislation/provisions/cap123F/zh-Hant/s29.json"
+        },
+        {
+          "id": "s30",
+          "heading": "用作或擬用作居住用途或辦公室或廚房的房間的照明與通風",
+          "path": "legislation/provisions/cap123F/zh-Hant/s30.json"
+        },
+        {
+          "id": "s31",
+          "heading": "對窗的起碼規定",
+          "path": "legislation/provisions/cap123F/zh-Hant/s31.json"
+        },
+        {
+          "id": "s32",
+          "heading": "房間內任何部分與訂明的窗的距離的限制",
+          "path": "legislation/provisions/cap123F/zh-Hant/s32.json"
+        },
+        {
+          "id": "s33",
+          "heading": "向圍封的外廊等開啟的窗",
+          "path": "legislation/provisions/cap123F/zh-Hant/s33.json"
+        },
+        {
+          "id": "s34",
+          "heading": "辦公室的機械通風與人工照明",
+          "path": "legislation/provisions/cap123F/zh-Hant/s34.json"
+        },
+        {
+          "id": "s35",
+          "heading": "可規定加設通風口",
+          "path": "legislation/provisions/cap123F/zh-Hant/s35.json"
+        },
+        {
+          "id": "s35A",
+          "heading": "為浴室內的密封式氣體熱水爐提供設施",
+          "path": "legislation/provisions/cap123F/zh-Hant/s35A.json"
+        },
+        {
+          "id": "s36",
+          "heading": "內有便溺污水設備的房間",
+          "path": "legislation/provisions/cap123F/zh-Hant/s36.json"
+        },
+        {
+          "id": "s37",
+          "heading": "光線及空氣不得減少",
+          "path": "legislation/provisions/cap123F/zh-Hant/s37.json"
+        },
+        {
+          "id": "s38",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/zh-Hant/s38.json"
+        },
+        {
+          "id": "s39",
+          "heading": "樓梯",
+          "path": "legislation/provisions/cap123F/zh-Hant/s39.json"
+        },
+        {
+          "id": "s40",
+          "heading": "擬供獨立佔用的建築物內的樓梯",
+          "path": "legislation/provisions/cap123F/zh-Hant/s40.json"
+        },
+        {
+          "id": "s40A",
+          "heading": "自動梯外須有樓梯或緊急情況用的逃生途徑",
+          "path": "legislation/provisions/cap123F/zh-Hant/s40A.json"
+        },
+        {
+          "id": "s41",
+          "heading": "逃生途徑",
+          "path": "legislation/provisions/cap123F/zh-Hant/s41.json"
+        },
+        {
+          "id": "s41A",
+          "heading": "供消防員使用的通道樓梯",
+          "path": "legislation/provisions/cap123F/zh-Hant/s41A.json"
+        },
+        {
+          "id": "s41B",
+          "heading": "消防員升降機",
+          "path": "legislation/provisions/cap123F/zh-Hant/s41B.json"
+        },
+        {
+          "id": "s41C",
+          "heading": "消防和救援樓梯間",
+          "path": "legislation/provisions/cap123F/zh-Hant/s41C.json"
+        },
+        {
+          "id": "s41D",
+          "heading": "緊急車輛通道",
+          "path": "legislation/provisions/cap123F/zh-Hant/s41D.json"
+        },
+        {
+          "id": "s42",
+          "heading": "樓梯平台、門廊及通道",
+          "path": "legislation/provisions/cap123F/zh-Hant/s42.json"
+        },
+        {
+          "id": "s43",
+          "heading": "與樓梯的距離",
+          "path": "legislation/provisions/cap123F/zh-Hant/s43.json"
+        },
+        {
+          "id": "s44",
+          "heading": "旋轉門及回轉欄",
+          "path": "legislation/provisions/cap123F/zh-Hant/s44.json"
+        },
+        {
+          "id": "s45",
+          "heading": "廚房",
+          "path": "legislation/provisions/cap123F/zh-Hant/s45.json"
+        },
+        {
+          "id": "s46",
+          "heading": "唐樓",
+          "path": "legislation/provisions/cap123F/zh-Hant/s46.json"
+        },
+        {
+          "id": "s47",
+          "heading": "緊連擋土牆的建築物",
+          "path": "legislation/provisions/cap123F/zh-Hant/s47.json"
+        },
+        {
+          "id": "s48",
+          "heading": "擋土牆構成建築物的一部分",
+          "path": "legislation/provisions/cap123F/zh-Hant/s48.json"
+        },
+        {
+          "id": "s49",
+          "heading": "建築物不得用作住用和危險行業用途",
+          "path": "legislation/provisions/cap123F/zh-Hant/s49.json"
+        },
+        {
+          "id": "s49A",
+          "heading": "公眾娛樂場所的位置",
+          "path": "legislation/provisions/cap123F/zh-Hant/s49A.json"
+        },
+        {
+          "id": "s49B",
+          "heading": "電影院",
+          "path": "legislation/provisions/cap123F/zh-Hant/s49B.json"
+        },
+        {
+          "id": "s49C",
+          "heading": "住用設備",
+          "path": "legislation/provisions/cap123F/zh-Hant/s49C.json"
+        },
+        {
+          "id": "s49D",
+          "heading": "樓面及層級",
+          "path": "legislation/provisions/cap123F/zh-Hant/s49D.json"
+        },
+        {
+          "id": "s49E",
+          "heading": "等候用設備",
+          "path": "legislation/provisions/cap123F/zh-Hant/s49E.json"
+        },
+        {
+          "id": "s50",
+          "heading": "臨時建築物及非耐用物料的定義",
+          "path": "legislation/provisions/cap123F/zh-Hant/s50.json"
+        },
+        {
+          "id": "s51",
+          "heading": "須提出的申請",
+          "path": "legislation/provisions/cap123F/zh-Hant/s51.json"
+        },
+        {
+          "id": "s52",
+          "heading": "臨時建築物的定位",
+          "path": "legislation/provisions/cap123F/zh-Hant/s52.json"
+        },
+        {
+          "id": "s53",
+          "heading": "承建商屋棚",
+          "path": "legislation/provisions/cap123F/zh-Hant/s53.json"
+        },
+        {
+          "id": "s54",
+          "heading": "須設有廚房、廁所及排水設施",
+          "path": "legislation/provisions/cap123F/zh-Hant/s54.json"
+        },
+        {
+          "id": "s55",
+          "heading": "須使帶電電線或電纜安全",
+          "path": "legislation/provisions/cap123F/zh-Hant/s55.json"
+        },
+        {
+          "id": "s56",
+          "heading": "建築事務監督可建立屋棚",
+          "path": "legislation/provisions/cap123F/zh-Hant/s56.json"
+        },
+        {
+          "id": "s57",
+          "heading": "保證金的繳存",
+          "path": "legislation/provisions/cap123F/zh-Hant/s57.json"
+        },
+        {
+          "id": "s58",
+          "heading": "准許證的取消",
+          "path": "legislation/provisions/cap123F/zh-Hant/s58.json"
+        },
+        {
+          "id": "s59",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/zh-Hant/s59.json"
+        },
+        {
+          "id": "s60",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/zh-Hant/s60.json"
+        },
+        {
+          "id": "s61",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/zh-Hant/s61.json"
+        },
+        {
+          "id": "s62",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/zh-Hant/s62.json"
+        },
+        {
+          "id": "s63",
+          "heading": "",
+          "path": "legislation/provisions/cap123F/zh-Hant/s63.json"
+        },
+        {
+          "id": "s64",
+          "heading": "須呈交圍板等的圖則",
+          "path": "legislation/provisions/cap123F/zh-Hant/s64.json"
+        },
+        {
+          "id": "s65",
+          "heading": "准許證格式及建築事務監督作出規定的權力",
+          "path": "legislation/provisions/cap123F/zh-Hant/s65.json"
+        },
+        {
+          "id": "s66",
+          "heading": "圍板等的保養",
+          "path": "legislation/provisions/cap123F/zh-Hant/s66.json"
+        },
+        {
+          "id": "s67",
+          "heading": "持證人的法律責任",
+          "path": "legislation/provisions/cap123F/zh-Hant/s67.json"
+        },
+        {
+          "id": "s68",
+          "heading": "須使帶電電線或電纜安全",
+          "path": "legislation/provisions/cap123F/zh-Hant/s68.json"
+        },
+        {
+          "id": "s69",
+          "heading": "保證金的繳存",
+          "path": "legislation/provisions/cap123F/zh-Hant/s69.json"
+        },
+        {
+          "id": "s70",
+          "heading": "准許證的取消",
+          "path": "legislation/provisions/cap123F/zh-Hant/s70.json"
+        },
+        {
+          "id": "s71",
+          "heading": "建築事務監督准許窗等面對未圍封的外廊等或向未圍封的外廊等通風的權力",
+          "path": "legislation/provisions/cap123F/zh-Hant/s71.json"
+        },
+        {
+          "id": "s72",
+          "heading": "建築物須經規劃以供殘疾人士使用",
+          "path": "legislation/provisions/cap123F/zh-Hant/s72.json"
+        },
+        {
+          "id": "s73",
+          "heading": "利便長者的建築物設計規定",
+          "path": "legislation/provisions/cap123F/zh-Hant/s73.json"
+        },
+        {
+          "id": "sch1",
+          "heading": "上蓋面積百分率及地積比率",
+          "path": "legislation/provisions/cap123F/zh-Hant/sch1.json"
+        },
+        {
+          "id": "sch2",
+          "heading": "住用建築物周圍的空地",
+          "path": "legislation/provisions/cap123F/zh-Hant/sch2.json"
+        },
+        {
+          "id": "sch3",
+          "heading": "殘疾人士",
+          "path": "legislation/provisions/cap123F/zh-Hant/sch3.json"
+        },
+        {
+          "id": "sch4",
+          "heading": "利便長者的建築物設計規定",
+          "path": "legislation/provisions/cap123F/zh-Hant/sch4.json"
+        }
+      ]
+    },
+    {
+      "chapter": "123Q",
+      "language": "zh-Hant",
+      "version_date": "2021-06-24",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123Q",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_zh-Hant.zip",
+      "archive_member": "cap_123Q_zh-Hant_c/cap_123Q_20210624000000_zh-Hant_c.xml",
+      "xml_path": "legislation/raw/cap123Q/zh-Hant/cap_123Q_20210624000000_zh-Hant_c.xml",
+      "sha256": "129b8ed53fe271d87e100e62181f73ae84868e7e15a87c5664b1d93b62fd98c8",
+      "files": [
+        {
+          "path": "legislation/raw/cap123Q/zh-Hant/cap_123Q_20210624000000_zh-Hant_c.xml",
+          "sha256": "129b8ed53fe271d87e100e62181f73ae84868e7e15a87c5664b1d93b62fd98c8",
+          "bytes": 185287
+        }
+      ],
+      "full_text_path": "legislation/text/cap123Q/zh-Hant.txt",
+      "provisions": [
+        {
+          "id": "s1",
+          "heading": "",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s1.json"
+        },
+        {
+          "id": "s2",
+          "heading": "釋義",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s2.json"
+        },
+        {
+          "id": "s3",
+          "heading": "物料",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s3.json"
+        },
+        {
+          "id": "s4",
+          "heading": "恆載",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s4.json"
+        },
+        {
+          "id": "s5",
+          "heading": "外加荷載",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s5.json"
+        },
+        {
+          "id": "s6",
+          "heading": "風荷載",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s6.json"
+        },
+        {
+          "id": "s7",
+          "heading": "須施加的外加荷載",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s7.json"
+        },
+        {
+          "id": "s8",
+          "heading": "外加荷載的折減",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s8.json"
+        },
+        {
+          "id": "s9",
+          "heading": "外加荷載——防護欄障的設計",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s9.json"
+        },
+        {
+          "id": "s10",
+          "heading": "外加荷載——動力效應所產生的力",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s10.json"
+        },
+        {
+          "id": "s11",
+          "heading": "關於荷載的告示",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s11.json"
+        },
+        {
+          "id": "s12",
+          "heading": "負荷過重",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s12.json"
+        },
+        {
+          "id": "s13",
+          "heading": "設計方法",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s13.json"
+        },
+        {
+          "id": "s14",
+          "heading": "強度及正常使用的考慮",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s14.json"
+        },
+        {
+          "id": "s15",
+          "heading": "穩定性",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s15.json"
+        },
+        {
+          "id": "s16",
+          "heading": "建造方法及程序",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s16.json"
+        },
+        {
+          "id": "s17",
+          "heading": "地盤勘測",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s17.json"
+        },
+        {
+          "id": "s18",
+          "heading": "基礎",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s18.json"
+        },
+        {
+          "id": "s19",
+          "heading": "建築事務監督可要求實地測試",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s19.json"
+        },
+        {
+          "id": "s20",
+          "heading": "基礎單元的驗證測試",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s20.json"
+        },
+        {
+          "id": "s21",
+          "heading": "地盤平整工程",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s21.json"
+        },
+        {
+          "id": "s22",
+          "heading": "釋義——第22、23及24條",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s22.json"
+        },
+        {
+          "id": "s23",
+          "heading": "擋土牆——設計及建造",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s23.json"
+        },
+        {
+          "id": "s24",
+          "heading": "擋土牆——排水及其他規定",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s24.json"
+        },
+        {
+          "id": "s25",
+          "heading": "在附表所列地區的第1號地區內的大型挖掘工程",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s25.json"
+        },
+        {
+          "id": "s26",
+          "heading": "釋義——第8部",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s26.json"
+        },
+        {
+          "id": "s27",
+          "heading": "外牆",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s27.json"
+        },
+        {
+          "id": "s28",
+          "heading": "覆蓋層",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s28.json"
+        },
+        {
+          "id": "s29",
+          "heading": "幕牆——設計",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s29.json"
+        },
+        {
+          "id": "s30",
+          "heading": "幕牆——物料",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s30.json"
+        },
+        {
+          "id": "s31",
+          "heading": "幕牆——固定承托物和保養",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s31.json"
+        },
+        {
+          "id": "s32",
+          "heading": "牆壁——防止水分滲入的保護",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s32.json"
+        },
+        {
+          "id": "s33",
+          "heading": "樓面及毗鄰的地面",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s33.json"
+        },
+        {
+          "id": "s34",
+          "heading": "屋頂",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s34.json"
+        },
+        {
+          "id": "s35",
+          "heading": "耐火結構",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s35.json"
+        },
+        {
+          "id": "s36",
+          "heading": "適用範圍——第1分部",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s36.json"
+        },
+        {
+          "id": "s37",
+          "heading": "設置防護欄障",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s37.json"
+        },
+        {
+          "id": "s38",
+          "heading": "防護欄障——設計及建造",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s38.json"
+        },
+        {
+          "id": "s39",
+          "heading": "適用範圍及釋義——第2分部",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s39.json"
+        },
+        {
+          "id": "s40",
+          "heading": "與升降機及自動梯相關的設計及建造",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s40.json"
+        },
+        {
+          "id": "s41",
+          "heading": "就使用升降機及自動梯的警告告示",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s41.json"
+        },
+        {
+          "id": "s42",
+          "heading": "土地處理",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s42.json"
+        },
+        {
+          "id": "s43",
+          "heading": "井",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s43.json"
+        },
+        {
+          "id": "s44",
+          "heading": "煙囱及煙道",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s44.json"
+        },
+        {
+          "id": "s45",
+          "heading": "壁爐",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s45.json"
+        },
+        {
+          "id": "s46",
+          "heading": "蟲鼠棲息之地",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s46.json"
+        },
+        {
+          "id": "s47",
+          "heading": "管道",
+          "path": "legislation/provisions/cap123Q/zh-Hant/s47.json"
+        },
+        {
+          "id": "sch0",
+          "heading": "關於外加荷載的計算",
+          "path": "legislation/provisions/cap123Q/zh-Hant/sch0.json"
+        }
+      ]
+    }
+  ]
+}

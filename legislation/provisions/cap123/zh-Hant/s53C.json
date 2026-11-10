@@ -1,0 +1,34 @@
+{
+  "chapter": "123",
+  "language": "zh-Hant",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/zh-Hant/cap_123_20260301000000_zh-Hant_c.xml",
+  "sha256": "c563be5190519c71a48e73e4242ded97a7b163828dd618f1d7bd442168d18a87",
+  "provision": "s53C",
+  "kind": "section",
+  "role": "section",
+  "heading": "案件呈述",
+  "context": [
+    "上訴"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402643385_002",
+  "content": "53C.\n案件呈述\n(1)\n聆訊任何上訴的上訴審裁小組可用案件呈述的方式，將任何關乎該上訴的法律問題轉呈上訴法庭決定。\n(2)\n根據第(1)款作出的案件呈述，須於上訴審裁小組就上訴作出裁定前呈述，並由主席簽署，而審裁小組不得在上訴法庭作出決定前就有關上訴作出裁定。\n(3)\n上訴法庭如就根據本條呈述的案件作出決定，須安排將案件呈述書連同上訴法庭決定書，送交主席，而主席須(如適當)重新召集有關的上訴審裁小組，該審裁小組在重新召集後，須就有關上訴作出裁定。\n(由1998年第25號第2條修訂)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s53C_1",
+      "content": "(1)\n聆訊任何上訴的上訴審裁小組可用案件呈述的方式，將任何關乎該上訴的法律問題轉呈上訴法庭決定。"
+    },
+    {
+      "identifier": "s53C_2",
+      "content": "(2)\n根據第(1)款作出的案件呈述，須於上訴審裁小組就上訴作出裁定前呈述，並由主席簽署，而審裁小組不得在上訴法庭作出決定前就有關上訴作出裁定。"
+    },
+    {
+      "identifier": "s53C_3",
+      "content": "(3)\n上訴法庭如就根據本條呈述的案件作出決定，須安排將案件呈述書連同上訴法庭決定書，送交主席，而主席須(如適當)重新召集有關的上訴審裁小組，該審裁小組在重新召集後，須就有關上訴作出裁定。"
+    }
+  ],
+  "path": "legislation/provisions/cap123/zh-Hant/s53C.json"
+}

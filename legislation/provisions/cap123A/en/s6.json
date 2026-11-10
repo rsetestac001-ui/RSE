@@ -1,0 +1,30 @@
+{
+  "chapter": "123A",
+  "language": "en",
+  "version_date": "2024-06-30",
+  "xml_path": "legislation/raw/cap123A/en/cap_123A_20240630000000_en_c.xml",
+  "sha256": "5771573b06136e07b8ae6089ce698688f3d10bcd2b49e6a2bc79daddd58fb6f9",
+  "provision": "s6",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Delivery of notices, plans, etc.",
+  "context": [
+    "Plans, Certificates and Notices"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123A?xpid=ID_1438402643916_003",
+  "content": "6.\nDelivery of notices, plans, etc.\n(1)\nEvery notice, form, certificate, plan or other document required by the\nOrdinance or regulations made thereunder to be sent to the Building Authority shall\nbe sent to him by post or by delivering the same to his office during office\nhours.\n(2)\nWhere any plans submitted to the Building Authority for his approval or the\nbuilding works or street works shown thereon do not comply with the provisions\nof the Ordinance or regulations, the Building Authority may charge the applicant\nthe prescribed fee in respect of every further submission to the Building\nAuthority of such plans:\n(L.N. 63 of 1966; L.N. 188 of 1974; L.N. 120 of\n1991)\nProvided that such fee shall not\nbe chargeable where the Building Authority is satisfied that a further\nsubmission of any plans was occasioned by a bona fide misinterpretation of the\nprovisions of the Ordinance or regulations.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s6_1",
+      "content": "(1)\nEvery notice, form, certificate, plan or other document required by the\nOrdinance or regulations made thereunder to be sent to the Building Authority shall\nbe sent to him by post or by delivering the same to his office during office\nhours."
+    },
+    {
+      "identifier": "s6_2",
+      "content": "(2)\nWhere any plans submitted to the Building Authority for his approval or the\nbuilding works or street works shown thereon do not comply with the provisions\nof the Ordinance or regulations, the Building Authority may charge the applicant\nthe prescribed fee in respect of every further submission to the Building\nAuthority of such plans:\n(L.N. 63 of 1966; L.N. 188 of 1974; L.N. 120 of\n1991)\nProvided that such fee shall not\nbe chargeable where the Building Authority is satisfied that a further\nsubmission of any plans was occasioned by a bona fide misinterpretation of the\nprovisions of the Ordinance or regulations."
+    }
+  ],
+  "path": "legislation/provisions/cap123A/en/s6.json"
+}

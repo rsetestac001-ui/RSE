@@ -1,0 +1,34 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s10",
+  "kind": "section",
+  "role": "section",
+  "heading": "Imposed loads—forces produced by dynamic effects",
+  "context": [
+    "Loads"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645660_067",
+  "content": "10.\nImposed loads—forces produced by dynamic effects\n(1)\nForces produced by dynamic effects are considered as additional imposed loads in the design of any building, street, building works and street works.\n(2)\nSubject to subsection (3), the forces produced by dynamic effects in a factory, workshop or other building for industrial use may be determined on the basis of information about the factory, workshop or building.\n(3)\nIf the forces referred to in subsection (2) are not determined on the basis of information about the factory, workshop or building—\n(a)\nfor the purpose only of determining the design of slabs and beams—the forces are taken to be an additional vertical imposed load of 2.5 kPa; and\n(b)\nfor the purpose of determining the design of structural frames and foundations—the forces are taken to be an additional horizontal force (which may be assumed not to act together with the wind load) of 10% of the imposed load specified in paragraph (a), acting simultaneously on the number of floors (the number) that will produce the greatest adverse effect, where the number should be a whole number not less than 0.2 times the total number of floors subject to dynamic effects.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s10_1",
+      "content": "(1)\nForces produced by dynamic effects are considered as additional imposed loads in the design of any building, street, building works and street works."
+    },
+    {
+      "identifier": "s10_2",
+      "content": "(2)\nSubject to subsection (3), the forces produced by dynamic effects in a factory, workshop or other building for industrial use may be determined on the basis of information about the factory, workshop or building."
+    },
+    {
+      "identifier": "s10_3",
+      "content": "(3)\nIf the forces referred to in subsection (2) are not determined on the basis of information about the factory, workshop or building—\n(a)\nfor the purpose only of determining the design of slabs and beams—the forces are taken to be an additional vertical imposed load of 2.5 kPa; and\n(b)\nfor the purpose of determining the design of structural frames and foundations—the forces are taken to be an additional horizontal force (which may be assumed not to act together with the wind load) of 10% of the imposed load specified in paragraph (a), acting simultaneously on the number of floors (the number) that will produce the greatest adverse effect, where the number should be a whole number not less than 0.2 times the total number of floors subject to dynamic effects."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s10.json"
+}

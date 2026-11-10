@@ -1,0 +1,34 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s31",
+  "kind": "section",
+  "role": "section",
+  "heading": "Curtain wall—fixing of supports and maintenance",
+  "context": [
+    "Requirements for External Wall, Cladding and Curtain Wall"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212646082_225",
+  "content": "31.\nCurtain wall—fixing of supports and maintenance\n(1)\nA curtain wall support of a building must be fixed on to a load-bearing structure of the building—\n(a)\nby a cast-in anchorage in a structural concrete member of the structure; or\n(b)\nby welding or bolting to a structural steel member of the structure.\n(2)\nThe fixing of a curtain wall support to a load-bearing structure of a building must not—\n(a)\nimpair the structural integrity of the member of the structure to which the support is fixed; or\n(b)\nadversely affect the performance of the member.\n(3)\nAdequate means of access to the outer surface of a curtain wall of a building or a projection from the wall must be provided for the maintenance or repair of the wall or projection.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s31_1",
+      "content": "(1)\nA curtain wall support of a building must be fixed on to a load-bearing structure of the building—\n(a)\nby a cast-in anchorage in a structural concrete member of the structure; or\n(b)\nby welding or bolting to a structural steel member of the structure."
+    },
+    {
+      "identifier": "s31_2",
+      "content": "(2)\nThe fixing of a curtain wall support to a load-bearing structure of a building must not—\n(a)\nimpair the structural integrity of the member of the structure to which the support is fixed; or\n(b)\nadversely affect the performance of the member."
+    },
+    {
+      "identifier": "s31_3",
+      "content": "(3)\nAdequate means of access to the outer surface of a curtain wall of a building or a projection from the wall must be provided for the maintenance or repair of the wall or projection."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s31.json"
+}

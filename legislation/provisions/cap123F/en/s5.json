@@ -1,0 +1,30 @@
+{
+  "chapter": "123F",
+  "language": "en",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+  "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+  "provision": "s5",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Access to buildings and provision of access lanes, etc., on site of new building",
+  "context": [
+    "General"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402647192_002",
+  "content": "5.\nAccess to buildings and provision of access lanes, etc., on site of new building\n(1)\nEvery building shall be provided with means of obtaining access thereto from a street.\n(2)\nThe Building Authority may require the provision of an access lane or access road within the site of any new building.\n(G.N.A. 83 of 1959)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s5_1",
+      "content": "(1)\nEvery building shall be provided with means of obtaining access thereto from a street."
+    },
+    {
+      "identifier": "s5_2",
+      "content": "(2)\nThe Building Authority may require the provision of an access lane or access road within the site of any new building."
+    }
+  ],
+  "path": "legislation/provisions/cap123F/en/s5.json"
+}

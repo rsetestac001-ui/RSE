@@ -1,0 +1,34 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s32",
+  "kind": "section",
+  "role": "section",
+  "heading": "Naming of streets and numbering of buildings",
+  "context": [
+    "Miscellaneous and General"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402642590_001",
+  "content": "32.\nNaming of streets and numbering of buildings\n(1)\nThe Building Authority may affix to or paint or cause to be affixed to or painted on any building which fronts or abuts on any street the name of such street.\n(2)\nThe Building Authority or Commissioner of Rating and Valuation may by an order in writing served on the owner of any building which fronts or abuts on any street require such building to be marked with the number allocated by, and in such manner as may be prescribed by the Commissioner of Rating and Valuation for the purpose of distinguishing such building.\n(Amended 44 of 1959 s. 14; 91 of 1990 s. 5)\n(3)\nNo person shall obscure or deface any street name or building number.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s32_1",
+      "content": "(1)\nThe Building Authority may affix to or paint or cause to be affixed to or painted on any building which fronts or abuts on any street the name of such street."
+    },
+    {
+      "identifier": "s32_2",
+      "content": "(2)\nThe Building Authority or Commissioner of Rating and Valuation may by an order in writing served on the owner of any building which fronts or abuts on any street require such building to be marked with the number allocated by, and in such manner as may be prescribed by the Commissioner of Rating and Valuation for the purpose of distinguishing such building.\n(Amended 44 of 1959 s. 14; 91 of 1990 s. 5)"
+    },
+    {
+      "identifier": "s32_3",
+      "content": "(3)\nNo person shall obscure or deface any street name or building number."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s32.json"
+}

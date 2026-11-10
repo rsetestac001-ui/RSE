@@ -1,0 +1,38 @@
+{
+  "chapter": "123",
+  "language": "zh-Hant",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/zh-Hant/cap_123_20260301000000_zh-Hant_c.xml",
+  "sha256": "c563be5190519c71a48e73e4242ded97a7b163828dd618f1d7bd442168d18a87",
+  "provision": "s14A",
+  "kind": "section",
+  "role": "section",
+  "heading": "如不遞交監工計劃書不得當作建築事務監督同意",
+  "context": [
+    "建築管制"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402641747_002",
+  "content": "14A.\n如不遞交監工計劃書不得當作建築事務監督同意\n(1)\n如認可人士未遞交建築工程或街道工程的監工計劃書，則不得根據第15條當作建築事務監督已給予同意。\n(2)\n如建築事務監督不需要監工計劃書，則第(1)款不適用。\n(3)\n製備監工計劃書的人須遵從遞交監工計劃書時適用的技術備忘錄。\n(4)\n製備監工計劃書的人須對監工計劃書的內容負責。\n(由1996年第54號第15條增補)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s14A_1",
+      "content": "(1)\n如認可人士未遞交建築工程或街道工程的監工計劃書，則不得根據第15條當作建築事務監督已給予同意。"
+    },
+    {
+      "identifier": "s14A_2",
+      "content": "(2)\n如建築事務監督不需要監工計劃書，則第(1)款不適用。"
+    },
+    {
+      "identifier": "s14A_3",
+      "content": "(3)\n製備監工計劃書的人須遵從遞交監工計劃書時適用的技術備忘錄。"
+    },
+    {
+      "identifier": "s14A_4",
+      "content": "(4)\n製備監工計劃書的人須對監工計劃書的內容負責。"
+    }
+  ],
+  "path": "legislation/provisions/cap123/zh-Hant/s14A.json"
+}

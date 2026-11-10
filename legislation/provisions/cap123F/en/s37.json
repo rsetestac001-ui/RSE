@@ -1,0 +1,21 @@
+{
+  "chapter": "123F",
+  "language": "en",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+  "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+  "provision": "s37",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Light and air not to be diminished",
+  "context": [
+    "Lighting\nand\nVentilation"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402647862_001",
+  "content": "37.\nLight and air not to be diminished\nNo building shall be erected in such a manner as to reduce the quantity of light and air available to any other building, which has been erected in accordance with these regulations, below that required under these regulations.",
+  "images": [],
+  "subsections": [],
+  "path": "legislation/provisions/cap123F/en/s37.json"
+}

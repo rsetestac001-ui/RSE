@@ -1,0 +1,32 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s2A",
+  "kind": "section",
+  "role": "section",
+  "heading": "Designation of specialized works",
+  "context": [],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402641045_002",
+  "content": "2A.\nDesignation of specialized works\n(1)\nThe Building Authority may designate any category of building works or street\nworks as specialized works.\n(2)\nThe Building Authority shall notify in the Gazette a designation under\nsubsection (1).\n(3)\nThe notification in subsection (2) is not subsidiary legislation.\n(Addd 20 of 2008 s.\n4)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s2A_1",
+      "content": "(1)\nThe Building Authority may designate any category of building works or street\nworks as specialized works."
+    },
+    {
+      "identifier": "s2A_2",
+      "content": "(2)\nThe Building Authority shall notify in the Gazette a designation under\nsubsection (1)."
+    },
+    {
+      "identifier": "s2A_3",
+      "content": "(3)\nThe notification in subsection (2) is not subsidiary legislation."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s2A.json"
+}

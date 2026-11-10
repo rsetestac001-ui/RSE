@@ -1,0 +1,30 @@
+{
+  "chapter": "123F",
+  "language": "en",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+  "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+  "provision": "s41",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Means of escape",
+  "context": [
+    "Staircases,\nFire\nEscapes\nand\nAccess\nfor\nFirefighting\nand\nRescue\nPurposes"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402647925_001",
+  "content": "41.\nMeans of escape\n(1)\nEvery building shall be provided with such means of escape in case of emergency as may be required by the intended use of the building.\n(2)\nWithout prejudice to paragraph (1), every building which exceeds 6 storeys in height or in which the level of the floor of the uppermost storey is more than 17 m above the level of the ground at the point of discharge of the main staircase shall, in addition to the main staircase, be provided with a second staircase as means of escape in case of emergency.\n(L.N. 294 of 1976)\n(L.N. 33 of 1966)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s41_1",
+      "content": "(1)\nEvery building shall be provided with such means of escape in case of emergency as may be required by the intended use of the building."
+    },
+    {
+      "identifier": "s41_2",
+      "content": "(2)\nWithout prejudice to paragraph (1), every building which exceeds 6 storeys in height or in which the level of the floor of the uppermost storey is more than 17 m above the level of the ground at the point of discharge of the main staircase shall, in addition to the main staircase, be provided with a second staircase as means of escape in case of emergency.\n(L.N. 294 of 1976)"
+    }
+  ],
+  "path": "legislation/provisions/cap123F/en/s41.json"
+}

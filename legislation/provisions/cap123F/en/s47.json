@@ -1,0 +1,34 @@
+{
+  "chapter": "123F",
+  "language": "en",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+  "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+  "provision": "s47",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Building abutting on retaining wall",
+  "context": [
+    "Domestic\nBuildings"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402648143_002",
+  "content": "47.\nBuilding abutting on retaining wall\n(1)\nNo domestic building shall be erected against a retaining wall which exceeds\n4.5 m in height.\n(L.N. 294 of 1976)\n(2)\nA space not less than 1.5 m in width shall be left between any domestic building and the bottom of any retaining wall exceeding 4.5 m in height.\n(L.N. 294 of 1976)\n(3)\nFor the purposes of this regulation a massive rock face shall be deemed to be a retaining wall.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s47_1",
+      "content": "(1)\nNo domestic building shall be erected against a retaining wall which exceeds\n4.5 m in height.\n(L.N. 294 of 1976)"
+    },
+    {
+      "identifier": "s47_2",
+      "content": "(2)\nA space not less than 1.5 m in width shall be left between any domestic building and the bottom of any retaining wall exceeding 4.5 m in height.\n(L.N. 294 of 1976)"
+    },
+    {
+      "identifier": "s47_3",
+      "content": "(3)\nFor the purposes of this regulation a massive rock face shall be deemed to be a retaining wall."
+    }
+  ],
+  "path": "legislation/provisions/cap123F/en/s47.json"
+}

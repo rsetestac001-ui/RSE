@@ -1,0 +1,30 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s26",
+  "kind": "section",
+  "role": "section",
+  "heading": "Interpretation—Part 8",
+  "context": [
+    "Requirements for External Wall, Cladding and Curtain Wall"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212646019_194",
+  "content": "26.\nInterpretation—Part 8\n(1)\nIn this Part—\ncladding (覆蓋層), in relation to a building, means a facing or architectural decoration additional to the structural elements of the building;\ncurtain wall (幕牆), in relation to a building, means a non load-bearing enclosure of the building that is fixed on to a load-bearing structure of the building;\nnon-combustible materials (不可燃物料) means materials that pass a recognized non-combustibility test.\n(2)\nIn this Part, a structure of a building is load-bearing if it bears a load that is not due to—\n(a)\nits own weight; or\n(b)\nwind pressure on its surface.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s26_1",
+      "content": "(1)\nIn this Part—\ncladding (覆蓋層), in relation to a building, means a facing or architectural decoration additional to the structural elements of the building;\ncurtain wall (幕牆), in relation to a building, means a non load-bearing enclosure of the building that is fixed on to a load-bearing structure of the building;\nnon-combustible materials (不可燃物料) means materials that pass a recognized non-combustibility test."
+    },
+    {
+      "identifier": "s26_2",
+      "content": "(2)\nIn this Part, a structure of a building is load-bearing if it bears a load that is not due to—\n(a)\nits own weight; or\n(b)\nwind pressure on its surface."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s26.json"
+}

@@ -1,0 +1,42 @@
+{
+  "chapter": "123A",
+  "language": "en",
+  "version_date": "2024-06-30",
+  "xml_path": "legislation/raw/cap123A/en/cap_123A_20240630000000_en_c.xml",
+  "sha256": "5771573b06136e07b8ae6089ce698688f3d10bcd2b49e6a2bc79daddd58fb6f9",
+  "provision": "s12",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Plans, etc. to be signed by person who prepared them",
+  "context": [
+    "Plans, Certificates and Notices"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123A?xpid=ID_1438402644025_002",
+  "content": "12.\nPlans, etc. to be signed by person who prepared them\n(1)\nSubject to paragraphs (2) and (5), all plans, structural details and calculations submitted to the Building Authority for approval shall be prepared and signed by an authorized person, and his signature shall be deemed to be his assumption of all responsibility for the plan, structural details or calculations, as the case may be.\n(15 of 2004 s. 40)\n(2)\nSubject to paragraph (3), all foundation plans, structural details and calculations required under regulations 8(1)(d) and (i) and 9(f) shall be prepared and signed by a registered structural engineer, and his signature shall be deemed to be his assumption of all responsibility for the plans, structural details or calculations, as the case may be.\n(3)\nIn the case of building works to which paragraph (4) applies, all foundation plans, structural details and calculations required under regulation 8(1)(d) and (i) may be prepared and signed by an authorized person, and his signature shall be deemed to be his assumption of all responsibility for the plans, structural details or calculations, as the case may be.\n(4)\nParagraph (3) applies to any building works where—\n(a)\nthe height of the construction does not exceed 10 m;\n(b)\nthe span of any structural element of the construction does not exceed 6 m;\n(c)\nthe structural elements are constructed of timber, masonry, steel, plain concrete or reinforced concrete;\n(d)\nthe foundations of the construction are of the spread footing type with a ground bearing pressure not exceeding 300 kPa and founded at not more than 2 m below existing ground level; and\n(e)\nthere is no structural alteration to any existing structural elements designed by a registered structural engineer.\n(5)\nAll geotechnical plans, geotechnical assessment, geotechnical details and calculations, geotechnical reports, site investigation reports or ground investigation reports required under or pursuant to regulation 8(1)(b)(iv), (ba), (bb), (bc), (d) and (l), (3) and (4)(c) shall be prepared and signed by a registered geotechnical engineer, and his signature shall be deemed to be his assumption of all responsibility for the geotechnical plans, geotechnical assessment, geotechnical details and calculations, geotechnical reports, site investigation reports or ground investigation reports, as the case may be.\n(15 of 2004 s. 40)\n(L.N. 438 of 1990)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s12_1",
+      "content": "(1)\nSubject to paragraphs (2) and (5), all plans, structural details and calculations submitted to the Building Authority for approval shall be prepared and signed by an authorized person, and his signature shall be deemed to be his assumption of all responsibility for the plan, structural details or calculations, as the case may be.\n(15 of 2004 s. 40)"
+    },
+    {
+      "identifier": "s12_2",
+      "content": "(2)\nSubject to paragraph (3), all foundation plans, structural details and calculations required under regulations 8(1)(d) and (i) and 9(f) shall be prepared and signed by a registered structural engineer, and his signature shall be deemed to be his assumption of all responsibility for the plans, structural details or calculations, as the case may be."
+    },
+    {
+      "identifier": "s12_3",
+      "content": "(3)\nIn the case of building works to which paragraph (4) applies, all foundation plans, structural details and calculations required under regulation 8(1)(d) and (i) may be prepared and signed by an authorized person, and his signature shall be deemed to be his assumption of all responsibility for the plans, structural details or calculations, as the case may be."
+    },
+    {
+      "identifier": "s12_4",
+      "content": "(4)\nParagraph (3) applies to any building works where—\n(a)\nthe height of the construction does not exceed 10 m;\n(b)\nthe span of any structural element of the construction does not exceed 6 m;\n(c)\nthe structural elements are constructed of timber, masonry, steel, plain concrete or reinforced concrete;\n(d)\nthe foundations of the construction are of the spread footing type with a ground bearing pressure not exceeding 300 kPa and founded at not more than 2 m below existing ground level; and\n(e)\nthere is no structural alteration to any existing structural elements designed by a registered structural engineer."
+    },
+    {
+      "identifier": "s12_5",
+      "content": "(5)\nAll geotechnical plans, geotechnical assessment, geotechnical details and calculations, geotechnical reports, site investigation reports or ground investigation reports required under or pursuant to regulation 8(1)(b)(iv), (ba), (bb), (bc), (d) and (l), (3) and (4)(c) shall be prepared and signed by a registered geotechnical engineer, and his signature shall be deemed to be his assumption of all responsibility for the geotechnical plans, geotechnical assessment, geotechnical details and calculations, geotechnical reports, site investigation reports or ground investigation reports, as the case may be.\n(15 of 2004 s. 40)"
+    }
+  ],
+  "path": "legislation/provisions/cap123A/en/s12.json"
+}

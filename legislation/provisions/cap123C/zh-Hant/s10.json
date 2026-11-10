@@ -1,0 +1,32 @@
+{
+  "chapter": "123C",
+  "language": "zh-Hant",
+  "version_date": "2021-05-13",
+  "xml_path": "legislation/raw/cap123C/zh-Hant/cap_123C_20210513000000_zh-Hant_c.xml",
+  "sha256": "e4ee074c3052dd376e5978bf1535c27e9a437491ab9c3ac196affd01849beb0c",
+  "provision": "s10",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "樓面等不得負荷過重",
+  "context": [],
+  "status": "operational",
+  "start_period": "2021-05-13",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123C?xpid=ID_1438402646958_003",
+  "content": "10.\n樓面等不得負荷過重\n(1)\n拆卸中的建築物的任何樓面、屋頂或其他部分不得負荷過量泥石或物料而使該樓面、屋頂或該其他部分不安全或可變得不安全。\n(1980年第358號法律公告)\n(2)\n拆卸所得的泥石或物料不得靠着任何圍欄、圍板或牆壁堆積而使該圍欄、圍板或牆壁不安全或可變得不安全。\n(1980年第358號法律公告)\n(3)\n拆卸中的建築物的任何樓面、屋頂或其他部分，不得負荷過量的裝置或裝備而使該樓面、屋頂或部分不安全或可變得不安全。\n(1997年第515號法律公告)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s10_1",
+      "content": "(1)\n拆卸中的建築物的任何樓面、屋頂或其他部分不得負荷過量泥石或物料而使該樓面、屋頂或該其他部分不安全或可變得不安全。\n(1980年第358號法律公告)"
+    },
+    {
+      "identifier": "s10_2",
+      "content": "(2)\n拆卸所得的泥石或物料不得靠着任何圍欄、圍板或牆壁堆積而使該圍欄、圍板或牆壁不安全或可變得不安全。\n(1980年第358號法律公告)"
+    },
+    {
+      "identifier": "s10_3",
+      "content": "(3)\n拆卸中的建築物的任何樓面、屋頂或其他部分，不得負荷過量的裝置或裝備而使該樓面、屋頂或部分不安全或可變得不安全。\n(1997年第515號法律公告)"
+    }
+  ],
+  "path": "legislation/provisions/cap123C/zh-Hant/s10.json"
+}

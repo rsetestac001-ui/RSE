@@ -1,0 +1,34 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s25",
+  "kind": "section",
+  "role": "section",
+  "heading": "Change in use of buildings",
+  "context": [
+    "Control of Building"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402642106_001",
+  "content": "25.\nChange in use of buildings\n(1)\nOne month’s notice in the specified form shall be given to the Building Authority of any intended material change in the use of a building by the person intending to carry out or authorizing the carrying out of such change.\n(Amended 68 of 1993 s. 14)\n(2)\nWhere in the opinion of the Building Authority any building is not suitable by\nreason of its construction for its present or intended use, he may by order in\nwriting served on the owner or occupier—\n(a)\nwithin 1 month of the receipt of a notice under subsection (1) prohibit\nsuch intended use; or\n(b)\nrequire\nthe owner or occupier to discontinue such present use of the building within 1\nmonth from the service of the\norder:\nProvided that the Building\nAuthority may permit by notice in writing such building works as he deems necessary\nfor the purpose of rendering the building suitable for its present or intended\nuse.\n(3)\nThe use of a building shall be deemed to be materially changed—\n(a)\nwhere the carrying out of building works for the erection of a building intended for such use would have contravened the provisions of this Ordinance; or\n(b)\nwhere the Building Authority could have refused to give approval to plans of such building works under section 16(1)(g).\n(Replaced 44 of 1959 s. 11)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s25_1",
+      "content": "(1)\nOne month’s notice in the specified form shall be given to the Building Authority of any intended material change in the use of a building by the person intending to carry out or authorizing the carrying out of such change.\n(Amended 68 of 1993 s. 14)"
+    },
+    {
+      "identifier": "s25_2",
+      "content": "(2)\nWhere in the opinion of the Building Authority any building is not suitable by\nreason of its construction for its present or intended use, he may by order in\nwriting served on the owner or occupier—\n(a)\nwithin 1 month of the receipt of a notice under subsection (1) prohibit\nsuch intended use; or\n(b)\nrequire\nthe owner or occupier to discontinue such present use of the building within 1\nmonth from the service of the\norder:\nProvided that the Building\nAuthority may permit by notice in writing such building works as he deems necessary\nfor the purpose of rendering the building suitable for its present or intended\nuse."
+    },
+    {
+      "identifier": "s25_3",
+      "content": "(3)\nThe use of a building shall be deemed to be materially changed—\n(a)\nwhere the carrying out of building works for the erection of a building intended for such use would have contravened the provisions of this Ordinance; or\n(b)\nwhere the Building Authority could have refused to give approval to plans of such building works under section 16(1)(g).\n(Replaced 44 of 1959 s. 11)"
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s25.json"
+}

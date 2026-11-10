@@ -1,0 +1,30 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s50",
+  "kind": "section",
+  "role": "section",
+  "heading": "Determination of appeal",
+  "context": [
+    "Appeals"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402643307_002",
+  "content": "50.\nDetermination of appeal\n(1)\nThe following shall apply in relation to the hearing and determination of an appeal or a preliminary hearing held under section 49—\n(a)\nevery question shall be determined by the opinion of the majority of the members of the Appeal Tribunal;\n(b)\nwhere there is an equality of votes, the Chairman shall have a casting vote;\n(c)\nthe Appeal Tribunal may—\n(i)\nreceive and consider any oral, documentary or other evidence, (including any written statement), whether on oath, affirmation or otherwise, and whether or not it would be admissible in evidence in proceedings in a court;\n(ii)\nby summons issued in the prescribed manner, require any person to attend before it at any hearing to give evidence or to produce any document;\n(iii)\nadminister oaths or affirmations;\n(iv)\nexamine on oath, affirmation or otherwise any person attending before it and require such person to answer any question put by or with the consent of the Tribunal.\n(2)\nIn determining an appeal, the Appeal Tribunal may make an order confirming, varying or reversing the decision that is appealed against or substituting therefor such other decision or make such other order as it thinks fit.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s50_1",
+      "content": "(1)\nThe following shall apply in relation to the hearing and determination of an appeal or a preliminary hearing held under section 49—\n(a)\nevery question shall be determined by the opinion of the majority of the members of the Appeal Tribunal;\n(b)\nwhere there is an equality of votes, the Chairman shall have a casting vote;\n(c)\nthe Appeal Tribunal may—\n(i)\nreceive and consider any oral, documentary or other evidence, (including any written statement), whether on oath, affirmation or otherwise, and whether or not it would be admissible in evidence in proceedings in a court;\n(ii)\nby summons issued in the prescribed manner, require any person to attend before it at any hearing to give evidence or to produce any document;\n(iii)\nadminister oaths or affirmations;\n(iv)\nexamine on oath, affirmation or otherwise any person attending before it and require such person to answer any question put by or with the consent of the Tribunal."
+    },
+    {
+      "identifier": "s50_2",
+      "content": "(2)\nIn determining an appeal, the Appeal Tribunal may make an order confirming, varying or reversing the decision that is appealed against or substituting therefor such other decision or make such other order as it thinks fit."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s50.json"
+}

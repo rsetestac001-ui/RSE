@@ -1,0 +1,28 @@
+{
+  "chapter": "123",
+  "language": "zh-Hant",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/zh-Hant/cap_123_20260301000000_zh-Hant_c.xml",
+  "sha256": "c563be5190519c71a48e73e4242ded97a7b163828dd618f1d7bd442168d18a87",
+  "provision": "s1",
+  "kind": "section",
+  "role": "section",
+  "heading": "簡稱",
+  "context": [],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402640983_003",
+  "content": "1.\n簡稱\n(1)\n本條例可引稱為《建築物條例》。\n(2)\n本條例按《建築物條例(新界適用)條例》(第121章)規定的方式適用於新界。\n(由1987年第60號第14條代替)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s1_1",
+      "content": "(1)\n本條例可引稱為《建築物條例》。"
+    },
+    {
+      "identifier": "s1_2",
+      "content": "(2)\n本條例按《建築物條例(新界適用)條例》(第121章)規定的方式適用於新界。\n(由1987年第60號第14條代替)"
+    }
+  ],
+  "path": "legislation/provisions/cap123/zh-Hant/s1.json"
+}

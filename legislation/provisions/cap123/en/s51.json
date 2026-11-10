@@ -1,0 +1,46 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s51",
+  "kind": "section",
+  "role": "section",
+  "heading": "Power to award costs",
+  "context": [
+    "Appeals"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402643323_001",
+  "content": "51.\nPower to award costs\n(1)\nUpon making an order under section 49(2) or 50(2) the Appeal Tribunal may make such order as to costs as it thinks fit.\n(2)\nWhere there is more than one appellant, the Appeal Tribunal may apportion among them, the costs (if any) ordered against them.\n(3)\nThe Appeal Tribunal shall not award any compensation or make an order for any other payment, other than an order for costs referred to in subsection (1).\n(4)\nWhere an order for costs is made against the appellant the amount of the costs may be recovered by the Building Authority and the Building Authority shall cause a copy of the order to be served on the appellant.\n(5)\nSection 33 (except subsections (1), (2), (3), (5) and (8) thereof) shall apply as regards any such order for costs as if the references therein to a certificate of the Building Authority and costs certified by the Building Authority were references to an order for costs referred to in subsection (1) and the amount of the costs payable under such order, respectively.\n(6)\nAny costs awarded against the Building Authority under this section shall be paid out of the general revenue.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s51_1",
+      "content": "(1)\nUpon making an order under section 49(2) or 50(2) the Appeal Tribunal may make such order as to costs as it thinks fit."
+    },
+    {
+      "identifier": "s51_2",
+      "content": "(2)\nWhere there is more than one appellant, the Appeal Tribunal may apportion among them, the costs (if any) ordered against them."
+    },
+    {
+      "identifier": "s51_3",
+      "content": "(3)\nThe Appeal Tribunal shall not award any compensation or make an order for any other payment, other than an order for costs referred to in subsection (1)."
+    },
+    {
+      "identifier": "s51_4",
+      "content": "(4)\nWhere an order for costs is made against the appellant the amount of the costs may be recovered by the Building Authority and the Building Authority shall cause a copy of the order to be served on the appellant."
+    },
+    {
+      "identifier": "s51_5",
+      "content": "(5)\nSection 33 (except subsections (1), (2), (3), (5) and (8) thereof) shall apply as regards any such order for costs as if the references therein to a certificate of the Building Authority and costs certified by the Building Authority were references to an order for costs referred to in subsection (1) and the amount of the costs payable under such order, respectively."
+    },
+    {
+      "identifier": "s51_6",
+      "content": "(6)\nAny costs awarded against the Building Authority under this section shall be paid out of the general revenue."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s51.json"
+}

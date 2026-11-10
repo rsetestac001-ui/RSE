@@ -1,0 +1,28 @@
+{
+  "chapter": "123C",
+  "language": "en",
+  "version_date": "2021-05-13",
+  "xml_path": "legislation/raw/cap123C/en/cap_123C_20210513000000_en_c.xml",
+  "sha256": "5785982adec017e9f95fecf183dd7f5a95861bdab777f1171630a8ca354c3c85",
+  "provision": "s4",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Provisions as to shoring, etc.",
+  "context": [],
+  "status": "operational",
+  "start_period": "2021-05-13",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123C?xpid=ID_1438402646630_001",
+  "content": "4.\nProvisions as to shoring, etc.\n(1)\nSave as provided in paragraph (2), before commencing the demolition and at such times during the carrying out of the demolition works as may be necessary, such precautions as may be necessary shall be taken, by the provision of adequate shoring or otherwise, to prevent, so far as is practicable, the accidental collapse of any part of the building, or of any adjoining or other building, the collapse of which may endanger any person.\n(L.N. 112 of 1964)\n(2)\nParagraph (1) shall not apply in relation to a person actually engaged in placing shoring or other safeguards for the purpose of compliance with paragraph (1), if such precautions as are practicable are taken to ensure the safety of that person.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s4_1",
+      "content": "(1)\nSave as provided in paragraph (2), before commencing the demolition and at such times during the carrying out of the demolition works as may be necessary, such precautions as may be necessary shall be taken, by the provision of adequate shoring or otherwise, to prevent, so far as is practicable, the accidental collapse of any part of the building, or of any adjoining or other building, the collapse of which may endanger any person.\n(L.N. 112 of 1964)"
+    },
+    {
+      "identifier": "s4_2",
+      "content": "(2)\nParagraph (1) shall not apply in relation to a person actually engaged in placing shoring or other safeguards for the purpose of compliance with paragraph (1), if such precautions as are practicable are taken to ensure the safety of that person."
+    }
+  ],
+  "path": "legislation/provisions/cap123C/en/s4.json"
+}

@@ -1,0 +1,30 @@
+{
+  "chapter": "123F",
+  "language": "zh-Hant",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/zh-Hant/cap_123F_20260917000000_zh-Hant_c.xml",
+  "sha256": "1507dac47a72681d534292fbcbffe25ea46dd7d615534e4b09ecc61be464cbd7",
+  "provision": "s15",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "門等不得在街道上方開啟",
+  "context": [
+    "伸出物"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402647394_001",
+  "content": "15.\n門等不得在街道上方開啟\n(1)\n除第(2)款另有規定外，任何向街道或街道上方開啟的門、閘、窗或擋板的安裝或設置方式，不得使其在地面之上少於2.5米的高度伸出街道上方。\n(2)\n緊急出口門、電力變壓房門、機房門、垃圾房門及通往相類的雜用房的門，如在完全開啟時不會阻礙任何使用街道的人或車輛，則可在街道上方向外開啟。\n(1992年第79號法律公告)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s15_1",
+      "content": "(1)\n除第(2)款另有規定外，任何向街道或街道上方開啟的門、閘、窗或擋板的安裝或設置方式，不得使其在地面之上少於2.5米的高度伸出街道上方。"
+    },
+    {
+      "identifier": "s15_2",
+      "content": "(2)\n緊急出口門、電力變壓房門、機房門、垃圾房門及通往相類的雜用房的門，如在完全開啟時不會阻礙任何使用街道的人或車輛，則可在街道上方向外開啟。"
+    }
+  ],
+  "path": "legislation/provisions/cap123F/zh-Hant/s15.json"
+}

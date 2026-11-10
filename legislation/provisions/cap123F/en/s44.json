@@ -1,0 +1,30 @@
+{
+  "chapter": "123F",
+  "language": "en",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+  "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+  "provision": "s44",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Revolving doors and turnstiles",
+  "context": [
+    "Staircases,\nFire\nEscapes\nand\nAccess\nfor\nFirefighting\nand\nRescue\nPurposes"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402648096_003",
+  "content": "44.\nRevolving doors and turnstiles\n(1)\nWhere revolving doors or turnstiles are used an alternative means of exit shall be provided in close proximity.\n(2)\nIn any place of public assembly turnstiles, if used, shall be kept clear of the line of exit.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s44_1",
+      "content": "(1)\nWhere revolving doors or turnstiles are used an alternative means of exit shall be provided in close proximity."
+    },
+    {
+      "identifier": "s44_2",
+      "content": "(2)\nIn any place of public assembly turnstiles, if used, shall be kept clear of the line of exit."
+    }
+  ],
+  "path": "legislation/provisions/cap123F/en/s44.json"
+}

@@ -1,0 +1,28 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s1",
+  "kind": "section",
+  "role": "section",
+  "heading": "Short title",
+  "context": [],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402640983_002",
+  "content": "1.\nShort title\n(1)\nThis Ordinance may be cited as the Buildings Ordinance.\n(2)\nThis Ordinance shall apply to the New Territories in the manner provided by the Buildings Ordinance (Application to the New Territories) Ordinance (Cap. 121).\n(Replaced 60 of 1987 s. 14)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s1_1",
+      "content": "(1)\nThis Ordinance may be cited as the Buildings Ordinance."
+    },
+    {
+      "identifier": "s1_2",
+      "content": "(2)\nThis Ordinance shall apply to the New Territories in the manner provided by the Buildings Ordinance (Application to the New Territories) Ordinance (Cap. 121).\n(Replaced 60 of 1987 s. 14)"
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s1.json"
+}

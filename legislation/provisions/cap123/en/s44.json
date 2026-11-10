@@ -1,0 +1,38 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s44",
+  "kind": "section",
+  "role": "section",
+  "heading": "Appeals from decisions of Building Authority",
+  "context": [
+    "Appeals"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402643214_003",
+  "content": "44.\nAppeals from decisions of Building Authority\n(1)\nA person aggrieved by any decision made by the Building Authority in the exercise of a discretion conferred on him under this Ordinance may, except where this Ordinance provides otherwise, appeal from that decision in accordance with this Part and regulations made under section 38(1B).\n(2)\nIf—\n(a)\na decision appealed from under subsection (1) requires the carrying out of works; and\n(b)\na notice of appeal as regards that decision is given under section 47,\nsubject to subsection (3), with effect from the day the notice is so given, the Building Authority shall neither enforce nor permit the enforcement of such decision, until the appeal is disposed of or unless it is withdrawn or abandoned.\n(3)\nThe Building Authority may enforce a decision referred to in subsection (2) or permit its enforcement where he is of the opinion that an emergency exists and that having regard to that emergency such enforcement is necessary and serves a notice on the appellant stating that due to an emergency the enforcement of the decision and the carrying out of works or other action is necessary.\n(4)\nThe decision of the Building Authority that an emergency exists for the purposes of subsection (3) shall not be subject to an appeal under section 44.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s44_1",
+      "content": "(1)\nA person aggrieved by any decision made by the Building Authority in the exercise of a discretion conferred on him under this Ordinance may, except where this Ordinance provides otherwise, appeal from that decision in accordance with this Part and regulations made under section 38(1B)."
+    },
+    {
+      "identifier": "s44_2",
+      "content": "(2)\nIf—\n(a)\na decision appealed from under subsection (1) requires the carrying out of works; and\n(b)\na notice of appeal as regards that decision is given under section 47,\nsubject to subsection (3), with effect from the day the notice is so given, the Building Authority shall neither enforce nor permit the enforcement of such decision, until the appeal is disposed of or unless it is withdrawn or abandoned."
+    },
+    {
+      "identifier": "s44_3",
+      "content": "(3)\nThe Building Authority may enforce a decision referred to in subsection (2) or permit its enforcement where he is of the opinion that an emergency exists and that having regard to that emergency such enforcement is necessary and serves a notice on the appellant stating that due to an emergency the enforcement of the decision and the carrying out of works or other action is necessary."
+    },
+    {
+      "identifier": "s44_4",
+      "content": "(4)\nThe decision of the Building Authority that an emergency exists for the purposes of subsection (3) shall not be subject to an appeal under section 44."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s44.json"
+}

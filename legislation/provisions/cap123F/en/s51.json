@@ -1,0 +1,30 @@
+{
+  "chapter": "123F",
+  "language": "en",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+  "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+  "provision": "s51",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Application to be made",
+  "context": [
+    "Temporary\nBuildings"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402648393_003",
+  "content": "51.\nApplication to be made\n(1)\nOn receipt of an application, in the specified form, from a building owner together with such plans as the Building Authority may require, he may permit in writing the erection of a temporary building.\n(G.N.A. 83 of 1959; L.N. 350 of 1993)\n(2)\nA permit issued under this regulation may specify the period for which such temporary building may exist, and such other conditions as the Building Authority may deem necessary.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s51_1",
+      "content": "(1)\nOn receipt of an application, in the specified form, from a building owner together with such plans as the Building Authority may require, he may permit in writing the erection of a temporary building.\n(G.N.A. 83 of 1959; L.N. 350 of 1993)"
+    },
+    {
+      "identifier": "s51_2",
+      "content": "(2)\nA permit issued under this regulation may specify the period for which such temporary building may exist, and such other conditions as the Building Authority may deem necessary."
+    }
+  ],
+  "path": "legislation/provisions/cap123F/en/s51.json"
+}

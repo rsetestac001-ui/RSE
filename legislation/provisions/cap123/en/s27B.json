@@ -1,0 +1,46 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s27B",
+  "kind": "section",
+  "role": "section",
+  "heading": "Danger to buildings caused by abstraction of groundwater from wells",
+  "context": [
+    "Control of Building"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402642184_002",
+  "content": "27B.\nDanger to buildings caused by abstraction of groundwater from wells\n(1)\nWhere in the opinion of the Building Authority—\n(a)\na building is dangerous or is liable to become dangerous; and\n(b)\nthe cause of its being dangerous or liable to become dangerous is, wholly or partly, the abstraction, whether continuing or past, of groundwater from a well situated in area number 2 of the scheduled areas,\nthe Building Authority may, by order in writing, declare that the building is dangerous or liable to become dangerous.\n(2)\nAn order under subsection (1) shall be served on the owner of the well.\n(3)\nAn order under subsection (1) may—\n(a)\nrequire the owner of the well to ensure that such abstraction cease permanently;\n(b)\nstate that the Building Authority proposes to carry out such works as specified in the order to close the well and such other works as he considers necessary for the purpose; and\n(c)\nspecify as regards any requirement made under paragraph (a) or matter specified in paragraph (b), the period within which such requirement must be complied with or work is to be commenced, carried out or completed.\n(4)\nNotwithstanding anything in this section, where the Building Authority considers that there is an emergency due to the abstraction of groundwater from a well referred to in subsection (1)(b) he may, for the purpose of closing that well, carry out or cause to be carried out such work as appears to him to be necessary having regard to the emergency and may do so without an order under subsection (1) or any other notice to the owner.\n(5)\nThe decision of the Building Authority that an emergency exists shall not be subject to an appeal under section 44.\n(6)\nNothing in this section shall be construed as limiting any power of the Building Authority under section 26 as regards a building affected by abstraction of groundwater.\n(Added 77 of 1994 s. 10)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s27B_1",
+      "content": "(1)\nWhere in the opinion of the Building Authority—\n(a)\na building is dangerous or is liable to become dangerous; and\n(b)\nthe cause of its being dangerous or liable to become dangerous is, wholly or partly, the abstraction, whether continuing or past, of groundwater from a well situated in area number 2 of the scheduled areas,\nthe Building Authority may, by order in writing, declare that the building is dangerous or liable to become dangerous."
+    },
+    {
+      "identifier": "s27B_2",
+      "content": "(2)\nAn order under subsection (1) shall be served on the owner of the well."
+    },
+    {
+      "identifier": "s27B_3",
+      "content": "(3)\nAn order under subsection (1) may—\n(a)\nrequire the owner of the well to ensure that such abstraction cease permanently;\n(b)\nstate that the Building Authority proposes to carry out such works as specified in the order to close the well and such other works as he considers necessary for the purpose; and\n(c)\nspecify as regards any requirement made under paragraph (a) or matter specified in paragraph (b), the period within which such requirement must be complied with or work is to be commenced, carried out or completed."
+    },
+    {
+      "identifier": "s27B_4",
+      "content": "(4)\nNotwithstanding anything in this section, where the Building Authority considers that there is an emergency due to the abstraction of groundwater from a well referred to in subsection (1)(b) he may, for the purpose of closing that well, carry out or cause to be carried out such work as appears to him to be necessary having regard to the emergency and may do so without an order under subsection (1) or any other notice to the owner."
+    },
+    {
+      "identifier": "s27B_5",
+      "content": "(5)\nThe decision of the Building Authority that an emergency exists shall not be subject to an appeal under section 44."
+    },
+    {
+      "identifier": "s27B_6",
+      "content": "(6)\nNothing in this section shall be construed as limiting any power of the Building Authority under section 26 as regards a building affected by abstraction of groundwater."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s27B.json"
+}

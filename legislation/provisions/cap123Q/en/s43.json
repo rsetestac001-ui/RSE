@@ -1,0 +1,50 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s43",
+  "kind": "section",
+  "role": "section",
+  "heading": "Well",
+  "context": [
+    "Miscellaneous"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212646191_318",
+  "content": "43.\nWell\n(1)\nA well associated with a building or building works must not be sunk or reopened except with the permission of the Building Authority.\n(2)\nThe design, construction and operation of a well must not—\n(a)\nimpair the stability of any building, structure, land, street or services; or\n(b)\ncause any damage to any building, structure, land, street or services.\n(3)\nA well must not be sunk in the vicinity of a septic tank, cesspool, sewage sump or in a contaminated ground.\n(4)\nA well must be provided with adequate means to prevent surface water or sullage water from getting into the well from its top opening.\n(5)\nA well must be properly lined to prevent contamination.\n(6)\nIf a well is likely to be adversely affected by accumulation of particles, a suitable filter must be provided.\n(7)\nA well must be designed and constructed so as to prevent unauthorized entry.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s43_1",
+      "content": "(1)\nA well associated with a building or building works must not be sunk or reopened except with the permission of the Building Authority."
+    },
+    {
+      "identifier": "s43_2",
+      "content": "(2)\nThe design, construction and operation of a well must not—\n(a)\nimpair the stability of any building, structure, land, street or services; or\n(b)\ncause any damage to any building, structure, land, street or services."
+    },
+    {
+      "identifier": "s43_3",
+      "content": "(3)\nA well must not be sunk in the vicinity of a septic tank, cesspool, sewage sump or in a contaminated ground."
+    },
+    {
+      "identifier": "s43_4",
+      "content": "(4)\nA well must be provided with adequate means to prevent surface water or sullage water from getting into the well from its top opening."
+    },
+    {
+      "identifier": "s43_5",
+      "content": "(5)\nA well must be properly lined to prevent contamination."
+    },
+    {
+      "identifier": "s43_6",
+      "content": "(6)\nIf a well is likely to be adversely affected by accumulation of particles, a suitable filter must be provided."
+    },
+    {
+      "identifier": "s43_7",
+      "content": "(7)\nA well must be designed and constructed so as to prevent unauthorized entry."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s43.json"
+}

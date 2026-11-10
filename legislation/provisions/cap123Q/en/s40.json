@@ -1,0 +1,30 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s40",
+  "kind": "section",
+  "role": "section",
+  "heading": "Design and construction in connection with lift and escalator",
+  "context": [
+    "Requirements for User Safety"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212646160_302",
+  "content": "40.\nDesign and construction in connection with lift and escalator\n(1)\nA building must be designed and constructed so as to—\n(a)\nprovide adequate structural strength, space, protection, access and ventilation for the safe operation, inspection and maintenance of a lift or escalator; and\n(b)\nensure that the restricted space of a lift or escalator is inaccessible except for inspection, maintenance, repair or rescue.\n(2)\nIf a lift or escalator is added to a building after the completion of the building, the design and construction relating to the addition must comply with subsection (1).",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s40_1",
+      "content": "(1)\nA building must be designed and constructed so as to—\n(a)\nprovide adequate structural strength, space, protection, access and ventilation for the safe operation, inspection and maintenance of a lift or escalator; and\n(b)\nensure that the restricted space of a lift or escalator is inaccessible except for inspection, maintenance, repair or rescue."
+    },
+    {
+      "identifier": "s40_2",
+      "content": "(2)\nIf a lift or escalator is added to a building after the completion of the building, the design and construction relating to the addition must comply with subsection (1)."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s40.json"
+}

@@ -1,0 +1,34 @@
+{
+  "chapter": "123A",
+  "language": "zh-Hant",
+  "version_date": "2024-06-30",
+  "xml_path": "legislation/raw/cap123A/zh-Hant/cap_123A_20240630000000_zh-Hant_c.xml",
+  "sha256": "ff9d62aee5d5d6f3137ecdef06f6a35eb781648786844f89a374cc9aaf9134ea",
+  "provision": "s14",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "圖則須清楚及在適當的物料上繪製或複製",
+  "context": [
+    "圖則、證明書及通知"
+  ],
+  "status": "operational",
+  "start_period": "2022-03-31",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123A?xpid=ID_1438402644072_001",
+  "content": "14.\n圖則須清楚及在適當的物料上繪製或複製\n(2021年第222號法律公告)\n(1)\n呈交建築事務監督批准的圖則須 ——\n(a)\n以清楚及易於理解的方式繪製或複製；及\n(b)\n如以印本形式呈交——在適當及耐久的物料上繪製或複製。\n(2021年第222號法律公告)\n(2)\n呈交建築事務監督的工程繪圖不得複製在鐵氰藍圖上。\n(3)\n每份圖則須有一份文本填上顏色，以清楚區別現有工程和新工程以及清楚區別新工程的某一部分和其他部分。\n(1976年第241號法律公告)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s14_1",
+      "content": "(1)\n呈交建築事務監督批准的圖則須 ——\n(a)\n以清楚及易於理解的方式繪製或複製；及\n(b)\n如以印本形式呈交——在適當及耐久的物料上繪製或複製。\n(2021年第222號法律公告)"
+    },
+    {
+      "identifier": "s14_2",
+      "content": "(2)\n呈交建築事務監督的工程繪圖不得複製在鐵氰藍圖上。"
+    },
+    {
+      "identifier": "s14_3",
+      "content": "(3)\n每份圖則須有一份文本填上顏色，以清楚區別現有工程和新工程以及清楚區別新工程的某一部分和其他部分。\n(1976年第241號法律公告)"
+    }
+  ],
+  "path": "legislation/provisions/cap123A/zh-Hant/s14.json"
+}

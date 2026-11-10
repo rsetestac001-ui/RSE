@@ -1,0 +1,38 @@
+{
+  "chapter": "123F",
+  "language": "en",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+  "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+  "provision": "s41D",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Emergency vehicular access",
+  "context": [
+    "Staircases,\nFire\nEscapes\nand\nAccess\nfor\nFirefighting\nand\nRescue\nPurposes"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402647972_002",
+  "content": "41D.\nEmergency vehicular access\n(1)\nEvery building shall be provided with an emergency vehicular access which is so designed and constructed as—\n(a)\nto allow safe and unobstructed access of a vehicle of the Fire Services Department to the building; and\n(b)\nto provide for the safe operation of such a vehicle,\nin the event of a fire or other emergency.\n(2)\nThe design and construction of an emergency vehicular access shall be in accordance with such requirements as may be specified by the Building Authority from time to time having regard to the intended use of the building.\n(3)\nThe Building Authority may exempt a building from any or all of such requirements on design and construction if the Building Authority is satisfied that compliance with the requirement or requirements is—\n(a)\nimpracticable having regard to the topographical features of the area on which the building is situated; or\n(b)\nunwarranted on the ground that the purpose for which the building is to be used constitutes a low fire risk.\n(4)\nA building in respect of which an exemption under paragraph (3) is in force shall comply with such other fire safety measures as may be specified by the Building Authority for the purpose of ensuring that the safety of the building would not be prejudiced by the exemption.\n(15 of 2004 s. 60)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s41D_1",
+      "content": "(1)\nEvery building shall be provided with an emergency vehicular access which is so designed and constructed as—\n(a)\nto allow safe and unobstructed access of a vehicle of the Fire Services Department to the building; and\n(b)\nto provide for the safe operation of such a vehicle,\nin the event of a fire or other emergency."
+    },
+    {
+      "identifier": "s41D_2",
+      "content": "(2)\nThe design and construction of an emergency vehicular access shall be in accordance with such requirements as may be specified by the Building Authority from time to time having regard to the intended use of the building."
+    },
+    {
+      "identifier": "s41D_3",
+      "content": "(3)\nThe Building Authority may exempt a building from any or all of such requirements on design and construction if the Building Authority is satisfied that compliance with the requirement or requirements is—\n(a)\nimpracticable having regard to the topographical features of the area on which the building is situated; or\n(b)\nunwarranted on the ground that the purpose for which the building is to be used constitutes a low fire risk."
+    },
+    {
+      "identifier": "s41D_4",
+      "content": "(4)\nA building in respect of which an exemption under paragraph (3) is in force shall comply with such other fire safety measures as may be specified by the Building Authority for the purpose of ensuring that the safety of the building would not be prejudiced by the exemption."
+    }
+  ],
+  "path": "legislation/provisions/cap123F/en/s41D.json"
+}

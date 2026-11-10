@@ -1,0 +1,42 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s28",
+  "kind": "section",
+  "role": "section",
+  "heading": "Cladding",
+  "context": [
+    "Requirements for External Wall, Cladding and Curtain Wall"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212646051_204",
+  "content": "28.\nCladding\n(1)\nA cladding of a building must be—\n(a)\nconstructed of non-combustible materials;\n(b)\nof suitable thickness, strength and durability; and\n(c)\nfixed and supported in a suitable manner and sequence,\nso as to maintain the long-term stability and integrity of the cladding.\n(2)\nTo allow differential movement between a cladding of a building and the structure of the building to which it is attached, the cladding must be permanently provided with a sufficient number of flexible joints horizontally and vertically.\n(3)\nSuitable metal dowels and fixings must be used to fix the cladding on to a building.\n(4)\nThe metal dowels and fixings referred to in subsection (3) must be—\n(a)\npermanently fixed on to the structural elements of the building throughout the service life of the dowels and fixings; and\n(b)\nadequately protected against corrosion.\n(5)\nIf the cladding of a building is exposed to weather, adequate means of access to the outer surface of the cladding or a projection from the cladding must be provided for the maintenance or repair of the cladding or projection.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s28_1",
+      "content": "(1)\nA cladding of a building must be—\n(a)\nconstructed of non-combustible materials;\n(b)\nof suitable thickness, strength and durability; and\n(c)\nfixed and supported in a suitable manner and sequence,\nso as to maintain the long-term stability and integrity of the cladding."
+    },
+    {
+      "identifier": "s28_2",
+      "content": "(2)\nTo allow differential movement between a cladding of a building and the structure of the building to which it is attached, the cladding must be permanently provided with a sufficient number of flexible joints horizontally and vertically."
+    },
+    {
+      "identifier": "s28_3",
+      "content": "(3)\nSuitable metal dowels and fixings must be used to fix the cladding on to a building."
+    },
+    {
+      "identifier": "s28_4",
+      "content": "(4)\nThe metal dowels and fixings referred to in subsection (3) must be—\n(a)\npermanently fixed on to the structural elements of the building throughout the service life of the dowels and fixings; and\n(b)\nadequately protected against corrosion."
+    },
+    {
+      "identifier": "s28_5",
+      "content": "(5)\nIf the cladding of a building is exposed to weather, adequate means of access to the outer surface of the cladding or a projection from the cladding must be provided for the maintenance or repair of the cladding or projection."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s28.json"
+}

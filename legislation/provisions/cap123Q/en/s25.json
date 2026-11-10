@@ -1,0 +1,30 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s25",
+  "kind": "section",
+  "role": "section",
+  "heading": "Bulk excavation in area number 1 of scheduled areas",
+  "context": [
+    "Requirements for Site Formation Works"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212646004_185",
+  "content": "25.\nBulk excavation in area number 1 of scheduled areas\n(1)\nIn this section—\nbulk excavation (大型挖掘工程) means any kind of excavation except excavation for—\n(a)\nground investigation;\n(b)\npublic utility trenches;\n(c)\ndrains;\n(d)\nsewers; or\n(e)\npile installation;\ncumulative adverse effect (累積不利影響), in relation to area number 1 of the scheduled areas, means the overall adverse effects on the stability of the hillside in the area due to bulk excavation at 2 or more sites in the area.\n(2)\nBulk excavation carried out in area number 1 of the scheduled areas must be limited to a level that minimizes the cumulative adverse effect to the area.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s25_1",
+      "content": "(1)\nIn this section—\nbulk excavation (大型挖掘工程) means any kind of excavation except excavation for—\n(a)\nground investigation;\n(b)\npublic utility trenches;\n(c)\ndrains;\n(d)\nsewers; or\n(e)\npile installation;\ncumulative adverse effect (累積不利影響), in relation to area number 1 of the scheduled areas, means the overall adverse effects on the stability of the hillside in the area due to bulk excavation at 2 or more sites in the area."
+    },
+    {
+      "identifier": "s25_2",
+      "content": "(2)\nBulk excavation carried out in area number 1 of the scheduled areas must be limited to a level that minimizes the cumulative adverse effect to the area."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s25.json"
+}

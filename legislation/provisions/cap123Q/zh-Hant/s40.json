@@ -1,0 +1,30 @@
+{
+  "chapter": "123Q",
+  "language": "zh-Hant",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/zh-Hant/cap_123Q_20210624000000_zh-Hant_c.xml",
+  "sha256": "129b8ed53fe271d87e100e62181f73ae84868e7e15a87c5664b1d93b62fd98c8",
+  "provision": "s40",
+  "kind": "section",
+  "role": "section",
+  "heading": "與升降機及自動梯相關的設計及建造",
+  "context": [
+    "對使用者安全的規定"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212657739_302",
+  "content": "40.\n與升降機及自動梯相關的設計及建造\n(1)\n建築物的設計及建造，須能 ——\n(a)\n提供足夠的結構強度、空間、保護、通道及通風，以供安全地操作、檢查和保養升降機或自動梯；及\n(b)\n確保升降機或自動梯的限進空間，除檢查、保養、修理或救援外，均不能進入。\n(2)\n如於建築物落成後，在該建築物加建升降機或自動梯，則關乎該項加建的設計及建造，須符合第(1)款的規定。",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s40_1",
+      "content": "(1)\n建築物的設計及建造，須能 ——\n(a)\n提供足夠的結構強度、空間、保護、通道及通風，以供安全地操作、檢查和保養升降機或自動梯；及\n(b)\n確保升降機或自動梯的限進空間，除檢查、保養、修理或救援外，均不能進入。"
+    },
+    {
+      "identifier": "s40_2",
+      "content": "(2)\n如於建築物落成後，在該建築物加建升降機或自動梯，則關乎該項加建的設計及建造，須符合第(1)款的規定。"
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/zh-Hant/s40.json"
+}

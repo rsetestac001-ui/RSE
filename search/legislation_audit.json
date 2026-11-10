@@ -1,0 +1,67 @@
+{
+  "documents": 10,
+  "provisions": 678,
+  "errors": [],
+  "chapters": [
+    {
+      "chapter": "123",
+      "language": "en",
+      "version_date": "2026-03-01",
+      "provisions": 128
+    },
+    {
+      "chapter": "123A",
+      "language": "en",
+      "version_date": "2024-06-30",
+      "provisions": 56
+    },
+    {
+      "chapter": "123C",
+      "language": "en",
+      "version_date": "2021-05-13",
+      "provisions": 14
+    },
+    {
+      "chapter": "123F",
+      "language": "en",
+      "version_date": "2026-09-17",
+      "provisions": 93
+    },
+    {
+      "chapter": "123Q",
+      "language": "en",
+      "version_date": "2021-06-24",
+      "provisions": 48
+    },
+    {
+      "chapter": "123",
+      "language": "zh-Hant",
+      "version_date": "2026-03-01",
+      "provisions": 128
+    },
+    {
+      "chapter": "123A",
+      "language": "zh-Hant",
+      "version_date": "2024-06-30",
+      "provisions": 56
+    },
+    {
+      "chapter": "123C",
+      "language": "zh-Hant",
+      "version_date": "2021-05-13",
+      "provisions": 14
+    },
+    {
+      "chapter": "123F",
+      "language": "zh-Hant",
+      "version_date": "2026-09-17",
+      "provisions": 93
+    },
+    {
+      "chapter": "123Q",
+      "language": "zh-Hant",
+      "version_date": "2021-06-24",
+      "provisions": 48
+    }
+  ]
+}

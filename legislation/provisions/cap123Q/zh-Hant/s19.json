@@ -1,0 +1,30 @@
+{
+  "chapter": "123Q",
+  "language": "zh-Hant",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/zh-Hant/cap_123Q_20210624000000_zh-Hant_c.xml",
+  "sha256": "129b8ed53fe271d87e100e62181f73ae84868e7e15a87c5664b1d93b62fd98c8",
+  "provision": "s19",
+  "kind": "section",
+  "role": "section",
+  "heading": "建築事務監督可要求實地測試",
+  "context": [
+    "對基礎的規定"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212657489_137",
+  "content": "19.\n建築事務監督可要求實地測試\n(1)\n建築事務監督如對基礎的設計假定或支承荷載能力，存有任何懷疑，可要求進行實地測試。\n(2)\n有關測試可在有關基礎上或在該基礎所在的土地上，藉以下方法進行 ——\n(a)\n施加測試荷載；或\n(b)\n任何其他合適的方法。",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s19_1",
+      "content": "(1)\n建築事務監督如對基礎的設計假定或支承荷載能力，存有任何懷疑，可要求進行實地測試。"
+    },
+    {
+      "identifier": "s19_2",
+      "content": "(2)\n有關測試可在有關基礎上或在該基礎所在的土地上，藉以下方法進行 ——\n(a)\n施加測試荷載；或\n(b)\n任何其他合適的方法。"
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/zh-Hant/s19.json"
+}

@@ -1,0 +1,30 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s37",
+  "kind": "section",
+  "role": "section",
+  "heading": "Provision of protective barrier",
+  "context": [
+    "Requirements for User Safety"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212646129_270",
+  "content": "37.\nProvision of protective barrier\n(1)\nA protective barrier must be provided at the edge of a balcony, verandah, floor, roof, staircase, landing or projection to restrict or control the movement of persons, objects and vehicles.\n(2)\nIf the difference between 2 adjacent levels (whether or not within a building) exceeds 600 mm, a protective barrier must be provided at the higher level to restrict or control the movement of persons, objects and vehicles.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s37_1",
+      "content": "(1)\nA protective barrier must be provided at the edge of a balcony, verandah, floor, roof, staircase, landing or projection to restrict or control the movement of persons, objects and vehicles."
+    },
+    {
+      "identifier": "s37_2",
+      "content": "(2)\nIf the difference between 2 adjacent levels (whether or not within a building) exceeds 600 mm, a protective barrier must be provided at the higher level to restrict or control the movement of persons, objects and vehicles."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s37.json"
+}

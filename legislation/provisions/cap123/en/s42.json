@@ -1,0 +1,46 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s42",
+  "kind": "section",
+  "role": "section",
+  "heading": "Building Authority’s powers of exemption",
+  "context": [
+    "Exemptions"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402643182_001",
+  "content": "42.\nBuilding Authority’s powers of exemption\n(1)\nWhere in the opinion of the Building Authority special circumstances render it desirable he may, on receipt of an application therefor and upon payment of the prescribed fee, permit by notice in writing modifications of the provisions of this Ordinance.\n(Amended 44 of 1959 s. 22; 68 of 1993 s. 20)\n(2)\nEvery application for an exemption under this section shall be in the specified form, and shall be considered on its own merits by the Building Authority who shall not be required to take account of exemptions granted in the past.\n(Amended 44 of 1959 s. 22; 68 of 1993 s. 20)\n(3)\nA permit granted under this section may contain such conditions as the Building Authority shall deem necessary.\n(4)\nNo such permit shall be granted to the prejudice of the standard of structural stability and public health established from time to time by regulations.\n(5)\nThis section shall not apply to section 14.\n(Replaced 44 of 1959 s. 22)\n(6)\nThe breach of or failure to perform or to consent to any condition attached to a modification or exemption granted under this section shall render such modification or exemption invalid, and thereupon the purported grant of such modification or exemption shall be no defence to any proceedings for non-compliance with the provisions of this Ordinance.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s42_1",
+      "content": "(1)\nWhere in the opinion of the Building Authority special circumstances render it desirable he may, on receipt of an application therefor and upon payment of the prescribed fee, permit by notice in writing modifications of the provisions of this Ordinance.\n(Amended 44 of 1959 s. 22; 68 of 1993 s. 20)"
+    },
+    {
+      "identifier": "s42_2",
+      "content": "(2)\nEvery application for an exemption under this section shall be in the specified form, and shall be considered on its own merits by the Building Authority who shall not be required to take account of exemptions granted in the past.\n(Amended 44 of 1959 s. 22; 68 of 1993 s. 20)"
+    },
+    {
+      "identifier": "s42_3",
+      "content": "(3)\nA permit granted under this section may contain such conditions as the Building Authority shall deem necessary."
+    },
+    {
+      "identifier": "s42_4",
+      "content": "(4)\nNo such permit shall be granted to the prejudice of the standard of structural stability and public health established from time to time by regulations."
+    },
+    {
+      "identifier": "s42_5",
+      "content": "(5)\nThis section shall not apply to section 14.\n(Replaced 44 of 1959 s. 22)"
+    },
+    {
+      "identifier": "s42_6",
+      "content": "(6)\nThe breach of or failure to perform or to consent to any condition attached to a modification or exemption granted under this section shall render such modification or exemption invalid, and thereupon the purported grant of such modification or exemption shall be no defence to any proceedings for non-compliance with the provisions of this Ordinance."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s42.json"
+}

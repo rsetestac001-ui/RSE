@@ -1,0 +1,21 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s13",
+  "kind": "section",
+  "role": "section",
+  "heading": "Design methodology",
+  "context": [
+    "Requirements for Design and Construction"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645738_085",
+  "content": "13.\nDesign methodology\nThe design for any building, street, building works and street works must be in conformity with—\n(a)\nthe laws of mechanics;\n(b)\nrecognized engineering principles; and\n(c)\nrecognized engineering practices.",
+  "images": [],
+  "subsections": [],
+  "path": "legislation/provisions/cap123Q/en/s13.json"
+}

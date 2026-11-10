@@ -1,0 +1,30 @@
+{
+  "chapter": "123",
+  "language": "zh-Hant",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/zh-Hant/cap_123_20260301000000_zh-Hant_c.xml",
+  "sha256": "c563be5190519c71a48e73e4242ded97a7b163828dd618f1d7bd442168d18a87",
+  "provision": "s43",
+  "kind": "section",
+  "role": "section",
+  "heading": "釋義",
+  "context": [
+    "上訴"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402643214_002",
+  "content": "43.\n釋義\n(1)\n在本部中 ——\n上訴通知 (notice of appeal)指根據第47條發出的上訴通知；\n上訴審裁小組 (Appeal Tribunal)就任何上訴而言，指根據第48條組成以便就該上訴進行聆訊和作出裁定的審裁小組；\n上訴審裁小組秘書 (Secretary to the Appeal Tribunal)指根據第46(2)(a)條獲委擔任該職的人；\n主席 (Chairman)就任何上訴審裁小組而言，指根據第48(1)條獲委任為該審裁小組主席的人；\n職能 (functions)包括權力及職責。\n(2)\n本部內凡提述職能的執行，包括提述權力的行使或職責的履行。",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s43_1",
+      "content": "(1)\n在本部中 ——\n上訴通知 (notice of appeal)指根據第47條發出的上訴通知；\n上訴審裁小組 (Appeal Tribunal)就任何上訴而言，指根據第48條組成以便就該上訴進行聆訊和作出裁定的審裁小組；\n上訴審裁小組秘書 (Secretary to the Appeal Tribunal)指根據第46(2)(a)條獲委擔任該職的人；\n主席 (Chairman)就任何上訴審裁小組而言，指根據第48(1)條獲委任為該審裁小組主席的人；\n職能 (functions)包括權力及職責。"
+    },
+    {
+      "identifier": "s43_2",
+      "content": "(2)\n本部內凡提述職能的執行，包括提述權力的行使或職責的履行。"
+    }
+  ],
+  "path": "legislation/provisions/cap123/zh-Hant/s43.json"
+}

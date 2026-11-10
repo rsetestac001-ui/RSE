@@ -1,0 +1,42 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s28D",
+  "kind": "section",
+  "role": "section",
+  "heading": "Obligation to make good, and compensation for, damage",
+  "context": [
+    "Control of Building"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402642278_003",
+  "content": "28D.\nObligation to make good, and compensation for, damage\n(1)\nAny damage to any land entered upon under section 28B(6) or 28C(1) or to any property thereon, whether above or below ground level, caused by or resulting from the carrying out or maintenance of the relevant works shall be made good as soon as practicable by the person authorized under section 28B(4).\n(2)\nAny person who, by reason of the carrying out or maintenance of the relevant works, suffers any loss or damage to any land or property entered upon, cut through or interfered with shall be entitled to recover compensation from the person in connexion with those building works the relevant works are carried out or maintained or, as the case may be, from any of his successors.\n(3)\nWhere any dispute arises as to—\n(a)\nwhether compensation is payable under this section;\n(b)\nthe amount of any such compensation; or\n(c)\nthe person by or to whom it is payable,\nany person who, by reason of the carrying out or maintenance of the relevant works, has suffered any loss or damage to any land or property entered upon, cut through or interfered with may apply to the Lands Tribunal to hear and determine the dispute, except where he and the person in connexion with whose building works the relevant works are carried out or maintained or, as the case may be, any of that person’s successors have entered into an agreement in writing for the payment of an ascertained amount of compensation.\n(4)\nAn application under subsection (3) may be made within 3 years of the date on which the loss or damage was suffered or within such extended time as the Lands Tribunal may in its discretion allow.\n(5)\nThe Lands Tribunal shall have jurisdiction to hear and determine any application under subsection (3); and in the application of the Lands Tribunal Ordinance (Cap. 17) to any such determination, section 11(1) of that Ordinance shall have effect as if for paragraphs (a) and (b) thereof there were substituted the words “any application under section 28D(3) of the Buildings Ordinance (Cap. 123)”.\n(Added 41 of 1982 s. 8)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s28D_1",
+      "content": "(1)\nAny damage to any land entered upon under section 28B(6) or 28C(1) or to any property thereon, whether above or below ground level, caused by or resulting from the carrying out or maintenance of the relevant works shall be made good as soon as practicable by the person authorized under section 28B(4)."
+    },
+    {
+      "identifier": "s28D_2",
+      "content": "(2)\nAny person who, by reason of the carrying out or maintenance of the relevant works, suffers any loss or damage to any land or property entered upon, cut through or interfered with shall be entitled to recover compensation from the person in connexion with those building works the relevant works are carried out or maintained or, as the case may be, from any of his successors."
+    },
+    {
+      "identifier": "s28D_3",
+      "content": "(3)\nWhere any dispute arises as to—\n(a)\nwhether compensation is payable under this section;\n(b)\nthe amount of any such compensation; or\n(c)\nthe person by or to whom it is payable,\nany person who, by reason of the carrying out or maintenance of the relevant works, has suffered any loss or damage to any land or property entered upon, cut through or interfered with may apply to the Lands Tribunal to hear and determine the dispute, except where he and the person in connexion with whose building works the relevant works are carried out or maintained or, as the case may be, any of that person’s successors have entered into an agreement in writing for the payment of an ascertained amount of compensation."
+    },
+    {
+      "identifier": "s28D_4",
+      "content": "(4)\nAn application under subsection (3) may be made within 3 years of the date on which the loss or damage was suffered or within such extended time as the Lands Tribunal may in its discretion allow."
+    },
+    {
+      "identifier": "s28D_5",
+      "content": "(5)\nThe Lands Tribunal shall have jurisdiction to hear and determine any application under subsection (3); and in the application of the Lands Tribunal Ordinance (Cap. 17) to any such determination, section 11(1) of that Ordinance shall have effect as if for paragraphs (a) and (b) thereof there were substituted the words “any application under section 28D(3) of the Buildings Ordinance (Cap. 123)”."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s28D.json"
+}

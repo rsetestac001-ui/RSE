@@ -1,0 +1,30 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s49",
+  "kind": "section",
+  "role": "section",
+  "heading": "Preliminary hearing",
+  "context": [
+    "Appeals"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402643292_002",
+  "content": "49.\nPreliminary hearing\n(1)\nThe Appeal Tribunal may, in any case where it considers it appropriate to do so, hold a preliminary hearing to determine whether good cause has been shown for holding a full hearing.\n(2)\nIf the Appeal Tribunal determines that good cause has not been shown for holding a full hearing it shall make an order dismissing the appeal but shall otherwise hold a full hearing.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s49_1",
+      "content": "(1)\nThe Appeal Tribunal may, in any case where it considers it appropriate to do so, hold a preliminary hearing to determine whether good cause has been shown for holding a full hearing."
+    },
+    {
+      "identifier": "s49_2",
+      "content": "(2)\nIf the Appeal Tribunal determines that good cause has not been shown for holding a full hearing it shall make an order dismissing the appeal but shall otherwise hold a full hearing."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s49.json"
+}

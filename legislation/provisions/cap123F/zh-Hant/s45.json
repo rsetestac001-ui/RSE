@@ -1,0 +1,34 @@
+{
+  "chapter": "123F",
+  "language": "zh-Hant",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/zh-Hant/cap_123F_20260917000000_zh-Hant_c.xml",
+  "sha256": "1507dac47a72681d534292fbcbffe25ea46dd7d615534e4b09ecc61be464cbd7",
+  "provision": "s45",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "廚房",
+  "context": [
+    "住用建築物"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402648128_002",
+  "content": "45.\n廚房\n(1)\n每幢住用建築物須設有廚房設備，住用建築物內任何擬分開出租作住宅用途的部分除非獲建築事務監督豁免，否則亦須設有廚房設備。\n(2)\n每個廚房的內表面由樓面水平至最少1.2米的高度，須以瓷磚鋪面或以厚度不少於12.5毫米的水泥砂漿或其他非吸收性物料盪面。\n(1976年第294號法律公告)\n(3)\n每個廚房須設有 ——\n(a)\n妥為建造的壁爐或灶台，但如以氣體、油或電力煮食則除外；\n(b)\n洗滌盆及供水裝置。",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s45_1",
+      "content": "(1)\n每幢住用建築物須設有廚房設備，住用建築物內任何擬分開出租作住宅用途的部分除非獲建築事務監督豁免，否則亦須設有廚房設備。"
+    },
+    {
+      "identifier": "s45_2",
+      "content": "(2)\n每個廚房的內表面由樓面水平至最少1.2米的高度，須以瓷磚鋪面或以厚度不少於12.5毫米的水泥砂漿或其他非吸收性物料盪面。\n(1976年第294號法律公告)"
+    },
+    {
+      "identifier": "s45_3",
+      "content": "(3)\n每個廚房須設有 ——\n(a)\n妥為建造的壁爐或灶台，但如以氣體、油或電力煮食則除外；\n(b)\n洗滌盆及供水裝置。"
+    }
+  ],
+  "path": "legislation/provisions/cap123F/zh-Hant/s45.json"
+}

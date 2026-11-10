@@ -1,0 +1,38 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s53G",
+  "kind": "section",
+  "role": "section",
+  "heading": "Preservation of right of appeal and determination of pending applications",
+  "context": [
+    "Transitional Arrangements"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402643448_001",
+  "content": "53G.\nPreservation of right of appeal and determination of pending applications\n(1)\nWhere a person, immediately before the relevant date, has a right of appeal from a decision as regards which he would have had a right of appeal under section 44, had the decision been made after the relevant date (appealable decision), but has not given notice of appeal in respect of that decision, the right of appeal shall, on and from the relevant date, be regarded as a right of appeal conferred by section 44 and may be exercised accordingly.\n(2)\nWhere on the relevant date—\n(a)\na person has given a notice of appeal in respect of an appealable decision but the hearing of the appeal has not commenced, the notice of appeal shall, for the purposes of hearing and determining the appeal, be regarded as a notice of appeal given under section 47;\n(b)\nthe hearing of any appeal made from an appealable decision has commenced before the authority who was empowered immediately before the relevant date to determine that appeal (former authority), notwithstanding anything in the amending Ordinance, but subject to subsection (3), the hearing of the appeal shall be continued and the appeal disposed of as if the amending Ordinance had not been enacted.\n(3)\nIn hearing or determining an appeal pursuant to subsection (2)(b) the former authority shall, as far as circumstances permit, do so in accordance with Part 6 and regulations (if any) made under section 38(1B) and for that purpose any reference in that Part or such regulations to an Appeal Tribunal shall be construed as a reference to the former authority and any order for costs made by the former authority as regards such an appeal shall be regarded as an order for costs made under Part 6.\n(4)\nWhere on the relevant date, an order for costs made in any hearing of an appeal as regards an appealable decision remains unsatisfied wholly or partly, section 51 shall apply as regards such order as if it were an order for costs made under section 51(1).\n(Amended E.R. 1 of 2012)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s53G_1",
+      "content": "(1)\nWhere a person, immediately before the relevant date, has a right of appeal from a decision as regards which he would have had a right of appeal under section 44, had the decision been made after the relevant date (appealable decision), but has not given notice of appeal in respect of that decision, the right of appeal shall, on and from the relevant date, be regarded as a right of appeal conferred by section 44 and may be exercised accordingly."
+    },
+    {
+      "identifier": "s53G_2",
+      "content": "(2)\nWhere on the relevant date—\n(a)\na person has given a notice of appeal in respect of an appealable decision but the hearing of the appeal has not commenced, the notice of appeal shall, for the purposes of hearing and determining the appeal, be regarded as a notice of appeal given under section 47;\n(b)\nthe hearing of any appeal made from an appealable decision has commenced before the authority who was empowered immediately before the relevant date to determine that appeal (former authority), notwithstanding anything in the amending Ordinance, but subject to subsection (3), the hearing of the appeal shall be continued and the appeal disposed of as if the amending Ordinance had not been enacted."
+    },
+    {
+      "identifier": "s53G_3",
+      "content": "(3)\nIn hearing or determining an appeal pursuant to subsection (2)(b) the former authority shall, as far as circumstances permit, do so in accordance with Part 6 and regulations (if any) made under section 38(1B) and for that purpose any reference in that Part or such regulations to an Appeal Tribunal shall be construed as a reference to the former authority and any order for costs made by the former authority as regards such an appeal shall be regarded as an order for costs made under Part 6."
+    },
+    {
+      "identifier": "s53G_4",
+      "content": "(4)\nWhere on the relevant date, an order for costs made in any hearing of an appeal as regards an appealable decision remains unsatisfied wholly or partly, section 51 shall apply as regards such order as if it were an order for costs made under section 51(1)."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s53G.json"
+}

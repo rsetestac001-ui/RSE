@@ -1,0 +1,42 @@
+{
+  "chapter": "123F",
+  "language": "en",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+  "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+  "provision": "s46",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Tenement house",
+  "context": [
+    "Domestic\nBuildings"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402648128_003",
+  "content": "46.\nTenement house\n(1)\nNo tenement house shall be erected with a depth from the front main wall or, if any balcony is projected from the front main wall, from the front of every such balcony to the nearest rear main wall exceeding 10 m unless exempted by the Building Authority.\n(L.N. 33 of 1966)\n(2)\n(a)\nSave where exempted by the Building Authority, every storey of every tenement house shall be provided with a window in such rear main wall of such storey.\n(b)\nSuch window shall be so constructed that—\n(i)\nthe aggregate superficial area of the glass in the window is at least 1.5 m2;\n(ii)\nthe window can, to an extent of at least 1.5 m2, be opened into the open air in such a manner that the top of the opening is at least 2 m above the level of the floor.\n(G.N.A. 83 of 1959)\n(3)\nNo windows required under these regulations in any tenement house shall be obstructed by the erection of any structure either inside or outside the building.\n(4)\n(a)\nThe internal area of every kitchen in a tenement house shall be—\n(i)\nnot less than 3.75\nm2\nwhere the total area of the domestic premises of which such kitchen forms\npart, does not exceed 45 m2;\n(ii)\nnot less than 4.5 m2 where the total area of the domestic premises of which such kitchen forms part, exceeds 45 m2 but does not exceed 70 m2;\n(iii)\nnot less than 5.5 m2 where the total area of the domestic premises of which such kitchen forms part, exceeds 70 m2.\n(b)\nIn no case shall the smaller dimension of such kitchen be less than 1.5 m.\n(5)\nFor the purpose of these regulations a tenement house means any\nbuilding in the domestic part of which any living room is intended or adapted for\nthe use of more than one tenant or sub-tenant. In this regulation\nliving\nroom\n(起居室) means any room intended or adapted as a\nplace for cooking or sleeping.\n(L.N. 294 of 1976)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s46_1",
+      "content": "(1)\nNo tenement house shall be erected with a depth from the front main wall or, if any balcony is projected from the front main wall, from the front of every such balcony to the nearest rear main wall exceeding 10 m unless exempted by the Building Authority.\n(L.N. 33 of 1966)"
+    },
+    {
+      "identifier": "s46_2",
+      "content": "(2)\n(a)\nSave where exempted by the Building Authority, every storey of every tenement house shall be provided with a window in such rear main wall of such storey.\n(b)\nSuch window shall be so constructed that—\n(i)\nthe aggregate superficial area of the glass in the window is at least 1.5 m2;\n(ii)\nthe window can, to an extent of at least 1.5 m2, be opened into the open air in such a manner that the top of the opening is at least 2 m above the level of the floor.\n(G.N.A. 83 of 1959)"
+    },
+    {
+      "identifier": "s46_3",
+      "content": "(3)\nNo windows required under these regulations in any tenement house shall be obstructed by the erection of any structure either inside or outside the building."
+    },
+    {
+      "identifier": "s46_4",
+      "content": "(4)\n(a)\nThe internal area of every kitchen in a tenement house shall be—\n(i)\nnot less than 3.75\nm2\nwhere the total area of the domestic premises of which such kitchen forms\npart, does not exceed 45 m2;\n(ii)\nnot less than 4.5 m2 where the total area of the domestic premises of which such kitchen forms part, exceeds 45 m2 but does not exceed 70 m2;\n(iii)\nnot less than 5.5 m2 where the total area of the domestic premises of which such kitchen forms part, exceeds 70 m2.\n(b)\nIn no case shall the smaller dimension of such kitchen be less than 1.5 m."
+    },
+    {
+      "identifier": "s46_5",
+      "content": "(5)\nFor the purpose of these regulations a tenement house means any\nbuilding in the domestic part of which any living room is intended or adapted for\nthe use of more than one tenant or sub-tenant. In this regulation\nliving\nroom\n(起居室) means any room intended or adapted as a\nplace for cooking or sleeping."
+    }
+  ],
+  "path": "legislation/provisions/cap123F/en/s46.json"
+}

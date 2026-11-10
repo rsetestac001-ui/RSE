@@ -1,0 +1,30 @@
+{
+  "chapter": "123F",
+  "language": "zh-Hant",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/zh-Hant/cap_123F_20260917000000_zh-Hant_c.xml",
+  "sha256": "1507dac47a72681d534292fbcbffe25ea46dd7d615534e4b09ecc61be464cbd7",
+  "provision": "s3",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "露台及外廊的防護",
+  "context": [
+    "一般規定"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402647129_001",
+  "content": "3.\n露台及外廊的防護\n(1)-(2)\n(由1990年第439號法律公告廢除)\n(3)\n每個自建築物上層伸出的露台，其淨高度(由該露台的樓面向上量度)須不少於其所伸自的樓層的淨高度。\n(1987年第406號法律公告)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s3_1...2",
+      "content": "(1)-(2)\n(由1990年第439號法律公告廢除)"
+    },
+    {
+      "identifier": "s3_3",
+      "content": "(3)\n每個自建築物上層伸出的露台，其淨高度(由該露台的樓面向上量度)須不少於其所伸自的樓層的淨高度。"
+    }
+  ],
+  "path": "legislation/provisions/cap123F/zh-Hant/s3.json"
+}

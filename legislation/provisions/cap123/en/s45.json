@@ -1,0 +1,50 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s45",
+  "kind": "section",
+  "role": "section",
+  "heading": "Appeal Tribunal Panel",
+  "context": [
+    "Appeals"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402643229_002",
+  "content": "45.\nAppeal Tribunal Panel\n(1)\nThere shall be a panel to be known as the Appeal Tribunal Panel.\n(2)\nThe Chief Executive shall appoint to the Appeal Tribunal Panel—\n(a)\nsuch persons as he considers suitable to serve as members of an Appeal Tribunal constituted under section 48; and\n(b)\npersons with the qualifications referred to in section 48(2) to serve as Chairmen.\n(3)\nEach appointment under subsection (2) shall be for a period which shall not exceed 3 years and which shall be determined by the Chief Executive at the time of the appointment.\n(4)\nA member of the Appeal Tribunal Panel may resign his office by giving notice in writing to the Chief Executive.\n(5)\nA person who ceases to be a member of the Appeal Tribunal Panel shall be eligible for reappointment to that panel.\n(6)\nA notice of any appointment under this section shall be published in the Gazette.\n(7)\nThe Chief Executive may by notice in writing remove from office any member of the Appeal Tribunal Panel whom he considers to be unsuitable to hold office as such member.\n(Amended 62 of 2000 s. 3)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s45_1",
+      "content": "(1)\nThere shall be a panel to be known as the Appeal Tribunal Panel."
+    },
+    {
+      "identifier": "s45_2",
+      "content": "(2)\nThe Chief Executive shall appoint to the Appeal Tribunal Panel—\n(a)\nsuch persons as he considers suitable to serve as members of an Appeal Tribunal constituted under section 48; and\n(b)\npersons with the qualifications referred to in section 48(2) to serve as Chairmen."
+    },
+    {
+      "identifier": "s45_3",
+      "content": "(3)\nEach appointment under subsection (2) shall be for a period which shall not exceed 3 years and which shall be determined by the Chief Executive at the time of the appointment."
+    },
+    {
+      "identifier": "s45_4",
+      "content": "(4)\nA member of the Appeal Tribunal Panel may resign his office by giving notice in writing to the Chief Executive."
+    },
+    {
+      "identifier": "s45_5",
+      "content": "(5)\nA person who ceases to be a member of the Appeal Tribunal Panel shall be eligible for reappointment to that panel."
+    },
+    {
+      "identifier": "s45_6",
+      "content": "(6)\nA notice of any appointment under this section shall be published in the Gazette."
+    },
+    {
+      "identifier": "s45_7",
+      "content": "(7)\nThe Chief Executive may by notice in writing remove from office any member of the Appeal Tribunal Panel whom he considers to be unsuitable to hold office as such member."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s45.json"
+}

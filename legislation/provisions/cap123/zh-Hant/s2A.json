@@ -1,0 +1,32 @@
+{
+  "chapter": "123",
+  "language": "zh-Hant",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/zh-Hant/cap_123_20260301000000_zh-Hant_c.xml",
+  "sha256": "c563be5190519c71a48e73e4242ded97a7b163828dd618f1d7bd442168d18a87",
+  "provision": "s2A",
+  "kind": "section",
+  "role": "section",
+  "heading": "專門工程的指定",
+  "context": [],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402641076_001",
+  "content": "2A.\n專門工程的指定\n(1)\n建築事務監督可指定任何類別的建築工程或街道工程為專門工程。\n(2)\n建築事務監督須在憲報公布根據第(1)款作出的指定。\n(3)\n根據第(2)款作出的公布不是附屬法例。\n(由2008年第20號第4條增補)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s2A_1",
+      "content": "(1)\n建築事務監督可指定任何類別的建築工程或街道工程為專門工程。"
+    },
+    {
+      "identifier": "s2A_2",
+      "content": "(2)\n建築事務監督須在憲報公布根據第(1)款作出的指定。"
+    },
+    {
+      "identifier": "s2A_3",
+      "content": "(3)\n根據第(2)款作出的公布不是附屬法例。"
+    }
+  ],
+  "path": "legislation/provisions/cap123/zh-Hant/s2A.json"
+}

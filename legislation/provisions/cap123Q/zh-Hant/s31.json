@@ -1,0 +1,34 @@
+{
+  "chapter": "123Q",
+  "language": "zh-Hant",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/zh-Hant/cap_123Q_20210624000000_zh-Hant_c.xml",
+  "sha256": "129b8ed53fe271d87e100e62181f73ae84868e7e15a87c5664b1d93b62fd98c8",
+  "provision": "s31",
+  "kind": "section",
+  "role": "section",
+  "heading": "幕牆——固定承托物和保養",
+  "context": [
+    "對外牆、覆蓋層及幕牆的規定"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212657645_225",
+  "content": "31.\n幕牆——固定承托物和保養\n(1)\n建築物的幕牆承托物，須藉以下方式，固定於該建築物的承載構築物上 ——\n(a)\n澆注錨固於該構築物的結構混凝土構件上；或\n(b)\n焊接或栓接於該構築物的結構鋼構件上。\n(2)\n凡將幕牆承托物固定於建築物的承載構築物上，則固定工程不得 ——\n(a)\n損害該構築物的構件(該承托物固定於其上者)的結構完整性；或\n(b)\n對該構件的功能造成不利影響。\n(3)\n須設有足夠的進出途徑通往建築物幕牆的外層表面或該牆的伸出物，以供保養或修葺該牆或伸出物。",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s31_1",
+      "content": "(1)\n建築物的幕牆承托物，須藉以下方式，固定於該建築物的承載構築物上 ——\n(a)\n澆注錨固於該構築物的結構混凝土構件上；或\n(b)\n焊接或栓接於該構築物的結構鋼構件上。"
+    },
+    {
+      "identifier": "s31_2",
+      "content": "(2)\n凡將幕牆承托物固定於建築物的承載構築物上，則固定工程不得 ——\n(a)\n損害該構築物的構件(該承托物固定於其上者)的結構完整性；或\n(b)\n對該構件的功能造成不利影響。"
+    },
+    {
+      "identifier": "s31_3",
+      "content": "(3)\n須設有足夠的進出途徑通往建築物幕牆的外層表面或該牆的伸出物，以供保養或修葺該牆或伸出物。"
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/zh-Hant/s31.json"
+}

@@ -1,0 +1,42 @@
+{
+  "chapter": "123Q",
+  "language": "zh-Hant",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/zh-Hant/cap_123Q_20210624000000_zh-Hant_c.xml",
+  "sha256": "129b8ed53fe271d87e100e62181f73ae84868e7e15a87c5664b1d93b62fd98c8",
+  "provision": "s11",
+  "kind": "section",
+  "role": "section",
+  "heading": "關於荷載的告示",
+  "context": [
+    "荷載"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212657348_073",
+  "content": "11.\n關於荷載的告示\n(1)\n工業建築物及倉庫，適用本條。\n(2)\n在工業建築物或倉庫的以下地方，須永久而顯眼地展示告示，述明該建築物或倉庫的樓面的設計分布外加荷載 ——\n(a)\n每一樓層的每道樓梯；或\n(b)\n其他適當地點。\n(3)\n如有關建築物或倉庫的樓面的不同部分，有不同的設計分布外加荷載，則須在該樓面的每一不同部分，永久而顯眼地展示告示，述明該部分的設計分布外加荷載。\n(4)\n第(2)或(3)款提述的告示須清晰易讀，並須以耐久物料製成。\n(5)\n在本條中 ——\n設計分布外加荷載 (designed distributed imposed load)就某工業建築物或倉庫的樓面而言，指按該樓面的設計能夠應付的、以每平方米重量為單位的分布外加荷載，但不包括動力效應。",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s11_1",
+      "content": "(1)\n工業建築物及倉庫，適用本條。"
+    },
+    {
+      "identifier": "s11_2",
+      "content": "(2)\n在工業建築物或倉庫的以下地方，須永久而顯眼地展示告示，述明該建築物或倉庫的樓面的設計分布外加荷載 ——\n(a)\n每一樓層的每道樓梯；或\n(b)\n其他適當地點。"
+    },
+    {
+      "identifier": "s11_3",
+      "content": "(3)\n如有關建築物或倉庫的樓面的不同部分，有不同的設計分布外加荷載，則須在該樓面的每一不同部分，永久而顯眼地展示告示，述明該部分的設計分布外加荷載。"
+    },
+    {
+      "identifier": "s11_4",
+      "content": "(4)\n第(2)或(3)款提述的告示須清晰易讀，並須以耐久物料製成。"
+    },
+    {
+      "identifier": "s11_5",
+      "content": "(5)\n在本條中 ——\n設計分布外加荷載 (designed distributed imposed load)就某工業建築物或倉庫的樓面而言，指按該樓面的設計能夠應付的、以每平方米重量為單位的分布外加荷載，但不包括動力效應。"
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/zh-Hant/s11.json"
+}

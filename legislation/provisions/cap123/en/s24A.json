@@ -1,0 +1,38 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s24A",
+  "kind": "section",
+  "role": "section",
+  "heading": "Order to cease or remedy dangerous works",
+  "context": [
+    "Control of Building"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402642012_002",
+  "content": "24A.\nOrder to cease or remedy dangerous works\n(1)\nWhere any building works or street works have been or are being, carried out in such a manner as, in the opinion of the Building Authority, will cause, or will be likely to cause, a risk of injury to any person or damage to any property, the Building Authority may, by order in writing, require that such work as he may specify therein be carried out, to ensure that the works will cease to constitute such a risk.\n(Amended 43 of 1993 s. 7)\n(2)\nAn order made under subsection (1)—\n(a)\nmay specify—\n(i)\nthe manner in which the work specified in the order shall be carried out;\n(ii)\nthe time before which the work shall be commenced and the time by which it shall be completed;\n(iii)\nthat the work shall be carried out with due diligence to the satisfaction of the Building Authority; and\n(b)\nshall be addressed to and served on—\n(i)\nin the case of completed works, the owner thereof; and\n(ii)\nin any other case, the person for whom the works are being carried out or his agent.\n(3)\nIf a person fails to comply with an order served on him under subsection (1), the Building Authority may, without any further notice, carry out, or cause to be carried out, such work as may be necessary to ensure that the order will be complied with.\n(4)\nThe cost of any work carried out, or caused to be carried out, by the Building Authority under subsection (3) may be recovered by the Building Authority from the person upon whom the order was served under subsection (2).\n(Added 71 of 1972 s. 3)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s24A_1",
+      "content": "(1)\nWhere any building works or street works have been or are being, carried out in such a manner as, in the opinion of the Building Authority, will cause, or will be likely to cause, a risk of injury to any person or damage to any property, the Building Authority may, by order in writing, require that such work as he may specify therein be carried out, to ensure that the works will cease to constitute such a risk.\n(Amended 43 of 1993 s. 7)"
+    },
+    {
+      "identifier": "s24A_2",
+      "content": "(2)\nAn order made under subsection (1)—\n(a)\nmay specify—\n(i)\nthe manner in which the work specified in the order shall be carried out;\n(ii)\nthe time before which the work shall be commenced and the time by which it shall be completed;\n(iii)\nthat the work shall be carried out with due diligence to the satisfaction of the Building Authority; and\n(b)\nshall be addressed to and served on—\n(i)\nin the case of completed works, the owner thereof; and\n(ii)\nin any other case, the person for whom the works are being carried out or his agent."
+    },
+    {
+      "identifier": "s24A_3",
+      "content": "(3)\nIf a person fails to comply with an order served on him under subsection (1), the Building Authority may, without any further notice, carry out, or cause to be carried out, such work as may be necessary to ensure that the order will be complied with."
+    },
+    {
+      "identifier": "s24A_4",
+      "content": "(4)\nThe cost of any work carried out, or caused to be carried out, by the Building Authority under subsection (3) may be recovered by the Building Authority from the person upon whom the order was served under subsection (2)."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s24A.json"
+}

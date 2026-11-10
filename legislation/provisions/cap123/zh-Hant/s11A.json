@@ -1,0 +1,34 @@
+{
+  "chapter": "123",
+  "language": "zh-Hant",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/zh-Hant/cap_123_20260301000000_zh-Hant_c.xml",
+  "sha256": "c563be5190519c71a48e73e4242ded97a7b163828dd618f1d7bd442168d18a87",
+  "provision": "s11A",
+  "kind": "section",
+  "role": "section",
+  "heading": "承建商紀律委員團",
+  "context": [
+    "認可人士、註冊結構工程師、註冊岩土工程師、註冊檢驗人員及註冊承建商"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402641622_002",
+  "content": "11A.\n承建商紀律委員團\n(1)\n現設立註冊承建商紀律委員團，由行政長官委出。\n(由2000年第62號第3條修訂)\n(2)\n(由1996年第54號第12條廢除)\n(3)\n註冊承建商紀律委員團成員的任期為3年，但有資格再獲委任。\n(由1974年第52號第8條增補)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s11A_1",
+      "content": "(1)\n現設立註冊承建商紀律委員團，由行政長官委出。\n(由2000年第62號第3條修訂)"
+    },
+    {
+      "identifier": "s11A_2",
+      "content": "(2)\n(由1996年第54號第12條廢除)"
+    },
+    {
+      "identifier": "s11A_3",
+      "content": "(3)\n註冊承建商紀律委員團成員的任期為3年，但有資格再獲委任。"
+    }
+  ],
+  "path": "legislation/provisions/cap123/zh-Hant/s11A.json"
+}

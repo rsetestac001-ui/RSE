@@ -1,0 +1,30 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s39",
+  "kind": "section",
+  "role": "section",
+  "heading": "Application of new regulations",
+  "context": [
+    "Miscellaneous and General"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402642980_001",
+  "content": "39.\nApplication of new regulations\n(1)\nAny regulations made under this Ordinance may provide that where plans of building works or street works are submitted to the Building Authority within such period from the coming into operation of the regulations as may be prescribed therein, he may approve any such plans which comply with the provisions of the law before the coming into operation of such regulations and may give consent to the commencement of the works shown therein; and the provisions of subsection (2) shall apply to such works and to any building which may be erected or any street or access road which may be formed, constructed or laid out in consequence thereof.\n(2)\nWhere at the date of the coming into operation of any regulations made under this Ordinance any building works or street works are being carried out or consent to their commencement has been given the provisions of the law prior to the coming into operation of such regulations shall apply to such works:\nProvided that in the exercise of his powers under section 20 the Building Authority may require compliance with such regulations coming into operation since the giving of his consent to the commencement of the works in respect of which he is exercising such powers.\n(Added 44 of 1959 s. 19. Amended 43 of 1993 s. 9)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s39_1",
+      "content": "(1)\nAny regulations made under this Ordinance may provide that where plans of building works or street works are submitted to the Building Authority within such period from the coming into operation of the regulations as may be prescribed therein, he may approve any such plans which comply with the provisions of the law before the coming into operation of such regulations and may give consent to the commencement of the works shown therein; and the provisions of subsection (2) shall apply to such works and to any building which may be erected or any street or access road which may be formed, constructed or laid out in consequence thereof."
+    },
+    {
+      "identifier": "s39_2",
+      "content": "(2)\nWhere at the date of the coming into operation of any regulations made under this Ordinance any building works or street works are being carried out or consent to their commencement has been given the provisions of the law prior to the coming into operation of such regulations shall apply to such works:\nProvided that in the exercise of his powers under section 20 the Building Authority may require compliance with such regulations coming into operation since the giving of his consent to the commencement of the works in respect of which he is exercising such powers."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s39.json"
+}

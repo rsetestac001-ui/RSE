@@ -1,0 +1,30 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s43",
+  "kind": "section",
+  "role": "section",
+  "heading": "Interpretation",
+  "context": [
+    "Appeals"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402643214_001",
+  "content": "43.\nInterpretation\n(1)\nIn this Part—\nAppeal Tribunal (上訴審裁小組) in relation to an appeal means the tribunal constituted under section 48 to hear and determine that appeal;\nChairman (主席) in relation to an Appeal Tribunal means the person appointed as its chairman under section 48(1);\nfunctions (職能) includes powers and duties;\nnotice of appeal (上訴通知) means a notice of appeal given under section 47;\nSecretary to the Appeal Tribunal (上訴審裁小組秘書) means the person appointed as such under section 46(2)(a).\n(2)\nAny reference in this Part to the performance of a function includes the exercise of a power or discharge of a duty.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s43_1",
+      "content": "(1)\nIn this Part—\nAppeal Tribunal (上訴審裁小組) in relation to an appeal means the tribunal constituted under section 48 to hear and determine that appeal;\nChairman (主席) in relation to an Appeal Tribunal means the person appointed as its chairman under section 48(1);\nfunctions (職能) includes powers and duties;\nnotice of appeal (上訴通知) means a notice of appeal given under section 47;\nSecretary to the Appeal Tribunal (上訴審裁小組秘書) means the person appointed as such under section 46(2)(a)."
+    },
+    {
+      "identifier": "s43_2",
+      "content": "(2)\nAny reference in this Part to the performance of a function includes the exercise of a power or discharge of a duty."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s43.json"
+}

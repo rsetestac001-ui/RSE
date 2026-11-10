@@ -1,0 +1,30 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s17A",
+  "kind": "section",
+  "role": "section",
+  "heading": "Incompatibility with sewage tunnel works",
+  "context": [
+    "Control of Building"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402641825_002",
+  "content": "17A.\nIncompatibility with sewage tunnel works\n(1)\nNotwithstanding anything in this Ordinance, where the Building Authority is of the opinion that any building works or the commencement of any building works would be incompatible with any sewage tunnel works or proposed sewage tunnel works, he may to such extent as is necessary to avoid such incompatibility—\n(a)\nrefuse to give his approval to any plan or to consent to the commencement of the building works;\n(b)\nwithdraw any approval which he has or is deemed to have given to any plan or any consent to the commencement of the building works;\n(c)\nimpose conditions on the giving of approval of plans showing piling works, excavation works or foundation works or consent to commence such works.\n(2)\nIn this section—\nproposed sewage tunnel works (擬建污水隧道工程) means sewage tunnel works likely to be undertaken in connection with a proposed sewage tunnel referred to in a notice published in the Gazette pursuant to section 4 of the Sewage Tunnels (Statutory Easements) Ordinance (Cap. 438);\nsewage tunnel works (污水隧道工程) has the same meaning as tunnel works in the Sewage Tunnels (Statutory Easements) Ordinance (Cap. 438).\n(Added 74 of 1993 s. 16)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s17A_1",
+      "content": "(1)\nNotwithstanding anything in this Ordinance, where the Building Authority is of the opinion that any building works or the commencement of any building works would be incompatible with any sewage tunnel works or proposed sewage tunnel works, he may to such extent as is necessary to avoid such incompatibility—\n(a)\nrefuse to give his approval to any plan or to consent to the commencement of the building works;\n(b)\nwithdraw any approval which he has or is deemed to have given to any plan or any consent to the commencement of the building works;\n(c)\nimpose conditions on the giving of approval of plans showing piling works, excavation works or foundation works or consent to commence such works."
+    },
+    {
+      "identifier": "s17A_2",
+      "content": "(2)\nIn this section—\nproposed sewage tunnel works (擬建污水隧道工程) means sewage tunnel works likely to be undertaken in connection with a proposed sewage tunnel referred to in a notice published in the Gazette pursuant to section 4 of the Sewage Tunnels (Statutory Easements) Ordinance (Cap. 438);\nsewage tunnel works (污水隧道工程) has the same meaning as tunnel works in the Sewage Tunnels (Statutory Easements) Ordinance (Cap. 438)."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s17A.json"
+}

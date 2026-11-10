@@ -1,0 +1,34 @@
+{
+  "chapter": "123F",
+  "language": "en",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+  "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+  "provision": "s53",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Contractor’s sheds",
+  "context": [
+    "Temporary\nBuildings"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402648424_001",
+  "content": "53.\nContractor’s sheds\n(1)\nNotwithstanding regulation 51, every contractor shall—\n(a)\nsubmit an application, in the specified form, to the Building Authority for permission to erect contractor’s sheds (other than sheds in contractors yards) during the execution of building works;\n(L.N. 350 of 1993)\n(b)\nsupply information regarding the situation, dimensions, construction, the length of time for which such contractor’s sheds are required and their intended use; and if intended for habitation, the number of persons to be accommodated shall be stated.\n(2)\nA permit issued by the Building Authority upon application made under paragraph (1) may specify the period for which such contractor’s sheds may exist, and such other conditions as the Building Authority may deem necessary.\n(L.N. 350 of 1993)\n(3)\nThe floor of every contractor’s shed which is intended for habitation, shall be properly concreted or raised at least 1 m above ground level.\n(L.N. 294 of 1976)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s53_1",
+      "content": "(1)\nNotwithstanding regulation 51, every contractor shall—\n(a)\nsubmit an application, in the specified form, to the Building Authority for permission to erect contractor’s sheds (other than sheds in contractors yards) during the execution of building works;\n(L.N. 350 of 1993)\n(b)\nsupply information regarding the situation, dimensions, construction, the length of time for which such contractor’s sheds are required and their intended use; and if intended for habitation, the number of persons to be accommodated shall be stated."
+    },
+    {
+      "identifier": "s53_2",
+      "content": "(2)\nA permit issued by the Building Authority upon application made under paragraph (1) may specify the period for which such contractor’s sheds may exist, and such other conditions as the Building Authority may deem necessary.\n(L.N. 350 of 1993)"
+    },
+    {
+      "identifier": "s53_3",
+      "content": "(3)\nThe floor of every contractor’s shed which is intended for habitation, shall be properly concreted or raised at least 1 m above ground level.\n(L.N. 294 of 1976)"
+    }
+  ],
+  "path": "legislation/provisions/cap123F/en/s53.json"
+}

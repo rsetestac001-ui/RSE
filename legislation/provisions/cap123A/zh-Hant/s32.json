@@ -1,0 +1,38 @@
+{
+  "chapter": "123A",
+  "language": "zh-Hant",
+  "version_date": "2024-06-30",
+  "xml_path": "legislation/raw/cap123A/zh-Hant/cap_123A_20240630000000_zh-Hant_c.xml",
+  "sha256": "ff9d62aee5d5d6f3137ecdef06f6a35eb781648786844f89a374cc9aaf9134ea",
+  "provision": "s32",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "同意展開工程",
+  "context": [
+    "關於批准圖則和同意展開建築工程及街道工程的程序"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123A?xpid=ID_1438402644477_003",
+  "content": "32.\n同意展開工程\n(1)\n建築事務監督同意展開任何建築工程或街道工程，須藉向提出申請的人送達的書面通知示明。\n(1993年第347號法律公告)\n(2)\n建築事務監督可同意展開任何建築工程中有關的圖則已獲批准的任何部分。\n(3)\n本條例第15條所提述的關於當作已給予同意的期限為28天。\n(1964年第136號法律公告)\n(4)-(5)\n(由1982年第233號法律公告廢除)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s32_1",
+      "content": "(1)\n建築事務監督同意展開任何建築工程或街道工程，須藉向提出申請的人送達的書面通知示明。\n(1993年第347號法律公告)"
+    },
+    {
+      "identifier": "s32_2",
+      "content": "(2)\n建築事務監督可同意展開任何建築工程中有關的圖則已獲批准的任何部分。"
+    },
+    {
+      "identifier": "s32_3",
+      "content": "(3)\n本條例第15條所提述的關於當作已給予同意的期限為28天。\n(1964年第136號法律公告)"
+    },
+    {
+      "identifier": "s32_4...5",
+      "content": "(4)-(5)\n(由1982年第233號法律公告廢除)"
+    }
+  ],
+  "path": "legislation/provisions/cap123A/zh-Hant/s32.json"
+}

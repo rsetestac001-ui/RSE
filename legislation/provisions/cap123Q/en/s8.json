@@ -1,0 +1,42 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s8",
+  "kind": "section",
+  "role": "section",
+  "heading": "Reduction of imposed loads",
+  "context": [
+    "Loads"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645613_042",
+  "content": "8.\nReduction of imposed loads\n(1)\nSubject to subsections (2), (3), (4) and (5), in determining the total imposed load on a column, pier, wall or foundation (the member under consideration), a reduction specified in Table 2 in the Schedule may be applied to the distributed imposed load on the roof and on every floor carried by the member under consideration.\n(2)\nIf a single span of beam supports not less than 45 m2 of floor at any level, for the purpose only of designing the beam, a reduction referred to in subsection (3) may be applied to the distributed imposed load on the floor that the beam supports.\n(3)\nThe reduction that may be applied is—\n(a)\n5% for each complete 45 m2 of the floor that the beam supports; and\n(b)\nnot more than 20% in total for the floor that the beam supports.\n(4)\nFor factories and workshops designed for a distributed imposed load of 7.5 kPa or more, the total imposed load must not be reduced below the value of the imposed load that is obtained if all the floors had been designed for a distributed imposed load of 7.5 kPa without the reduction specified in Table 2.\n(5)\nThe imposed loads must not be reduced in relation to—\n(a)\nfloors of a building that support the equipment, machinery or displaying items referred to in section 7(3);\n(b)\nfloors of factories and workshops designed for a distributed imposed load of less than 7.5 kPa;\n(c)\nfloors used by vehicles;\n(d)\noffice areas used for storage and filing purposes;\n(e)\nforces produced by dynamic effects;\n(f)\nfloors used for storage purposes; or\n(g)\nloads from partitions the positions of which are not indicated on the plan of the building.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s8_1",
+      "content": "(1)\nSubject to subsections (2), (3), (4) and (5), in determining the total imposed load on a column, pier, wall or foundation (the member under consideration), a reduction specified in Table 2 in the Schedule may be applied to the distributed imposed load on the roof and on every floor carried by the member under consideration."
+    },
+    {
+      "identifier": "s8_2",
+      "content": "(2)\nIf a single span of beam supports not less than 45 m2 of floor at any level, for the purpose only of designing the beam, a reduction referred to in subsection (3) may be applied to the distributed imposed load on the floor that the beam supports."
+    },
+    {
+      "identifier": "s8_3",
+      "content": "(3)\nThe reduction that may be applied is—\n(a)\n5% for each complete 45 m2 of the floor that the beam supports; and\n(b)\nnot more than 20% in total for the floor that the beam supports."
+    },
+    {
+      "identifier": "s8_4",
+      "content": "(4)\nFor factories and workshops designed for a distributed imposed load of 7.5 kPa or more, the total imposed load must not be reduced below the value of the imposed load that is obtained if all the floors had been designed for a distributed imposed load of 7.5 kPa without the reduction specified in Table 2."
+    },
+    {
+      "identifier": "s8_5",
+      "content": "(5)\nThe imposed loads must not be reduced in relation to—\n(a)\nfloors of a building that support the equipment, machinery or displaying items referred to in section 7(3);\n(b)\nfloors of factories and workshops designed for a distributed imposed load of less than 7.5 kPa;\n(c)\nfloors used by vehicles;\n(d)\noffice areas used for storage and filing purposes;\n(e)\nforces produced by dynamic effects;\n(f)\nfloors used for storage purposes; or\n(g)\nloads from partitions the positions of which are not indicated on the plan of the building."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s8.json"
+}

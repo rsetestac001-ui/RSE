@@ -1,0 +1,30 @@
+{
+  "chapter": "123F",
+  "language": "zh-Hant",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/zh-Hant/cap_123F_20260917000000_zh-Hant_c.xml",
+  "sha256": "1507dac47a72681d534292fbcbffe25ea46dd7d615534e4b09ecc61be464cbd7",
+  "provision": "s44",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "旋轉門及回轉欄",
+  "context": [
+    "樓梯、走火通道及供消防和救援用的通道"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402648112_001",
+  "content": "44.\n旋轉門及回轉欄\n(1)\n如使用旋轉門或回轉欄，則須在其鄰近設置其他出路設施。\n(2)\n在任何公眾集會場地內，如使用回轉欄，則須與出路線分隔清楚。",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s44_1",
+      "content": "(1)\n如使用旋轉門或回轉欄，則須在其鄰近設置其他出路設施。"
+    },
+    {
+      "identifier": "s44_2",
+      "content": "(2)\n在任何公眾集會場地內，如使用回轉欄，則須與出路線分隔清楚。"
+    }
+  ],
+  "path": "legislation/provisions/cap123F/zh-Hant/s44.json"
+}

@@ -1,0 +1,34 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s53",
+  "kind": "section",
+  "role": "section",
+  "heading": "Inspection",
+  "context": [
+    "Appeals"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402643338_002",
+  "content": "53.\nInspection\n(1)\nThe Appeal Tribunal may, for the purpose of determining an appeal at any reasonable time—\n(a)\nenter and inspect any land or premises it considers relevant for the purposes of the appeal; and\n(b)\nmake any opening on such land or premises or take such samples as it considers necessary.\n(2)\nThe Appeal Tribunal may, as regards any appeal, direct a public officer to do anything which the Appeal Tribunal may do under subsection (1).\n(3)\nA public officer directed under subsection (2) may enter any land or premises which the Appeal Tribunal considers relevant for the purposes of an appeal and remove anything obstructing—\n(a)\nhis access to or inspection of the land or premises and make such openings or take such samples as the Appeal Tribunal considers necessary for the purposes of the appeal; or\n(b)\nthe access of the Appeal Tribunal to such land or premises for the purposes of subsection (1).",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s53_1",
+      "content": "(1)\nThe Appeal Tribunal may, for the purpose of determining an appeal at any reasonable time—\n(a)\nenter and inspect any land or premises it considers relevant for the purposes of the appeal; and\n(b)\nmake any opening on such land or premises or take such samples as it considers necessary."
+    },
+    {
+      "identifier": "s53_2",
+      "content": "(2)\nThe Appeal Tribunal may, as regards any appeal, direct a public officer to do anything which the Appeal Tribunal may do under subsection (1)."
+    },
+    {
+      "identifier": "s53_3",
+      "content": "(3)\nA public officer directed under subsection (2) may enter any land or premises which the Appeal Tribunal considers relevant for the purposes of an appeal and remove anything obstructing—\n(a)\nhis access to or inspection of the land or premises and make such openings or take such samples as the Appeal Tribunal considers necessary for the purposes of the appeal; or\n(b)\nthe access of the Appeal Tribunal to such land or premises for the purposes of subsection (1)."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s53.json"
+}

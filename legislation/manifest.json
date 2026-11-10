@@ -1,0 +1,267 @@
+{
+  "publisher": "Department of Justice, HKSAR Government",
+  "dataset": "https://data.gov.hk/en-data/dataset/hk-doj-hkel-legislation-current",
+  "retrieved_at": "2026-11-10T23:52:25.833977+00:00",
+  "documents": [
+    {
+      "chapter": "123",
+      "language": "en",
+      "version_date": "2026-03-01",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_en.zip",
+      "archive_member": "cap_123_en_c/cap_123_20260301000000_en_c.xml",
+      "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+      "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+      "files": [
+        {
+          "path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+          "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+          "bytes": 795667
+        }
+      ]
+    },
+    {
+      "chapter": "123A",
+      "language": "en",
+      "version_date": "2024-06-30",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123A",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_en.zip",
+      "archive_member": "cap_123A_en_c/cap_123A_20240630000000_en_c.xml",
+      "xml_path": "legislation/raw/cap123A/en/cap_123A_20240630000000_en_c.xml",
+      "sha256": "5771573b06136e07b8ae6089ce698688f3d10bcd2b49e6a2bc79daddd58fb6f9",
+      "files": [
+        {
+          "path": "legislation/raw/cap123A/en/cap_123A_20240630000000_en_c.xml",
+          "sha256": "5771573b06136e07b8ae6089ce698688f3d10bcd2b49e6a2bc79daddd58fb6f9",
+          "bytes": 215624
+        }
+      ]
+    },
+    {
+      "chapter": "123C",
+      "language": "en",
+      "version_date": "2021-05-13",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123C",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_en.zip",
+      "archive_member": "cap_123C_en_c/cap_123C_20210513000000_en_c.xml",
+      "xml_path": "legislation/raw/cap123C/en/cap_123C_20210513000000_en_c.xml",
+      "sha256": "5785982adec017e9f95fecf183dd7f5a95861bdab777f1171630a8ca354c3c85",
+      "files": [
+        {
+          "path": "legislation/raw/cap123C/en/cap_123C_20210513000000_en_c.xml",
+          "sha256": "5785982adec017e9f95fecf183dd7f5a95861bdab777f1171630a8ca354c3c85",
+          "bytes": 21188
+        }
+      ]
+    },
+    {
+      "chapter": "123F",
+      "language": "en",
+      "version_date": "2026-09-17",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123F",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_en.zip",
+      "archive_member": "cap_123F_en_c/cap_123F_20260917000000_en_c.xml",
+      "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+      "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+      "files": [
+        {
+          "path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+          "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+          "bytes": 468868
+        },
+        {
+          "path": "legislation/raw/cap123F/en/images/CAP123F_en_sch3_20200910_000000_0001.jpg",
+          "sha256": "3869f45a9ec86e54e0b160325255738f2ee11ea0c2c3f3aa98f3d3c4402a65aa",
+          "bytes": 7583093
+        },
+        {
+          "path": "legislation/raw/cap123F/en/images/CAP123F_en_sch3_20200910_000000_0002.jpg",
+          "sha256": "624635e406aab19add83602a22db7bb4135978a54dec43d24666596190491201",
+          "bytes": 4565133
+        },
+        {
+          "path": "legislation/raw/cap123F/en/images/CAP123F_en_sch3_20200910_000000_0003.jpg",
+          "sha256": "6208ec155731030e52e34dff81a410f776d4cc80e3f08f41941c132e6f6c7a78",
+          "bytes": 8359213
+        },
+        {
+          "path": "legislation/raw/cap123F/en/images/CAP123F_en_sch3_20200910_000000_0004.jpg",
+          "sha256": "f770978309a59c0ab40af4baa6d2e3adb58d539d8221e7b6fcf47c117f13126b",
+          "bytes": 6914312
+        },
+        {
+          "path": "legislation/raw/cap123F/en/images/CAP123F_en_sch3_20200910_000000_0005.jpg",
+          "sha256": "0c645dd19a3a4d5a81ecac7201a752528c500f84050cc538d93ce0f81125347b",
+          "bytes": 6892345
+        },
+        {
+          "path": "legislation/raw/cap123F/en/images/CAP123F_en_sch3_20200910_000000_0006.jpg",
+          "sha256": "8460078cd55b13bd5191916e041f3e75a1001e83adf3a5d11d736c768f2a90b9",
+          "bytes": 6518668
+        },
+        {
+          "path": "legislation/raw/cap123F/en/images/CAP123F_en_sch3_20200910_000000_0007.jpg",
+          "sha256": "88db16125a139647d265c94f19f5e723132d3f34eb0366874a2ddd6258d14b20",
+          "bytes": 6534783
+        },
+        {
+          "path": "legislation/raw/cap123F/en/images/CAP123F_en_sch3_20200910_000000_0008.jpg",
+          "sha256": "dd1c84adb45c91b09d80ad8fa4e3eba0d4428467ec13b8c7d5dcd30f0c509140",
+          "bytes": 7591726
+        }
+      ]
+    },
+    {
+      "chapter": "123Q",
+      "language": "en",
+      "version_date": "2021-06-24",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123Q",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_en.zip",
+      "archive_member": "cap_123Q_en_c/cap_123Q_20210624000000_en_c.xml",
+      "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+      "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+      "files": [
+        {
+          "path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+          "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+          "bytes": 183907
+        }
+      ]
+    },
+    {
+      "chapter": "123",
+      "language": "zh-Hant",
+      "version_date": "2026-03-01",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_zh-Hant.zip",
+      "archive_member": "cap_123_zh-Hant_c/cap_123_20260301000000_zh-Hant_c.xml",
+      "xml_path": "legislation/raw/cap123/zh-Hant/cap_123_20260301000000_zh-Hant_c.xml",
+      "sha256": "c563be5190519c71a48e73e4242ded97a7b163828dd618f1d7bd442168d18a87",
+      "files": [
+        {
+          "path": "legislation/raw/cap123/zh-Hant/cap_123_20260301000000_zh-Hant_c.xml",
+          "sha256": "c563be5190519c71a48e73e4242ded97a7b163828dd618f1d7bd442168d18a87",
+          "bytes": 700277
+        }
+      ]
+    },
+    {
+      "chapter": "123A",
+      "language": "zh-Hant",
+      "version_date": "2024-06-30",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123A",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_zh-Hant.zip",
+      "archive_member": "cap_123A_zh-Hant_c/cap_123A_20240630000000_zh-Hant_c.xml",
+      "xml_path": "legislation/raw/cap123A/zh-Hant/cap_123A_20240630000000_zh-Hant_c.xml",
+      "sha256": "ff9d62aee5d5d6f3137ecdef06f6a35eb781648786844f89a374cc9aaf9134ea",
+      "files": [
+        {
+          "path": "legislation/raw/cap123A/zh-Hant/cap_123A_20240630000000_zh-Hant_c.xml",
+          "sha256": "ff9d62aee5d5d6f3137ecdef06f6a35eb781648786844f89a374cc9aaf9134ea",
+          "bytes": 198831
+        }
+      ]
+    },
+    {
+      "chapter": "123C",
+      "language": "zh-Hant",
+      "version_date": "2021-05-13",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123C",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_zh-Hant.zip",
+      "archive_member": "cap_123C_zh-Hant_c/cap_123C_20210513000000_zh-Hant_c.xml",
+      "xml_path": "legislation/raw/cap123C/zh-Hant/cap_123C_20210513000000_zh-Hant_c.xml",
+      "sha256": "e4ee074c3052dd376e5978bf1535c27e9a437491ab9c3ac196affd01849beb0c",
+      "files": [
+        {
+          "path": "legislation/raw/cap123C/zh-Hant/cap_123C_20210513000000_zh-Hant_c.xml",
+          "sha256": "e4ee074c3052dd376e5978bf1535c27e9a437491ab9c3ac196affd01849beb0c",
+          "bytes": 19031
+        }
+      ]
+    },
+    {
+      "chapter": "123F",
+      "language": "zh-Hant",
+      "version_date": "2026-09-17",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123F",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_zh-Hant.zip",
+      "archive_member": "cap_123F_zh-Hant_c/cap_123F_20260917000000_zh-Hant_c.xml",
+      "xml_path": "legislation/raw/cap123F/zh-Hant/cap_123F_20260917000000_zh-Hant_c.xml",
+      "sha256": "1507dac47a72681d534292fbcbffe25ea46dd7d615534e4b09ecc61be464cbd7",
+      "files": [
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/cap_123F_20260917000000_zh-Hant_c.xml",
+          "sha256": "1507dac47a72681d534292fbcbffe25ea46dd7d615534e4b09ecc61be464cbd7",
+          "bytes": 416588
+        },
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/images/CAP123F_zh-Hant-HK_sch3_20200910_000000_0001.jpg",
+          "sha256": "aacd91daafc2e637427f5eb220d98ba2600044a0552714fcacc5dbf7cc50250f",
+          "bytes": 5101741
+        },
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/images/CAP123F_zh-Hant-HK_sch3_20200910_000000_0002.jpg",
+          "sha256": "bc2f204e85c6ec45b16c3e2861c320cd8ad536478d37a223ac0a364eda288ac4",
+          "bytes": 6428304
+        },
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/images/CAP123F_zh-Hant-HK_sch3_20200910_000000_0003.jpg",
+          "sha256": "9c21c8617c9b8cc6716223af29fa1459a19ac628c1e6f4b80f77a0911e0f559e",
+          "bytes": 8552743
+        },
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/images/CAP123F_zh-Hant-HK_sch3_20200910_000000_0004.jpg",
+          "sha256": "a497906ccabf92ea8ba5bfa51cf797ed9892ac569bc35141ac5c7a414300faa8",
+          "bytes": 5621459
+        },
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/images/CAP123F_zh-Hant-HK_sch3_20200910_000000_0005.jpg",
+          "sha256": "15b9a8dd3fd897a464628018f7abff6539a8b72bef6d61cea57718512dd7bc20",
+          "bytes": 6103500
+        },
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/images/CAP123F_zh-Hant-HK_sch3_20200910_000000_0006.jpg",
+          "sha256": "d53521a8f76f824eeea2545b757bcaa014f23fa13544f5b03dff6238f18f7ba9",
+          "bytes": 5315990
+        },
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/images/CAP123F_zh-Hant-HK_sch3_20200910_000000_0007.jpg",
+          "sha256": "5a6cc15913f770c4c666e168226ac6ab785b493b1c23e6792669eda5fb9a6696",
+          "bytes": 6450665
+        },
+        {
+          "path": "legislation/raw/cap123F/zh-Hant/images/CAP123F_zh-Hant-HK_sch3_20200910_000000_0008.jpg",
+          "sha256": "6c45de1c87ace87a4dcfa1b21dfb06c5bb8b144e4392e6d40d24b64ffcc961a8",
+          "bytes": 5979487
+        }
+      ]
+    },
+    {
+      "chapter": "123Q",
+      "language": "zh-Hant",
+      "version_date": "2021-06-24",
+      "status": "In effect",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123Q",
+      "download_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_zh-Hant.zip",
+      "archive_member": "cap_123Q_zh-Hant_c/cap_123Q_20210624000000_zh-Hant_c.xml",
+      "xml_path": "legislation/raw/cap123Q/zh-Hant/cap_123Q_20210624000000_zh-Hant_c.xml",
+      "sha256": "129b8ed53fe271d87e100e62181f73ae84868e7e15a87c5664b1d93b62fd98c8",
+      "files": [
+        {
+          "path": "legislation/raw/cap123Q/zh-Hant/cap_123Q_20210624000000_zh-Hant_c.xml",
+          "sha256": "129b8ed53fe271d87e100e62181f73ae84868e7e15a87c5664b1d93b62fd98c8",
+          "bytes": 185287
+        }
+      ]
+    }
+  ]
+}

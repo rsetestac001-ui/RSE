@@ -1,0 +1,30 @@
+{
+  "chapter": "123",
+  "language": "zh-Hant",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/zh-Hant/cap_123_20260301000000_zh-Hant_c.xml",
+  "sha256": "c563be5190519c71a48e73e4242ded97a7b163828dd618f1d7bd442168d18a87",
+  "provision": "s53A",
+  "kind": "section",
+  "role": "section",
+  "heading": "豁免權",
+  "context": [
+    "上訴"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402643354_003",
+  "content": "53A.\n豁免權\n(1)\n上訴審裁小組主席或成員根據或依據本部執行任何職能時，其所享有的特權及豁免權，與原訟法庭法官就在該法庭進行的民事法律程序所享有的相同。\n(由2000年第62號第3條修訂)\n(2)\n上訴聆訊(包括根據第49條進行的初步聆訊)的一方或到上訴審裁小組席前的任何證人、大律師、律師或律政人員所享有的豁免權或特權，與該上訴一方、證人、大律師、律師或律政人員就在原訟法庭進行的民事法律程序所會享有的相同。\n(由1998年第25號第2條修訂)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s53A_1",
+      "content": "(1)\n上訴審裁小組主席或成員根據或依據本部執行任何職能時，其所享有的特權及豁免權，與原訟法庭法官就在該法庭進行的民事法律程序所享有的相同。\n(由2000年第62號第3條修訂)"
+    },
+    {
+      "identifier": "s53A_2",
+      "content": "(2)\n上訴聆訊(包括根據第49條進行的初步聆訊)的一方或到上訴審裁小組席前的任何證人、大律師、律師或律政人員所享有的豁免權或特權，與該上訴一方、證人、大律師、律師或律政人員就在原訟法庭進行的民事法律程序所會享有的相同。"
+    }
+  ],
+  "path": "legislation/provisions/cap123/zh-Hant/s53A.json"
+}

@@ -1,0 +1,38 @@
+{
+  "chapter": "123Q",
+  "language": "zh-Hant",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/zh-Hant/cap_123Q_20210624000000_zh-Hant_c.xml",
+  "sha256": "129b8ed53fe271d87e100e62181f73ae84868e7e15a87c5664b1d93b62fd98c8",
+  "provision": "s6",
+  "kind": "section",
+  "role": "section",
+  "heading": "風荷載",
+  "context": [
+    "荷載"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212657270_025",
+  "content": "6.\n風荷載\n(1)\n在本規例中，凡提述風荷載，須按照本條解釋。\n(2)\n風荷載是因風壓或吸力的效應而產生的任何荷載。\n(3)\n建築物、街道、建築工程或街道工程的風荷載，在每個情況下，均須以該建築物、街道或工程對來自任何方向的風效應的反應，作為根據。\n(4)\n第(3)款提述的風效應，須藉考慮經過一段不少於50年的重現期的風力強度，予以適當斷定。",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s6_1",
+      "content": "(1)\n在本規例中，凡提述風荷載，須按照本條解釋。"
+    },
+    {
+      "identifier": "s6_2",
+      "content": "(2)\n風荷載是因風壓或吸力的效應而產生的任何荷載。"
+    },
+    {
+      "identifier": "s6_3",
+      "content": "(3)\n建築物、街道、建築工程或街道工程的風荷載，在每個情況下，均須以該建築物、街道或工程對來自任何方向的風效應的反應，作為根據。"
+    },
+    {
+      "identifier": "s6_4",
+      "content": "(4)\n第(3)款提述的風效應，須藉考慮經過一段不少於50年的重現期的風力強度，予以適當斷定。"
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/zh-Hant/s6.json"
+}

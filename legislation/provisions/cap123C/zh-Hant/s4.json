@@ -1,0 +1,28 @@
+{
+  "chapter": "123C",
+  "language": "zh-Hant",
+  "version_date": "2021-05-13",
+  "xml_path": "legislation/raw/cap123C/zh-Hant/cap_123C_20210513000000_zh-Hant_c.xml",
+  "sha256": "e4ee074c3052dd376e5978bf1535c27e9a437491ab9c3ac196affd01849beb0c",
+  "provision": "s4",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "有關撑柱等的條文",
+  "context": [],
+  "status": "operational",
+  "start_period": "2021-05-13",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123C?xpid=ID_1438402646630_002",
+  "content": "4.\n有關撑柱等的條文\n(1)\n除第(2)款另有規定外，在拆卸展開前和在拆卸工程進行期間有需要時，須採取所需的預防措施，藉設置足夠的撑柱或其他方式，以在切實可行範圍內，盡量防止建築物的任何部分或任何毗鄰建築物或其他建築物意外坍塌而危及任何人。\n(1964年第112號法律公告)\n(2)\n如已就任何為遵從第(1)款的規定而正進行撑柱或其他防護裝置的裝設的人，採取切實可行的預防措施以確保該人的安全，則第(1)款不適用於該人。",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s4_1",
+      "content": "(1)\n除第(2)款另有規定外，在拆卸展開前和在拆卸工程進行期間有需要時，須採取所需的預防措施，藉設置足夠的撑柱或其他方式，以在切實可行範圍內，盡量防止建築物的任何部分或任何毗鄰建築物或其他建築物意外坍塌而危及任何人。\n(1964年第112號法律公告)"
+    },
+    {
+      "identifier": "s4_2",
+      "content": "(2)\n如已就任何為遵從第(1)款的規定而正進行撑柱或其他防護裝置的裝設的人，採取切實可行的預防措施以確保該人的安全，則第(1)款不適用於該人。"
+    }
+  ],
+  "path": "legislation/provisions/cap123C/zh-Hant/s4.json"
+}

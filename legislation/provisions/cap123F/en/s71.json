@@ -1,0 +1,34 @@
+{
+  "chapter": "123F",
+  "language": "en",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+  "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+  "provision": "s71",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Power of Building Authority to permit windows, etc. to face or ventilate into unenclosed verandah, etc.",
+  "context": [
+    "Miscellaneous"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402648861_002",
+  "content": "71.\nPower of Building Authority to permit windows, etc. to face or ventilate into unenclosed verandah, etc.\n(1)\nWhere, by any of these regulations, any window or vent or any other part of any building is required to face or to ventilate, directly or otherwise, into the external air or into the open air or any aperture or airshaft is required to communicate with the open air, the Building Authority may, subject to the provisions of paragraph (2), where he thinks fit, permit such window, vent or other part of any building, as the case may be, to face or to ventilate into, or such aperture or airshaft to communicate with, an unenclosed verandah or balcony or any other unenclosed place.\n(2)\nThe Building Authority shall not give his permission under this regulation unless he is satisfied that to do so will not be to the prejudice of the standards of lighting or ventilation laid down by these regulations or the health of the occupiers of the building.\n(3)\nWhere he gives his permission under this regulation, the Building Authority may, upon giving his approval of the plans of the building works, impose such conditions as he considers necessary.\n(G.N.A. 83 of 1959)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s71_1",
+      "content": "(1)\nWhere, by any of these regulations, any window or vent or any other part of any building is required to face or to ventilate, directly or otherwise, into the external air or into the open air or any aperture or airshaft is required to communicate with the open air, the Building Authority may, subject to the provisions of paragraph (2), where he thinks fit, permit such window, vent or other part of any building, as the case may be, to face or to ventilate into, or such aperture or airshaft to communicate with, an unenclosed verandah or balcony or any other unenclosed place."
+    },
+    {
+      "identifier": "s71_2",
+      "content": "(2)\nThe Building Authority shall not give his permission under this regulation unless he is satisfied that to do so will not be to the prejudice of the standards of lighting or ventilation laid down by these regulations or the health of the occupiers of the building."
+    },
+    {
+      "identifier": "s71_3",
+      "content": "(3)\nWhere he gives his permission under this regulation, the Building Authority may, upon giving his approval of the plans of the building works, impose such conditions as he considers necessary."
+    }
+  ],
+  "path": "legislation/provisions/cap123F/en/s71.json"
+}

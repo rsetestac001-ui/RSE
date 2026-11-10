@@ -1,0 +1,30 @@
+{
+  "chapter": "123A",
+  "language": "zh-Hant",
+  "version_date": "2024-06-30",
+  "xml_path": "legislation/raw/cap123A/zh-Hant/cap_123A_20240630000000_zh-Hant_c.xml",
+  "sha256": "ff9d62aee5d5d6f3137ecdef06f6a35eb781648786844f89a374cc9aaf9134ea",
+  "provision": "s31",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "要求同意展開工程的申請",
+  "context": [
+    "關於批准圖則和同意展開建築工程及街道工程的程序"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123A?xpid=ID_1438402644477_001",
+  "content": "31.\n要求同意展開工程的申請\n(1)\n除第(2)款另有規定外，要求建築事務監督同意展開任何經批准圖則所顯示的任何建築工程或街道工程的申請，須以指明的表格提出。\n(1997年第514號法律公告；1997年第608號法律公告)\n(2)\n要求建築事務監督同意展開任何拆卸工程的申請，必須附同會在該拆卸工程中操作所擬使用的任何動力機械裝置或裝備的人的個人詳情、資格及經驗。\n(1997年第514號法律公告；1997年第608號法律公告)\n(1993年第347號法律公告)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s31_1",
+      "content": "(1)\n除第(2)款另有規定外，要求建築事務監督同意展開任何經批准圖則所顯示的任何建築工程或街道工程的申請，須以指明的表格提出。\n(1997年第514號法律公告；1997年第608號法律公告)"
+    },
+    {
+      "identifier": "s31_2",
+      "content": "(2)\n要求建築事務監督同意展開任何拆卸工程的申請，必須附同會在該拆卸工程中操作所擬使用的任何動力機械裝置或裝備的人的個人詳情、資格及經驗。\n(1997年第514號法律公告；1997年第608號法律公告)"
+    }
+  ],
+  "path": "legislation/provisions/cap123A/zh-Hant/s31.json"
+}

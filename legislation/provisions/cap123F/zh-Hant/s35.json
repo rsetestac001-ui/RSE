@@ -1,0 +1,30 @@
+{
+  "chapter": "123F",
+  "language": "zh-Hant",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/zh-Hant/cap_123F_20260917000000_zh-Hant_c.xml",
+  "sha256": "1507dac47a72681d534292fbcbffe25ea46dd7d615534e4b09ecc61be464cbd7",
+  "provision": "s35",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "可規定加設通風口",
+  "context": [
+    "照明與通風"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402647831_001",
+  "content": "35.\n可規定加設通風口\n(1)\n如建築事務監督認為因任何用作上述用途的房間的擬作用途、不適當的周圍環境或其他因由，遵從本規例的條文未能確保該房間有足夠的通風，則他可規定藉下列設施使該房間有額外的通風 ——\n(a)\n直接與露天地方相通而截面不受阻擋的面積不少於0.015平方米的孔口或通風豎井；或\n(1976年第294號法律公告)\n(b)\n向有通風的門廊或走廊開啟的氣窗；或\n(c)\n他批准的其他通風設施。\n(2)\n就第29至35條而言，作為任何建築物一部分或與任何建築物相關而使用的洗衣房，須當作用作居住用途。",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s35_1",
+      "content": "(1)\n如建築事務監督認為因任何用作上述用途的房間的擬作用途、不適當的周圍環境或其他因由，遵從本規例的條文未能確保該房間有足夠的通風，則他可規定藉下列設施使該房間有額外的通風 ——\n(a)\n直接與露天地方相通而截面不受阻擋的面積不少於0.015平方米的孔口或通風豎井；或\n(1976年第294號法律公告)\n(b)\n向有通風的門廊或走廊開啟的氣窗；或\n(c)\n他批准的其他通風設施。"
+    },
+    {
+      "identifier": "s35_2",
+      "content": "(2)\n就第29至35條而言，作為任何建築物一部分或與任何建築物相關而使用的洗衣房，須當作用作居住用途。"
+    }
+  ],
+  "path": "legislation/provisions/cap123F/zh-Hant/s35.json"
+}

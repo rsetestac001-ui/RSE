@@ -1,0 +1,38 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s18A",
+  "kind": "section",
+  "role": "section",
+  "heading": "Claims for compensation",
+  "context": [
+    "Control of Building"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402641856_002",
+  "content": "18A.\nClaims for compensation\n(1)\nAny occupier of a building for which shoring is erected pursuant to section 18(1), and any other person whatsoever, who has suffered loss or damage by reason of the erection, maintenance or dismantling of the shoring may, save where he and the person whose building works or proposed building works necessitated the erection, maintenance or dismantling of the shoring have entered into an agreement in writing for the payment of compensation, apply to the Lands Tribunal to hear and determine a dispute as to the matters referred to in section 18(5)(b).\n(Amended 76 of 1981 s. 60)\n(2)\nAny application under subsection (1) shall, subject to subsection (3), be made within 3 years of the date on which the loss or damage was suffered.\n(Amended 77 of 1994 s. 9)\n(3)\nThe Lands Tribunal may, on application made for the purpose, extend the period specified in subsection (2) for making an application.\n(Added 77 of 1994 s. 9)\n(4)-(9)\n(Repealed 76 of 1981 s. 60)\n(Added 46 of 1968 s. 3)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s18A_1",
+      "content": "(1)\nAny occupier of a building for which shoring is erected pursuant to section 18(1), and any other person whatsoever, who has suffered loss or damage by reason of the erection, maintenance or dismantling of the shoring may, save where he and the person whose building works or proposed building works necessitated the erection, maintenance or dismantling of the shoring have entered into an agreement in writing for the payment of compensation, apply to the Lands Tribunal to hear and determine a dispute as to the matters referred to in section 18(5)(b).\n(Amended 76 of 1981 s. 60)"
+    },
+    {
+      "identifier": "s18A_2",
+      "content": "(2)\nAny application under subsection (1) shall, subject to subsection (3), be made within 3 years of the date on which the loss or damage was suffered.\n(Amended 77 of 1994 s. 9)"
+    },
+    {
+      "identifier": "s18A_3",
+      "content": "(3)\nThe Lands Tribunal may, on application made for the purpose, extend the period specified in subsection (2) for making an application.\n(Added 77 of 1994 s. 9)"
+    },
+    {
+      "identifier": "s18A_4...9",
+      "content": "(4)-(9)\n(Repealed 76 of 1981 s. 60)"
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s18A.json"
+}

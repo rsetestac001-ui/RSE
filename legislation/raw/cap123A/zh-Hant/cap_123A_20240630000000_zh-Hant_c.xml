@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="zh-Hant-HK"><meta><docName>第123章，附屬法例A</docName><docType>cap</docType><docNumber>123A</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap123A!zh-Hant-HK</dc:identifier><dc:date>2024-06-30</dc:date><dc:subject>legislation</dc:subject><dc:language>zh-Hant-HK</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="zh-Hant-HK" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438402643791_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2012-02-09">《建築物(管理)規例》</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap123/s38">第123章第38條</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></enactingFormula><commencementNote>[1960年1月1日]</commencementNote><sourceNote>(格式變更——<ref href="/hk/2012/er1">2012年第1號編輯修訂紀錄</ref>)</sourceNote><part id="ID_1438402643791_003" name="P1" reason="inEffect" startPeriod="2012-02-09" status="operational" temporalId="P1"><num value="1">第1部</num><heading>導言</heading><section id="ID_1438402643806_001" name="s1" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s1"><num value="1">1.</num><heading>引稱</heading><content>本規例可引稱為<shortTitle>《建築物(管理)規例》</shortTitle>。</content></section><section id="ID_1438402643822_001" name="s2" reason="inEffect" role="regulation" startPeriod="2022-03-31" status="operational" temporalId="s2"><num value="2">2.</num><heading>釋義</heading><leadIn>在本規例中，除文意另有所指外 ——</leadIn><def name="大型挖掘工程"><term>大型挖掘工程</term> (<term xml:lang="en">bulk excavation</term>)指所有挖掘工程，但就土地勘測、公用設施坑道、排水渠、污水渠、樁或沉箱而進行的挖掘工程除外；
+            <sourceNote>(<ref href="/hk/1982/ln233">1982年第233號法律公告</ref>)</sourceNote></def><def name="水務監督,水務設施"><term>水務監督</term> (<term xml:lang="en">water
+                authority</term>)、<term>水務設施</term> (<term xml:lang="en">waterworks</term>)具有《水務設施條例》(<ref href="/hk/cap102">第102章</ref>)<ref>第2條</ref>給予該兩詞的涵義；
+            <sourceNote>(<ref href="/hk/1966/ln63">1966年第63號法律公告</ref>)</sourceNote></def><def name="印本形式"><term>印本形式</term> (<term xml:lang="en">hard copy
+            form</term>)指紙張形式，或能夠在沒有設備的輔助下供閱讀的相類形式； <sourceNote>(<ref href="hk/2021/ln222">2021年第222號法律公告</ref>)</sourceNote></def><def name="地盤平整工程圖則"><term>地盤平整工程圖則</term> (<term xml:lang="en">site formation
+                plans</term>)指在<ref>第8條</ref>訂明的地盤平整工程圖則；
+            <sourceNote>(<ref href="/hk/1981/ln75">1981年第75號法律公告</ref>)</sourceNote></def><def name="岩土工程師名冊"><term>岩土工程師名冊</term> (<term xml:lang="en">geotechnical engineers’
+                register</term>)指根據本條例<ref>第3(3A)條</ref>備存的名冊；
+            <sourceNote>(<ref href="/hk/2004/15">2004年第15號第34條</ref>)</sourceNote></def><def name="岩土設計假定">
+            <leadIn><term>岩土設計假定</term> (<term xml:lang="en">geotechnical design
+                assumption</term>)指就下列事宜作出的假定 ——</leadIn>
+            <paragraph id="ID_1438411125569_026" name="a" temporalId="s2_a"><num value="a">(a)</num><content>地質狀況；</content></paragraph>
+            <paragraph id="ID_1438411125569_034" name="b" temporalId="s2_b"><num value="b">(b)</num><content>地下水及地面水的狀況；</content></paragraph>
+            <paragraph id="ID_1438411125569_042" name="c" temporalId="s2_c"><num value="c">(c)</num><content>地盤的歷史；</content></paragraph>
+            <paragraph id="ID_1438411125569_050" name="d" temporalId="s2_d"><num value="d">(d)</num><content>設施、公用設施、排水渠及污水渠的位置及性質；</content></paragraph>
+            <paragraph id="ID_1438411125569_058" name="e" temporalId="s2_e"><num value="e">(e)</num><content>現有地盤平整工程；</content></paragraph>
+            <paragraph id="ID_1438411125569_066" name="f" temporalId="s2_f"><num value="f">(f)</num><content>現有建築物(不論在地盤上或相鄰或附近)的基礎；</content></paragraph>
+            <paragraph id="ID_1438411125569_074" name="g" temporalId="s2_g"><num value="g">(g)</num><content>物料的抗剪強度；</content></paragraph>
+            <paragraph id="ID_1438411125569_082" name="h" temporalId="s2_h"><num value="h">(h)</num><content>擬進行的工程的影響；及</content></paragraph>
+            <paragraph id="ID_1438411125569_090" name="i" temporalId="s2_i"><num value="i">(i)</num><content>任何其他岩土事宜，</content></paragraph>
+            <continued>而在向建築事務監督呈交的文件中，是以上述假定為基礎而顯示出任何建築物、街道或天然、經平整或人工建築的土地的安全度是足夠的；
+                <sourceNote>(<ref href="/hk/1981/ln75">1981年第75號法律公告</ref>)</sourceNote></continued>
+        </def><def name="結構工程師名冊"><term>結構工程師名冊</term> (<term xml:lang="en">structural engineers’
+                register</term>)指根據本條例<ref>第3(3)條</ref>備存的名冊；
+            <sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>)</sourceNote></def><def name="認可人士名冊"><term>認可人士名冊</term> (<term xml:lang="en">authorized persons’
+                register</term>)指根據本條例<ref>第3(1)條</ref>備存的名冊；
+            <sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/2011/ln147">2011年第147號法律公告</ref>)</sourceNote></def><def name="檢驗人員名冊"><term>檢驗人員名冊</term> (<term xml:lang="en">inspectors’
+                register</term>)指根據本條例<ref>第3(3B)條</ref>備存的名冊。
+            <sourceNote>(<ref href="/hk/2011/ln147">2011年第147號法律公告</ref>)</sourceNote></def><sourceNote>(<ref href="/hk/1996/54">1996年第54號第23條</ref>)</sourceNote></section></part><part id="ID_1438402643838_002" name="P2" reason="inEffect" startPeriod="2012-02-09" status="operational" temporalId="P2"><num value="2">第2部</num><heading>認可人士、註冊結構工程師、註冊岩土工程師、註冊檢驗人員及註冊承建商</heading><sourceNote>(<ref href="hk/2004/15">2004年第15號第35條</ref>；<ref href="/hk/2011/ln147">2011年第147號法律公告</ref>)</sourceNote><section id="ID_1438402643853_002" name="s3" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s3"><num value="3">3.</num><heading>名列於名冊的資格</heading><subsection id="ID_1438411125710_004" name="1" temporalId="s3_1"><num value="1">(1)</num><content>任何人除非是註冊建築師，並符合第(6)款的規定，否則不得列入認可人士名冊的建築師名單內。<sourceNote>(<ref href="/hk/1996/54">1996年第54號第24條</ref>)</sourceNote></content></subsection><subsection id="ID_1438411125710_012" name="2" temporalId="s3_2"><num value="2">(2)</num><content>任何人除非是土木或結構工程界別的註冊專業工程師，並符合第(6)款的規定，否則不得列入認可人士名冊的工程師名單內。<sourceNote>(<ref href="/hk/1996/54">1996年第54號第24條</ref>)</sourceNote></content></subsection><subsection id="ID_1438411125710_020" name="3" temporalId="s3_3"><num value="3">(3)</num><content>任何人除非是註冊專業測量師，並符合第(6)款的規定，否則不得列入認可人士名冊的測量師名單內。<sourceNote>(<ref href="/hk/1996/54">1996年第54號第24條</ref>)</sourceNote></content></subsection><subsection id="ID_1438411125710_028" name="4" temporalId="s3_4"><num value="4">(4)</num><leadIn>任何人除非 ——</leadIn><paragraph id="ID_1438411125710_036" name="a" temporalId="s3_4_a"><num value="a">(a)</num><content>是結構或土木工程界別的註冊專業工程師，如屬後者，則除非在結構工程方面已具備結構工程師註冊事務委員會認可的實際經驗；及</content></paragraph><paragraph id="ID_1438411125710_044" name="b" temporalId="s3_4_b"><num value="b">(b)</num><content>符合第(6)款的規定，</content></paragraph><continued>否則不得列入結構工程師名冊內。
+                <sourceNote>(<ref href="/hk/1996/54">1996年第54號第24條</ref>)</sourceNote></continued></subsection><subsection name="4A" temporalId="s3_4A" id="ID_1461220217904_001"><num value="4A">(4A) </num><leadIn>任何人除非 ——</leadIn><paragraph id="ID_1438411125710_065" name="a" temporalId="s3_4A_a"><num value="a">(a)</num><content>是岩土工程界別的註冊專業工程師；及</content></paragraph><paragraph id="ID_1438411125710_073" name="b" temporalId="s3_4A_b"><num value="b">(b)</num><content>符合第(6)款的規定，</content></paragraph><continued>否則不得列入岩土工程師名冊內。
+                <sourceNote>(<ref href="/hk/2004/15">2004年第15號第36條</ref>)</sourceNote></continued></subsection><subsection name="4B" temporalId="s3_4B" id="ID_1461220217935_002"><num value="4B">(4B) </num><leadIn>任何人除非——</leadIn><paragraph id="ID_1438411125710_094" name="a" temporalId="s3_4B_a"><num value="a">(a)</num><content>是列入認可人士名冊的建築師名單內的認可人士，並符合第(8)款的規定；</content></paragraph><paragraph id="ID_1438411125710_102" name="b" temporalId="s3_4B_b"><num value="b">(b)</num><content>是註冊建築師，並符合第(9)款的規定；或</content></paragraph><paragraph id="ID_1438411125710_110" name="c" temporalId="s3_4B_c"><num value="c">(c)</num><content>按照本條例<ref>第3(7AA)(b)(i)條</ref>的規定獲提名，</content></paragraph><continued>否則不得列入檢驗人員名冊的建築師名單內。<sourceNote>(<ref href="/hk/2011/ln147">2011年第147號法律公告</ref>)</sourceNote></continued></subsection><subsection name="4C" temporalId="s3_4C" id="ID_1461220217951_003"><num value="4C">(4C) </num><leadIn>任何人除非——</leadIn><paragraph id="ID_1438411125710_131" name="a" temporalId="s3_4C_a"><num value="a">(a)</num><content>是列入認可人士名冊的工程師名單內的認可人士，或是註冊結構工程師，並符合第(8)款的規定；</content></paragraph><paragraph id="ID_1438411125725_005" name="b" temporalId="s3_4C_b"><num value="b">(b)</num><content>是建造或結構工程界別的註冊專業工程師，並符合第(9)款的規定；</content></paragraph><paragraph id="ID_1438411125725_013" name="c" temporalId="s3_4C_c"><num value="c">(c)</num><content>是屋宇裝備(建造)、土木或材料(建造)工程界別的註冊專業工程師，並符合第(10)款的規定；或</content></paragraph><paragraph id="ID_1438411125725_021" name="d" temporalId="s3_4C_d"><num value="d">(d)</num><content>按照本條例<ref>第3(7AA)(b)(ii)條</ref>的規定獲提名，</content></paragraph><continued>否則不得列入檢驗人員名冊的工程師名單內。<sourceNote>(<ref href="/hk/2011/ln147">2011年第147號法律公告</ref>)</sourceNote></continued></subsection><subsection name="4D" temporalId="s3_4D" id="ID_1461220217982_004"><num value="4D">(4D) </num><leadIn>任何人除非——</leadIn><paragraph id="ID_1438411125725_042" name="a" temporalId="s3_4D_a"><num value="a">(a)</num><content>是列入認可人士名冊的測量師名單內的認可人士，並符合第(8)款的規定；</content></paragraph><paragraph id="ID_1438411125725_050" name="b" temporalId="s3_4D_b"><num value="b">(b)</num><content>是建築測量組別的註冊專業測量師，並符合第(9)款的規定；</content></paragraph><paragraph id="ID_1438411125725_058" name="c" temporalId="s3_4D_c"><num value="c">(c)</num><content>是工料測量組別的註冊專業測量師，並符合第(10)款的規定；或</content></paragraph><paragraph id="ID_1438411125725_066" name="d" temporalId="s3_4D_d"><num value="d">(d)</num><content>按照本條例<ref>第3(7AA)(b)(iii)條</ref>的規定獲提名，</content></paragraph><continued>否則不得列入檢驗人員名冊的測量師名單內。<sourceNote>(<ref href="/hk/2011/ln147">2011年第147號法律公告</ref>)</sourceNote></continued></subsection><subsection name="4E" temporalId="s3_4E" id="ID_1461220218014_005"><num value="4E">(4E) </num><leadIn>符合——</leadIn><paragraph id="ID_1438411125725_087" name="a" temporalId="s3_4E_a"><num value="a">(a)</num><content>第(4B)款(a)或(c)段的描述的人；</content></paragraph><paragraph id="ID_1438411125725_095" name="b" temporalId="s3_4E_b"><num value="b">(b)</num><content>第(4C)款(a)或(d)段的描述的人；或</content></paragraph><paragraph id="ID_1438411125725_103" name="c" temporalId="s3_4E_c"><num value="c">(c)</num><content>第(4D)款(a)或(d)段的描述的人，</content></paragraph><continued>無須經檢驗人員註冊事務委員會推薦，可按該款規定而列入檢驗人員名冊的建築師名單、工程師名單或測量師名單內。<sourceNote>(<ref href="/hk/2011/ln147">2011年第147號法律公告</ref>)</sourceNote></continued></subsection><subsection id="ID_1438411125725_116" name="5" temporalId="s3_5"><num value="5">(5)</num><sourceNote>(由<ref href="/hk/1996/54">1996年第54號第24條</ref>廢除)</sourceNote></subsection><subsection id="ID_1438411125725_124" name="6" temporalId="s3_6"><num value="6">(6)</num><content>除第(7)款另有規定外，每名根據本條提出申請的人須在其申請日期前的3年內，有連續1年的期間在香港具備註冊事務委員會認為就其申請而言屬適當的實際經驗。<sourceNote>(<ref href="/hk/2011/ln147">2011年第147號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411125725_132" name="7" temporalId="s3_7"><num value="7">(7)</num><content>第(6)款不適用於申請列入檢驗人員名冊的人。<sourceNote>(<ref href="/hk/2011/ln147">2011年第147號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411125741_005" name="8" temporalId="s3_8"><num value="8">(8)</num><content>根據第<ref>(4B)(a)</ref>、<ref>(4C)(a)</ref>或<ref>(4D)(a)</ref>款提出申請列入檢驗人員名冊的人，須令建築事務監督信納，該申請人已在申請日期前的7年內，在香港取得適當的下述經驗：在任何建築物修葺及保養項目中，作為認可人士、註冊結構工程師、註冊建築師、註冊專業工程師或註冊專業測量師的實際經驗。<sourceNote>(<ref href="/hk/2011/ln147">2011年第147號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411125741_013" name="9" temporalId="s3_9"><num value="9">(9)</num><content>根據第<ref>(4B)(b)</ref>、<ref>(4C)(b)</ref>或<ref>(4D)(b)</ref>款提出申請列入檢驗人員名冊的人，須在其申請日期前的3年內，最少有1年的期間(或合計最少有1年的期間)，在香港取得興建、修葺及保養建築物的實際經驗，而該經驗須是檢驗人員註冊事務委員會認為就該申請而言屬適當者。<sourceNote>(<ref href="/hk/2011/ln147">2011年第147號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411125741_021" name="10" temporalId="s3_10"><num value="10">(10)</num><content>根據第<ref>(4C)(c)</ref>或<ref>(4D)(c)</ref>款提出申請列入檢驗人員名冊的人，須最少有3年的期間(或合計最少有3年的期間)，在香港取得興建、修葺及保養建築物的實際經驗，當中必須最少有1年是在申請日期前的3年內的，而該經驗須是檢驗人員註冊事務委員會認為就該申請而言屬適當者。<sourceNote>(<ref href="/hk/2011/ln147">2011年第147號法律公告</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/1987/ln70">1987年第70號法律公告</ref>)</sourceNote></section><section id="ID_1438402643869_002" name="s4" reason="inEffect" role="regulation" startPeriod="2018-12-13" status="operational" temporalId="s4"><num value="4">4.</num><heading>對申請列入名冊所作的規定</heading><subsection id="ID_1438411125772_028" name="1" temporalId="s4_1"><num value="1">(1)</num><leadIn>每名申請列入認可人士名冊、結構工程師名冊、岩土工程師名冊或檢驗人員名冊的人(不包括第<ref>3(4B)(a)</ref>或(c)、<ref>(4C)(a)</ref>或(d)或<ref>(4D)(a)</ref>或(d)條所述的人) ——  <sourceNote>(<ref href="/hk/2004/15">2004年第15號第37條</ref>；<ref href="/hk/2011/ln147">2011年第147號法律公告</ref>)</sourceNote></leadIn><paragraph id="ID_1438411125788_005" name="a" temporalId="s4_1_a"><num value="a">(a)</num><content>須向註冊事務委員會出示文件證據，證明他符合<ref>第3條</ref>的規定；及
+                    <sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411125788_013" name="b" temporalId="s4_1_b"><num value="b">(b)</num><content>須使註冊事務委員會信納他適合列入認可人士名冊、結構工程師名冊、岩土工程師名冊或檢驗人員名冊內，如註冊事務委員會提出要求，亦須出席註冊事務委員會的專業面試。
+                    <sourceNote>(<ref href="/hk/1987/ln70">1987年第70號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第37條</ref>；<ref href="/hk/2011/ln147">2011年第147號法律公告</ref>；<ref href="hk/2018/er5">2018年第5號編輯修訂紀錄</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411125788_021" name="c" temporalId="s4_1_c"><num value="c">(c)</num><sourceNote>(由<ref href="/hk/1996/54">1996年第54號第25條</ref>廢除)</sourceNote></paragraph></subsection><subsection id="ID_1438411125788_028" name="1A" temporalId="s4_1A"><num value="1A">(1A)</num><content>第<ref>3(4B)(a)</ref>或(c)、<ref>(4C)(a)</ref>或(d)或<ref>(4D)(a)</ref>或(d)條所述而申請列入檢驗人員名冊的人，須向建築事務監督出示文件證據，證明該人符合<ref>第3條</ref>的規定。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/2011/ln147">2011年第147號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411125788_036" name="2" temporalId="s4_2"><num value="2">(2)</num><content>每次專業面試須由註冊事務委員會主持。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/1996/54">1996年第54號第25條</ref>)</sourceNote></content></subsection></section><section id="ID_1438402643884_002" name="s4A" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s4A"><num value="4A">4A.</num><heading>關於列入一般建築承建商名冊及專門承建商名冊的規定</heading><subsection id="ID_1438411125819_011" name="1" temporalId="s4A_1"><num value="1">(1)</num><leadIn>每名申請列入一般建築承建商名冊或專門承建商名冊的人 ——</leadIn><paragraph id="ID_1438411125819_019" name="a" temporalId="s4A_1_a"><num value="a">(a)</num><content>須向有關的承建商註冊事務委員會出示文件證據，證明就資格、經驗及適任程度而言，均適宜將該申請人在有關名冊或分冊上註冊；</content></paragraph><paragraph id="ID_1438411125819_027" name="b" temporalId="s4A_1_b"><num value="b">(b)</num><content>(申請人如是法人團體)須向有關的承建商註冊事務委員會出示文件證據以顯示該申請人的董事、其他高級人員及任何由申請人就本條例而委任以代其行事的人的資格、經驗及適任程度；及</content></paragraph><paragraph id="ID_1438411125819_035" name="c" temporalId="s4A_1_c"><num value="c">(c)</num><content>須令有關的承建商註冊事務委員會信納該申請人適宜在有關名冊或分冊上註冊。</content></paragraph></subsection><subsection id="ID_1438411125819_042" name="2" temporalId="s4A_2"><num value="2">(2)</num><content>如有關的承建商註冊事務委員會要求任何申請人出席該委員會的面試，則該申請人或(如申請人是法人團體)該申請人的董事、其他高級人員及任何由該申請人就本條例而委任以代其行事的人即須出席。</content></subsection><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第38條</ref>)</sourceNote></section><section id="ID_1438402643900_001" name="s5" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s5"><num value="5">5.</num><heading>認可人士、註冊結構工程師或註冊岩土工程師不得沒有向委託人披露而以承建商等身分行事</heading><content>任何認可人士、註冊結構工程師或註冊岩土工程師，如沒有以書面向其委託人披露，則不得以承建商的身分行事，或經營建築物料，或直接或間接從任何承建商、次承建商、或從建築物料供應商或在任何建築工程或街道工程中所使用或就該等工程而使用的其他貨品的供應商，收取任何款項、佣金、利益或任何形式的得益。</content><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第39條</ref>)</sourceNote></section><section id="ID_1438402643900_003" name="s5A" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s5A"><num value="5A">5A.</num><heading>註冊檢驗人員不得沒有向委託人披露而從事建築物料交易等</heading><content>任何註冊檢驗人員，如沒有以書面向其委託人披露，則不得從事建築物料的交易，或直接或間接從任何承建商、次承建商、建築物料供應商、在任何建築工程中所使用的其他貨品的供應商，或在與該等工程有關連的情況下所使用的其他貨品的供應商，收取任何款項、佣金、利益或任何形式的得益。</content><sourceNote>(<ref href="/hk/2011/ln147">2011年第147號法律公告</ref>)</sourceNote></section></part><part id="ID_1438402643916_002" name="P3" reason="inEffect" startPeriod="2012-02-09" status="operational" temporalId="P3"><num value="3">第3部</num><heading>圖則、證明書及通知</heading><crossHeading class="tied-tag-crossHeading-center add-toc font_size_13">一般規定</crossHeading><section id="ID_1438402643931_001" name="s6" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s6"><num value="6">6.</num><heading>通知、圖則等的交付</heading><subsection id="ID_1438411125881_026" name="1" temporalId="s6_1"><num value="1">(1)</num><content>本條例或根據本條例訂立的規例規定須送交建築事務監督的每份通知、表格、證明書、圖則或其他文件，須以郵遞方式或於辦公時間交付建築事務監督辦事處的方式送交建築事務監督。</content></subsection><subsection id="ID_1438411125881_034" name="2" temporalId="s6_2"><num value="2">(2)</num><content>
+                <leadIn>凡呈交建築事務監督批准的任何圖則，或其上所顯示的建築工程或街道工程不符合本條例或規例的條文，建築事務監督可就每次進一步向建築事務監督呈交該等圖則，向申請人收取訂明費用：<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1966/ln63">1966年第63號法律公告</ref>；<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/1991/ln120">1991年第120號法律公告</ref>)</sourceNote></leadIn>
+                <proviso name="proviso" temporalId="s6_2_proviso">
+                    但如建築事務監督信納進一步呈交任何圖則是因對本條例或規例的條文真正誤解所致，則不得收取上述費用。</proviso>
+            </content></subsection></section><section name="s6A" temporalId="s6A" startPeriod="2024-06-30" status="repealed" reason="repealed" id="ID_1639451107866_001"><num value="6A">6A.</num><sourceNote>(由<ref href="hk/2021/ln222">2021年第222號法律公告</ref>廢除)</sourceNote></section><section id="ID_1438402643931_003" name="s7" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s7"><num value="7">7.</num><heading>通知等的填寫及其上的簽署</heading><content>為施行本條例及規例而訂明或指明的每份通知、表格、證明書或其他文件，須清楚和正確填寫，以提供所需的資料，並須妥為簽署。</content><sourceNote>(<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>)</sourceNote></section><crossHeading class="tied-tag-crossHeading-center add-toc font_size_13">圖則</crossHeading><section id="ID_1438402643962_001" name="s8" reason="inEffect" role="regulation" startPeriod="2021-02-25" status="operational" temporalId="s8"><num value="8">8.</num><heading>就建築工程訂明的圖則</heading><subsection id="ID_1438411126303_011" name="1" temporalId="s8_1"><num value="1">(1)</num><leadIn>為施行本條例及規例，現就建築工程訂明下列圖則及詳圖 ——</leadIn><paragraph id="ID_1438411126303_019" name="a" temporalId="s8_1_a"><num value="a">(a)</num><content>建築物的每層樓面及屋頂的圖則，其上顯示全部尺寸、牆壁厚度、所有窗戶、便溺污水設備、廢水設備及貯水箱的位置，以及建築物每部分所擬作的用途；</content></paragraph><paragraph id="ID_1438411126303_027" name="b" temporalId="s8_1_b"><num value="b">(b)</num><leadIn>顯示下列資料的圖則 ——</leadIn><subparagraph id="ID_1438411126303_035" name="i" temporalId="s8_1_b_i"><num value="i">(i)</num><content>建築物所有立面；</content></subparagraph><subparagraph id="ID_1438411126318_007" name="ii" temporalId="s8_1_b_ii"><num value="ii">(ii)</num><content>相鄰街道與已知基準面和地盤及建築物的水平相對的水平；</content></subparagraph><subparagraph id="ID_1438411126318_015" name="iii" temporalId="s8_1_b_iii"><num value="iii">(iii)</num><content>與地盤相鄰的每條街道的闊度；及</content></subparagraph><subparagraph id="ID_1438411126318_023" name="iv" temporalId="s8_1_b_iv"><num value="iv">(iv)</num><content>任何水井的位置、深度及構造；</content></subparagraph></paragraph><paragraph id="ID_1438411126318_030" name="ba" temporalId="s8_1_ba"><num value="ba">(ba)</num><content>如建築事務監督提出要求，須將一份就地盤對擬進行的建築工程而言是否適合的問題而作出的岩土評估，附連於(a)、(b)、(c)或(h)段所訂明的圖則，而該岩土評估須包括擬進行的地盤平整工程及基礎工程的圖則及截面圖；<sourceNote>(<ref href="/hk/1981/ln75">1981年第75號法律公告</ref>)</sourceNote></content></paragraph><paragraph id="ID_1461221739156_001" name="baa" temporalId="s8_1_baa"><num value="baa">(baa) </num><sourceNote>(由<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>廢除)</sourceNote></paragraph><paragraph id="ID_1438411126318_044" name="bb" temporalId="s8_1_bb"><num value="bb">(bb)</num><leadIn>顯示下列資料的地盤平整工程圖則 ——</leadIn><subparagraph id="ID_1438411126318_052" name="i" temporalId="s8_1_bb_i"><num value="i">(i)</num><content>已加入(E)節所訂明的報告所列各項要求的所有地盤平整工程及相關的地面水排水工程；<marker role="section-break"></marker></content></subparagraph><subparagraph id="ID_1438411126318_060" name="ii" temporalId="s8_1_bb_ii"><num value="ii">(ii)</num><content>地盤與周圍環境的現行情況(包括載有地面水平等高線、地質情況、地下水情況及地面水情況的準確測量圖)，以及在地盤上和與地盤相鄰的構築物、基礎、公用設施、排水渠、污水渠與其他設施的詳情；</content></subparagraph><subparagraph id="ID_1438411126318_068" name="iii" temporalId="s8_1_bb_iii"><num value="iii">(iii)</num><content>在多雨期間進行建築工程時須採取的安全預防措施；</content></subparagraph><subparagraph id="ID_1438411126318_076" name="iv" temporalId="s8_1_bb_iv"><num value="iv">(iv)</num><content>岩土設計假定一覽表；</content></subparagraph><subparagraph id="ID_1438411126318_084" name="v" temporalId="s8_1_bb_v"><num value="v">(v)</num><content>建築工程的進行次序及所採用的方法；</content></subparagraph><subparagraph id="ID_1438411126318_092" name="vi" temporalId="s8_1_bb_vi"><num value="vi">(vi)</num><content>如建築事務監督提出要求，有關的規格及任何其他有關詳情；<sourceNote>(<ref href="/hk/1982/ln233">1982年第233號法律公告</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411126318_100" name="vii" temporalId="s8_1_bb_vii"><num value="vii">(vii)</num><content>如屬在<ref>附表</ref>所列地區的第1號地區進行的工程，藉標有香港主水平基準以上水平的橫截面及平面圖顯示的所有大型挖掘工程的範圍，<sourceNote>(<ref href="/hk/1982/ln233">1982年第233號法律公告</ref>；<ref href="/hk/1990/52">1990年第52號第10條</ref>)</sourceNote></content></subparagraph><continued>該地盤平整工程圖則須附同作支持用的文件，包括 ——</continued><subparagraph id="ID_1438411126318_114" name="A" temporalId="s8_1_bb_A"><num value="A">(A)</num><content>所呈交文件的闡釋指引；</content></subparagraph><subparagraph id="ID_1438411126318_122" name="B" temporalId="s8_1_bb_B"><num value="B">(B)</num><content>一份載列包括以下各項的研究結果的報告：地形、地質、地下水、地面水、地盤的歷史、公用設施、排水渠、污水渠及其他設施，以及該處的岩土紀錄；</content></subparagraph><subparagraph id="ID_1438411126334_007" name="C" temporalId="s8_1_bb_C"><num value="C">(C)</num><content>一份載列土地勘測結果的報告，包括所採用裝備和程序的全面細節；<sourceNote>(<ref href="/hk/1982/ln233">1982年第233號法律公告</ref>)</sourceNote><marker role="section-break"></marker></content></subparagraph><subparagraph id="ID_1438411126334_015" name="D" temporalId="s8_1_bb_D"><num value="D">(D)</num><content>一份載列對地下水情況作出的地盤監測結果的報告；</content></subparagraph><subparagraph id="ID_1438411126334_023" name="E" temporalId="s8_1_bb_E"><num value="E">(E)</num><content>一份報告，載列對(B)、(C)、(D)節的嚴密研究和詮釋、岩土設計假定一覽表、對預期的岩土問題的討論，及如在建築工程進行期間揭露岩土設計假定錯誤以致再不能顯示符合《建築物(建造)規例》(<ref href="/hk/cap123Q">第123章，附屬法例Q</ref>)<ref>第21條</ref>的規定則在工程上應採取的變動的概要，並載列地盤平整工程的設計與建造在岩土方面的要求(包括在測試、檢查和保養方面的要求)；<sourceNote>(<ref href="/hk/1990/ln439">1990年第439號法律公告</ref>；<ref href="hk/2018/er5">2018年第5號編輯修訂紀錄</ref>；<ref href="hk/2020/ln6">2020年第6號法律公告</ref>；<ref href="hk/2021/er1">2021年第1號編輯修訂紀錄</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411126334_031" name="F" temporalId="s8_1_bb_F"><num value="F">(F)</num><content>足以顯示符合《建築物(建造)規例》(<ref href="/hk/cap123Q">第123章，附屬法例Q</ref>)<ref>第21條</ref>的穩定性分析；地盤平整工程的設計計算資料；建築工程對地下水情況、地盤及任何建築物、構築物和土地的影響的計算資料；以及就所有其他有關的岩土事宜所作出的計算資料和考慮。所有該等分析和計算資料須編排頁數，並須有一份全面的索引作為序頁；<sourceNote>(<ref href="/hk/1981/ln75">1981年第75號法律公告</ref>；<ref href="/hk/1990/ln439">1990年第439號法律公告</ref>；<ref href="hk/2018/er5">2018年第5號編輯修訂紀錄</ref>；<ref href="hk/2020/ln6">2020年第6號法律公告</ref>；<ref href="hk/2021/er1">2021年第1號編輯修訂紀錄</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438411126334_038" name="bc" temporalId="s8_1_bc"><num value="bc">(bc)</num><leadIn>如建築事務監督提出要求，顯示下列資料的挖掘與側向承托圖則 ——</leadIn><subparagraph id="ID_1438411126334_046" name="i" temporalId="s8_1_bc_i"><num value="i">(i)</num><content>已加入(E)節訂明的報告所列各項要求的所有挖掘與側向承托工程(包括任何土地處理和任何降低地下水位工程)；<marker role="section-break"></marker></content></subparagraph><subparagraph id="ID_1438411126334_054" name="ii" temporalId="s8_1_bc_ii"><num value="ii">(ii)</num><content>地盤與周圍環境的現行情況(包括載有地面水平等高線、地質情況、地下水情況及地面水情況的準確測量圖)，街道、構築物、基礎、公用設施、總水管、排水渠、污水渠和其他設施的詳情，以及在地盤內和與地盤相鄰的輸水設施及基礎的用尺寸標明的位置；</content></subparagraph><subparagraph id="ID_1438411126334_062" name="iii" temporalId="s8_1_bc_iii"><num value="iii">(iii)</num><content>岩土設計假定一覽表；</content></subparagraph><subparagraph id="ID_1438411126349_007" name="iv" temporalId="s8_1_bc_iv"><num value="iv">(iv)</num><content>所有地下建築工程的進行次序及所採用的方法；</content></subparagraph><subparagraph id="ID_1438411126349_015" name="v" temporalId="s8_1_bc_v"><num value="v">(v)</num><content>對建築物與地層的移動及測壓管水位的變動作出的監測的詳情；及</content></subparagraph><subparagraph id="ID_1438411126349_023" name="vi" temporalId="s8_1_bc_vi"><num value="vi">(vi)</num><content>其他規格及有關詳情，</content></subparagraph><continued>該挖掘與側向承托圖則須附同作支持用的文件，包括 ——</continued><subparagraph id="ID_1438411126349_037" name="A" temporalId="s8_1_bc_A"><num value="A">(A)</num><content>所呈交文件的闡釋指引；</content></subparagraph><subparagraph id="ID_1438411126349_045" name="B" temporalId="s8_1_bc_B"><num value="B">(B)</num><content>一份載列包括以下各項的研究結果的報告：地形、地質、地下水、地面水、地盤的歷史、公用設施、總水管、排水渠、污水渠及其他設施，以及該處的岩土紀錄；</content></subparagraph><subparagraph id="ID_1438411126349_053" name="C" temporalId="s8_1_bc_C"><num value="C">(C)</num><content>一份載列地盤勘測與實驗室測試結果的報告，包括所採用裝備和程序的全面細節；</content></subparagraph><subparagraph id="ID_1438411126349_061" name="D" temporalId="s8_1_bc_D"><num value="D">(D)</num><content>一份載列對地下水情況作出的地盤監測結果的報告；<marker role="section-break"></marker></content></subparagraph><subparagraph id="ID_1438411126349_069" name="E" temporalId="s8_1_bc_E"><num value="E">(E)</num><content>一份報告，載列對(B)、(C)、(D)節的嚴密研究和詮釋、岩土設計假定一覽表、對預期的岩土問題的討論，及如在建築工程進行期間揭露岩土設計假定錯誤以致再不能顯示符合《建築物(建造)規例》(<ref href="/hk/cap123Q">第123章，附屬法例Q</ref>)<ref>第14條</ref>的規定則在工程上應採取的變動的概要，並載列挖掘與側向承托工程的設計與建造在岩土方面的要求(包括在測試、檢查和監測方面的要求)；及
+                        <sourceNote>(<ref href="hk/2018/er5">2018年第5號編輯修訂紀錄</ref>；<ref href="hk/2020/ln6">2020年第6號法律公告</ref>；<ref href="hk/2021/er1">2021年第1號編輯修訂紀錄</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411126349_077" name="F" temporalId="s8_1_bc_F"><num value="F">(F)</num><content>足以顯示符合《建築物(建造)規例》(<ref href="/hk/cap123Q">第123章，附屬法例Q</ref>)<ref>第14條</ref>的分析；側向承托系統的設計計算資料；建築工程對地下水情況、地盤及任何建築物、構築物、街道、土地或設施的影響的計算資料；以及就所有其他有關的岩土事宜所作出的計算資料和考慮，所有該等分析和計算資料須編排頁數，並須有一份全面的索引作為序頁；<sourceNote>(<ref href="/hk/1990/ln438">1990年第438號法律公告</ref>；<ref href="hk/2018/er5">2018年第5號編輯修訂紀錄</ref>；<ref href="hk/2020/ln6">2020年第6號法律公告</ref>；<ref href="hk/2021/er1">2021年第1號編輯修訂紀錄</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438411126349_084" name="bd" temporalId="s8_1_bd"><num value="bd">(bd)</num><sourceNote>(由<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>廢除)</sourceNote></paragraph><paragraph id="ID_1438411126365_005" name="c" temporalId="s8_1_c"><num value="c">(c)</num><content>一張或多於一張截面圖，顯示基礎、地盤與建築物最低樓面的水平、建築物高度、每一樓層的淨高、每幢毗鄰或相鄰建築物的窗戶的位置、樓面位置及屋頂水平、地盤界線與界線之間的最大坡度、挖掘的最大深度、填料的最大厚度及所有挖掘與所有填料的體積；<sourceNote>(<ref href="/hk/1981/ln75">1981年第75號法律公告</ref>)</sourceNote><marker role="section-break"></marker></content></paragraph><paragraph id="ID_1438411126365_013" name="d" temporalId="s8_1_d"><num value="d">(d)</num><leadIn>基礎圖則 ——</leadIn><subparagraph id="ID_1438411126365_021" name="i" temporalId="s8_1_d_i"><num value="i">(i)</num><content>顯示基礎的大小與位置，連同已進行的地盤勘測工程的詳盡報告，以及擬進行的任何土地灌漿工程的詳圖；及</content></subparagraph><subparagraph id="ID_1438411126365_029" name="ii" temporalId="s8_1_d_ii"><num value="ii">(ii)</num><leadIn>如屬在<ref>附表</ref>所列地區的第2或4號地區進行的工程，附同作支持用的文件，包括 ——  <sourceNote>(<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>)</sourceNote></leadIn><subparagraph id="ID_1438411126365_036" name="A" role="subSubParagraph" temporalId="s8_1_d_ii_A"><num value="A">(A)</num><content>所呈交文件的闡釋指引；</content></subparagraph><subparagraph id="ID_1438411126365_044" name="B" role="subSubParagraph" temporalId="s8_1_d_ii_B"><num value="B">(B)</num><content>一份載列包括以下各項的研究結果的報告：地形、地質、地下水、地面水、地盤的歷史、公用設施、排水渠、污水渠及其他設施，以及該處的岩土紀錄；</content></subparagraph><subparagraph id="ID_1438411126365_052" name="C" role="subSubParagraph" temporalId="s8_1_d_ii_C"><num value="C">(C)</num><content>一份載列土地勘測結果的報告，包括所採用裝備和程序的全面細節；</content></subparagraph><subparagraph id="ID_1438411126365_060" name="D" role="subSubParagraph" temporalId="s8_1_d_ii_D"><num value="D">(D)</num><content>一份載列對地下水情況作出的地盤監測結果的報告；</content></subparagraph><subparagraph id="ID_1438411126365_068" name="E" role="subSubParagraph" temporalId="s8_1_d_ii_E"><num value="E">(E)</num><content>一份報告，載列對(B)、(C)、(D)分節的嚴密研究和詮釋、岩土設計假定一覽表、對預期的岩土問題的討論，以及基礎工程的設計與建造在岩土方面的要求(包括在測試、檢查和保養方面的要求)；<marker role="section-break"></marker></content></subparagraph><subparagraph id="ID_1438411126365_076" name="F" role="subSubParagraph" temporalId="s8_1_d_ii_F"><num value="F">(F)</num><content>基礎工程的設計計算資料；<sourceNote>(<ref href="/hk/1990/52">1990年第52號第10條</ref>)</sourceNote></content></subparagraph></subparagraph></paragraph><paragraph id="ID_1438411126365_083" name="e" temporalId="s8_1_e"><num value="e">(e)</num><content>排水設施圖則，顯示排水渠或污水渠的大小及深度；與公共污水渠或排水渠或大溝渠的接駁、任何其他處置排水的方法、存水隔氣彎管的位置，以及通風辦法；</content></paragraph><paragraph id="ID_1438411126365_091" name="f" temporalId="s8_1_f"><num value="f">(f)</num><content>區劃圖，顯示建築物及緊鄰的其他建築物的大小及位置，以及鄰近街道；</content></paragraph><paragraph id="ID_1438411126365_099" name="g" temporalId="s8_1_g"><num value="g">(g)</num><content>如不能從區劃圖清楚辨認地盤位置，顯示地盤位置的索引圖；</content></paragraph><paragraph id="ID_1438411126365_107" name="h" temporalId="s8_1_h"><num value="h">(h)</num><leadIn>載有全部尺寸及計算資料的簡圖，顯示 ——</leadIn><subparagraph id="ID_1438411126365_115" name="i" temporalId="s8_1_h_i"><num value="i">(i)</num><content>建築物的高度、上蓋面積、地積比率與配置符合《建築物(規劃)規例》(<ref href="/hk/cap123F">第123章，附屬法例F</ref>)<ref>第19</ref>、<ref>20</ref>及<ref>21條</ref>的規定；及<sourceNote>(<ref href="/hk/1969/ln51">1969年第51號法律公告</ref>；<ref href="/hk/1988/ln57">1988年第57號法律公告</ref>；<ref href="/hk/1990/ln438">1990年第438號法律公告</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411126381_007" name="ii" temporalId="s8_1_h_ii"><num value="ii">(ii)</num><content>《建築物(規劃)規例》(<ref href="/hk/cap123F">第123章，附屬法例F</ref>)<ref>第25</ref>、<ref>27</ref>及<ref>28條</ref>就建築物所規定的空地；
+                        <sourceNote>(<ref href="hk/2018/er5">2018年第5號編輯修訂紀錄</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438411126381_014" name="i" temporalId="s8_1_i"><num value="i">(i)</num><content>顯示結構詳圖的圖則，連同一套結構工程的結構計算資料；<sourceNote>(<ref href="/hk/1990/ln438">1990年第438號法律公告</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411126381_022" name="j" temporalId="s8_1_j"><num value="j">(j)</num><content>就任何在街道或未批租政府土地的上方伸出的簷篷、橋梁或其他伸出物而言，清楚顯示該伸出物性質及尺寸的圖則；<sourceNote>(<ref href="/hk/1992/ln79">1992年第79號法律公告</ref>；<ref href="/hk/1998/29">1998年第29號第105條</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411126381_030" name="k" temporalId="s8_1_k"><num value="k">(k)</num><leadIn>顯示以下資料的詳圖 ——<marker role="section-break"></marker></leadIn><subparagraph id="ID_1438411126381_038" name="i" temporalId="s8_1_k_i"><num value="i">(i)</num><content>實用樓面面積(該詞具有《建築物(衞生設備標準、水管裝置、排水工程及廁所)規例》(<ref href="/hk/cap123I">第123章，附屬法例I</ref>)<ref>第3條</ref>所給予的涵義)；及
+                        <sourceNote>(<ref href="hk/2015/ln192">2015年第192號法律公告</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411126381_046" name="ii" temporalId="s8_1_k_ii"><num value="ii">(ii)</num><content>在建築物內設置的污水設備及廢水設備的數目及種類；
+                        <sourceNote>(<ref href="hk/2018/er5">2018年第5號編輯修訂紀錄</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411126381_054" name="iii" temporalId="s8_1_k_iii"><num value="iii">(iii)</num><sourceNote>(由<ref href="/hk/1992/ln79">1992年第79號法律公告</ref>廢除)</sourceNote></subparagraph></paragraph><paragraph id="ID_1438411126381_061" name="l" temporalId="s8_1_l"><num value="l">(l)</num><leadIn>如屬在<ref>附表</ref>所列地區進行的建築工程，顯示下列資料的土地勘測圖則 ——  <sourceNote>(<ref href="/hk/1990/52">1990年第52號第10條</ref>)</sourceNote></leadIn><subparagraph id="ID_1438411126381_069" name="i" temporalId="s8_1_l_i"><num value="i">(i)</num><content>所有勘探工程的位置、大小及深度，或其釐定準則，勘探工程包括沖孔、鑽孔、探測、測試、儀器的裝置、以儀器對泥土及岩石所作的量度及取樣，以及進行勘探工程所採用的裝備和程序；</content></subparagraph><subparagraph id="ID_1438411126396_007" name="ii" temporalId="s8_1_l_ii"><num value="ii">(ii)</num><content>進行實驗室測試所採用的裝備和程序，以及選取測試樣本的準則；及</content></subparagraph><subparagraph id="ID_1438411126396_015" name="iii" temporalId="s8_1_l_iii"><num value="iii">(iii)</num><content>如建築事務監督提出要求，有關的規格、報告格式及任何其他有關詳情；<sourceNote>(<ref href="/hk/1982/ln233">1982年第233號法律公告</ref>；<ref href="/hk/1984/ln362">1984年第362號法律公告</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438411126396_022" name="m" temporalId="s8_1_m"><num value="m">(m)</num><content>如屬《建築物(規劃)規例》(<ref href="/hk/cap123F">第123章，附屬法例F</ref>)<ref>第72條</ref>適用的情況，詳細顯示按照該條為殘疾人士所提供的設備的圖則。<sourceNote>(<ref href="/hk/1984/ln362">1984年第362號法律公告</ref>；<ref href="hk/2018/er5">2018年第5號編輯修訂紀錄</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411126396_029" name="2" temporalId="s8_2"><num value="2">(2)</num><def name="便溺污水設備,廢水設備">在本條中，<term>便溺污水設備</term> (<term xml:lang="en">soil
+                    fitment</term>)及<term>廢水設備</term> (<term xml:lang="en">waste
+                    fitment</term>)兩詞具有《建築物(衞生設備標準、水管裝置、排水工程及廁所)規例》(<ref href="/hk/cap123I">第123章，附屬法例I</ref>)給予該兩詞的涵義。
+                <sourceNote>(<ref href="hk/2018/er5">2018年第5號編輯修訂紀錄</ref>)</sourceNote><marker role="section-break"></marker></def></subsection><subsection id="ID_1438411126396_036" name="3" temporalId="s8_3"><num value="3">(3)</num><leadIn>為施行本條例及規例，現就拆卸工程訂明下列各圖則 ——</leadIn><paragraph id="ID_1438411126396_044" name="a" temporalId="s8_3_a"><num value="a">(a)</num><content>一幅圖則，顯示須予拆卸建築物的結構及狀況，包括由該建築物承托的斜坡及土地的截面圖，以及所有受影響的建築物、構築物、街道、土地及設施；</content></paragraph><paragraph id="ID_1438411126396_052" name="b" temporalId="s8_3_b"><num value="b">(b)</num><content>一幅圖則，顯示地盤與周圍環境的現有情況(包括載有地面水平等高線的準確測量圖及由拆卸建築物承托的斜坡及土地的截面圖)以及所有需要的移土工程；</content></paragraph><paragraph id="ID_1438411126396_060" name="c" temporalId="s8_3_c"><num value="c">(c)</num><content>一幅圖則，顯示拆卸工程進行的先後次序、裝備及程序；</content></paragraph><paragraph id="ID_1438411126396_068" name="d" temporalId="s8_3_d"><num value="d">(d)</num><content>一幅圖則，顯示在拆卸工程每個階段須為須予拆卸建築物提供的承托，和為由該建築物承托的任何斜坡及土地提供的承托，以及所有受影響的建築物、構築物、街道、土地及設施；</content></paragraph><paragraph id="ID_1438411126396_076" name="e" temporalId="s8_3_e"><num value="e">(e)</num><content>一幅圖則，顯示所有保障公眾的預防措施，包括隔塵網、防護柵、圍板及有蓋人行道；</content></paragraph><paragraph id="ID_1438411126396_084" name="f" temporalId="s8_3_f"><num value="f">(f)</num><content>一幅圖則，顯示在拆卸工程每個階段須為所有受影響的建築物、構築物、街道、土地及設施提供的承托。<sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411126396_091" name="4" temporalId="s8_4"><num value="4">(4)</num><leadIn>就拆卸工程訂明的圖則必須附同 ——</leadIn><paragraph id="ID_1438411126396_099" name="a" temporalId="s8_4_a"><num value="a">(a)</num><content>關於須予拆卸建築物及所有受影響的建築物、構築物、街道、土地及設施的穩定性報告；<marker role="section-break"></marker></content></paragraph><paragraph id="ID_1438411126396_107" name="b" temporalId="s8_4_b"><num value="b">(b)</num><content>(如建築事務監督認為適當)承托的結構計算資料；</content></paragraph><paragraph id="ID_1438411126396_115" name="c" temporalId="s8_4_c"><num value="c">(c)</num><content>穩定性報告，其內載有計算資料，顯示拆卸工程不會使到任何建築物、構築物、街道、土地及設施的安全度不足夠，或導致任何建築物、構築物、街道、土地及設施受損；</content></paragraph><paragraph id="ID_1438411126412_006" name="d" temporalId="s8_4_d"><num value="d">(d)</num><content>穩定性報告，其內載有計算資料，顯示建議使用的裝備或機械裝置不會使到任何建築物、構築物、街道、土地及設施的安全度不足夠，或導致任何建築物、構築物、街道、土地及設施受損。<sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>；<ref href="/hk/1997/ln608">1997年第608號法律公告</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411126412_014" name="e" temporalId="s8_4_e"><num value="e">(e)</num><sourceNote>(由<ref href="/hk/1997/ln608">1997年第608號法律公告</ref>廢除)</sourceNote></paragraph></subsection></section><section id="ID_1438402643978_001" name="s9" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s9"><num value="9">9.</num><heading>就街道工程訂明的圖則</heading><leadIn>為施行本條例及規例，現就街道工程訂明下列圖則 ——</leadIn><paragraph id="ID_1438411126443_012" name="a" temporalId="s9_a"><num value="a">(a)</num><content>顯示私家街道或通路的地點的索引圖；</content></paragraph><paragraph id="ID_1438411126443_020" name="b" temporalId="s9_b"><num value="b">(b)</num><content>布局平面圖；</content></paragraph><paragraph id="ID_1438411126443_028" name="c" temporalId="s9_c"><num value="c">(c)</num><content>縱截面圖(垂直面及水平面)；</content></paragraph><paragraph id="ID_1438411126443_036" name="d" temporalId="s9_d"><num value="d">(d)</num><content>橫截面圖；<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1990/ln438">1990年第438號法律公告</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411126443_044" name="e" temporalId="s9_e"><num value="e">(e)</num><content>標準道路截面圖；及<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1990/ln438">1990年第438號法律公告</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411126443_052" name="f" temporalId="s9_f"><num value="f">(f)</num><content>就街道的任何基礎及結構工程而言，顯示基礎大小及位置的基礎圖則，連同已進行的地盤勘測工程的詳盡報告、擬進行的任何土地灌漿工程的詳圖，以及顯示結構詳圖的圖則，連同一套結構工程的計算資料。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1990/ln438">1990年第438號法律公告</ref>)</sourceNote></content></paragraph></section><section id="ID_1438402643994_001" name="s10" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s10"><num value="10">10.</num><heading>建築事務監督要求取得額外圖則等的權力</heading><content>建築事務監督如認為有需要，可要求提交與供水及任何特別物料的規格和使用有關的額外圖則、放大詳圖、其他文件及資料，或他認為需要的其他詳情。</content></section><section id="ID_1438402644009_002" name="s11" reason="inEffect" role="regulation" startPeriod="2022-03-31" status="operational" temporalId="s11"><num value="11">11.</num><heading>呈交圖則及相關文件</heading><subsection id="ID_1639454534137_001" name="1" temporalId="s11_1"><num value="1">(1)</num><content>以印本形式呈交建築事務監督批准的圖則或相關文件，須以一式兩份呈交。</content></subsection><subsection id="ID_1639454534138_002" name="2" temporalId="s11_2"><num value="2">(2)</num><content>如有圖則或相關文件呈交建築事務監督批准，則不論是否以印本形式呈交，建築事務監督可要求以印本形式呈交其認為必需的額外文本。</content></subsection><subsection id="ID_1639454534139_003" name="3" temporalId="s11_3"><num value="3">(3)</num><leadIn>在本條中 ——</leadIn><def name="相關文件">
+                <leadIn><term>相關文件</term> (<term xml:lang="en">related document</term>)指 ——</leadIn>
+                <paragraph id="ID_1639454534140_004" name="a" temporalId="s11_3_a"><num value="a">(a)</num><content>與圖則相關而擬進行的土地處理工程的所有詳圖；或</content></paragraph>
+                <paragraph id="ID_1639454534140_005" name="b" temporalId="s11_3_b"><num value="b">(b)</num><content>與圖則相關的地盤勘測報告。</content></paragraph>
+            </def></subsection><sourceNote>(<ref href="hk/2021/ln222">2021年第222號法律公告</ref>)</sourceNote></section><section id="ID_1438402644025_001" name="s11A" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s11A"><num value="11A">11A.</num><heading>基礎圖則須與地盤平整工程圖則一併呈交</heading><content>就<ref>附表</ref>所列地區的第1號地區的建築工程而言，<ref>第8(1)(d)條</ref>所訂明的基礎圖則須與<ref>第8(1)(bb)條</ref>所訂明的地盤平整工程圖則一併呈交建築事務監督批准。</content><sourceNote>(<ref href="/hk/1982/ln233">1982年第233號法律公告</ref>；<ref href="/hk/1990/52">1990年第52號第11條</ref>)</sourceNote></section><section id="ID_1438402644025_003" name="s12" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s12"><num value="12">12.</num><heading>圖則等須由製備的人簽署</heading><subsection id="ID_1438411126552_011" name="1" temporalId="s12_1"><num value="1">(1)</num><content>除第(2)及(5)款另有規定外，所有呈交建築事務監督批准的圖則、結構詳圖及計算資料須由認可人士製備和簽署，而由他簽署即當作他對該等圖則、結構詳圖或計算資料(視屬何情況而定)負起所有責任。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/2004/15">2004年第15號第40條</ref>)</sourceNote></content></subsection><subsection id="ID_1438411126552_019" name="2" temporalId="s12_2"><num value="2">(2)</num><content>除第(3)款另有規定外，根據第<ref>8(1)(d)</ref>及(i)及9(f)條所規定的所有基礎圖則、結構詳圖及計算資料，須由註冊結構工程師製備和簽署，而由他簽署即當作他對該等圖則、結構詳圖或計算資料(視屬何情況而定)負起所有責任。</content></subsection><subsection id="ID_1438411126568_005" name="3" temporalId="s12_3"><num value="3">(3)</num><content>如屬第(4)款適用的建築工程，根據第<ref>8(1)(d)</ref>及(i)條所規定的所有基礎圖則、結構詳圖及計算資料，可由認可人士製備和簽署，而由他簽署即當作他對該等圖則、結構詳圖或計算資料(視屬何情況而定)負起所有責任。</content></subsection><subsection id="ID_1438411126568_013" name="4" temporalId="s12_4"><num value="4">(4)</num><leadIn>第(3)款適用於下列情況的任何建築工程 ——</leadIn><paragraph id="ID_1438411126568_021" name="a" temporalId="s12_4_a"><num value="a">(a)</num><content>建築結構高度不超逾10米；</content></paragraph><paragraph id="ID_1438411126568_029" name="b" temporalId="s12_4_b"><num value="b">(b)</num><content>建築結構的任何結構構件的跨距不超逾6米；</content></paragraph><paragraph id="ID_1438411126568_037" name="c" temporalId="s12_4_c"><num value="c">(c)</num><content>結構構件以木料、砌石、鋼、素混凝土或鋼筋混凝土建造；</content></paragraph><paragraph id="ID_1438411126568_045" name="d" temporalId="s12_4_d"><num value="d">(d)</num><content>建築結構的基礎屬地面承載力不超逾300千帕斯卡的擴展基腳的類型，並建於現有地面水平之下不多於2米；及</content></paragraph><paragraph id="ID_1438411126568_053" name="e" temporalId="s12_4_e"><num value="e">(e)</num><content>不會對由註冊結構工程師設計的任何現有結構構件作出結構上的改動。</content></paragraph></subsection><subsection id="ID_1438411126568_060" name="5" temporalId="s12_5"><num value="5">(5)</num><content>根據或依據第<ref>8(1)(b)(iv)</ref>、(ba)、(bb)、(bc)、(d)及(l)、(3)及<ref>(4)(c)</ref>條所需的所有岩土圖則、岩土評估、岩土詳圖及計算資料、岩土報告、地盤勘測報告或土地勘測報告，須由註冊岩土工程師製備和簽署，而由他簽署即當作他對該等岩土圖則、岩土評估、岩土詳圖及計算資料、岩土報告、地盤勘測報告或土地勘測報告(視屬何情況而定)負起所有責任。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/2004/15">2004年第15號第40條</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1990/ln438">1990年第438號法律公告</ref>)</sourceNote></section><section id="ID_1438402644056_002" name="s13" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s13"><num value="13">13.</num><heading>圖則比例</heading><subsection id="ID_1438411126599_004" name="1" temporalId="s13_1"><num value="1">(1)</num><content><leadIn>建築工程的圖則及截面圖須以不小於1:100的比例繪製：</leadIn><proviso name="proviso" temporalId="s13_1_proviso">	但如屬範圍極廣的建築工程，建築事務監督可接受以不小於1:200的比例所繪製的圖則。</proviso></content></subsection><subsection id="ID_1438411126599_018" name="2" temporalId="s13_2"><num value="2">(2)</num><paragraph id="ID_1438411126599_022" name="a" temporalId="s13_2_a"><num value="a">(a)</num><content>就街道工程呈交的每份索引圖須以不小於1:2
+                    500的比例繪製。</content></paragraph><paragraph id="ID_1438411126599_028" name="b" temporalId="s13_2_b"><num value="b">(b)</num><content>如此呈交的每份布局平面圖須以不小於1:200的比例繪製。</content></paragraph><paragraph id="ID_1438411126599_036" name="c" temporalId="s13_2_c"><num value="c">(c)</num><leadIn>如此呈交的縱截面圖 ——</leadIn><subparagraph id="ID_1438411126599_044" name="i" temporalId="s13_2_c_i"><num value="i">(i)</num><content>如屬水平面，須以不小於1:500的比例繪製；及</content></subparagraph><subparagraph id="ID_1438411126599_052" name="ii" temporalId="s13_2_c_ii"><num value="ii">(ii)</num><content>如屬垂直面，須以不小於1:200的比例繪製。</content></subparagraph></paragraph><paragraph id="ID_1438411126599_059" name="d" temporalId="s13_2_d"><num value="d">(d)</num><content>如此呈交的橫截面圖須以不小於1:200的比例繪製。</content></paragraph><paragraph id="ID_1438411126599_067" name="e" temporalId="s13_2_e"><num value="e">(e)</num><content>如此呈交的標準道路截面圖須以不小於1:50的比例繪製。</content></paragraph></subsection><subsection id="ID_1438411126599_074" name="3" temporalId="s13_3"><num value="3">(3)</num><content>每份區劃圖須以不小於1:500的比例繪製。</content></subsection><sourceNote>(<ref href="/hk/1976/ln294">1976年第294號法律公告</ref>)</sourceNote></section><section id="ID_1438402644072_001" name="s14" reason="inEffect" role="regulation" startPeriod="2022-03-31" status="operational" temporalId="s14"><num value="14">14.</num><heading>圖則須清楚及在適當的物料上繪製或複製</heading><sourceNote>(<ref href="hk/2021/ln222">2021年第222號法律公告</ref>)</sourceNote><subsection id="ID_1639452853474_001" name="1" temporalId="s14_1"><num value="1">(1)</num><leadIn>呈交建築事務監督批准的圖則須 ——</leadIn><paragraph id="ID_1639452853475_002" name="a" temporalId="s14_1_a"><num value="a">(a)</num><content>以清楚及易於理解的方式繪製或複製；及</content></paragraph><paragraph id="ID_1639452853477_003" name="b" temporalId="s14_1_b"><num value="b">(b)</num><content>如以印本形式呈交——在適當及耐久的物料上繪製或複製。 <sourceNote>(<ref href="hk/2021/ln222">2021年第222號法律公告</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411126630_012" name="2" temporalId="s14_2"><num value="2">(2)</num><content>呈交建築事務監督的工程繪圖不得複製在鐵氰藍圖上。</content></subsection><subsection id="ID_1438411126630_020" name="3" temporalId="s14_3"><num value="3">(3)</num><content>每份圖則須有一份文本填上顏色，以清楚區別現有工程和新工程以及清楚區別新工程的某一部分和其他部分。
+                <sourceNote>(<ref href="/hk/1976/ln241">1976年第241號法律公告</ref>)</sourceNote></content></subsection></section><section id="ID_1438402644072_003" name="s15" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s15"><num value="15">15.</num><heading>建築事務監督拒絕接受圖則的權力</heading><content>建築事務監督可拒絕接受由2名或多於2名認可人士、註冊結構工程師或註冊岩土工程師就同一處所的工程呈交的圖則。</content><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第41條</ref>)</sourceNote></section><section id="ID_1438402644087_002" name="s16" reason="repealed" role="regulation" startPeriod="1997-06-30" status="repealed" temporalId="s16"><num value="16">16.</num><sourceNote>(由<ref href="/hk/1976/ln241">1976年第241號法律公告</ref>廢除)</sourceNote></section><crossHeading class="tied-tag-crossHeading-center add-toc font_size_13">證明書</crossHeading><section id="ID_1438402644103_002" name="s17" reason="repealed" role="regulation" startPeriod="1997-06-30" status="repealed" temporalId="s17"><num value="17">17.</num><sourceNote>(由<ref href="/hk/1990/ln438">1990年第438號法律公告</ref>廢除)</sourceNote></section><section id="ID_1438402644118_001" name="s18" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s18"><num value="18">18.</num><heading>穩定性證明書</heading><subsection id="ID_1438411126708_004" name="1" temporalId="s18_1"><num value="1">(1)</num><content>凡任何建築工程包括任何建築物的修葺、改動或加建，就該等建築工程製備圖則的認可人士須在該等圖則呈交建築事務監督批准時，以指明的表格向建築事務監督送交一份證明書，證明他已檢查該建築物，並認為該建築物有能力承受因該等修葺、改動或加建而可能有所增加或在任何方面有所改動的荷載及應力。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411126708_012" name="2" temporalId="s18_2"><num value="2">(2)</num><content>凡該建築物的建造方式是需有任何註冊結構工程師的服務的，該證明書須由該註冊結構工程師簽署，並由就該等建築工程委任的認可人士加簽。</content></subsection><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>)</sourceNote></section><section id="ID_1438402644118_003" name="s18A" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s18A"><num value="18A">18A.</num><heading>認可人士等發出的證明書須與圖則一併呈交</heading><leadIn>凡將任何建築工程或街道工程的圖則呈交建築事務監督批准，須連同該等圖則一併呈交由製備該等圖則或監管製備該等圖則的認可人士、註冊結構工程師或註冊岩土工程師(視屬何情況而定)以指明的表格發出的證明書，證明 ——  <sourceNote>(<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第42條</ref>)</sourceNote></leadIn><paragraph id="ID_1438411126724_027" name="a" temporalId="s18A_a"><num value="a">(a)</num><content>該等圖則由他製備或在他監管或指示下製備；及</content></paragraph><paragraph id="ID_1438411126724_035" name="b" temporalId="s18A_b"><num value="b">(b)</num><content>盡他所知所信，該等圖則在各方面均符合本條例及根據本條例訂立的規例。</content></paragraph><sourceNote>(<ref href="/hk/1975/ln10">1975年第10號法律公告</ref>；<ref href="/hk/1976/ln241">1976年第241號法律公告</ref>；<ref href="/hk/1990/ln438">1990年第438號法律公告</ref>)</sourceNote></section><crossHeading class="tied-tag-crossHeading-center add-toc font_size_13">通知</crossHeading><section id="ID_1438402644134_002" name="s19" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s19"><num value="19">19.</num><heading>製備呈交建築事務監督的圖則的認可人士、註冊結構工程師或註冊岩土工程師如不再受聘須通知建築事務監督</heading><content>凡製備任何呈交建築事務監督批准的建築工程或街道工程的任何圖則或其他詳圖的認可人士、註冊結構工程師或註冊岩土工程師，因任何理由而不再代表獲其代為進行該建築工程或街道工程的人行事，則他須在不再代表行事後7天內，以書面通知建築事務監督他已不再代表行事。</content><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第43條</ref>)</sourceNote></section><section id="ID_1438402644165_001" name="s20" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s20"><num value="20">20.</num><heading>在建築工程或街道工程展開前向建築事務監督發出通知</heading><subsection id="ID_1438411126786_026" name="1" temporalId="s20_1"><num value="1">(1)</num><leadIn>在任何建築工程或街道工程展開前不少於7天，就該建築工程或街道工程委任的認可人士須以指明的表格向建築事務監督提交 ——  <sourceNote>(<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>)</sourceNote></leadIn><paragraph id="ID_1438411126802_005" name="a" temporalId="s20_1_a"><num value="a">(a)</num><content>由該認可人士簽署的通知，述明就該建築工程或街道工程所委任的註冊一般建築承建商、註冊專門承建商或註冊小型工程承建商及工程展開的日期；及</content></paragraph><paragraph id="ID_1438411126802_013" name="b" temporalId="s20_1_b"><num value="b">(b)</num><content>由該註冊一般建築承建商、註冊專門承建商或註冊小型工程承建商就上述委任而簽署的接受書、他就該建築工程或街道工程展開的日期而簽署的確認書，以及他就嚴格遵從本條例及規例的條文而簽署的承擔責任書。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>；<ref href="/hk/2008/20">2008年第20號第34條</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411126802_020" name="2" temporalId="s20_2"><num value="2">(2)</num><leadIn>在任何建築工程或街道工程展開前不少於7天的時間，就該建築工程或街道工程委任的認可人士、註冊結構工程師或註冊岩土工程師在需要有監工計劃書的情況下，須 ——  <sourceNote>(<ref href="/hk/2004/15">2004年第15號第44條</ref>)</sourceNote></leadIn><paragraph id="ID_1438411126802_028" name="a" temporalId="s20_2_a"><num value="a">(a)</num><content>將根據<ref>第37條</ref>委任任何適任技術人員一事以書面通知建築事務監督；及</content></paragraph><paragraph id="ID_1438411126802_036" name="b" temporalId="s20_2_b"><num value="b">(b)</num><content>向建築事務監督提供根據<ref>第37條</ref>委任的適任技術人員的個人詳情、資格及經驗。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411126802_043" name="3" temporalId="s20_3"><num value="3">(3)</num><leadIn>在任何建築工程或街道工程展開前不少於7天的時間，就該建築工程或街道工程委任的註冊一般建築承建商或註冊專門承建商在需要有監工計劃書的情況下，須 ——</leadIn><paragraph id="ID_1438411126802_051" name="a" temporalId="s20_3_a"><num value="a">(a)</num><content>將根據<ref>第41條</ref>委任任何適任技術人員一事以書面通知建築事務監督；及</content></paragraph><paragraph id="ID_1438411126802_059" name="b" temporalId="s20_3_b"><num value="b">(b)</num><content>向建築事務監督提供根據<ref>第41條</ref>委任的適任技術人員的個人詳情、資格及經驗。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>)</sourceNote></content></paragraph></subsection><sourceNote>(<ref href="/hk/1961/gna97">1961年A97號政府公告</ref>；<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/1990/ln438">1990年第438號法律公告</ref>)</sourceNote></section><section id="ID_1438402644196_001" name="s21" reason="repealed" role="regulation" startPeriod="1997-06-30" status="repealed" temporalId="s21"><num value="21">21.</num><sourceNote>(由<ref href="/hk/1990/ln438">1990年第438號法律公告</ref>廢除)</sourceNote></section><section id="ID_1438402644290_001" name="s22" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s22"><num value="22">22.</num><heading>更換認可人士、註冊結構工程師、註冊岩土工程師、註冊承建商等時須通知建築事務監督</heading><subsection id="ID_1438411126958_004" name="1" temporalId="s22_1"><num value="1">(1)</num><content>凡按照本條例的條文就建築工程或街道工程委任另一名認可人士、註冊結構工程師、註冊岩土工程師、註冊一般建築承建商、註冊專門承建商或註冊小型工程承建商，由其代為進行該建築工程或街道工程(視屬何情況而定)的人須在作出委任後7天內，將該認可人士、註冊結構工程師、註冊岩土工程師、註冊一般建築承建商、註冊專門承建商或註冊小型工程承建商的姓名或名稱以書面通知建築事務監督。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411126958_012" name="2" temporalId="s22_2"><num value="2">(2)</num><content>凡就某項建築工程或街道工程委任的認可人士、註冊結構工程師、註冊岩土工程師、註冊一般建築承建商、註冊專門承建商或註冊小型工程承建商在任何該等工程進行期間，變得不能或不願意行事，任何結構工程(如是註冊結構工程師)或任何岩土工程(如是註冊岩土工程師)或所有工程(如是認可人士)或有關的建築工程或街道工程(如是就上述工程而獲委任的註冊一般建築承建商、註冊專門承建商或註冊小型工程承建商)均須停止，直至有另一名認可人士、註冊結構工程師、註冊岩土工程師、註冊一般建築承建商、註冊專門承建商或註冊小型工程承建商獲委任並已按照第(1)款通知建築事務監督為止。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>；<ref href="/hk/1997/ln608">1997年第608號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411126958_020" name="3" temporalId="s22_3"><num value="3">(3)</num><content>根據<ref>第37條</ref>委任任何適任技術人員的委任如有更改，認可人士、註冊結構工程師或註冊岩土工程師須於更改後7天內將該項更改以書面通知建築事務監督，並須向建築事務監督提供根據該條委任的新的適任技術人員的個人詳情、資格及經驗。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>；<ref href="/hk/2009/ln180">2009年第180號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411126958_028" name="4" temporalId="s22_4"><num value="4">(4)</num><content>根據<ref>第41條</ref>委任任何適任技術人員的委任如有更改，註冊一般建築承建商、註冊專門承建商或註冊小型工程承建商須於更改後7天內將該項更改以書面通知建築事務監督，並須向建築事務監督提供根據該條委任的新的適任技術人員的個人詳情、資格及經驗。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>；<ref href="/hk/2009/ln180">2009年第180號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411126973_005" name="5" temporalId="s22_5"><num value="5">(5)</num><content>在根據<ref>第37條</ref>委任的適任技術人員不再獲委任時，認可人士、註冊結構工程師或註冊岩土工程師須停止進行工程中按照監工計劃書屬該適任技術人員監督的部分，直至新的適任技術人員獲委任為止。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411126973_013" name="6" temporalId="s22_6"><num value="6">(6)</num><content>在根據<ref>第41條</ref>委任的適任技術人員不再獲委任時，註冊一般建築承建商、註冊專門承建商或註冊小型工程承建商須停止進行工程中按照監工計劃書屬該適任技術人員監督的部分，直至新的適任技術人員獲委任為止。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>；<ref href="/hk/1997/ln608">1997年第608號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411126973_021" name="7" temporalId="s22_7"><num value="7">(7)</num><content>凡已委任任何人操作拆卸工程中所使用的或所擬使用的動力機械裝置或裝備，如委任人選有所更改，則註冊專門承建商須於更改後7天內以書面通知建築事務監督，並須向建築事務監督提供新委任的操作該裝置或裝備的人的個人詳情、資格及經驗。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>；<ref href="/hk/1997/ln608">1997年第608號法律公告</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1990/ln438">1990年第438號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第45條</ref>；<ref href="/hk/2008/20">2008年第20號第35條</ref>)</sourceNote></section><section id="ID_1438402644306_002" name="s23" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s23"><num value="23">23.</num><heading>須就委任等向建築事務監督提供的資料</heading><subsection id="ID_1461221705210_001" name="1A" temporalId="s23_1A"><num value="1A">(1A) </num><content>凡根據本條例<ref>第4(1)條</ref>就任何建築工程或街道工程委任認可人士、註冊結構工程師或註冊岩土工程師，由其代為進行該建築工程或街道工程(視屬何情況而定)的人，須以指明的表格向建築事務監督提交該項委任的通知及有關的認可人士、註冊結構工程師或註冊岩土工程師接受該項委任的確認書。<sourceNote>(<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127020_011" name="1" temporalId="s23_1"><num value="1">(1)</num><content>凡就任何建築工程或街道工程委任的認可人士、註冊結構工程師或註冊岩土工程師因任何理由而不再獲委任，他須在不再獲委任後7天內，以書面通知建築事務監督他已不再獲委任。</content></subsection><subsection id="ID_1438411127020_019" name="2" temporalId="s23_2"><num value="2">(2)</num><content>凡獲如此委任的認可人士、註冊結構工程師或註冊岩土工程師已根據本條例<ref>第4(2)條</ref>指定另一名認可人士、註冊結構工程師或註冊岩土工程師代他行事，他須在作出指定後不遲於7天，將該項指定以指明的表格通知建築事務監督，通知並須附有該另一名認可人士、註冊結構工程師或註冊岩土工程師接受該項指定的確認書。<sourceNote>(<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1969/ln51">1969年第51號法律公告</ref>；<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第46條</ref>)</sourceNote></section><section id="ID_1438402644321_002" name="s24" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s24"><num value="24">24.</num><heading>不再獲委任的註冊承建商的責任</heading><content>凡就某項建築工程或街道工程委任的註冊一般建築承建商、註冊專門承建商或註冊小型工程承建商因任何理由而不再獲委任，他須在不再獲委任後7天內，以指明的表格向就該建築工程或街道工程委任的認可人士交付述明他已不再獲委任的通知，以便由該認可人士按照<ref>第38條</ref>的條文將該通知呈交建築事務監督，他並須在表格內證明他所進行的建築工程或街道工程(視屬何情況而定)是按照本條例及規例的條文進行的。</content><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/1990/ln438">1990年第438號法律公告</ref>；<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>；<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>；<ref href="/hk/2008/20">2008年第20號第36條</ref>)</sourceNote></section><section id="ID_1438402644352_001" name="s25" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s25"><num value="25">25.</num><heading>註冊承建商及認可人士須在建築工程完成時發出證明書</heading><subsection id="ID_1438411127192_004" name="1" temporalId="s25_1"><num value="1">(1)</num><content>就任何建築工程委任的註冊一般建築承建商、註冊專門承建商及註冊小型工程承建商須在該建築工程完成後7天內，在就建成新建築物或並無建成新建築物的建築工程而指明的表格(視屬何情況而定)內，證明該新建築物是按照本條例和規例的條文以及建築事務監督就該新建築物批准的圖則建立的，或證明該建築工程是按照本條例和規例的條文以及建築事務監督就該等建築工程批准的圖則進行的，並須在上述7天內將證明書交付就該建築工程委任的認可人士、註冊結構工程師或註冊岩土工程師(視屬何情況而定)。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/2004/15">2004年第15號第47條</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127192_012" name="2" temporalId="s25_2"><num value="2">(2)</num><content>就任何建築工程委任的認可人士須在該建築工程(拆卸工程除外)完成後14天內，在就該工程委任的註冊一般建築承建商、註冊專門承建商及註冊小型工程承建商按照第(1)款的條文向他交付的就建成新建築物或並無建成新建築物的建築工程而指明的表格(視屬何情況而定)內，證明該新建築物是按照本條例和規例的條文以及建築事務監督就該新建築物批准的圖則建立的，或證明該建築工程是按照本條例和規例的條文以及建築事務監督就該等建築工程批准的圖則進行的，且他認為該新建築物或該建築工程(視屬何情況而定)結構上安全，並須在上述14天內將證明書送交建築事務監督。</content></subsection><subsection id="ID_1438411127192_020" name="3" temporalId="s25_3"><num value="3">(3)</num><content>如有就建成新建築物或並無建成新建築物的建築工程(拆卸工程除外)而指明的表格(視屬何情況而定)，由就該建築工程委任的註冊一般建築承建商、註冊專門承建商及註冊小型工程承建商按照第(1)款的條文交付就該建築工程委任的註冊結構工程師或註冊岩土工程師，則該註冊結構工程師或註冊岩土工程師須在接獲表格後7天內，證明該新建築物是按照本條例和規例的條文以及建築事務監督就該新建築物批准的圖則建立的，或證明該建築工程是按照本條例和規例的條文以及建築事務監督就該等建築工程批准的圖則進行的，且他認為該新建築物或該建築工程(視屬何情況而定)在結構上或岩土方面(視屬何情況而定)是安全的，並須將證明書交付有關的認可人士，而該認可人士須在接獲證明書後7天內將證明書送交建築事務監督。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第47條</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127207_005" name="4" temporalId="s25_4"><num value="4">(4)</num><leadIn>就任何拆卸工程委任的認可人士、註冊結構工程師及註冊岩土工程師須在該拆卸工程完成後14天內，以就拆卸工程而指明的表格，向建築事務監督證明 ——  <sourceNote>(<ref href="/hk/2004/15">2004年第15號第47條</ref>)</sourceNote></leadIn><paragraph id="ID_1438411127207_013" name="a" temporalId="s25_4_a"><num value="a">(a)</num><content>該拆卸工程已按照經批准圖則完成；</content></paragraph><paragraph id="ID_1438411127207_021" name="b" temporalId="s25_4_b"><num value="b">(b)</num><content>他認為在地盤剩下的任何構築物或建築物在結構上是安全的；及</content></paragraph><paragraph id="ID_1438411127207_029" name="c" temporalId="s25_4_c"><num value="c">(c)</num><content>受該拆卸工程影響的任何土地或街道有足夠安全度。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>)</sourceNote></content></paragraph><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>；<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>；<ref href="/hk/2008/20">2008年第20號第37條</ref>)</sourceNote></subsection></section><section id="ID_1438402644384_002" name="s25A" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s25A"><num value="25A">25A.</num><heading>供水證明書</heading><subsection id="ID_1438411127348_004" name="1" temporalId="s25A_1"><num value="1">(1)</num><leadIn>在任何按照《建築物(衞生設備標準、水管裝置、排水工程及廁所)規例》(<ref href="/hk/cap123I">第123章，附屬法例I</ref>)而設有任何水廁設備、槽式水廁、廁所設備或尿廁的新建築物完成時，就有關的建築工程委任的認可人士須將下列證明書連同<ref>第25(2)條</ref>所提述的證明書，一併送交建築事務監督 ——</leadIn><paragraph id="ID_1438411127348_012" name="a" temporalId="s25A_1_a"><num value="a">(a)</num><content>水務監督發出的證明書，表明供水已按照《建築物(衞生設備標準、水管裝置、排水工程及廁所)規例》(<ref href="/hk/cap123I">第123章，附屬法例I</ref>)<ref>第10A條</ref>，由水務設施永久接駁至該建築物；</content></paragraph><paragraph id="ID_1438411127348_020" name="b" temporalId="s25A_1_b"><num value="b">(b)</num><leadIn>如建築事務監督已根據《建築物(衞生設備標準、水管裝置、排水工程及廁所)規例》(<ref href="/hk/cap123I">第123章，附屬法例I</ref>)<ref>第10A(3)(b)條</ref>，准許由建築物用地內的水井將供水接駁至該建築物，則 ——</leadIn><subparagraph id="ID_1438411127348_028" name="i" temporalId="s25A_1_b_i"><num value="i">(i)</num><content>就該建築工程委任的認可人士發出的證明書，表明供水已按照《建築物(衞生設備標準、水管裝置、排水工程及廁所)規例》(<ref href="/hk/cap123I">第123章，附屬法例I</ref>)<ref>第10A條</ref>，由建築物用地內的水井永久接駁至該建築物；及</content></subparagraph><subparagraph id="ID_1438411127348_036" name="ii" temporalId="s25A_1_b_ii"><num value="ii">(ii)</num><content>就該建築工程委任的認可人士按照《建築物(衞生設備標準、水管裝置、排水工程及廁所)規例》(<ref href="/hk/cap123I">第123章，附屬法例I</ref>)<ref>第10A(7)條</ref>就該水井發出的證明書；或<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1990/ln439">1990年第439號法律公告</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438411127348_043" name="c" temporalId="s25A_1_c"><num value="c">(c)</num><content>如建築事務監督已根據《建築物(衞生設備標準、水管裝置、排水工程及廁所)規例》(<ref href="/hk/cap123I">第123章，附屬法例I</ref>)<ref>第10A(3)(c)條</ref>准許或指示將並非來自水務設施或建築物用地內水井的供水，接駁至該建築物，則就該建築工程委任的認可人士發出的證明書，表明該供水已按照《建築物(衞生設備標準、水管裝置、排水工程及廁所)規例》(<ref href="/hk/cap123I">第123章，附屬法例I</ref>)<ref>第10A條</ref>，永久接駁至該建築物。</content></paragraph></subsection><subsection id="ID_1438411127363_005" name="2" temporalId="s25A_2"><num value="2">(2)</num><leadIn>在任何按照《建築物(衞生設備標準、水管裝置、排水工程及廁所)規例》(<ref href="/hk/cap123I">第123章，附屬法例I</ref>)而設有任何廢水設備或淋浴花灑的新建築物完成時，就有關的建築工程委任的認可人士須將下列證明書連同<ref>第25(2)條</ref>所提述的證明書，一併送交建築事務監督 ——</leadIn><paragraph id="ID_1438411127363_013" name="a" temporalId="s25A_2_a"><num value="a">(a)</num><content>水務監督發出的證明書，表明供水已按照《建築物(衞生設備標準、水管裝置、排水工程及廁所)規例》(<ref href="/hk/cap123I">第123章，附屬法例I</ref>)<ref>第10A條</ref>，由水務設施永久接駁至該建築物；</content></paragraph><paragraph id="ID_1438411127363_021" name="b" temporalId="s25A_2_b"><num value="b">(b)</num><leadIn>如建築事務監督已根據《建築物(衞生設備標準、水管裝置、排水工程及廁所)規例》(<ref href="/hk/cap123I">第123章，附屬法例I</ref>)<ref>第10A(3)(b)條</ref>，准許由建築物用地內的水井將供水接駁至該建築物，則 ——</leadIn><subparagraph id="ID_1438411127363_029" name="i" temporalId="s25A_2_b_i"><num value="i">(i)</num><content>就該建築工程委任的認可人士發出的證明書，表明供水已按照《建築物(衞生設備標準、水管裝置、排水工程及廁所)規例》(<ref href="/hk/cap123I">第123章，附屬法例I</ref>)<ref>第10A條</ref>，由建築物用地內的水井永久接駁至該建築物；及</content></subparagraph><subparagraph id="ID_1438411127363_037" name="ii" temporalId="s25A_2_b_ii"><num value="ii">(ii)</num><content>就該建築工程委任的認可人士按照《建築物(衞生設備標準、水管裝置、排水工程及廁所)規例》(<ref href="/hk/cap123I">第123章，附屬法例I</ref>)<ref>第10A(7)條</ref>就該水井發出的證明書；或<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1990/ln439">1990年第439號法律公告</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438411127363_044" name="c" temporalId="s25A_2_c"><num value="c">(c)</num><content>如建築事務監督已根據《建築物(衞生設備標準、水管裝置、排水工程及廁所)規例》(<ref href="/hk/cap123I">第123章，附屬法例I</ref>)<ref>第10A(3)(c)條</ref>准許或指示將並非來自水務設施或建築物用地內水井的供水，接駁至該建築物，則就該建築工程委任的認可人士發出的證明書，表明該供水已按照《建築物(衞生設備標準、水管裝置、排水工程及廁所)規例》(<ref href="/hk/cap123I">第123章，附屬法例I</ref>)<ref>第10A條</ref>，永久接駁至該建築物。</content></paragraph></subsection><subsection id="ID_1438411127363_051" name="3" temporalId="s25A_3"><num value="3">(3)</num><content>水務監督須在接獲要求發出根據本條所需的證明書的書面申請後10天內，發出證明書。</content></subsection><sourceNote>(<ref href="/hk/1966/ln63">1966年第63號法律公告</ref>；<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>)</sourceNote></section><section id="ID_1438402644399_001" name="s26" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s26"><num value="26">26.</num><heading>註冊承建商及認可人士須在街道工程完成時發出證明書</heading><subsection id="ID_1438411127426_004" name="1" temporalId="s26_1"><num value="1">(1)</num><content>就任何街道工程委任的註冊一般建築承建商或註冊專門承建商須在該街道工程完成後7天內，在指明的表格內證明該工程是按照本條例及規例的條文進行的，並須在上述7天內將該證明書交付就該街道工程委任的認可人士。</content></subsection><subsection id="ID_1438411127426_012" name="2" temporalId="s26_2"><num value="2">(2)</num><content>就任何街道工程委任的認可人士須在該街道工程完成後14天內，在就該街道工程委任的註冊一般建築承建商或註冊專門承建商按照第(1)款向他交付的指明的表格內，證明該工程是按照建築事務監督就該工程批准的圖則進行的，並須在上述14天內將證明書送交建築事務監督。</content><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>；<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>)</sourceNote></subsection></section><section id="ID_1438402644399_003" name="s27" reason="repealed" role="regulation" startPeriod="1997-06-30" status="repealed" temporalId="s27"><num value="27">27.</num><sourceNote>(由<ref href="/hk/1990/ln438">1990年第438號法律公告</ref>廢除)</sourceNote></section><section id="ID_1438402644415_002" name="s28" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s28"><num value="28">28.</num><heading>就緊急工程聘用的認可人士、註冊結構工程師、註冊岩土工程師及註冊承建商須發出證明書</heading><content>每名受聘監督任何緊急工程的認可人士、註冊結構工程師及註冊岩土工程師，以及每名受聘進行任何緊急工程的註冊一般建築承建商、註冊專門承建商及註冊小型工程承建商，須於受聘後48小時內在為施行本條例<ref>第19條</ref>而指明的表格內，證明他已受聘。</content><sourceNote class="align_justified left_indent_40 first_line_indent_0">(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>；<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第48條</ref>；<ref href="/hk/2008/20">2008年第20號第38條</ref>)</sourceNote></section></part><part id="ID_1438402644430_002" name="P4" reason="inEffect" startPeriod="2012-02-09" status="operational" temporalId="P4"><num value="4">第4部</num><heading>關於批准圖則和同意展開建築工程及街道工程的程序</heading><section id="ID_1438402644446_001" name="s29" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s29"><num value="29">29.</num><heading>要求批准的申請</heading><subsection id="ID_1438411127488_004" name="1" temporalId="s29_1"><num value="1">(1)</num><content>除<ref>第33條</ref>另有規定外，要求批准建築工程或街道工程圖則的申請，須以指明的表格提出，並須附同根據本規例所需的文件。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1961/gna97">1961年A97號政府公告</ref>；<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>)</sourceNote></content><content></content></subsection><subsection id="ID_1490176365076_001" name="1A" temporalId="s29_1A"><num value="1A">(1A)</num><content>建築事務監督可就根據第(1)款提出的申請向申請人收取訂明費用。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1991/ln120">1991年第120號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127488_019" name="2" temporalId="s29_2"><num value="2">(2)</num><content>除<ref>第11A條</ref>另有規定外，上述任何一份或多於一份的圖則可分開呈交批准。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1982/ln233">1982年第233號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127488_027" name="3" temporalId="s29_3"><num value="3">(3)</num><content>在不損害<ref>第30(3)條</ref>的原則下，因建築事務監督根據本條例第<ref>16(1)(i)</ref>或<ref>(2)(f)</ref>條拒絕給予批准而呈交進一步詳情或其他圖則，須當作就建築事務監督所拒絕批准的圖則重新提出申請。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1971/ln152">1971年第152號法律公告</ref>；<ref href="/hk/1973/ln121">1973年第121號法律公告</ref>)</sourceNote></content></subsection></section><section id="ID_1438402644462_002" name="s30" reason="inEffect" role="regulation" startPeriod="2022-03-31" status="operational" temporalId="s30"><num value="30">30.</num><heading>圖則的批准</heading><subsection id="ID_1639452834818_001" name="1" temporalId="s30_1"><num value="1">(1)</num><leadIn>建築事務監督對向其呈交的圖則作出的批准，須以下述方式示明 ——</leadIn><paragraph id="ID_1639452834819_002" name="a" temporalId="s30_1_a"><num value="a">(a)</num><content>向申請該批准的人送達書面通知；及</content></paragraph><paragraph id="ID_1639452834820_003" name="b" temporalId="s30_1_b"><num value="b">(b)</num><content>在該圖則(結構計算資料或岩土計算資料除外)上蓋印、簽署和註明日期。
+                    <sourceNote>(<ref href="hk/2021/ln222">2021年第222號法律公告</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1639452834824_004" name="1A" temporalId="s30_1A"><num value="1A">(1A)</num><content>凡圖則的批准按照第<ref>(1)(b)</ref>款示明，則該圖則須交還有關的認可人士、註冊結構工程師或註冊岩土工程師，或向任何上述的人提供。
+                    <sourceNote>(<ref href="hk/2021/ln222">2021年第222號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127551_027" name="2" temporalId="s30_2"><num value="2">(2)</num><content>建築事務監督可在接獲申請後，就已呈交的任何一份或多於一份的圖則分開給予批准。</content></subsection><subsection id="ID_1438411127551_035" name="3" temporalId="s30_3"><num value="3">(3)</num><leadIn>就本條例<ref>第15條</ref>而言，在以下期限過後須當作建築事務監督已批准向他呈交的圖則 ——</leadIn><paragraph id="ID_1438411127551_043" name="a" temporalId="s30_3_a"><num value="a">(a)</num><content>如屬首次呈交建築事務監督批准的圖則，則為自呈交圖則的日期起計60天；</content></paragraph><paragraph id="ID_1438411127551_051" name="b" temporalId="s30_3_b"><num value="b">(b)</num><content>如任何圖則以往曾呈交建築事務監督批准，在再次呈交他批准時經大幅度修訂，以致建築事務監督認為該等圖則經重大修訂，則為自最近一次呈交該等圖則的日期起計60天；</content></paragraph><paragraph id="ID_1438411127551_059" name="c" temporalId="s30_3_c"><num value="c">(c)</num><content>如屬以往曾呈交建築事務監督批准而再次呈交他批准的任何其他圖則，則為自最近一次呈交該等圖則的日期起計30天。
+                    <sourceNote>(<ref href="/hk/1973/ln121">1973年第121號法律公告</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411127551_066" name="4" temporalId="s30_4"><num value="4">(4)</num><content>如建築事務監督認為再次呈交他批准的圖則對以往呈交他批准的圖則作出重大修訂，則他須在自最近一次呈交該等圖則的日期起計不遲於30天內，通知獲委任的認可人士、註冊結構工程師或註冊岩土工程師。
+                <sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第49條</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127551_074" name="5...6" temporalId="s30_5...6"><num value="5...6">(5)-(6)</num><sourceNote>(由<ref href="/hk/1982/ln233">1982年第233號法律公告</ref>廢除)</sourceNote></subsection></section><section id="ID_1438402644477_001" name="s31" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s31"><num value="31">31.</num><heading>要求同意展開工程的申請</heading><subsection id="ID_1438411127582_004" name="1" temporalId="s31_1"><num value="1">(1)</num><content>除第(2)款另有規定外，要求建築事務監督同意展開任何經批准圖則所顯示的任何建築工程或街道工程的申請，須以指明的表格提出。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>；<ref href="/hk/1997/ln608">1997年第608號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127582_012" name="2" temporalId="s31_2"><num value="2">(2)</num><content>要求建築事務監督同意展開任何拆卸工程的申請，必須附同會在該拆卸工程中操作所擬使用的任何動力機械裝置或裝備的人的個人詳情、資格及經驗。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>；<ref href="/hk/1997/ln608">1997年第608號法律公告</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>)</sourceNote></section><section id="ID_1438402644477_003" name="s32" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s32"><num value="32">32.</num><heading>同意展開工程</heading><subsection id="ID_1438411127597_028" name="1" temporalId="s32_1"><num value="1">(1)</num><content>建築事務監督同意展開任何建築工程或街道工程，須藉向提出申請的人送達的書面通知示明。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127597_036" name="2" temporalId="s32_2"><num value="2">(2)</num><content>建築事務監督可同意展開任何建築工程中有關的圖則已獲批准的任何部分。</content></subsection><subsection id="ID_1438411127597_044" name="3" temporalId="s32_3"><num value="3">(3)</num><content>本條例<ref>第15條</ref>所提述的關於當作已給予同意的期限為28天。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1964/ln136">1964年第136號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127597_052" name="4...5" temporalId="s32_4...5"><num value="4...5">(4)-(5)</num><sourceNote>(由<ref href="/hk/1982/ln233">1982年第233號法律公告</ref>廢除)</sourceNote></subsection></section><section id="ID_1438402644508_001" name="s32A" reason="repealed" role="regulation" startPeriod="1997-06-30" status="repealed" temporalId="s32A"><num value="32A">32A.</num><sourceNote>(由<ref href="/hk/1982/ln233">1982年第233號法律公告</ref>廢除)</sourceNote></section><section id="ID_1438402644508_003" name="s33" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s33"><num value="33">33.</num><heading>建築工程及街道工程的改動或加建</heading><subsection id="ID_1438411127644_004" name="1" temporalId="s33_1"><num value="1">(1)</num><leadIn>凡欲對任何已獲同意展開的建築工程或街道工程作改動或加建，須向建築事務監督提出書面申請，並須附同 ——</leadIn><paragraph id="ID_1438411127644_012" name="a" temporalId="s33_1_a"><num value="a">(a)</num><content>顯示該項改動或加建的圖則；及</content></paragraph><paragraph id="ID_1438411127644_020" name="b" temporalId="s33_1_b"><num value="b">(b)</num><content>根據<ref>第32(1)條</ref>就該等建築工程或街道工程所給予的同意通知。<sourceNote>(<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>)</sourceNote></content></paragraph></subsection><subsection name="1" temporalId="s33_1" id="ID_1461222192047_001"><num value="1A">(1A) </num><content>建築事務監督可就根據第(1)款提出的申請，向申請人收取訂明費用。<sourceNote>(<ref href="/hk/1991/ln120">1991年第120號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127644_034" name="2" temporalId="s33_2"><num value="2">(2)</num><content>本條例<ref>第15條</ref>的條文適用於該等申請，而當作已給予同意的期限為28天。</content></subsection><subsection id="ID_1438411127644_042" name="3" temporalId="s33_3"><num value="3">(3)</num><leadIn>建築事務監督可就根據本條所呈交的圖則給予批准，並可同意展開其內所顯示的建築工程或街道工程，而他須以下述方式示明該等批准及同意 ——</leadIn><paragraph id="ID_1438411127644_050" name="a" temporalId="s33_3_a"><num value="a">(a)</num><content>以<ref>第30條</ref>所訂明的方式在呈交的圖則上示明；及</content></paragraph><paragraph id="ID_1438411127644_058" name="b" temporalId="s33_3_b"><num value="b">(b)</num><content>在同意通知書中的圖則列表內加入該等圖則。<sourceNote>(<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>)</sourceNote></content></paragraph></subsection></section><section id="ID_1438402644524_002" name="s34" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s34"><num value="34">34.</num><heading>同意恢復暫停的工程</heading><content>凡建築事務監督根據本條例<ref>第20條</ref>的條文，重新同意展開任何建築工程或街道工程，他須在關於該等建築工程或街道工程的同意通知書上加上重新同意的附註。</content><sourceNote>(<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>)</sourceNote></section></part><part id="ID_1438402644540_001" name="P5" reason="inEffect" startPeriod="2012-02-09" status="operational" temporalId="P5"><num value="5">第5部</num><heading>就建築工程或街道工程委任的認可人士、註冊結構工程師或註冊岩土工程師及註冊承建商的職責</heading><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第50條</ref>)</sourceNote><section id="ID_1438402644555_001" name="s35" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s35"><num value="35">35.</num><heading>本部所施加的職責對本條例或其他規例所施加的任何其他職責並無損害</heading><content>本部的規例施加於就建築工程或街道工程委任的認可人士、註冊結構工程師、註冊岩土工程師、註冊一般建築承建商、註冊專門承建商或註冊小型工程承建商的職責，對本條例或規例的任何其他條文施加於該認可人士、註冊結構工程師、註冊岩土工程師、註冊一般建築承建商、註冊專門承建商或註冊小型工程承建商的任何職責並無損害。</content><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第51條</ref>；<ref href="/hk/2008/20">2008年第20號第39條</ref>)</sourceNote></section><crossHeading class="tied-tag-crossHeading-center add-toc font_size_13">認可人士、註冊結構工程師或註冊岩土工程師</crossHeading><sourceNote startPeriod="2012-02-09">(<ref href="/hk/2004/15">2004年第15號第52條</ref>)</sourceNote><section id="ID_1438402644571_001" name="s36" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s36"><num value="36">36.</num><heading>認可人士向註冊承建商提供建築工程或街道工程圖則文本的職責</heading><subsection id="ID_1438411127722_032" name="1" temporalId="s36_1"><num value="1">(1)</num><content>就任何建築工程或街道工程委任的認可人士，須向就該工程委任的註冊一般建築承建商、註冊專門承建商及註冊小型工程承建商提供建築事務監督就該建築工程或街道工程(視屬何情況而定)批准並經由建築事務監督按照<ref>第30條</ref>蓋印、簽署和註明日期的每一份圖則的文本，以及該建築工程或街道工程(視屬何情況而定)的每一份監工計劃書的文本。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127738_005" name="2" temporalId="s36_2"><num value="2">(2)</num><content>如結構詳圖或岩土詳圖由註冊結構工程師或註冊岩土工程師(視屬何情況而定)製備，並經建築事務監督批准，則認可人士有責任確保註冊一般建築承建商、註冊專門承建商及註冊小型工程承建商獲提供該詳圖文本一份。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第53條</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>；<ref href="/hk/2008/20">2008年第20號第40條</ref>)</sourceNote></section><section id="ID_1438402644586_001" name="s37" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s37"><num value="37">37.</num><heading>認可人士、註冊結構工程師或註冊岩土工程師的職責</heading><subsection id="ID_1438411127816_004" name="1" temporalId="s37_1"><num value="1">(1)</num><content>就任何建築工程或街道工程委任的認可人士，須作出所需的定期監督和進行所需的檢查，以確保該建築工程或街道工程的進行大致上是按照本條例及規例的條文和建築事務監督就該建築工程或街道工程所批准的圖則的，並且是遵從根據本條例<ref>第39A條</ref>發出的技術備忘錄而製備的監工計劃書(如有需要)以及建築事務監督依據本條例或規例任何有關上述各方面的條文所作的任何命令或施加的任何條件的。<marker role="section-break"></marker></content></subsection><subsection id="ID_1438411127816_012" name="2" temporalId="s37_2"><num value="2">(2)</num><content>就任何建築工程或街道工程委任的註冊結構工程師或註冊岩土工程師，須作出所需的定期監督和進行所需的檢查，以確保該結構工程或岩土工程(視屬何情況而定)的進行大致上是按照本條例及規例的條文和建築事務監督就該結構工程或岩土工程(視屬何情況而定)所批准的圖則的，並且是遵從根據本條例<ref>第39A條</ref>發出的技術備忘錄而製備的監工計劃書(如有需要)以及建築事務監督依據本條例或規例任何有關上述各方面的條文所作的任何命令或施加的任何條件的。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/2004/15">2004年第15號第54條</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127816_020" name="3" temporalId="s37_3"><num value="3">(3)</num><content>凡任何認可人士、註冊結構工程師及註冊岩土工程師根據本條例<ref>第4條</ref>就任何地盤而獲委任，如需要有監工計劃書，則該認可人士、註冊結構工程師及註冊岩土工程師須各自委任適當數目的適任技術人員，在每個該等地盤作出監工計劃書所規定的監督。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/2004/15">2004年第15號第54條</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127816_028" name="4" temporalId="s37_4"><num value="4">(4)</num><content>凡任何人根據第(3)款獲委任為適任技術人員，如建築事務監督不信納該人具備足夠的資格或經驗，以執行該人須執行的職責，則建築事務監督具有權力拒絕或撤銷該人的委任。</content></subsection><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>)</sourceNote></section><section id="ID_1438402644586_003" name="s38" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s38"><num value="38">38.</num><heading>認可人士或註冊結構工程師將<ref>第24條</ref>所指的通知呈交建築事務監督的職責</heading><content>就任何建築工程或街道工程委任的認可人士，須在接獲任何根據<ref>第24條</ref>交付給他的致建築事務監督通知後7天之內，將該通知呈交建築事務監督。</content><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/1990/ln438">1990年第438號法律公告</ref>)</sourceNote></section><section id="ID_1438402644618_001" name="s39" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s39"><num value="39">39.</num><heading>在建築工程或街道工程完成後進行額外檢查的費用</heading><content>任何建築工程或街道工程完成後，建築事務監督如認為因有任何違反本條例或規例的條文的情況或因任何資料不正確而有需要對該工程進行多於一次的檢查，則可要求就該工程委任的認可人士、註冊結構工程師或註冊岩土工程師就每次額外檢查繳付訂明費用。</content><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第55條</ref>)</sourceNote></section><crossHeading class="tied-tag-crossHeading-center add-toc font_size_13">註冊承建商</crossHeading><section id="ID_1438402644618_003" name="s40" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s40"><num value="40">40.</num><heading>註冊承建商在地盤備存經批准圖則及監工計劃書的職責</heading><content>就某項建築工程或街道工程委任的註冊一般建築承建商、註冊專門承建商及註冊小型工程承建商，須在建築工程或街道工程地盤備存就該工程委任的認可人士、註冊結構工程師或註冊岩土工程師按照<ref>第36條</ref>的條文向他提供的所有建築工程或街道工程圖則及監工計劃書，並須於建築事務監督提出要求時向他交出該等圖則及監工計劃書。</content><sourceNote class="align_justified left_indent_40 first_line_indent_0">(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第56條</ref>；<ref href="/hk/2008/20">2008年第20號第41條</ref>)</sourceNote></section><section id="ID_1438402644649_001" name="s41" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s41"><num value="41">41.</num><heading>註冊承建商監督的職責</heading><subsection id="ID_1438411127941_011" name="1" temporalId="s41_1"><num value="1">(1)</num><content>就某項建築工程或街道工程委任的註冊一般建築承建商、註冊專門承建商及註冊小型工程承建商，須在該工程進行期間對該工程不斷監督，以確保該建築工程或街道工程(視屬何情況而定)的進行，是按照本條例及規例的條文、就該工程所批准的圖則、建築事務監督依據本條例或規例任何有關該方面的條文所作的任何命令或施加的任何條件，以及遵從根據本條例<ref>第39A條</ref>發出的技術備忘錄而製備的監工計劃書(如有需要)進行。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127956_005" name="2" temporalId="s41_2"><num value="2">(2)</num><content>凡任何註冊一般建築承建商、註冊專門承建商及註冊小型工程承建商根據本條例<ref>第9</ref>或<ref>9AA條</ref>就任何地盤而獲委任，如需要有監工計劃書，則該註冊一般建築承建商、註冊專門承建商及註冊小型工程承建商須各自委任適當數目的適任技術人員，在每個該等地盤作出監工計劃書所規定的監督。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127956_013" name="3" temporalId="s41_3"><num value="3">(3)</num><content>凡任何人根據第(2)款獲委任為適任技術人員，如建築事務監督不信納該人具備足夠的資格或經驗，以執行該人須執行的職責，則建築事務監督具有權力拒絕或撤銷該人的委任。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127956_021" name="4" temporalId="s41_4"><num value="4">(4)</num><content>就某地盤獲委任的註冊一般建築承建商、註冊專門承建商及註冊小型工程承建商，須備存與該地盤的建築工程或街道工程的監督有關的活動紀錄及資料。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>)</sourceNote><marker role="section-break"></marker></content></subsection><subsection id="ID_1438411127956_029" name="5" temporalId="s41_5"><num value="5">(5)</num><content>建築事務監督可在任何合理時間，查閱根據第(4)款規定須備存的紀錄及資料。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>)</sourceNote></content></subsection><subsection id="ID_1438411127956_037" name="6" temporalId="s41_6"><num value="6">(6)</num><content>註冊一般建築承建商、註冊專門承建商及註冊小型工程承建商須在有關地盤的建築工程或街道工程的最後階段完成時呈交有關證明書後，保存根據第(4)款規定須備存的紀錄及資料至少12個月。<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/2008/20">2008年第20號第42條</ref>)</sourceNote></section></part><part id="ID_1438402644649_003" name="P6" reason="inEffect" startPeriod="2012-02-09" status="operational" temporalId="P6"><num value="6">第6部</num><heading>費用及表格</heading><section id="ID_1438402644696_001" name="s42" reason="inEffect" role="regulation" startPeriod="2015-07-20" status="operational" temporalId="s42"><num value="42">42.</num><heading>費用</heading><leadIn>為施行本條例及規例，現訂明下表所列的費用 ——</leadIn><text class="font_size_8.5 align_center">收費表</text><text>
+            
+            
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" class="font_size_8.5 repeat_header">
+                <col width="6%"></col>
+                <col width="6%"></col>
+                <col width="8%"></col>
+                <col width="32%"></col>
+                <col width="30%"></col>
+                <col width="18%"></col>
+                <thead>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">須繳費的人 </center>
+                        </td>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">款額</center>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                    
+                    
+                    <tr>
+                        <td>1.</td>
+                        <td>(a)</td>
+                        
+                        <td class="align_right cellpadding_right_9">(i) </td>
+                        
+                        <td class="cellpadding_right_9 cellpadding_bottom_6 ">每項要求將姓名列入認可人士名冊中任何一份名單或結構工程師名冊或岩土工程師名冊的申請。</td>
+                        
+                        <td class="cellpadding_right_9 ">申請將姓名列入名冊的人。</td>
+                        <td>$6,200</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(ii) </td>
+                        
+                        <td colspan="1" class="cellpadding_right_9 cellpadding_bottom_6 ">每次將姓名列入認可人士名冊中任何一份名單或結構工程師名冊或岩土工程師名冊。<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        
+                        <td class="cellpadding_right_9 ">成功獲得批准並謀求將姓名列入名冊的人。</td>
+                        <td>$485
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(b) </td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 cellpadding_bottom_6 ">每項要求將姓名保留於認可人士名冊中任何一份名單或結構工程師名冊或岩土工程師名冊的申請。<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        
+                        <td class="cellpadding_right_9 ">謀求將姓名保留於名冊的認可人士或註冊結構工程師或註冊岩土工程師。</td>
+                        <td>每次保留姓名為期5年$1,350。</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(c) </td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 cellpadding_bottom_6 ">每項要求將姓名重新列入認可人士名冊中任何一份名單或結構工程師名冊或岩土工程師名冊的申請。</td>
+                        
+                        <td class="cellpadding_right_9 ">謀求將姓名重新列入名冊的人。</td>
+                        <td>$210</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td colspan="4" class="align_right"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2000/39">2000年第39號第7條</ref>；<ref href="/hk/2004/15">2004年第15號第57條</ref>；<ref href="/hk/2004/ln221">2004年第221號法律公告</ref>；<ref href="/hk/2015/ln93">2015年第93號法律公告</ref>)</sourceNote></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td colspan="4">
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>1A.</td>
+                        <td>(a)</td>
+                        
+                        <td class="align_right cellpadding_right_9">(i) </td>
+                        
+                        <td colspan="1" class="cellpadding_right_9 cellpadding_bottom_6 ">每項由<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">第3(7AA)條</ref>提<br></br>述的人要求將姓名列入檢驗人員名冊中任何一份名單的申請。</td>
+                        
+                        <td class="cellpadding_right_9 ">申請將姓名列入名冊的人。</td>
+                        <td>$990</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(ii) </td>
+                        
+                        <td colspan="1" class="cellpadding_right_9 cellpadding_bottom_6 ">每項要求將姓名列入檢驗人員名冊中任何一份名單的申請(第(i)節提述者除外)。</td>
+                        
+                        <td class="cellpadding_right_9 ">申請將姓名列入名冊的人。</td>
+                        <td>$4,400</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(iii) </td>
+                        
+                        <td colspan="1" class="cellpadding_right_9 cellpadding_bottom_6 ">每次將姓名列入檢驗人員名冊中任何一份名單。</td>
+                        
+                        <td class="cellpadding_right_9 ">成功獲得批准並謀求將姓名列入名冊的人。</td>
+                        
+                        <td class="cellpadding_bottom_6 ">每次列入姓名為期5年$1,580。</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(b) </td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 cellpadding_bottom_6 ">每項要求將姓名保留於檢驗人員名冊中任何一份名單的申請。</td>
+                        
+                        <td class="cellpadding_right_9 ">謀求將姓名保留於名冊的註冊檢驗人員。</td>
+                        
+                        <td class="cellpadding_bottom_6 ">每次保留姓名為期5年$1,240。</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(c) </td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 cellpadding_bottom_6 ">每項要求將姓名重新列入檢驗人員名冊中任何一份名單的申請。</td>
+                        
+                        <td class="cellpadding_right_9 ">謀求將姓名重新列入名冊的人。</td>
+                        
+                        <td class="cellpadding_bottom_6 ">每次重新名列於名冊為期5年$1,550。</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="5" class="align_right"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2011/16">2011年第16號第38條</ref>；<ref href="/hk/2015/ln93">2015
+                                    年第93號法律公告</ref>)</sourceNote></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="5" class="align_right">
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>2.</td>
+                        <td>(a) </td>
+                        
+                        <td colspan="2" class="cellpadding_bottom_6 ">申請註冊為一般建築承建商 ——</td>
+                        
+                        <td class="cellpadding_right_3 ">謀求註冊的人。</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(i) </td>
+                        
+                        <td class="cellpadding_right_9 cellpadding_bottom_6 ">須就以個人身分申請的申請人(凡申請人是合夥或法團，則指就由申請人委任以代其行事的首名人士)繳付的基本費用；</td>
+                        <td class="cellpadding_right_3"></td>
+                        <td>$7,030</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(ii) </td>
+                        
+                        <td class="cellpadding_right_9 cellpadding_bottom_6 ">凡申請人是合夥或法團，則在上述基本費用以外，須就每名額外的已在申請之中委任以代申請人行事的人繳付的費用。</td>
+                        <td class="cellpadding_right_3"></td>
+                        <td>$5,800</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(b) </td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 ">將姓名或名稱記入一般建築承建商名冊。</td>
+                        
+                        <td class="cellpadding_right_9 ">謀求記入名冊的人。</td>
+                        
+                        <td class="cellpadding_bottom_6 ">為期3年的註冊的費用為$1,460。</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(c) </td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 ">將一般建築承建商名冊中的註冊續期。</td>
+                        
+                        <td class="cellpadding_right_9 ">謀求續期的人。</td>
+                        
+                        <td class="cellpadding_bottom_6 ">將註冊續期3年的費用為$2,460。</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(d) </td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 ">申請將已自名冊除名的一般建築承建商的姓名或名稱重新列入該名冊。</td>
+                        
+                        <td class="cellpadding_right_9 ">謀求將姓名或名稱重新列入名冊的人。</td>
+                        
+                        <td class="cellpadding_bottom_6 ">重新名列於名冊的費用為$1,220，為期3年的註冊的費用為$1,460。<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(e) </td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 cellpadding_bottom_6 ">在屬合夥或法團的註冊一般建築承建商在其註冊(包括已續期或重新列入名冊的註冊)的有效期屆滿前的任何時間，委任任何人以代其行事(不論此委任是取代某已獲委任的人或是增加獲委任的人數)的情況下，須就每項要求批准每名如此委任的人的申請繳付的費用。</td>
+                        
+                        <td class="cellpadding_right_9 ">註冊一般建築承建商。</td>
+                        <td>$6,100</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        
+                        <td colspan="5" class="align_right"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/1997/ln441">1997年第441號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第57條</ref>；<ref href="/hk/2004/ln221">2004年第221號法律公告</ref>；<ref href="/hk/2015/ln93">2015年第93號法律公告</ref>)</sourceNote></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="5" class="align_right">
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>3-4.</td>
+                        <td colspan="5"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(由<ref href="/hk/1987/43">1987年第43號第44條</ref>廢除)</sourceNote></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="5">
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>4A.</td>
+                        <td>(a) </td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 cellpadding_bottom_6 ">就申請中所指明的專門承建商名冊中的每一分冊，申請註冊為專門承建商 ——</td>
+                        
+                        <td class="cellpadding_right_9">謀求註冊的人。</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(i) </td>
+                        
+                        <td class="cellpadding_right_9 cellpadding_bottom_6 ">須就以個人身分申請的申請人(凡申請人是合夥或法團，則指就由申請人委任以代其行事的首名人士)繳付的基本費用；</td>
+                        <td class="cellpadding_right_3"></td>
+                        <td>$7,030</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(ii) </td>
+                        
+                        <td class="cellpadding_right_9 cellpadding_bottom_6 ">凡申請人是合夥或法團，則在上述基本費用以外，須就每名額外的已在申請之中委任以代申請人行事的人繳付的費用。<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        <td class="cellpadding_right_3"></td>
+                        <td>$5,800</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(b) </td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 cellpadding_bottom_6 ">將姓名或名稱記入在申請中指明的專門承建商名冊中的每一分冊。</td>
+                        
+                        <td class="cellpadding_right_9 ">謀求記入分冊的人。</td>
+                        
+                        <td class="cellpadding_bottom_6 ">為期3年的註冊的費用為$1,460。</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(c) </td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 cellpadding_bottom_6 ">將專門承建商名冊中的每一分冊的註冊續期。</td>
+                        
+                        <td class="cellpadding_right_9">謀求續期的人。</td>
+                        
+                        <td class="cellpadding_bottom_6 ">將註冊續期3年的費用為$2,460。</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(d) </td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 cellpadding_bottom_6 ">申請將已自專門承建商名冊中的某一分冊除名的專門承建商的姓名或名稱重新列入該分冊。</td>
+                        
+                        <td class="cellpadding_right_9 ">謀求將姓名或名稱重新列入分冊的人。</td>
+                        
+                        <td class="cellpadding_bottom_6 ">重新名列於分冊的費用為$1,220，為期3年的註冊的費用為$1,460。</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(e) </td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 cellpadding_bottom_6 ">在屬合夥或法團的註冊專門承建商在其註冊(包括已續期或重新列入分冊的註冊)的有效期屆滿前的任何時間，委任任何人以代其行事(不論此委任是取代某已獲委任的人或是增加獲委任的人數)的情況下，須就每項要求批准每名如此委任的人的申請繳付的費用。</td>
+                        
+                        <td class="cellpadding_right_9 ">註冊專門承建商。</td>
+                        <td>$6,100</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        
+                        <td colspan="5" class="align_right"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/1997/ln441">1997年第441號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第57條</ref>；<ref href="/hk/2004/ln221">2004年第221號法律公告</ref>；<ref href="/hk/2015/ln93">2015年第93號法律公告</ref>)</sourceNote></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="5">
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>5.</td>
+                        <td colspan="5"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(由<ref href="/hk/1992/ln79">1992年第79號法律公告</ref>廢除)</sourceNote></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="5">
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>6.</td>
+                        <td colspan="5"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(由<ref href="/hk/1996/54">1996年第54號第26條</ref>廢除)</sourceNote></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="5">
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>7.</td>
+                        
+                        <td colspan="3" class="cellpadding_right_9 cellpadding_bottom_6 ">為施行<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">第6(2)</ref>、<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">29</ref>及<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">33條</ref>
+                            ——</td>
+                        
+                        <td class="cellpadding_right_9"></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        
+                        <td colspan="3" class="cellpadding_right_9 cellpadding_bottom_6">再呈交圖則</td>
+                        
+                        <td class="cellpadding_right_9">——</td>
+                        <td>免費</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        
+                        <td colspan="3" class="cellpadding_right_9 cellpadding_bottom_6 ">就本項而言，再呈交圖則指 ——</td>
+                        <td class="cellpadding_right_3"></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_6">(i)</td>
+                        
+                        <td colspan="4" class="cellpadding_bottom_6 ">根據<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">第6(2)條</ref>進一步呈交建築工程圖則或經批准圖則的修訂圖則；或</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_6">(ii)</td>
+                        
+                        <td colspan="4" class="cellpadding_bottom_6 ">根據<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">第29</ref>或<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">33條</ref>呈交經批准的建築工程圖則的修訂圖則。</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="5" class="align_right"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="align_right">(<ref href="/hk/1991/ln220">1991年第220號法律公告</ref>；<ref href="/hk/1992/ln185">1992年第185號法律公告</ref>)</sourceNote></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="5" class="align_right">
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>7A.</td>
+                        
+                        <td colspan="4" class="cellpadding_right_9  cellpadding_bottom_6">為施行<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">第29</ref>及<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">33條</ref> ——</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(a)</td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 cellpadding_bottom_6 ">就下列各項的建築工程的新圖則或對該圖則作出重大修訂 ——</td>
+                        
+                        
+                        <td></td>
+                        
+                        
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(i) </td>
+                        
+                        <td class="cellpadding_right_9 cellpadding_bottom_6 ">總樓面面積為20
+                            000平方米或以下的擬建新工業建築物</td>
+                        
+                        <td class="cellpadding_right_9">申請人</td>
+                        
+                        <td class="cellpadding_bottom_6 ">每100平方米為$2,740，不足100平方米亦作100平方米計，但最低收費為$10,400</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(ii) </td>
+                        
+                        <td class="cellpadding_right_9 cellpadding_bottom_6 ">總樓面面積多於20
+                            000平方米的擬建新工業建築物</td>
+                        
+                        <td class="cellpadding_right_9">申請人</td>
+                        
+                        <td class="cellpadding_bottom_6 ">每100平方米為$2,200，不足100平方米亦作100平方米計，但最低收費為$547,100<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(iii) </td>
+                        
+                        <td class="cellpadding_right_9 cellpadding_bottom_6 ">總樓面面積無須計算的擬建新建築物，例如電力變壓站、貯油裝置、加油站、突堤式碼頭或相類的構築物</td>
+                        
+                        <td class="cellpadding_right_9">申請人</td>
+                        
+                        <td class=" cellpadding_bottom_6 ">圖則每841毫米乘594毫米面積為$14,200，不足該面積者亦作該面積計
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/1992/ln185">1992年第185號法律公告</ref>)</sourceNote></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(iv)</td>
+                        
+                        <td colspan="3" class="cellpadding_bottom_6"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(由<ref href="/hk/1992/ln185">1992年第185號法律公告</ref>廢除)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(v) </td>
+                        
+                        <td class="cellpadding_right_9 cellpadding_bottom_6 ">總樓面面積為10
+                            000平方米或以下的擬建新非工業建築物</td>
+                        
+                        <td class="cellpadding_right_9">申請人</td>
+                        
+                        <td class="cellpadding_bottom_6 ">每100平方米為$4,340，不足100平方米亦作100平方米計，但最低收費為$10,350</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(vi) </td>
+                        
+                        <td class="cellpadding_right_9 cellpadding_bottom_6 ">總樓面面積多於10
+                            000平方米的擬建新非工業建築物</td>
+                        
+                        <td class="cellpadding_right_9">申請人</td>
+                        
+                        <td class="cellpadding_bottom_6 ">每100平方米為$3,480，不足100平方米亦作100平方米計，但最低收費為$434,400</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td colspan="4" class="cellpadding_bottom_6 ">
+                            <content xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="工業建築物" class="left_indent_0 first_line_indent_0">就本段而言，<term>工業建築物</term>
+                                    (<term xml:lang="en">industrial
+                                building</term>)包括工廠、工場及貨倉。</content>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(b) </td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 cellpadding_bottom_6 ">改動及加建工程或其他並無建成新建築物的建築工程的新圖則或對該圖則作出重大修訂。</td>
+                        
+                        <td class="cellpadding_right_9">申請人</td>
+                        
+                        <td class="cellpadding_bottom_6 ">圖則每841毫米乘594毫米的面積為$14,200，不足該面積者亦作該面積計</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        
+                        <td colspan="5" class="align_right "><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/1991/ln220">1991年第220號法律公告</ref>；<ref href="/hk/1992/ln185">1992年第185號法律公告</ref>；<ref href="/hk/1993/ln355">1993年第355號法律公告</ref>；<ref href="/hk/1994/ln366">1994年第366號法律公告</ref>；<ref href="/hk/1995/ln269">1995年第269號法律公告</ref>；<ref href="/hk/2014/ln75">2014年第75號法律公告</ref>)</sourceNote></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="5" class="align_right">
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>8.</td>
+                        
+                        <td colspan="3" class="cellpadding_right_9 ">就<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">第39條</ref>而言。</td>
+                        
+                        <td class="cellpadding_right_9 cellpadding_bottom_6 ">認可人士或註冊結構工程師或註冊岩土工程師。</td>
+                        <td>$2,420</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        
+                        <td colspan="5" class="align_right"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/1991/ln209">1991年第209號法律公告</ref>；<ref href="/hk/1994/ln313">1994年第313號法律公告</ref>；<ref href="/hk/1995/ln191">1995年第191號法律公告</ref>；<ref href="/hk/1997/ln442">1997年第442號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第57條</ref>)</sourceNote></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="5" class="align_right">
+                            
+                            
+                            
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>9.</td>
+                        
+                        <td colspan="3" class="cellpadding_right_9 cellpadding_bottom_6 ">就《建築物(衞生設備標準、水管裝置、排水工程及廁所)規例》(<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap123I">第123章，附屬法例I</ref>)<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">第73(5)條</ref>而言。</td>
+                        
+                        <td class="cellpadding_right_9 ">註冊一般建築承建商或註冊專門承建商。</td>
+                        <td>$925</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        
+                        <td colspan="5" class="align_right"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/1991/ln209">1991年第209號法律公告</ref>；<ref href="/hk/1994/ln313">1994年第313號法律公告</ref>；<ref href="/hk/1995/ln191">1995年第191號法律公告</ref>；<ref href="/hk/1997/ln441">1997年第441號法律公告</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    
+                    
+                    
+                </tbody>
+            </table>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" class="font_size_8.5 repeat_header">
+                
+                <col width="6%"></col>
+                
+                <col width="6%"></col>
+                
+                <col width="8%"></col>
+                
+                <col width="16%"></col>
+                
+                <col width="15%"></col>
+                <col width="9%"></col>
+                
+                <col width="2%"></col>
+                
+                <col width="14%"></col>
+                <col width="8%"></col>
+                
+                <col width="2%"></col>
+                
+                <col width="14%"></col>
+                
+                
+                <thead>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td colspan="1">
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">須繳費的人 </center>
+                        </td>
+                        <td colspan="6">
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">款額</center>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                    
+                    <tr>
+                        <td>10.</td>
+                        <td>(a)</td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 cellpadding_bottom_6 ">根據本條例<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">第36G(2)條</ref>發出某文件的經核證的以下形式的文本、副本、印刷本或摘錄，或發出據該文件製作的指明文件紀錄的經核證的以下形式的文本、副本、印刷本或摘錄，而該文件是根據本條例或《1935年建築物條例》(<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/1935/18">1935年第18號</ref>)或為施行任何該等條例而擬備、發出或給予的 ——</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(i) </td>
+                        
+                        <td class="cellpadding_right_9 ">紙張形式<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        
+                        <td class="cellpadding_right_9">申請人</td>
+                        <td>$45</td>
+                        <td rowspan="3">
+                            
+                            <span class="right_brace brace_scale_1000">}</span>
+                        </td>
+                        
+                        <td rowspan="3" class="cellpadding_right_9 ">適用於在緊接發出前沒有依據本條例<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">第36G(3)條</ref>查閱該文件或紀錄的申請人</td>
+                        <td>$8.5</td>
+                        <td rowspan="3">
+                            
+                            
+                            
+                            <span class="right_brace brace_scale_1000">}</span>
+                            
+                            
+                        </td>
+                        
+                        <td rowspan="3" class="cellpadding_right_9 ">適用於在緊接發出前曾依據本條例第36G(3)條查閱該文件或紀錄的申請人</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(ii) </td>
+                        
+                        <td class="cellpadding_right_9 ">微縮影片形式<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        
+                        <td class="cellpadding_right_9">申請人</td>
+                        <td>$45</td>
+                        <td>$8.5</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(iii) </td>
+                        
+                        <td class="cellpadding_right_9  cellpadding_bottom_6">電子形式</td>
+                        
+                        <td class="cellpadding_right_9">申請人 </td>
+                        <td>$45</td>
+                        <td>$8.0</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(b) </td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 cellpadding_bottom_6 ">根據本條例<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">第36G(2)條</ref>發出某圖則的經核證的以下形式的文本、副本、印刷本或摘錄，或發出據該圖則製作的指明文件紀錄的經核證的以下形式的文本、副本、印刷本或摘錄，而該圖則是根據本條例或《1935年建築物條例》(<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/1935/18">1935年第18號</ref>)或為施行任何該等條例向建築事務監督呈交或由建築事務監督批准的 ——
+                            </td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(i) </td>
+                        
+                        <td class="cellpadding_right_9 ">紙張形式<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        
+                        <td class="cellpadding_right_9">申請人</td>
+                        <td>$155</td>
+                        <td rowspan="3">
+                            
+                            <span class="right_brace brace_scale_1000">}</span>
+                        </td>
+                        
+                        <td rowspan="3" class="cellpadding_right_9 ">適用於在緊接發出前沒有依據本條例<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">第36G(3)條</ref>查閱該圖則或紀錄的申請人</td>
+                        <td>$58 </td>
+                        <td rowspan="3">
+                            
+                            
+                            
+                            <span class="right_brace brace_scale_1000">}</span>
+                            
+                            
+                        </td>
+                        
+                        <td rowspan="3" class="cellpadding_right_9 ">適用於在緊接發出前曾依據本條例第<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">36G(3)條</ref>查閱該圖則或紀錄的申請人
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(ii) </td>
+                        
+                        <td class="cellpadding_right_9 ">微縮影片形式
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        
+                        <td class="cellpadding_right_9"> 申請人</td>
+                        <td>$125</td>
+                        <td>$52</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(iii) </td>
+                        
+                        <td class="cellpadding_right_9  cellpadding_bottom_6">電子形式</td>
+                        
+                        <td class="cellpadding_right_9">申請人</td>
+                        <td>$93</td>
+                        <td>$42</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="10" class="align_right"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="align_right">(<ref href="/hk/2004/15">2004年第15號第57條</ref>；<ref href="/hk/2008/20">2008年第20號第43條</ref>)</sourceNote></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="10" class="align_right">
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>11.</td>
+                        <td>(a) </td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 cellpadding_bottom_6 ">根據本條例<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">第36G(1)條</ref>發出某文件的以下形式的文本、副本、印刷本或摘錄，或發出據該文件製作的指明文件紀錄的以下形式的文本、副本、印刷本或摘錄，而該文件是根據本條例或《1935年建築物條例》(<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/1935/18">1935年第18號</ref>)或為施行任何該等條例而擬備、發出或給予的 ——</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(i) </td>
+                        
+                        <td class="cellpadding_right_9 ">紙張形式<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        
+                        <td class="cellpadding_right_9">申請人 </td>
+                        <td>$38</td>
+                        <td rowspan="3">
+                            
+                            <span class="right_brace brace_scale_1000">}</span>
+                        </td>
+                        
+                        <td rowspan="3" class="cellpadding_right_9 ">適用於在緊接發出前沒有依據本條例<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">第36G(3)條</ref>查閱該文件或紀錄的申請人</td>
+                        <td>$1.6</td>
+                        <td rowspan="3">
+                            
+                            
+                            
+                            <span class="right_brace brace_scale_1000">}</span>
+                            
+                            
+                        </td>
+                        
+                        <td rowspan="3" class="cellpadding_right_9 ">適用於在緊接發出前曾依據本條例第<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">36G(3)條</ref>查閱該文件或紀錄的申請人
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(ii) </td>
+                        
+                        <td class="cellpadding_right_9 ">微縮影片形式<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        
+                        <td class="cellpadding_right_9">申請人 </td>
+                        <td>$38 </td>
+                        <td>$1.6</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(iii) </td>
+                        
+                        <td class="cellpadding_right_9  cellpadding_bottom_6">電子形式</td>
+                        
+                        <td class="cellpadding_right_9">申請人 </td>
+                        <td>$38</td>
+                        <td>$1.4 </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(b) </td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 cellpadding_bottom_6 ">根據本條例<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">第36G(1)條</ref>發出某圖則的以下形式的文本、副本、印刷本或摘錄，或發出據該圖則製作的指明文件紀錄的以下形式的文本、副本、印刷本或摘錄，而該圖則是根據本條例或《1935年建築物條例》(<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/1935/18">1935年第18號</ref>)或為施行任何該等條例向建築事務監督呈交或由建築事務監督批准的 ——
+                            </td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(i) </td>
+                        
+                        <td class="cellpadding_right_9 ">紙張形式<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        
+                        <td class="cellpadding_right_9">申請人 </td>
+                        <td>$135</td>
+                        <td rowspan="3">
+                            
+                            <span class="right_brace brace_scale_1000">}</span>
+                        </td>
+                        
+                        <td rowspan="3" class="cellpadding_right_9 ">適用於在緊接發出前沒有依據本條例<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">第36G(3)條</ref>查閱該圖則或紀錄的申請人</td>
+                        <td>$40</td>
+                        <td rowspan="3">
+                            
+                            
+                            
+                            <span class="right_brace brace_scale_1000">}</span>
+                            
+                            
+                        </td>
+                        
+                        <td rowspan="3" class="cellpadding_right_9 ">適用於在緊接發出前曾依據本條例第<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">36G(3)條</ref>查閱該圖則或紀錄的申請人</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(ii) </td>
+                        
+                        <td class="cellpadding_right_9 ">微縮影片形式
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        
+                        <td class="cellpadding_right_9">申請人</td>
+                        <td> $110 </td>
+                        <td>$34 </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(iii) </td>
+                        
+                        <td class="cellpadding_right_9  cellpadding_bottom_6">電子形式</td>
+                        
+                        <td class="cellpadding_right_9">申請人 </td>
+                        <td>$74 </td>
+                        <td>$24</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="10" class="align_right"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="align_right">(<ref href="/hk/2004/15">2004年第15號第57條</ref>；<ref href="/hk/2008/20">2008年第20號第43條</ref>)</sourceNote></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="10" class="align_right">
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>12. </td>
+                        <td>(a)</td>
+                        
+                        <td colspan="2" class="cellpadding_right_9 cellpadding_bottom_6 ">根據本條例<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">第36G(3)條</ref>查閱以下形式的指明文件或指明文件紀錄 ——
+                            </td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9"> (i) </td>
+                        
+                        <td colspan="1" class="cellpadding_right_9 ">紙張形式 </td>
+                        
+                        <td colspan="1" class="cellpadding_right_9">申請人 </td>
+                        
+                        <td colspan="6" class="cellpadding_bottom_6 ">以紙張形式備存於同一檔案的1份或多於1份指明文件或指明文件紀錄，費用為$80</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(ii) </td>
+                        
+                        <td colspan="1" class="cellpadding_right_9 ">微縮影片形式 </td>
+                        
+                        <td colspan="1" class="cellpadding_right_9">申請人 </td>
+                        
+                        <td colspan="6" class="cellpadding_bottom_6 ">原本以紙張形式備存於同一檔案的1份或多於1份指明文件或指明文件紀錄，費用為$58 </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        <td class="align_right cellpadding_right_9">(iii) </td>
+                        
+                        <td colspan="1" class="cellpadding_right_9 ">電子形式</td>
+                        
+                        <td colspan="1" class="cellpadding_right_9">申請人 </td>
+                        
+                        <td colspan="6" class="cellpadding_bottom_6 ">原本以紙張形式備存於同一檔案的1份或多於1份指明文件或指明文件紀錄，費用為$36</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        
+                        <td colspan="10" class="cellpadding_bottom_6 ">就本項而言，如2個或多於2個檔案具有相同的檔案編號，該等檔案均視為同一檔案。</td>
+                        
+                        
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="10" class="align_right"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="align_right">(<ref href="/hk/2004/15">2004年第15號第57條</ref>；<ref href="/hk/2008/20">2008年第20號第43條</ref>)</sourceNote></td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            
+        </text><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/1985/ln331">1985年第331號法律公告</ref>；<ref href="/hk/1993/ln103">1993年第103號法律公告</ref>)</sourceNote></section><section id="ID_1438402644789_001" name="s43" reason="repealed" role="regulation" startPeriod="1997-06-30" status="repealed" temporalId="s43"><num value="43">43.</num><sourceNote>(由<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>廢除)</sourceNote></section></part><part id="ID_1438402644961_001" name="P7" reason="inEffect" startPeriod="2012-02-09" status="operational" temporalId="P7"><num value="7">第7部</num><heading>雜項</heading><section id="ID_1438402645008_001" name="s44" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s44"><num value="44">44.</num><heading>製備圖則的認可人士、註冊結構工程師或註冊岩土工程師向建築事務監督提供他所要求的資料的職責</heading><content>每名製備任何呈交建築事務監督批准的圖則的認可人士、註冊結構工程師或註冊岩土工程師，須向建築事務監督提供建築事務監督就該等圖則或其上所顯示的建築工程或街道工程所要求的資料。</content><sourceNote>(<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第58條</ref>)</sourceNote></section><section id="ID_1438402645070_001" name="s45" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s45"><num value="45">45.</num><heading>認可人士、註冊結構工程師、註冊岩土工程師、註冊檢驗人員、註冊承建商等就更改營業地址須通知建築事務監督的職責</heading><sourceNote>(<ref href="/hk/2011/16">2011年第16號第39條</ref>)</sourceNote><content>每名認可人士、註冊結構工程師、註冊岩土工程師、註冊檢驗人員、註冊一般建築承建商、註冊專門承建商及註冊小型工程承建商，須於其經營業務的地址有任何更改後的14天內，以指明的表格將該項更改通知建築事務監督。</content><sourceNote class="align_justified left_indent_40 first_line_indent_0">(<ref href="/hk/1971/ln59">1971年第59號法律公告</ref>；<ref href="/hk/1974/ln188">1974年第188號法律公告</ref>；<ref href="/hk/1987/43">1987年第43號第44條</ref>；<ref href="/hk/1994/ln531">1994年第531號法律公告</ref>；<ref href="/hk/1997/ln514">1997年第514號法律公告</ref>；<ref href="/hk/2004/15">2004年第15號第59條</ref>；<ref href="/hk/2009/ln180">2009年第180號法律公告</ref>；<ref href="/hk/2011/16">2011年第16號第39條</ref>)</sourceNote></section><section id="ID_1438402645101_001" name="s46" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s46"><num value="46">46.</num><heading>建築事務監督在某些情況下要求新圖則的權力</heading><content>如建築物的原來設計已被改動數次，而該等改動已在呈交建築事務監督批准的經修訂圖則上顯示，則建築事務監督可要求向他交付顯示完成後的建築物的新圖則。</content></section><section id="ID_1438402645101_003" name="s47" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s47"><num value="47">47.</num><heading>根據本條例<ref>第25條</ref>發出的通知須附有圖則</heading><content>每份根據本條例<ref>第25條</ref>發出的通知，須附有顯示有關建築物的大小及位置、建築物所處地段的編號及建築物與毗鄰建築物的關係的區劃圖。</content></section><section id="ID_1438402645117_002" name="s48" reason="inEffect" role="regulation" startPeriod="2012-02-09" status="operational" temporalId="s48"><num value="48">48.</num><heading>規例不適用於根據簡化規定展開的小型工程</heading><content>本規例不適用於根據簡化規定展開的小型工程。</content><sourceNote>(<ref href="/hk/2008/20">2008年第20號第44條</ref>)</sourceNote></section></part><schedule id="ID_1438402645132_001" name="sch0" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="sch0"><num value="0">附表</num><sourceNote>(由<ref href="/hk/1993/ln347">1993年第347號法律公告</ref>廢除)</sourceNote></schedule></main></subLeg>

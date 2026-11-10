@@ -1,0 +1,42 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s44",
+  "kind": "section",
+  "role": "section",
+  "heading": "Chimney and flue",
+  "context": [
+    "Miscellaneous"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212646191_328",
+  "content": "44.\nChimney and flue\n(1)\nThis section applies to a chimney and flue—\n(a)\nthe internal diameter, breadth or width of which exceeds 200 mm; or\n(b)\nthe height of which exceeds 3 m.\n(2)\nA chimney of a building—\n(a)\nmust be constructed, positioned or shielded so as to prevent ignition of any part of the building or any other building; and\n(b)\nmust be constructed so as to ensure that the temperature of its outer surface would not reach a level that may cause any danger to a person in or near the building.\n(3)\nA flue of a building, whether installed inside or outside the building—\n(a)\nmust be constructed, positioned or shielded so as to prevent ignition of any part of the building or any other building; and\n(b)\nmust be positioned or shielded so as to minimize the risk of accidental damage to the flue and the danger to a person in or near the building.\n(4)\nTo prevent a fire in a building, a flue must terminate at a position so that the products of combustion will not enter the windows or openings, fresh air inlets, mechanical ventilation inlets or exhausts of the building or any other building.\n(5)\nIn this section—\nchimney (煙囱) means—\n(a)\na structure that performs the same functions as a flue; or\n(b)\na structure enclosing a flue or flues;\nflue (煙道) means a duct through which products of combustion pass or are intended to pass before reaching the open air;\nproducts of combustion (燃燒產物) include—\n(a)\nsmoke;\n(b)\nfumes from a stove, oven or any other cooking apparatus; and\n(c)\nvitiated air.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s44_1",
+      "content": "(1)\nThis section applies to a chimney and flue—\n(a)\nthe internal diameter, breadth or width of which exceeds 200 mm; or\n(b)\nthe height of which exceeds 3 m."
+    },
+    {
+      "identifier": "s44_2",
+      "content": "(2)\nA chimney of a building—\n(a)\nmust be constructed, positioned or shielded so as to prevent ignition of any part of the building or any other building; and\n(b)\nmust be constructed so as to ensure that the temperature of its outer surface would not reach a level that may cause any danger to a person in or near the building."
+    },
+    {
+      "identifier": "s44_3",
+      "content": "(3)\nA flue of a building, whether installed inside or outside the building—\n(a)\nmust be constructed, positioned or shielded so as to prevent ignition of any part of the building or any other building; and\n(b)\nmust be positioned or shielded so as to minimize the risk of accidental damage to the flue and the danger to a person in or near the building."
+    },
+    {
+      "identifier": "s44_4",
+      "content": "(4)\nTo prevent a fire in a building, a flue must terminate at a position so that the products of combustion will not enter the windows or openings, fresh air inlets, mechanical ventilation inlets or exhausts of the building or any other building."
+    },
+    {
+      "identifier": "s44_5",
+      "content": "(5)\nIn this section—\nchimney (煙囱) means—\n(a)\na structure that performs the same functions as a flue; or\n(b)\na structure enclosing a flue or flues;\nflue (煙道) means a duct through which products of combustion pass or are intended to pass before reaching the open air;\nproducts of combustion (燃燒產物) include—\n(a)\nsmoke;\n(b)\nfumes from a stove, oven or any other cooking apparatus; and\n(c)\nvitiated air."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s44.json"
+}

@@ -1,0 +1,34 @@
+{
+  "chapter": "123F",
+  "language": "en",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+  "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+  "provision": "s28",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Service lanes",
+  "context": [
+    "Heights,\nSite\nCoverage,\nPlot\nRatio,\nOpen\nSpaces\nand\nLanes"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402647644_002",
+  "content": "28.\nService lanes\n(1)\nIn addition to any open space required under regulation 25 every domestic building shall be provided with a service lane at the rear or side of such building:\nProvided that a service lane shall not be required—\n(a)\nwhere a public lane not less than 3 m wide or a street already exists;\n(b)\nfor detached and semi-detached buildings;\n(c)\nwhere exempted by the Building Authority.\n(2)\nEvery such service lane shall be accessible from an existing street but where\nsuch access is not immediately possible, this regulation shall be deemed to have\nbeen complied with if access would be obtained in the event of future development or\nredevelopment of other lots within the\nblock.\n(L.N. 159 of\n1990)\n(3)\nThe alignment, width and levels of every such lane shall be decided by the Building Authority who may grant a modification of regulation 25 when a lane exceeding 1.5 m in width is required.\n(L.N. 54 of 1969; L.N. 294 of 1976)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s28_1",
+      "content": "(1)\nIn addition to any open space required under regulation 25 every domestic building shall be provided with a service lane at the rear or side of such building:\nProvided that a service lane shall not be required—\n(a)\nwhere a public lane not less than 3 m wide or a street already exists;\n(b)\nfor detached and semi-detached buildings;\n(c)\nwhere exempted by the Building Authority."
+    },
+    {
+      "identifier": "s28_2",
+      "content": "(2)\nEvery such service lane shall be accessible from an existing street but where\nsuch access is not immediately possible, this regulation shall be deemed to have\nbeen complied with if access would be obtained in the event of future development or\nredevelopment of other lots within the\nblock.\n(L.N. 159 of\n1990)"
+    },
+    {
+      "identifier": "s28_3",
+      "content": "(3)\nThe alignment, width and levels of every such lane shall be decided by the Building Authority who may grant a modification of regulation 25 when a lane exceeding 1.5 m in width is required."
+    }
+  ],
+  "path": "legislation/provisions/cap123F/en/s28.json"
+}

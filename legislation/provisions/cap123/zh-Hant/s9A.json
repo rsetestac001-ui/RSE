@@ -1,0 +1,38 @@
+{
+  "chapter": "123",
+  "language": "zh-Hant",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/zh-Hant/cap_123_20260301000000_zh-Hant_c.xml",
+  "sha256": "c563be5190519c71a48e73e4242ded97a7b163828dd618f1d7bd442168d18a87",
+  "provision": "s9A",
+  "kind": "section",
+  "role": "section",
+  "heading": "就註冊事務委員會的決定而提出的上訴",
+  "context": [
+    "認可人士、註冊結構工程師、註冊岩土工程師、註冊檢驗人員及註冊承建商"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402641576_001",
+  "content": "9A.\n就註冊事務委員會的決定而提出的上訴\n(1)\n任何人如因註冊事務委員會根據本部作出的決定而感到受屈，可向原訟法庭法官提出上訴。\n(2)\n當有任何上訴提出時，法官可確認、推翻或更改註冊事務委員會的決定。\n(由2011年第16號第12條修訂)\n(3)\n上訴的常規不得與任何根據《高等法院條例》(第4章)訂立的法院規則相抵觸。\n(4)\n(由2011年第16號第12條廢除)\n(由1996年第54號第10條增補。由1998年第25號第2條修訂)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s9A_1",
+      "content": "(1)\n任何人如因註冊事務委員會根據本部作出的決定而感到受屈，可向原訟法庭法官提出上訴。"
+    },
+    {
+      "identifier": "s9A_2",
+      "content": "(2)\n當有任何上訴提出時，法官可確認、推翻或更改註冊事務委員會的決定。\n(由2011年第16號第12條修訂)"
+    },
+    {
+      "identifier": "s9A_3",
+      "content": "(3)\n上訴的常規不得與任何根據《高等法院條例》(第4章)訂立的法院規則相抵觸。"
+    },
+    {
+      "identifier": "s9A_4",
+      "content": "(4)\n(由2011年第16號第12條廢除)"
+    }
+  ],
+  "path": "legislation/provisions/cap123/zh-Hant/s9A.json"
+}

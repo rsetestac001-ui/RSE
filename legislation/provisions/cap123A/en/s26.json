@@ -1,0 +1,30 @@
+{
+  "chapter": "123A",
+  "language": "en",
+  "version_date": "2024-06-30",
+  "xml_path": "legislation/raw/cap123A/en/cap_123A_20240630000000_en_c.xml",
+  "sha256": "5771573b06136e07b8ae6089ce698688f3d10bcd2b49e6a2bc79daddd58fb6f9",
+  "provision": "s26",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Certificate to be given by registered contractor and authorized person on completion of street works",
+  "context": [
+    "Plans, Certificates and Notices"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123A?xpid=ID_1438402644384_003",
+  "content": "26.\nCertificate to be given by registered contractor and authorized person on completion of street works\n(1)\nWithin 7 days of the completion of any street works in respect of which he has\nbeen appointed, the registered general building contractor or the registered\nspecialist contractor shall, in the specified form, certify that such works have\nbeen carried out in accordance with the provisions of the Ordinance and regulations\nand shall, within the said 7 days, deliver such certificate to the authorized person\nappointed in respect\nof\nthe street works.\n(2)\nWithin 14 days of the completion of any street works in respect of which he has been appointed, the authorized person shall, in the specified form delivered to him, in accordance with paragraph (1), by the registered general building contractor or the registered specialist contractor appointed in respect thereof, certify that such works have been carried out in accordance with the plans approved in respect thereof by the Building Authority and shall, within the said 14 days, send such certificate to the Building Authority.\n(L.N. 188 of 1974; L.N. 347 of 1993; L.N. 514 of 1997)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s26_1",
+      "content": "(1)\nWithin 7 days of the completion of any street works in respect of which he has\nbeen appointed, the registered general building contractor or the registered\nspecialist contractor shall, in the specified form, certify that such works have\nbeen carried out in accordance with the provisions of the Ordinance and regulations\nand shall, within the said 7 days, deliver such certificate to the authorized person\nappointed in respect\nof\nthe street works."
+    },
+    {
+      "identifier": "s26_2",
+      "content": "(2)\nWithin 14 days of the completion of any street works in respect of which he has been appointed, the authorized person shall, in the specified form delivered to him, in accordance with paragraph (1), by the registered general building contractor or the registered specialist contractor appointed in respect thereof, certify that such works have been carried out in accordance with the plans approved in respect thereof by the Building Authority and shall, within the said 14 days, send such certificate to the Building Authority."
+    }
+  ],
+  "path": "legislation/provisions/cap123A/en/s26.json"
+}

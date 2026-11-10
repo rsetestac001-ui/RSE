@@ -1,0 +1,30 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s17",
+  "kind": "section",
+  "role": "section",
+  "heading": "Site investigation",
+  "context": [
+    "Requirements for Site Investigation"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645847_114",
+  "content": "17.\nSite investigation\n(1)\nThis section applies to a site investigation of a site in respect of building works or street works.\n(2)\nA site investigation that provides adequate geotechnical and any other relevant data for the design and construction of the works must be carried out in conformity with recognized standards.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s17_1",
+      "content": "(1)\nThis section applies to a site investigation of a site in respect of building works or street works."
+    },
+    {
+      "identifier": "s17_2",
+      "content": "(2)\nA site investigation that provides adequate geotechnical and any other relevant data for the design and construction of the works must be carried out in conformity with recognized standards."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s17.json"
+}

@@ -1,0 +1,34 @@
+{
+  "chapter": "123A",
+  "language": "zh-Hant",
+  "version_date": "2024-06-30",
+  "xml_path": "legislation/raw/cap123A/zh-Hant/cap_123A_20240630000000_zh-Hant_c.xml",
+  "sha256": "ff9d62aee5d5d6f3137ecdef06f6a35eb781648786844f89a374cc9aaf9134ea",
+  "provision": "s11",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "呈交圖則及相關文件",
+  "context": [
+    "圖則、證明書及通知"
+  ],
+  "status": "operational",
+  "start_period": "2022-03-31",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123A?xpid=ID_1438402644009_002",
+  "content": "11.\n呈交圖則及相關文件\n(1)\n以印本形式呈交建築事務監督批准的圖則或相關文件，須以一式兩份呈交。\n(2)\n如有圖則或相關文件呈交建築事務監督批准，則不論是否以印本形式呈交，建築事務監督可要求以印本形式呈交其認為必需的額外文本。\n(3)\n在本條中 ——\n相關文件 (related document)指 ——\n(a)\n與圖則相關而擬進行的土地處理工程的所有詳圖；或\n(b)\n與圖則相關的地盤勘測報告。\n(2021年第222號法律公告)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s11_1",
+      "content": "(1)\n以印本形式呈交建築事務監督批准的圖則或相關文件，須以一式兩份呈交。"
+    },
+    {
+      "identifier": "s11_2",
+      "content": "(2)\n如有圖則或相關文件呈交建築事務監督批准，則不論是否以印本形式呈交，建築事務監督可要求以印本形式呈交其認為必需的額外文本。"
+    },
+    {
+      "identifier": "s11_3",
+      "content": "(3)\n在本條中 ——\n相關文件 (related document)指 ——\n(a)\n與圖則相關而擬進行的土地處理工程的所有詳圖；或\n(b)\n與圖則相關的地盤勘測報告。"
+    }
+  ],
+  "path": "legislation/provisions/cap123A/zh-Hant/s11.json"
+}

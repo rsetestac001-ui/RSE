@@ -1,0 +1,30 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s46",
+  "kind": "section",
+  "role": "section",
+  "heading": "Secretary to the Appeal Tribunal",
+  "context": [
+    "Appeals"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402643260_001",
+  "content": "46.\nSecretary to the Appeal Tribunal\n(1)\nThere shall be a Secretary to the Appeal Tribunal for the purpose of providing administrative services to an Appeal Tribunal.\n(2)\nThe Secretary to the Appeal Tribunal shall be—\n(a)\nappointed by the Secretary;\n(Amended L.N. 330 of 1999; L.N. 106 of 2002; L.N. 130 of 2007; 16 of 2011 s. 29)\n(b)\na public officer; and\n(c)\na person other than a member of the Appeal Tribunal Panel.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s46_1",
+      "content": "(1)\nThere shall be a Secretary to the Appeal Tribunal for the purpose of providing administrative services to an Appeal Tribunal."
+    },
+    {
+      "identifier": "s46_2",
+      "content": "(2)\nThe Secretary to the Appeal Tribunal shall be—\n(a)\nappointed by the Secretary;\n(Amended L.N. 330 of 1999; L.N. 106 of 2002; L.N. 130 of 2007; 16 of 2011 s. 29)\n(b)\na public officer; and\n(c)\na person other than a member of the Appeal Tribunal Panel."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s46.json"
+}

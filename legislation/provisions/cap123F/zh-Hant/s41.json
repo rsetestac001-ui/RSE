@@ -1,0 +1,30 @@
+{
+  "chapter": "123F",
+  "language": "zh-Hant",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/zh-Hant/cap_123F_20260917000000_zh-Hant_c.xml",
+  "sha256": "1507dac47a72681d534292fbcbffe25ea46dd7d615534e4b09ecc61be464cbd7",
+  "provision": "s41",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "逃生途徑",
+  "context": [
+    "樓梯、走火通道及供消防和救援用的通道"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402647925_002",
+  "content": "41.\n逃生途徑\n(1)\n每幢建築物須設有該建築物擬作用途所需的緊急情況用的逃生途徑。\n(2)\n在不損害第(1)款的原則下，每幢高度超逾6層的建築物，或最高樓層的樓面水平在主樓梯出口處的地面水平之上多於17米的建築物，除主樓梯外，須有第二道樓梯，作為緊急情況用的逃生途徑。\n(1976年第294號法律公告)\n(1966年第33號法律公告)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s41_1",
+      "content": "(1)\n每幢建築物須設有該建築物擬作用途所需的緊急情況用的逃生途徑。"
+    },
+    {
+      "identifier": "s41_2",
+      "content": "(2)\n在不損害第(1)款的原則下，每幢高度超逾6層的建築物，或最高樓層的樓面水平在主樓梯出口處的地面水平之上多於17米的建築物，除主樓梯外，須有第二道樓梯，作為緊急情況用的逃生途徑。\n(1976年第294號法律公告)"
+    }
+  ],
+  "path": "legislation/provisions/cap123F/zh-Hant/s41.json"
+}

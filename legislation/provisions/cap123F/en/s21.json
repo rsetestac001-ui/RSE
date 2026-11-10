@@ -1,0 +1,34 @@
+{
+  "chapter": "123F",
+  "language": "en",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+  "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+  "provision": "s21",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Permitted plot ratio",
+  "context": [
+    "Heights,\nSite\nCoverage,\nPlot\nRatio,\nOpen\nSpaces\nand\nLanes"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402647519_001",
+  "content": "21.\nPermitted plot ratio\n(1)\nSubject to regulation 22 and depending on the height of the building—\n(L.N. 78 of 1970; L.N. 406 of 1987)\n(a)\nthe plot ratio for a domestic building on a class A site shall not exceed the plot ratio specified in the fifth column of the First Schedule;\n(b)\nthe plot ratio for a domestic building on a class B site shall not exceed the plot ratio specified in the sixth column of the First Schedule;\n(c)\nthe plot ratio for a domestic building on a class C site shall not exceed the plot ratio specified in the seventh column of the First Schedule;\n(d)\nthe plot ratio for a non-domestic building on a class A site shall not exceed the plot ratio specified in the eleventh column of the First Schedule;\n(e)\nthe plot ratio for a non-domestic building on a class B site shall not exceed the plot ratio specified in the twelfth column of the First Schedule; and\n(f)\nthe plot ratio for a non-domestic building on a class C site shall not exceed the plot ratio specified in the thirteenth column of the First Schedule.\n(2)\nSubject to regulation 22, the plot ratio for the domestic part of a composite building shall not exceed the product of the difference between the permitted plot ratio for the building if it were a non-domestic building and the actual plot ratio of the non-domestic part of the building and the permitted plot ratio for the building if it were a domestic building divided by the permitted plot ratio for the building if it were a non-domestic building.\n(L.N. 78 of 1970; L.N. 406 of 1987)\n(3)\nFor the purposes of this regulation and of regulations 19, 20 and 22, the plot ratio of a building shall be obtained by dividing the gross floor area of the building by the area of the site on which the building is erected.\n(G.N.A. 97 of 1962)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s21_1",
+      "content": "(1)\nSubject to regulation 22 and depending on the height of the building—\n(L.N. 78 of 1970; L.N. 406 of 1987)\n(a)\nthe plot ratio for a domestic building on a class A site shall not exceed the plot ratio specified in the fifth column of the First Schedule;\n(b)\nthe plot ratio for a domestic building on a class B site shall not exceed the plot ratio specified in the sixth column of the First Schedule;\n(c)\nthe plot ratio for a domestic building on a class C site shall not exceed the plot ratio specified in the seventh column of the First Schedule;\n(d)\nthe plot ratio for a non-domestic building on a class A site shall not exceed the plot ratio specified in the eleventh column of the First Schedule;\n(e)\nthe plot ratio for a non-domestic building on a class B site shall not exceed the plot ratio specified in the twelfth column of the First Schedule; and\n(f)\nthe plot ratio for a non-domestic building on a class C site shall not exceed the plot ratio specified in the thirteenth column of the First Schedule."
+    },
+    {
+      "identifier": "s21_2",
+      "content": "(2)\nSubject to regulation 22, the plot ratio for the domestic part of a composite building shall not exceed the product of the difference between the permitted plot ratio for the building if it were a non-domestic building and the actual plot ratio of the non-domestic part of the building and the permitted plot ratio for the building if it were a domestic building divided by the permitted plot ratio for the building if it were a non-domestic building.\n(L.N. 78 of 1970; L.N. 406 of 1987)"
+    },
+    {
+      "identifier": "s21_3",
+      "content": "(3)\nFor the purposes of this regulation and of regulations 19, 20 and 22, the plot ratio of a building shall be obtained by dividing the gross floor area of the building by the area of the site on which the building is erected."
+    }
+  ],
+  "path": "legislation/provisions/cap123F/en/s21.json"
+}

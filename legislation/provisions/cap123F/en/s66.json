@@ -1,0 +1,38 @@
+{
+  "chapter": "123F",
+  "language": "en",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+  "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+  "provision": "s66",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Maintenance of hoardings, etc.",
+  "context": [
+    "Hoardings,\nCovered\nWalkways\nand\nGantries"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402648689_001",
+  "content": "66.\nMaintenance of hoardings, etc.\n(1)\nEvery building owner shall erect hoardings, covered walkways and gantries in\naccordance with the permit issued under regulation 65 prior to the\ncommencement of the building works specified in regulation 64, and shall\nmaintain such hoardings, covered walkways and gantries in good repair during the\ncontinuance of the permit.\n(2)\nExcept on isolated sites, all hoardings, unless exempted by the Building\nAuthority, shall be close boarded.\n(3)\nNo hoarding, covered walkway, gantry or building materials shall obstruct any\ndrainage channel.\n(4)\nNo advertisement other than a description of the building and the names of any\npersons concerned in its construction shall be displayed on any such hoarding or\ncovered walkway.\n(G.N.A. 83 of 1959; G.N.A.\n75 of 1962)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s66_1",
+      "content": "(1)\nEvery building owner shall erect hoardings, covered walkways and gantries in\naccordance with the permit issued under regulation 65 prior to the\ncommencement of the building works specified in regulation 64, and shall\nmaintain such hoardings, covered walkways and gantries in good repair during the\ncontinuance of the permit."
+    },
+    {
+      "identifier": "s66_2",
+      "content": "(2)\nExcept on isolated sites, all hoardings, unless exempted by the Building\nAuthority, shall be close boarded."
+    },
+    {
+      "identifier": "s66_3",
+      "content": "(3)\nNo hoarding, covered walkway, gantry or building materials shall obstruct any\ndrainage channel."
+    },
+    {
+      "identifier": "s66_4",
+      "content": "(4)\nNo advertisement other than a description of the building and the names of any\npersons concerned in its construction shall be displayed on any such hoarding or\ncovered walkway."
+    }
+  ],
+  "path": "legislation/provisions/cap123F/en/s66.json"
+}

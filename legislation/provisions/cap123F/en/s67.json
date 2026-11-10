@@ -1,0 +1,30 @@
+{
+  "chapter": "123F",
+  "language": "en",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+  "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+  "provision": "s67",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Liability of permittee",
+  "context": [
+    "Hoardings,\nCovered\nWalkways\nand\nGantries"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402648689_003",
+  "content": "67.\nLiability of permittee\n(1)\nWhere any building owner fails to comply with any requirement made, pursuant to the provisions of regulation 65, by the Building Authority or with the provisions of regulation 66 or causes any damage to Government property in the erection or maintenance of such hoardings, covered walkways and gantries, the Building Authority may cause to be erected and maintained such hoardings, covered walkways and gantries as he may deem necessary and may carry out any work necessary to secure compliance with any requirement made pursuant to regulation 65, and may make good any such damage.\n(G.N.A. 83 of 1959; G.N.A. 75 of 1962)\n(2)\nThe Building Authority may recover the cost of such work from the building owner.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s67_1",
+      "content": "(1)\nWhere any building owner fails to comply with any requirement made, pursuant to the provisions of regulation 65, by the Building Authority or with the provisions of regulation 66 or causes any damage to Government property in the erection or maintenance of such hoardings, covered walkways and gantries, the Building Authority may cause to be erected and maintained such hoardings, covered walkways and gantries as he may deem necessary and may carry out any work necessary to secure compliance with any requirement made pursuant to regulation 65, and may make good any such damage.\n(G.N.A. 83 of 1959; G.N.A. 75 of 1962)"
+    },
+    {
+      "identifier": "s67_2",
+      "content": "(2)\nThe Building Authority may recover the cost of such work from the building owner."
+    }
+  ],
+  "path": "legislation/provisions/cap123F/en/s67.json"
+}

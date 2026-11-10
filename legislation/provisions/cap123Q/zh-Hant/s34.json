@@ -1,0 +1,34 @@
+{
+  "chapter": "123Q",
+  "language": "zh-Hant",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/zh-Hant/cap_123Q_20210624000000_zh-Hant_c.xml",
+  "sha256": "129b8ed53fe271d87e100e62181f73ae84868e7e15a87c5664b1d93b62fd98c8",
+  "provision": "s34",
+  "kind": "section",
+  "role": "section",
+  "heading": "屋頂",
+  "context": [
+    "防潮及防水保護"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212657645_241",
+  "content": "34.\n屋頂\n(1)\n建築物屋頂須設計和建造成不受天氣影響。\n(2)\n須設有足夠的設施，以防止水由建築物屋頂進入與之相連的樓面。\n(3)\n須設有足夠的進出途徑通往建築物屋頂或該屋頂的伸出物，以供保養或修葺該屋頂或伸出物。",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s34_1",
+      "content": "(1)\n建築物屋頂須設計和建造成不受天氣影響。"
+    },
+    {
+      "identifier": "s34_2",
+      "content": "(2)\n須設有足夠的設施，以防止水由建築物屋頂進入與之相連的樓面。"
+    },
+    {
+      "identifier": "s34_3",
+      "content": "(3)\n須設有足夠的進出途徑通往建築物屋頂或該屋頂的伸出物，以供保養或修葺該屋頂或伸出物。"
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/zh-Hant/s34.json"
+}

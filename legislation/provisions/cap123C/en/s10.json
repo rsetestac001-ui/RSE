@@ -1,0 +1,32 @@
+{
+  "chapter": "123C",
+  "language": "en",
+  "version_date": "2021-05-13",
+  "xml_path": "legislation/raw/cap123C/en/cap_123C_20210513000000_en_c.xml",
+  "sha256": "5785982adec017e9f95fecf183dd7f5a95861bdab777f1171630a8ca354c3c85",
+  "provision": "s10",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Floors, etc. not to be overloaded",
+  "context": [],
+  "status": "operational",
+  "start_period": "2021-05-13",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123C?xpid=ID_1438402646958_002",
+  "content": "10.\nFloors, etc. not to be overloaded\n(1)\nNo floor, roof or other part of a building that is being demolished shall be so overloaded with debris or materials as to render it unsafe or liable to become unsafe.\n(L.N. 358 of 1980)\n(2)\nNo debris or materials from demolition shall be permitted to accumulate against any fence, hoarding or wall so as to render it unsafe or liable to become unsafe.\n(L.N. 358 of 1980)\n(3)\nNo floor, roof or other part of a building that is being demolished shall be so overloaded with any plant or equipment as to render it unsafe or liable to become unsafe.\n(L.N. 515 of 1997)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s10_1",
+      "content": "(1)\nNo floor, roof or other part of a building that is being demolished shall be so overloaded with debris or materials as to render it unsafe or liable to become unsafe.\n(L.N. 358 of 1980)"
+    },
+    {
+      "identifier": "s10_2",
+      "content": "(2)\nNo debris or materials from demolition shall be permitted to accumulate against any fence, hoarding or wall so as to render it unsafe or liable to become unsafe.\n(L.N. 358 of 1980)"
+    },
+    {
+      "identifier": "s10_3",
+      "content": "(3)\nNo floor, roof or other part of a building that is being demolished shall be so overloaded with any plant or equipment as to render it unsafe or liable to become unsafe.\n(L.N. 515 of 1997)"
+    }
+  ],
+  "path": "legislation/provisions/cap123C/en/s10.json"
+}

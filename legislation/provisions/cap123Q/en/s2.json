@@ -1,0 +1,21 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s2",
+  "kind": "section",
+  "role": "section",
+  "heading": "Interpretation",
+  "context": [
+    "Preliminary"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645316_004",
+  "content": "2.\nInterpretation\nIn this Regulation—\ncarriageway (車路) means a part of a private street, cul-de-sac or access road, used or intended to be used by vehicular traffic;\ndead load (恆載)—see section 4;\nfoundation (基礎) means the part of a building, street, building works or street works that—\n(a)\nis in direct contact with the ground; and\n(b)\ntransmits load to the ground;\nimposed load (外加荷載)—see section 5;\ninaccessible roof (非開放屋頂)—see section 36(2);\nsite investigation (地盤勘測), in relation to a site, means investigation of the physical characteristics of the site and includes documentary studies, site surveys and ground investigation;\nwind load (風荷載)—see section 6.",
+  "images": [],
+  "subsections": [],
+  "path": "legislation/provisions/cap123Q/en/s2.json"
+}

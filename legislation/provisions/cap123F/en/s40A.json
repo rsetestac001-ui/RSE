@@ -1,0 +1,30 @@
+{
+  "chapter": "123F",
+  "language": "en",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+  "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+  "provision": "s40A",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Escalator to be in addition to staircases or means of escape in case of emergency",
+  "context": [
+    "Staircases,\nFire\nEscapes\nand\nAccess\nfor\nFirefighting\nand\nRescue\nPurposes"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402647909_002",
+  "content": "40A.\nEscalator to be in addition to staircases or means of escape in case of emergency\n(1)\nWhere an escalator is installed in any building, it shall be in addition to—\n(a)\nany staircase required by regulation 39; and\n(b)\nthe means of escape in case of emergency and second staircase required by regulation 41.\n(2)\nAn escalator shall not be a staircase, passage or other normal means of egress for the purposes of regulation 43.\n(L.N. 97 of 1994)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s40A_1",
+      "content": "(1)\nWhere an escalator is installed in any building, it shall be in addition to—\n(a)\nany staircase required by regulation 39; and\n(b)\nthe means of escape in case of emergency and second staircase required by regulation 41."
+    },
+    {
+      "identifier": "s40A_2",
+      "content": "(2)\nAn escalator shall not be a staircase, passage or other normal means of egress for the purposes of regulation 43."
+    }
+  ],
+  "path": "legislation/provisions/cap123F/en/s40A.json"
+}

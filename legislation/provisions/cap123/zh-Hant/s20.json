@@ -1,0 +1,30 @@
+{
+  "chapter": "123",
+  "language": "zh-Hant",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/zh-Hant/cap_123_20260301000000_zh-Hant_c.xml",
+  "sha256": "c563be5190519c71a48e73e4242ded97a7b163828dd618f1d7bd442168d18a87",
+  "provision": "s20",
+  "kind": "section",
+  "role": "section",
+  "heading": "恢復暫停的工程",
+  "context": [
+    "建築管制"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402641919_001",
+  "content": "20.\n恢復暫停的工程\n(1)\n如得到建築事務監督同意任何建築工程或街道工程的展開或進行後3個月內，工程仍未展開，或如工程已展開，而暫停3個月，則須當作該項同意已被撤銷。\n(2)\n建築事務監督可應以指明的表格提出的申請，重新給予該項同意，並藉書面命令施加他認為因延遲展開工程或暫停工程而需要施加的條件。\n(由1993年第68號第11條修訂)\n(由1959年第44號第6條代替)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s20_1",
+      "content": "(1)\n如得到建築事務監督同意任何建築工程或街道工程的展開或進行後3個月內，工程仍未展開，或如工程已展開，而暫停3個月，則須當作該項同意已被撤銷。"
+    },
+    {
+      "identifier": "s20_2",
+      "content": "(2)\n建築事務監督可應以指明的表格提出的申請，重新給予該項同意，並藉書面命令施加他認為因延遲展開工程或暫停工程而需要施加的條件。\n(由1993年第68號第11條修訂)"
+    }
+  ],
+  "path": "legislation/provisions/cap123/zh-Hant/s20.json"
+}

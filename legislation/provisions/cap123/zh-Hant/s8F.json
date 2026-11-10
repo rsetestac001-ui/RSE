@@ -1,0 +1,34 @@
+{
+  "chapter": "123",
+  "language": "zh-Hant",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/zh-Hant/cap_123_20260301000000_zh-Hant_c.xml",
+  "sha256": "c563be5190519c71a48e73e4242ded97a7b163828dd618f1d7bd442168d18a87",
+  "provision": "s8F",
+  "kind": "section",
+  "role": "section",
+  "heading": "生效日期",
+  "context": [
+    "認可人士、註冊結構工程師、註冊岩土工程師、註冊檢驗人員及註冊承建商"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402641513_002",
+  "content": "8F.\n生效日期\n(1)\n註冊由以下日期起生效 ——\n(a)\n就初次註冊或重新名列於名冊而言，由註冊或重新名列於名冊之日起生效；及\n(b)\n就註冊續期而言，由上次註冊有效期屆滿之日起生效。\n(2)\n除非紀律委員會命令將承建商的姓名或名稱從有關名冊中刪除，否則註冊有效期在註冊證明書指明的期間屆滿時即告屆滿。\n(3)\n任何對註冊有效期屆滿的提述，須按照本條解釋。\n(由2004年第15號第13條修訂)\n(由1996年第54號第9條增補)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s8F_1",
+      "content": "(1)\n註冊由以下日期起生效 ——\n(a)\n就初次註冊或重新名列於名冊而言，由註冊或重新名列於名冊之日起生效；及\n(b)\n就註冊續期而言，由上次註冊有效期屆滿之日起生效。"
+    },
+    {
+      "identifier": "s8F_2",
+      "content": "(2)\n除非紀律委員會命令將承建商的姓名或名稱從有關名冊中刪除，否則註冊有效期在註冊證明書指明的期間屆滿時即告屆滿。"
+    },
+    {
+      "identifier": "s8F_3",
+      "content": "(3)\n任何對註冊有效期屆滿的提述，須按照本條解釋。\n(由2004年第15號第13條修訂)"
+    }
+  ],
+  "path": "legislation/provisions/cap123/zh-Hant/s8F.json"
+}

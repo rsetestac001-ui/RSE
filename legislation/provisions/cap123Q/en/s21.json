@@ -1,0 +1,30 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s21",
+  "kind": "section",
+  "role": "section",
+  "heading": "Site formation works",
+  "context": [
+    "Requirements for Site Formation Works"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645941_149",
+  "content": "21.\nSite formation works\n(1)\nSite formation works must be designed and constructed so as to provide an adequate margin of safety of the works and the remainder of the site during and after the construction.\n(2)\nThe design and construction of site formation works must not—\n(a)\ncause any damage to any building, structure, land, street or services; or\n(b)\nrender inadequate the margin of safety of any building, structure, land, street or services.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s21_1",
+      "content": "(1)\nSite formation works must be designed and constructed so as to provide an adequate margin of safety of the works and the remainder of the site during and after the construction."
+    },
+    {
+      "identifier": "s21_2",
+      "content": "(2)\nThe design and construction of site formation works must not—\n(a)\ncause any damage to any building, structure, land, street or services; or\n(b)\nrender inadequate the margin of safety of any building, structure, land, street or services."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s21.json"
+}

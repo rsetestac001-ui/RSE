@@ -1,0 +1,34 @@
+{
+  "chapter": "123F",
+  "language": "en",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+  "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+  "provision": "s24",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Height of storeys",
+  "context": [
+    "Heights,\nSite\nCoverage,\nPlot\nRatio,\nOpen\nSpaces\nand\nLanes"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402647597_002",
+  "content": "24.\nHeight of storeys\n(1)\nEvery room used or intended to be used for the purpose of an office or for habitation in any building shall have a height of not less than 2.5 m measured from floor to ceiling:\n(L.N. 406 of 1987)\nProvided that there shall be not less than 2.3 m measured from the floor to the underside of any beam.\n(2)\nIn any such room having a sloping ceiling, the height shall be measured to the mean height of such ceiling above floor level:\nProvided that no portion of any room shall have a height of less than 2 m.\n(3)\n(Repealed L.N. 406 of 1987)\n(L.N. 294 of 1976)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s24_1",
+      "content": "(1)\nEvery room used or intended to be used for the purpose of an office or for habitation in any building shall have a height of not less than 2.5 m measured from floor to ceiling:\n(L.N. 406 of 1987)\nProvided that there shall be not less than 2.3 m measured from the floor to the underside of any beam."
+    },
+    {
+      "identifier": "s24_2",
+      "content": "(2)\nIn any such room having a sloping ceiling, the height shall be measured to the mean height of such ceiling above floor level:\nProvided that no portion of any room shall have a height of less than 2 m."
+    },
+    {
+      "identifier": "s24_3",
+      "content": "(3)\n(Repealed L.N. 406 of 1987)"
+    }
+  ],
+  "path": "legislation/provisions/cap123F/en/s24.json"
+}

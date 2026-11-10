@@ -1,0 +1,38 @@
+{
+  "chapter": "123F",
+  "language": "zh-Hant",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/zh-Hant/cap_123F_20260917000000_zh-Hant_c.xml",
+  "sha256": "1507dac47a72681d534292fbcbffe25ea46dd7d615534e4b09ecc61be464cbd7",
+  "provision": "s27",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "路塹",
+  "context": [
+    "高度、上蓋面積、地積比率、空地及通道巷"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402647644_001",
+  "content": "27.\n路塹\n(1)\n任何建築物不得緊靠路塹(包括承托路塹的腳牆)而建。\n(2)\n建築物在地面層的水平與路塹腳之間，須留有暢通無阻而闊度不少於路塹高度1/4的分隔空間或地方。\n(3)\n分隔空間或地方的闊度在任何情況下均不得少於2.5米。\n(1976年第294號法律公告)\n(4)\n就本條而言，路塹的高度須當作為以下高度：沿一條自該路塹腳劃出的垂直線上量度，由經修整的地面或混凝土表面延伸至其與另一條自路塹頂部以與水平面成30度角向下劃的線相交的一點之間的高度。",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s27_1",
+      "content": "(1)\n任何建築物不得緊靠路塹(包括承托路塹的腳牆)而建。"
+    },
+    {
+      "identifier": "s27_2",
+      "content": "(2)\n建築物在地面層的水平與路塹腳之間，須留有暢通無阻而闊度不少於路塹高度1/4的分隔空間或地方。"
+    },
+    {
+      "identifier": "s27_3",
+      "content": "(3)\n分隔空間或地方的闊度在任何情況下均不得少於2.5米。\n(1976年第294號法律公告)"
+    },
+    {
+      "identifier": "s27_4",
+      "content": "(4)\n就本條而言，路塹的高度須當作為以下高度：沿一條自該路塹腳劃出的垂直線上量度，由經修整的地面或混凝土表面延伸至其與另一條自路塹頂部以與水平面成30度角向下劃的線相交的一點之間的高度。"
+    }
+  ],
+  "path": "legislation/provisions/cap123F/zh-Hant/s27.json"
+}

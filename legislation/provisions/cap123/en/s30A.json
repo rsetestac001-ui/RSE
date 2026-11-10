@@ -1,0 +1,21 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s30A",
+  "kind": "section",
+  "role": "section",
+  "heading": "Application",
+  "context": [
+    "Inspection and Repair of Building"
+  ],
+  "status": "operational",
+  "start_period": "2012-08-02",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402642356_001",
+  "content": "30A.\nApplication\nThis Part does not apply to a domestic building not exceeding 3 storeys in\nheight.",
+  "images": [],
+  "subsections": [],
+  "path": "legislation/provisions/cap123/en/s30A.json"
+}

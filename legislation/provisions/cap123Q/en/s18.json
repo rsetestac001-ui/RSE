@@ -1,0 +1,46 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s18",
+  "kind": "section",
+  "role": "section",
+  "heading": "Foundations",
+  "context": [
+    "Requirements for Foundations"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645847_118",
+  "content": "18.\nFoundations\n(1)\nA foundation of a building, street, building works or street works must be capable of—\n(a)\nsafely sustaining the combination of the dead loads, imposed loads and wind loads from the building, street, building works or street works, and any other loads, exerted on the foundation; and\n(b)\nsafely transmitting the loads referred to in paragraph (a) to the ground.\n(2)\nThe design and construction of a foundation must take into account—\n(a)\nthe conditions of the ground on which the foundation rests;\n(b)\nits installation method; and\n(c)\nthe group effects of the foundation system.\n(3)\nThe foundation must be designed and constructed with an adequate factor of safety.\n(4)\nThe design and construction of a foundation of a building, street, building works or street works must not—\n(a)\nimpair the stability of any other building, structure, land, street or services;\n(b)\ncause any damage to any other building, structure, land, street or services; or\n(c)\nrender inadequate the factor of safety of any other building, structure, land, street or services.\n(5)\nA site investigation of the relevant site must be carried out in compliance with section 17 before a foundation is constructed.\n(6)\nThe ground on which the foundation of any building, street, building works or street works rests must be capable of safely sustaining the combination of the following loads with an adequate factor of safety—\n(a)\nthe dead loads of the building, street, building works or street works;\n(b)\nthe imposed loads on the building, street, building works or street works;\n(c)\nthe wind loads on the building, street, building works or street works; and\n(d)\nany other loads exerted on the foundation.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s18_1",
+      "content": "(1)\nA foundation of a building, street, building works or street works must be capable of—\n(a)\nsafely sustaining the combination of the dead loads, imposed loads and wind loads from the building, street, building works or street works, and any other loads, exerted on the foundation; and\n(b)\nsafely transmitting the loads referred to in paragraph (a) to the ground."
+    },
+    {
+      "identifier": "s18_2",
+      "content": "(2)\nThe design and construction of a foundation must take into account—\n(a)\nthe conditions of the ground on which the foundation rests;\n(b)\nits installation method; and\n(c)\nthe group effects of the foundation system."
+    },
+    {
+      "identifier": "s18_3",
+      "content": "(3)\nThe foundation must be designed and constructed with an adequate factor of safety."
+    },
+    {
+      "identifier": "s18_4",
+      "content": "(4)\nThe design and construction of a foundation of a building, street, building works or street works must not—\n(a)\nimpair the stability of any other building, structure, land, street or services;\n(b)\ncause any damage to any other building, structure, land, street or services; or\n(c)\nrender inadequate the factor of safety of any other building, structure, land, street or services."
+    },
+    {
+      "identifier": "s18_5",
+      "content": "(5)\nA site investigation of the relevant site must be carried out in compliance with section 17 before a foundation is constructed."
+    },
+    {
+      "identifier": "s18_6",
+      "content": "(6)\nThe ground on which the foundation of any building, street, building works or street works rests must be capable of safely sustaining the combination of the following loads with an adequate factor of safety—\n(a)\nthe dead loads of the building, street, building works or street works;\n(b)\nthe imposed loads on the building, street, building works or street works;\n(c)\nthe wind loads on the building, street, building works or street works; and\n(d)\nany other loads exerted on the foundation."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s18.json"
+}

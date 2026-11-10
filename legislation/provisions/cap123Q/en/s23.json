@@ -1,0 +1,38 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s23",
+  "kind": "section",
+  "role": "section",
+  "heading": "Retaining wall—design and construction",
+  "context": [
+    "Requirements for Site Formation Works"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645972_158",
+  "content": "23.\nRetaining wall—design and construction\n(1)\nA retaining wall must be capable of safely supporting—\n(a)\nthe earth or fill it retains; and\n(b)\nother loads exerted on the wall.\n(2)\nThe design of a retaining wall must—\n(a)\nenable the function referred to in subsection (1) to be performed under the most onerous loading conditions during the wall’s construction and throughout the service life of the wall;\n(b)\nbe in conformity with recognized engineering principles; and\n(c)\nbe based on data from a site investigation of the relevant site carried out in compliance with section 17.\n(3)\nA retaining wall must be designed with an adequate factor of safety against—\n(a)\nsliding;\n(b)\noverturning;\n(c)\nultimate bearing failure; and\n(d)\nfailure on a surface passing beneath the wall.\n(4)\nThe design and construction of a retaining wall must not—\n(a)\nimpair the stability of any building, structure, land, street or services; or\n(b)\ncause any damage to any building, structure, land, street or services.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s23_1",
+      "content": "(1)\nA retaining wall must be capable of safely supporting—\n(a)\nthe earth or fill it retains; and\n(b)\nother loads exerted on the wall."
+    },
+    {
+      "identifier": "s23_2",
+      "content": "(2)\nThe design of a retaining wall must—\n(a)\nenable the function referred to in subsection (1) to be performed under the most onerous loading conditions during the wall’s construction and throughout the service life of the wall;\n(b)\nbe in conformity with recognized engineering principles; and\n(c)\nbe based on data from a site investigation of the relevant site carried out in compliance with section 17."
+    },
+    {
+      "identifier": "s23_3",
+      "content": "(3)\nA retaining wall must be designed with an adequate factor of safety against—\n(a)\nsliding;\n(b)\noverturning;\n(c)\nultimate bearing failure; and\n(d)\nfailure on a surface passing beneath the wall."
+    },
+    {
+      "identifier": "s23_4",
+      "content": "(4)\nThe design and construction of a retaining wall must not—\n(a)\nimpair the stability of any building, structure, land, street or services; or\n(b)\ncause any damage to any building, structure, land, street or services."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s23.json"
+}

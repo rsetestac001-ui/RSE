@@ -1,0 +1,30 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s53A",
+  "kind": "section",
+  "role": "section",
+  "heading": "Immunity",
+  "context": [
+    "Appeals"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402643354_002",
+  "content": "53A.\nImmunity\n(1)\nThe Chairman or a member of an Appeal Tribunal performing any function under or pursuant to this Part shall have the same privileges and immunities a judge of the Court of First Instance has in relation to civil proceedings in that court.\n(2)\nA party to any hearing of an appeal (including a preliminary hearing held under section 49) or any witness, counsel, solicitor or legal officer appearing before an Appeal Tribunal shall have the same immunities or privileges such a party, witness, counsel, solicitor or legal officer respectively would have had in relation to civil proceedings in the Court of First Instance.\n(Amended 25 of 1998 s. 2)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s53A_1",
+      "content": "(1)\nThe Chairman or a member of an Appeal Tribunal performing any function under or pursuant to this Part shall have the same privileges and immunities a judge of the Court of First Instance has in relation to civil proceedings in that court."
+    },
+    {
+      "identifier": "s53A_2",
+      "content": "(2)\nA party to any hearing of an appeal (including a preliminary hearing held under section 49) or any witness, counsel, solicitor or legal officer appearing before an Appeal Tribunal shall have the same immunities or privileges such a party, witness, counsel, solicitor or legal officer respectively would have had in relation to civil proceedings in the Court of First Instance."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s53A.json"
+}

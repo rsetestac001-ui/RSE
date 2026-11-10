@@ -1,0 +1,34 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s9",
+  "kind": "section",
+  "role": "section",
+  "heading": "Imposed loads—design of protective barrier",
+  "context": [
+    "Loads"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645644_057",
+  "content": "9.\nImposed loads—design of protective barrier\n(1)\nA protective barrier installed to restrict or control the movement of persons must be designed to resist the minimum horizontal imposed loads specified in Table 3 in the Schedule when separately applied (relevant imposed load).\n(2)\nIf the wind load is applicable, the protective barrier must be designed to resist the relevant imposed load or the wind load, whichever produces the greater adverse effect.\n(3)\nA vehicle barrier for a carriageway, floor, driveway or ramp used by vehicles must be designed to withstand the greatest impact force anticipated, subject to the following requirements—\n(a)\nthe minimum design impact force on a vehicle barrier is to be [0.5 Mv2 / (δc + δb)] kN where—\nM\nis the gross mass in kg of the heaviest vehicle that would be allowed to use the carriageway, floor, driveway or ramp;\nv\nis the velocity of the vehicle normal to the barrier in metre per second;\nδc\nis the deformation of the vehicle in mm; and\nδb\nis the deflection of the barrier in mm; and\n(b)\nthe impact force is to be uniformly distributed over any length of 1.5 m and acting horizontally at the bumper height of the vehicle.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s9_1",
+      "content": "(1)\nA protective barrier installed to restrict or control the movement of persons must be designed to resist the minimum horizontal imposed loads specified in Table 3 in the Schedule when separately applied (relevant imposed load)."
+    },
+    {
+      "identifier": "s9_2",
+      "content": "(2)\nIf the wind load is applicable, the protective barrier must be designed to resist the relevant imposed load or the wind load, whichever produces the greater adverse effect."
+    },
+    {
+      "identifier": "s9_3",
+      "content": "(3)\nA vehicle barrier for a carriageway, floor, driveway or ramp used by vehicles must be designed to withstand the greatest impact force anticipated, subject to the following requirements—\n(a)\nthe minimum design impact force on a vehicle barrier is to be [0.5 Mv2 / (δc + δb)] kN where—\nM\nis the gross mass in kg of the heaviest vehicle that would be allowed to use the carriageway, floor, driveway or ramp;\nv\nis the velocity of the vehicle normal to the barrier in metre per second;\nδc\nis the deformation of the vehicle in mm; and\nδb\nis the deflection of the barrier in mm; and\n(b)\nthe impact force is to be uniformly distributed over any length of 1.5 m and acting horizontally at the bumper height of the vehicle."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s9.json"
+}

@@ -1,0 +1,42 @@
+{
+  "chapter": "123F",
+  "language": "en",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+  "sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+  "provision": "s20",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Permitted site coverage",
+  "context": [
+    "Heights,\nSite\nCoverage,\nPlot\nRatio,\nOpen\nSpaces\nand\nLanes"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402647457_002",
+  "content": "20.\nPermitted site coverage\n(1)\nSubject to regulation 22 and depending on the height of the building—\n(L.N. 78 of 1970; L.N. 406 of 1987)\n(a)\nthe site coverage for a domestic building, or for the domestic part of a composite building, on a class A site shall not exceed that percentage of the area of the site specified in the second column of the First Schedule;\n(b)\nthe site coverage for a domestic building, or for the domestic part of a composite building, on a class B site shall not exceed that percentage of the area of the site specified in the third column of the First Schedule; and\n(c)\nthe site coverage for a domestic building, or for the domestic part of a composite building, on a class C site shall not exceed that percentage of the area of the site specified in the fourth column of the First Schedule.\n(2)\nSubject to regulation 22 and paragraph (3) and depending on the height of the building—\n(L.N. 78 of 1970; L.N. 406 of 1987)\n(a)\nthe site coverage for a non-domestic building, or for the non-domestic part of a composite building, on a class A site shall not exceed that percentage of the area of the site specified in the eighth column of the First Schedule;\n(b)\nthe site coverage for a non-domestic building, or for the non-domestic part of a composite building, on a class B site shall not exceed that percentage of the area of the site specified in the ninth column of the First Schedule; and\n(c)\nthe site coverage for a non-domestic building, or for the non-domestic part of a composite building, on a class C site shall not exceed that percentage of the area of the site specified in the tenth column of the First Schedule.\n(3)\nSubject to the provisions of paragraph (4), the site coverage for a non-domestic building, or for the non-domestic part of a composite building, on a class A, B or C site may, whatever the height of the building, exceed the permitted percentage site coverage to a height not exceeding 15 m above ground level.\n(L.N. 294 of 1976)\n(4)\nFor the avoidance of doubt, it is hereby declared that, where pursuant to paragraph (3) the permitted percentage site coverage is exceeded—\n(a)\nabove the level to which the permitted percentage site coverage is exceeded, the site coverage for the building or any part thereof shall not, subject to regulation 22, exceed the site coverage permitted under paragraph (1) or (2), as the case may be; and\n(L.N. 406 of 1987)\n(b)\nthe plot ratio for the whole building shall not, subject to regulation 22, exceed the permitted plot ratio.\n(L.N. 406 of 1987)\n(5)\nIn this regulation, the expression\npermitted\npercentage site\ncoverage\n(准許上蓋面積百分率) means the maximum site coverage\npermitted under paragraph (2).\n(G.N.A. 97 of 1962)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s20_1",
+      "content": "(1)\nSubject to regulation 22 and depending on the height of the building—\n(L.N. 78 of 1970; L.N. 406 of 1987)\n(a)\nthe site coverage for a domestic building, or for the domestic part of a composite building, on a class A site shall not exceed that percentage of the area of the site specified in the second column of the First Schedule;\n(b)\nthe site coverage for a domestic building, or for the domestic part of a composite building, on a class B site shall not exceed that percentage of the area of the site specified in the third column of the First Schedule; and\n(c)\nthe site coverage for a domestic building, or for the domestic part of a composite building, on a class C site shall not exceed that percentage of the area of the site specified in the fourth column of the First Schedule."
+    },
+    {
+      "identifier": "s20_2",
+      "content": "(2)\nSubject to regulation 22 and paragraph (3) and depending on the height of the building—\n(L.N. 78 of 1970; L.N. 406 of 1987)\n(a)\nthe site coverage for a non-domestic building, or for the non-domestic part of a composite building, on a class A site shall not exceed that percentage of the area of the site specified in the eighth column of the First Schedule;\n(b)\nthe site coverage for a non-domestic building, or for the non-domestic part of a composite building, on a class B site shall not exceed that percentage of the area of the site specified in the ninth column of the First Schedule; and\n(c)\nthe site coverage for a non-domestic building, or for the non-domestic part of a composite building, on a class C site shall not exceed that percentage of the area of the site specified in the tenth column of the First Schedule."
+    },
+    {
+      "identifier": "s20_3",
+      "content": "(3)\nSubject to the provisions of paragraph (4), the site coverage for a non-domestic building, or for the non-domestic part of a composite building, on a class A, B or C site may, whatever the height of the building, exceed the permitted percentage site coverage to a height not exceeding 15 m above ground level.\n(L.N. 294 of 1976)"
+    },
+    {
+      "identifier": "s20_4",
+      "content": "(4)\nFor the avoidance of doubt, it is hereby declared that, where pursuant to paragraph (3) the permitted percentage site coverage is exceeded—\n(a)\nabove the level to which the permitted percentage site coverage is exceeded, the site coverage for the building or any part thereof shall not, subject to regulation 22, exceed the site coverage permitted under paragraph (1) or (2), as the case may be; and\n(L.N. 406 of 1987)\n(b)\nthe plot ratio for the whole building shall not, subject to regulation 22, exceed the permitted plot ratio.\n(L.N. 406 of 1987)"
+    },
+    {
+      "identifier": "s20_5",
+      "content": "(5)\nIn this regulation, the expression\npermitted\npercentage site\ncoverage\n(准許上蓋面積百分率) means the maximum site coverage\npermitted under paragraph (2)."
+    }
+  ],
+  "path": "legislation/provisions/cap123F/en/s20.json"
+}

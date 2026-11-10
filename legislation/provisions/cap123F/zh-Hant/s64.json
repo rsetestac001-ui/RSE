@@ -1,0 +1,30 @@
+{
+  "chapter": "123F",
+  "language": "zh-Hant",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/zh-Hant/cap_123F_20260917000000_zh-Hant_c.xml",
+  "sha256": "1507dac47a72681d534292fbcbffe25ea46dd7d615534e4b09ecc61be464cbd7",
+  "provision": "s64",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "須呈交圍板等的圖則",
+  "context": [
+    "圍板、有蓋人行道及門架"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402648674_001",
+  "content": "64.\n須呈交圍板等的圖則\n(1)\n每名建築物擁有人如擬 ——\n(a)\n建立、改動或拆卸任何建築物；或\n(b)\n進行任何挖掘工程，\n須向建築事務監督呈交就街道上行人、毗鄰處所的佔用人，或任何受僱進行該工程的工人的安全及方便而需要的圍板、有蓋人行道及門架的圖則。\n(2)\n該等圖則須連同為領取建立該等圍板、有蓋人行道及門架的准許證而以指明的表格提出的申請一併呈交。\n(1959年A83號政府公告；1962年A75號政府公告；1993年第350號法律公告)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s64_1",
+      "content": "(1)\n每名建築物擁有人如擬 ——\n(a)\n建立、改動或拆卸任何建築物；或\n(b)\n進行任何挖掘工程，\n須向建築事務監督呈交就街道上行人、毗鄰處所的佔用人，或任何受僱進行該工程的工人的安全及方便而需要的圍板、有蓋人行道及門架的圖則。"
+    },
+    {
+      "identifier": "s64_2",
+      "content": "(2)\n該等圖則須連同為領取建立該等圍板、有蓋人行道及門架的准許證而以指明的表格提出的申請一併呈交。\n(1959年A83號政府公告；1962年A75號政府公告；1993年第350號法律公告)"
+    }
+  ],
+  "path": "legislation/provisions/cap123F/zh-Hant/s64.json"
+}

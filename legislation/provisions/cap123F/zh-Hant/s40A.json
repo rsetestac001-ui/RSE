@@ -1,0 +1,30 @@
+{
+  "chapter": "123F",
+  "language": "zh-Hant",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/zh-Hant/cap_123F_20260917000000_zh-Hant_c.xml",
+  "sha256": "1507dac47a72681d534292fbcbffe25ea46dd7d615534e4b09ecc61be464cbd7",
+  "provision": "s40A",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "自動梯外須有樓梯或緊急情況用的逃生途徑",
+  "context": [
+    "樓梯、走火通道及供消防和救援用的通道"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402647909_003",
+  "content": "40A.\n自動梯外須有樓梯或緊急情況用的逃生途徑\n(1)\n如任何建築物裝有自動梯，則除該自動梯外，仍須有 ——\n(a)\n第39條所規定的任何樓梯；及\n(b)\n第41條所規定的第二道樓梯及緊急情況用的逃生途徑。\n(2)\n就第43條而言，自動梯並非樓梯、通道或其他正常出路。\n(1994年第97號法律公告)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s40A_1",
+      "content": "(1)\n如任何建築物裝有自動梯，則除該自動梯外，仍須有 ——\n(a)\n第39條所規定的任何樓梯；及\n(b)\n第41條所規定的第二道樓梯及緊急情況用的逃生途徑。"
+    },
+    {
+      "identifier": "s40A_2",
+      "content": "(2)\n就第43條而言，自動梯並非樓梯、通道或其他正常出路。"
+    }
+  ],
+  "path": "legislation/provisions/cap123F/zh-Hant/s40A.json"
+}

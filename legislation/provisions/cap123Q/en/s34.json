@@ -1,0 +1,34 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s34",
+  "kind": "section",
+  "role": "section",
+  "heading": "Roof",
+  "context": [
+    "Protection against Moisture and Water"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212646097_241",
+  "content": "34.\nRoof\n(1)\nThe roof of a building must be designed and constructed so as to make it weatherproof.\n(2)\nAdequate means must be provided to prevent ingress of water from the roof of a building to the adjoining floor.\n(3)\nAdequate means of access to the roof of a building or a projection from the roof must be provided for the maintenance or repair of the roof or projection.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s34_1",
+      "content": "(1)\nThe roof of a building must be designed and constructed so as to make it weatherproof."
+    },
+    {
+      "identifier": "s34_2",
+      "content": "(2)\nAdequate means must be provided to prevent ingress of water from the roof of a building to the adjoining floor."
+    },
+    {
+      "identifier": "s34_3",
+      "content": "(3)\nAdequate means of access to the roof of a building or a projection from the roof must be provided for the maintenance or repair of the roof or projection."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s34.json"
+}

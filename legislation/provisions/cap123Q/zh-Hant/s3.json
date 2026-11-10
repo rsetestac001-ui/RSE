@@ -1,0 +1,30 @@
+{
+  "chapter": "123Q",
+  "language": "zh-Hant",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/zh-Hant/cap_123Q_20210624000000_zh-Hant_c.xml",
+  "sha256": "129b8ed53fe271d87e100e62181f73ae84868e7e15a87c5664b1d93b62fd98c8",
+  "provision": "s3",
+  "kind": "section",
+  "role": "section",
+  "heading": "物料",
+  "context": [
+    "對物料的規定"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212657239_008",
+  "content": "3.\n物料\n(1)\n建築工程或街道工程所使用的所有物料，均須 ——\n(a)\n在性質及品質方面，適合其預定用途或目的；\n(b)\n充分混合或製備；及\n(c)\n在應用、使用或安裝時足以發揮其預定功用。\n(2)\n為確保第(1)款獲遵從，所使用的有關物料須藉認可測試，作充分測試。",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s3_1",
+      "content": "(1)\n建築工程或街道工程所使用的所有物料，均須 ——\n(a)\n在性質及品質方面，適合其預定用途或目的；\n(b)\n充分混合或製備；及\n(c)\n在應用、使用或安裝時足以發揮其預定功用。"
+    },
+    {
+      "identifier": "s3_2",
+      "content": "(2)\n為確保第(1)款獲遵從，所使用的有關物料須藉認可測試，作充分測試。"
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/zh-Hant/s3.json"
+}

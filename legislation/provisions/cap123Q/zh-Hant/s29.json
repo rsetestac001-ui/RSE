@@ -1,0 +1,34 @@
+{
+  "chapter": "123Q",
+  "language": "zh-Hant",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/zh-Hant/cap_123Q_20210624000000_zh-Hant_c.xml",
+  "sha256": "129b8ed53fe271d87e100e62181f73ae84868e7e15a87c5664b1d93b62fd98c8",
+  "provision": "s29",
+  "kind": "section",
+  "role": "section",
+  "heading": "幕牆——設計",
+  "context": [
+    "對外牆、覆蓋層及幕牆的規定"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212657598_215",
+  "content": "29.\n幕牆——設計\n(1)\n建築物的幕牆，須能 ——\n(a)\n安全地承受恆載、外加荷載及風荷載的組合；及\n(b)\n將(a)段提述的荷載，安全地傳遞至該建築物的承載構築物，\n而不會導致任何可能損壞該牆或損害其穩定性的變位或變形。\n(2)\n建築物幕牆的設計，須符合關乎該設計及物料在結構上的使用的認可工程原理。\n(3)\n為防止建築物的幕牆受滲水或冷凝損壞，須設有從該牆收集和排去任何滲漏或冷凝的水的設施。",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s29_1",
+      "content": "(1)\n建築物的幕牆，須能 ——\n(a)\n安全地承受恆載、外加荷載及風荷載的組合；及\n(b)\n將(a)段提述的荷載，安全地傳遞至該建築物的承載構築物，\n而不會導致任何可能損壞該牆或損害其穩定性的變位或變形。"
+    },
+    {
+      "identifier": "s29_2",
+      "content": "(2)\n建築物幕牆的設計，須符合關乎該設計及物料在結構上的使用的認可工程原理。"
+    },
+    {
+      "identifier": "s29_3",
+      "content": "(3)\n為防止建築物的幕牆受滲水或冷凝損壞，須設有從該牆收集和排去任何滲漏或冷凝的水的設施。"
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/zh-Hant/s29.json"
+}

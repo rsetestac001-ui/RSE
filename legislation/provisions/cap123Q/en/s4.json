@@ -1,0 +1,38 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s4",
+  "kind": "section",
+  "role": "section",
+  "heading": "Dead loads",
+  "context": [
+    "Loads"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645472_015",
+  "content": "4.\nDead loads\n(1)\nIn this Regulation, a reference to dead load is to be construed according to this section.\n(2)\nDead load is a load of permanent nature.\n(3)\nThe dead load of any building, street, building works or street works is, in each case, the total weight of its walls, floors, roofs, finishes, permanent partitions and any other permanent constructions.\n(4)\nFor the purposes of subsection (3), the dead load must be calculated on the basis of the unit weight of the materials derived from reliable data.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s4_1",
+      "content": "(1)\nIn this Regulation, a reference to dead load is to be construed according to this section."
+    },
+    {
+      "identifier": "s4_2",
+      "content": "(2)\nDead load is a load of permanent nature."
+    },
+    {
+      "identifier": "s4_3",
+      "content": "(3)\nThe dead load of any building, street, building works or street works is, in each case, the total weight of its walls, floors, roofs, finishes, permanent partitions and any other permanent constructions."
+    },
+    {
+      "identifier": "s4_4",
+      "content": "(4)\nFor the purposes of subsection (3), the dead load must be calculated on the basis of the unit weight of the materials derived from reliable data."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s4.json"
+}

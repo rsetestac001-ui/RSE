@@ -1,0 +1,34 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s36I",
+  "kind": "section",
+  "role": "section",
+  "heading": "Admissibility in evidence of copies, etc.",
+  "context": [
+    "Miscellaneous and General"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402642917_002",
+  "content": "36I.\nAdmissibility in evidence of copies, etc.\n(1)\nA copy, a print or an extract of or from a specified document or a specified document record that purports to be a true copy, print or extract of or from the specified document or the specified document record, is admissible in evidence in criminal or civil proceedings before any court on its production without further proof if it is certified under section 36H.\n(2)\nThe court before which the certified copy, print or extract is produced shall, unless there is evidence to the contrary, presume that—\n(a)\nthe certification or signature is made by the Building Authority or a public officer authorized by the Building Authority; and\n(b)\nit is a true copy, print or extract.\n(3)\nNothing in this section—\n(a)\naffects any claim of the Government to withhold the original of any specified document or a specified document record on the ground that its production would be contrary to the public interest; or\n(b)\naffects the admissibility of any evidence which would be admissible apart from the provisions of this section.\n(Added 20 of 2008 s. 24)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s36I_1",
+      "content": "(1)\nA copy, a print or an extract of or from a specified document or a specified document record that purports to be a true copy, print or extract of or from the specified document or the specified document record, is admissible in evidence in criminal or civil proceedings before any court on its production without further proof if it is certified under section 36H."
+    },
+    {
+      "identifier": "s36I_2",
+      "content": "(2)\nThe court before which the certified copy, print or extract is produced shall, unless there is evidence to the contrary, presume that—\n(a)\nthe certification or signature is made by the Building Authority or a public officer authorized by the Building Authority; and\n(b)\nit is a true copy, print or extract."
+    },
+    {
+      "identifier": "s36I_3",
+      "content": "(3)\nNothing in this section—\n(a)\naffects any claim of the Government to withhold the original of any specified document or a specified document record on the ground that its production would be contrary to the public interest; or\n(b)\naffects the admissibility of any evidence which would be admissible apart from the provisions of this section."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s36I.json"
+}

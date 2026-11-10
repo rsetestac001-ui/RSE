@@ -1,0 +1,34 @@
+{
+  "chapter": "123A",
+  "language": "en",
+  "version_date": "2024-06-30",
+  "xml_path": "legislation/raw/cap123A/en/cap_123A_20240630000000_en_c.xml",
+  "sha256": "5771573b06136e07b8ae6089ce698688f3d10bcd2b49e6a2bc79daddd58fb6f9",
+  "provision": "s13",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Ratio of plans",
+  "context": [
+    "Plans, Certificates and Notices"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123A?xpid=ID_1438402644056_001",
+  "content": "13.\nRatio of plans\n(1)\nPlans and sections of building works shall be drawn to a ratio of not less than 1:100:\nProvided that, in the case of very extensive building works, the Building Authority may accept plans drawn to a ratio of not less than 1:200.\n(2)\n(a)\nEvery key plan submitted in respect of street works shall be drawn to a\nratio of not less than 1:2\n500.\n(b)\nEvery layout plan so submitted shall be drawn to a ratio of not less than\n1:200.\n(c)\nLongitudinal sections so submitted shall—\n(i)\nif horizontal, be drawn to a ratio of not less than 1:500;\nand\n(ii)\nif vertical, be drawn to a ratio of not less than 1:200.\n(d)\nCross sections so submitted shall be drawn to a ratio of not less than\n1:200.\n(e)\nTypical road sections so submitted shall be drawn to a ratio of not less\nthan 1:50.\n(3)\nEvery block plan shall be drawn to a ratio of not less than 1:500.\n(L.N. 294 of 1976)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s13_1",
+      "content": "(1)\nPlans and sections of building works shall be drawn to a ratio of not less than 1:100:\nProvided that, in the case of very extensive building works, the Building Authority may accept plans drawn to a ratio of not less than 1:200."
+    },
+    {
+      "identifier": "s13_2",
+      "content": "(2)\n(a)\nEvery key plan submitted in respect of street works shall be drawn to a\nratio of not less than 1:2\n500.\n(b)\nEvery layout plan so submitted shall be drawn to a ratio of not less than\n1:200.\n(c)\nLongitudinal sections so submitted shall—\n(i)\nif horizontal, be drawn to a ratio of not less than 1:500;\nand\n(ii)\nif vertical, be drawn to a ratio of not less than 1:200.\n(d)\nCross sections so submitted shall be drawn to a ratio of not less than\n1:200.\n(e)\nTypical road sections so submitted shall be drawn to a ratio of not less\nthan 1:50."
+    },
+    {
+      "identifier": "s13_3",
+      "content": "(3)\nEvery block plan shall be drawn to a ratio of not less than 1:500."
+    }
+  ],
+  "path": "legislation/provisions/cap123A/en/s13.json"
+}

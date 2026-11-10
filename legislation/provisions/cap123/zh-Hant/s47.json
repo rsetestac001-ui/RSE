@@ -1,0 +1,21 @@
+{
+  "chapter": "123",
+  "language": "zh-Hant",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/zh-Hant/cap_123_20260301000000_zh-Hant_c.xml",
+  "sha256": "c563be5190519c71a48e73e4242ded97a7b163828dd618f1d7bd442168d18a87",
+  "provision": "s47",
+  "kind": "section",
+  "role": "section",
+  "heading": "上訴通知",
+  "context": [
+    "上訴"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402643276_001",
+  "content": "47.\n上訴通知\n任何人行使第44條所賦予的上訴權利，須以訂明方式向上訴審裁小組秘書發出上訴通知，就有關決定提出上訴，上訴審裁小組秘書須於關於該項決定的通知送交該人之日後不遲於21天收到上訴通知。",
+  "images": [],
+  "subsections": [],
+  "path": "legislation/provisions/cap123/zh-Hant/s47.json"
+}

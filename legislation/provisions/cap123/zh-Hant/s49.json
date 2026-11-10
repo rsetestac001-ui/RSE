@@ -1,0 +1,30 @@
+{
+  "chapter": "123",
+  "language": "zh-Hant",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/zh-Hant/cap_123_20260301000000_zh-Hant_c.xml",
+  "sha256": "c563be5190519c71a48e73e4242ded97a7b163828dd618f1d7bd442168d18a87",
+  "provision": "s49",
+  "kind": "section",
+  "role": "section",
+  "heading": "初步聆訊",
+  "context": [
+    "上訴"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402643307_001",
+  "content": "49.\n初步聆訊\n(1)\n上訴審裁小組可在其認為適當的情況下進行初步聆訊，以裁定是否有應進行全面聆訊的好的因由提出。\n(2)\n上訴審裁小組如裁定並無應進行全面聆訊的好的因由提出，則須作出命令，駁回上訴，否則須進行全面聆訊。",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s49_1",
+      "content": "(1)\n上訴審裁小組可在其認為適當的情況下進行初步聆訊，以裁定是否有應進行全面聆訊的好的因由提出。"
+    },
+    {
+      "identifier": "s49_2",
+      "content": "(2)\n上訴審裁小組如裁定並無應進行全面聆訊的好的因由提出，則須作出命令，駁回上訴，否則須進行全面聆訊。"
+    }
+  ],
+  "path": "legislation/provisions/cap123/zh-Hant/s49.json"
+}

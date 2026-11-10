@@ -1,0 +1,34 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s28A",
+  "kind": "section",
+  "role": "section",
+  "heading": "Groundwater drainage works in scheduled area",
+  "context": [
+    "Control of Building"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402642246_001",
+  "content": "28A.\nGroundwater drainage works in scheduled area\n(1)\nFor the purposes of this section and sections 28B, 28C and 28D the relevant works (有關工程) means the groundwater drainage works considered necessary by the Building Authority under subsection (2), maintain and maintenance (保養) include respectively repair and repairs, and successor (繼承人), in relation to any person, means a person who derives title under a disposition for valuable consideration and any other successor in title.\n(2)\nWhere, in connexion with any building works in area number 1 of the scheduled areas, the Building Authority considers that groundwater drainage works, whether or not extending beyond the boundaries of the site upon which the building works are to be carried out, are necessary, he may require plans prescribed by regulations to show the relevant works notwithstanding that the relevant works extend beyond those boundaries.\n(Amended 52 of 1990 s. 6)\n(3)\nAny approval by the Building Authority of plans showing the relevant works shall include a requirement to maintain the relevant works to the satisfaction of the Building Authority for any period specified in the requirement; and section 28B shall apply in relation to the maintenance of the relevant works as it applies in relation to the carrying out of the works.\n(Added 41 of 1982 s. 8)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s28A_1",
+      "content": "(1)\nFor the purposes of this section and sections 28B, 28C and 28D the relevant works (有關工程) means the groundwater drainage works considered necessary by the Building Authority under subsection (2), maintain and maintenance (保養) include respectively repair and repairs, and successor (繼承人), in relation to any person, means a person who derives title under a disposition for valuable consideration and any other successor in title."
+    },
+    {
+      "identifier": "s28A_2",
+      "content": "(2)\nWhere, in connexion with any building works in area number 1 of the scheduled areas, the Building Authority considers that groundwater drainage works, whether or not extending beyond the boundaries of the site upon which the building works are to be carried out, are necessary, he may require plans prescribed by regulations to show the relevant works notwithstanding that the relevant works extend beyond those boundaries.\n(Amended 52 of 1990 s. 6)"
+    },
+    {
+      "identifier": "s28A_3",
+      "content": "(3)\nAny approval by the Building Authority of plans showing the relevant works shall include a requirement to maintain the relevant works to the satisfaction of the Building Authority for any period specified in the requirement; and section 28B shall apply in relation to the maintenance of the relevant works as it applies in relation to the carrying out of the works."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s28A.json"
+}

@@ -1,0 +1,34 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s7",
+  "kind": "section",
+  "role": "section",
+  "heading": "Imposed loads to be applied",
+  "context": [
+    "Loads"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645582_030",
+  "content": "7.\nImposed loads to be applied\n(1)\nThe minimum imposed load on a building, street, building works or street works must be whichever of the following that produces the greater adverse effect on the building, street, building works or street works—\n(a)\nthe distributed load specified in column 3 of Table 1 in the Schedule applied uniformly on plan; or\n(b)\neither of the following—\n(i)\nthe concentrated load specified in column 4 of the Table applied on plan over any square with a 50 mm side (or other dimension specified in that column);\n(ii)\nthe line load specified in column 4 of the Table.\n(2)\nIf the floor of a building is to support partitions but the positions of the partitions are not indicated on the plan of the building, the weight of the partitions—\n(a)\nis to be regarded as the distributed imposed load applied uniformly on plan; and\n(b)\nin addition to other imposed loads—\n(i)\nhas to be not less than one-third of the weight per metre length of the partitions uniformly distributed per square metre; and\n(ii)\nhas to be not less than 1 kPa if the floor is used for office purposes.\n(3)\nIf the floor of a building is to support equipment, machinery or displaying items that will result in an imposed load greater than that specified in Table 1, the load of the equipment, machinery or displaying items must be taken into account in determining the imposed load on the floor.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s7_1",
+      "content": "(1)\nThe minimum imposed load on a building, street, building works or street works must be whichever of the following that produces the greater adverse effect on the building, street, building works or street works—\n(a)\nthe distributed load specified in column 3 of Table 1 in the Schedule applied uniformly on plan; or\n(b)\neither of the following—\n(i)\nthe concentrated load specified in column 4 of the Table applied on plan over any square with a 50 mm side (or other dimension specified in that column);\n(ii)\nthe line load specified in column 4 of the Table."
+    },
+    {
+      "identifier": "s7_2",
+      "content": "(2)\nIf the floor of a building is to support partitions but the positions of the partitions are not indicated on the plan of the building, the weight of the partitions—\n(a)\nis to be regarded as the distributed imposed load applied uniformly on plan; and\n(b)\nin addition to other imposed loads—\n(i)\nhas to be not less than one-third of the weight per metre length of the partitions uniformly distributed per square metre; and\n(ii)\nhas to be not less than 1 kPa if the floor is used for office purposes."
+    },
+    {
+      "identifier": "s7_3",
+      "content": "(3)\nIf the floor of a building is to support equipment, machinery or displaying items that will result in an imposed load greater than that specified in Table 1, the load of the equipment, machinery or displaying items must be taken into account in determining the imposed load on the floor."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s7.json"
+}

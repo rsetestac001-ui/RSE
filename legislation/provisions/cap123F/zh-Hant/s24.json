@@ -1,0 +1,34 @@
+{
+  "chapter": "123F",
+  "language": "zh-Hant",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/zh-Hant/cap_123F_20260917000000_zh-Hant_c.xml",
+  "sha256": "1507dac47a72681d534292fbcbffe25ea46dd7d615534e4b09ecc61be464cbd7",
+  "provision": "s24",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "樓層高度",
+  "context": [
+    "高度、上蓋面積、地積比率、空地及通道巷"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402647597_003",
+  "content": "24.\n樓層高度\n(1)\n任何建築物內每個用作或擬用作辦公室或居住用途的房間，由樓面量度至天花板的高度須不少於2.5米：\n(1987年第406號法律公告)\n但由樓面量度至任何梁的底面的高度須不少於2.3米。\n(2)\n任何該等房間如有斜面天花板，其高度須量度至該天花板在樓面水平之上的平均高度：\n但任何房間任何部分的高度不得少於2米。\n(3)\n(由1987年第406號法律公告廢除)\n(1976年第294號法律公告)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s24_1",
+      "content": "(1)\n任何建築物內每個用作或擬用作辦公室或居住用途的房間，由樓面量度至天花板的高度須不少於2.5米：\n(1987年第406號法律公告)\n但由樓面量度至任何梁的底面的高度須不少於2.3米。"
+    },
+    {
+      "identifier": "s24_2",
+      "content": "(2)\n任何該等房間如有斜面天花板，其高度須量度至該天花板在樓面水平之上的平均高度：\n但任何房間任何部分的高度不得少於2米。"
+    },
+    {
+      "identifier": "s24_3",
+      "content": "(3)\n(由1987年第406號法律公告廢除)"
+    }
+  ],
+  "path": "legislation/provisions/cap123F/zh-Hant/s24.json"
+}

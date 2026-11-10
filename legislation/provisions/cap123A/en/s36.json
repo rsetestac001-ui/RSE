@@ -1,0 +1,30 @@
+{
+  "chapter": "123A",
+  "language": "en",
+  "version_date": "2024-06-30",
+  "xml_path": "legislation/raw/cap123A/en/cap_123A_20240630000000_en_c.xml",
+  "sha256": "5771573b06136e07b8ae6089ce698688f3d10bcd2b49e6a2bc79daddd58fb6f9",
+  "provision": "s36",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Duty of authorized person to supply copy of plans of building works or street works\nto registered contractor",
+  "context": [
+    "Duties of Authorized Person, Registered Structural Engineer or Registered\nGeotechnical Engineer and Registered Contractors Appointed in respect of Building Works\nor Street\nWorks"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123A?xpid=ID_1438402644555_002",
+  "content": "36.\nDuty of authorized person to supply copy of plans of building works or street works\nto registered contractor\n(1)\nThe authorized person appointed in respect of any building works or street\nworks shall supply to the registered general building contractor, registered\nspecialist contractor and registered minor works contractor appointed in respect\nthereof a copy, stamped, signed and dated, in accordance with regulation\n30, by the Building Authority, of every plan approved by the Building\nAuthority and a copy of any supervision plan in respect of the building works or\nstreet works, as the case may be.\n(L.N. 188 of 1974)\n(2)\nWhere the structural details or geotechnical details have been prepared by a\nregistered structural engineer or a registered geotechnical engineer, as the case\nmay be, and approved by the Building Authority it shall be the responsibility of the\nauthorized person to ensure that the registered general building contractor,\nregistered specialist contractor and registered minor works contractor are supplied\nwith a copy thereof.\n(L.N. 188 of 1974; 15 of\n2004 s. 53)\n(L.N. 514 of 1997; 20\nof 2008 s. 40)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s36_1",
+      "content": "(1)\nThe authorized person appointed in respect of any building works or street\nworks shall supply to the registered general building contractor, registered\nspecialist contractor and registered minor works contractor appointed in respect\nthereof a copy, stamped, signed and dated, in accordance with regulation\n30, by the Building Authority, of every plan approved by the Building\nAuthority and a copy of any supervision plan in respect of the building works or\nstreet works, as the case may be.\n(L.N. 188 of 1974)"
+    },
+    {
+      "identifier": "s36_2",
+      "content": "(2)\nWhere the structural details or geotechnical details have been prepared by a\nregistered structural engineer or a registered geotechnical engineer, as the case\nmay be, and approved by the Building Authority it shall be the responsibility of the\nauthorized person to ensure that the registered general building contractor,\nregistered specialist contractor and registered minor works contractor are supplied\nwith a copy thereof.\n(L.N. 188 of 1974; 15 of\n2004 s. 53)"
+    }
+  ],
+  "path": "legislation/provisions/cap123A/en/s36.json"
+}

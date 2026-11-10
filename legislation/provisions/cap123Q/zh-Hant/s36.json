@@ -1,0 +1,30 @@
+{
+  "chapter": "123Q",
+  "language": "zh-Hant",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/zh-Hant/cap_123Q_20210624000000_zh-Hant_c.xml",
+  "sha256": "129b8ed53fe271d87e100e62181f73ae84868e7e15a87c5664b1d93b62fd98c8",
+  "provision": "s36",
+  "kind": "section",
+  "role": "section",
+  "heading": "適用範圍——第1分部",
+  "context": [
+    "對使用者安全的規定"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212657661_258",
+  "content": "36.\n適用範圍——第1分部\n(1)\n本分部不適用於 ——\n(a)\n聚會禮堂的舞台；\n(b)\n供裝卸貨物的泊車位；\n(c)\n非開放屋頂；\n(d)\n非開放地方；或\n(e)\n由1個家庭佔用的住用處所內的任何空間(不屬非開放屋頂的屋頂除外)。\n(2)\n在本條中 ——\n非開放地方 (inaccessible area)指符合以下說明的地方 ——\n(a)\n並非擬供人佔用；及\n(b)\n擬僅供進行保養或修葺工程的人員進入；\n非開放屋頂 (inaccessible roof)指符合以下說明的屋頂 ——\n(a)\n並非擬供人佔用；及\n(b)\n擬僅供進行保養或修葺工程的人員進入。",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s36_1",
+      "content": "(1)\n本分部不適用於 ——\n(a)\n聚會禮堂的舞台；\n(b)\n供裝卸貨物的泊車位；\n(c)\n非開放屋頂；\n(d)\n非開放地方；或\n(e)\n由1個家庭佔用的住用處所內的任何空間(不屬非開放屋頂的屋頂除外)。"
+    },
+    {
+      "identifier": "s36_2",
+      "content": "(2)\n在本條中 ——\n非開放地方 (inaccessible area)指符合以下說明的地方 ——\n(a)\n並非擬供人佔用；及\n(b)\n擬僅供進行保養或修葺工程的人員進入；\n非開放屋頂 (inaccessible roof)指符合以下說明的屋頂 ——\n(a)\n並非擬供人佔用；及\n(b)\n擬僅供進行保養或修葺工程的人員進入。"
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/zh-Hant/s36.json"
+}

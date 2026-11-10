@@ -1,0 +1,38 @@
+{
+  "chapter": "123A",
+  "language": "en",
+  "version_date": "2024-06-30",
+  "xml_path": "legislation/raw/cap123A/en/cap_123A_20240630000000_en_c.xml",
+  "sha256": "5771573b06136e07b8ae6089ce698688f3d10bcd2b49e6a2bc79daddd58fb6f9",
+  "provision": "s32",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Consent to commencement",
+  "context": [
+    "Procedure in connexion with Approval of Plans and Consent for Commencement of Building Works and Street Works"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123A?xpid=ID_1438402644477_002",
+  "content": "32.\nConsent to commencement\n(1)\nThe consent of the Building Authority to the commencement of any building works or street works shall be signified by notice in writing served on the person applying therefor.\n(L.N. 347 of 1993)\n(2)\nThe Building Authority may give his consent to the commencement of any part of any building works the plans of which have been approved.\n(3)\nThe period referred to in section 15 of the Ordinance in connexion with consent being deemed to have been given shall be 28 days.\n(L.N. 136 of 1964)\n(4)-(5)\n(Repealed L.N. 233 of 1982)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s32_1",
+      "content": "(1)\nThe consent of the Building Authority to the commencement of any building works or street works shall be signified by notice in writing served on the person applying therefor.\n(L.N. 347 of 1993)"
+    },
+    {
+      "identifier": "s32_2",
+      "content": "(2)\nThe Building Authority may give his consent to the commencement of any part of any building works the plans of which have been approved."
+    },
+    {
+      "identifier": "s32_3",
+      "content": "(3)\nThe period referred to in section 15 of the Ordinance in connexion with consent being deemed to have been given shall be 28 days.\n(L.N. 136 of 1964)"
+    },
+    {
+      "identifier": "s32_4...5",
+      "content": "(4)-(5)\n(Repealed L.N. 233 of 1982)"
+    }
+  ],
+  "path": "legislation/provisions/cap123A/en/s32.json"
+}

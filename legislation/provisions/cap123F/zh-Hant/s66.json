@@ -1,0 +1,38 @@
+{
+  "chapter": "123F",
+  "language": "zh-Hant",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/zh-Hant/cap_123F_20260917000000_zh-Hant_c.xml",
+  "sha256": "1507dac47a72681d534292fbcbffe25ea46dd7d615534e4b09ecc61be464cbd7",
+  "provision": "s66",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "圍板等的保養",
+  "context": [
+    "圍板、有蓋人行道及門架"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402648689_002",
+  "content": "66.\n圍板等的保養\n(1)\n每名建築物擁有人須在第64條指明的建築工程展開前，按照根據第65條發出的准許證的規定，建立圍板、有蓋人行道及門架，並須在准許證繼續生效期間，保持圍板、有蓋人行道及門架維修良好。\n(2)\n除非獲建築事務監督豁免，否則所有圍板須為密縫式圍板，但在隔離地盤的圍板除外。\n(3)\n任何圍板、有蓋人行道、門架或建築物料，不得阻塞任何排水渠道。\n(4)\n除對建築物的描述及任何與建築物的建造有關的人的姓名或名稱外，在任何該等圍板或有蓋人行道上不得展示任何廣告。\n(1959年A83號政府公告；1962年A75號政府公告)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s66_1",
+      "content": "(1)\n每名建築物擁有人須在第64條指明的建築工程展開前，按照根據第65條發出的准許證的規定，建立圍板、有蓋人行道及門架，並須在准許證繼續生效期間，保持圍板、有蓋人行道及門架維修良好。"
+    },
+    {
+      "identifier": "s66_2",
+      "content": "(2)\n除非獲建築事務監督豁免，否則所有圍板須為密縫式圍板，但在隔離地盤的圍板除外。"
+    },
+    {
+      "identifier": "s66_3",
+      "content": "(3)\n任何圍板、有蓋人行道、門架或建築物料，不得阻塞任何排水渠道。"
+    },
+    {
+      "identifier": "s66_4",
+      "content": "(4)\n除對建築物的描述及任何與建築物的建造有關的人的姓名或名稱外，在任何該等圍板或有蓋人行道上不得展示任何廣告。"
+    }
+  ],
+  "path": "legislation/provisions/cap123F/zh-Hant/s66.json"
+}

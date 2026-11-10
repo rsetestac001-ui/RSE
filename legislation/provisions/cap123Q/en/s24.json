@@ -1,0 +1,46 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s24",
+  "kind": "section",
+  "role": "section",
+  "heading": "Retaining wall—drainage and other requirements",
+  "context": [
+    "Requirements for Site Formation Works"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645988_174",
+  "content": "24.\nRetaining wall—drainage and other requirements\n(1)\nThis section applies to a retaining wall other than a minor retaining wall.\n(2)\nThe design and construction of a filter of a retaining wall that is placed against soil must—\n(a)\nallow water to flow through the filter; and\n(b)\nrestrain migration of particles from the soil.\n(3)\nIf a drainage system is provided for a retaining wall to reduce any water pressure that may be imposed on the wall, the system must be designed and constructed so that the performance of the system can be maintained throughout the service life of the wall.\n(4)\nBackfill of a retaining wall must consist of material that can be compacted to form a stable fill.\n(5)\nTo carry away any water seepage or surface water of a retaining wall, there must be, on both the upper ground level and the lower ground level next to the wall—\n(a)\nchannels of suitable size; or\n(b)\npaving.\n(6)\nThe channels or paving referred to in subsection (5) must be laid to an adequate gradient to direct the water to flow into a surface water drain.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s24_1",
+      "content": "(1)\nThis section applies to a retaining wall other than a minor retaining wall."
+    },
+    {
+      "identifier": "s24_2",
+      "content": "(2)\nThe design and construction of a filter of a retaining wall that is placed against soil must—\n(a)\nallow water to flow through the filter; and\n(b)\nrestrain migration of particles from the soil."
+    },
+    {
+      "identifier": "s24_3",
+      "content": "(3)\nIf a drainage system is provided for a retaining wall to reduce any water pressure that may be imposed on the wall, the system must be designed and constructed so that the performance of the system can be maintained throughout the service life of the wall."
+    },
+    {
+      "identifier": "s24_4",
+      "content": "(4)\nBackfill of a retaining wall must consist of material that can be compacted to form a stable fill."
+    },
+    {
+      "identifier": "s24_5",
+      "content": "(5)\nTo carry away any water seepage or surface water of a retaining wall, there must be, on both the upper ground level and the lower ground level next to the wall—\n(a)\nchannels of suitable size; or\n(b)\npaving."
+    },
+    {
+      "identifier": "s24_6",
+      "content": "(6)\nThe channels or paving referred to in subsection (5) must be laid to an adequate gradient to direct the water to flow into a surface water drain."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s24.json"
+}

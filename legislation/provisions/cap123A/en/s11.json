@@ -1,0 +1,34 @@
+{
+  "chapter": "123A",
+  "language": "en",
+  "version_date": "2024-06-30",
+  "xml_path": "legislation/raw/cap123A/en/cap_123A_20240630000000_en_c.xml",
+  "sha256": "5771573b06136e07b8ae6089ce698688f3d10bcd2b49e6a2bc79daddd58fb6f9",
+  "provision": "s11",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "Submission\nof plans and related documents",
+  "context": [
+    "Plans, Certificates and Notices"
+  ],
+  "status": "operational",
+  "start_period": "2022-03-31",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123A?xpid=ID_1438402644009_001",
+  "content": "11.\nSubmission\nof plans and related documents\n(1)\nA plan or a related document that is submitted in hard copy form to the\nBuilding Authority for approval must be submitted in duplicate.\n(2)\nIf a plan or a related document is submitted (whether or not in hard copy form)\nto the Building Authority for approval, the Building Authority may require the\nsubmission of any additional copies of it in hard copy form that the Building\nAuthority considers necessary.\n(3)\nIn this regulation—\nrelated document (相關文件)\nmeans—\n(a)\nall details of ground treatment work proposed in connection with a\nplan; or\n(b)\na site investigation report in connection with a plan.\n(L.N. 222 of 2021)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s11_1",
+      "content": "(1)\nA plan or a related document that is submitted in hard copy form to the\nBuilding Authority for approval must be submitted in duplicate."
+    },
+    {
+      "identifier": "s11_2",
+      "content": "(2)\nIf a plan or a related document is submitted (whether or not in hard copy form)\nto the Building Authority for approval, the Building Authority may require the\nsubmission of any additional copies of it in hard copy form that the Building\nAuthority considers necessary."
+    },
+    {
+      "identifier": "s11_3",
+      "content": "(3)\nIn this regulation—\nrelated document (相關文件)\nmeans—\n(a)\nall details of ground treatment work proposed in connection with a\nplan; or\n(b)\na site investigation report in connection with a plan."
+    }
+  ],
+  "path": "legislation/provisions/cap123A/en/s11.json"
+}

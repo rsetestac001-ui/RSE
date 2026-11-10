@@ -1,0 +1,30 @@
+{
+  "chapter": "123F",
+  "language": "zh-Hant",
+  "version_date": "2026-09-17",
+  "xml_path": "legislation/raw/cap123F/zh-Hant/cap_123F_20260917000000_zh-Hant_c.xml",
+  "sha256": "1507dac47a72681d534292fbcbffe25ea46dd7d615534e4b09ecc61be464cbd7",
+  "provision": "s67",
+  "kind": "section",
+  "role": "regulation",
+  "heading": "持證人的法律責任",
+  "context": [
+    "圍板、有蓋人行道及門架"
+  ],
+  "status": "operational",
+  "start_period": "2020-09-10",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402648705_001",
+  "content": "67.\n持證人的法律責任\n(1)\n如任何建築物擁有人沒有遵從建築事務監督依據第65條條文所作的任何規定，或沒有遵從第66條的條文，或在建立或保養圍板、有蓋人行道及門架時導致政府財產損毀，則建築事務監督可安排建立和保養他認為所需的圍板、有蓋人行道及門架，亦可進行他認為所需的工程，以確保依據第65條所作的任何規定獲得遵從，並可修復任何該等損毀。\n(1959年A83號政府公告；1962年A75號政府公告)\n(2)\n建築事務監督可向建築物擁有人追討該等工程的費用。",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s67_1",
+      "content": "(1)\n如任何建築物擁有人沒有遵從建築事務監督依據第65條條文所作的任何規定，或沒有遵從第66條的條文，或在建立或保養圍板、有蓋人行道及門架時導致政府財產損毀，則建築事務監督可安排建立和保養他認為所需的圍板、有蓋人行道及門架，亦可進行他認為所需的工程，以確保依據第65條所作的任何規定獲得遵從，並可修復任何該等損毀。\n(1959年A83號政府公告；1962年A75號政府公告)"
+    },
+    {
+      "identifier": "s67_2",
+      "content": "(2)\n建築事務監督可向建築物擁有人追討該等工程的費用。"
+    }
+  ],
+  "path": "legislation/provisions/cap123F/zh-Hant/s67.json"
+}

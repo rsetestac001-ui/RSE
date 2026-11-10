@@ -1,0 +1,50 @@
+{
+  "chapter": "123",
+  "language": "en",
+  "version_date": "2026-03-01",
+  "xml_path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+  "sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+  "provision": "s28B",
+  "kind": "section",
+  "role": "section",
+  "heading": "Authorization to carry out relevant works in case of objection etc. by persons whose property is affected",
+  "context": [
+    "Control of Building"
+  ],
+  "status": "operational",
+  "start_period": "2012-02-09",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402642262_001",
+  "content": "28B.\nAuthorization to carry out relevant works in case of objection etc. by persons whose property is affected\n(1)\nWhere the relevant works or any part thereof cannot be carried out by reason of the objection or want of agreement of any person whose property would be entered upon, cut through or interfered with by or for the purpose of the works, the person in connexion with whose building works any plans for the relevant works have been approved or, as the case may be, any of his successors may apply in the specified form to the Building Authority for an order under this section authorizing him to carry out the relevant works.\n(2)\nNotice in writing of the application, of the place where it can be inspected and of the time, which shall be the period of 30 days commencing with the date of service of the notice, within which objections to the relevant works may be made to the Building Authority shall be served by him on every person, not a party to the application, whose property is proposed to be entered upon, cut through or interfered with:\nProvided that, in the case of any such person who is not known, it shall be sufficient notice to cause a copy of the notice to be published under subsection (3).\n(3)\nWithout prejudice to section 35, the Building Authority shall cause a copy of the notice required by subsection (2) to be published once in the Gazette and once in 2 English language and 2 Chinese language daily newspapers.\n(4)\nThe Building Authority shall consider every objection to the relevant works made to him within the time specified in the notice and not withdrawn and, by order in writing, may, subject to such conditions as he considers necessary, authorize with or without alteration the carrying out of the relevant works.\n(5)\nNotice in writing of any authorization under subsection (4) or of any refusal so to authorize shall be served by the Building Authority on every person required to be served with a notice under subsection (2).\n(6)\nThe person authorized under subsection (4) shall have authority to carry out the relevant works and for that purpose to enter upon any land specified in the authorization.\n(7)\nAn authorization granted under subsection (4) to any person shall be deemed also to authorize any servant or agent of that person, and the agent’s servants.\n(Added 41 of 1982 s. 8. Amended 68 of 1993 s. 17)",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s28B_1",
+      "content": "(1)\nWhere the relevant works or any part thereof cannot be carried out by reason of the objection or want of agreement of any person whose property would be entered upon, cut through or interfered with by or for the purpose of the works, the person in connexion with whose building works any plans for the relevant works have been approved or, as the case may be, any of his successors may apply in the specified form to the Building Authority for an order under this section authorizing him to carry out the relevant works."
+    },
+    {
+      "identifier": "s28B_2",
+      "content": "(2)\nNotice in writing of the application, of the place where it can be inspected and of the time, which shall be the period of 30 days commencing with the date of service of the notice, within which objections to the relevant works may be made to the Building Authority shall be served by him on every person, not a party to the application, whose property is proposed to be entered upon, cut through or interfered with:\nProvided that, in the case of any such person who is not known, it shall be sufficient notice to cause a copy of the notice to be published under subsection (3)."
+    },
+    {
+      "identifier": "s28B_3",
+      "content": "(3)\nWithout prejudice to section 35, the Building Authority shall cause a copy of the notice required by subsection (2) to be published once in the Gazette and once in 2 English language and 2 Chinese language daily newspapers."
+    },
+    {
+      "identifier": "s28B_4",
+      "content": "(4)\nThe Building Authority shall consider every objection to the relevant works made to him within the time specified in the notice and not withdrawn and, by order in writing, may, subject to such conditions as he considers necessary, authorize with or without alteration the carrying out of the relevant works."
+    },
+    {
+      "identifier": "s28B_5",
+      "content": "(5)\nNotice in writing of any authorization under subsection (4) or of any refusal so to authorize shall be served by the Building Authority on every person required to be served with a notice under subsection (2)."
+    },
+    {
+      "identifier": "s28B_6",
+      "content": "(6)\nThe person authorized under subsection (4) shall have authority to carry out the relevant works and for that purpose to enter upon any land specified in the authorization."
+    },
+    {
+      "identifier": "s28B_7",
+      "content": "(7)\nAn authorization granted under subsection (4) to any person shall be deemed also to authorize any servant or agent of that person, and the agent’s servants."
+    }
+  ],
+  "path": "legislation/provisions/cap123/en/s28B.json"
+}

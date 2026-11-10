@@ -1,0 +1,2347 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" identifier="/hk/cap123Q!zh-Hant-HK" xml:lang="zh-Hant-HK"><meta><docType>cap</docType><docNumber>123Q</docNumber><docStatus>In effect</docStatus><docName>第123章，附屬法例Q</docName><dc:identifier>/hk/cap123Q!zh-Hant-HK</dc:identifier><dc:date>2021-06-24</dc:date><dc:subject>legislation</dc:subject><dc:language>zh-Hant-HK</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>The Government of the Hong Kong Special Administrative Region</dc:rights></meta><main><docTitle startPeriod="2021-06-24" status="operational" reason="inEffect" id="ID_1578620333469_001" name="shortTitle" temporalId="shortTitle">
+            <content>《建築物(建造)規例》</content>
+        </docTitle><enactingFormula>(<ref href="/hk/cap123/s38">第123章第38(1)條</ref>)</enactingFormula><sourceNote>(略去制定語式條文——<ref href="hk/2021/er3">2021年第3號編輯修訂紀錄</ref>)</sourceNote><commencementNote><marker role="blank-line"></marker><marker role="blank-line"></marker>[2021年2月1日]</commencementNote><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657223_002" name="P1" temporalId="P1"><num value="1">第1部</num><heading>導言</heading><section startPeriod="2021-06-24" status="omitted" reason="omittedAsSpent" id="ID_1595212657223_003" name="s1" temporalId="s1"><num value="1">1.</num><sourceNote>(已失時效而略去——<ref href="hk/2021/er3">2021年第3號編輯修訂紀錄</ref>)</sourceNote></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657223_004" name="s2" temporalId="s2"><num value="2">2.</num><heading>釋義</heading><leadIn>在本規例中 ——</leadIn><def name="外加荷載"><term>外加荷載</term> (<term xml:lang="en">imposed load</term>)——見<ref>第5條</ref>；</def><def name="地盤勘測"><term>地盤勘測</term> (<term xml:lang="en">site investigation</term>)就某地盤而言，指對該地盤的物理特徵的勘測，並包括文件研究、地盤測量及土地勘測；</def><def name="車路"><term>車路</term> (<term xml:lang="en">carriageway</term>)指私家街道、盡頭路或通路的、供車輛交通使用或擬供車輛交通使用的某部分；</def><def name="非開放屋頂"><term>非開放屋頂</term> (<term xml:lang="en">inaccessible roof</term>)——見<ref>第36(2)條</ref>；</def><def name="恆載"><term>恆載</term> (<term xml:lang="en">dead load</term>)——見<ref>第4條</ref>；</def><def name="風荷載"><term>風荷載</term> (<term xml:lang="en">wind load</term>)——見<ref>第6條</ref>；</def><def name="基礎"><term>基礎</term> (<term xml:lang="en">foundation</term>)指建築物、街道、建築工程或街道工程的某部分，而該部分 ——<paragraph id="ID_1595212657239_005" name="a" temporalId="s2_a"><num value="a">(a)</num><content>與土地直接接觸；及</content></paragraph><paragraph id="ID_1595212657239_006" name="b" temporalId="s2_b"><num value="b">(b)</num><content>將荷載傳遞至土地。</content></paragraph></def></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657239_007" name="P2" temporalId="P2"><num value="2">第2部</num><heading>對物料的規定</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657239_008" name="s3" temporalId="s3"><num value="3">3.</num><heading>物料</heading><subsection id="ID_1595212657239_009" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>建築工程或街道工程所使用的所有物料，均須 ——</leadIn><paragraph id="ID_1595212657239_010" name="a" temporalId="s3_1_a"><num value="a">(a)</num><content>在性質及品質方面，適合其預定用途或目的；</content></paragraph><paragraph id="ID_1595212657239_011" name="b" temporalId="s3_1_b"><num value="b">(b)</num><content>充分混合或製備；及</content></paragraph><paragraph id="ID_1595212657239_012" name="c" temporalId="s3_1_c"><num value="c">(c)</num><content>在應用、使用或安裝時足以發揮其預定功用。</content></paragraph></subsection><subsection id="ID_1595212657239_013" name="2" temporalId="s3_2"><num value="2">(2)</num><content>為確保第(1)款獲遵從，所使用的有關物料須藉認可測試，作充分測試。</content></subsection></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657255_014" name="P3" temporalId="P3"><num value="3">第3部</num><heading>荷載</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657255_015" name="s4" temporalId="s4"><num value="4">4.</num><heading>恆載</heading><subsection id="ID_1595212657255_016" name="1" temporalId="s4_1"><num value="1">(1)</num><content>在本規例中，凡提述恆載，須按照本條解釋。</content></subsection><subsection id="ID_1595212657255_017" name="2" temporalId="s4_2"><num value="2">(2)</num><content>恆載是屬永久性質的荷載。</content></subsection><subsection id="ID_1595212657255_018" name="3" temporalId="s4_3"><num value="3">(3)</num><content>建築物、街道、建築工程或街道工程的恆載，在每個情況下，均為該建築物、街道或工程的牆壁、樓面、屋頂、飾面、永久間隔及任何其他永久結構的總重量。</content></subsection><subsection id="ID_1595212657255_019" name="4" temporalId="s4_4"><num value="4">(4)</num><content>為施行第(3)款，計算有關恆載，須基於從可靠數據推算出的有關物料的單位重量。</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657255_020" name="s5" temporalId="s5"><num value="5">5.</num><heading>外加荷載</heading><subsection id="ID_1595212657255_021" name="1" temporalId="s5_1"><num value="1">(1)</num><content>在本規例中，凡提述外加荷載，須按照本條解釋。</content></subsection><subsection id="ID_1595212657255_022" name="2" temporalId="s5_2"><num value="2">(2)</num><content>外加荷載是恆載及風荷載以外的荷載。</content></subsection><subsection id="ID_1595212657255_023" name="3" temporalId="s5_3"><num value="3">(3)</num><content>建築物、街道、建築工程或街道工程的外加荷載，在每個情況下，均為該建築物、街道或工程因其預定用途或目的而相當可能產生的最大外施荷載(包括相鄰土地施加的力)。</content></subsection><subsection id="ID_1595212657270_024" name="4" temporalId="s5_4"><num value="4">(4)</num><content>為施行第(3)款，最大外施荷載，須從可靠數據推算出來。</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657270_025" name="s6" temporalId="s6"><num value="6">6.</num><heading>風荷載</heading><subsection id="ID_1595212657270_026" name="1" temporalId="s6_1"><num value="1">(1)</num><content>在本規例中，凡提述風荷載，須按照本條解釋。</content></subsection><subsection id="ID_1595212657270_027" name="2" temporalId="s6_2"><num value="2">(2)</num><content>風荷載是因風壓或吸力的效應而產生的任何荷載。</content></subsection><subsection id="ID_1595212657270_028" name="3" temporalId="s6_3"><num value="3">(3)</num><content>建築物、街道、建築工程或街道工程的風荷載，在每個情況下，均須以該建築物、街道或工程對來自任何方向的風效應的反應，作為根據。</content></subsection><subsection id="ID_1595212657270_029" name="4" temporalId="s6_4"><num value="4">(4)</num><content>第(3)款提述的風效應，須藉考慮經過一段不少於50年的重現期的風力強度，予以適當斷定。</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657270_030" name="s7" temporalId="s7"><num value="7">7.</num><heading>須施加的外加荷載</heading><subsection id="ID_1595212657270_031" name="1" temporalId="s7_1"><num value="1">(1)</num><leadIn>建築物、街道、建築工程或街道工程的最小外加荷載，須是以下各項中對該建築物、街道或工程產生較不利影響者 ——</leadIn><paragraph id="ID_1595212657270_032" name="a" temporalId="s7_1_a"><num value="a">(a)</num><content>均勻施加於平面上的、<ref>附表</ref>表1第3欄指明的分布荷載；或</content></paragraph><paragraph id="ID_1595212657270_033" name="b" temporalId="s7_1_b"><num value="b">(b)</num><leadIn>以下其中一項 ——</leadIn><subparagraph id="ID_1595212657270_034" name="1" temporalId="s7_1_b_1"><num value="1">(i)</num><content>施加於平面上任何邊長50毫米(或該表第4欄指明的其他尺寸)的方形範圍上的、該欄指明的集中荷載；</content></subparagraph><subparagraph id="ID_1595212657270_035" name="2" temporalId="s7_1_b_2"><num value="2">(ii)</num><content>該表第4欄指明的線荷載。</content></subparagraph></paragraph></subsection><subsection id="ID_1595212657270_036" name="2" temporalId="s7_2"><num value="2">(2)</num><leadIn>如建築物的樓面須承托間隔，但該建築物的圖則並無顯示該等間隔的位置，則該等間隔的重量 ——</leadIn><paragraph id="ID_1595212657270_037" name="a" temporalId="s7_2_a"><num value="a">(a)</num><content>須視作均勻施加於平面上的分布外加荷載；及</content></paragraph><paragraph id="ID_1595212657270_038" name="b" temporalId="s7_2_b"><num value="b">(b)</num><leadIn>除其他外加荷載外 ——</leadIn><subparagraph id="ID_1595212657270_039" name="1" temporalId="s7_2_b_1"><num value="1">(i)</num><content>須不少於均勻分布於每平方米範圍內的每米間隔長度的重量的三分之一；及</content></subparagraph><subparagraph id="ID_1595212657301_040" name="2" temporalId="s7_2_b_2"><num value="2">(ii)</num><content>如該樓面用作辦公室用途——須不少於1千帕斯卡。</content></subparagraph></paragraph></subsection><subsection id="ID_1595212657301_041" name="3" temporalId="s7_3"><num value="3">(3)</num><content>如建築物的樓面須承托設備、機械或展示品，因而會導致一項大於表1指明的荷載的外加荷載，則在斷定該樓面的外加荷載時，須顧及該設備、機械或展示品的荷載。</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657301_042" name="s8" temporalId="s8"><num value="8">8.</num><heading>外加荷載的折減</heading><subsection id="ID_1595212657301_043" name="1" temporalId="s8_1"><num value="1">(1)</num><content>在符合第(2)、(3)、(4)及(5)款的規定下，在斷定任何柱、墩、牆壁或基礎(<i><b>有關</b></i><b><i>構件</i></b>)的總外加荷載時，對有關構件所支承的屋頂及每一樓面的分布外加荷載，可給予<ref>附表</ref>表2指明的折減。</content></subsection><subsection id="ID_1595212657301_044" name="2" temporalId="s8_2"><num value="2">(2)</num><content>如在任何一層，梁的單跨承托不少於45平方米的樓面，則僅就設計該梁而言，對該梁所承托的樓面的分布外加荷載，可給予第(3)款提述的折減。</content></subsection><subsection id="ID_1595212657301_045" name="3" temporalId="s8_3"><num value="3">(3)</num><leadIn>可給予的折減是 ——</leadIn><paragraph id="ID_1595212657301_046" name="a" temporalId="s8_3_a"><num value="a">(a)</num><content>就有關的梁所承托的樓面每足45平方米而言——折減5%；及</content></paragraph><paragraph id="ID_1595212657301_047" name="b" temporalId="s8_3_b"><num value="b">(b)</num><content>就該梁所承托的樓面而言——合計折減不多於20%。</content></paragraph></subsection><subsection id="ID_1595212657333_048" name="4" temporalId="s8_4"><num value="4">(4)</num><content>就經設計以應付7.5千帕斯卡或以上分布外加荷載的工廠及工場而言，有關總外加荷載不得折減至低於在以下情況下得出的外加荷載數值：所有有關樓面均經設計以應付7.5千帕斯卡分布外加荷載，而未獲表2指明的折減。</content></subsection><subsection id="ID_1595212657333_049" name="5" temporalId="s8_5"><num value="5">(5)</num><leadIn>不得就以下各項折減外加荷載 ——</leadIn><paragraph id="ID_1595212657333_050" name="a" temporalId="s8_5_a"><num value="a">(a)</num><content>承托<ref>第7(3)條</ref>提述的設備、機械或展示品的建築物樓面；</content></paragraph><paragraph id="ID_1595212657333_051" name="b" temporalId="s8_5_b"><num value="b">(b)</num><content>經設計以應付少於7.5千帕斯卡分布外加荷載的工廠及工場樓面；</content></paragraph><paragraph id="ID_1595212657333_052" name="c" temporalId="s8_5_c"><num value="c">(c)</num><content>供車輛使用的樓面；</content></paragraph><paragraph id="ID_1595212657333_053" name="d" temporalId="s8_5_d"><num value="d">(d)</num><content>用作儲物及存檔用途的辦公室用地；</content></paragraph><paragraph id="ID_1595212657333_054" name="e" temporalId="s8_5_e"><num value="e">(e)</num><content>動力效應所產生的力；</content></paragraph><paragraph id="ID_1595212657333_055" name="f" temporalId="s8_5_f"><num value="f">(f)</num><content>用作儲物用途的樓面；或</content></paragraph><paragraph id="ID_1595212657333_056" name="g" temporalId="s8_5_g"><num value="g">(g)</num><content>來自位置並沒有在建築物圖則上顯示的間隔的荷載。</content></paragraph></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657333_057" name="s9" temporalId="s9"><num value="9">9.</num><heading>外加荷載——防護欄障的設計</heading><subsection id="ID_1595212657333_058" name="1" temporalId="s9_1"><num value="1">(1)</num><content>為限制或管制人的移動而裝置的防護欄障，須設計成能抵受<ref>附表</ref>表3指明(在分別施加時)的最小水平外加荷載(<b><i>有關外加荷載</i></b>)。</content></subsection><subsection id="ID_1595212657333_059" name="2" temporalId="s9_2"><num value="2">(2)</num><content>如風荷載適用，上述防護欄障須設計成能抵受有關外加荷載或風荷載，兩者以產生較不利影響者為準。</content></subsection><subsection id="ID_1595212657333_060" name="3" temporalId="s9_3"><num value="3">(3)</num><leadIn>供車輛使用的車路、樓面、車道或斜路的車輛欄障，須設計成能抵擋預期的最大撞擊力，並須符合下述規定 ——</leadIn><paragraph id="ID_1595212657333_061" name="a" temporalId="s9_3_a"><num value="a">(a)</num><leadIn>對車輛欄障的最低設計撞擊力為[0.5 Mv<sup>2 </sup>/ (δc + δb)]千牛頓，算式中 ——</leadIn><subparagraph class="left_indent_108 first_line_indent_-54" id="ID_1595212657333_062" name="M" temporalId="s9_3_a_M"><num value="M">M</num><content>為會獲准使用有關車路、樓面、車道或斜路的最重車輛的總質量(以公斤為單位)；</content></subparagraph><subparagraph class="left_indent_108 first_line_indent_-54" id="ID_1595212657348_063" name="5" temporalId="s9_3_a_5"><num value="5">v</num><content>為車輛沿與欄障成直角的方向行駛的速度(以每秒多少米為單位)；</content></subparagraph><subparagraph class="left_indent_108 first_line_indent_-54" id="ID_1595212657348_064" name="c" temporalId="s9_3_a_c"><num value="c">δc</num><content>為車輛的變形(以毫米為單位)；及</content></subparagraph><subparagraph class="left_indent_108 first_line_indent_-54" id="ID_1595212657348_065" name="b" temporalId="s9_3_a_b"><num value="b">δb</num><content>為欄障的撓度(以毫米為單位)；及</content></subparagraph></paragraph><paragraph id="ID_1595212657348_066" name="b" temporalId="s9_3_b"><num value="b">(b)</num><content>撞擊力應均勻分布於任何長1.5米的部分，並於車輛防撞槓高度橫向地施加。</content></paragraph></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657348_067" name="s10" temporalId="s10"><num value="10">10.</num><heading>外加荷載——動力效應所產生的力</heading><subsection id="ID_1595212657348_068" name="1" temporalId="s10_1"><num value="1">(1)</num><content>在設計建築物、街道、建築工程及街道工程時，動力效應所產生的力，須視作額外的外加荷載。</content></subsection><subsection id="ID_1595212657348_069" name="2" temporalId="s10_2"><num value="2">(2)</num><content>在符合第(3)款的規定下，在任何工廠、工場或其他作工業用途的建築物內，動力效應所產生的力，可基於關乎該工廠、工場或建築物的資料而斷定。</content></subsection><subsection id="ID_1595212657348_070" name="3" temporalId="s10_3"><num value="3">(3)</num><leadIn>如第(2)款提述的力並不是基於關乎有關工廠、工場或建築物的資料而斷定，則 ——</leadIn><paragraph id="ID_1595212657348_071" name="a" temporalId="s10_3_a"><num value="a">(a)</num><content>僅就決定平板及梁的設計而言——該等力須視作2.5千帕斯卡的額外垂直外加荷載；及</content></paragraph><paragraph id="ID_1595212657348_072" name="b" temporalId="s10_3_b"><num value="b">(b)</num><content>就決定結構構架及基礎的設計而言——該等力須視作同時施加於會產生最不利影響的樓面層數(<b><i>有關數目</i></b>)的額外橫向力(可假定它並非與風荷載一併施加)，而該橫向力為(a)段指明的外加荷載的10%；有關數目應該是一個不少於承受動力效應的樓面的總層數的0.2倍的整數。</content></paragraph></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657348_073" name="s11" temporalId="s11"><num value="11">11.</num><heading>關於荷載的告示</heading><subsection id="ID_1595212657348_074" name="1" temporalId="s11_1"><num value="1">(1)</num><content>工業建築物及倉庫，適用本條。</content></subsection><subsection id="ID_1595212657348_075" name="2" temporalId="s11_2"><num value="2">(2)</num><leadIn>在工業建築物或倉庫的以下地方，須永久而顯眼地展示告示，述明該建築物或倉庫的樓面的設計分布外加荷載 ——</leadIn><paragraph id="ID_1595212657348_076" name="a" temporalId="s11_2_a"><num value="a">(a)</num><content>每一樓層的每道樓梯；或</content></paragraph><paragraph id="ID_1595212657364_077" name="b" temporalId="s11_2_b"><num value="b">(b)</num><content>其他適當地點。</content></paragraph></subsection><subsection id="ID_1595212657364_078" name="3" temporalId="s11_3"><num value="3">(3)</num><content>如有關建築物或倉庫的樓面的不同部分，有不同的設計分布外加荷載，則須在該樓面的每一不同部分，永久而顯眼地展示告示，述明該部分的設計分布外加荷載。</content></subsection><subsection id="ID_1595212657364_079" name="4" temporalId="s11_4"><num value="4">(4)</num><content>第(2)或(3)款提述的告示須清晰易讀，並須以耐久物料製成。</content></subsection><subsection id="ID_1595212657364_080" name="5" temporalId="s11_5"><num value="5">(5)</num><leadIn>在本條中 ——</leadIn><def name="設計分布外加荷載"><term>設計分布外加荷載</term> (<term xml:lang="en">designed distributed imposed load</term>)就某工業建築物或倉庫的樓面而言，指按該樓面的設計能夠應付的、以每平方米重量為單位的分布外加荷載，但不包括動力效應。</def></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657364_081" name="s12" temporalId="s12"><num value="12">12.</num><heading>負荷過重</heading><subsection id="ID_1595212657364_082" name="1" temporalId="s12_1"><num value="1">(1)</num><content>除第(2)款另有規定外，建築物、街道、建築工程或街道工程不得支承超出其恰當承載力的荷載。</content></subsection><subsection id="ID_1595212657364_083" name="2" temporalId="s12_2"><num value="2">(2)</num><content>就進行測試所需的任何荷載而言，本條不適用。</content></subsection></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657364_084" name="P4" temporalId="P4"><num value="4">第4部</num><heading>對設計及建造的規定</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657364_085" name="s13" temporalId="s13"><num value="13">13.</num><heading>設計方法</heading><leadIn>建築物、街道、建築工程及街道工程的設計，均須符合 ——</leadIn><paragraph id="ID_1595212657364_086" name="a" temporalId="s13_a"><num value="a">(a)</num><content>力學定律；</content></paragraph><paragraph id="ID_1595212657364_087" name="b" temporalId="s13_b"><num value="b">(b)</num><content>認可工程原理；及</content></paragraph><paragraph id="ID_1595212657364_088" name="c" temporalId="s13_c"><num value="c">(c)</num><content>認可工程常規。</content></paragraph></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657364_089" name="s14" temporalId="s14"><num value="14">14.</num><heading>強度及正常使用的考慮</heading><subsection id="ID_1595212657364_090" name="1" temporalId="s14_1"><num value="1">(1)</num><content>建築物、街道、建築工程及街道工程的結構，適用本條。</content></subsection><subsection id="ID_1595212657364_091" name="2" temporalId="s14_2"><num value="2">(2)</num><leadIn>有關結構須能 ——</leadIn><paragraph id="ID_1595212657364_092" name="a" temporalId="s14_2_a"><num value="a">(a)</num><content>安全地承受恆載、外加荷載及風荷載的組合；及</content></paragraph><paragraph id="ID_1595212657364_093" name="b" temporalId="s14_2_b"><num value="b">(b)</num><content>將(a)段提述的荷載，安全地傳遞至土地。</content></paragraph></subsection><subsection id="ID_1595212657380_094" name="3" temporalId="s14_3"><num value="3">(3)</num><content>有關結構的設計及建造，須有足夠的安全系數。</content></subsection><subsection id="ID_1595212657380_095" name="4" temporalId="s14_4"><num value="4">(4)</num><leadIn>有關結構的設計及建造，不得 ——</leadIn><paragraph id="ID_1595212657458_096" name="a" temporalId="s14_4_a"><num value="a">(a)</num><leadIn>引致任何可能對以下項目的預定用途或功能造成不利影響的裂縫、變位、變形或其他移動 ——</leadIn><subparagraph id="ID_1595212657458_097" name="1" temporalId="s14_4_a_1"><num value="1">(i)</num><content>有關建築物、街道、建築工程或街道工程的全部或任何部分；或</content></subparagraph><subparagraph id="ID_1595212657458_098" name="2" temporalId="s14_4_a_2"><num value="2">(ii)</num><content>任何其他建築物、構築物、土地、街道或設施的全部或任何部分；</content></subparagraph></paragraph><paragraph id="ID_1595212657458_099" name="b" temporalId="s14_4_b"><num value="b">(b)</num><leadIn>導致以下項目受任何損壞 ——</leadIn><subparagraph id="ID_1595212657458_100" name="1" temporalId="s14_4_b_1"><num value="1">(i)</num><content>有關建築物、街道、建築工程或街道工程；或</content></subparagraph><subparagraph id="ID_1595212657458_101" name="2" temporalId="s14_4_b_2"><num value="2">(ii)</num><content>任何其他建築物、構築物、土地、街道或設施；或</content></subparagraph></paragraph><paragraph id="ID_1595212657458_102" name="c" temporalId="s14_4_c"><num value="c">(c)</num><content>使任何其他建築物、街道、建築工程或街道工程的安全系數變得不足夠。</content></paragraph></subsection><subsection id="ID_1595212657458_103" name="5" temporalId="s14_5"><num value="5">(5)</num><content>第<ref>(2)(a)</ref>款提述的荷載，須按照<ref>第3部</ref>斷定。</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657458_104" name="s15" temporalId="s15"><num value="15">15.</num><heading>穩定性</heading><content>建築物、街道、建築工程或街道工程的設計及建造，須有足夠的安全度，能防止不穩定。</content></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657458_105" name="s16" temporalId="s16"><num value="16">16.</num><heading>建造方法及程序</heading><subsection id="ID_1595212657458_106" name="1" temporalId="s16_1"><num value="1">(1)</num><leadIn>進行建築工程或街道工程，須 ——</leadIn><paragraph id="ID_1595212657458_107" name="a" temporalId="s16_1_a"><num value="a">(a)</num><content>採用適當的建造方法及程序；及</content></paragraph><paragraph id="ID_1595212657458_108" name="b" temporalId="s16_1_b"><num value="b">(b)</num><content>採取適當的預防措施。</content></paragraph></subsection><subsection id="ID_1595212657458_109" name="2" temporalId="s16_2"><num value="2">(2)</num><leadIn>在不局限第(1)款的原則下，如有以下情況，則該款不得視為已就建築物、構築物、土地、街道或設施而獲遵從 ——</leadIn><paragraph id="ID_1595212657458_110" name="a" temporalId="s16_2_a"><num value="a">(a)</num><content>該建築物、構築物、土地、街道或設施的安全系數變得不足夠，或其防止不穩定的安全度變得不足夠；</content></paragraph><paragraph id="ID_1595212657458_111" name="b" temporalId="s16_2_b"><num value="b">(b)</num><content>有任何建築物、構築物、土地、街道或設施受損壞；或</content></paragraph><paragraph id="ID_1595212657458_112" name="c" temporalId="s16_2_c"><num value="c">(c)</num><content>有關建築工程或街道工程的全部或任何部份(不論處於臨時或永久狀態)，出現裂縫、過度變形或其他移動，其程度達致該工程的結構會超出其可接受的尺寸公差。</content></paragraph></subsection></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657473_113" name="P5" temporalId="P5"><num value="5">第5部</num><heading>對地盤勘測的規定</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657473_114" name="s17" temporalId="s17"><num value="17">17.</num><heading>地盤勘測</heading><subsection id="ID_1595212657473_115" name="1" temporalId="s17_1"><num value="1">(1)</num><content>對建築工程或街道工程的地盤進行的地盤勘測，適用本條。</content></subsection><subsection id="ID_1595212657473_116" name="2" temporalId="s17_2"><num value="2">(2)</num><content>為上述工程的設計及建造提供足夠的岩土數據及任何其他有關數據的地盤勘測，其進行方式須符合認可標準。</content></subsection></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657473_117" name="P6" temporalId="P6"><num value="6">第6部</num><heading>對基礎的規定</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657473_118" name="s18" temporalId="s18"><num value="18">18.</num><heading>基礎</heading><subsection id="ID_1595212657473_119" name="1" temporalId="s18_1"><num value="1">(1)</num><leadIn>建築物、街道、建築工程或街道工程的基礎，須能 ——</leadIn><paragraph id="ID_1595212657473_120" name="a" temporalId="s18_1_a"><num value="a">(a)</num><content>安全地承受來自該建築物、街道、建築工程或街道工程並施加於該基礎的恆載、外加荷載及風荷載的組合，以及施加於該基礎的任何其他荷載；及</content></paragraph><paragraph id="ID_1595212657473_121" name="b" temporalId="s18_1_b"><num value="b">(b)</num><content>將(a)段提述的荷載，安全地傳遞至土地。</content></paragraph></subsection><subsection id="ID_1595212657473_122" name="2" temporalId="s18_2"><num value="2">(2)</num><leadIn>基礎的設計及建造，須顧及 ——</leadIn><paragraph id="ID_1595212657473_123" name="a" temporalId="s18_2_a"><num value="a">(a)</num><content>該基礎所在的土地的狀況；</content></paragraph><paragraph id="ID_1595212657473_124" name="b" temporalId="s18_2_b"><num value="b">(b)</num><content>其埋置方法；及</content></paragraph><paragraph id="ID_1595212657473_125" name="c" temporalId="s18_2_c"><num value="c">(c)</num><content>有關基礎系統的羣體效應。</content></paragraph></subsection><subsection id="ID_1595212657473_126" name="3" temporalId="s18_3"><num value="3">(3)</num><content>基礎的設計及建造，須有足夠的安全系數。</content></subsection><subsection id="ID_1595212657473_127" name="4" temporalId="s18_4"><num value="4">(4)</num><leadIn>建築物、街道、建築工程或街道工程的基礎的設計及建造，不得 ——</leadIn><paragraph id="ID_1595212657473_128" name="a" temporalId="s18_4_a"><num value="a">(a)</num><content>損害任何其他建築物、構築物、土地、街道或設施的穩定性；</content></paragraph><paragraph id="ID_1595212657473_129" name="b" temporalId="s18_4_b"><num value="b">(b)</num><content>導致任何其他建築物、構築物、土地、街道或設施受任何損壞；或</content></paragraph><paragraph id="ID_1595212657473_130" name="c" temporalId="s18_4_c"><num value="c">(c)</num><content>使任何其他建築物、構築物、土地、街道或設施的安全系數變得不足夠。</content></paragraph></subsection><subsection id="ID_1595212657473_131" name="5" temporalId="s18_5"><num value="5">(5)</num><content>在建造基礎前，須遵照<ref>第17條</ref>對有關地盤進行地盤勘測。</content></subsection><subsection id="ID_1595212657489_132" name="6" temporalId="s18_6"><num value="6">(6)</num><leadIn>建築物、街道、建築工程或街道工程的基礎所在的土地，須有足夠的安全系數，能安全地承受以下荷載的組合 ——</leadIn><paragraph id="ID_1595212657489_133" name="a" temporalId="s18_6_a"><num value="a">(a)</num><content>該建築物、街道、建築工程或街道工程的恆載；</content></paragraph><paragraph id="ID_1595212657489_134" name="b" temporalId="s18_6_b"><num value="b">(b)</num><content>該建築物、街道、建築工程或街道工程的外加荷載；</content></paragraph><paragraph id="ID_1595212657489_135" name="c" temporalId="s18_6_c"><num value="c">(c)</num><content>該建築物、街道、建築工程或街道工程的風荷載；及</content></paragraph><paragraph id="ID_1595212657489_136" name="d" temporalId="s18_6_d"><num value="d">(d)</num><content>施加於該基礎的任何其他荷載。</content></paragraph></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657489_137" name="s19" temporalId="s19"><num value="19">19.</num><heading>建築事務監督可要求實地測試</heading><subsection id="ID_1595212657489_138" name="1" temporalId="s19_1"><num value="1">(1)</num><content>建築事務監督如對基礎的設計假定或支承荷載能力，存有任何懷疑，可要求進行實地測試。</content></subsection><subsection id="ID_1595212657489_139" name="2" temporalId="s19_2"><num value="2">(2)</num><leadIn>有關測試可在有關基礎上或在該基礎所在的土地上，藉以下方法進行 ——</leadIn><paragraph id="ID_1595212657489_140" name="a" temporalId="s19_2_a"><num value="a">(a)</num><content>施加測試荷載；或</content></paragraph><paragraph id="ID_1595212657489_141" name="b" temporalId="s19_2_b"><num value="b">(b)</num><content>任何其他合適的方法。</content></paragraph></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657489_142" name="s20" temporalId="s20"><num value="20">20.</num><heading>基礎單元的驗證測試</heading><subsection id="ID_1595212657489_143" name="1" temporalId="s20_1"><num value="1">(1)</num><content>為確定基礎在承受荷載時的表現，該基礎的具代表性基礎單元，須藉驗證測試，作充分測試。</content></subsection><subsection id="ID_1595212657489_144" name="2" temporalId="s20_2"><num value="2">(2)</num><leadIn>上述驗證測試，可藉以下任何適合有關基礎的類型的方法進行 ——</leadIn><paragraph id="ID_1595212657489_145" name="a" temporalId="s20_2_a"><num value="a">(a)</num><content>施加測試荷載；</content></paragraph><paragraph id="ID_1595212657489_146" name="b" temporalId="s20_2_b"><num value="b">(b)</num><content>對已完成的灌注混凝土基礎進行取芯鑽探；</content></paragraph><paragraph id="ID_1595212657489_147" name="c" temporalId="s20_2_c"><num value="c">(c)</num><content>任何其他合適的方法。</content></paragraph></subsection></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657489_148" name="P7" temporalId="P7"><num value="7">第7部</num><heading>對地盤平整工程的規定</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657489_149" name="s21" temporalId="s21"><num value="21">21.</num><heading>地盤平整工程</heading><subsection id="ID_1595212657489_150" name="1" temporalId="s21_1"><num value="1">(1)</num><content>地盤平整工程的設計及建造，須使該工程及有關地盤其餘部分在建造期間及之後，有足夠的安全度。</content></subsection><subsection id="ID_1595212657489_151" name="2" temporalId="s21_2"><num value="2">(2)</num><leadIn>地盤平整工程的設計及建造，不得 ——</leadIn><paragraph id="ID_1595212657505_152" name="a" temporalId="s21_2_a"><num value="a">(a)</num><content>導致任何建築物、構築物、土地、街道或設施受任何損壞；或</content></paragraph><paragraph id="ID_1595212657505_153" name="b" temporalId="s21_2_b"><num value="b">(b)</num><content>使任何建築物、構築物、土地、街道或設施的安全度變得不足夠。</content></paragraph></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657536_154" name="s22" temporalId="s22"><num value="22">22.</num><heading>釋義——<ref>第22</ref>、<ref>23</ref>及<ref>24條</ref></heading><leadIn>在本條及<ref>第23</ref>及<ref>24條</ref>中 ——</leadIn><def name="小型擋土牆"><term>小型擋土牆</term> (<term xml:lang="en">minor retaining wall</term>)指符合以下描述的擋土牆 ——<paragraph id="ID_1595212657536_155" name="a" temporalId="s22_a"><num value="a">(a)</num><content>鄰接該牆的高層地面水平與鄰接該牆的低層地面水平之間的差距，不超逾1.5米；</content></paragraph><paragraph id="ID_1595212657536_156" name="b" temporalId="s22_b"><num value="b">(b)</num><content>鄰接該牆的高層地面水平上的土地與水平面構成的平均傾斜度，不超逾15度；及</content></paragraph><paragraph id="ID_1595212657536_157" name="c" temporalId="s22_c"><num value="c">(c)</num><content>來自有關基礎或任何其他構築物的附加荷載，並無對該牆施加任何荷載；</content></paragraph></def><def name="擋土牆"><term>擋土牆</term> (<term xml:lang="en">retaining wall</term>)指在土地上攔擋土或填土的永久構築物。</def></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657551_158" name="s23" temporalId="s23"><num value="23">23.</num><heading>擋土牆——設計及建造</heading><subsection id="ID_1595212657551_159" name="1" temporalId="s23_1"><num value="1">(1)</num><leadIn>擋土牆須能安全地支承 ——</leadIn><paragraph id="ID_1595212657551_160" name="a" temporalId="s23_1_a"><num value="a">(a)</num><content>其攔擋的土或填土；及</content></paragraph><paragraph id="ID_1595212657551_161" name="b" temporalId="s23_1_b"><num value="b">(b)</num><content>施加於該牆的其他荷載。</content></paragraph></subsection><subsection id="ID_1595212657551_162" name="2" temporalId="s23_2"><num value="2">(2)</num><leadIn>擋土牆的設計，須 ——</leadIn><paragraph id="ID_1595212657551_163" name="a" temporalId="s23_2_a"><num value="a">(a)</num><content>在該牆的建造期間及使用年限內最嚴峻的荷載狀況下，使第(1)款提述的功用得以發揮；</content></paragraph><paragraph id="ID_1595212657551_164" name="b" temporalId="s23_2_b"><num value="b">(b)</num><content>符合認可工程原理；及</content></paragraph><paragraph id="ID_1595212657567_165" name="c" temporalId="s23_2_c"><num value="c">(c)</num><content>基於遵照<ref>第17條</ref>對有關地盤進行的地盤勘測所得的數據。</content></paragraph></subsection><subsection id="ID_1595212657567_166" name="3" temporalId="s23_3"><num value="3">(3)</num><leadIn>擋土牆須設計成有足夠的安全系數，能防止 ——</leadIn><paragraph id="ID_1595212657567_167" name="a" temporalId="s23_3_a"><num value="a">(a)</num><content>滑動；</content></paragraph><paragraph id="ID_1595212657567_168" name="b" temporalId="s23_3_b"><num value="b">(b)</num><content>傾覆；</content></paragraph><paragraph id="ID_1595212657567_169" name="c" temporalId="s23_3_c"><num value="c">(c)</num><content>極限承載破壞；及</content></paragraph><paragraph id="ID_1595212657567_170" name="d" temporalId="s23_3_d"><num value="d">(d)</num><content>在該牆下橫過的表面的破壞。</content></paragraph></subsection><subsection id="ID_1595212657567_171" name="4" temporalId="s23_4"><num value="4">(4)</num><leadIn>擋土牆的設計及建造，不得 ——</leadIn><paragraph id="ID_1595212657567_172" name="a" temporalId="s23_4_a"><num value="a">(a)</num><content>損害任何建築物、構築物、土地、街道或設施的穩定性；或</content></paragraph><paragraph id="ID_1595212657567_173" name="b" temporalId="s23_4_b"><num value="b">(b)</num><content>導致任何建築物、構築物、土地、街道或設施受任何損壞。</content></paragraph></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657567_174" name="s24" temporalId="s24"><num value="24">24.</num><heading>擋土牆——排水及其他規定</heading><subsection id="ID_1595212657567_175" name="1" temporalId="s24_1"><num value="1">(1)</num><content>小型擋土牆以外的擋土牆，適用本條。</content></subsection><subsection id="ID_1595212657567_176" name="2" temporalId="s24_2"><num value="2">(2)</num><leadIn>如擋土牆的反濾物靠着泥土，其設計及建造須 ——</leadIn><paragraph id="ID_1595212657567_177" name="a" temporalId="s24_2_a"><num value="a">(a)</num><content>容許水透過該反濾物流走；及</content></paragraph><paragraph id="ID_1595212657567_178" name="b" temporalId="s24_2_b"><num value="b">(b)</num><content>限制泥土中的微粒流失。</content></paragraph></subsection><subsection id="ID_1595212657567_179" name="3" temporalId="s24_3"><num value="3">(3)</num><content>如為減低可能施加於擋土牆的任何水壓力，而就該牆設置排水系統，則該系統的設計及建造，須能在該牆的使用年限內，維持該系統的性能。</content></subsection><subsection id="ID_1595212657567_180" name="4" temporalId="s24_4"><num value="4">(4)</num><content>擋土牆的回填土，須由可壓實以形成穩定填土的物料構成。</content></subsection><subsection id="ID_1595212657567_181" name="5" temporalId="s24_5"><num value="5">(5)</num><leadIn>為排走擋土牆的任何滲流或地面水，鄰接該牆的高層地面水平及鄰接該牆的低層地面水平均須設有 ——</leadIn><paragraph id="ID_1595212657567_182" name="a" temporalId="s24_5_a"><num value="a">(a)</num><content>適當大小的渠道；或</content></paragraph><paragraph id="ID_1595212657567_183" name="b" temporalId="s24_5_b"><num value="b">(b)</num><content>鋪砌面。</content></paragraph></subsection><subsection id="ID_1595212657567_184" name="6" temporalId="s24_6"><num value="6">(6)</num><content>第(5)款提述的渠道或鋪砌面，須按足夠斜度敷設，以將水流導入地面水排水渠。</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657567_185" name="s25" temporalId="s25"><num value="25">25.</num><heading>在<ref>附表</ref>所列地區的第1號地區內的大型挖掘工程</heading><subsection id="ID_1595212657567_186" name="1" temporalId="s25_1"><num value="1">(1)</num><leadIn>在本條中 ——</leadIn><def name="大型挖掘工程"><term>大型挖掘工程</term> (<term xml:lang="en">bulk excavation</term>)指任何種類的挖掘工程，但就以下項目進行的挖掘工程除外 ——<paragraph id="ID_1595212657583_187" name="a" temporalId="s25_1_a"><num value="a">(a)</num><content>土地勘測；</content></paragraph><paragraph id="ID_1595212657583_188" name="b" temporalId="s25_1_b"><num value="b">(b)</num><content>公用設施坑道；</content></paragraph><paragraph id="ID_1595212657583_189" name="c" temporalId="s25_1_c"><num value="c">(c)</num><content>排水渠；</content></paragraph><paragraph id="ID_1595212657583_190" name="d" temporalId="s25_1_d"><num value="d">(d)</num><content>污水渠；或</content></paragraph><paragraph id="ID_1595212657583_191" name="e" temporalId="s25_1_e"><num value="e">(e)</num><content>樁的埋置；</content></paragraph></def><def name="累積不利影響"><term>累積不利影響</term> (<term xml:lang="en">cumulative adverse effect</term>)就<ref>附表</ref>所列地區的第1號地區而言，指因在該地區的多於一個地盤內進行大型挖掘工程而對該地區的山坡穩定性造成的整體不利影響。</def></subsection><subsection id="ID_1595212657583_192" name="2" temporalId="s25_2"><num value="2">(2)</num><content>在<ref>附表</ref>所列地區的第1號地區內進行的大型挖掘工程，須限於以下程度：將對該地區的累積不利影響減至最低。</content></subsection></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657583_193" name="P8" temporalId="P8"><num value="8">第8部</num><heading>對外牆、覆蓋層及幕牆的規定</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657583_194" name="s26" temporalId="s26"><num value="26">26.</num><heading>釋義——<ref>第8部</ref></heading><subsection id="ID_1595212657583_195" name="1" temporalId="s26_1"><num value="1">(1)</num><leadIn>在本部中 ——</leadIn><def name="不可燃物料"><term>不可燃物料</term> (<term xml:lang="en">non-combustible materials</term>)指通過認可的不可燃性測試的物料；</def><def name="幕牆"><term>幕牆</term> (<term xml:lang="en">curtain wall</term>)就某建築物而言，指該建築物的非承載圍封牆，而該圍封牆是固定於該建築物的承載構築物上的；</def><def name="覆蓋層"><term>覆蓋層</term> (<term xml:lang="en">cladding</term>)就某建築物而言，指加在該建築物的結構構件上的面層或建築裝飾。</def></subsection><subsection id="ID_1595212657583_196" name="2" temporalId="s26_2"><num value="2">(2)</num><leadIn>在本部中，建築物的構築物如承擔下述荷載以外的荷載，即屬承載構築物 ——</leadIn><paragraph id="ID_1595212657583_197" name="a" temporalId="s26_2_a"><num value="a">(a)</num><content>因其本身重量而產生的荷載；或</content></paragraph><paragraph id="ID_1595212657583_198" name="b" temporalId="s26_2_b"><num value="b">(b)</num><content>因其表面受風壓而產生的荷載。</content></paragraph></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657583_199" name="s27" temporalId="s27"><num value="27">27.</num><heading>外牆</heading><subsection id="ID_1595212657598_200" name="1" temporalId="s27_1"><num value="1">(1)</num><leadIn>建築物的外牆，須以符合以下說明的物料建造 ——</leadIn><paragraph id="ID_1595212657598_201" name="a" temporalId="s27_1_a"><num value="a">(a)</num><content>永久及不透水；及</content></paragraph><paragraph id="ID_1595212657598_202" name="b" temporalId="s27_1_b"><num value="b">(b)</num><content>屬不可燃物料。</content></paragraph></subsection><subsection id="ID_1595212657598_203" name="2" temporalId="s27_2"><num value="2">(2)</num><content>須設有足夠的進出途徑通往建築物外牆的外層表面或該牆的伸出物，以供保養或修葺該牆或伸出物。</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657598_204" name="s28" temporalId="s28"><num value="28">28.</num><heading>覆蓋層</heading><subsection id="ID_1595212657598_205" name="1" temporalId="s28_1"><num value="1">(1)</num><leadIn>建築物的覆蓋層，須 ——</leadIn><paragraph id="ID_1595212657598_206" name="a" temporalId="s28_1_a"><num value="a">(a)</num><content>以不可燃物料建造；</content></paragraph><paragraph id="ID_1595212657598_207" name="b" temporalId="s28_1_b"><num value="b">(b)</num><content>有適當厚度、強度及耐久性；及</content></paragraph><paragraph id="ID_1595212657598_208" name="c" temporalId="s28_1_c"><num value="c">(c)</num><content>以適當的方式及次序固定和承托，</content></paragraph><continued>以使該覆蓋層保持長期穩定完整。</continued></subsection><subsection id="ID_1595212657598_209" name="2" temporalId="s28_2"><num value="2">(2)</num><content>為容許建築物的覆蓋層與該建築物的構築物(該覆蓋層所附者)之間的差異移動，該覆蓋層須永久設有足夠數量的柔性橫向及縱向接縫。</content></subsection><subsection id="ID_1595212657598_210" name="3" temporalId="s28_3"><num value="3">(3)</num><content>須使用合適的金屬暗銷及嵌固件，將覆蓋層固定於建築物上。</content></subsection><subsection id="ID_1595212657598_211" name="4" temporalId="s28_4"><num value="4">(4)</num><leadIn>第(3)款提述的金屬暗銷及嵌固件，須 ——</leadIn><paragraph id="ID_1595212657598_212" name="a" temporalId="s28_4_a"><num value="a">(a)</num><content>在其使用年限內，永久固定於有關建築物的結構構件上；及</content></paragraph><paragraph id="ID_1595212657598_213" name="b" temporalId="s28_4_b"><num value="b">(b)</num><content>具有足夠的防腐蝕保護。</content></paragraph></subsection><subsection id="ID_1595212657598_214" name="5" temporalId="s28_5"><num value="5">(5)</num><content>如建築物的覆蓋層外露於天氣狀況中，則須設有足夠的進出途徑通往該覆蓋層的外層表面或該覆蓋層的伸出物，以供保養或修葺該覆蓋層或伸出物。</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657598_215" name="s29" temporalId="s29"><num value="29">29.</num><heading>幕牆——設計</heading><subsection id="ID_1595212657598_216" name="1" temporalId="s29_1"><num value="1">(1)</num><leadIn>建築物的幕牆，須能 ——</leadIn><paragraph id="ID_1595212657598_217" name="a" temporalId="s29_1_a"><num value="a">(a)</num><content>安全地承受恆載、外加荷載及風荷載的組合；及</content></paragraph><paragraph id="ID_1595212657598_218" name="b" temporalId="s29_1_b"><num value="b">(b)</num><content>將(a)段提述的荷載，安全地傳遞至該建築物的承載構築物，</content></paragraph><continued>而不會導致任何可能損壞該牆或損害其穩定性的變位或變形。</continued></subsection><subsection id="ID_1595212657598_219" name="2" temporalId="s29_2"><num value="2">(2)</num><content>建築物幕牆的設計，須符合關乎該設計及物料在結構上的使用的認可工程原理。</content></subsection><subsection id="ID_1595212657598_220" name="3" temporalId="s29_3"><num value="3">(3)</num><content>為防止建築物的幕牆受滲水或冷凝損壞，須設有從該牆收集和排去任何滲漏或冷凝的水的設施。</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657598_221" name="s30" temporalId="s30"><num value="30">30.</num><heading>幕牆——物料</heading><subsection id="ID_1595212657598_222" name="1" temporalId="s30_1"><num value="1">(1)</num><content>建築物的幕牆，只可由不可燃物料建造。</content></subsection><subsection id="ID_1595212657598_223" name="2" temporalId="s30_2"><num value="2">(2)</num><content>如用於建造建築物幕牆的物料可因接觸其他物料而受電解或化學作用影響，則該物料的表面須作令人滿意的處理或分隔，以防止腐蝕。</content></subsection><subsection id="ID_1595212657645_224" name="3" temporalId="s30_3"><num value="3">(3)</num><content>幕牆系統中的錨及嵌固件所用的物料，須屬適當並具有足夠的防腐蝕保護。</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657645_225" name="s31" temporalId="s31"><num value="31">31.</num><heading>幕牆——固定承托物和保養</heading><subsection id="ID_1595212657645_226" name="1" temporalId="s31_1"><num value="1">(1)</num><leadIn>建築物的幕牆承托物，須藉以下方式，固定於該建築物的承載構築物上 ——</leadIn><paragraph id="ID_1595212657645_227" name="a" temporalId="s31_1_a"><num value="a">(a)</num><content>澆注錨固於該構築物的結構混凝土構件上；或</content></paragraph><paragraph id="ID_1595212657645_228" name="b" temporalId="s31_1_b"><num value="b">(b)</num><content>焊接或栓接於該構築物的結構鋼構件上。</content></paragraph></subsection><subsection id="ID_1595212657645_229" name="2" temporalId="s31_2"><num value="2">(2)</num><leadIn>凡將幕牆承托物固定於建築物的承載構築物上，則固定工程不得 ——</leadIn><paragraph id="ID_1595212657645_230" name="a" temporalId="s31_2_a"><num value="a">(a)</num><content>損害該構築物的構件(該承托物固定於其上者)的結構完整性；或</content></paragraph><paragraph id="ID_1595212657645_231" name="b" temporalId="s31_2_b"><num value="b">(b)</num><content>對該構件的功能造成不利影響。</content></paragraph></subsection><subsection id="ID_1595212657645_232" name="3" temporalId="s31_3"><num value="3">(3)</num><content>須設有足夠的進出途徑通往建築物幕牆的外層表面或該牆的伸出物，以供保養或修葺該牆或伸出物。</content></subsection></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657645_233" name="P9" temporalId="P9"><num value="9">第9部</num><heading>防潮及防水保護</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657645_234" name="s32" temporalId="s32"><num value="32">32.</num><heading>牆壁——防止水分滲入的保護</heading><content>建築物的牆壁，如有可能遇潮，則須有足夠的保護，以防止水分滲入。</content></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657645_235" name="s33" temporalId="s33"><num value="33">33.</num><heading>樓面及毗鄰的地面</heading><subsection id="ID_1595212657645_236" name="1" temporalId="s33_1"><num value="1">(1)</num><content>建築物外牆內的地面，須以適當的物料鋪蓋，以防止水分滲入。</content></subsection><subsection id="ID_1595212657645_237" name="2" temporalId="s33_2"><num value="2">(2)</num><content>須設有足夠的設施，以防止水由建築物外的地面進入該建築物內與該地面相連的樓面。</content></subsection><subsection id="ID_1595212657645_238" name="3" temporalId="s33_3"><num value="3">(3)</num><content>為排走建築物外的地面(經園景美化的地方除外)的地面水，該地面須設有按足夠斜度敷設的鋪砌面，以將水流導入地面水排水渠。</content></subsection><subsection id="ID_1595212657645_239" name="4" temporalId="s33_4"><num value="4">(4)</num><content>如建築物的房間設有供水，則該房間的樓面的建造，須能防止滲水。</content></subsection><subsection id="ID_1595212657645_240" name="5" temporalId="s33_5"><num value="5">(5)</num><content>建築物露台(包括工作平台)及外廊的樓面的建造，均須能防止滲水。</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657645_241" name="s34" temporalId="s34"><num value="34">34.</num><heading>屋頂</heading><subsection id="ID_1595212657645_242" name="1" temporalId="s34_1"><num value="1">(1)</num><content>建築物屋頂須設計和建造成不受天氣影響。</content></subsection><subsection id="ID_1595212657645_243" name="2" temporalId="s34_2"><num value="2">(2)</num><content>須設有足夠的設施，以防止水由建築物屋頂進入與之相連的樓面。</content></subsection><subsection id="ID_1595212657645_244" name="3" temporalId="s34_3"><num value="3">(3)</num><content>須設有足夠的進出途徑通往建築物屋頂或該屋頂的伸出物，以供保養或修葺該屋頂或伸出物。</content></subsection></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657661_245" name="P10" temporalId="P10"><num value="10">第10部</num><heading>對防火安全的規定</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657661_246" name="s35" temporalId="s35"><num value="35">35.</num><heading>耐火結構</heading><leadIn>建築物的設計及建造，須能在火警發生時 ——</leadIn><paragraph id="ID_1595212657661_247" name="a" temporalId="s35_a"><num value="a">(a)</num><content>阻止火勢在該建築物內蔓延，以及阻止火勢蔓延至附近的建築物；</content></paragraph><paragraph id="ID_1595212657661_248" name="b" temporalId="s35_b"><num value="b">(b)</num><leadIn>有足夠抵禦火勢及煙的能力，使火勢及煙不致 ——</leadIn><subparagraph id="ID_1595212657661_249" name="1" temporalId="s35_b_1"><num value="1">(i)</num><content>在不同建築物之間蔓延；及</content></subparagraph><subparagraph id="ID_1595212657661_250" name="2" temporalId="s35_b_2"><num value="2">(ii)</num><content>在該建築物內不同用途的地方之間蔓延；</content></subparagraph></paragraph><paragraph id="ID_1595212657661_251" name="c" temporalId="s35_c"><num value="c">(c)</num><leadIn>維持該建築物的穩定性，以 ——</leadIn><subparagraph id="ID_1595212657661_252" name="1" temporalId="s35_c_1"><num value="1">(i)</num><content>容許足夠時間安全疏散；</content></subparagraph><subparagraph id="ID_1595212657661_253" name="2" temporalId="s35_c_2"><num value="2">(ii)</num><content>容許足夠時間進行救援和消防行動；及</content></subparagraph><subparagraph id="ID_1595212657661_254" name="3" temporalId="s35_c_3"><num value="3">(iii)</num><content>避免對附近的建築物造成任何連帶損壞；及</content></subparagraph></paragraph><paragraph id="ID_1595212657661_255" name="d" temporalId="s35_d"><num value="d">(d)</num><content>在顧及該建築物的位置下，有足夠抵禦火勢的能力，使火勢不致從該建築物的屋頂蔓延至任何其他建築物。</content></paragraph></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657661_256" name="P11" temporalId="P11"><num value="11">第11部</num><heading>對使用者安全的規定</heading><division startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657661_257" name="D1" temporalId="P11_D1"><num value="1">第1分部</num><heading>防護欄障</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657661_258" name="s36" temporalId="s36"><num value="36">36.</num><heading>適用範圍——<ref>第1分部</ref></heading><subsection id="ID_1595212657661_259" name="1" temporalId="s36_1"><num value="1">(1)</num><leadIn>本分部不適用於 ——</leadIn><paragraph id="ID_1595212657661_260" name="a" temporalId="s36_1_a"><num value="a">(a)</num><content>聚會禮堂的舞台；</content></paragraph><paragraph id="ID_1595212657661_261" name="b" temporalId="s36_1_b"><num value="b">(b)</num><content>供裝卸貨物的泊車位；</content></paragraph><paragraph id="ID_1595212657661_262" name="c" temporalId="s36_1_c"><num value="c">(c)</num><content>非開放屋頂；</content></paragraph><paragraph id="ID_1595212657661_263" name="d" temporalId="s36_1_d"><num value="d">(d)</num><content>非開放地方；或</content></paragraph><paragraph id="ID_1595212657661_264" name="e" temporalId="s36_1_e"><num value="e">(e)</num><content>由1個家庭佔用的住用處所內的任何空間(不屬非開放屋頂的屋頂除外)。</content></paragraph></subsection><subsection id="ID_1595212657661_265" name="2" temporalId="s36_2"><num value="2">(2)</num><leadIn>在本條中 ——</leadIn><def name="非開放地方"><term>非開放地方</term> (<term xml:lang="en">inaccessible area</term>)指符合以下說明的地方 ——<paragraph id="ID_1595212657661_266" name="a" temporalId="s36_2_a"><num value="a">(a)</num><content>並非擬供人佔用；及</content></paragraph><paragraph id="ID_1595212657661_267" name="b" temporalId="s36_2_b"><num value="b">(b)</num><content>擬僅供進行保養或修葺工程的人員進入；</content></paragraph></def><def name="非開放屋頂"><term>非開放屋頂</term> (<term xml:lang="en">inaccessible roof</term>)指符合以下說明的屋頂 ——<paragraph id="ID_1595212657676_268" name="a" temporalId="s36_2_a"><num value="a">(a)</num><content>並非擬供人佔用；及</content></paragraph><paragraph id="ID_1595212657676_269" name="b" temporalId="s36_2_b"><num value="b">(b)</num><content>擬僅供進行保養或修葺工程的人員進入。</content></paragraph></def></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657676_270" name="s37" temporalId="s37"><num value="37">37.</num><heading>設置防護欄障</heading><subsection id="ID_1595212657676_271" name="1" temporalId="s37_1"><num value="1">(1)</num><content>在露台、外廊、樓面、屋頂、樓梯、樓梯平台或伸出物的邊緣，須設置防護欄障，以限制或管制人、物件及車輛的移動。</content></subsection><subsection id="ID_1595212657676_272" name="2" temporalId="s37_2"><num value="2">(2)</num><content>如2個相鄰水平(不論是否在建築物內)之間的差距超逾600毫米，則須在較高水平的地方設置防護欄障，以限制或管制人、物件及車輛的移動。</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657676_273" name="s38" temporalId="s38"><num value="38">38.</num><heading>防護欄障——設計及建造</heading><leadIn><ref>第37條</ref>所規定的防護欄障的設計及建造，須能 ——</leadIn><paragraph id="ID_1595212657676_274" name="a" temporalId="s38_a"><num value="a">(a)</num><content>防止任何人或物件從該欄障的縫隙墮下、滾下、滑下或跌出；及</content></paragraph><paragraph id="ID_1595212657676_275" name="b" temporalId="s38_b"><num value="b">(b)</num><content>防止任何人攀越該欄障。</content></paragraph></section></division><division startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657676_276" name="D2" temporalId="P11_D2"><num value="2">第2分部</num><heading>升降機及自動梯</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657676_277" name="s39" temporalId="s39"><num value="39">39.</num><heading>適用範圍及釋義——<ref>第2分部</ref></heading><subsection id="ID_1595212657676_278" name="1" temporalId="s39_1"><num value="1">(1)</num><leadIn>本分部適用於裝有(或將會裝有)升降機或自動梯的建築物，但裝有(或將會裝有)下述設備者除外 ——</leadIn><paragraph id="ID_1595212657676_279" name="a" temporalId="s39_1_a"><num value="a">(a)</num><content>娛樂裝置，包括《機動遊戲機(安全)條例》(<ref href="/hk/cap449">第449章</ref>)<ref>第2(1)條</ref>所界定的機動遊戲機；</content></paragraph><paragraph id="ID_1595212657676_280" name="b" temporalId="s39_1_b"><num value="b">(b)</num><content>帶式、斗式、戽斗式或滾柱式輸送機或任何同類機器；</content></paragraph><paragraph id="ID_1595212657676_281" name="c" temporalId="s39_1_c"><num value="c">(c)</num><content>主要用於為熔爐或同類器具上料的吊重機(包括吊斗吊重機)；</content></paragraph><paragraph id="ID_1595212657676_282" name="d" temporalId="s39_1_d"><num value="d">(d)</num><content>純粹用於將物料升起或直接送入機器中的吊重機，或純粹用於以上兩種用途的吊重機；</content></paragraph><paragraph id="ID_1595212657676_283" name="e" temporalId="s39_1_e"><num value="e">(e)</num><leadIn>升降運行高度不超逾3.5米並符合以下說明的升降機 ——</leadIn><subparagraph id="ID_1595212657676_284" name="1" temporalId="s39_1_e_1"><num value="1">(i)</num><content>不穿過任何樓面；及</content></subparagraph><subparagraph id="ID_1595212657676_285" name="2" temporalId="s39_1_e_2"><num value="2">(ii)</num><content>純粹用於運載、堆垛、裝載或卸下任何貨物或物料，或用於以上任何2種或多於2種用途；</content></subparagraph></paragraph><paragraph id="ID_1595212657676_286" name="f" temporalId="s39_1_f"><num value="f">(f)</num><leadIn>升降運行高度不超逾3.5米並符合以下說明的升降機 ——</leadIn><subparagraph id="ID_1595212657676_287" name="1" temporalId="s39_1_f_1"><num value="1">(i)</num><content>不穿過任何樓面；及</content></subparagraph><subparagraph id="ID_1595212657676_288" name="2" temporalId="s39_1_f_2"><num value="2">(ii)</num><content>純粹用於升起汽車；</content></subparagraph></paragraph><paragraph id="ID_1595212657676_289" name="g" temporalId="s39_1_g"><num value="g">(g)</num><leadIn>與建造中的建築物相關並純粹為以下用途而設的升降機 ——</leadIn><subparagraph id="ID_1595212657676_290" name="1" temporalId="s39_1_g_1"><num value="1">(i)</num><content>運載受僱建造該建築物的人；</content></subparagraph><subparagraph id="ID_1595212657676_291" name="2" temporalId="s39_1_g_2"><num value="2">(ii)</num><content>運載在與建造該建築物相關情況下使用的物料；或</content></subparagraph><subparagraph id="ID_1595212657739_292" name="3" temporalId="s39_1_g_3"><num value="3">(iii)</num><content>運載第(i)節提述的人及第(ii)節提述的物料；</content></subparagraph></paragraph><paragraph id="ID_1595212657739_293" name="h" temporalId="s39_1_h"><num value="h">(h)</num><content>與貨運碼頭或碼頭相連的滑行台；</content></paragraph><paragraph id="ID_1595212657739_294" name="1" temporalId="s39_1_1"><num value="1">(i)</num><content>舞台或管弦樂隊升降機；</content></paragraph><paragraph id="ID_1595212657739_295" name="j" temporalId="s39_1_j"><num value="j">(j)</num><content>供人(不論坐輪椅與否)使用並配有導引台架的樓梯升降機，而該升降機主要沿一段樓梯的方向運行；或</content></paragraph><paragraph id="ID_1595212657739_296" name="k" temporalId="s39_1_k"><num value="k">(k)</num><leadIn>供運載殘疾人士(不論坐輪椅與否)的升降平台，而 ——</leadIn><subparagraph id="ID_1595212657739_297" name="1" temporalId="s39_1_k_1"><num value="1">(i)</num><content>該平台在不同水平之間運行；及</content></subparagraph><subparagraph id="ID_1595212657739_298" name="2" temporalId="s39_1_k_2"><num value="2">(ii)</num><content>有關的最高水平與最低水平之間的差距，不超逾2米。</content></subparagraph></paragraph></subsection><subsection id="ID_1595212657739_299" name="2" temporalId="s39_2"><num value="2">(2)</num><leadIn>在本分部中 ——</leadIn><def name="相聯設備或機械"><term>相聯設備或機械</term> (<term xml:lang="en">associated equipment or machinery</term>)就升降機或自動梯而言，具有《升降機及自動梯條例》(<ref href="/hk/cap618">第618章</ref>)<ref>第2(1)條</ref>所給予的涵義；</def><def name="限進空間"><term>限進空間</term> (<term xml:lang="en">restricted space</term>)指 ——<paragraph id="ID_1595212657739_300" name="a" temporalId="s39_2_a"><num value="a">(a)</num><content>就升降機而言——升降機槽及容納該升降機的相聯設備或機械的空間；或</content></paragraph><paragraph id="ID_1595212657739_301" name="b" temporalId="s39_2_b"><num value="b">(b)</num><content>就自動梯而言——容納該自動梯的相聯設備或機械的空間。</content></paragraph></def></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657739_302" name="s40" temporalId="s40"><num value="40">40.</num><heading>與升降機及自動梯相關的設計及建造</heading><subsection id="ID_1595212657739_303" name="1" temporalId="s40_1"><num value="1">(1)</num><leadIn>建築物的設計及建造，須能 ——</leadIn><paragraph id="ID_1595212657739_304" name="a" temporalId="s40_1_a"><num value="a">(a)</num><content>提供足夠的結構強度、空間、保護、通道及通風，以供安全地操作、檢查和保養升降機或自動梯；及</content></paragraph><paragraph id="ID_1595212657739_305" name="b" temporalId="s40_1_b"><num value="b">(b)</num><content>確保升降機或自動梯的限進空間，除檢查、保養、修理或救援外，均不能進入。</content></paragraph></subsection><subsection id="ID_1595212657755_306" name="2" temporalId="s40_2"><num value="2">(2)</num><content>如於建築物落成後，在該建築物加建升降機或自動梯，則關乎該項加建的設計及建造，須符合第(1)款的規定。</content></subsection></section><section startPeriod="2021-02-01" status="operational" reason="inEffect" id="ID_1595212657755_307" name="s41" temporalId="s41"><num value="41">41.</num><heading>就使用升降機及自動梯的警告告示</heading><subsection id="ID_1595212657755_308" name="1" temporalId="s41_1"><num value="1">(1)</num><leadIn>凡建築物內的門或其他形式的通道通往升降機或自動梯的限進空間，則須在該等門或通道的顯眼位置，永久展示告示，警告作出以下作為是危險的 ——</leadIn><paragraph id="ID_1595212657755_309" name="a" temporalId="s41_1_a"><num value="a">(a)</num><content>進入該限進空間；及</content></paragraph><paragraph id="ID_1595212657755_310" name="b" temporalId="s41_1_b"><num value="b">(b)</num><content>干擾該升降機或自動梯的運作。</content></paragraph></subsection><subsection id="ID_1595212657755_311" name="2" temporalId="s41_2"><num value="2">(2)</num><content>須在升降機每個入口的顯眼位置，永久展示告示，警告於火警時勿使用升降機。<marker role="section-break"></marker></content></subsection><subsection id="ID_1595212657755_312" name="3" temporalId="s41_3"><num value="3">(3)</num><content>第(1)或(2)款提述的告示須清晰易讀，並須以耐久物料製成。</content></subsection></section></division></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657755_313" name="P12" temporalId="P12"><num value="12">第12部</num><heading>雜項事宜</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657755_314" name="s42" temporalId="s42"><num value="42">42.</num><heading>土地處理</heading><subsection id="ID_1595212657755_315" name="1" temporalId="s42_1"><num value="1">(1)</num><content>如要進行土地處理，以增進土地的支承荷載能力，則須向建築事務監督提供充分證明，證明該項處理所採用的方法及物料屬適當。</content></subsection><subsection id="ID_1595212657755_316" name="2" temporalId="s42_2"><num value="2">(2)</num><content>如已對土地進行土地處理，建築事務監督可要求對該土地進行充分測試。</content></subsection><subsection id="ID_1595212657755_317" name="3" temporalId="s42_3"><num value="3">(3)</num><content>如土地處理可能影響任何建築物、構築物、土地、街道或設施，則須採取足夠的預防措施。</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657755_318" name="s43" temporalId="s43"><num value="43">43.</num><heading>井</heading><subsection id="ID_1595212657755_319" name="1" temporalId="s43_1"><num value="1">(1)</num><content>除非已獲建築事務監督准許，否則不得開掘或重開與建築物或建築工程相關的井。</content></subsection><subsection id="ID_1595212657755_320" name="2" temporalId="s43_2"><num value="2">(2)</num><leadIn>井的設計、建造及操作，不得 ——</leadIn><paragraph id="ID_1595212657755_321" name="a" temporalId="s43_2_a"><num value="a">(a)</num><content>損害任何建築物、構築物、土地、街道或設施的穩定性；或</content></paragraph><paragraph id="ID_1595212657755_322" name="b" temporalId="s43_2_b"><num value="b">(b)</num><content>導致任何建築物、構築物、土地、街道或設施受任何損壞。</content></paragraph></subsection><subsection id="ID_1595212657755_323" name="3" temporalId="s43_3"><num value="3">(3)</num><content>在化糞池、污水池、集污槽的鄰近範圍，或在受污染的土地，不得掘井。</content></subsection><subsection id="ID_1595212657755_324" name="4" temporalId="s43_4"><num value="4">(4)</num><content>井須設有足夠的設施，以防止地面水或淤泥水從該井頂部的開口流入該井。</content></subsection><subsection id="ID_1595212657817_325" name="5" temporalId="s43_5"><num value="5">(5)</num><content>井須妥為襯砌，以防止污染。</content></subsection><subsection id="ID_1595212657817_326" name="6" temporalId="s43_6"><num value="6">(6)</num><content>井如有可能受到微粒累積的不利影響，則須設有合適的反濾物。</content></subsection><subsection id="ID_1595212657817_327" name="7" temporalId="s43_7"><num value="7">(7)</num><content>井的設計及建造，須能防止未經許可者進入。</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657817_328" name="s44" temporalId="s44"><num value="44">44.</num><heading>煙囱及煙道</heading><subsection id="ID_1595212657817_329" name="1" temporalId="s44_1"><num value="1">(1)</num><leadIn>本條適用於符合以下說明的煙囱及煙道 ——</leadIn><paragraph id="ID_1595212657817_330" name="a" temporalId="s44_1_a"><num value="a">(a)</num><content>內部直徑、寬度或闊度超逾200毫米；或</content></paragraph><paragraph id="ID_1595212657817_331" name="b" temporalId="s44_1_b"><num value="b">(b)</num><content>高度超逾3米。</content></paragraph></subsection><subsection id="ID_1595212657817_332" name="2" temporalId="s44_2"><num value="2">(2)</num><leadIn>建築物煙囱的 ——</leadIn><paragraph id="ID_1595212657817_333" name="a" temporalId="s44_2_a"><num value="a">(a)</num><content>建造、位置或遮護方式，須能防止該建築物的任何部分或任何其他建築物被點燃；及</content></paragraph><paragraph id="ID_1595212657817_334" name="b" temporalId="s44_2_b"><num value="b">(b)</num><content>建造須能確保以下情況：該煙囱外層表面的温度，不會升高至一個可能對該建築物內或該建築物附近的人構成危險的水平。</content></paragraph></subsection><subsection id="ID_1595212657817_335" name="3" temporalId="s44_3"><num value="3">(3)</num><leadIn>建築物煙道(不論裝置於該建築物內或外)的 ——</leadIn><paragraph id="ID_1595212657817_336" name="a" temporalId="s44_3_a"><num value="a">(a)</num><content>建造、位置或遮護方式，須能防止該建築物的任何部分或任何其他建築物被點燃；及</content></paragraph><paragraph id="ID_1595212657817_337" name="b" temporalId="s44_3_b"><num value="b">(b)</num><content>位置或遮護方式，須能盡量減低對該煙道造成意外損壞的風險，亦須能盡量減低對該建築物內或該建築物附近的人構成的危險。</content></paragraph></subsection><subsection id="ID_1595212657817_338" name="4" temporalId="s44_4"><num value="4">(4)</num><content>為防止建築物起火，煙道終端的位置，須能使燃燒產物不會進入該建築物(或任何其他建築物)的窗口或出入口、新鮮空氣入口、機械通風設備入口或排氣口。</content></subsection><subsection id="ID_1595212657817_339" name="5" temporalId="s44_5"><num value="5">(5)</num><leadIn>在本條中 ——</leadIn><def name="煙囱"><term>煙囱</term> (<term xml:lang="en">chimney</term>)指 ——<paragraph id="ID_1595212657817_340" name="a" temporalId="s44_5_a"><num value="a">(a)</num><content>發揮與煙道相同功用的構築物；或</content></paragraph><paragraph id="ID_1595212657817_341" name="b" temporalId="s44_5_b"><num value="b">(b)</num><content>圍起一條或多於一條煙道的構築物；</content></paragraph></def><def name="煙道"><term>煙道</term> (<term xml:lang="en">flue</term>)指供或擬供燃燒產物在到達露天地方前經過的管道；</def><def name="燃燒產物"><term>燃燒產物</term> (<term xml:lang="en">products of combustion</term>)包括 ——<paragraph id="ID_1595212657817_342" name="a" temporalId="s44_5_a"><num value="a">(a)</num><content>煙；</content></paragraph><paragraph id="ID_1595212657817_343" name="b" temporalId="s44_5_b"><num value="b">(b)</num><content>來自爐灶、烘爐或任何其他煮食器具的煙霧；及</content></paragraph><paragraph id="ID_1595212657817_344" name="c" temporalId="s44_5_c"><num value="c">(c)</num><content>污濁空氣。</content></paragraph></def></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657817_345" name="s45" temporalId="s45"><num value="45">45.</num><heading>壁爐</heading><content>建築物內的壁爐地面或壁爐凹位的建造，須能防止該建築物或任何其他建築物起火。</content></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212657817_346" name="s46" temporalId="s46"><num value="46">46.</num><heading>蟲鼠棲息之地</heading><content>建築物的建造，不得為蟲鼠提供棲息之地。</content></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212658005_347" name="s47" temporalId="s47"><num value="47">47.</num><heading>管道</heading><leadIn>如管道的大小可供人進入，則 ——</leadIn><paragraph id="ID_1595212658005_348" name="a" temporalId="s47_a"><num value="a">(a)</num><content>該管道須裝有通道口供人進入；及</content></paragraph><paragraph id="ID_1595212658005_349" name="b" temporalId="s47_b"><num value="b">(b)</num><content>該管道的建造，須能承受該人的重量。</content></paragraph></section></part><schedule startPeriod="2021-02-01" status="operational" reason="inEffect" id="ID_1595212658020_350" name="sch0" temporalId="sch0"><num value="0">附表</num><note role="crossReferences" type="inline" class="above_space_between_line_8 below_space_between_line_8 right_indent_1">[<ref href="/hk/cap123Q/s7">第7</ref>、<ref href="/hk/cap123Q/s8">8</ref>及<ref href="/hk/cap123Q/s9">9條</ref>]</note><heading>關於外加荷載的計算<marker role="blank-line"></marker></heading><text class="align_center"><b>表1<marker role="blank-line"></marker></b></text><text class="align_center"><b>最小外加荷載</b><marker role="blank-line"></marker></text><leadIn>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="444" class="left_indent_1 repeat_header">
+                <colgroup>
+                    
+                    <col width="12.16%"></col>
+                    
+                    <col width="7.01%"></col>
+                    <col width="0.23%"></col>
+                    
+                    <col width="6%"></col>
+                    
+                    <col width="24%"></col>
+                    
+                    <col width="27%"></col>
+                    
+                    <col width="24%"></col>
+                </colgroup>
+                <thead>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p class="align_justified">第1欄</p>
+                        </td>
+                        <td class="align_left" colspan="4">
+                            <p class="align_center">第2欄</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">第3欄</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">第4欄</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left valign_bottom">
+                            <p class="align_justified">類別</p>
+                        </td>
+                        <td class="align_left valign_bottom" colspan="4">
+                            <p class="align_center">用途</p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="left_indent_4 right_indent_4 align_center">均勻施加於平面上的分布荷載(以千帕斯卡為單位)</p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="align_center left_indent_4 right_indent_5">施加於平面上任何邊長50毫米(或本欄指明的其他尺寸)的方形範圍上的集中荷載(以千牛頓為單位)，或每米長度的線荷載(以千牛頓為單位)</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left valign_bottom">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_bottom" colspan="4">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p></p>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="break_rows">
+                        
+                        <td class="align_left" rowspan="1">
+                            <p class="align_justified">1</p>
+                        </td>
+                        <td class="align_left" colspan="4">
+                            <p>下述地方的樓面 ——</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        
+                        <td class="align_left" colspan="3">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>作住用用途的地方</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        
+                        <td class="align_left" colspan="3">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>集體寢室</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        
+                        <td class="align_left" colspan="3">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>旅館、汽車旅館及賓館內的私用客廳、睡房及洗手間</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        
+                        <td class="align_left" colspan="3">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>醫院、護養院及安老院內的病房、睡房及洗手間</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left" colspan="3">
+                            <p>
+                                <br></br>
+                                <br></br>
+                                <br></br>
+                                <br></br>
+                                <br></br>
+                                <br></br>
+                                <br></br>
+                            </p>
+                        </td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        
+                        <td class="align_left" colspan="3">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(e)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>住用處所內的浴室(來自按摩浴缸的荷載須分開計算)、茶水間及廚房</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p class="align_justified">2</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(1)</p>
+                        </td>
+                        <td class="align_left" colspan="3">
+                            <p>下述地方的樓面 ——</p>
+                            
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>醫療診症室或治療室</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>醫院手術室及X光室</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        
+                        <td class="align_left" colspan="2">
+                            <p>(2)</p>
+                        </td>
+                        <td class="align_left" colspan="3">
+                            <p>下述地方的樓面 ——</p>
+                            
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>實驗室</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left valign_center" colspan="2">
+                            <br></br>
+                        </td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>輕型工作室，而該工作室沒有由中央動力推動的機器，亦沒有儲物</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>作一般用途的辦公室</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>放置輕量電力及電子裝置的房間</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(e)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>不供儲物的錶房</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(f)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>辦公室或非工業工作場所內的茶水間</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left valign_center" colspan="2">
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                        </td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(3)</p>
+                        </td>
+                        <td class="align_left" colspan="3">
+                            <p>下述地方的樓面 ——</p>
+                            
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>銀行大堂</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>並非位於住用處所內的廚房及洗衣房</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(4)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>放映室的樓面</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p class="align_justified">3</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(1)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>幼兒中心及幼稚園的樓面</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(2)</p>
+                        </td>
+                        <td class="align_left" colspan="3">
+                            <p>下述地方的樓面 ——</p>
+                            
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>桌球室及保齡球場</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left valign_center" colspan="2">
+                            <br></br>
+                        </td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>課室、講授室、教學輔導室、電腦室及沒有藏書的閱覽室</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>互聯網電腦服務中心</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>練舞室</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(e)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>不能作集會用途的休憩、康樂及娛樂場地</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left valign_center" colspan="2">
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                        </td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(f)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>按摩房、桑拿房及澡堂(來自水池及噴泉或其他同類設施的荷載須分開計算)</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(3)</p>
+                        </td>
+                        <td class="align_left" colspan="3">
+                            <p>下述地方的樓面 ——</p>
+                            
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>設有固定座位<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(1)</sup>的集會場地</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>禮拜堂、教堂及設有固定座位<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(1)</sup>的舉行崇拜的地方</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left valign_center" colspan="2">
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                        </td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>骨灰安置所(壁龕的地方除外)</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>食肆、夜總會、酒廊、酒吧、食堂、快餐店及並非位於住用處所內的餐廳</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(e)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>咖啡室、麻將館及遊戲機中心</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(4)</p>
+                        </td>
+                        <td class="align_left" colspan="3">
+                            <p>下述地方的樓面 ——</p>
+                            
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>美術館及博物館</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left valign_center" colspan="2">
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                        </td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>看台</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>公眾會堂</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>劇院及電影院<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(4)</sup></p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(e)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>音樂廳</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(f)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>會議室及等候室</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(5)</p>
+                        </td>
+                        <td class="align_left" colspan="3">
+                            <p>下述地方的樓面 ——</p>
+                            
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>沒有固定座位<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(1)</sup>的集會場地</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>舞廳及的士高</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>建築物之間的行人天橋</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left valign_center" colspan="2">
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                        </td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>行人路、平台、廣場及供行人使用的地方</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(e)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>花園的露天地方(包括適合步行的短草草坪)</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(f)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>卡拉OK場所</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(g)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>健身室及體育館</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(h)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>庇護層</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left valign_center" colspan="2">
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                        </td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(i)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>溜冰場(冰的重量須分開計算)、球場及高爾夫球練習場</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(6)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>下述地方的樓面：舞台及用作舞台的電視錄影室</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">7.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="4">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p class="align_justified">4</p>
+                        </td>
+                        <td class="align_left" colspan="4">
+                            <p>下述地方的樓面：百貨公司、超級市場、市場及陳列和售賣商品的店舖</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p class="align_justified">5</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(1)</p>
+                        </td>
+                        <td class="align_left" colspan="3">
+                            <p>下述地方的樓面 ——</p>
+                            
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left" colspan="2">
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                        </td>
+                        <td class="align_left" colspan="2"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>有藏書的圖書室(不包括圖書館書庫)</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>作儲物及一般存檔用途的辦公室</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(2)</p>
+                        </td>
+                        <td class="align_left" colspan="3">
+                            <p>下述地方的樓面 ——</p>
+                            
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>書店及圖書館內的書庫</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">每米儲存高度<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(2)</sup>為3.5，但不少於10</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">按儲存物件的重量而斷定，但不少於9</p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left valign_center" colspan="2">
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                        </td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>冷藏庫</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">每米儲存高度<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(2)</sup>為5，但不少於15</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">按儲存物件的重量而斷定，但不少於9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>印刷廠房內的紙庫</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">每米儲存高度<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(2)</sup>為8</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">按儲存物件的重量而斷定，但不少於9</p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left valign_center" colspan="2">
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                        </td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>電池室及不間斷供電支援室</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">每米儲存高度<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(2)</sup>為10</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">按儲存物件的重量而斷定，但不少於9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(e)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>垃圾儲存空間或緊接此項之前的(a)、(b)、(c)及(d)項所指明者以外的一般儲存空間，包括倉庫內的儲存空間</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">每米儲存高度<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(2)</sup>為2.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">按儲存物件的重量而斷定，但不少於9</p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left valign_center" colspan="2">
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                        </td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(3)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>下述地方的樓面：機房、鍋爐房、通風機房、電機房及其他同類房間</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">7.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(4)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>下述地方的樓面：工廠、工場及作工業用途的其他同類的建築物或建築物部分 ——</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        
+                        <td class="align_left" colspan="1">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>如供支承輕量荷載</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        
+                        <td class="align_left" colspan="1">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>如供支承中量荷載</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">7.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        
+                        <td class="align_left" colspan="1">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>如供支承重量荷載</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">10</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        
+                        <td class="align_left" colspan="1">
+                            <p class="align_justified">(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>如供放置印刷機械裝置</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">12.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="4">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p class="align_justified">6</p>
+                        </td>
+                        
+                        <td colspan="4">
+                            <p>供車輛使用的泊車處、車路、樓面、車道及斜路 ——</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>如供總重量不超逾3 000公斤的車輛使用</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_4">20(施加於平面上任何邊長200毫米(而非邊長50毫米)的方形範圍上)</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>如供總重量超逾3 000公斤的車輛使用</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_4">按照認可工程原理而斷定</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_4">按照認可工程原理而斷定</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>
+                                
+                                <br></br>
+                                <br></br>
+                                <br></br>
+                                <br></br>
+                                <br></br>
+                                <br></br>
+                                
+                            </p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p class="align_justified">7</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(1)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>坡度如下的非開放屋頂 ——</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>5度或以下</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>5度以上，但不多於20度</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">0.75</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>20度以上，但少於40度</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_6">介乎0.75至0(按坡度以直線插值法計算)</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>40度或以上</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">0</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(2)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>坡度如下的屋頂(非開放屋頂及作第1、2、3、4、5或6類別用途的屋頂除外) ——</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>20度或以下</p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">2</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left valign_center" colspan="2"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left valign_center"></td>
+                        <td class="align_left"></td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>20度以上，但少於40度</p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="left_indent_5">介乎2至0(按坡度以直線插值法計算)</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>40度或以上</p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">0</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(3)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>簷篷</p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="left_indent_9 align_center">0.75<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(3)</sup></p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center left_indent_10">1.5<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(3)</sup></p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p class="align_justified">8</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(1)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>工作平台的樓面</p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="left_indent_4 right_indent_4">與所連接的樓面相同，但不少於4</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center left_indent_4 right_indent_4">沿外緣施加的每米長度2千牛頓的線荷載</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(2)</p>
+                        </td>
+                        <td class="align_left" colspan="3">
+                            <p>下述地方的樓面 ——</p>
+                            
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left" colspan="2">
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                        </td>
+                        <td class="align_left" colspan="2"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>露台</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_4 right_indent_4">與所連接的樓面相同，但不少於3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_4 right_indent_4 align_center">沿外緣施加的每米長度2千牛頓的線荷載</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>樓梯、樓梯平台及走廊</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_4 right_indent_4">與所連接的樓面相同，但不少於3而又不多於5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>伸建窗蓋、空調機篷蓋(上下平板)及空調機平台</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">—</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_4 right_indent_4">沿外緣施加的每米長度1.5千牛頓的線荷載</p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left valign_center" colspan="2">
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                        </td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>供維修用的高架橋板</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">—</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_4 right_indent_4">1(每米中心間距)</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </leadIn><leadIn class="align_left font_size_11">註：</leadIn><subsection id="ID_1595212658739_351" name="1" temporalId="sch0_1" class="no_header left_indent_18 first_line_indent_-18"><num value="1" class="align_left"><sup>(1)</sup></num><content class="align_justified font_size_11">如將座位移走並將有關空間用作其他用途的情況相當不可能會出現，該座位即視作固定座位。</content></subsection><subsection id="ID_1595212658739_352" name="2" temporalId="sch0_2" class="no_header left_indent_18 first_line_indent_-18"><num value="2" class="align_left"><sup>(2)</sup></num><leadIn class="align_justified font_size_11"><term>儲存高度</term> (<term xml:lang="en">storage height</term>)指樓面與以下項目(對儲存的高度造成實際限制者)之間的空間高度 ——</leadIn><paragraph class="left_indent_64 first_line_indent_-64" id="ID_1595212658739_353" name="a" temporalId="sch0_2_a"><num value="a">(a)</num><content>天花板；</content></paragraph><paragraph class="left_indent_64 first_line_indent_-64" id="ID_1595212658739_354" name="b" temporalId="sch0_2_b"><num value="b">(b)</num><content>樓面底部；</content></paragraph><paragraph class="left_indent_64 first_line_indent_-64" id="ID_1595212658739_355" name="c" temporalId="sch0_2_c"><num value="c">(c)</num><content>屋頂；或</content></paragraph><paragraph class="left_indent_64 first_line_indent_-64" id="ID_1595212658739_356" name="d" temporalId="sch0_2_d"><num value="d">(d)</num><leadIn>任何其他障礙物。</leadIn></paragraph></subsection><subsection id="ID_1595212658739_357" name="3" temporalId="sch0_3" class="no_header left_indent_18 first_line_indent_-18"><num value="3" class="align_left"><sup>(3)</sup></num><content class="align_justified font_size_11">施加於簷篷的最小外加荷載，並沒有顧及在保養或修葺時可能出現的、不受控的建造物料堆積。</content></subsection><subsection id="ID_1595212658739_358" name="4" temporalId="sch0_4" class="no_header left_indent_18 first_line_indent_-18"><num value="4" class="align_left"><sup>(4)</sup></num><content class="align_justified font_size_11"><term>電影院</term> (<term xml:lang="en">cinema</term>)指設計用作電影放映的建築物或建築物部分。<marker role="blank-line"></marker></content></subsection><crossHeading class="align_center"><b>表2</b><marker role="blank-line"></marker></crossHeading><text class="align_center"><b>總分布外加荷載的折減</b><marker role="blank-line"></marker></text><leadIn><table xmlns="http://www.w3.org/1999/xhtml" width="448" class="left_indent_0 repeat_header">
+                <colgroup>
+                    <col width="37.5%"></col>
+                    <col width="25.07%"></col>
+                    <col width="37.43%"></col>
+                </colgroup>
+                <thead>
+                    <tr class="break_rows">
+                        <td class="align_left valign_center">
+                            <p class="align_center">第1欄</p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p class="align_center">第2欄</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left valign_bottom" rowspan="2">
+                            <p class="align_center">有關構件所支承的有符合折減資格的荷載的樓面(包括屋頂)層數<br></br> </p>
+                        </td>
+                        <td class="align_left valign_bottom" colspan="2">
+                            <p class="align_center">有關構件所支承的每一樓面(包括屋頂)的總分布外加荷載的折減百分率</p>
+                            <p class="align_center">(%)</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left valign_bottom">
+                            <p class="align_center">表1第1、2、3、4及7類別<br></br> </p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="align_center">表1第5(4)類別中分布外加荷載不少於7.5千帕斯卡的工廠及工場<br></br> </p>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">1<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">0<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">0<br></br> </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">2<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">5<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">10<br></br> </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">3<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">10<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">20<br></br> </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">4<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">15<br></br> </p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">最多25<br></br> </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">5<br></br><br></br><br></br><br></br><br></br><br></br><br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">20<br></br><br></br><br></br><br></br><br></br><br></br><br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">最多25<br></br><br></br><br></br><br></br><br></br><br></br><br></br> </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">6<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">25<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">最多25<br></br> </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">7<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">30<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">最多25<br></br> </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">8<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">35<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">最多25<br></br> </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">8以上</p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">最多40</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">最多25</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table><marker role="section-break"></marker></leadIn><crossHeading class="align_center"><b>表3</b><marker role="blank-line"></marker></crossHeading><text class="align_center"><b>為限制或管制人的移動而設的防護欄障的最小水平外加荷載</b><marker role="blank-line"></marker></text><leadIn>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="448" class="left_indent_0 repeat_header">
+                <colgroup>
+                    <col width="16.14%"></col>
+                    <col width="20.35%"></col>
+                    <col width="23.19%"></col>
+                    <col width="20.19%"></col>
+                    <col width="20.12%"></col>
+                </colgroup>
+                <thead>
+                    <tr class="break_rows">
+                        <td class="align_left valign_bottom cellpadding_bottom_1 cellpadding_top_1 cellpadding_left_1 cellpadding_right_1">
+                            <p>第1欄</p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="align_center">第2欄</p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="align_center">第3欄</p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="align_center">第4欄</p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="align_center">第5欄</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left valign_bottom cellpadding_bottom_1 cellpadding_top_1 cellpadding_left_1 cellpadding_right_1">
+                            <p>項</p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="align_center">種類</p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="align_center">施加的線荷載<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(1)</sup></p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_6">施加於樓面與頂欄杆之間的填料上的均布荷載</p>
+                        </td>
+                        <td class="align_left">
+                            <p>施加於樓面與頂欄杆之間的填料任何部分上的集中荷載</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left valign_center cellpadding_bottom_1 cellpadding_top_1 cellpadding_left_1 cellpadding_right_1">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center cellpadding_bottom_1 cellpadding_top_1 cellpadding_left_1 cellpadding_right_1">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">(千牛頓每米)<br></br> </p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">(千帕斯卡)<br></br> </p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">(千牛頓)<br></br> </p>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="align_left cellpadding_left_1 cellpadding_right_1">
+                            <p class="align_justified">1.</p>
+                        </td>
+                        <td class="align_left">
+                            <p>不預期會有人羣聚集的地方<br></br> </p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">0.75</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center left_indent_6">1</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">0.5</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left  cellpadding_left_1 cellpadding_right_1">
+                            <p class="align_justified">2.</p>
+                        </td>
+                        <td class="align_left">
+                            <p>可能有人羣聚集但不預期出現過度擠擁的地方<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br> </p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_6 align_center">1.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_bottom_1 cellpadding_left_1 cellpadding_right_1">
+                            <p class="align_justified">3.</p>
+                        </td>
+                        <td class="align_left">
+                            <p>會出現過度擠擁的地方</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_6 align_center">1.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </leadIn><leadIn class="align_left font_size_11">註：</leadIn><subsection id="ID_1595212658786_359" name="1" temporalId="sch0_1" class="no_header left_indent_18 first_line_indent_-18"><num value="1" class="align_left"><sup>(1)</sup></num><leadIn class="align_justified font_size_11">線荷載須施加於以下兩者中的較低者 ——</leadIn><paragraph class="left_indent_64 first_line_indent_-64" id="ID_1595212658786_360" name="a" temporalId="sch0_1_a"><num value="a">(a)</num><content>樓面水平之上1.1米的高度；</content></paragraph><paragraph class="left_indent_64 first_line_indent_-64" id="ID_1595212658802_361" name="b" temporalId="sch0_1_b"><num value="b">(b)</num><content>防護欄障頂部邊緣。</content></paragraph></subsection></schedule></main></subLeg>

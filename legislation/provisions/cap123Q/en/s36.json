@@ -1,0 +1,30 @@
+{
+  "chapter": "123Q",
+  "language": "en",
+  "version_date": "2021-06-24",
+  "xml_path": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+  "sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+  "provision": "s36",
+  "kind": "section",
+  "role": "section",
+  "heading": "Application—Division 1",
+  "context": [
+    "Requirements for User Safety"
+  ],
+  "status": "operational",
+  "start_period": "2021-02-01T00:00:00",
+  "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212646113_258",
+  "content": "36.\nApplication—Division 1\n(1)\nThis Division does not apply to—\n(a)\na stage in an assembly hall;\n(b)\na vehicle parking bay for loading and unloading of goods;\n(c)\nan inaccessible roof;\n(d)\nan inaccessible area; or\n(e)\nany space (other than an accessible roof) within domestic premises for occupation by 1 family.\n(2)\nIn this section—\ninaccessible area (非開放地方) means an area that—\n(a)\nis not intended to be used for human occupation; and\n(b)\nis intended to be only accessible to personnel for maintenance or repair works;\ninaccessible roof (非開放屋頂) means a roof that—\n(a)\nis not intended to be used for human occupation; and\n(b)\nis intended to be only accessible to personnel for maintenance or repair works.",
+  "images": [],
+  "subsections": [
+    {
+      "identifier": "s36_1",
+      "content": "(1)\nThis Division does not apply to—\n(a)\na stage in an assembly hall;\n(b)\na vehicle parking bay for loading and unloading of goods;\n(c)\nan inaccessible roof;\n(d)\nan inaccessible area; or\n(e)\nany space (other than an accessible roof) within domestic premises for occupation by 1 family."
+    },
+    {
+      "identifier": "s36_2",
+      "content": "(2)\nIn this section—\ninaccessible area (非開放地方) means an area that—\n(a)\nis not intended to be used for human occupation; and\n(b)\nis intended to be only accessible to personnel for maintenance or repair works;\ninaccessible roof (非開放屋頂) means a roof that—\n(a)\nis not intended to be used for human occupation; and\n(b)\nis intended to be only accessible to personnel for maintenance or repair works."
+    }
+  ],
+  "path": "legislation/provisions/cap123Q/en/s36.json"
+}
