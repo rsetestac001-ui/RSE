@@ -1,0 +1,1434 @@
+{
+  "official_index": "https://www.bd.gov.hk/en/resources/codes-and-references/practice-notes-and-circular-letters/index_pnap.html",
+  "scope": "Current linked APP and ADV PDFs; repealed excluded",
+  "categories": {
+    "APP": {
+      "count": 167,
+      "expected": 167,
+      "documents": [
+        {
+          "code": "APP-1",
+          "path": "documents/PNAP/APP/APP-001.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP001.pdf",
+          "sha256": "5782a47a93d2162e6abb7c5d5640d4c6fb53222779a6dd358d23bc5a3497fd4e",
+          "bytes": 50241
+        },
+        {
+          "code": "APP-2",
+          "path": "documents/PNAP/APP/APP-002.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP002.pdf",
+          "sha256": "b4d4f1f17b9548dd67384d80a7fb0affceb5395c616e284a84c84c124f50ab8f",
+          "bytes": 307320
+        },
+        {
+          "code": "APP-3",
+          "path": "documents/PNAP/APP/APP-003.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP003.pdf",
+          "sha256": "1fa516b179b26ff80199f4e6355e9dcf9c54555ae6660109832386d007dfe6d1",
+          "bytes": 41354
+        },
+        {
+          "code": "APP-4",
+          "path": "documents/PNAP/APP/APP-004.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP004.pdf",
+          "sha256": "3d080dddb95fe288837c05794fe4880ccb73b67c2de3c0f31f2171e365f82365",
+          "bytes": 72370
+        },
+        {
+          "code": "APP-5",
+          "path": "documents/PNAP/APP/APP-005.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP005.pdf",
+          "sha256": "8e4903d8595603f93db0b3625c7781367e7dd84426506ccfa67f9071c1c268f8",
+          "bytes": 113209
+        },
+        {
+          "code": "APP-7",
+          "path": "documents/PNAP/APP/APP-007.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP007.pdf",
+          "sha256": "39648d79b175758b76760c8af8c4b588ba2ee9b8af8c8fba033a25992bc9f0d3",
+          "bytes": 21915
+        },
+        {
+          "code": "APP-8",
+          "path": "documents/PNAP/APP/APP-008.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP008.pdf",
+          "sha256": "61fd3150fbaefa58eec952ddf3bdc745907af84121da33c8c466d5904b6c5a51",
+          "bytes": 125157
+        },
+        {
+          "code": "APP-9",
+          "path": "documents/PNAP/APP/APP-009.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP009.pdf",
+          "sha256": "22dffde5dd00d241876c44897aaa6af3d8fab602363c7a7d5c45d49a0ed64657",
+          "bytes": 45514
+        },
+        {
+          "code": "APP-10",
+          "path": "documents/PNAP/APP/APP-010.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP010.pdf",
+          "sha256": "dfad9647cfa88d5a06c9c5255a4481ddb78b830271eaf9f56eee5ee597581db0",
+          "bytes": 193616
+        },
+        {
+          "code": "APP-11",
+          "path": "documents/PNAP/APP/APP-011.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP011.pdf",
+          "sha256": "cb9bc878afa69fc640ae95b0df526492928ed93a5eedd2b1ceed671c9f039489",
+          "bytes": 46693
+        },
+        {
+          "code": "APP-12",
+          "path": "documents/PNAP/APP/APP-012.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP012.pdf",
+          "sha256": "2daadd37fa54c164aa057ce3bfe834de997350e826c597a9bc9eec1797a99b26",
+          "bytes": 64845
+        },
+        {
+          "code": "APP-13",
+          "path": "documents/PNAP/APP/APP-013.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP013.pdf",
+          "sha256": "d42e543d0ae6f6bda80267d3a6cab781ef892c93bd2e8aaea0a2176b5210622f",
+          "bytes": 1400431
+        },
+        {
+          "code": "APP-14",
+          "path": "documents/PNAP/APP/APP-014.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP014.pdf",
+          "sha256": "959b682c65d69709b2d794ad349f3230f7f69dea738a90dd68231d85b0df2ef9",
+          "bytes": 29747
+        },
+        {
+          "code": "APP-15",
+          "path": "documents/PNAP/APP/APP-015.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP015.pdf",
+          "sha256": "fdd2a5399ffcd5d9048de551b894a54079f01160a893e2205e129718e7c36552",
+          "bytes": 59875
+        },
+        {
+          "code": "APP-16",
+          "path": "documents/PNAP/APP/APP-016.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP016.pdf",
+          "sha256": "4a6c102d56703a6d200b3654871df011c402b3b9d322630c6ec1d8d826ee7469",
+          "bytes": 343933
+        },
+        {
+          "code": "APP-17",
+          "path": "documents/PNAP/APP/APP-017.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP017.pdf",
+          "sha256": "1ad644b866090ab59785b7b2f604409d8c8b96ee0d6f188384247c93e85c9420",
+          "bytes": 52020
+        },
+        {
+          "code": "APP-18",
+          "path": "documents/PNAP/APP/APP-018.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP018.pdf",
+          "sha256": "0bbad37c1fbc9c3d22da92806e74f3350e7313cdd36bd895257b0d88f03663a2",
+          "bytes": 490906
+        },
+        {
+          "code": "APP-19",
+          "path": "documents/PNAP/APP/APP-019.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP019.pdf",
+          "sha256": "9a4bd6c3c23b9d4988b4f63610a8c6cb9512626634069fb1333905a189c9525d",
+          "bytes": 629527
+        },
+        {
+          "code": "APP-20",
+          "path": "documents/PNAP/APP/APP-020.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP020.pdf",
+          "sha256": "4455c4ae2c046cc2147efa844828489616737cabd8d390d35ac4905038c3d987",
+          "bytes": 45465
+        },
+        {
+          "code": "APP-21",
+          "path": "documents/PNAP/APP/APP-021.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP021.pdf",
+          "sha256": "da14340f0c02f8c2b0cf56c05363e162ee4d1f4d9f6839bc54353a6a22bb6e96",
+          "bytes": 388583
+        },
+        {
+          "code": "APP-22",
+          "path": "documents/PNAP/APP/APP-022.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP022.pdf",
+          "sha256": "0ff9d576ec4b04e5e0d1b6deba2eef7ff019d6357526fd591e927106d0e2d2c7",
+          "bytes": 49767
+        },
+        {
+          "code": "APP-23",
+          "path": "documents/PNAP/APP/APP-023.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP023.pdf",
+          "sha256": "eb6db1cfc7a186d4483ce66ebeb6eb322f5dd16cfea89199a7f82b2da421155b",
+          "bytes": 1884781
+        },
+        {
+          "code": "APP-24",
+          "path": "documents/PNAP/APP/APP-024.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP024.pdf",
+          "sha256": "15d297fb647d8e2b55588ac1689ddfd87418a1d6bc9ba658ce7bb71ab513a5c1",
+          "bytes": 219452
+        },
+        {
+          "code": "APP-25",
+          "path": "documents/PNAP/APP/APP-025.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP025.pdf",
+          "sha256": "c2c727d25b0ec62a0cde7b90640b530c9fbc6890612ddc120a91d14218ae2dfd",
+          "bytes": 12697
+        },
+        {
+          "code": "APP-26",
+          "path": "documents/PNAP/APP/APP-026.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP026.pdf",
+          "sha256": "fc47fce9cdf4cf3505e372519421ac25e0d66c8b38af6e9c3222ca1a76bcbf60",
+          "bytes": 43579
+        },
+        {
+          "code": "APP-27",
+          "path": "documents/PNAP/APP/APP-027.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP027.pdf",
+          "sha256": "d319c1e05a8422991abce35a952ac089bc723a9cae270505893035875463cba6",
+          "bytes": 247321
+        },
+        {
+          "code": "APP-28",
+          "path": "documents/PNAP/APP/APP-028.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP028.pdf",
+          "sha256": "52d259d778c1d39acc61cb1605e832fa65c477548833dd90100f533ec294aefc",
+          "bytes": 51274
+        },
+        {
+          "code": "APP-29",
+          "path": "documents/PNAP/APP/APP-029.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP029.pdf",
+          "sha256": "947f744ba7ffe2a963ed3f90256885c783915fd9b919fa97243010b967b7be9e",
+          "bytes": 260176
+        },
+        {
+          "code": "APP-30",
+          "path": "documents/PNAP/APP/APP-030.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP030.pdf",
+          "sha256": "2a1707428fee7f4db1f8f51fe02647c3cc985be4d9570ef6a97a6cbb17f6179f",
+          "bytes": 98179
+        },
+        {
+          "code": "APP-31",
+          "path": "documents/PNAP/APP/APP-031.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP031.pdf",
+          "sha256": "b69d858fb794eaf9063260bebef54097a8d492d2c107e98a5bcf26b1bf823745",
+          "bytes": 45559
+        },
+        {
+          "code": "APP-32",
+          "path": "documents/PNAP/APP/APP-032.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP032.pdf",
+          "sha256": "98ecdb464186544c6a4d74db21b8a41e8620a17568f0ad9acfa6a0f20d55a509",
+          "bytes": 100420
+        },
+        {
+          "code": "APP-33",
+          "path": "documents/PNAP/APP/APP-033.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP033.pdf",
+          "sha256": "f111cdc15ecc5798eba2f303b5cbea4ca5dca1e0694176610506c673c57b74fb",
+          "bytes": 17846
+        },
+        {
+          "code": "APP-34",
+          "path": "documents/PNAP/APP/APP-034.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP034.pdf",
+          "sha256": "89c1232fc60ba39333d6b1812cb9fbd958707a5b9f175522ef004a36e1e07e34",
+          "bytes": 56943
+        },
+        {
+          "code": "APP-35",
+          "path": "documents/PNAP/APP/APP-035.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP035.pdf",
+          "sha256": "96bf9335374babc22dbbddb671bce5d2bd50ab72c8826b5e9f4b73468915f7fd",
+          "bytes": 1864331
+        },
+        {
+          "code": "APP-37",
+          "path": "documents/PNAP/APP/APP-037.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP037.pdf",
+          "sha256": "ab4d242d4a711ace68f5bcea30b22947899ecbf3ab61720505ff0e696ee91a8b",
+          "bytes": 442466
+        },
+        {
+          "code": "APP-38",
+          "path": "documents/PNAP/APP/APP-038.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP038.pdf",
+          "sha256": "cd09982195b5b066f3665bc54068c8153d97664cb4c64f9f47126a94c8f88b8b",
+          "bytes": 19067
+        },
+        {
+          "code": "APP-39",
+          "path": "documents/PNAP/APP/APP-039.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP039.pdf",
+          "sha256": "323f482554a821f6fcec5e6998a7f19c19fdb3a04df80629c19858a50b0ee184",
+          "bytes": 51739
+        },
+        {
+          "code": "APP-40",
+          "path": "documents/PNAP/APP/APP-040.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP040.pdf",
+          "sha256": "ce20ab3da583bf659e0fe38d7eb2e70d473f4a429270837e431f79bd3ffb6f00",
+          "bytes": 223430
+        },
+        {
+          "code": "APP-41",
+          "path": "documents/PNAP/APP/APP-041.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP041.pdf",
+          "sha256": "5b465d763d245bf339ecc4cbb01c53f8858654cabff5d9419746637c28e4d470",
+          "bytes": 7359371
+        },
+        {
+          "code": "APP-42",
+          "path": "documents/PNAP/APP/APP-042.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP042.pdf",
+          "sha256": "35ec88d1953df0900a6abaaf94d6c0ae1a2dda4c74a43415eb7e96faa87c90e7",
+          "bytes": 179691
+        },
+        {
+          "code": "APP-43",
+          "path": "documents/PNAP/APP/APP-043.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP043.pdf",
+          "sha256": "2e7f8ff9ac587baf9bc2fc5a933f32529e9b8827d3c57c3168ab9e3e152758b5",
+          "bytes": 55375
+        },
+        {
+          "code": "APP-44",
+          "path": "documents/PNAP/APP/APP-044.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP044.pdf",
+          "sha256": "14b0b514582c86e22ae742e41b17735d2c57f13fad59f431d2fccae32d37f542",
+          "bytes": 44673
+        },
+        {
+          "code": "APP-45",
+          "path": "documents/PNAP/APP/APP-045.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP045.pdf",
+          "sha256": "73ccdf071d5e49b09ee8a7e9e2679c9d22a2a53265b05fab1bf65037f9a4544e",
+          "bytes": 112219
+        },
+        {
+          "code": "APP-46",
+          "path": "documents/PNAP/APP/APP-046.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP046.pdf",
+          "sha256": "201bfa91104904c438b066a14eb45bd431cd9fc5e2d4653d901594f29125081a",
+          "bytes": 187681
+        },
+        {
+          "code": "APP-47",
+          "path": "documents/PNAP/APP/APP-047.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP047.pdf",
+          "sha256": "03519c84e4697fb5af0a6820524415c1b501420550ae7e49830a20c108998a34",
+          "bytes": 51558
+        },
+        {
+          "code": "APP-48",
+          "path": "documents/PNAP/APP/APP-048.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP048.pdf",
+          "sha256": "7e87e409b5c32068593e6bc08cbd999dc9f9785e2a9b81bf36973929e6126a4b",
+          "bytes": 43977
+        },
+        {
+          "code": "APP-49",
+          "path": "documents/PNAP/APP/APP-049.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP049.pdf",
+          "sha256": "83512f6b61ddb8a3a02243178a48586c8d78be1d712ae87332775fa856686514",
+          "bytes": 154522
+        },
+        {
+          "code": "APP-50",
+          "path": "documents/PNAP/APP/APP-050.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP050.pdf",
+          "sha256": "799931cc624f06065d7d9a73fd10047fd548188b36eae325c09ac9a77b7648e2",
+          "bytes": 48408
+        },
+        {
+          "code": "APP-51",
+          "path": "documents/PNAP/APP/APP-051.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP051.pdf",
+          "sha256": "3a29f0d76e4981af1a3dee611dd82bb80bec3e4d6a079ec6dbec7ddd6d80d925",
+          "bytes": 61098
+        },
+        {
+          "code": "APP-52",
+          "path": "documents/PNAP/APP/APP-052.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP052.pdf",
+          "sha256": "8ed0639ea424ec0dd2dd520de893412d6f70d03ac83e5d6b47485f4cfc43147e",
+          "bytes": 41305
+        },
+        {
+          "code": "APP-53",
+          "path": "documents/PNAP/APP/APP-053.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP053.pdf",
+          "sha256": "b6f081d8e7a064547a5eabcef9d76daad8941bd6954a4b5edf0740ed740cf253",
+          "bytes": 249527
+        },
+        {
+          "code": "APP-54",
+          "path": "documents/PNAP/APP/APP-054.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP054.pdf",
+          "sha256": "35cbc62b383da5322a7c321d6d0576e5034c53618a09bf75834b647766969e91",
+          "bytes": 181223
+        },
+        {
+          "code": "APP-55",
+          "path": "documents/PNAP/APP/APP-055.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP055.pdf",
+          "sha256": "6859c740ab92f464783b3e46fe5b57f447f7a9f9c33502b2e6967ae6f261b6f5",
+          "bytes": 163621
+        },
+        {
+          "code": "APP-56",
+          "path": "documents/PNAP/APP/APP-056.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP056.pdf",
+          "sha256": "09c8971ca111afbfcaa4987713d21c34e2b370798feb8fb7f25f830b4e7342ad",
+          "bytes": 54172
+        },
+        {
+          "code": "APP-57",
+          "path": "documents/PNAP/APP/APP-057.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP057.pdf",
+          "sha256": "8d01dd704341af4aa9267781aa38b10923395b62557d19d8c48663184df4a8f2",
+          "bytes": 181855
+        },
+        {
+          "code": "APP-58",
+          "path": "documents/PNAP/APP/APP-058.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP058.pdf",
+          "sha256": "24b3afab15375fb3e327a04a979ee300e27cd911ee7bcf65a7e0a7a19dd66894",
+          "bytes": 1699388
+        },
+        {
+          "code": "APP-59",
+          "path": "documents/PNAP/APP/APP-059.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP059.pdf",
+          "sha256": "e135723b0ec3bb0f5011856423cb78c07879042d0804f4462c6d133fc2fe6e28",
+          "bytes": 46374
+        },
+        {
+          "code": "APP-60",
+          "path": "documents/PNAP/APP/APP-060.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP060.pdf",
+          "sha256": "ccf3baa18768a565b2915c7fd388522d10a06b085f7779f0a606f20f6eb80e4f",
+          "bytes": 366792
+        },
+        {
+          "code": "APP-61",
+          "path": "documents/PNAP/APP/APP-061.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP061.pdf",
+          "sha256": "7fe5454154bcfa7450f4fdb7c30632e5b49f09847ed7e2f0c3b6c0ab585be697",
+          "bytes": 464585
+        },
+        {
+          "code": "APP-62",
+          "path": "documents/PNAP/APP/APP-062.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP062.pdf",
+          "sha256": "dd812a6a4aeab35410185d708e2182dfdbb2a0fdf2476a5cb01bdd4156ea919e",
+          "bytes": 34159
+        },
+        {
+          "code": "APP-63",
+          "path": "documents/PNAP/APP/APP-063.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP063.pdf",
+          "sha256": "b7c3ebdf2df9a088da52e4bdd159b24917b8e4e439bc60161bc873286b06c19f",
+          "bytes": 85776
+        },
+        {
+          "code": "APP-64",
+          "path": "documents/PNAP/APP/APP-064.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP064.pdf",
+          "sha256": "1b46402f382b0cecde535945f1a29cde829088828b7d10276ff38bc49704a73d",
+          "bytes": 77372
+        },
+        {
+          "code": "APP-65",
+          "path": "documents/PNAP/APP/APP-065.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP065.pdf",
+          "sha256": "c3e918b7a01808b737a71edbf048d4fa5f9a356e6ade0b1fbd7dfdd4c9325633",
+          "bytes": 51215
+        },
+        {
+          "code": "APP-66",
+          "path": "documents/PNAP/APP/APP-066.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP066.pdf",
+          "sha256": "e34fc3487d91d1abde33eacdbbc1daab741beae1a69735b0966b553665074e5e",
+          "bytes": 43001
+        },
+        {
+          "code": "APP-67",
+          "path": "documents/PNAP/APP/APP-067.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP067.pdf",
+          "sha256": "8b14c05749420c2b0709d381b3aa3116d409f8d6610304e76571becc2b3bc202",
+          "bytes": 315397
+        },
+        {
+          "code": "APP-68",
+          "path": "documents/PNAP/APP/APP-068.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP068.pdf",
+          "sha256": "b687b09fbeba1a46436754996278ef6c4abc4adc5db1cb0d324ee12e7507f2c7",
+          "bytes": 56829
+        },
+        {
+          "code": "APP-69",
+          "path": "documents/PNAP/APP/APP-069.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP069.pdf",
+          "sha256": "72ed8c543dbeefc186d80a2d5553237c0c62352e9ece0387749fa22c542e70bb",
+          "bytes": 144001
+        },
+        {
+          "code": "APP-70",
+          "path": "documents/PNAP/APP/APP-070.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP070.pdf",
+          "sha256": "8fae0977db2749f382c6025295660718fef3b08aa3cab85e17c13c3bf7cd5b57",
+          "bytes": 44637
+        },
+        {
+          "code": "APP-71",
+          "path": "documents/PNAP/APP/APP-071.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP071.pdf",
+          "sha256": "7f77860f2094c875586cd027bdfd50342dbcb12d8d6c08020cd20df00f93675c",
+          "bytes": 43128
+        },
+        {
+          "code": "APP-72",
+          "path": "documents/PNAP/APP/APP-072.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP072.pdf",
+          "sha256": "76572df7e22b6bf0bf8b209cb476bd7c28aa99bd8d9878766fc2dc9e61d5108f",
+          "bytes": 59184
+        },
+        {
+          "code": "APP-73",
+          "path": "documents/PNAP/APP/APP-073.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP073.pdf",
+          "sha256": "de957f1db5a193e61d90c9c436ae527055c3c745c8ddee8cd9b6e83fbf8d2a0f",
+          "bytes": 70700
+        },
+        {
+          "code": "APP-74",
+          "path": "documents/PNAP/APP/APP-074.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP074.pdf",
+          "sha256": "80078f9746565511f535258710d83a47bc15b5cb1afcb8d217472769a9aee9b3",
+          "bytes": 54145
+        },
+        {
+          "code": "APP-75",
+          "path": "documents/PNAP/APP/APP-075.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP075.pdf",
+          "sha256": "8e81720a8d129a7af58a7eb50a14471591a00f625d913c6b7ec01084ecd44823",
+          "bytes": 45377
+        },
+        {
+          "code": "APP-76",
+          "path": "documents/PNAP/APP/APP-076.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP076.pdf",
+          "sha256": "817407a1565f760793188f1d549fd364b6c2bd4daaa4f55a1373282cdcd971d4",
+          "bytes": 49779
+        },
+        {
+          "code": "APP-78",
+          "path": "documents/PNAP/APP/APP-078.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP078.pdf",
+          "sha256": "783d33ceccb17386b53240ef808319ee6c010b481119fd5035775cb24190970e",
+          "bytes": 31003
+        },
+        {
+          "code": "APP-79",
+          "path": "documents/PNAP/APP/APP-079.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP079.pdf",
+          "sha256": "dfbef1037c9e51022d836b4efa903607a4b463c770433fa972fdec2c98fa7e9d",
+          "bytes": 86690
+        },
+        {
+          "code": "APP-80",
+          "path": "documents/PNAP/APP/APP-080.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP080.pdf",
+          "sha256": "2195b77d602ef8e75230bb6d32f96a1d9c499207c3a18aeae6bdbe4b9b39448a",
+          "bytes": 40672
+        },
+        {
+          "code": "APP-81",
+          "path": "documents/PNAP/APP/APP-081.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP081.pdf",
+          "sha256": "b47f850d2f65d81188817297fe0d189d967f6479dbaacb13d7f197cc2d8ccb56",
+          "bytes": 46288
+        },
+        {
+          "code": "APP-82",
+          "path": "documents/PNAP/APP/APP-082.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP082.pdf",
+          "sha256": "9a123d7675af9f34df252169999c419beb57276db2416d2fbcd1c2ddbd8da980",
+          "bytes": 45924
+        },
+        {
+          "code": "APP-83",
+          "path": "documents/PNAP/APP/APP-083.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP083.pdf",
+          "sha256": "452304a7b938fb2335ee327a4365dc15c4f6aa075103868b4fe6ccfa25b6fa53",
+          "bytes": 48054
+        },
+        {
+          "code": "APP-84",
+          "path": "documents/PNAP/APP/APP-084.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP084.pdf",
+          "sha256": "3b4cf51607a129da3c051b99ee7c90af1928ea90fec33619ed4ea3e9ece68067",
+          "bytes": 599532
+        },
+        {
+          "code": "APP-85",
+          "path": "documents/PNAP/APP/APP-085.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP085.pdf",
+          "sha256": "867e9b62b6ac1dd82245ed1a5d382dbbfd21a3c43d1e6adaa57a498de401c1da",
+          "bytes": 52148
+        },
+        {
+          "code": "APP-86",
+          "path": "documents/PNAP/APP/APP-086.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP086.pdf",
+          "sha256": "df5b9253dd6b93b3c0fa9c11e8a5d9da32925449cc987d47dacc543c8052e3de",
+          "bytes": 96463
+        },
+        {
+          "code": "APP-87",
+          "path": "documents/PNAP/APP/APP-087.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP087.pdf",
+          "sha256": "a1a243c8e14d32e77cd4af1cc8e11f916c98c0b560097ea98638bcbf68012ee9",
+          "bytes": 86284
+        },
+        {
+          "code": "APP-88",
+          "path": "documents/PNAP/APP/APP-088.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP088.pdf",
+          "sha256": "b945ee03056257864de31227a3016af21fa5b3b571ec265bef27921d51840b3d",
+          "bytes": 46548
+        },
+        {
+          "code": "APP-89",
+          "path": "documents/PNAP/APP/APP-089.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP089.pdf",
+          "sha256": "e086324f5ca6fb58b0643f32e810e2f2dc60392311acc67fc27eba1c54700f1c",
+          "bytes": 308091
+        },
+        {
+          "code": "APP-90",
+          "path": "documents/PNAP/APP/APP-090.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP090.pdf",
+          "sha256": "a59f31fd507e029f3dc866d707f23c35539572c5adfa7cdcc3430295717a0ab8",
+          "bytes": 46681
+        },
+        {
+          "code": "APP-91",
+          "path": "documents/PNAP/APP/APP-091.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP091.pdf",
+          "sha256": "0162ae1c50176407a56f8d98e84dd0c2ac72aea90212ae34cb4d0efa97ecf850",
+          "bytes": 47527
+        },
+        {
+          "code": "APP-92",
+          "path": "documents/PNAP/APP/APP-092.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP092.pdf",
+          "sha256": "62519efda199704e0c7492fcbb4df4d268dff3eee329dd0c8e39d5ab60bd6b4b",
+          "bytes": 43817
+        },
+        {
+          "code": "APP-93",
+          "path": "documents/PNAP/APP/APP-093.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP093.pdf",
+          "sha256": "94660f08d6e42efa8b9abfc7415394848c9373741ef749d01cd420a230bcf165",
+          "bytes": 1208169
+        },
+        {
+          "code": "APP-94",
+          "path": "documents/PNAP/APP/APP-094.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP094.pdf",
+          "sha256": "b43793943f6196da27c5c196927bf1ace2f6354516a114520437364e40e6ccee",
+          "bytes": 930099
+        },
+        {
+          "code": "APP-95",
+          "path": "documents/PNAP/APP/APP-095.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP095.pdf",
+          "sha256": "7274ffba4d283540e35564f8569644c28570870c446c22da89f2c87e093a3c9f",
+          "bytes": 44923
+        },
+        {
+          "code": "APP-96",
+          "path": "documents/PNAP/APP/APP-096.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP096.pdf",
+          "sha256": "9ce2c111dc709fd8033093ebff732d93db25ae70fb26d0f6bc028568677ff241",
+          "bytes": 180535
+        },
+        {
+          "code": "APP-97",
+          "path": "documents/PNAP/APP/APP-097.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP097.pdf",
+          "sha256": "3604bea4b5fa5637fb8e7b26aed7526115cb5657602ee17db752f7346204a7fb",
+          "bytes": 197378
+        },
+        {
+          "code": "APP-98",
+          "path": "documents/PNAP/APP/APP-098.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP098.pdf",
+          "sha256": "23e159f8df1a72934e26e896c705fcc2526ab5ce5c0daae7cb39b3ed2d187763",
+          "bytes": 15172
+        },
+        {
+          "code": "APP-99",
+          "path": "documents/PNAP/APP/APP-099.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP099.pdf",
+          "sha256": "f4948c74d67a586502bf94645e6639041ae7261e7da07b144a520922a1651f68",
+          "bytes": 8843
+        },
+        {
+          "code": "APP-100",
+          "path": "documents/PNAP/APP/APP-100.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP100.pdf",
+          "sha256": "f227b253dad71829e0486c0b54842f752c16bafd65f782129146be324841449e",
+          "bytes": 31558
+        },
+        {
+          "code": "APP-101",
+          "path": "documents/PNAP/APP/APP-101.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP101.pdf",
+          "sha256": "2ea783a447896cc41480268b8c725ba9b9b4b342723c523e8d96d31cf17ee790",
+          "bytes": 32494
+        },
+        {
+          "code": "APP-104",
+          "path": "documents/PNAP/APP/APP-104.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP104.pdf",
+          "sha256": "225c2900ccb819bc3b898731ff6bffa1056c4608a0c6201349bb136dbae83e67",
+          "bytes": 174167
+        },
+        {
+          "code": "APP-105",
+          "path": "documents/PNAP/APP/APP-105.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP105.pdf",
+          "sha256": "0b4787a543a039fbe1a29615179df3378ecafeec98228982f76c5cc9fdafb9aa",
+          "bytes": 1273385
+        },
+        {
+          "code": "APP-106",
+          "path": "documents/PNAP/APP/APP-106.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP106.pdf",
+          "sha256": "d7e2766ed520f2501cf17e45dae8e156ebcee99d56d282c7a6960a3da45bfdd4",
+          "bytes": 32627
+        },
+        {
+          "code": "APP-107",
+          "path": "documents/PNAP/APP/APP-107.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP107.pdf",
+          "sha256": "843f1e640fb765d484b39e8c3acbc9a63771e35991daa185083e4f5136ca2e4e",
+          "bytes": 28171
+        },
+        {
+          "code": "APP-108",
+          "path": "documents/PNAP/APP/APP-108.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP108.pdf",
+          "sha256": "2701be0ad552eb6f68cf1cfc9a59eefbe90077757e8185ed7fb6cd023c5549c2",
+          "bytes": 57252
+        },
+        {
+          "code": "APP-109",
+          "path": "documents/PNAP/APP/APP-109.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP109.pdf",
+          "sha256": "67adf73fa9ea7a918238c6881b5d9b3ec113eeca8d79b51b5a708bba6db703b4",
+          "bytes": 111436
+        },
+        {
+          "code": "APP-110",
+          "path": "documents/PNAP/APP/APP-110.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP110.pdf",
+          "sha256": "1881d609435e44f2cbb21219ad0bb5dea995f5d26831fdc8f3b0c81f21153903",
+          "bytes": 280372
+        },
+        {
+          "code": "APP-111",
+          "path": "documents/PNAP/APP/APP-111.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP111.pdf",
+          "sha256": "1903a4ff898d78d9b88884173a8db231a675cb26cb90ac0c3454fc0ea4ecde60",
+          "bytes": 167465
+        },
+        {
+          "code": "APP-112",
+          "path": "documents/PNAP/APP/APP-112.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP112.pdf",
+          "sha256": "f024813ffb0689e0005c3afcf6f3c6a15ea22dc519143699756c04f745604e0f",
+          "bytes": 77756
+        },
+        {
+          "code": "APP-114",
+          "path": "documents/PNAP/APP/APP-114.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP114.pdf",
+          "sha256": "8e971df1b4ce76142413d819beb7125677e8e5916bb24e02897340eb680d8900",
+          "bytes": 47591
+        },
+        {
+          "code": "APP-115",
+          "path": "documents/PNAP/APP/APP-115.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP115.pdf",
+          "sha256": "3bcaaccca393c2145cdb4b42a98149343efde7ace708154740aee65c67a24a7d",
+          "bytes": 52504
+        },
+        {
+          "code": "APP-116",
+          "path": "documents/PNAP/APP/APP-116.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP116.pdf",
+          "sha256": "ea493d42fda59cd29590072d7028f77836d7bcc16c12a9545a9b5949518f14ee",
+          "bytes": 2681689
+        },
+        {
+          "code": "APP-117",
+          "path": "documents/PNAP/APP/APP-117.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP117.pdf",
+          "sha256": "fd2f446e3d59e8330aedf4bdee0cb869d5400f723e0b5c750711934678719209",
+          "bytes": 58930
+        },
+        {
+          "code": "APP-118",
+          "path": "documents/PNAP/APP/APP-118.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP118.pdf",
+          "sha256": "bc5bde689658335ad252032591ad7d7d9e14ad492e63017d4ff6dfa32ee2097b",
+          "bytes": 14121
+        },
+        {
+          "code": "APP-119",
+          "path": "documents/PNAP/APP/APP-119.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP119.pdf",
+          "sha256": "2785b0ba0774d4a21b148717fb929101cae326f20839957365b1a5829bd349b3",
+          "bytes": 48562
+        },
+        {
+          "code": "APP-120",
+          "path": "documents/PNAP/APP/APP-120.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP120.pdf",
+          "sha256": "c1aa4e49d556adda4156f76ce29daada6b4b078313378fa17e1f0b0be78b066e",
+          "bytes": 140833
+        },
+        {
+          "code": "APP-121",
+          "path": "documents/PNAP/APP/APP-121.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP121.pdf",
+          "sha256": "39db4f326acdd81c8fe752ce855837925cd212cdcc7fddfa78dd243d34e5ebae",
+          "bytes": 40909
+        },
+        {
+          "code": "APP-122",
+          "path": "documents/PNAP/APP/APP-122.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP122.pdf",
+          "sha256": "47a4208a1ba55babb280e50c21038fc6d4259b20d70bcfc4243bb09cefc94ca8",
+          "bytes": 18243
+        },
+        {
+          "code": "APP-123",
+          "path": "documents/PNAP/APP/APP-123.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP123.pdf",
+          "sha256": "0d3d87cf7d303a84dcaf006ddfb0df9cd56157e6e37b8ecb5e28b525a6e7c70b",
+          "bytes": 40723
+        },
+        {
+          "code": "APP-124",
+          "path": "documents/PNAP/APP/APP-124.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP124.pdf",
+          "sha256": "10a9974e94516c539a29ec848196a1ec8c1537e4133d84d5bbb97b9df241cfdd",
+          "bytes": 46334
+        },
+        {
+          "code": "APP-125",
+          "path": "documents/PNAP/APP/APP-125.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP125.pdf",
+          "sha256": "e4e5ed5cb2ea1454c998e34379d88bc153a92638fbec9cc8c9713affc83184d3",
+          "bytes": 83679
+        },
+        {
+          "code": "APP-126",
+          "path": "documents/PNAP/APP/APP-126.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP126.pdf",
+          "sha256": "b20b45b90db7a0965919c27d9c6b15323a574d1ca068f5acd8671f61acb62941",
+          "bytes": 2031315
+        },
+        {
+          "code": "APP-127",
+          "path": "documents/PNAP/APP/APP-127.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP127.pdf",
+          "sha256": "4db83f79c8282d6d0a0e29a7f9c0483c6f7c1ff8ffbd8a0819c13c7095ff7ecf",
+          "bytes": 65407
+        },
+        {
+          "code": "APP-128",
+          "path": "documents/PNAP/APP/APP-128.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP128.pdf",
+          "sha256": "fdb65117787010bca3531307a1e64e987c2e1306a5fa5ad6c7acfbb6f6c002b9",
+          "bytes": 60156
+        },
+        {
+          "code": "APP-129",
+          "path": "documents/PNAP/APP/APP-129.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP129.pdf",
+          "sha256": "7966ed76012a91b6c369e3a4d21f2aa1dbb99c3f4fa5b1121d147a17893d096d",
+          "bytes": 250949
+        },
+        {
+          "code": "APP-130",
+          "path": "documents/PNAP/APP/APP-130.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP130.pdf",
+          "sha256": "8c4ac9d8849ba2106808570db553d3b74f67dd64d84922c43d5c60aaf0ac8489",
+          "bytes": 1390207
+        },
+        {
+          "code": "APP-132",
+          "path": "documents/PNAP/APP/APP-132.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP132.pdf",
+          "sha256": "e209ffcbffea3406f8ea8e30c8fc1f54f5c90337dda704863d758c4b3bc4d1f3",
+          "bytes": 98263
+        },
+        {
+          "code": "APP-133",
+          "path": "documents/PNAP/APP/APP-133.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP133.pdf",
+          "sha256": "4388a995458842cb8485eb04622ae88f9a38064fc92e62dcb7cf440c9729125a",
+          "bytes": 43442
+        },
+        {
+          "code": "APP-134",
+          "path": "documents/PNAP/APP/APP-134.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP134.pdf",
+          "sha256": "3b81e1ff30789c976f5a8e51c5579639d8f24096fc2703243fcd0ba290fe9277",
+          "bytes": 473714
+        },
+        {
+          "code": "APP-135",
+          "path": "documents/PNAP/APP/APP-135.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP135.pdf",
+          "sha256": "ed1d236a4733494f7b28a3f7ff8dd4b020910da13d48ae3e60b8fcdd646bd22a",
+          "bytes": 64589
+        },
+        {
+          "code": "APP-136",
+          "path": "documents/PNAP/APP/APP-136.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP136.pdf",
+          "sha256": "b00502d62ba2172e563c08f2c0cdbac3a4a6df72f5d74ff182715f26883112af",
+          "bytes": 82455
+        },
+        {
+          "code": "APP-137",
+          "path": "documents/PNAP/APP/APP-137.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP137.pdf",
+          "sha256": "6f42619c2bb0a9dbb96821036fb7cd6dd8beb20f129d6ca4e5fc57b286c55047",
+          "bytes": 171261
+        },
+        {
+          "code": "APP-138",
+          "path": "documents/PNAP/APP/APP-138.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP138.pdf",
+          "sha256": "74c672318e888bb5d9c7e65c3278ad5bcb5699c19ef1a6616c9a3cef1a3afc2f",
+          "bytes": 73911
+        },
+        {
+          "code": "APP-139",
+          "path": "documents/PNAP/APP/APP-139.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP139.pdf",
+          "sha256": "b00cc6d73688bd0a6b83c648340e7c6fbedfb41f5a13b3802981e03cf9e74644",
+          "bytes": 627876
+        },
+        {
+          "code": "APP-140",
+          "path": "documents/PNAP/APP/APP-140.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP140.pdf",
+          "sha256": "fdc219f6a8e1283b1436f928d68c8a408fd023382857a6c424d7e1a94220c568",
+          "bytes": 49065
+        },
+        {
+          "code": "APP-141",
+          "path": "documents/PNAP/APP/APP-141.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP141.pdf",
+          "sha256": "05d6ea3feebce37c230641709428e0a9357cccd88da935844541665b0da27574",
+          "bytes": 91240
+        },
+        {
+          "code": "APP-142",
+          "path": "documents/PNAP/APP/APP-142.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP142.pdf",
+          "sha256": "fd928c66bd4adb6006ec872abf9d01bee1c446948fb5bb60d8efe05460d76994",
+          "bytes": 1168571
+        },
+        {
+          "code": "APP-143",
+          "path": "documents/PNAP/APP/APP-143.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP143.pdf",
+          "sha256": "05c974504d3759a8c734d1b55c4d02e7c7be9c13e0a9b28cd11a0097b5cdc3dc",
+          "bytes": 342574
+        },
+        {
+          "code": "APP-144",
+          "path": "documents/PNAP/APP/APP-144.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP144.pdf",
+          "sha256": "87727d4cb3bd11da0034d697e7f9c074a45979f3245f3025fb4635976ef8c2ab",
+          "bytes": 647760
+        },
+        {
+          "code": "APP-145",
+          "path": "documents/PNAP/APP/APP-145.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP145.pdf",
+          "sha256": "dc3262cc55c5fd79d29f337fd811cdd871543f59d795972d9f30f558e313127c",
+          "bytes": 54814
+        },
+        {
+          "code": "APP-146",
+          "path": "documents/PNAP/APP/APP-146.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP146.pdf",
+          "sha256": "60127b85a99b2a2931975ced68200cc0c468744c8d0df30a2e94e287dcd8a61e",
+          "bytes": 315582
+        },
+        {
+          "code": "APP-147",
+          "path": "documents/PNAP/APP/APP-147.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP147.pdf",
+          "sha256": "95755fe9d009688a3de1727fa5c7c064188b39b222040b896f282363734709da",
+          "bytes": 359640
+        },
+        {
+          "code": "APP-148",
+          "path": "documents/PNAP/APP/APP-148.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP148.pdf",
+          "sha256": "164e5bc82f9b97d06e50280be1dd71caaff8ba8f603736b7dbeb2277dceef381",
+          "bytes": 151441
+        },
+        {
+          "code": "APP-149",
+          "path": "documents/PNAP/APP/APP-149.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP149.pdf",
+          "sha256": "a5b4d5a1af5f4a32b43973db33d95436f9390e8e2da77747ee666015077bb1a8",
+          "bytes": 25520
+        },
+        {
+          "code": "APP-150",
+          "path": "documents/PNAP/APP/APP-150.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP150.pdf",
+          "sha256": "effb622d6ae1cfe5603328df2dfd85b1eebe77bd437fe09b7b3207f1e283a9b5",
+          "bytes": 16220
+        },
+        {
+          "code": "APP-151",
+          "path": "documents/PNAP/APP/APP-151.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP151.pdf",
+          "sha256": "34e92ffe7431d143aa3d9670ebf0af6aca85a4c1c50442ca59f34c9bed544118",
+          "bytes": 6446094
+        },
+        {
+          "code": "APP-152",
+          "path": "documents/PNAP/APP/APP-152.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP152.pdf",
+          "sha256": "b3d7d054f6f4e9ec627e5c976d5cdf11afe7141801c5c4c2e59196d8a4260cef",
+          "bytes": 2365168
+        },
+        {
+          "code": "APP-153",
+          "path": "documents/PNAP/APP/APP-153.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP153.pdf",
+          "sha256": "b4def90175159eddd477e5ba2ad0a2c595e2f1f6d615b8e6f5622f54c159af1c",
+          "bytes": 1518774
+        },
+        {
+          "code": "APP-154",
+          "path": "documents/PNAP/APP/APP-154.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP154.pdf",
+          "sha256": "a0bd776c3a0db6f28e9e60f6369d50cfbf9958cecef29e7cc376c439bc608529",
+          "bytes": 14859
+        },
+        {
+          "code": "APP-155",
+          "path": "documents/PNAP/APP/APP-155.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP155.pdf",
+          "sha256": "f8187f72d23c61464dc292ab6d70209bb2ac11655ebbfc8b2526e618156e8de4",
+          "bytes": 315118
+        },
+        {
+          "code": "APP-156",
+          "path": "documents/PNAP/APP/APP-156.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP156.pdf",
+          "sha256": "61bb16584f2a7df6f7161cf87dbf86bfc9e5cdc6572e6a878ce1c2b643b9b7cc",
+          "bytes": 513933
+        },
+        {
+          "code": "APP-157",
+          "path": "documents/PNAP/APP/APP-157.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP157.pdf",
+          "sha256": "93f706ea9e8fd18536097b6ec0452400778779a9422becfdcb44a468efdfe91e",
+          "bytes": 50451924
+        },
+        {
+          "code": "APP-158",
+          "path": "documents/PNAP/APP/APP-158.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP158.pdf",
+          "sha256": "1a035143eae5d69748298fade5d42d6f291409840715c6d432c8806ac521ab29",
+          "bytes": 736464
+        },
+        {
+          "code": "APP-159",
+          "path": "documents/PNAP/APP/APP-159.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP159.pdf",
+          "sha256": "f758f8f71c939bb28cb8b07f13c6c81846c472a8f1bc078df678a23c3165ead1",
+          "bytes": 10880
+        },
+        {
+          "code": "APP-162",
+          "path": "documents/PNAP/APP/APP-162.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP162.pdf",
+          "sha256": "824a1d3f8198ea07903e5f75bc718fbe3db1b7c408cc581dd3811a9ebd97a5a9",
+          "bytes": 163205
+        },
+        {
+          "code": "APP-163",
+          "path": "documents/PNAP/APP/APP-163.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP163.pdf",
+          "sha256": "e59312ee1741a1f2c67c48836e351cbec40755339bb3867e625bcc3e01b1c276",
+          "bytes": 211210
+        },
+        {
+          "code": "APP-164",
+          "path": "documents/PNAP/APP/APP-164.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP164.pdf",
+          "sha256": "af42aafd00e67afc2abaf5601d433737a266e4797b5cc897c96d511539219b4b",
+          "bytes": 354053
+        },
+        {
+          "code": "APP-165",
+          "path": "documents/PNAP/APP/APP-165.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP165.pdf",
+          "sha256": "4dae0be495bb3c7997dd28401c53d978f431f7aacb6959ff6945f172b3179cf6",
+          "bytes": 29196
+        },
+        {
+          "code": "APP-166",
+          "path": "documents/PNAP/APP/APP-166.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP166.pdf",
+          "sha256": "370aa1f5760b20b190b523c13b27181184f4feec1e9d2d9c637f76454e6dd977",
+          "bytes": 132586
+        },
+        {
+          "code": "APP-167",
+          "path": "documents/PNAP/APP/APP-167.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP167.pdf",
+          "sha256": "220f9cb922e34daa02fb05938d3c46488c68c5dbbfb9645d7ae15f9e86e06f9b",
+          "bytes": 214519
+        },
+        {
+          "code": "APP-168",
+          "path": "documents/PNAP/APP/APP-168.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP168.pdf",
+          "sha256": "006094583ce6125f6965c21d8677de68807e7b5155747dd1d3148906e731c67f",
+          "bytes": 1203845
+        },
+        {
+          "code": "APP-169",
+          "path": "documents/PNAP/APP/APP-169.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP169.pdf",
+          "sha256": "0040bf245d1c09e73c7f8c5174e79a9b7c000b05e094cec6147fcebddfd435a3",
+          "bytes": 173909
+        },
+        {
+          "code": "APP-170",
+          "path": "documents/PNAP/APP/APP-170.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP170.pdf",
+          "sha256": "da4d7728f2f6cf31391f9f45937fe0eeaf6f736b97040dec0993ce7b53c902aa",
+          "bytes": 3607702
+        },
+        {
+          "code": "APP-171",
+          "path": "documents/PNAP/APP/APP-171.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP171.pdf",
+          "sha256": "11e4a09c9b08a1b00c233eb24e3c73812da5e17f6f71583b6c1ca25c8e836621",
+          "bytes": 702806
+        },
+        {
+          "code": "APP-172",
+          "path": "documents/PNAP/APP/APP-172.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP172.pdf",
+          "sha256": "b3eddcdaafc9b44adcfdd97a48a087bb5f91a3205d3b7b826f30448c2afa8f91",
+          "bytes": 121773
+        },
+        {
+          "code": "APP-173",
+          "path": "documents/PNAP/APP/APP-173.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP173.pdf",
+          "sha256": "5cb406776cd609b3a9bbaa934bc8ddc42bf870891dbc65132a8524b6ae84610a",
+          "bytes": 166851
+        },
+        {
+          "code": "APP-174",
+          "path": "documents/PNAP/APP/APP-174.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP174.pdf",
+          "sha256": "75f64fdc5f0ccd385c26e454d3664ca4b22084da2e6f54cf643d46d2d1be5a0e",
+          "bytes": 348421
+        },
+        {
+          "code": "APP-175",
+          "path": "documents/PNAP/APP/APP-175.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP175.pdf",
+          "sha256": "d579f7a443347052e2ab89f67451a54f86a2e3b583c217c35277e6df1747bd0b",
+          "bytes": 191526
+        },
+        {
+          "code": "APP-176",
+          "path": "documents/PNAP/APP/APP-176.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP176.pdf",
+          "sha256": "bd3c00db52e0c2840db6a84cc293ba414fdb034817677f760490979fe6a87415",
+          "bytes": 137407
+        }
+      ]
+    },
+    "ADV": {
+      "count": 35,
+      "expected": 35,
+      "documents": [
+        {
+          "code": "ADV-1",
+          "path": "documents/PNAP/ADV/ADV-001.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV001.pdf",
+          "sha256": "fb4a8cdf7d3a6d327f1f0d6eb96e928552b0346054067df5716af78bb613ad9d",
+          "bytes": 25325
+        },
+        {
+          "code": "ADV-2",
+          "path": "documents/PNAP/ADV/ADV-002.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV002.pdf",
+          "sha256": "9272d4f50bae8b23464ddb9ad5a2c9579df96cd3359ab91df6a8acf7df74cc61",
+          "bytes": 46127
+        },
+        {
+          "code": "ADV-3",
+          "path": "documents/PNAP/ADV/ADV-003.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV003.pdf",
+          "sha256": "991bc798d5a42f4f4b5d0f078e9195362da27863e154f6b8bd267f90123560d9",
+          "bytes": 58452
+        },
+        {
+          "code": "ADV-4",
+          "path": "documents/PNAP/ADV/ADV-004.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV004.pdf",
+          "sha256": "f886c3a12b2306b22374451b1077d96d5872986f280b18281cf41bdfbe10221e",
+          "bytes": 227182
+        },
+        {
+          "code": "ADV-5",
+          "path": "documents/PNAP/ADV/ADV-005.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV005.pdf",
+          "sha256": "265d70df2db275e63d1e8dc1a75659acb874d8c78807561fba99676ca23b2e82",
+          "bytes": 54541
+        },
+        {
+          "code": "ADV-6",
+          "path": "documents/PNAP/ADV/ADV-006.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV006.pdf",
+          "sha256": "3202802637884e7d7d0eb3eeb15c6dcb962e85dac5b90ff2abdad03f35632582",
+          "bytes": 15908
+        },
+        {
+          "code": "ADV-8",
+          "path": "documents/PNAP/ADV/ADV-008.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV008.pdf",
+          "sha256": "7178c2511c7332e30f8a179db230a5e8124e0cd7bdc2453b58982f08d7b33d81",
+          "bytes": 154657
+        },
+        {
+          "code": "ADV-9",
+          "path": "documents/PNAP/ADV/ADV-009.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV009.pdf",
+          "sha256": "65a3c0e3a2f0e7fcfb1340c6b0347dd70c15f9a09d900cdb4c6d76c2c508b42d",
+          "bytes": 70549
+        },
+        {
+          "code": "ADV-10",
+          "path": "documents/PNAP/ADV/ADV-010.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV010.pdf",
+          "sha256": "dda3211c9c13be34bada9c6ce8df59d92a5e1f04f5f92a70bdf1993405ef557e",
+          "bytes": 18105
+        },
+        {
+          "code": "ADV-11",
+          "path": "documents/PNAP/ADV/ADV-011.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV011.pdf",
+          "sha256": "28e38bfe5548d12c0410594bc400ebd16b2a9a9e02386705331bb9dc3702baca",
+          "bytes": 17378
+        },
+        {
+          "code": "ADV-12",
+          "path": "documents/PNAP/ADV/ADV-012.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV012.pdf",
+          "sha256": "fa809e65ff1116a58f3c423cf1c94b2b065a8af9989431e8f0d11ae155013ef9",
+          "bytes": 41821
+        },
+        {
+          "code": "ADV-13",
+          "path": "documents/PNAP/ADV/ADV-013.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV013.pdf",
+          "sha256": "e5d504bb2a969a7b73f1f2260a4948233d2994e2ebd99ef5165d982b0390d186",
+          "bytes": 49271
+        },
+        {
+          "code": "ADV-14",
+          "path": "documents/PNAP/ADV/ADV-014.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV014.pdf",
+          "sha256": "c0779fcf82874823f15192c3994c0f3c7ac4d4898598ae88316364545be579d9",
+          "bytes": 19266
+        },
+        {
+          "code": "ADV-15",
+          "path": "documents/PNAP/ADV/ADV-015.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV015.pdf",
+          "sha256": "3ef2c0f9243bc063feaa3a0181ca95527e1affd40b757eaa0e8431b1ba606bfe",
+          "bytes": 29509
+        },
+        {
+          "code": "ADV-16",
+          "path": "documents/PNAP/ADV/ADV-016.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV016.pdf",
+          "sha256": "b50ba865f85fe11b0bedeeb60d1603d89925a0e01034521c5beb9043c02ea568",
+          "bytes": 94670
+        },
+        {
+          "code": "ADV-17",
+          "path": "documents/PNAP/ADV/ADV-017.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV017.pdf",
+          "sha256": "0c6e3d9afc5a74d52cf354985c55ab57e896dda0b4e9f5c58330d6c4eabb70a7",
+          "bytes": 155985
+        },
+        {
+          "code": "ADV-18",
+          "path": "documents/PNAP/ADV/ADV-018.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV018.pdf",
+          "sha256": "88b1aafa85c5a8d2ab48988ccea4186e22f51811a1d84ac59517da493099d211",
+          "bytes": 65159
+        },
+        {
+          "code": "ADV-19",
+          "path": "documents/PNAP/ADV/ADV-019.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV019.pdf",
+          "sha256": "5278904f4d4f256a614c18d32b9a99fbdfd2be4e4eb9bed02cfea39bd1533a9c",
+          "bytes": 113204
+        },
+        {
+          "code": "ADV-21",
+          "path": "documents/PNAP/ADV/ADV-021.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV021.pdf",
+          "sha256": "b1ce25db514b0822834f9c0014c7b390da04bfd6419e1397f31cc90f4bbb8773",
+          "bytes": 134771
+        },
+        {
+          "code": "ADV-23",
+          "path": "documents/PNAP/ADV/ADV-023.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV023.pdf",
+          "sha256": "5f858434c52235e9ff7a010616aba74aea5ec27103dd253e7e6d6e31ba5ff1bd",
+          "bytes": 63738
+        },
+        {
+          "code": "ADV-24",
+          "path": "documents/PNAP/ADV/ADV-024.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV024.pdf",
+          "sha256": "052292eb53c1187d21b00511567d4320ea4f18d130052fecb32a07df50c792a8",
+          "bytes": 45932
+        },
+        {
+          "code": "ADV-25",
+          "path": "documents/PNAP/ADV/ADV-025.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV025.pdf",
+          "sha256": "a9d06ccab9abf4e9cc5d1f6acb7ae1021185edaae2d25fd4d641fac3fe9d277a",
+          "bytes": 41123
+        },
+        {
+          "code": "ADV-26",
+          "path": "documents/PNAP/ADV/ADV-026.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV026.pdf",
+          "sha256": "bd55e50fdfa3d9edc67a75a10479f2ffcfff48f9b6fdc47756fcccc08e2e69f0",
+          "bytes": 43101
+        },
+        {
+          "code": "ADV-27",
+          "path": "documents/PNAP/ADV/ADV-027.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV027.pdf",
+          "sha256": "99741df000743e929a7b072ac435897de456669115b2c51ef904772523c4575c",
+          "bytes": 65833
+        },
+        {
+          "code": "ADV-28",
+          "path": "documents/PNAP/ADV/ADV-028.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV028.pdf",
+          "sha256": "673b2c2c07b3fa247573a5b8b6a15e0a303909f475e867344a812df29e65db13",
+          "bytes": 207713
+        },
+        {
+          "code": "ADV-29",
+          "path": "documents/PNAP/ADV/ADV-029.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV029.pdf",
+          "sha256": "77bd11dabc65d623ff551603968f3fe330f212dfa6638bac94e4cb12e63d2672",
+          "bytes": 20957
+        },
+        {
+          "code": "ADV-30",
+          "path": "documents/PNAP/ADV/ADV-030.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV030.pdf",
+          "sha256": "f6e58be25cbb2e8c22b53bb02761e7b5f13112b5631927f76cc621fb4d495d3a",
+          "bytes": 40617
+        },
+        {
+          "code": "ADV-31",
+          "path": "documents/PNAP/ADV/ADV-031.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV031.pdf",
+          "sha256": "45b933e42fc37775067f0babbc75bd484ec9302c22acbf748a860a19b3e7aa34",
+          "bytes": 148414
+        },
+        {
+          "code": "ADV-32",
+          "path": "documents/PNAP/ADV/ADV-032.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV032.pdf",
+          "sha256": "ee610f5207344cd3529ed58a93bf81c5973be235d739d0ca1f93456c9476455a",
+          "bytes": 392480
+        },
+        {
+          "code": "ADV-33",
+          "path": "documents/PNAP/ADV/ADV-033.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV033.pdf",
+          "sha256": "e958e92c4932c743dce72acdf3293af7aeb5565c63673f88ac9c729373a2fc6a",
+          "bytes": 68712869
+        },
+        {
+          "code": "ADV-34",
+          "path": "documents/PNAP/ADV/ADV-034.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV034.pdf",
+          "sha256": "aa45cced0da8469d541e6a18d5c6c8f9e908776a9951acc5633742d6c9d110bc",
+          "bytes": 163295
+        },
+        {
+          "code": "ADV-35",
+          "path": "documents/PNAP/ADV/ADV-035.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV035.pdf",
+          "sha256": "fd495985e801539f3093cb64dabfd972d938c629d1c493cf190cd54228056975",
+          "bytes": 105489
+        },
+        {
+          "code": "ADV-36",
+          "path": "documents/PNAP/ADV/ADV-036.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV036.pdf",
+          "sha256": "d1b77572804b81b14840bfa43967a728d505d6e597898216da9ce0dfcd82b2e1",
+          "bytes": 6229975
+        },
+        {
+          "code": "ADV-37",
+          "path": "documents/PNAP/ADV/ADV-037.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV037.pdf",
+          "sha256": "d8beedf34bec591896f5cec204887d9501920ad228b53c00374212cf211d376f",
+          "bytes": 34408
+        },
+        {
+          "code": "ADV-38",
+          "path": "documents/PNAP/ADV/ADV-038.pdf",
+          "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADV/ADV038.pdf",
+          "sha256": "4f823349dd14b03f47995c9e515762e23525914ffe3f817f0b8cf2052c5e3674",
+          "bytes": 965612
+        }
+      ]
+    }
+  },
+  "failures": [],
+  "complete": true
+}
