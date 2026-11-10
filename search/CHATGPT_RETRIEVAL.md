@@ -21,3 +21,8 @@
 The existing GitHub Actions workflow `.github/workflows/build-search.yml` runs:
 `python scripts/build_search.py search "scheduled area GI" --limit 10`
 The SQLite index can be queried on a machine running the repository, but it is **not remotely callable by ChatGPT**. A separate authenticated or public read-only HTTP service is needed for arbitrary live queries. Do not claim such a service exists until deployed and tested.
+
+## Official legislation (separate provision index)
+Fetch `legislation/manifest.json` for snapshot/version metadata and `legislation/catalog.json` for exact provision paths. The five chapters are 123, 123A, 123C, 123F and 123Q; languages are `en` and `zh-Hant`. For example, `legislation/provisions/cap123/en/s20.json` contains the whole section and its numbered subsections. Read the complete provision, not only a search excerpt, before stating conditions or deadlines.
+
+Full original XML and statutory image assets are under `legislation/raw/`; complete extracted text is under `legislation/text/`. `search/legislation_fts.sqlite3` and `search/legislation_audit.json` are maintained by the official legislation workflow. Compact results live under `search/legislation_topics/`. See `legislation/SOURCES.md` for source attribution, update cadence, CLI usage and limitations.

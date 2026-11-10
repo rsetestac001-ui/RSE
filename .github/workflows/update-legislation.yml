@@ -1,0 +1,53 @@
+name: Download and index official building legislation
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 22 * * 0'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/legislation.py'
+      - 'scripts/test_legislation.py'
+      - '.github/workflows/update-legislation.yml'
+permissions:
+  contents: write
+concurrency:
+  group: official-building-legislation
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Test XML provision extraction
+        run: python -m unittest discover -s scripts -p 'test_legislation.py' -v
+      - name: Download official bilingual XML and build provision index
+        run: python scripts/legislation.py refresh
+      - name: Verify consent and Chinese retrieval
+        run: |
+          python scripts/legislation.py search 'consent commencement' --chapter 123 --limit 5
+          python scripts/legislation.py search 'consent' --chapter 123A --limit 3
+          python scripts/legislation.py search '同意' --chapter 123 --language zh-Hant --limit 3
+      - name: Preserve audit and source snapshot
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: official-legislation-audit
+          path: |
+            legislation/manifest.json
+            search/legislation_audit.json
+          if-no-files-found: warn
+      - name: Commit validated official texts and index
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add legislation/raw legislation/text legislation/provisions legislation/manifest.json legislation/catalog.json search/legislation_fts.sqlite3 search/legislation_audit.json search/legislation_topics
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update official bilingual building legislation and provision index'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
