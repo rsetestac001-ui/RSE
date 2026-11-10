@@ -17,12 +17,34 @@ jobs:
       - run: pip install requests beautifulsoup4
       - name: Fetch official APP and ADV PDFs
         run: python scripts/download_pnap_app_adv.py
-      - name: Commit PDFs and source manifest
+      - name: Push PDFs in small batches with retries
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add documents/PNAP/APP documents/PNAP/ADV pnap_app_adv_sources.json
-          if ! git diff --cached --quiet; then
-            git commit -m "Sync official PNAP APP and ADV PDFs"
-            git push
-          fi
+          # Avoid delta-compression pack errors seen in the previous push.
+          git config pack.window 0
+          git config pack.depth 0
+          git config http.version HTTP/1.1
+          mapfile -d '' files < <(git ls-files --others --modified --deleted --exclude-standard -z -- documents/PNAP/APP documents/PNAP/ADV pnap_app_adv_sources.json)
+          batch_size=15
+          for ((i=0; i<${#files[@]}; i+=batch_size)); do
+            batch=("${files[@]:i:batch_size}")
+            git add -- "${batch[@]}"
+            if git diff --cached --quiet; then continue; fi
+            git commit -m "Sync PNAP PDFs batch $((i/batch_size+1))"
+            pushed=false
+            for attempt in 1 2 3 4; do
+              if git -c pack.window=0 -c pack.depth=0 push origin HEAD:main; then
+                pushed=true
+                break
+              fi
+              echo "Push attempt $attempt failed; retrying..."
+              sleep $((attempt*10))
+            done
+            if [[ "$pushed" != true ]]; then
+              echo "::error::Failed to push PDF batch after four attempts"
+              exit 1
+            fi
+          done
