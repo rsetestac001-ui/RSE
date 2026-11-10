@@ -1,0 +1,57 @@
+{
+  "code": "APP-115",
+  "source_text": "indexed_text/PNAP/APP/APP-115.txt",
+  "source_pdf": "documents/PNAP/APP/APP-115.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Re gistered Structural Engineers and Registered Geotechnical Engineers  APP-115\n\n                               Practice Note for Authorized Persons    Buildings Department                                             246\n                         and Registered Structural Engineers\n\n\n\n                          Performance Review -\n         Item 6(g)(ii) in Column B, Section 17(1) of the Buildings Ordinance\n\n\nBackground\n\n             There  is an inherent difficulty in forecasting the precise subsurface\nconditions from site investigation conducted before the carrying out of geotechnical\nworks.  Regular review and verification of the design assumptions are generally\nrequired  for  geotechnical works.   In  certain  areas where  the geology and  the\nsubsurface  conditions  are complex,  it  will be  necessary  to  further  require  the\nsubmission of a properly documented performance review to ensure that the conditions\nencountered during and after works are not materially different from those assumed in\nthe design.  Also, in recent years, unconventional engineering schemes have become\nmore common in private developments.  These unprecedented designs need to be\nclosely supervised and monitored during construction.  Therefore, there is a need for\na review  to be  carried out during  the course of  the construction  to  verify the\ngeotechnical design assumption and to monitor the performance of the completed\nworks for certain cases.  Against this background, item 6(g) in Column B of Section\n17(1) of the Buildings Ordinance (BO) requires a performance review in respect of\ncertain works outside the scheduled areas.\n\nImplementation"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The BA may impose, as a condition of giving approval or consent to\nthe commencement  of  building works,  for  specific  sites  the requirement  for a\nperformance review.  Examples of sites where the requirement may be imposed are\ngiven in paragraph 3 below.  Where a performance review is required, there should\nbe sufficient demonstration that the building works have been adequately inspected and\nmonitored in the course of construction and that the geotechnical design assumptions\nupon which the building works have been based are valid.   It should also include a\nreview of the ground conditions revealed during the course of construction, and\ncontain evidence to demonstrate that any consequential changes in the design have\nbeen undertaken and plans suitably amended and approved.  The performance review\nshould be submitted to the satisfaction of the BA prior to application for an occupation\npermit or a temporary occupation permit, otherwise the application may be refused\nunder section 21(6) (f) of the BO.\n\n\n\n\n\n                                              /3………."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 216
+        }
+      ],
+      "text": "3.              Sites  where  requirements  for  performance  review  will  likely  be\nimposed, in addition to sites in Area Numbers 1, 2, and 4 of the Scheduled Areas, are\ngrouped in the following three categories:\n\n          (i)     Geological conditions need to be verified during construction\n\n             This applies  to developments on or adjacent to slopes\n            which have a history of  significant continuous ground\n            movements either prior to or during the  site formation\n               stage.    This  also  applies  to  sites  where  abnormal\n              geological  weakness  (such  as  unfavourably  oriented\n                persistent  layer  of  weak  and  relatively  impermeable\n                kaolinitic clay in altered or weathered rocks) has been\n                identified.\n\n          (ii)   Groundwater regime will be adversely affected\n\n             This applies to developments on sloping ground in which\n               the groundwater regime is susceptible to damming effects\n              of congested foundations below the groundwater level or\n               cutoff by bored pile walls or diaphragm walls.  Examples\n              are developments downslope of Scheduled Area No.1 (the\n              Mid-levels scheduled area), and developments in the hilly\n                terrain of Hong Kong Island and the foothills of Kowloon.\n\n          (iii)   Unconventional design\n\n            Examples include:\n-\n\n\n-\n\n\n\n\n\n-"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n\n\n\n\n                                                             ( H W CHEUNG )\n                                               Building Authority\n\n\n\n\n\nRef. : BD GP/BORD/A/41\n    BD GP/BORD/75\n\nFirst issue  September 2000\nThis revision  December 2005 (AD/Sup, DH(I)/CEDD)  (Paras.1, 2 & 3 amended,\npara.4 deleted)\n\nIndex under : Performance Review"
+    }
+  ]
+}

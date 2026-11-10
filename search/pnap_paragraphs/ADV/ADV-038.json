@@ -1,0 +1,284 @@
+{
+  "code": "ADV-038",
+  "source_text": "indexed_text/PNAP/ADV/ADV-038.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-038.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        ADV-38\n                         Registered Geotechnical Engineers\n\n\n                Innovative Building Materials and Technologies\n\nIntroduction\n\n            The use of innovative building materials and technologies (IBMT),\nincluding materials, products, systems or technologies of construction, may enhance the\nsafety, health and environmental performance of buildings, as well as productivity of the\nbuilding industry. To facilitate the application of IBMT in private development projects,\nthe Buildings Department (BD) has set up a pre-acceptance mechanism for IBMT with\nan aim to providing a curtailed assessment on non-site specific design and construction\nmatters  relating  to  building, drainage and  structural IBMT (excluding innovative\ngeotechnical materials and technologies) 1 for compliance with the safety, health and\nenvironmental standards set out in the Buildings Ordinance (BO) and its subsidiary\nregulations, so that the industry would have greater confidence in using IBMT for their\nprojects.\n\nPre-acceptance Mechanism"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 414
+        },
+        {
+          "label": "b",
+          "offset": 598
+        }
+      ],
+      "text": "2.          The supplier or manufacturer of IBMT is required to appoint an authorized\nperson (AP), a registered structural engineer (RSE) and/or a registered geotechnical\nengineer (RGE) 2 as appropriate who should evaluate the IBMT for the purpose of\ncompliance with the BO and its subsidiary regulations and submit a pre-acceptance\napplication (PAA) to BD for consideration. The PAA should include the following:\n\n        (a)    an application form (Appendix A) duly completed and signed by\n               the supplier or manufacturer and the appointed AP, RSE and/or\n         RGE as appropriate;\n\n        (b)    an innovation brief providing the details of the IBMT (e.g. use,\n              design principle and job reference (if any)) and highlighting the\n              innovative content of the IBMT3;\n\n\n                                                                                               /(c) …\n\n\n\n\n1    Suppliers/manufacturers of innovative geotechnical materials and technologies should\n    approach the Geotechnical Engineering Office of the Civil Engineering and Development\n    Department for their pre-acceptance of the geotechnical materials and technologies.\n2   Appointment of an RGE is required if the IBMT involves geotechnical matters, e.g. new\n    foundation system.\n3   For example, concrete  consists of innovative component as cement replacement  or\n     aggregates that will advance its performance, or there is currently no relevant local and\n     international standard for the IBMT."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n        (c)     building, drainage or structural plans as appropriate to justify how\n              the relevant standards and requirements under the BO could be met,\n              or otherwise demonstrate the performance of the IBMT being\n              equivalent  or  not  inferior  to  the  relevant  standards  and\n              requirements under the BO; and\n\n        (d)     technical specification of the IBMT, together with the supporting\n            documents   including   manufacturer’s   catalogue,   technical\n             documents,  test or assessment reports prepared by accredited\n                laboratories, quality assurance scheme of the manufacture factory\n             with ISO 9001 or equivalent quality assurance certification, etc."
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 110
+        },
+        {
+          "label": "b",
+          "offset": 342
+        }
+      ],
+      "text": "3.           For  the avoidance of  doubt,  the pre-acceptance mechanism  is not\napplicable to the following:\n\n        (a)     building materials, products, systems or technologies that have\n              already been accepted and shown  in PNAPs  (e.g. Modular\n               Integrated Construction) and codes of practice issued by BD; and\n\n        (b)    building materials, products, systems or technologies that are\n              already available in BD’s Central Data Bank.\n\n\nProcessing of PAA"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         On the condition that the PAA is accompanied with sufficient information,\nBD will provide a determination normally within 45 days from the date of receipt of the\napplication in the form of a letter of in-principle acceptance if the IBMT is accepted\nin-principle for the proposed use. Otherwise, BD will provide a letter of comments on the\napplication to AP/RSE/RGE also within 45 days. AP/RSE/RGE should clarify/respond\nto all comments in 30 days, or the application may be considered as abandoned. Upon\nreceipt  of  the  responses  to comments  and/or  supplementary  information  from\nAP/RSE/RGE, BD will give a determination within 30 days. BD may refuse 4 the\napplication with a list of outstanding items or remaining comments yet to be addressed if\nfull response  is not received or the responses cannot  satisfactorily address BD’s\ncomments.  To facilitate the preparation of the PAA, the applicant is encouraged to\ndiscuss with BD before submitting an application."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The  letter of in-principle acceptance will state the requirements and\nlimitations of the pre-accepted IBMT.  The letter will also remind the supplier or\nmanufacturer the statutory requirements of approval and consent for application of the\nIBMT in a development project, and specify whether it is suitable for use in minor works\ncarried out under the simplified requirements of the Minor Works Control System. The\nletter together with the brief description, requirements and limitations of the pre-accepted\nIBMT will be uploaded to BD website for public reference.\n\n\n                                                               /Adoption …\n\n\n4     If the application is refused, a new application as per paragraph 2 is required."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\nAdoption of Pre-accepted IBMT in Private Developments"
+    },
+    {
+      "id": "p6-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          The pre-acceptance of the IBMT should not be construed as an exemption\nfrom obtaining prior approval and consent from the Building Authority under the BO.\nWhen a plan submission involves  the use of pre-accepted IBMT,  it should be\naccompanied with an application for modification/exemption under section 42 of the BO\nwhere appropriate.  Nevertheless, the pre-acceptance  is not a pre-requisite for the\napproval of plans involving IBMT."
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "7.         Any building professionals who intend to adopt the pre-accepted IBMT in\ntheir development projects are responsible to ensure that the design and application of\nsuch IBMT in the project comply with the provisions of the BO, the approved plans as\nwell as the requirements and limitations specified in the letter of in-principle acceptance."
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "8.         To  cater  for advancement  in  technology and  possible changes  in\nrequirements under the BO and its subsidiary regulations, codes of practice and PNAPs,\nthe pre-acceptance of any IBMT will be subject to a validity period of maximum 5 years.\nUpon expiry, an application for renewal of the pre-acceptance prepared by AP, RSE\nand/or RGE as appropriate should be made in an application form (Appendix B) to ensure\ncompliance with the latest requirements of the BO.\n\n\n\n\n\n                                                          ( YU Po-mei, Clarice )\n                                              Building Authority\n\n\n\n\n\nRef. : BD GR/1-55/313\n\nFirst issue    April 2024 (AD/CS)"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                            (PNAP ADV-38)\n                                                                                           Form\n        申請原則上認可創新建築材料與技術 (IBMT)             IBMT 1\n                Application for In-principle Acceptance of\n                 Innovative Building Materials and Technologies (IBMT)\n\n 呈交表格時須附上圖則及相關的證明文件。\n 請以正楷填寫，並在適當方格內加上『√』號。填寫前，請細閱《注意事項》。\n  • Submit this form with plans and relevant supporting documents accompanied.\n  • Read the “Matters to Note”, complete in BLOCK LETTER and tick the appropriate boxes.\n\n致建築事務監督 To the Building Authority\n\n 甲部  申請詳情\n Part A  Application Particulars\n\n  由申請人填寫\n    To be completed by the applicant\n\n  1 創新建築材料與技術的詳情\n      Details of the Innovative Building Materials and Technologies\n\n名稱 Name                        型號 (如有) Model Number (if any)\n\n\n創新建築材料與技術的類別 Category of IBMT\n  建築  / 排水材料  / 產品  / 系統  / 技術 Building / Drainage Material / Product / System / Technology\n  結構材料  / 產品  / 系統  / 技術 Structural Material / Product / System / Technology\n  其他，請註明 Others, please specify\n\n簡述 Brief Description\n\n\n\n\n\n  2 申請人的資料\n      Details of the Applicant\n\n生產商  / 供應商 Manufacturer / Supplier           聯絡地址 Correspondence Address\n\n\n\n身份証明 (任擇其一)   Identification (Choose one)\n\n  香港身份證號碼                    聯絡電話        傳真號碼\n   HKID No.                       X X X (     )    Contact Tel. No.         Fax No.\n  商業登記號碼\n    Business Registration No.\n\n聯絡人 Contact Person       姓氏先行 Surname first 聯絡人電郵地址(必須填寫)\n                                                          Email Address of Contact Person\n                                                                 (Must be provided for subsequent communication)\n\n\n\n                                                            BD (4/2024) P. 1/6"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "3 製備圖則人士的資料\n      Details of the Person who Prepared the Plans\n\n申請人已委任以下人士就本申請擬備圖則及證明文件\nThe following persons have been appointed by the applicant for the preparation of plans and supporting documents\nfor this application\n\n認可人士 (適用於建築  / 排水類型創新建築材料與技術)\nAuthorized Person (applicable for building / drainage IBMT)\n中文姓名* Name in Chinese*  姓氏先行 Surname first\n\n\n                           註冊証明書編號*\n英文姓名* Name in English*  姓氏先行 Surname first     Certificate of Registration No.*\n                                                                                                        /\n\n\n聯絡地址 Correspondence Address           上述人士委任日期\n                                                   Date of Appointment of the above Person\n\n\n                             日 dd 月 mm 年 yyyy\n\n註冊結構工程師 (適用於結構類型創新建築材料與技術)\nRegistered Structural Engineer (applicable for structural IBMT)\n中文姓名* Name in Chinese*  姓氏先行 Surname first\n\n\n                           註冊証明書編號*\n英文姓名* Name in English*  姓氏先行 Surname first     Certificate of Registration No.*\n                                                                                                        /\n\n\n                           上述人士委任日期\n聯絡地址 Correspondence Address                      Date of Appointment of the above Person\n\n\n                             日 dd 月 mm 年 yyyy\n\n\n註冊岩土工程師 (如適用 )\nRegistered Geotechnical Engineer (if applicable)\n中文姓名*Name in Chinese*  姓氏先行 Surname first\n\n\n                           註冊証明書編號*\n英文姓名* Name in English*  姓氏先行 Surname first     Certificate of Registration No.*\n                                                                                                        /\n\n\n                           上述人士委任日期\n聯絡地址 Correspondence Address                      Date of Appointment of the above Person\n\n\n                             日 dd 月 mm 年 yyyy\n\n\n* 根據註冊記錄\n* In accordance with the registration record\n\n\n\n                                                            BD (4/2024) P. 2/6"
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "乙部  呈交文件\n Part B  Submission\n\n現呈交兩份已簽署及着色的建築  / 結構  / 排水圖則及一份下列證明文件，以申請原則上認可。\nTwo sets of signed and coloured building / structural / drainage plans, and 1 set of the following supporting\ndocument are submitted herewith for application for in-principle acceptance.\n\n   詳細的簡介書，尤其創新元素\n     Innovation brief providing details with the innovative part highlighted\n  創新建築材料與技術的規格（包括產品目錄和技術文件）\n     Specifications of IBMT (including product catalogue and technical document)\n  結構計算書（如適用）\n      Structural calculations (if applicable)\n  顯示符合《建築物條例》的相關標準  / 規定的文件證據\n    Documentary evidence of compliance with relevant standards / requirements under the Buildings\n     Ordinance\n  認可實驗室的測試  / 評估報告\n     Test / assessment reports by accredited laboratories\n  品質認證和品質保證計劃\n     Quality certification and Quality assurance scheme\n  創新建築材料與技術的使用限制列表\n      List of limitations on the use of IBMT\n\n 丙部  製備圖則證明書\n Part C  Certificate of Preparation of Plans\n\n由獲委任人士填寫\nTo be completed by the appointed person\n\n本人證明：\n1.  所夾附與上述申請有關的建築及排水圖則及相應的證明文件均由本人製備或在本人監督或指示下製備，並\n   由本人簽署；以及\n2.  盡本人所知所信，有關圖則及證明文件在各方面均符合《建築物條例》及相關規例的規定。\n\nI certify that:"
+    },
+    {
+      "id": "p1-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "1.    the plans and the corresponding supporting documents attached relating to the above application have\n     been prepared by me or under my supervision or direction and have been signed by me; and"
+    },
+    {
+      "id": "p2-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "2.     to the best of my knowledge and belief, such plans and supporting documents comply in all respects with\n      the provisions of the Buildings Ordinance and allied regulations.\n\n認可人士 (適用於建築  / 排水類型創新建築材料與技術)\nAuthorized Person (applicable for building / drainage IBMT)\n\n                           註冊証明書編號*   註冊屆滿日期*\n                                                                  Certificate of         Date of Expiry of\n姓名* Name*       姓氏先行 Surname first          Registration No.*      Registration*\n\n                                                日 dd  月 mm  年 yyyy\n簽署* Signature*\n\n                                日期 Date\n                                                日 dd  月 mm  年 yyyy\n\n\n\n\n\n                                                            BD (4/2024) P. 3/6"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "本人證明：\n1.  所夾附與上述申請有關的結構圖則及計算資料，以及相應的證明文件均由本人製備或在本人監督或指示下製\n   備，並由本人簽署；以及\n2.  盡本人所知所信，有關結構圖則、計算資料及證明文件在各方面均符合《建築物條例》及相關規例的規定。\n\nI certify that:"
+    },
+    {
+      "id": "p1-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "1.    the structural plans and calculations, and the corresponding supporting documents attached relating to the\n     above application have been prepared by me or under my supervision or direction and have been signed\n     by me; and"
+    },
+    {
+      "id": "p2-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "2.     to the best of my knowledge and belief, such structural plans, calculations and supporting documents\n     comply in all respects with the provisions of the Buildings Ordinance and allied regulations.\n\n註冊結構工程師 (適用於結構類型創新建築材料與技術)\nRegistered Structural Engineer (applicable for structural IBMT)\n\n                           註冊証明書編號*   註冊屆滿日期*\n                                                                  Certificate of         Date of Expiry of\n姓名* Name*         姓氏先行 Surname first    Registration No.*      Registration*\n\n                                                日 dd   月 mm  年 yyyy\n簽署* Signature*\n\n\n                                日期 Date\n                                                日 dd   月 mm  年 yyyy\n\n\n\n本人證明：\n1.  所夾附與上述申請有關的土力圖則及計算資料，以及相應的證明文件均由本人製備或在本人監督或指示下製\n   備，並由本人簽署；以及\n2.  盡本人所知所信，有關土力圖則、計算資料及證明文件在各方面均符合《建築物條例》及相關規例的規定。\n\nI certify that:"
+    },
+    {
+      "id": "p1-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "1.    the plans, geotechnical details and calculations, and the corresponding supporting documents attached\n       relating to the above application have been prepared by me or under my supervision or direction and have\n     been signed by me; and"
+    },
+    {
+      "id": "p2-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "2.     to the best of my knowledge and belief, such plans, geotechnical details and calculations, and supporting\n     documents comply in all respects with the provisions of the Buildings Ordinance and allied regulations.\n\n註冊岩土工程師 (如適用)\nRegistered Geotechnical Engineer (if applicable)\n                           註冊証明書編號*   註冊屆滿日期*\n                                                                  Certificate of         Date of Expiry of\n姓名* Name*         姓氏先行 Surname first    Registration No.*      Registration*\n\n                                                日 dd  月 mm  年 yyyy\n簽署* Signature*\n\n\n                                日期 Date\n                                                日 dd  月 mm  年 yyyy\n\n\n\n\n\n*根據註冊記錄\n*In accordance with registration record\n\n                                                            BD (4/2024) P. 4/6"
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "丁部  聲明\n Part D  Declaration\n\n  由申請人填寫\n    To be completed by the applicant\n(i)   本人/我們謹此明確保證及聲明，上述就支持本人 /我們的申請而提供的資料屬正確及真確。本人 /我們明確\n    確認本人／我們知悉並同意，所提供的資料會作為審批「原則上認可」申請的依據，假如有關資料發現屬\n    虛假或具誤導性，申請可能會遭拒絕或獲批的「原則上認可」申請可能會遭撤回。\n(ii)  本人/我們並明確確認屋宇署可把本人 /我們在本申請表內所提供的個人資料用於與處理本人 /我們上述申請\n    有關連的用途。\n(iii)  本人/我們明白如未能提供足夠資料，屋宇署可能無法處理本人/我們的申請。\n(iv)  本人/我們謹此授權屋宇署把申請表內本人 /我們的個人資料披露予有關政府部門，以取得與本人 /我們的申\n    請有關連的資料。\n(v)  本人/我們並授權、指示及要求有關政府部門在遇到屋宇署提出要求時提供所需的任何及全部資料。\n(vi)  本人/我們謹此授權屋宇署把獲批的「原則上認可」申請製成電子記錄，並上載互聯網供公眾查閱。\n(i)     I/We hereby expressly warrant and declare that the above information provided in support of my/our\n        application is correct and genuine and I/we expressly acknowledge that I am/we are aware and accept that\n        the in-principle acceptance will be made on the basis of the information supplied by me/us and that\n        application may be declined or the in-principle acceptance so given may be withdrawn in the event such\n        information is found to be false or misleading.\n(ii)     I/We further expressly acknowledge that the personal data provided by me/us in this application form will be\n       used by the Buildings Department in connection with the processing of my/our said application.\n(iii)    I/We understand that if I/we do not provide sufficient information, the Buildings Department may not be able\n         to process my/our application.\n(iv)    I/We hereby authorise the Buildings Department to disclose my/our personal data in the application form to\n       such Government departments as  it may see  fit to obtain such information which is relevant to my/our\n         application.\n(v)    I/We further authorise and direct and request any Government department which may be approached by\n        the Buildings Department, to supply any and all information which it may require.\n(vi)    I/We hereby authorise the Buildings Department to make an electronic record of the submission and upload\n       such to the Internet for inspection by public if the in-principle acceptance is given.\n\n申請人簽署 Signature of the Applicant\n\n\n                           日期 Date\n\n                                   日 dd  月 mm  年 yyyy\n\n\n\n\n\n                                                            BD (4/2024) P. 5/6"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "注意事項                                              Matters to Note\n\n甲. 個人資料                                           A.  Personal Data\n收集的目的                                            Purposes of Collection\n1. 屋宇署會使用透過本表格所獲得的個人資料作下列用途：         1. The personal data provided by means of this form will be\n    (a) 處理你在本表格中所呈交的文件的相關事務；                used by  the  Buildings Department  for  the  following\n   (b) 處理有關上述擬進行工程、《建築物條例》及有關法           purposes:\n   例的相關事務；及                                                  (a)   activities  relating  to  the  processing  of  your\n    (c) 方便屋宇署與你聯絡。                                                 application in this form;\n2. 你必須提供本表格所要求的個人資料。假如你未能提供所            (b)   activities relating to the above proposed works, and\n 需資料，可能導致處理你所呈交的文件時出現延誤，或甚                  administration of the Buildings Ordinance and other\n 至導致無法處理你的申請。                                                    legislations; and\n獲轉交資料的部門/人士                                                      (c)    facilitating communication between the Buildings\n3. 本署可能會向其他政府部門、決策局、機構或任何人士披               Department and yourself.\n 露你透過本表格所提供的個人資料，以作上述第 1 段所列        2.   It  is obligatory  for you to provide the information as\n 的用途。                                                          required in the form. If you fail to provide the required data,\n                                                                   delay may be caused in processing of your application or\n索閱個人資料                                                           even result in rejection of the application.\n4. 根據《個人資料（私隱）條例》，你有權查閱及改正你所提交\n 的個人資料。屋宇署有權就有關資料索閱的要求收取合理費        Classes of Transferees\n 用。如要求查閱及改正你的個人資料，請與屋宇署聯絡。            3. The personal data you provided by means of this form may\n                                                         be disclosed to other Government departments, bureaux,\n                                                                     organisations or any persons for the purposes mentioned\n                                                                                 in paragraph 1 above.\n                                                    Access to Personal Data\n                                                                        4. You have the right of access and correction with respect\n                                                                           to the personal data as provided under the Personal Data\n                                                                        (Privacy) Ordinance. The Buildings Department has the\n                                                                                  right to charge a reasonable fee for the processing of any\n                                                                 data access request. Request for personal data access\n                                                         and correction should be addressed to the Buildings\n                                                                Department.\n\n乙. 填寫表格                                             B. Completion of Form\n1. 請填妥表格載列所有有關的部分，並請附上所有證明文件。       1.  Please ensure that all relevant parts of the form are duly\n2. 所提供的資料如有不全或錯誤，屋宇署將不能處理呈交的           completed and all supporting documents are enclosed.\n 文件。                                                              2.    If incomplete or erroneous information is provided in the\n3. 如對本表格有任何疑問，請與屋宇署技術秘書/屋宇聯絡。           form, the Buildings Department may not be able  to\n                                                                process the application.\n                                                                        3.  Enquiries regarding this form should be addressed to\n                                                                   Technical Secretary/Building of the Buildings Department.\n\n丙. 呈交方法                                             C.  Submission Methods\n1. 郵寄 / 親身呈交 - 本表格連同有關圖則及文件應郵寄或       1. By Post / In Person - This form together with the relevant\n  親身呈交至:                                                     plans and documents shall be posted to or submitted in\n 九龍油麻地海庭道 11號西九龍政府合署北座屋宇署總部地         person to:\n 下一般查詢及收件處                                           General Enquiry and Receipt Counter, G/F, Buildings\n                                                             Department Headquarters, North Tower, West Kowloon\n2. 電子郵件傳送 - 透過電子郵件傳送本表格及附上有關文件         Government Offices, 11 Hoi Ting Road, Yau Ma Tei,\n (全部必須獲香港郵政署長發出的數碼證書認證，或根據《電         Kowloon.\n 子交易條例》認可的其他核證機關所發出的數碼證書認證 )        2. Through Email – Email  this form together with the\n 到屋宇署的電子收件處，電郵地址為 receipt@bd.gov.hk。          relevant documents, all with identity authenticated by a\n                                                                                      digital certificate issued by the Postmaster General or\n                                                                      other  certification  authorities  recognised  under  the\n                                                                        Electronic Transactions Ordinance to the e-Counter of the\n                                                                       Buildings Department at receipt@bd.gov.hk.\n\n丁. 聯絡資料                                             D.  Contact Details\n屋宇署                                                            Buildings Department\n地址：九龍油麻地海庭道 11號西九龍政府合署北座屋宇署總       Address     :  Buildings  Department  Headquarters,  North\n部                                                                      Tower, West Kowloon Government Offices, 11\n電話：2626 1616 (由 “1823” 接聽)                                         Hoi Ting Road, Yau Ma Tei, Kowloon\n傳真：3582 4227                                                Tel No.      : 2626 1616 (handled by “1823”)\n電郵：enquiry@bd.gov.hk                                Fax No.     : 3582 4227\n                                                            Email         : enquiry@bd.gov.hk\n\n\n                                                           BD (4/2024) P. 6/6"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Appendix B\n                                                          (PNAP ADV-38)\n                                                                                         Form\n                                                   IBMT 2\n         原則上認可創新建築材料與技術的續期申請\n                 Application for Renewal of In-principle Acceptance for\n                  Innovative Building Materials and Technologies (IBMT)\n 呈交表格時須附上圖則及相關的證明文件 ( 視乎需要 )。\n 請以正楷填寫，並在適當方格內加上『√』號。填寫前，請細閱《注意事項》。\n  • Submit this form with plans and relevant supporting documents accompanied as necessary.\n  • Read the “Matters to Note”, complete in BLOCK LETTERS and tick the appropriate boxes.\n\n致建築事務監督 To the Building Authority\n\n 甲部 申請詳情\n Part A Application Particulars\n\n  由申請人填寫\n   To be completed by the applicant\n\n  1 申請詳情\n     Details of the Application\n\n\n本人／我們謹就下述原則上認可創新建築材料與技術申請續期：\nI/we hereby apply for renewal of pre-acceptance for the following IBMT:\n\n創新建築材料與技術的名稱                型號 (如有)\nName of IBMT                                       Model Number (if any)\n\n\n\n屋宇署編配的原則上認可參考編號             現有原則上認可的屆滿日期\nBD's In-principle Acceptance Reference No.                  Expiry Date of Current In-principle Acceptance\n\n\n                                   日 dd  月 mm  年 yyyy\n\n創新建築材料與技術的詳情載於下列已呈交屋宇署的圖則／文件：\nDetails of the IBMT are as shown on the following plan/document previously submitted to BD:\n\n            圖則編號 /其他文件                獲原則上認可的日期\n                   Plan No. / Other Document                   Date of In-principle Acceptance\n                                                         (日dd – 月 mm – 年 yyyy)\n\n\n\n\n\n                                                           BD (4/2024) P. 1/7"
+    },
+    {
+      "id": "page-11",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        11
+      ],
+      "text": "2 申請人的資料\n     Details of the Applicant\n生產商 / 供應商 Manufacturer / Supplier         聯絡地址 Correspondence Address\n\n\n\n身份証明 (任擇其一) Identification (Choose one)\n\n  香港身份證號碼                 聯絡電話       傳真號碼\n   HKID No.                    X X X (    )  Contact Tel. No.       Fax No.\n  商業登記號碼\n    Business Registration No.\n\n聯絡人 Contact Person    姓氏先行 Surname first 聯絡人電郵地址 (必須填寫)\n                                                    Email Address of Contact Person\n                                                          (Must be provided for subsequent communication)\n\n\n\n 3 審視創新建築材料與技術\n    Review on the IBMT\n\n申請人已委任以下人士審視創新建築材料與技術是否符合《建築物條例》及相關規例的最新規定。\nThe following persons have been appointed by the applicant for conducting a review on the IBMT for its\ncompliance with the latest requirements of the Buildings Ordinance and its allied regulations.\n\n認可人士 (適用於建築 / 排水類型創新建築材料與技術 )\nAuthorized Person (applicable for building / drainage IBMT)\n中文姓名* Name in Chinese*  姓氏先行 Surname first\n\n\n英文姓名* Name in English*  姓氏先行 Surname first 註冊証明書編號 *\n                                                                Certificate of Registration No.*\n                                                                                                                               /\n\n聯絡地址 Correspondence Address          上述人士委任日期\n                                                 Date of Appointment of the above Person\n\n\n                                                 日dd   月mm   年yyyy\n\n註冊結構工程師 (適用於結構類型創新建築材料與技術 )\nRegistered Structural Engineer (applicable for structural IBMT)\n中文姓名* Name in Chinese*  姓氏先行 Surname first\n\n\n\n英文姓名* Name in English*  姓氏先行 Surname first 註冊証明書編號 *\n                                                                Certificate of Registration No.*\n                                                                                                                               /\n\n聯絡地址 Correspondence Address          上述人士委任日期\n                                                 Date of Appointment of the above Person\n\n\n                                                 日dd   月mm   年yyyy\n\n                                                           BD (4/2024) P. 2/7"
+    },
+    {
+      "id": "page-12",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        12
+      ],
+      "text": "註冊岩土工程師 (如適用 )\n Registered Geotechnical Engineer (if applicable)\n中文姓名* Name in Chinese*  姓氏先行 Surname first\n\n\n\n英文姓名* Name in English*  姓氏先行 Surname first 註冊証明書編號 *\n                                                                Certificate of Registration No.*\n                                                                                                                               /\n\n\n聯絡地址 Correspondence Address          上述人士委任日期\n                                                  Date of Appointment of the above Person\n\n\n                                                  日dd   月mm   年yyyy\n\n\n\n* 根據註冊記錄\n* In accordance with the registration record\n\n\n\n\n\n                                                           BD (4/2024) P. 3/7"
+    },
+    {
+      "id": "page-13",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        13
+      ],
+      "text": "乙部  認可人士證明書\nPart B  Certification by the Appointed Person\n\n\n  由獲委任人士填寫\n   To be completed by the appointed person\n\n\n 本人證明：\n   I certify that:\n\n  (i) 盡本人所知所信，有關創新建築材料與技術符合《建築物條例》及相關規例的最新規定 #，惟須根據下列\n   圖則的着色部分及／或以下最新的報告／文件證據所示作出輕微修訂；\n     To the best of my knowledge and belief, the IBMT comply with the latest provisions of the Buildings\n      Ordinance and its allied regulations# subject to minor amendment(s) as depicted in the coloured portion\n       of the following plan(s) and/or the following updated report(s) / documentary evidence(s);\n\n\n\n                     圖則編號 /其他文件\n                                   Plan No. / Other Document\n\n\n\n\n\n #(ii) 上列申請附連的兩套圖則及一套證明文件均由本人製備或在本人監督或指示下製備，並由本人簽署；以及\n     Two sets of plans and one set of supporting documents as listed above accompanying with this application\n     have been prepared by me or under the supervision or direction and have been signed by me; and\n\n#(iii) 獲版權擁有人同意使用前任認可人士 / 註冊結構工程師  / 註冊岩土工程師 (如適用 )製備的圖則，並附上有\n   關證明。\n     Consent of the copyright owner(s) to use the plans prepared by the former Authorized Person / Registered\n       Structural Engineer / Registered Geotechnical Engineer (as applicable) is attached.\n\n 認可人士 (適用於建築 / 排水類型創新建築材料與技術 )\n Authorized Person (applicable for building / drainage IBMT)\n\n                         註冊証明書編號 *\n                                                              Certificate of     註冊屆滿日期*\n 姓名* Name*       姓氏先行 Surname first   Registration No.*      Date of Expiry of Registration*\n\n                                               日 dd 月 mm  年yyyy\n 簽署* Signature*\n\n                               日期 Date\n                                               日 dd 月 mm  年yyyy\n\n\n\n\n                                                           BD (4/2024) P. 4/7"
+    },
+    {
+      "id": "page-14",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        14
+      ],
+      "text": "註冊結構工程師 (適用於結構類型創新建築材料與技術)\nRegistered Structural Engineer (applicable for structural IBMT)\n\n                         註冊証明書編號*\n                                                              Certificate of     註冊屆滿日期 *\n姓名* Name*        姓氏先行 Surname first  Registration No.*      Date of Expiry of Registration*\n\n                                              日 dd 月 mm  年yyyy\n簽署* Signature*\n\n                              日期 Date\n                                              日 dd 月 mm  年yyyy\n\n註冊岩土工程師 (如適用)\nRegistered Geotechnical Engineer (if applicable)\n                         註冊証明書編號*\n                                                              Certificate of     註冊屆滿日期*\n姓名* Name*        姓氏先行 Surname first  Registration No.*      Date of Expiry of Registration*\n\n                                              日 dd 月 mm  年yyyy\n簽署* Signature*\n\n                              日期 Date\n                                              日 dd 月 mm  年yyyy\n\n* 根據註冊記錄\n* In accordance with the registration record\n# 將不適用者刪去\n# delete as appropriate\n\n\n丙部  更新生產商資料\nPart C Update on Manufacturer’s Information\n\n 由申請人填寫\n  To be completed by the applicant\n\n    本人確認生產商資料維持不變。\n             I confirm there is no change to the manufacturer's particulars.\n    請更新生產商資料，詳情如下：\n       Please update manufacturer's particulars as follows:\n\n 生產商 Manufacturer's Name\n\n\n 廠房地址 Factory Address             聯絡地址 Correspondence Address\n\n\n\n\n\n 商業登記號碼(如適用)               聯絡電話        傳真號碼\n Business Registration No.(if applicable)               Contact Tel. No.         Fax No.\n\n\n 聯絡人 Contact Person   姓氏先行 Surname first  聯絡人電郵地址\n                                                   Email Address of Contact Person\n\n\n                                                           BD (4/2024) P. 5/7"
+    },
+    {
+      "id": "page-15",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        15
+      ],
+      "text": "丁部  聲明\nPart D Declaration\n\n\n  (i) 本人 / 我們謹此明確保證及聲明，上述就支持本人 / 我們的申請而提供的資料屬正確及真確。本人 / 我們\n   明確確認本人 / 我們知悉並同意，所提供的資料會作為審批續期申請的依據，假如有關資料發現屬虛假或\n   具誤導性，申請可能會遭拒絕或獲批的續期申請可能會遭撤回。\n  (ii) 本人 / 我們並明確確認屋宇署可把本人 / 我們在本申請表內所提供的個人資料用於與處理本人 / 我們上述\n   申請有關連的用途。\n  (iii) 本人 / 我們明白如未能提供足夠資料，屋宇署可能無法處理本人／我們的申請。\n (iv) 本人 / 我們謹此授權屋宇署把申請表內本人 / 我們的個人資料披露予有關政府部門，以取得與本人 / 我們\n   的申請有關連的資料。\n (v) 本人 / 我們並授權、指示及要求有關政府部門在遇到屋宇署提出要求時提供所需的任何及全部資料。\n (vi) 本人 / 我們謹此授權屋宇署把獲批的「原則上認可」申請製成電子記錄，並上載互聯網供公眾查閱。\n\n  (i)  I/We hereby expressly warrant and declare that the above information provided in support of my/our\n      application is correct and genuine and I/we expressly acknowledge that I am/we are aware and accept\n      that the renewal will be made on the basis of the information supplied by me/us and that application may\n     be declined or the renewal so given may be withdrawn in the event such information is found to be false\n      or misleading.\n  (ii)    I /We further expressly acknowledge that the personal data provided by me/us in this application form\n        will be used by the Buildings Department in connection with the processing of my/our said application.\n  (iii)  I/We understand that if I/we do not provide sufficient information, the Buildings Department may not be\n      able to process my/our application.\n (iv) I/We hereby authorise the Buildings Department to disclose my/our personal data in the application form\n      to such Government departments as it may see fit to obtain such information which is relevant to my/our\n      application.\n (v)  I/We further authorise and direct and request any Government department which may be approached by\n      the Buildings Department, to supply any and all information which it may require.\n (vi) I/We hereby authorise the Buildings Department to make an electronic record of the submission and\n     upload such to internet for inspection by public if the in-principle acceptance is given.\n\n 申請人簽署 Signature of Applicant\n                                   日期 Date\n\n\n                                                                    日dd 月 mm 年 yyyy\n\n\n\n\n\n                                                           BD (4/2024) P. 6/7"
+    },
+    {
+      "id": "page-16",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        16
+      ],
+      "text": "注意事項                                              Matters to Note\n\n甲. 個人資料                                             A. Personal Data\n收集的目的                                               Purposes of Collection\n1. 屋宇署會使用透過本表格所獲得的個人資料作下列用途：          1. The personal data provided by means of this form will be\n    (a) 處理你在本表格中所呈交的文件的相關事務；                used by  the  Buildings Department  for  the  following\n   (b) 處理有關上述擬進行工程、《建築物條例》及有關法例          purposes:\n   的相關事務；及                                                     (a)   activities  relating  to  the  processing  of  your\n    (c) 方便屋宇署與你聯絡。                                                 application in this form;\n2. 你必須提供本表格所要求的個人資料。假如你未能提供所             (b)   activities relating to the above proposed works, and\n 需資料，可能導致處理你所呈交的文件時出現延誤，或甚                  administration of the Buildings Ordinance and other\n 至導致無法處理你的申請。                                                    legislations; and\n獲轉交資料的部門/人士                                                      (c)    facilitating communication between the Buildings\n3. 本署可能會向其他政府部門、決策局、機構或任何人士披露              Department and yourself.\n 你透過本表格所提供的個人資料，以作上述第 1 段所列的         2.   It  is obligatory  for you to provide the information as\n 用途。                                                            required in the form. If you fail to provide the required data,\n                                                                   delay may be caused in processing of your application or\n索閱個人資料                                                           even result in rejection of the application.\n4. 根據《個人資料（私隱）條例》，你有權查閱及改正你所\n 提交的個人資料。屋宇署有權就有關資料索閱的要求收取       Classes of Transferees\n 合理費用。如要求查閱及改正你的個人資料，請與屋宇署         3. The personal data you provided by means of this form may\n 聯絡。                                                 be disclosed to other Government departments, bureaux,\n                                                                     organisations or any persons for the purposes mentioned\n                                                                                 in paragraph 1 above.\n                                                        Access to Personal Data\n                                                                        4. You have the right of access and correction with respect\n                                                                           to the personal data as provided under the Personal Data\n                                                                        (Privacy) Ordinance. The Buildings Department has the\n                                                                                 right to charge a reasonable fee for the processing of any\n                                                                 data access request. Request for personal data access\n                                                         and correction should be addressed to the Buildings\n                                                                Department.\n\n乙. 填寫表格                                                B. Completion of Form\n1. 請填妥表格載列所有有關的部分，並請附上所有證明文件。       1.  Please ensure that all relevant parts of the form are duly\n2. 所提供的資料如有不全或錯誤，屋宇署將不能處理呈交的文         completed and all supporting documents are enclosed.\n 件。                                                                 2.    If incomplete or erroneous information is provided in the\n3. 如對本表格有任何疑問，請與屋宇署技術秘書/屋宇聯絡。            form, the Buildings Department may not be able  to\n                                                                process the application.\n                                                                        3.  Enquiries regarding this form should be addressed to\n                                                                   Technical Secretary/Building of the Buildings Department.\n\n丙. 呈交方法                                             C. Submission Methods\n1. 郵寄 / 親身呈交 - 本表格連同有關圖則及文件應郵寄或親身       1. By Post / In Person - This form together with the relevant\n  呈交至:                                                         plans and documents shall be posted to or submitted in\n 九龍油麻地海庭道 11號西九龍政府合署北座屋宇署總部地         person to:\n 下一般查詢及收件處                                           General Enquiry and Receipt Counter, G/F, Buildings\n                                                             Department Headquarters, North Tower, West Kowloon\n2. 電子郵件傳送 - 透過電子郵件傳送本表格及附上有關文件         Government Offices, 11 Hoi Ting Road, Yau Ma Tei,\n (全部必須獲香港郵政署長發出的數碼證書認證，或根據         Kowloon.\n 《電子交易條例》認可的其他核證機關所發出的數碼證書       2. Through Email – Email  this form together with the\n 認證 ) 到屋宇署的電子收件處，電郵地址為           relevant documents, all with identity authenticated by a\n  receipt@bd.gov.hk。                                                       digital certificate issued by the Postmaster General or\n                                                                      other  certification  authorities  recognised  under  the\n                                                                        Electronic Transactions Ordinance to the e-Counter of the\n                                                                       Buildings Department at receipt@bd.gov.hk.\n\n丁. 聯絡資料                                             D. Contact Details\n屋宇署                                                            Buildings Department\n地址：九龍油麻地海庭道 11號西九龍政府合署北座屋宇署總       Address      :  Buildings  Department  Headquarters,  North\n部                                                                      Tower, West Kowloon Government Offices, 11\n電話：2626 1616 (由 “1823” 接聽)                                          Hoi Ting Road, Yau Ma Tei, Kowloon\n傳真：3582 4227                                                Tel No.      : 2626 1616 (handled by “1823”)\n電郵：enquiry@bd.gov.hk                                Fax No.     : 3582 4227\n                                                            Email         : enquiry@bd.gov.hk\n\n                                                           BD (4/2024) P. 7/7"
+    }
+  ]
+}

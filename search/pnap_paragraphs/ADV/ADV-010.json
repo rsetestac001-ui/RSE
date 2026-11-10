@@ -1,0 +1,154 @@
+{
+  "code": "ADV-010",
+  "source_text": "indexed_text/PNAP/ADV/ADV-010.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-010.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and       ADV-10\n                          Registered Geotechnical Engineers\n\n\n                                  Lift Shaft Platforms\n\n                Lift shaft platforms are temporary wall-supported platforms erected inside\n lift shafts of buildings or structures under construction.  They are provided as a rain\n shelter; a formwork platform to construct lift shaft walls; a mid-shaft platform to protect\n the lift well; a debris-catching platform; or a crash deck."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The construction of these platforms is governed by the provisions of the\n Construction Site (Safety) Regulations. In addition, every occupier and employer have\n the general duty to ensure that a safe place of work is provided and maintained under the\n Occupational Safety and Health Ordinance, Cap. 509 and the Factories and Industrial\n Undertakings Ordinance, Cap. 59."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            Collapses resulting from the failure of lift shaft platforms had in the past\n claimed the lives of workers.  There had also been other serious accidents when\n construction workers sustained multiple injuries from the failure of such platforms.\n There is an imminent risk to the safety of workers engaged in the erection, maintenance\n and dismantling of lift shaft platforms."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 358
+        },
+        {
+          "label": "b",
+          "offset": 726
+        },
+        {
+          "label": "c",
+          "offset": 1111
+        }
+      ],
+      "text": "4.            In view of the risk involved, the Labour Department will consider serving\n suspension  notices  to  the  contractors  to suspend  the  erection, maintenance and\n dismantling of  lift shaft platforms under section 10 of the Occupational Safety and\n Health Ordinance should they fail to comply with any one of the following safety\n requirements:\n\n        (a)    Every  lift shaft platform should be properly designed by an\n               authorized person (AP) or a registered structural engineer (RSE)\n            employed by the contractor (Contractor’s AP/RSE). The design\n              plan prepared for this purpose should contain all the necessary\n                details and specifications of the platform;\n\n        (b)    Construction plans containing method statements on the erection,\n                 alteration, maintenance and dismantling of  lift shaft platforms\n              should be prepared by an engineer holding a qualification of TCP\n           T4 or above, employed by the contractor (Contractor’s Engineer)\n             and checked and signed-off by the Contractor’s AP/RSE;\n\n        (c)    Every lift shaft platform should be constructed in accordance with\n               the construction plan under the full-time immediate supervision of\n             a competent person with TCP T1 qualification appointed in\n               writing by the contractor. Upon completion, the works should be\n             checked by the Contractor’s Engineer;\n\n\n                                                                                      /(d) Any ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n        (d)   Any alteration to lift shaft platforms should be designed by the\n               Contractor’s AP/RSE while the construction plan and method\n               statement for the alteration works should be prepared by the\n               Contractor’s  Engineer  and  checked  and  signed-off by  the\n               Contractor’s AP/RSE;\n\n        (e)    Risk  assessment  should be  conducted by  a  planning team\n              comprising site managerial and supervisory representatives from\n               the main contractor and subcontractors, with at least one person\n              within the team holding TCP T4 or equivalent qualifications,\n               before work commences to erect, maintain or dismantle lift shaft\n               platforms.  The assessment should  also include a thorough\n               inspection by the competent person appointed under paragraph (c)\n             above to ascertain the stability of the lift shaft platforms erected\n             such that works can be safely done on the platforms;\n\n         (f)      Lift shaft platforms should be properly maintained in accordance\n              with construction plans. Materials accumulated on the platforms\n              should be removed regularly;\n\n        (g)    The dismantling of lift shaft platforms should be carried out under\n               the full-time immediate supervision of the competent person\n              appointed under paragraph (c) above;\n\n        (h)    Steps should be taken to ensure that no material are thrown,\n               tipped or shot down onto lift shaft platforms unless the platforms\n             have been  designed  for  such  purpose by  the  Contractor’s\n            AP/RSE; and\n\n          (i)     Suitable fall-arresting systems should be provided for and used by\n             workers while they are engaged in the erection, maintenance and\n              dismantling of lift shaft platforms."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 156
+        },
+        {
+          "label": "b",
+          "offset": 212
+        },
+        {
+          "label": "c",
+          "offset": 315
+        },
+        {
+          "label": "d",
+          "offset": 518
+        }
+      ],
+      "text": "5.            Copies of the following documents should be made available on site for\ninspection by an Occupational Safety Officer of the Labour Department:\n\n        (a)    Design plan by the Contractor’s AP/RSE;\n\n        (b)    Construction plan and its method statement by the Contractor’s\n              Engineer;\n\n        (c)    Record of the date of erection, maintenance and dismantling of a\n                     lift shaft platform and the name of the competent person who\n              supervised the works; and\n\n        (d)    Risk assessment report."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 85
+        }
+      ],
+      "text": "6.                If temporary occupation permit (TOP) arrangement is to be adopted:\n\n        (a)     All necessary safety features and provisions to ensure fire safety,\n                safety of workers and safety of occupants should be considered\n              thoroughly in the planning and design stage; and\n\n                                                                                       /(b) All ….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n\n        (b)    All conditions imposed in the TOP (having regard to the TOP\n             boundary plan accepted/approved by the Building Authority)\n               including precautionary measures (e.g. fire separation of adequate\n                  fire rating between occupied and construction areas) and all the\n                safety features and provisions in (a) above must be fulfilled and\n              maintained accordingly at all times (including during the course\n               of carrying out lift shaft works and lift shaft platform works) until\n               the occupation permit is issued.  Please also note paragraph 7\n              below."
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 122
+        },
+        {
+          "label": "b",
+          "offset": 342
+        },
+        {
+          "label": "c",
+          "offset": 484
+        },
+        {
+          "label": "d",
+          "offset": 646
+        }
+      ],
+      "text": "7.             In connection with the above, further information may be obtained by\nreference to the following documents:\n\n        (a)    Occupational Safety and Health Ordinance, Cap. 509\n                  - general duties of employers and occupiers under section 6 & 7;\n                  - service of suspension notice(s) under section 10;\n\n        (b)     Factories and Industrial Undertakings Ordinance, Cap. 59\n                  - general duties of proprietors under section 6A;\n\n        (c)     Construction Sites (Safety) Regulations\n                  - safety requirements of working places, scaffolds etc. in Part VA;\n               and\n\n        (d)    Guidelines on Safety of Lift Shaft Works (Volume 1 – During\n              Construction Stage and Before Handing Over to Lift Installation\n               Contractor) issued by the Construction Industry Council.\n                  - Design and Construction of Lift Shaft Platforms (paragraph 9);\n               and\n                  -  Special Attention to Buildings under Temporary Occupation\n                Permit Arrangement (paragraph 12)."
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "8.       A similar practice note has been issued to registered contractors.\n\n\n\n\n\n                                                                          ( AU Choi-kai )\n                                                         Building Authority\n\nRef. : L/M 18-92 to BD GR/ACT/11\n\nThis PNAP is previously known as PNAP 181\nFirst issue October 1995 (AD/LM)\nThis revision February 2011 (AD/NB2) – General revision"
+    }
+  ]
+}

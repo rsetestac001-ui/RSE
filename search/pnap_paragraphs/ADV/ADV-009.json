@@ -1,0 +1,52 @@
+{
+  "code": "ADV-009",
+  "source_text": "indexed_text/PNAP/ADV/ADV-009.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-009.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers         ADV-9\n\n                                       Practice Note for Authorized Persons\nBuildings Department                                                       174\n                                and Registered Structural Engineers\n\n\n\n\n                     Submission of Development Progress\n\n            From  time  to  time,  the Government  collates  information on  the\n property market to provide forecast of completion of major properties by categories.\n The information is used for various Government policy and planning purposes."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         To assist in compiling the relevant statistics and forecasts of completion\n of building projects, authorized persons are requested to complete and return the\n attached Appendix A  to me  in  early March and  in  early September each year\n providing the details and the progress of every private building projects in hand,\n including those projects of which your clients’ instructions have been received to\n proceed with the preparation of building proposals."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            This practice note urges you to assist in a worthwhile cause and  I\n appreciate your co-operation.\n\n\n\n\n\n                                      (CHOI Yu-leuk)\n                                                 Building Authority\n\n\n\n\n\n Ref. : BD GR/OD/34 (II)\n\n  First issue December 1994\n Last revision October 1995\n This revision September 1998 (AD/LM) - generally revamped\n\n Index under : Submission of Development Progress\n             Development Progress"
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "BUILDING PROJECTS IN HAND\n\n\nName of Authorised Person (or Practice) :\n\nName of person completing this form      :                                                                                  Tel. No. :\n\nIs the Authorised Person (or Practice) currently involved in any private building project in Hong Kong?         Yes/No     (if yes, please also fill in the following table.)\n\nPlease return the completed form to the Director of Buildings [Attn. : Chief Officer/Management] by fax on 2523 9380/2840 0451 or by post.\n\n\n                                             Anticipated                                           Accommodation to be Provided\n                                          Date of                                     Domestic                              Non-Domestic\n  Address of Development      Lot No.     Occupation    Progress to Date    Type     No. of     Saleable Area per    Type      No. of     Total Internal Floor\n                                            Permit                                      Units         Unit (m²)                     Units         Area (m²)\n                                       (1)          (2)         (3)      (4)         (5)         (6)      (7)           (8)\n\n\n\n\n\n                                                                                                                                                                                                                                                                                    ADV-9\n\n  Delete if not applicable.         Please see the notes as shown overleaf."
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Notes\n\n\n\n\n(1)      Anticipated Date of      ~    Please provide the expected date of issue of either a temporary or full occupation permit by the\n        Occupation Permit               Buildings Department.\n\n(2)      Progress to Date        ~    Please  indicate  the  progress by means  of comments  such  as  'building  plans  approved',\n                                          'foundation work completed', 'constructed to 4th floor', 'external finishing works completed',\n                                               etc.\n\n(3)     Domestic Type         ~    Please state the type of domestic properties, e.g. house, flat, etc.\n\n(4)     No. of Domestic Unit     ~    Please state the number of self-contained domestic units.   Self-contained domestic units are\n                                         defined as independent dwellings with separate cooking facilities and bathroom (and/or lavatory).\n\n(5)      Saleable Area          ~    Saleable area is defined as the floor area exclusively allocated to the unit including balconies and\n                                       verandahs but excluding common areas such as  stairs,  lift  shafts, pipe ducts, lobbies and\n                                 communal toilets.  It is measured from the outside of the exterior enclosing walls of the unit and\n                                           the middle of the party walls between two units. For the purpose of this statistical return, please\n                                        exclude the areas of bay windows, yards, gardens, terraces, flat roofs, carports and the like.\n\n(6)     Non-Domestic Type      ~    Please state the type of non-domestic properties, e.g. shop, office, factory, industrial-office,\n                                            specialised factory, storage premises, etc.\n\n(7)     No. of Non-Domestic     ~    Please state the total number of non-domestic units. For non-domestic floors not yet partitioned\n         Units                              into individual units, please treat each floor as one unit.  For example, a non-domestic building\n                                        with 5 units/floor on 1/F to 3/F and non-partitioned floors from 4/F to 10/F, the total number of\n                                             units is 22.\n\n(8)       Internal Floor Area      ~    Internal floor area is the area of all enclosed space of a unit measured to the internal face of\n                                         enclosing external and/or party walls."
+    }
+  ]
+}

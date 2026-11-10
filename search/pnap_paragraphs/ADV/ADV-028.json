@@ -1,0 +1,272 @@
+{
+  "code": "ADV-028",
+  "source_text": "indexed_text/PNAP/ADV/ADV-028.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-028.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department     Registered Structural Engineers and      ADV-28\n                           Registered Geotechnical Engineers\n\n\n\n            Provision of Sanitary Fitments in Offices, Shopping Arcades,\n          Department Stores, Places of Public Entertainment, Cinemas\n                        and Other Public Places\n\n\n            The Building (Standards of Sanitary Fitments, Plumbing, Drainage Works\nand Latrines) Regulations (the Regulations) stipulate the drainage requirements for private\nbuildings in Hong Kong. Such requirements, inter alia, include the provisions of sanitary\nfitments for various types of premises. As these requirements were developed in the late\n50s, the Buildings Department (BD) has commissioned a consultancy study to review the\ndrainage regulations with a view to bringing them up-to-date."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.             In the course of the review, the consultant has proposed a number of\nrecommendations, which include, inter alia, a new set of requirements on the provisions of\nsanitary fitments. To address public concern on the inadequacy of sanitary fitments for\nfemale persons in some commercial buildings, Authorized Persons (AP) have been strongly\nrecommended since 2005 to adopt the recommendations as set out in the 2005 version of\nthis practice note voluntarily in new building projects to address the deficiency in the\nprovision of sanitary fitments for female persons in offices, shopping arcades, department\nstores, places of public entertainment and cinemas."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          Upon completion of the consultancy study, the BD has consulted relevant\nstakeholders and revised and finalised the recommendations of the study. To take forward\nthe finalised recommendations, we will pursue amendments to the Regulations.  In the\nmeantime, the finalised recommendations relating to the provision of sanitary fitments are\nset out below and AP  are  strongly recommended  to adopt such recommendations\nvoluntarily in new building projects.\n\nMales to Females Ratio"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.                 It is recommended that the ratio of male to female persons be taken as 1:1 in\nthe assessment of populations for the provision of sanitary fitments for both male and\nfemale persons for office accommodation.  In this regard, the Building Authority (BA) is\nprepared to favourably consider applications for modification to vary the ratio of male to\nfemale persons stipulated in section 5(5)(c) of the Regulations."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.           For the assessment of population in shopping arcades, department stores,\nplaces of public entertainment, cinemas, religious institutions and funeral parlours, it is\nrecommended that the ratio of male to female persons be taken as 1:1.5 for the assessment\nof the populations for each group. In this regard, the BA is prepared to grant modification\nto vary the ratio of male to female persons stipulated in sections 6(3)(b) and 7(3)(b) of the\nRegulations. As for sports stadiums, it is recommended that the ratio of male to female\npersons be taken as 1:1 in the assessment of populations for the provision of sanitary\nfitments for both male and female persons.\n                                                                                                      / Assessment ..…"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\nAssessment of Population"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           For the purpose of assessing the provision of sanitary fitments in shopping\narcades, department stores, cinemas, places of public entertainment, religious institutions\nand funeral parlours without fixed seating,  it is recommended that the populations be\nassessed in accordance with Tables 1, 2 and 3 respectively in Appendix A."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.            For cinemas and places of public entertainment with fixed seating,  it is\nrecommended that the populations be taken as the total number of seats together with the\nestimated number of employees."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          The assessment of population for office shall be assessed in accordance\nwith section 5(5)(a) of the Regulations.\n\nProvision of sanitary fitments"
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.             In assessing the sanitary fitments for male and female persons for shopping\narcades, department stores, places of public entertainment, cinemas, sports stadiums,\nreligious institutions and funeral parlours,  it  is recommended that Tables 4 to 18 in\nAppendix A be adopted.  In this regard, if there are cases where the number of sanitary\nfitments provided in accordance with Appendix A is less than that required under the\nRegulations, the BA is prepared to favourably consider applications for modification to\nvary the standards of provision of sanitary fitments stipulated in the Regulations."
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "10.         The provision of sanitary fitments for office shall be assessed in accordance\nwith section 5(1), (3) & (4) of the Regulations.\n\nSanitary fitments for use by children"
+    },
+    {
+      "id": "p11-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "11.         To facilitate children to use sanitary fitments in shopping arcades and\ndepartment stores and other public places, AP are advised to design some of the\nprovisions (e.g. urinal, basin, water closet) suitable for the use of children, taking into\naccount the size, height and needs of children, etc. so as to ensure that the design of\nthese sanitary fitments is fit for the purpose. As the water closets for use by children are\nnormally not fit for use by adults, they shall not be counted as part of the prescribed\nrequirements under section 4 to 8 of the Regulations.\n\nProvision of unisex toilets"
+    },
+    {
+      "id": "p12-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "12.         To cater for people having practical accessibility difficulty to use the\ntraditional male/female toilets (e.g. caregivers attending to persons with a disability of\nopposite sex, parents bringing along their children of opposite sex, men caring for\nbabies cannot use traditional baby care rooms which are usually provided inside female\ntoilets, etc.), there are aspirations from the community for the provision of unisex toilets\nin shopping arcades, department stores and other public places. The provision of such\nfacilities should take into account the usage, location and patronage of the premises\n\n\n                                                                     /concerned. ….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\nconcerned.  In assessing the sanitary fitments for male persons and female persons for\nthese public places, AP should indicate clearly on plans whether such unisex toilets are\nadditional  provision  or  counted  as  provision  for male  or  female  persons  with\njustifications. The BA is prepared to favourably consider such proposals taking account\nof the special circumstances of the case.\n\nMinimum space requirements for sanitary fitments in public places"
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "13.         The requirements for the provision of toilets, W.C. cubicles, bathrooms\nand  shower  compartments  for  persons  with  a  disability  (including  the  space\nrequirements for the sanitary fitments concerned) are set out in the Design Manual:\nBarrier Free Access 2008. As for the installation of sanitary fitments in other public\nplaces for persons other than persons with a disability, adequate space should also be\nprovided for access and manoeuvring so as to enable users to comfortably use the\nsanitary fitments.  Guidelines on the minimum space requirements for W.C. cubicles,\nurinals and lavatory basins are set out in paragraphs 14 to 17 below and sketches\nillustrating the requirements are provided in Appendix B for reference.  AP are\nencouraged to adopt designs with the space provision for sanitary fitments in public\nplaces above the minimum requirements."
+    },
+    {
+      "id": "p14-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "14.        Minimum space requirements for W.C. cubicles (including squatting\ntoilets)\n\n         (1)   The internal dimensions of each W.C. cubicle should be not less\n              than 700mm x 1200mm;\n\n         (2)  A minimum 700mm x 600mm clear floor space should be\n             provided in front of the water closet within the W.C. cubicle.\n\n         (3)  A circulation space not less than 700mm x 600mm should be\n             provided outside the W.C. cubicle.\n\n         (4)   Examples of W.C. cubicle layout are illustrated in Figures 1 to 2\n                 at Appendix B."
+    },
+    {
+      "id": "p15-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "15.        Minimum space requirements for urinals\n\n         (1)   Each urinal should have a clear floor space of not less than\n          500mm x 500mm in front of it.\n\n         (2)   The centreline of the urinal should be located at least 250mm\n               apart from the side wall.\n\n         (3)    If there are more than one urinal provided, the urinals should be\n                 at least 500mm centre to centre apart from each other.\n\n         (4)   In case where an  urinal  is provided within a  cubicle, the\n           minimum internal dimensions of the cubicle should be not less\n              than 1000mm x 500mm and with a clear floor space of not less\n              than 500mm x 500mm in front of the urinal.\n\n\n                                                                                          /(5) ….."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -\n\n         (5)  A circulation space not less than 500mm x 600mm should be\n             provided outside the urinal cubicle or in front of the clear floor\n             space for user of the urinal.\n\n         (6)    If a trough urinal is installed, every 500mm length of the trough\n               urinal is deemed to be the equivalent of one urinal.\n\n         (7)   Examples of urinal layout are illustrated in Figures 3 to 6 at\n            Appendix B."
+    },
+    {
+      "id": "p16-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "16.        Minimum space requirements for lavatory basins\n\n         (1)   Each lavatory basin should have a clear floor space of not less\n              than 600mm x 600mm in front of it.\n\n         (2)   The centreline of the lavatory basin should be located at least\n          400mm apart from the side wall.\n\n         (3)    If more than one lavatory basin is provided, the lavatory basins\n             should be at least 600mm centre to centre apart from each other.\n\n         (4)  A circulation space not less than 600mm x 600mm should be\n             provided in front of the clear floor space for user of the lavatory\n               basin.\n\n         (5)   Examples of lavatory basin layout are illustrated in Figures 7 to\n            8 at Appendix B."
+    },
+    {
+      "id": "p17-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "17.        The clear floor space provided for user of an individual sanitary fitment\nshould not be overlapped with the clear floor space for another sanitary fitment while\nthe circulation space for different sanitary fitments may be overlapped.\n\n\n\n\n\n                                                                     ( AU Choi-kai )\n                                                   Building Authority\n\n\n\n\nRef. : BD GP/BREG/SF/1 (III)\n\n(This PNAP is previously known as PNAP 297)\nFirst issue May 2005\nThis revision November 2012 (AD/NB1)   (Paragraphs 1 to 6, 8 to 11 and Appendix A\n                                             generally revised, paragraphs 12 to 17 and\n                                      Appendix B added)"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Appendix A\n                                                 (PNAP ADV-28)\n\n\nA. Assessment of Population\n\n\n          Table 1\n\n         Level of shopping arcades            Factor representing usable\n           or department stores                floor area in m2 per person\n      Basement, G/F, 1/F & 2/F                          3\n\n      3/F or above                                            4.5\n\n\n    Note: the usable floor area shall include the area of the arcade and its public\n           circulation space.\n\n\n          Table 2\n\n                Intended use of storey              Factor representing usable\n                                                         floor area in m2 per person\n     *Assembly halls, auditoria and stadia without                  0.5\n       seating or with movable seating\n\n     Dance  halls  (calculated on dancing  area),                0.75\n      disco and venues for dancing party\n\n     Museums,  exhibition  halls, trademarts and               2\n      display areas\n\n\n   * The usable floor area shall refer to the areas intended for use by spectators.\n\n\n          Table 3\n\n                Intended use of storey              Factor representing usable\n                                                         floor area in m2 per person\n     # Religious institutions and funeral parlours                    0.5\n\n\n   # The usable floor area shall refer to the areas intended for use as worship\n    places.\n\n\n\n\n\n                                               - 1 -"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "B.  Provision of Sanitary Fitments in Shopping Arcades and Department Stores\n\n          Table 4\n\n     No. of male persons     No. of water closets         No. of urinals\n\n     1 – 500 inclusive        1 for every 125 persons, or\n                                  part thereof                                                  1   for  every  250\n     More than 500         4   plus  1   for   every    persons,   or    part\n                                  additional 250 persons, or    thereof\n                                  part thereof, over 500\n\n          Table 5\n\n     No. of female persons            No. of water closets\n\n     1 – 50 inclusive                 1 for every 25 persons, or part thereof\n\n     51 – 125 inclusive               3\n\n     126 – 1800 inclusive             3  plus 1 for every additional 80 persons,\n                                          or part thereof, over 125\n\n     More than 1800                 24 plus 1 for every additional 90 persons,\n                                          or part thereof, over 1800\n\n          Table 6\n\n     No. of persons                           No. of lavatory basins\n\n     Male               1 – 500 inclusive     1 for every 125 persons, or\n                                                        part thereof\n\n                       More than 500       4 plus 1 for every additional\n                                           250 persons, or part thereof,\n                                                 over 500\n\n     Female             1 – 500 inclusive     1 for every 125 persons or part\n                                                      thereof\n\n                       More than 500       4 plus 1 for every additional\n                                           250 persons, or part thereof,\n                                                 over 500\n\n\n\n\n\n                                               - 2 -"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "C. Provision of Sanitary Fitments in Places of Public Entertainment\n\n          Table 7\n\n     No. of male persons    No. of water closets        No. of urinals\n\n     1 – 400 inclusive      1 for every 100 persons,\n                              or part thereof                                                1 for every 50 persons,\n     More than 400        4   plus  1   for  every    or part thereof\n                                additional 250 persons, or\n                                 part thereof, over 400\n\n          Table 8\n\n     No. of female persons  No. of water closets\n\n     1 – 250 inclusive       2 for every 50 persons, or part thereof\n\n     More than 250         10 plus 1 for every additional 40 persons, or part\n                                  thereof, over 250\n\n          Table 9\n\n     No. of persons         No. of lavatory basins\n\n     Male                1 for every 100 persons, or part thereof\n\n     Female              1 for every 100 persons, or part thereof\n\n\nD. Provision of Sanitary Fitments in Cinemas\n\n          Table 10\n\n     No. of male persons       No. of water closets    No. of urinals\n\n     1 – 200 inclusive          1\n\n     201 – 500 inclusive        2\n     501 – 1000 inclusive       3                   1 for every 100 persons,\n                                                           or part thereof\n     More than 1000           3 plus 1 for every\n                                     additional 500\n                                    persons, or part\n                                      thereof, over 1000\n\n\n\n\n\n                                               - 3 -"
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Table 11\n\n    No. of female persons     No. of water closets\n\n    1 – 120 inclusive         1 for every 40 persons, or part thereof\n\n    121 – 250 inclusive       3 plus 1 for every additional 65 persons, or part\n                                   thereof, over 120\n\n    251 – 420 inclusive       5 plus 1 for every additional 85 persons, or part\n                                   thereof, over 250\n\n    More than 420           7 plus 1 for every additional 100 persons, or part\n                                   thereof, over 420\n\n          Table 12\n\n    No. of persons                    No. of lavatory basins\n\n    Male       1 – 200 inclusive       1\n\n               201 – 500 inclusive      2\n\n               501 – 1000 inclusive     3\n\n              More than 1000        3 plus 1 for every additional 500 persons,\n                                           or part thereof, over 1000\n\n    Female     1 – 200 inclusive       1\n\n               201 – 500 inclusive      2\n\n               501 – 1000 inclusive     3\n\n              More than 1000        3 plus 1 for every additional 500 persons,\n                                           or part thereof, over 1000\n\n\nE. Provision of Sanitary Fitments in Sports Stadiums\n\n          Table 13\n\n    No. of persons     No. of water closets         No. of urinals\n\n\n    Male             1 for every 100 persons,      1 for every 100 persons, or\n                                                           part thereof,                         or part thereof\n\n          Table 14\n\n    No. of persons     No. of water closets\n\n    Female           1 for every 50 persons, or part thereof\n\n\n\n\n                                               - 4 -"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Table 15\n\n      No. of persons    No. of lavatory basins\n\n      Male            1 for every 100 persons, or part thereof\n\n      Female           1 for every 100 persons, or part thereof\n\n\n   F.  Provision of Sanitary Fitments in Religious Institutions and Funeral\n      Parlours\n\n            Table 16\n\n      No. of persons No. of water closets         No. of urinals\n\n      Male         1 for every 150 persons, or   1 for every 150 persons, or\n                         part thereof                    part thereof\n\n            Table 17\n\n      No. of persons        No. of water closets\n\n      Female              1 for every 75 persons, or part thereof\n\n            Table 18\n\n      No. of persons        No. of lavatory basins\n\n      Male                1 for every 300 persons, or part thereof\n\n      Female              1 for every 300 persons, or part thereof\n\n\n\n\n\n(Rev. 11/2012)\n\n\n\n\n\n                                                   - 5 -"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Appendix B\n                                                             (PNAP ADV-28)\n\n\n              Space Requirements for Sanitary Fitments in Public Places\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             W.C.CUBICLE\n\n\n                  Figure 1   WC cubicle\n\n\n\n\n\n                        2     Range of WC cubiclesFigure\n\n\n\n\n\n                                                                    - 1 -"
+    },
+    {
+      "id": "page-11",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        11
+      ],
+      "text": "U\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              rinal\n\n\nFigure 3      Urinal\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Urinal\n\n\nFigure 4      Urinal in a cubicle\n\n\n\n\n\n                                 - 2 -"
+    },
+    {
+      "id": "page-12",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        12
+      ],
+      "text": "R\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ange\n\n              Figure 5     Range of urinal cubicles\n\n\n\n\n\n              Figure 6     Range of urinals\n\n\n\n                                                     - 3 -"
+    },
+    {
+      "id": "page-13",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        13
+      ],
+      "text": "Figure7     Lavatory basin                                                                                                                                           Lavatory\n\nR\n\n\n\n\n\n                                                                                                                                                                               a\nnge\n                   Figure 8     Range of lavatory basins\n\n\n                  Remarks: All dimensions in Appendix B are in millimetres.\n\n\n         (11/2012)\n\n                                                           - 4 -"
+    }
+  ]
+}

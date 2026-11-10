@@ -1,0 +1,158 @@
+{
+  "code": "APP-171",
+  "source_text": "indexed_text/PNAP/APP/APP-171.txt",
+  "source_pdf": "documents/PNAP/APP/APP-171.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-171\n                          Registered Geotechnical Engineers\n\n\n            Code of Practice for the Structural Use of Glass 2018\n\n\n            The Buildings Department (BD) has set up a Technical Committee (TC)\nto, among others, collect and consider the views and feedback from the building industry\narising from the use of the Code of Practice for the Structural Use of Glass 2018 (Glass\nCode 2018).  Taking into account the advice of the TC, the following amendments to\nGlass Code 2018 have been promulgated and uploaded to BD website www.bd.gov.hk:\n\n        (a)    Appendix A – July 2020; and\n\n        (b)    Appendix B – February 2024\n\n\n\n\n\n                                                               ( YU Po-mei, Clarice )\n                                                 Building Authority\n\n\n\n\n\nRef. : BD GR/1-50/90 (II)\n\nFirst issue    February 2024 (AD/NB2)"
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "Appendix A\n                                                                                 (PNAP APP-171)\n\n\n\n\nAmendments to the Code of Practice for Structural Use of Glass 2018\n                             (July 2020)\n\n\n\n\n\nLegends:\n       Amended\n         Deleted\n\n\n\n(2/2024)\n\n\n\n\n\n                                                                                        - 1 -"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Major amendments to the Code of Practice for the Structural Use of Glass 2018\nin July 2020 included:\n\n        (a)    Clause 7.1.1 – elaboration of the design requirements for retaining device to\n             cope with the situation of bond failure of structural sealant; and\n\n        (b)    Item C2 of Annex C – revision of the symbol of glass fin thickness in the\n              equation for the torsional moment of inertia (J).\n\n\n\n\n\n                                                                  - 2 -"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Amendments to the Code of Practice for Structural Use of Glass 2018\n                                                              (July 2020)\n\n       Item                         Current version                                 Amendments"
+    },
+    {
+      "id": "p1-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "1. Clause 7.1.1     The structural performance of a structural sealant depends  The structural performance of a structural sealant depends\n     2nd paragraph1   on a number of factors such as risks to building occupants  on a number of factors such as risks to building occupants\n                   and pedestrians, long-term durability, degree of redundancy,  and pedestrians, long-term durability, degree of redundancy,\n                      nature  of  applied  loads,  and  quality  control  during  nature  of  applied  loads,  and  quality  control  during\n                        fabrication and erection.  Façade system or glass element  fabrication and erection.  Façade system or glass element,\n                     with structural sealant glazing application shall be designed  located where any point of the glass pane installed is at a\n                        to prevent any fall of glass pane in the event of bond failure  height 5 m or more above the finished floor level of the\n                        in  the  structural  sealant.   Retaining devices  for such  accessible area on either side of the glass pane, fixed by\n                         structural sealant glazing in the form of feature capping,  1structural sealant 1on four sides  shall be designed to\n                       angle,  bracket  or  insert,  etc.  shall  be  designed  and  prevent any fall of glass pane in the event of bond failure in\n                      constructed at the top and the bottom of the glass pane for  the structural sealant.   Retaining device1 in the form of\n                       the added purpose of  restraining the  glass pane from  feature capping,  angle, bracket or  insert,  etc.  shall be\n                       dislocation or falling in case of bond failure of structural  designed and constructed at 1any two opposing edges of the\n                         sealant.   The self-weight of the  glass panes  shall be  glass pane for the added purpose of restraining the glass\n                     mechanically supported by setting blocks.                 pane from dislocation or falling in case of bond failure of\n                                                                                           structural sealant.  The strength of such retaining device\n                                                                       and associated glass panes shall be capable to resist 37% of\n                                                                                    the  design  wind  pressure  acting  on  the  glass  pane\n                                                                                multiplying with a partial load factor of 1.0.  The design\n                                                                    wind pressure is taken as the wind reference pressure in\n                                                                            accordance with the Code of Practice on Wind Effects in\n                                                             Hong Kong 2019 without applying any adjustment factors.\n                                                                  The self-weight of the glass panes shall be mechanically\n                                                                              supported by setting blocks.\n\n\n1  The design requirements for retaining device and associated glass panes to cope with the situation of bond failure of structural sealant are elaborated.\n\n                                                                                                       - 3 -"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Item                         Current version                                 Amendments"
+    },
+    {
+      "id": "p2-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "2.  Clause 7.5.1     Weather strips, glazing gaskets and glazing blocks shall be  Weather strips, glazing gaskets and glazing blocks shall be\n     2nd paragraph2   manufactured from  extruded  silicone  rubber,  Ethylene  manufactured from  extruded  silicone  rubber,  Ethylene\n                     Propylene Diene Monomer (EPDM) rubber or other gasket  Propylene Diene Monomer (EPDM) rubber or other gasket\n                       material such as neoprene and Thermoplastic Elastomer  material such as neoprene and Thermoplastic Elastomer\n                   (TPE) compatible with silicone sealant.  Gaskets shall be  (TPE) compatible with silicone sealant.  Gaskets shall be\n                     provided on both  sides of the vent  glass unless  it  is  provided on both sides of the 1glass pane unless  it  is\n                         structurally glazed.   All gaskets/ weather seals/ spacers  structurally glazed.   All gaskets/ weather seals/ spacers\n                         shall  have  continuous  mechanical  engagement  to  the  shall  have  continuous  mechanical  engagement  to  the\n                     framing members.                                       framing members."
+    },
+    {
+      "id": "p3-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "3.  Clause 9.4       Deglazing test is a method of quality inspection used to  Deglazing test is a method of quality inspection used to\n      3rd paragraph2    confirm if the sealant application has strictly followed the  confirm if the sealant application has strictly followed the\n                    recommendations outlined in the sealant manufacturer’s  recommendations outlined in the sealant manufacturer’s\n                         print review and adhesion  test  report.   Deglazing  test  print review and adhesion  test  report.   Deglazing  test\n                     should be  carried  out  in accordance with  the  sealant  should be  carried  out  in accordance with  the  sealant\n                      manufacturer’s suggested percentage of total number of  manufacturer’s suggested percentage of total number of\n                        structurally  glazed  glass  panes  to  ensure  the  on-site  structurally  glazed  glass  panes  to  ensure  the  on-site\n                         structural glazing quality of the factory structural glazing  structural glazing quality or the factory structural glazing\n                       quality before transportation to the  site for installation.  quality before transportation to the  site for installation.\n                  The inspection should include the following:             The inspection should include the following:\n\n\n\n\n\n2 A typo is corrected.\n\n                                                                                                       - 4 -"
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Item                         Current version                                 Amendments"
+    },
+    {
+      "id": "p4-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "4. Annex C - C23   In computing the effective torsional rigidity of beams of  In computing the effective torsional rigidity of beams of\n                        solid rectangular cross-section, the value of the torsional  solid rectangular cross-section, the value of the torsional\n                 moment of inertia (J) may be taken as                  moment of inertia (J) may be taken as\n                                               𝑑𝑑𝑑𝑑3                  𝑏𝑏                                                              𝑑𝑑𝑡𝑡3                         𝑡𝑡                   where     𝐽𝐽 and=     are(1 the−0.63depth (fin thickness) and breadth of  where     𝐽𝐽 and=  t are(1the−0.63depth 1and 1thickness of the glass fin                           3                𝑑𝑑)                                3               𝑑𝑑)\n                       the fin respectively.                                            respectively.                                          𝑑𝑑         𝑏𝑏                                                                         𝑑𝑑                           and       are  taken  as  28,700 N/mm2  and          and       are  taken  as  28,700 N/mm2  and\n                    70,000 N/mm2 for glass fins.                             70,000 N/mm2 for glass fins.                                    𝐺𝐺            𝐸𝐸                                                               𝐺𝐺            𝐸𝐸\n\n\n\n\n\n3  The symbol of glass fin thickness in the equation is revised.\n\n                                                                                                       - 5 -"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Appendix B\n                                                                                 (PNAP APP-171)\n\n\n\n\nAmendments to the Code of Practice for Structural Use of Glass 2018\n                        (February 2024)\n\n\n\n\n\nLegends:\n       Amended\n         Deleted\n\n\n\n(2/2024)\n\n\n\n\n\n                                                                                             - 1 -"
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Major amendments to the Code of Practice for the Structural Use of Glass 2018\nin February 2024 included:\n\n        (a)    Figure 6.1 – deletion of the 8mm dia. weep holes for external application in the\n                typical glass balustrade details;\n\n        (b)    Clause 8.3.1(b)1 – revision of the pressure p2 for the repeated positive and\n              negative pressure test; and\n\n        (c)    Figure B1.1 of Annex B – revision of the expressions of failure load in\n             item B1(2) Step k. and applied load.\n\n\n\n\n\n1   In case the preceding Code of Practice on Wind Effects in Hong Kong 2004 is adopted for the design\n    of curtain wall, for the repeated positive and negative pressure test, p2 should be the pressure obtained\n   from the product of the total pressure coefficient cp and the design wind pressure qz appropriate to that\n    part of the building.\n\n                                                                       - 2 -"
+    },
+    {
+      "id": "page-9-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Amendments to the Code of Practice for Structural Use of Glass 2018\n                                                     (February 2024)\n\n       Item                         Current version                                 Amendments"
+    },
+    {
+      "id": "p1-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "1.  Figure 6.12\n\n\n\n\n\n2   The 8mm dia. weep holes for external application in the figure is deleted.\n\n                                                                                                            - 3 -"
+    },
+    {
+      "id": "page-10-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Item                         Current version                                 Amendments"
+    },
+    {
+      "id": "p2-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "2.  Clause             (b) For the repeated positive and negative pressure test, p2  (b) For the repeated positive and negative pressure test, p2\n     8.3.1 (b)3            should be the pressure obtained from the product of the      should be the pressure taken as the net wind pressure P on\n                                total pressure coefficient cp and the design wind pressure      the  mullion  of  the  representative  portion  in  the\n                             qz appropriate to that part of the building, determined in     performance test, determined in accordance with the Code\n                         accordance with the Code of Practice on Wind Effects in      of Practice on Wind Effects in Hong Kong 2019. XThe\n                    Hong Kong.  The number of pressure pulses should not     number of pressure pulses should not be less than 5.\n                       be less than 5."
+    },
+    {
+      "id": "p3-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "3.  Annex B – B1    k.  Record the failure load       and the time taken to  k.  Record the failure load       and the time taken to\n     (2) Step k. and       reach this load.                                            reach this load.    Figure B1.14        l.  Observe and record the location𝐹𝐹𝑚𝑚𝑚𝑚𝑚𝑚 of the origin of fracture.   l.  Observe and record the location𝑊𝑊𝑚𝑚𝑚𝑚𝑚𝑚 of the origin of fracture.\n                  m. Repeat Steps 2a. to 2l. for all specimens.              m. Repeat Steps 2a. to 2l. for all specimens.\n\n\n\n\n\n                                     Figure B1.1  Test set-up\n                                                                                              Figure B1.1  Test set-up\n\n\n\n3   The pressure p2 for the repeated positive and negative pressure test is amended.\n4   The expressions of failure load in (2) Step k. and applied load in Figure B1.1 of item B1 are amended.\n\n                                                                                                            - 4 -"
+    }
+  ]
+}

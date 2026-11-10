@@ -1,0 +1,705 @@
+{
+  "code": "APP-042",
+  "source_text": "indexed_text/PNAP/APP/APP-042.txt",
+  "source_pdf": "documents/PNAP/APP/APP-042.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and        APP-42\n                          Registered Geotechnical Engineers\n\n\n                           Amenity Features\n\n\n            Amenity features are loosely defined as those elements of design that\nwhilst not statutory requirements are desirable to improve the standard and quality of a\nbuilding or a development project.  Provision of such features enhances the sense of care\nand pride for buildings, thereby inducing proper maintenance and repair.  To encourage\nthe provision of these features, the Building Authority (BA) is prepared to consider\nmodification and exemption, under the Buildings Ordinance and Regulations, for the\nprovision of new amenities in both new developments and existing buildings."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 155
+        },
+        {
+          "label": "b",
+          "offset": 226
+        },
+        {
+          "label": "c",
+          "offset": 295
+        },
+        {
+          "label": "d",
+          "offset": 391
+        }
+      ],
+      "text": "2.         To justify favourable consideration for modification or exemption, such\nproposals should meet one or a combination of the following objectives:\n      (a)     encouraging efficient and effective building management;\n      (b)     enhancing the quality of life for residents and users;\n      (c)      obviating the desire or temptation for unauthorised building\n             works;\n      (d)     improving environmental compatibility with the neighbourhood."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.                 It is not possible to lay down hard and fast rules.  Applications would be\nconsidered on their individual merits and relevance to a particular building and its users."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.           For large schemes or innovative designs, it is advisable prior to formal\nsubmission to hold a preliminary discussion with the Buildings Department (BD).   If\nnecessary, a proposal may also be the subject of consultation with the Lands Department\nand the Planning Department.  The intention  is that the three departments would\nconsider a proposal on similar grounds and in  its entirety.   Factors such as the\npreservation  of  trees,  landscape and  antiquities would be  regarded  as  positive\ncontributions."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.         Some examples of amenity features are given below.\n\nAir-conditioning"
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           For residential buildings, wall boxes or platforms in reinforced concrete\nor other suitable material may be constructed as a permanent feature, even over streets,\nand as such may be excluded from site coverage (SC) calculation (see PNAP APP-19).\nFor commercial and industrial buildings, a centralised air-conditioning system should\nbe provided or suitable internal areas should be set aside for this purpose at the design\nstage.  Allowance should be made for adequate ducting and trunking, recesses, set-backs,\nopen yards or other suitable spaces at or above floor levels where air-conditioning\npackage units (or other plant and accessories) can be accommodated without the need to\nproject over streets.\n                                                                                                 /7. …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.             In accordance with Regulation 23(3)(b) of  the Building (Planning)\nRegulations (B(P)R), any floor space genuinely intended for air-conditioning may be\ndisregarded from gross floor area (GFA) calculations, subject to compliance with the\npre-requisites and the overall cap on GFA concessions stipulated in PNAP APP-151."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 128
+        },
+        {
+          "label": "b",
+          "offset": 242
+        }
+      ],
+      "text": "8.          The following provisions would be considered reasonable in the absence\nof the detailed design layout of the plants:\n      (a)      air-conditioning plant rooms not exceeding 1% of the total GFA\n              of a building; and/or\n      (b)       air handling units, not exceeding 4% of the total GFA of each\n              floor on which they are situated.\n\nIf it is intended to exceed these percentages or where an air-conditioning room is provided\nin each domestic unit as described in paragraphs 11 and 12 below, full justification must\nbe submitted.  In such cases, the advice of the Director of Electrical and Mechanical\nServices may be sought during the plan processing stage."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.                If an unusually extensive system is proposed for exclusion from GFA\ncalculations, then it should be shown in detail on the approved plans and be operational\nbefore an application for occupation permit or certification of completion of work under\nForm BA14 is made."
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "10.           In all cases where buildings will be or are likely to be air-conditioned,\ncareful consideration should be given to the location of the exhaust of the plant and the\nneed to provide a disposal system for the condensation from the plant to prevent causing\nnuisance to adjoining occupants and the public."
+    },
+    {
+      "id": "p11-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "11.           In a residential building, for an air-conditioning plant room to be\nprovided to serve an individual unit, such room should be located with access from\noutside  that  residential  unit or from  the common area of  the  building.     If an\nair-conditioning plant room is proposed with access within an individual residential unit,\nthe authorized person (AP) should justify why access to such room cannot be located\noutside the unit.  In any event, the provision and size of such rooms need to be justified\nbefore consideration for disregarding from GFA calculations will be given."
+    },
+    {
+      "id": "p12-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 218
+        },
+        {
+          "label": "b",
+          "offset": 367
+        },
+        {
+          "label": "c",
+          "offset": 890
+        }
+      ],
+      "text": "12.           In the event that such plant room is permitted to be provided with access\nwithin the individual unit, such plant room should meet the following criteria before it\nmay be disregarded from GFA calculation:\n      (a)      the floor of the plant room should have a level difference of a\n           minimum of 500mm with the floor of the main accommodation;\n      (b)      the plant room should have at least one side open, and provision\n              of railing, open grille and louvre on the open side up to parapet\n               level are acceptable.   Enclosure above parapet level may be\n             allowed where there is a need to separate the intake air and\n              exhaust  air.   Enclosure for the purpose of compliance with\n             Clause C11.1 of the Code of Practice for Fire Safety in Buildings\n            2011 may also be allowed on the open side; and\n      (c)      the open side should face into the open air.\n\n                                                                       /Security …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\nSecurity Gates"
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 365
+        },
+        {
+          "label": "b",
+          "offset": 412
+        },
+        {
+          "label": "c",
+          "offset": 468
+        }
+      ],
+      "text": "13.        As long as they do not obstruct the means of escape from a building and\nhave locks openable from the inside without keys, security gates may be installed prior\nto the issue of an occupation permit or acknowledgement of Form BA14, or may be\nindicated on floor plans in suitable positions for future installation.  Suitable positions\nare considered to be:\n\n      (a)      entrances to individual units;\n\n      (b)     main staircase exits from buildings; and\n\n      (c)      in a composite building, between the domestic part and the non-\n             domestic part.   In this case, the gate would be across an exit\n               route, preferably in a lobby, and should be designed to prevent\n              the entry of non-residents into the domestic part of the building.\n\nCounters, Kiosks, Offices, Stores, Guard Rooms, and Lavatories for Watchmen and\nManagement Staff"
+    },
+    {
+      "id": "p14-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 245
+        },
+        {
+          "label": "b",
+          "offset": 300
+        },
+        {
+          "label": "c",
+          "offset": 849
+        },
+        {
+          "label": "d",
+          "offset": 1058
+        }
+      ],
+      "text": "14.        Such  provision enhances  the  standards  of  control, management and\nmaintenance of buildings.   The BA  will consider favourably on application  for\nexemption from GFA calculations where such provision meets the following criteria:\n\n      (a)         it should not be excessive in size;\n\n      (b)      to prevent abuse, it should be located in an area designated as\n          common parts in a Deed of Mutual Covenant (DMC) or falling\n              within the definition of “common parts” under the Building\n           Management Ordinance (BMO) (Cap. 344).  In case there is no\n        DMC formed  at  the time  of  application  for  approval,  the\n              developer or owner is required to submit an undertaking to BD to\n              include the said areas as common parts in the DMC whenever one\n                  is formed;\n\n      (c)      the maximum GFA in a domestic building or domestic part of a\n             composite building is 0.2% of the total domestic GFA or 5m2 for\n             every 50 flats, whichever is smaller; and\n\n      (d)      the maximum GFA that may be allowed for exemption in a\n             non-domestic building or non-domestic part of a composite\n              building  is 0.2% of the  total non-domestic GFA or 120m2,\n             whichever is smaller."
+    },
+    {
+      "id": "p15-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "15.         The granting of GFA concessions set out in paragraph 14 above is subject\nto compliance with the pre-requisites and the overall cap on GFA concessions stipulated\nin PNAP APP-151.\n\n\n                                                             /Owners’ …"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -\n\nOwners’ Corporation Office and Caretakers’ Quarters"
+    },
+    {
+      "id": "p16-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "16.          Formation of owners’ corporation and the provision of caretakers’ quarters\nwould enhance better building management.  The BA will consider favourably on\napplication for exemption of owners’ corporation office and caretakers’ quarters in\nresidential development from GFA calculations, with due reference to the required size\nunder the lease if applicable, or justifications provided by the AP."
+    },
+    {
+      "id": "p17-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "17.         The granting of GFA concessions set out in paragraph 16 above is subject\nto compliance with the pre-requisites and the overall cap on GFA concessions stipulated\nin PNAP APP-151.\n\nProjections"
+    },
+    {
+      "id": "p18-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "18",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "18.          These  are  generally  covered  in PNAP APP-19 and  canopies  are\nspecifically dealt with in PNAP APP-68."
+    },
+    {
+      "id": "p19-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "19",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "19.          For individual domestic units, clothes-drying racks, anti-burglar bars and\nsmall window hoods designed to provide protection from the elements and falling objects\nwould not have any SC or plot ratio implications.\n\nHorizontal Screens/Covered Walkways"
+    },
+    {
+      "id": "p20-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "20",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 226
+        },
+        {
+          "label": "b",
+          "offset": 370
+        },
+        {
+          "label": "c",
+          "offset": 695
+        },
+        {
+          "label": "d",
+          "offset": 932
+        }
+      ],
+      "text": "20.           Horizontal screens/covered walkways for protecting occupants against\nweather/falling objects and enhancing walkability may be exempted from GFA and SC\ncalculations if such provision meets the following criteria:\n\n      (a)      the  horizontal  screens/covered walkways  are  in communal\n             outdoor passageways at ground floors or podium floors;\n\n      (b)      the horizontal screens/covered walkways should be an open-sided\n               structure and connect directly:\n\n                   (i)   the main initial access at the lot boundary to the main\n                    entrance of a building; and/or\n\n                   (ii)   the main entrances between buildings;\n\n      (c)      the horizontal screens/covered walkways should not obstruct any\n              required prescribed windows/open  air for offices, rooms for\n               habitation, kitchens, lavatories, bathrooms, etc. of any building;\n\n      (d)      the areas underneath the horizontal screens/covered walkways\n             should be designated as common parts in the DMC or falling\n              within the definition of “common parts” under the BMO.  In\n              case there is no DMC formed at the time of application for\n              approval, the developer or owner  is required to submit an\n              undertaking to BD to include the said areas as common parts in\n              the DMC whenever one is formed;\n\n\n                                                                     /(e)…"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 5 -\n\n      (e)      the areas underneath the horizontal screens/covered walkways\n            do not form part of any commercial premises;\n\n       (f)      the maximum width and height of the horizontal screens/covered\n            walkways should not exceed 3.5m and 4.5m1 respectively; and\n\n      (g)     compliance  with  the  requirements from  other  departments\n              including the Lands Department and Planning Department."
+    },
+    {
+      "id": "p21-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "21",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "21.         The granting of GFA concessions set out in paragraph 20 above is subject\nto compliance with the pre-requisites stipulated in PNAP APP-151.\n\nTrellis"
+    },
+    {
+      "id": "p22-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "22",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 240
+        },
+        {
+          "label": "b",
+          "offset": 470
+        },
+        {
+          "label": "c",
+          "offset": 907
+        },
+        {
+          "label": "d",
+          "offset": 1341
+        },
+        {
+          "label": "e",
+          "offset": 1772
+        }
+      ],
+      "text": "22.         The erection of trellis for growing of plants at garden area and on roof,\nincluding main roof and set-back roof, may be permitted and the area of trellis may be\nexempted from GFA calculation subject to the following conditions:\n\n      (a)      for roofs and gardens designated for private use, the maximum\n                 total area of the trellis is not more than 5% of the roof/garden area\n            where it is situated or 20m2, whichever is the less;\n\n      (b)      for roofs and gardens designated as common parts in the DMC or\n                falling within the definition of “common parts” under the BMO,\n              the maximum total area of the trellis is not more than 5% of the\n              roof area and not more than 10% of the garden area where such\n              roof/garden is situated.  However, the maximum size of each\n                  trellis should not exceed 20m2;\n\n      (c)      the trellis should be an open-sided structure with a height of not\n           more than the storey height of the floor where the trellis is situated.\n             For trellis situated on the roof, the height of the trellis should not\n            be more than the storey height of the floor below. The horizontal\n              supports or intermediate bars should not be nearer than 200mm\n            from one another;\n\n      (d)      the   trellis  should  not  obstruct  any  required  prescribed\n            windows/open  air for offices, rooms for habitation, kitchen,\n               lavatory, bathroom, etc. of any building.  For the avoidance of\n              doubt, no  trellis should be located on a refuge roof.   The\n            commentary to Clause B18.3 of the Code of Practice for Fire\n              Safety in Buildings 2011 refers; and\n\n      (e)     compliance  with  the  requirements from  other  departments\n              including the Lands Department and Planning Department."
+    },
+    {
+      "id": "p23-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "23",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "23.         The granting of GFA concessions set out in paragraph 22 above is subject\nto compliance with the pre-requisites stipulated under PNAP APP-151.\n                                                                          /Shelters …\n\n1  The height limit for the portion of horizontal screens/covered walkways across emergency\n   vehicular access may be relaxed on individual merits."
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "- 6 -\n\nShelters for Outdoor Fixed Seats"
+    },
+    {
+      "id": "p24-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "24",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 235
+        },
+        {
+          "label": "b",
+          "offset": 489
+        },
+        {
+          "label": "c",
+          "offset": 721
+        },
+        {
+          "label": "d",
+          "offset": 1150
+        },
+        {
+          "label": "e",
+          "offset": 1607
+        }
+      ],
+      "text": "24.            Shelters for providing weather protection for outdoor fixed seats  at\ncommunal outdoor spaces on ground floor, podium and roof may be exempted from GFA\nand SC calculations if such provision meets the following criteria:\n\n      (a)      the maximum total area of the shelters is not more than 10% of\n              the area of the communal outdoor space where the shelters are\n                situated, and the maximum area of each shelter should not exceed\n            20m2;\n\n      (b)      the shelter should be an open-sided structure with a width and a\n              height of not more than 3.5m and have a horizontal clearance of\n              not less than 3.5m from any other structures or buildings;\n\n      (c)      the  shelters  should  not  obstruct  any  required  prescribed\n            windows/open air for offices, rooms for habitation, kitchens,\n                lavatories, bathrooms, etc. of any building.  For the avoidance of\n              doubt, no shelter should be located on a refuge roof.  The\n            commentary to Clause B18.3 of the Code of Practice for Fire\n              Safety in Buildings 2011 refers;\n\n      (d)      the areas underneath the shelters should be designated as common\n               parts in the DMC or falling within the definition of “common\n               parts” under the BMO.   In case there is no DMC formed at the\n             time of application for approval, the developer or owner  is\n              required to submit an undertaking to BD to include the said areas\n              as common parts in the DMC whenever one is formed; and\n\n      (e)     compliance  with  the  requirements from  other  departments\n              including the Lands Department and Planning Department."
+    },
+    {
+      "id": "p25-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "25",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "25.         The granting of GFA concessions set out in paragraph 24 above is subject\nto compliance with the pre-requisites stipulated in PNAP APP-151.\n\nPrestige Entrances"
+    },
+    {
+      "id": "p26-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "26",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "26.          These are generally covered in PNAP APP-2.  The BA aims to adopt a\nliberal attitude towards the provision of such features for non-domestic developments.\nHowever, care must be taken in the design to ensure that future occupants would maintain\nthe integrity of protected lobbies and corridors related to the means of escape and\nfireman's lifts."
+    },
+    {
+      "id": "p27-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "27",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "27.         The granting of GFA concessions set out in paragraph 26 above is subject\nto compliance with the pre-requisites and the overall cap on GFA concessions stipulated\nin PNAP APP-151.\n\n\n                                                    /Communal …"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "- 7 -\n\nCommunal Podium Garden, Covered Landscaped and Play Areas"
+    },
+    {
+      "id": "p28-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "28",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "28.         The provision of communal podium gardens, covered landscaped and play\nareas is encouraged.  Where these amenities occur under and within the perimeter of a\ndomestic tower, a modification of Regulation 23(3)(a) of the B(P)R would be granted,\nprovided the area is open in design and not encumbered with structural elements, and the\ntotal area exempted is within 5% of total domestic GFA."
+    },
+    {
+      "id": "p29-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "29",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "29.         The granting of GFA concessions set out in paragraph 28 above is subject\nto compliance with the pre-requisites stipulated in PNAP APP-151.\n\nCovered Areas at Public Open Space"
+    },
+    {
+      "id": "p30-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "30",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 208
+        },
+        {
+          "label": "b",
+          "offset": 407
+        },
+        {
+          "label": "c",
+          "offset": 482
+        },
+        {
+          "label": "d",
+          "offset": 917
+        }
+      ],
+      "text": "30.          Covered areas at public open space required to be provided under the land\nadministration or planning regime 2 may be exempted from GFA calculation if such\nprovision meets the following criteria:\n\n      (a)      resting  facilities  (e.g. fixed chairs/benches/planter edges  for\n               seating) should be provided at the covered areas and clearly\n           shown on the building plans;\n\n      (b)      the covered areas do not form part of commercial premises;\n\n      (c)      the covered areas should be designated as common parts in the\n        DMC or falling within the definition of “common parts” under\n              the BMO.   In case there is no DMC formed at the time of\n               application for approval, the developer or owner is required to\n             submit an undertaking to BD to include the said areas as common\n               parts in the DMC whenever one is formed3; and\n\n      (d)      the Lands Department and the Planning Department have no\n              objection to the GFA concession."
+    },
+    {
+      "id": "p31-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "31",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "31.         The granting of GFA concessions set out in paragraph 30 above is subject\nto compliance with the pre-requisites stipulated in PNAP APP-151.\n\nRecreational Facilities"
+    },
+    {
+      "id": "p32-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "32",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "32.           Certain recreational facilities such as squash courts, gymnasiums, indoor\nswimming pools, sauna facilities, function rooms (for either active or passive recreational\nactivities) are often clearly identifiable with a particular development and aim to benefit\nthe residents and occupiers generally.  These can be considered for exclusion from GFA\ncalculations by modification of Regulation 23(3)(a) of the B(P)R on a case-by-case basis,\nsubject to the limitation as stipulated in PNAP APP-104.\n\n                                                                                     /33. …\n\n\n\n2   It includes the provision of public open spaces covered by a planning application approved by\n   the Town Planning Board.\n3  Except  for  the  public open  space  required  to be  maintained and managed by  the\n   purchaser/grantee, or surrendered/delivered back to the Government under the lease."
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "- 8 -"
+    },
+    {
+      "id": "p33-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "33",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "33.         The granting of GFA concessions set out in paragraph 32 above is subject\nto compliance with the pre-requisites and the overall cap on GFA concessions stipulated\nin PNAP APP-151.\n\nSatellite Dishes/Satellite Master Antenna for Television"
+    },
+    {
+      "id": "p34-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "34",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "34.             Satellite dishes and satellite master antenna for television (SMATV) are\nbecoming quite common nowadays being installed in response to public demand.   It\nwould be appropriate therefore to make provision at the design stage of a building to\naccommodate such a feature."
+    },
+    {
+      "id": "p35-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "35",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "35.         The support for the installation of satellite dishes could be provided by\nway of  cast-in-situ mounting blocks and/or  built-in-fixing bolts together with an\nappropriate increase of the design load of the structural elements to accommodate the\nweight of the dish."
+    },
+    {
+      "id": "p36-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "36",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "36.          For multi-storey buildings,  it  is common to have one single system\nSMATV serving the whole building. A SMATV system typically consists of one or\nmore satellite receiving dish antennas and other associated equipment installed in a room\nor cabinet at the rooftop of a building."
+    },
+    {
+      "id": "p37-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "37",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "37.         Where the SMATV equipment is installed in the form of a cabinet of a size\nnot exceeding 0.6m(W) x 0.6m(D) x 2.2m(H) and does not involve any building works,\nsuch an equipment cabinet is regarded as a plant which is not subject to the control of the\nBO. A room of a size not exceeding 1.2m(W) x 1.2m(D) for housing SMATV system\nequipment and located in an area designated as common parts in the DMC or falling\nwithin the definition of “common parts” under the BMO may be exempted from GFA\ncalculation in accordance with PNAP APP-2.\n\nRadio Base Stations"
+    },
+    {
+      "id": "p38-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "38",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "38.          Radio base stations may be installed by public telecommunication services\noperators, including mobile services operators, on the roof or in various parts of a building\nfor delivery of their services. A radio base station may comprise an equipment cabinet\nwhich is used for housing power supply and transmission equipment and/or antennas\nwhich are fixed to the roof parapets or attached to supporting frames projecting from the\nexternal walls of a building."
+    },
+    {
+      "id": "p39-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "39",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "39.      A radio base station in the form of an equipment cabinet solely for the\npurpose of housing transmission equipment and of size not exceeding 1.5m (W) x 1m (D)\nx 2.3m (H) is regarded as a plant which is not subject to the control of the BO.  However,\nthe construction of any supporting structure for such cabinet is building works subject to\nthe control of the BO and is designated as an item of Class I Minor Works under the\nBuilding (Minor Works) Regulation."
+    },
+    {
+      "id": "p40-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "40",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "40.         The erection of equipment cabinet exceeding the size  stipulated  in\nparagraph 39 above or room/shelter for installation of a radio base station on the roof is\nbuilding works subject to the control of the BO.  The floor space of such equipment\ncabinet, room or shelter is accountable for GFA under Regulation 23(3)(a) of the B(P)R.\nSuch equipment cabinet, room or shelter, whether forming part of a new building or being\n\n                                                                     /newly …"
+    },
+    {
+      "id": "page-9-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        9
+      ],
+      "text": "- 9 -\n\nnewly added to an existing building, is regarded as a new building requiring the issuance\nof an occupation permit under section 21 of the BO before its occupation."
+    },
+    {
+      "id": "p41-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "41",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "41.           Useful information can be found in the “Guidance Note for Submission of\nApplications by Public Telecommunications Operators for the Installation of Radio Base\nStations for Public Telecommunications Services in Buildings and on Rooftops” issued\nby the Communications Authority and PNAP APP-147 on Minor Works Control System.\n\nCovered Picking Up and Setting Down Area for Passengers"
+    },
+    {
+      "id": "p42-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "42",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 245
+        },
+        {
+          "label": "b",
+          "offset": 394
+        },
+        {
+          "label": "c",
+          "offset": 506
+        },
+        {
+          "label": "d",
+          "offset": 938
+        }
+      ],
+      "text": "42.         The covered picking up and setting down area for passengers adjoining the\ncommunal main entrance of a building including the associated covered driveway may\nbe exempted from GFA and SC calculations if the following criteria are met:\n\n      (a)      the  provision  should  not  be  excessive  4  and  should  be\n            commensurate with the use appropriate to the development;\n\n      (b)      the covered area should be open-sided and do not form part of\n             commercial premises;\n\n      (c)      the covered area should be designated as common parts in the\n        DMC or falling within the definition of “common parts” under\n              the BMO.   In case there is no DMC formed at the time of\n               application for approval, the developer or owner is required to\n             submit an undertaking to BD to include the said area as common\n               parts in the DMC whenever one is formed; and\n\n      (d)     compliance with  the  requirements from  other departments\n              including  the  Lands  Department,  Planning  Department,\n              Transport Department and Highways Department."
+    },
+    {
+      "id": "p43-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "43",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "43.         The granting of GFA concessions set out in paragraph 42 above is subject\nto compliance with the pre-requisites stipulated in PNAP APP-151.\n\nHorizontal/Vertical Extension for Accessible Lifts at Existing Buildings"
+    },
+    {
+      "id": "p44-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "44",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 276
+        }
+      ],
+      "text": "44.            Horizontal/vertical extension including the associated corridors, lobbies\nand bridges for additional accessible lifts to enhance communal barrier free access to\nexisting buildings5 may be exempted from GFA and SC calculations if the following\ncriteria are met:\n\n      (a)      the provision and design should not be excessive and should be\n            commensurate with the use appropriate to the development;\n\n                                                                    /(b)…\n\n\n4  Covered area for dropping off passengers from a rehabilitation bus would be considered\n   acceptable.\n5  The GFA and SC concessions in this paragraph are not applicable to “houses” for domestic\n   use having not more than three main domestic storeys.  For the avoidance of doubt, the\n   “houses” do not include residential care homes for the elderly, residential care homes for\n   persons with disabilities, hotels, guesthouses and hostels."
+    },
+    {
+      "id": "page-10-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        10
+      ],
+      "text": "- 10 -\n\n      (b)      the new accessible lift should comply with the obligatory design\n              requirements of the Design Manual: Barrier Free Access;\n\n      (c)      the extension should be located in an area designated as common\n               parts in a DMC or falling within the definition of “common parts”\n             under the BMO; and\n      (d)     submission of a letter by the developer or owners undertaking that\n            any existing lifts and the associated access and circulation space\n               in the development should not be removed or closed off without\n               prior approval of the BA.\n\nOutdoor Prefabricated Structures"
+    },
+    {
+      "id": "p45-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "45",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "45.        An outdoor prefabricated structure, other than a radio base station which\ndoes not exceed 3m3 in volume and 2m in height, is not regarded as a building.\nNevertheless, the erection of such structure should not affect the structural safety and\ndrainage system of its parent building.  Any outdoor prefabricated structure exceeding\nthe above size limit is regarded as a building which will be subject to the control of the\nBO including, inter alia, the requirement for prior approval of plans and consent to the\ncommencement of works and the requirement for an occupation permit before they can\nbe occupied.\n\nImplementation"
+    },
+    {
+      "id": "p46-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "46",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "46.         The amenity features in paragraphs 20, 24, 30 and 42 which aim to\npromote elderly friendly built environment are applicable to residential and composite\nbuildings, as well as commercial buildings often patronised by the elderly.   If such\nfeatures already exist in an existing building and have been included in GFA/SC\ncalculations, application for exemption of such features from GFA/SC calculations and\ntransferring the GFA/SC for other purposes will not be accepted.\n\n\n\n\n\n                                                               ( HO Chun-hung )\n                                                Building Authority\n\n\nRef. : BD GR/1-10/72/0\n    BD GP/BREG/P/9 (XI)\n    BD GP/BORD/38 (III)\n\nThis PNAP is previously known as PNAP 116\nFirst issue    October 1985\nLast revision  August 2020\nThis revision  July 2025 (AD/NB1) (Paragraphs 6, 19 to 21, 23 and 32 amended,\n                                    paragraphs 24, 25, 30, 31, 42 to 44 and 46 added,\n                                    previous paragraphs 39 and 40 deleted)"
+    }
+  ]
+}

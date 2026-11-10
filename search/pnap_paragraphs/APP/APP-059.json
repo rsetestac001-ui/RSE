@@ -1,0 +1,93 @@
+{
+  "code": "APP-059",
+  "source_text": "indexed_text/PNAP/APP/APP-059.txt",
+  "source_pdf": "documents/PNAP/APP/APP-059.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-59\n\n                                     Practice Note for Authorized Persons\nBuildings Department                                                   158                              and Registered Structural Engineers\n\n\n                          BAN\n                           on Hand-dug Caissons\n\n            Hand-dug caissons have been used for many years and have had a disturbing\nhistory of high accident rate and health hazards to workers."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 782
+        },
+        {
+          "label": "b",
+          "offset": 984
+        }
+      ],
+      "text": "2.           Government has  enacted  the  Buildings (Amendment) Ordinance 1995 on\n19 January 1995 to ban the use of hand-dug caissons.\n\n3.           \"Hand-dug caisson\" is defined in Section 2(1) of the Buildings Ordinance as\nany foundation or earth-retaining structure, or part thereof, the construction of which includes\nthe excavation of a shaft in the ground by means of digging carried out by any person inside\nthe shaft with or without the aid of machine tools. A new section 16(1A) empowers the\nBuilding Authority (BA) to refuse to give approval to any plans of building works where they\ninclude the construction of a hand-dug caisson.  Exemption may be granted only if it can be\ndemonstrated to the satisfaction of the BA personally that the following circumstances exist :\n\n        (a)     the depth of the hand-dug caisson does not exceed 3 metres and\n               the diameter of the inscribed circle of the hand-dug caisson is\n              not less than 1.5 metres; or\n\n        (b)     for the site concerned --\n\n                    (i)     the use of a hand-dug caisson is the only practical\n                       construction method; or\n\n                     (ii)     there is no other safe engineering alternative.\n\nExamples would be narrow or steeply-sloping  sites where  difficult access or insufficient\nworking space makes it not possible or not safe to use machine tools."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.             In these exceptional circumstances, the authorized person/registered structural\nengineer must specify stringent safety requirements in the method statement for the building\nworks and ensure that the registered contractor is fully aware of and complies with all safety\nrequirements.  In this respect, the provisions of the Construction Site (Safety) Regulations\nadministered by the Commissioner for Labour should be observed."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The booklet \"Guidance Notes on Hand-dug Caissons\", published by the Hong\nKong Institution of Engineers, offers advice on good practice. Reference should also be made\nto  the \"Code  of  Safe Working  Practices  for Hand-dug  Caissons\",  published by  the\nOccupational Safety & Health Council.\n\n                                                                                          /6.  I ...."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "-  2  -"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.       A grace period of 12 months is given for adjustment to the new legislation.\nWith effect from 1st February 1996, the BA will not give approval to plans involving hand-\ndug caissons unless there were exceptional circumstances as specified in section 16(1A) of the\nBuildings Ordinance."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           Meanwhile, authorized persons and registered structural engineers are strongly\nurged to avoid using hand-dug caissons in the interest of safety for workers.  Loss of life or\nlimb is too high a price to pay."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.       A similar practice note has been issued to registered contractors.\n\n\n\n\n\n                                                      (Helen C P Lai YU)\n                                                         Building Authority\n\n\n\n\n\nRef. : BD GP/BREG/C/14\n\nFirst issued May 1993\nThis revision February 1995 (AD/SE)\n\nIndex under :  Caissons\n            Hand-dug Caissons\n            Ban on Hand-dug Caissons"
+    }
+  ]
+}

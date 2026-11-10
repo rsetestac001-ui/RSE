@@ -1,0 +1,251 @@
+{
+  "code": "APP-069",
+  "source_text": "indexed_text/PNAP/APP/APP-069.txt",
+  "source_pdf": "documents/PNAP/APP/APP-069.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department     Registered Structural Engineers and       APP-69\n                           Registered Geotechnical Engineers\n\n\n\n                      Conservation of Historic Buildings\n\n\n             This practice note provides guidelines to facilitate adaptive re-use of,\nalteration and addition (A&A) works to, and preservation-cum-development of historic\nbuildings1 (A&A proposals).\n\nMonuments and Proposed Monuments"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         Monuments and proposed monuments are declared under the Antiquities\nand Monuments Ordinance (Cap. 53) by notice in the Gazette.  Section 6 of Cap. 53\nprohibits any works being carried out in a declared monument or a proposed monument\nwithout a permit issued by the Antiquities Authority (i.e. Secretary for Development).\nWithout such permit, proposals involving a monument or a proposed monument may be\ndisapproved under section 16(1)(d) of the Buildings Ordinance (BO) (Cap. 123)."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         The updated list of declared monuments and proposed monuments can be\nfound  on   the  website   of   the   Antiquities  and  Monuments   Office  (AMO)\n(www.amo.gov.hk) of the Leisure and Cultural Services Department.\n\nHistoric Buildings"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 197
+        },
+        {
+          "label": "b",
+          "offset": 324
+        },
+        {
+          "label": "c",
+          "offset": 443
+        }
+      ],
+      "text": "4.         The  Antiquities  Advisory  Board (AAB)  has  been  assessing  historic\nbuildings (except monuments) according to its administrative guidelines and the following\ndefinitions of grading:\n\n       (a)    Grade 1: Buildings of outstanding merit, which every effort should\n            be made to preserve if possible;\n\n       (b)    Grade 2: Buildings of special merit; efforts should be made to\n               selectively preserve; and\n\n       (c)   Grade 3: Buildings of some merit; preservation in some form would\n            be  desirable  and  alternative  means  could  be  considered   if\n             preservation is not practicable.\n\n\n                                                                                    /5. ……..\n\n\n1  For the purpose of this practice note, a historic building is taken as either a declared monument or a\n   proposed monument defined under the Antiquities and Monuments Ordinance (Cap. 53), or a building or\n   structure that has been graded or proposed to be graded by the Antiquities Advisory Board."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          While graded buildings do not enjoy statutory protection under Cap. 53,\npreservation of privately-owned historic buildings should be encouraged. Upon receipt of\nA&A proposals and demolition plans of historic buildings by the Buildings Department\n(BD), the plans will be referred to the Commissioner for Heritage’s Office (CHO) of the\nDevelopment Bureau and the AMO under the centralised processing system and the\nestablished monitoring mechanism. The CHO and AMO may approach the Authorized\nPersons (AP) or the owners to explore viable options for conservation."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.         The updated list of graded historic buildings can be found on the websites\nof the AMO and AAB.\n\nPragmatic Approach"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.         The heritage value of a historic building can be reflected by  its unique\ncharacter defining elements which may vary from case to case.  Hence, when a project\ninvolving building works in historic building(s) is commissioned, early contact with the\nAMO to identify the heritage value of the building(s) and structure(s) including their\ncharacter  defining  elements  should be made.   Successful  conservation  of  historic\nbuildings requires an optimal balance of the requirements on conservation, limitations of\nthe existing buildings, selection of appropriate adaptive re-use, the scope and extent of\nA&A works, and scale and nature of redevelopment."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.            In handling these A&A proposals, the BD will adopt a pragmatic approach\nwhen considering applications for modification of or exemption from various building\nregulations, with due regard to the constraints posed by the original design of the existing\nbuildings and the conservation needs of historic buildings.  Basically, performance-based\ndesign alternatives may be acceptable if it can be demonstrated that equivalent levels of\nsafety  and  health  standards  are  maintained.   For  example, when  the  required\nstrengthening works in meeting the standards of the minimum imposed loads for specific\nuses are so extensive that may affect the heritage value of historic buildings, the AP may\nconsider adopting a performance-based approach and follow the guidance listed out in\nSection 4.2 of the Code of Practice for Dead and Imposed Loads 2011 to determine the\ndesign imposed loads for the related floors and structures."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.         The BD has issued the “Practice Guidebook for Adaptive Re-use of and\nAlteration and Addition Works to Heritage Buildings 2012” (Practice Guidebook) which\nis available on the BD’s website (www.bd.gov.hk).  The Practice Guidebook provides\nguidance to resolve common problems that may be encountered in complying with the\ncurrent building safety and health requirements. Examples of alternative design options\nare provided in Section 5 of the Practice Guidebook to address requirements on structural\nsafety,  fire  safety, protective  barrier,  barrier free access and provision of sanitary\nfitments.  The BD will favourably consider such alternatives on the merits of and\njustifications provided for each case, and may accept with or without conditions.  To\nfacilitate processing by the BD, a  list of justifications and information that should be\nsubmitted for some  typical modifications/exemptions  is detailed in Appendix A for\nreference.\n                                                                             /10. ........"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\nSubmissions and Enquiries"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.        The Heritage Units (HU) in the New Buildings Divisions of the BD process\nthese A&A proposals and provide technical support to the CHO’s Revitalising Historic\nBuildings Through Partnership Scheme. The HU also handle enquiries on issues relating\nto heritage conservation and compliance with the requirements of the building regulations\nunder the established pre-submission enquiry mechanism promulgated in the PNAP\nADM-19.\n\n\n\n\n\n                                                                          ( HUI Siu-wai )\n                                                         Building Authority\n\n\n\n\n\nRef.: BD GR/1-130/1/0 (XIII)\n\nThis PNAP is previously known as PNAP 175\nFirst issue     January 1995\nLast revision  May 2009\nThis revision  January 2016 (AD/NB1 & AD/NB2) (General revamp)"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                       (PNAP APP-69)\n                         Conservation of Historic Buildings\n\n                         List of Justifications and Information for\n                  Application for Modifications of / Exemptions from\n                         Relevant Statutory Requirements\n\n\nIn the conservation of historic buildings, the following checklist is for Authorized Persons’\nreference in giving justifications and information to the Building Authority to support the\napplication under Section 42 of  the Buildings Ordinance (BO)  for modification of or\nexemption from  the  following  statutory  requirements  to accommodate  the commonly\nencountered circumstances or justify alternative designs including those exemplified in the\n“Practice Guidebook for Adaptive Re-use of and Alteration and Addition Works to Heritage\nBuildings 2012” (Practice Guidebook).\n\nNoting the circumstances of each case such as the difficulties encountered in meeting the\nrelevant requirements, the cumulative number of non-conformities involved when the building\nis considered holistically, character-defining elements identified, etc. may vary from case to\ncase, the Buildings Department may require justifications additional to those listed below on\ncase merits.\n\nLegends\n□ To be shown on the submitted plans\n○ To be submitted separately\n\nTable A: List of items directly required under the BO and allied regulations"
+    },
+    {
+      "id": "p1-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "1.   BO Section 31(1) – the preserved verandahs / balconies to project over street\n\n   □  Critical dimensions of clear height over pavement / street, projection, and width of the pavement\n          and carriageway\n   □ Areas of the retained verandahs / balconies included in the gross floor area (GFA) calculations\n   ○ Supporting letter from the Antiquities and Monuments Office (AMO) from the heritage conservation\n            point of view"
+    },
+    {
+      "id": "p2-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "2.     Building (Administration) Regulation 29(1A) – exemption from the payment of plan processing fees\n         for  projects  under  the  “Revitalising  Historic  Buildings Through  Partnership Scheme”  of  the\n       Development Bureau (DEVB) (exemption for charitable uses are covered by PNAP APP-55)\n\n   ○ Supporting documents such as the appointment letter by DEVB"
+    },
+    {
+      "id": "p3-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "3.     Building (Construction) Regulation (B(C)R) 8(2)(b), 8(2)(c), 8(3) – existing protective barriers with\n        height less than 1100mm but not less than 900mm high, with gaps marginally wider than 100mm, or\n        with solid curb less than 150mm for premises not used primarily by children or the elderly\n\n   □  Details, construction materials and locations for all types of existing designs\n   □ For verandahs or balconies, compliance with the requirements and provision of compensatory\n           measures in accordance with Section 5.30(d) and 5.30(e) of the Practice Guidebook\n   □ For  staircases, compliance with  requirements and  provision  of compensatory measures  in\n           accordance with Section 5.30(f) of the Practice Guidebook\n   ○ A management plan1 and a relevant undertaking letter from the owner\n   ○ Supporting letter from the AMO from the heritage conservation point of view\n   ○ Photos of existing protective barriers\n\n\n1  A management plan should be prepared in accordance with Appendix III of the Practice Guidebook"
+    },
+    {
+      "id": "p4-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "4.    B(C)R 17(1) – inadequate structural strength of existing floors to sustain the minimum imposed\n        loads for specific uses prescribed in Table 1 of the B(C)R\n\n   □ Floor layouts and details including the locations, materials and dimensions of all fixtures, such as\n              partition, furniture, railing, equipment and plant, etc., that are related to the establishment of the\n           design imposed loads for the floor concerned\n   ○ Evaluation on the greatest applied load likely to arise from the intended use of the related floor,\n            taking into consideration of any possible assembly of people, accumulation of equipment, display\n            items, furnishings and storage of materials, etc. (References can be made to Section 4.2 of the\n         Code of Practice for Dead and Imposed Loads 2011 (Loading Code 2011) and Section 5.8 of the\n            Practice Guidebook)\n   ○ An assessment on the structural viability of the intended use of the floor and the condition of the\n           concerned existing structural elements\n   ○ A management plan1, if applicable, in accordance with Appendix III of the Practice Guidebook\n            giving details of effective management measures to control the population of occupants2 together\n           with a relevant undertaking letter from the owner\n   ○ Supporting letter from the AMO from the heritage conservation point of view\n   ○ Photos of the related existing floors or structures"
+    },
+    {
+      "id": "p5-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "5.    B(C)R 17(3) – inadequate structural strength of existing protective barriers to resist the minimum\n        horizontal imposed loads\n\n   □ Structural details, types and strengths of construction materials, and locations of the existing\n            protective barriers including their supporting structures\n   ○ An assessment on the structural viability of the proposal and the condition of the concerned\n             existing structural elements\n   ○  Justifications on the categorisation of movement of persons. A performance-based approach may\n          be adopted to establish the design imposed loads on the existing protective barriers for the\n            adaptive re-use at historic buildings. Such design approach should be accompanied with reliable\n          and effective management measures which demonstrate the congregation of people at the specific\n            areas of historic buildings is not expected so that appropriate category of loading assumption\n         shown in Table 3 of the B(C)R could be adopted in verifying the structural strength of existing\n            protective barriers. Reference can be made to Section 4.2 of the Loading Code 2011\n   ○ A management plan1, if applicable, and a relevant undertaking letter from the owner\n   ○ Supporting letter from the AMO from the heritage conservation point of view\n   ○ Photos of existing protective barriers"
+    },
+    {
+      "id": "p6-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "6.     Building (Planning) Regulation (B(P)R) 3A – existing heights of window  sills or bottom of\n       openings less than 1100mm from floor\n\n   □ Existing opening at a height not less than 900mm from floor\n   □ Compliance with requirements and provision of compensatory measures in accordance with\n            Section 5.30(e) of the Practice Guidebook\n   ○ A management plan1 and a relevant undertaking letter from the owner\n   ○ Supporting letter from the AMO from the heritage conservation point of view\n   ○ Photos of existing window openings"
+    },
+    {
+      "id": "p7-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "7.    B(P)Rs 30, 31 and 32 – inadequate provision of natural lighting and ventilation in habitable rooms\n       and domestic kitchens\n\n   □ Compliance with the requirements in accordance with PNAP APP-130"
+    },
+    {
+      "id": "p8-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "8.    B(P)R 41D – non-provision or deficiency of emergency vehicular access (EVA)\n\n   □ Details of the proposed EVA in accordance with PNAP APP-136.\n   ○ Justification by a fire safety assessment report in accordance with FS Code 2011\n   ○ Enhanced fire safety measures to compensate for the deficiency of the EVA\n\n\n2   The Building Authority recognises actual counting as a reliable way to establish the occupant capacity of a\n    building in accordance with Note 3 of Table B1 of the Code of Practice for Fire Safety in Buildings 2011\n    (FS Code 2011). Justifications for actual counting of occupants as well as details of effective management\n    measures to control the population of occupants should be submitted for consideration."
+    },
+    {
+      "id": "p9-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "9.     Building (Standards of Sanitary Fitments, Plumbing, Drainage Works and Latrines) Regulation 39 –\n       non-provision of gutters and rainwater down pipes to existing roofs\n\n   □ Rainwater from the existing roof will discharge to drainage system within the site\n   ○ Hardship in making such provisions and nuisance not created\n   ○ Supporting letter from the AMO from the heritage conservation point of view\n\n\n\nTable B: List of items required under regulations and the relevant codes"
+    },
+    {
+      "id": "p1-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "1.    B(C)R 9A and the Code of Practice for Building Works for Lifts and Escalators 2011 – deviation\n       from the requirements on dimensions of lift pit, lift machine room, lift well and lift car\n\n   ○ A letter from a registered lift contractor or a registered lift engineer confirming that:\n               -  The lifts and lift installations can be accommodated in the proposed lift wells and lift machine\n             rooms\n               -  The future maintenance, repair, major alterations, replacement, examination and testing of lifts\n             and lift installations can be carried out in the proposed lift wells and machine rooms safely and\n              without difficulty\n\n               -  The  lift installations are in full compliance with the Code of Practice on the Design and\n               Construction of Lifts and Escalators issued under the Lifts and Escalators (Safety) Ordinance\n              (Cap. 327)\n\n\n 2    B(C)R 90, B(P)Rs 41(1) & 41A and FS Code 2011 – existing required staircase of timber\n        construction\n\n   □ Compliance with the requirements and provision of compensatory measures in accordance with\n            Section 5.20 of the Practice Guidebook\n   ○ A management plan1 and a relevant undertaking letter from the owner\n   ○ Supporting letter from the AMO from the heritage conservation point of view\n   ○ Photos of existing staircases\n\n 3    B(C)R 90 and FS Code 2011 – retention of existing timber roof\n\n   □ Compliance with the requirements and provision of compensatory measures in accordance with\n            Section 5.22 of the Practice Guidebook\n   ○ A management plan1 and a relevant undertaking letter from the owner\n   ○ Supporting letter from the AMO from the heritage conservation point of view\n   ○ Photos of existing timber roof\n\n 4     B(P)R 41(1) and FS Code 2011 – existing required staircase less than 1050mm wide\n\n   □ Width of staircase not less than 860mm provided that at least one of the required staircases is FS\n         Code 2011 compliant when more than one exit staircase is required\n   □ Compliance with the requirements and provision of compensatory measures in accordance with\n            Section 5.13(b) of the Practice Guidebook\n   ○ A management plan1 giving details of effective management measures to control the population of\n           occupants2 together with a relevant undertaking letter from the owner\n   ○ Supporting letter from the AMO from the heritage conservation point of view\n   ○ Photos of existing staircases\n\n 5     B(P)Rs 39 & 41(1) and FS Code 2011 – existing required staircase with winder and its risers and\n        treads not complying with the requirements\n\n   □ Compliance with the requirements and provision of compensatory measures in accordance with\n            Section 5.14(b) of the Practice Guidebook\n   ○ A management plan1 and a relevant undertaking letter from the owner\n   ○ Supporting letter from the AMO from the heritage conservation point of view\n   ○ Photos of existing staircases"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "6     B(P)Rs 39 & 41(1) and FS Code 2011 – existing flight of a required staircase >16 but ≤18 risers\n\n   □ Compliance with the requirements and provision of compensatory measures in accordance with\n            Section 5.15 of the Practice Guidebook\n   ○ A management plan1 and a relevant undertaking letter from the owner\n   ○ Supporting letter from the AMO from the heritage conservation point of view\n   ○ Photos of existing staircases\n\n 7     B(P)R 41(1) and FS Code 2011 – existing required staircase serving upper floors continued directly\n        to basement for premises not used primarily by children or elderly\n\n   □ Compliance with the requirements and provision of compensatory measures in accordance with\n            Section 5.17(b) of the Practice Guidebook\n   ○ A management plan1 and a relevant undertaking letter from the owner\n   ○ Supporting letter from the AMO from the heritage conservation point of view\n   ○ Photos of existing staircases\n\n\n\n\n\n(1/2016)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "code": "APP-031",
+  "source_text": "indexed_text/PNAP/APP/APP-031.txt",
+  "source_pdf": "documents/PNAP/APP/APP-031.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-31\n\n                                      Practice Note for Authorized Persons\n  Buildings Department                                                   87                               and Registered Structural Engineers\n\n\n                Permanent Water Supply to Fire Service Installations\n                           Buildings Ordinance section 21(6)(d)\n\n           Where a permanent supply of water for a fire service installation in a building\nis required under the provisions of the Code of Practice (Minimum Fire Service Installations\nand Equipment), it is essential that a permanent connection is made prior to occupation of the\nbuilding."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 92
+        },
+        {
+          "label": "b",
+          "offset": 395
+        },
+        {
+          "label": "c",
+          "offset": 767
+        }
+      ],
+      "text": "2.           For the issue of an occupation permit, the following arrangements will apply :\n\n         (a)    Where water supply to a fire service installation is either not\n               required at all or has already been permanently connected, the\n               Fire Service   certificate required under Buildings Ordinance\n                section 21(6)(d) will be issued in the normal way;\n\n        (b)    Where a fire service installation is considered by the Director of\n               Fire Services to be satisfactory but a permanent water supply\n              connection has not been made, the Fire Service certificate will\n             be issued with a rider that  it shall be valid only when the\n             permanent water supply has been connected; and\n\n         (c)     In the case above, an occupation permit will not be issued until\n               the terms of any such rider have been fulfilled.\n\n\n\n\n\n                                                       (Helen C P Lai YU)\n                                                           Building Authority\n\nRef. : BD GP/BOP/6\n     BD GP/BORD/l0 II\n     BD GP/BREG/SF/4\n\nFirst issued July 1982\nThis revision May 1994 (AD/D)\n\nIndex under : BO s21(6)(d) - Permanent Water Supply to Fire Service Installations\n               Fire Service Installations - Permanent Water Supply\n              Occupation Permits - Permanent Water Supply\n             Water Supply - Fire Service Installations"
+    }
+  ]
+}

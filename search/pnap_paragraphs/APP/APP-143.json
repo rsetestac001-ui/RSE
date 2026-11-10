@@ -1,0 +1,397 @@
+{
+  "code": "APP-143",
+  "source_text": "indexed_text/PNAP/APP/APP-143.txt",
+  "source_pdf": "documents/PNAP/APP/APP-143.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-143\n                          Registered Geotechnical Engineers\n\n\n       Quality Control and Supervision of Precast Concrete Construction\n\nIntroduction\n\n          The use of precast concrete is common in private building developments in\nHong Kong. To ensure that the precast concrete elements are of good quality, proper\nsupervision and adequate quality control (QC) should be provided during the production,\nerection and inspection of the precast concrete elements. This practice note sets out the\nrequirements on quality assurance (QA), qualified supervision and quality audit for key\nprecast concrete elements produced  in the precasting  factory.  The requirements\nstipulated in this practice note do not apply to minor elements such as non-structural\nprecast concrete blocks, architectural features and planters.\n\nDuties of the Authorized Person (AP), Registered Structural Engineer (RSE) and\nRegistered Contractor (RC)"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        AP, RSE and RC have the responsibilities under the Buildings Ordinance\n(BO) to ensure that the precast concrete works comply with the provisions and standards\nof the BO and the approved plans.  In accordance with section 4(3)(a) of the BO and\nregulation 37 of the Building (Administration) Regulations (B(A)R), periodic supervision\nshould be provided by the AP and RSE for the carrying out of the precast concrete works,\nwhereas the RC should provide continuous supervision as required under section 9(5)(a)\nand 9(6)(a) of the BO and regulation 41 of the B(A)R for the carrying out of such works."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         Reference should be made to the recommendations and guidelines given in\nthe Code of Practice for Precast Concrete Construction 2016 (Precast Concrete Code) on\nthe design, construction and QC of precast concrete works.\n\nQuality Assurance"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 99
+        },
+        {
+          "label": "b",
+          "offset": 274
+        }
+      ],
+      "text": "4.        The  following  conditions/requirements  will be imposed when  giving\napproval of plans:\n\n      (a)    Under item 6 of section 17(1) of the BO, precast concrete elements\n           should be manufactured by a factory with ISO 9001 QA certification;\n           and\n\n     (b)   Under regulation 10 of the B(A)R, a copy of the Quality Assurance\n          Scheme (QAS) of the manufacturer should be submitted at least 14\n           days before the commencement of the production works in the\n            precasting factory. The RSE should provide a written confirmation\n              that the submitted QAS has adequate provisions in ensuring the quality\n            of the precast concrete elements in compliance with the provisions of\n            the BO and the approved plans.\n\n                                                                                                 /5. …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 ­"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 52
+        },
+        {
+          "label": "b",
+          "offset": 88
+        },
+        {
+          "label": "c",
+          "offset": 151
+        },
+        {
+          "label": "d",
+          "offset": 231
+        },
+        {
+          "label": "e",
+          "offset": 264
+        },
+        {
+          "label": "f",
+          "offset": 315
+        },
+        {
+          "label": "g",
+          "offset": 426
+        }
+      ],
+      "text": "5.        The QAS should cover the following items:\n\n      (a)   QC tests of materials;\n\n     (b)    Calibration of laboratory equipment for QC tests;\n\n      (c)    Efficiency and proper operation of equipment at the casting yard;\n\n     (d)    Production process;\n\n      (e)    Testing procedures and requirements;\n\n      (f)    Frequency and extent of inspection by in-house staff and independent\n              parties1; and\n\n     (g)    Frequency and extent of audit check by in-house staff and independent\n              parties.\n\nQualified Supervision"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 99
+        },
+        {
+          "label": "b",
+          "offset": 311
+        },
+        {
+          "label": "c",
+          "offset": 623
+        }
+      ],
+      "text": "6.        The  following  conditions/requirements  will be imposed when  giving\napproval of plans:\n\n      (a)    Under item 6 in section 17(1) of the BO, qualified supervision should\n           be provided by the RSE and RC for the fabrication, erection and\n           examination of precast concrete elements;\n\n     (b)    Under regulation 10 of the B(A)R, a Precast Concrete Supervision\n            Plan2 should be submitted at least 14 days before the commencement\n            of the production works in the precasting factory.  The required\n             qualified supervision should cover paragraphs 6(c) to (e) below;\n\n      (c)    The RSE should assign a quality control supervisor (QCS) to supervise\n            the precast concrete production works in the precasting factory in\n           accordance with the requirements for  in-situ reinforced concrete\n          works stipulated in the PNAP APP-158. The RSE should determine\n            the necessary frequency of the QCS’s supervision, which should be no\n              less than once a week. The minimum qualifications and experience of\n            the QCS should be the same as grade T3 technically competent person\n          (TCP) under the RSE’s stream, as stipulated in the Code of Practice\n             for Site Supervision 2009 (2021 Edition) (Supervision Code);\n\n\n                                                                                                /(d). …\n\n1 “Independent parties” refer to parties not under the direct employment of the precasting factory\n     (i.e. either a certification body under the Hong Kong Certification Body Accreditation Scheme\n   of the Hong Kong Accreditation Service (HKAS) or an inspection body under HKAS’s Hong\n   Kong Inspection Body Accreditation Scheme).\n2  The Precast Concrete Supervision Plan should contain the names, qualifications, identification,\n   inspection frequency, confirmation of appointment and contact information of the quality\n   control supervisor and quality control co-ordinator assigned by the RSE and RC under\n   paragraphs 6(c) and 6(d) respectively."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 ­\n\n     (d)   The RC should assign a quality control co-ordinator (QCC) to provide\n            continuous supervision of the precast concrete production works in the\n            precasting factory. The minimum qualifications and experience of the\n       QCC should be the same as grade T1 TCP under the RC’s stream, as\n             stipulated in the Supervision Code; and\n\n      (e)    The names and qualifications of the QCS and QCC assigned by the\n        RSE and RC respectively should be recorded in their respective\n            inspection log books.  The details of precast concrete production,\n             inspection, auditing and testing should be recorded in the log books by\n            the QCS and QCC. The log books should be kept in the precasting\n             factory, a copy of which should be kept at the building site office and,\n         when required, produced to officers of the Buildings Department (BD)\n             for inspection.\n\nQuality Audit"
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "7.        The RSE and the authorized signatory (AS) of the RC should visit the\nprecasting factory in person to inspect the first batch of the precast concrete production3\n(the first visit) and subsequently carry out quality audit checks to the precasting factory\nat least once every month. The quality audit checks should comprise inspections at the\nfactory in person at quarterly intervals while the monthly quality audit checks in between\nthe first visit and quarterly quality audit checks (i.e. in the 2nd, 3rd, 5th, 6th months, and\nso on) may be carried out either by visiting the precasting factory in person or by\nvideotelephony4. Under regulation 10 of the B(A)R, a requirement will be imposed, when\ngiving approval of plans, that a copy of the RSE’s quality audit reports of the precasting\nfactory and a copy of the AS’s quality audit reports of the precasting factory duly\nendorsed by the RSE and AS respectively should be submitted to BD within 14 days after\ncompletion of the quality audit checks5 for record purpose. The quality audit reports by\nthe RSE and AS should respectively cover the qualified supervision by the QCS and\nQCC. Minimum requirements of the quality audit checks are detailed in Appendix A."
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 132
+        },
+        {
+          "label": "b",
+          "offset": 287
+        }
+      ],
+      "text": "8.          Quality audit checks conducted by the RSE and/or AS using videotelephony\nshould comply with the following requirements:\n\n      (a)    The inspection by the RSE and AS should be conducted with the\n             assistance of QCS and QCC respectively in the precasting factory;\n\n     (b)   The level of supervision by videotelephony should not be inferior to\n              that carried out personally at the precasting factory.  In addition, all\n            supervision items covered in the videos taken should be recorded\n           contemporaneously in the quality audit reports of the RSE and AS, and\n\n                                                                          /should …\n\n3  The purpose of the first visit to the factory is to verify that the QAS and QA/QC procedures\n   are duly followed and the production line is functioning properly. The inspection of the first\n   batch of the precast concrete production should cover items specified in clauses 3.1 to 3.14\n   and 4.1 of the Precast Concrete Code.\n4  Videotelephony means two-way simultaneous communication with both audio and video in\n    real time through telephone or computer network connection. The video should be recorded\n    in colour with resolution of not less than 480p in a non-rewritable DVD-ROM.\n5  Including the first visit and each subsequent quality audit check."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 ­\n\n           should be submitted to BD together with the DVD-ROM discs as\n            required in paragraph 8(c) below; and\n\n      (c)   The RSE and AS should submit the quality audit reports with the non-\n             rewritable DVD-ROM discs of the videos to BD within 14 days after\n           completion of the quality audit checks by videotelephony.  They\n           should certify on each disc with a permanent marker signifying that\n            they personally used videotelephony for compliance with the approval\n             conditions.\n\nAlternative Arrangement for Quality Audit Checks at Precasting Factory"
+    },
+    {
+      "id": "p9-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "9.        As an alternative to the requirement for the RSE’s monthly quality audit\nchecks at the precasting factory under paragraph 7 above, the RSE may consider to carry\nout the first visit to the precasting factory in person, then conduct on-site quality audit\nchecks after the precast concrete elements are delivered to the building site.  In such a\nsituation, the RSE is required to submit one-month prior written notification to the\nBuilding Authority (BA) for the adoption of this alternative arrangement.  The RSE\nshould, in addition to the submission of quality audit report within 14 days of the first\nvisit, submit quality audit reports of the precast concrete elements delivered to the\nbuilding site to BD within 14 days after completion of the on-site quality audit checks.\nThe quality audit reports should cover the qualified supervision by the QCS. Minimum\nrequirements of the on-site quality audit checks by the RSE are detailed in Appendix B.\n\nFlow Chart and Standard Form of Supervision Plan"
+    },
+    {
+      "id": "p10-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "10.     A flow chart showing the quality audits provided by the RSE and AS is at\nAppendix C. A standard form of supervision plan together with a list of typical items for\nquality supervision of precast concrete works and a sample of the inspection record are\nprovided in Appendix D for reference.\n\nSeparate RSE"
+    },
+    {
+      "id": "p11-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "11.        For precast concrete elements not affecting the stability of the parent\nstructure, such as precast concrete façade or staircase, a separate RSE may be appointed\nto prepare the design and to supervise the production and erection of such precast concrete\nelements. In such situation, the specified Forms BA4 and BA5 notifying the appointment\nof a separate RSE and the scope of works for which he/she is responsible are required to\nbe submitted together with the plans for approval. The project RSE should also notify\nthe BA in writing that he/she is fully aware of the appointment of a separate RSE and the\ndemarcation of responsibilities. Upon completion of the precast concrete construction\nworks, the separate RSE so appointed is required to certify the satisfactory completion of\nthe works in accordance with regulation 25(3) of the B(A)R."
+    },
+    {
+      "id": "p12-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "12.       The separate RSE’s submission should be accompanied by an assessment\nreport prepared by him/her giving an account of the effect of the proposed precast\nconcrete works on the parent structure. The assessment report should be appended with\na statement of the project RSE to confirm that he/she is fully aware of the connection\ndetails and their effects on the parent structure.\n\n\n                                                                                     /13. …"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 5 ­"
+    },
+    {
+      "id": "p13-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "13.       The separate RSE should be responsible for the supervision of the production\nand erection of the precast concrete elements, including the connection between the\nprecast concrete elements and the parent structure, i.e. ties, anchor plates, cast-in embeds\netc., except in the event where such associated works have been installed in the parent\nstructure prior to his/her appointment. For such cases, the structural details and layout of\nthe pre-installed parts should be given in the superstructure plans submitted for approval\nby the project RSE who should then be responsible for the supervision of the installation\nof such parts. The separate RSE should refer to the pre-installed connection details when\ndesigning the precast concrete elements and should co-ordinate with the project RSE for\nany necessary amendment if different connection details are to be used."
+    },
+    {
+      "id": "p14-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "14.       The separate RSE should ensure that the conditions and requirements of the\nQA, qualified supervision and quality audit as stipulated in paragraphs 4 to 9 above\nrespectively are complied with. He/she should also be responsible for the submission of\nthe documents required in paragraphs 4 to 9 above."
+    },
+    {
+      "id": "p15-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "15.     A similar practice note is issued to registered contractors.\n\n\n\n\n\n                                                           ( YU Po-mei, Clarice )\n                                               Building Authority\n\n\nRef. : BD GR/1-125/54\n\nThis PNAP is previously known as PNAP 299\nFirst issue    August 2006\nLast revision  July 2012\nThis revision  April 2022 (AD/NB2) (General revision)"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix A\n                                                  (PNAP APP-143)\n\n\n            Minimum Requirements of Quality Audit Checks\n                        at Precasting Factory by RSE and AS\n\n\n        The quality audit checks carried out by the RSE and the AS at the precasting\nfactory should include the following works items:\n\n   Works Item                            Scope\n 1  Formworks    •   Smoothness, cleanliness and dimensions of steel mould\n\n               •   Application of mould releasing agents\n\n 2  Steel        •    Size, pattern, fixing and layout of the steel reinforcing bars\n     reinforcing\n     bars         •   Spacers\n\n               •   Concrete covers\n\n               •   Material testing reports\n\n 3  Concrete      •   Placing and compaction\n\n               •   Curing\n\n               •   Material testing reports\n\n 4  Finished      •   Concrete surface and defects\n     products\n               •    Sizes, dimensions and fabrication tolerances\n\n               •    Starter steel reinforcing bars\n\n 5  Inspection     •   Log book of QCS for audit check by RSE\n     records\n               •   Log book of QCC for audit check by AS\n\n 6  Others       •  Any other items considered essential by the RSE/AS for the\n                           project\n\n\n\n\n\n(Rev. 4/2022)"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Appendix B\n                                                  (PNAP APP-143)\n\n\n          Minimum Requirements of RSE’s Quality Audit Checks\n               of Precast Concrete Elements delivered to Building Site\n\n\n        The quality audit checks on the precast concrete elements delivered to a building\nsite carried out by the RSE as an alternative to the quality audit checks on precast concrete\nelements at the precasting factory as specified in Appendix A should comply with the\nrequirements in paragraph 2 below."
+    },
+    {
+      "id": "p2-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "2.      The rate of sampling for the quality audit checks should be at least 1% of the\nprecast concrete elements with a minimum of one per every 20 batches1 of delivery to the\nbuilding site. The quality audit check for each sample of the precast concrete element\nshould include the following works items:\n\n   Works Item                            Scope\n 1  Steel        •   Opening-up of the concrete surface at three locations, each\n     reinforcing          with an area of 100mm x 300mm, to check the size, pattern and\n     bars                 layout of the steel reinforcing bars; and the concrete covers\n\n                •   Measurement of the concrete cover to steel reinforcing bars by\n                        covermeter at six locations, each with six readings taken in an\n                          area of 450mm x 450mm\n\n                •   Material testing reports\n\n 2  Concrete      •   Concrete  strength by  non-destructive  test  (e.g.  rebound\n                    hammer test) at three locations\n\n                •   Material testing reports\n\n 3  Finished      •   Concrete surface and defects\n     products\n                •    Sizes, dimensions and fabrication tolerances\n\n                •    Starter steel reinforcing bars\n\n 4  Inspection     •   Log book of QCS for audit check by RSE\n     records\n 5  Others       •  Any other items considered essential by the RSE for the project\n\n\n\n(Rev. 4/2022)\n\n\n1  A batch means the same type of precast concrete elements such as precast façade, precast beams, precast\n   columns and precast bearing walls delivered to the site on the same day."
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Appendix C\n                                                         (PNAP APP-143)\n\n                         Flow Chart for Quality Audits by RSE and AS\n\n                                               Submission of QAS and\n                                                Precast Concrete Supervision Plan\n                                                                 (at least 14 days before commencement of the\n                                                        production works in the precasting factory)\n\n\n\n                           RSE and AS conduct first visit to factory in person to\n                                       inspect the first batch of precast concrete production and\n                                         submit quality audit report within 14 days\n\n\n\n\n                                                      Audit results           No\n                                                               satisfactory?\n\n                                                                                                              Irregularities\n                                                                                       found rectified\n                                                     Yes\n\n\n\n                   AS                                            RSE\n                             Commencement of mass production of acceptable items\n\n\n\n                                                                  RSE conducts\n                                                 No                  subsequent monthly\n                                                                                                      quality audit\n                                                                                            checks?\n\nAS conducts:                       RSE submits one month prior                                                                                     Yes(a)  Quality audit checks in person at            notification to BA for adoption of\n    quarterly intervals;                          alternative arrangement\n(b) Other monthly quality audit checks                                  RSE conducts:\n     in person or via videotelephony; and                                                                                                  (a)  Quality audit checks in person(c) Submit quality audit report within 14                                                                                                          at quarterly intervals;    days after completion of each quality\n     audit check                     RSE conducts quality audit checks        (b) Other monthly quality audit\n                                       on precast concrete elements                checks in person or via\n                                               delivered to building site and submit          videotelephony; and\n                                                 quality audit report within 14 days         (c) Submit quality audit report\n                                                     after completion of each quality              within 14 days after completion\n                                                                                           of each quality audit check                                                 audit check\n\n\n\n\n\n                                          End of production of\n                                                     precast concrete elements\n\n       (4/2022)"
+    },
+    {
+      "id": "page-9-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Appendix D\n                                                      (PNAP APP-143)\n\n\n                          Precast Concrete Supervision Plan\n\nTo the Building Authority,\n\n                In accordance with the conditions of approval imposed in your  letter of\n                                                         , we submit this supervision plan for the precast concrete\nproduction works for the development at (address of site)\n                                         on (Lot No.)                                                   ."
+    },
+    {
+      "id": "p2-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        We undertake that the supervision of the precast concrete production works will\nbe carried out in accordance with this supervision plan, PNAP APP-143 and the Code of Practice\nfor Precast Concrete Construction 2016 (Code). We also undertake that the management and\nexecution of quality supervision of the works covered by this supervision plan will be carried out\nin the manner prescribed by the provisions of the Buildings Ordinance and Regulations."
+    },
+    {
+      "id": "p3-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The quality control supervisor (QCS) and quality control co-ordinator (QCC)\nassigned by the registered  structural engineer (RSE) and the registered contractor (RC)\nrespectively to supervise the above precast concrete production works are :\n\n                                                                 I.D. No.^ /      Frequency of           Name in English^   Name in Chinese^\n                                         TCP No.**         Quality\n                                                                          Supervision\n                                                                Weekly\n  QCS@     Signature for confirmation of\n             appointment under RSE’s stream*:       _______________________________\n\n                                                                                  Full time\n  QCC@    Signature for confirmation of\n             appointment under RC’s stream*:        _______________________________\n\nThe contact information and CVs showing their relevant experience and academic qualifications are\nattached at the Annexes.  If more than one supervisor/co-ordinator is proposed for a QCS/QCC post, the\ndemarcation of their responsibility should be provided.\n\n^    In accordance with the Hong Kong Identity Card\n** CV is not required if TCP No. is provided\n@  The minimum qualifications and experience of the QCS and QCC should fulfill the requirements\n     specified in paragraph 6 of PNAP APP-143\n*   Signature of QCS/QCC for the confirmation of appointment under RSE’s/RC’s stream indicates that\n     the QCS/QCC has read, understood and agreed with the notes on “Personal Data” of this supervision\n     plan.\n\n\n\n\n                                                                                                                   /4. …\n\n                                                                   - 1 –"
+    },
+    {
+      "id": "p4-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          The quality supervision shall cover the items of works to be inspected at different\nstages as devised in Annex 1. The record of quality supervision in Annex 2 will be completed\ncontemporaneously by the QCS/QCC with a copy of these documents to be kept on site for\ninspection by representatives of the Buildings Department.\n\n\nPrepared by:\n\nSignature    _____________________________  Signature    _______________________\nName of RSE _____________________________ Name of AS  _______________________\nDate        _____________________________ RC         _______________________\n                                             Date        _______________________\nEnclosure :    Annexes\n\n\nPersonal Data\n\nPurposes of Collection"
+    },
+    {
+      "id": "p1-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 143
+        },
+        {
+          "label": "b",
+          "offset": 207
+        },
+        {
+          "label": "c",
+          "offset": 278
+        }
+      ],
+      "text": "1.           The personal data provided by means of this supervision plan will be used by the\nBuildings Department for the following purposes:\n\n          (a)    activities relating to this supervision plan;\n\n          (b)    activities relating to the above building works; and\n\n          (c)    facilitating communication between the Buildings Department and yourself."
+    },
+    {
+      "id": "p2-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "2.                   It is obligatory for you to provide the information as required in the supervision plan.  If\nyou fail to provide the required data, delay may be caused in processing or even result in rejection of the\nsubmission.\n\nClasses of Transferees"
+    },
+    {
+      "id": "p3-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           The personal data you provided by means of this supervision plan may be disclosed to\nother government departments, bureaux, organisations or any persons for the purposes mentioned in\nparagraph 1 above.\n\nAccess to Personal Data"
+    },
+    {
+      "id": "p4-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          You have the right of access and correction with respect to the personal data as provided\nunder the Personal Data (Privacy) Ordinance.  The Buildings Department has the right to charge a\nreasonable fee for the processing of any data access request.  Request for personal data access and\ncorrection should be addressed to the New Buildings Division 2 of the Buildings Department.\n\n\n\n\n\n(4/2022)\n\n                                                                   - 2 -"
+    },
+    {
+      "id": "page-11",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        11
+      ],
+      "text": "Annex 1 of Appendix D\n                                                      (PNAP APP-143)\n\n\n          Items of Works for Quality Supervision of Precast Concrete Works\n\n         Items of precast concrete works required for quality supervision to be carried out by\nthe QCS / QCC are given in the tables below for reference. The heads of the project management\nstructure shall communicate with other streams to derive checklists of various works, determine\nappropriate inspection frequencies and individual items of works to suit the needs of individual\nproject.\n\n                                                                 Stream Item           Stage/Item                      Description  No.                                                   RSE  RC\n\n (a)      Essential Construction Materials\n\n PC1     Quality of steel       Check material delivery records and batch size; sampling and   \n          reinforcing bars         testing of  steel  reinforcing bars  in accordance with the\n                                  applicable version of CS2.\n PC2     Quality of           Check material delivery records; sampling of concrete/grout   \n          concrete/grout         and compression testing and statistics of concrete/grout test\n                               cubes in accordance with the applicable version of CS1.\n\n (b)     Production of Precast Concrete Elements\n\n PC3     Condition of moulds   Check the overall dimension, squareness of corners and edges, #  #                                  condition of side and base of mould, cleanliness, application\n                                  of mould releasing agents and records of periodic full re-\n                               checking of moulds for dimensional tolerance compliance and\n                                   regular maintenance.\n PC4     Fixing of steel        Check the sizes, location and amount of steel reinforcing bars   \n          reinforcing bars       and their fixing details including concrete cover and starter\n                                  bars details and the workmanship in accordance with PNAP\n                          ADV-15.\n PC5     Cast-in items         Check the location, layout and types of cast-in items including #  #                                        starter  bars, dowels and  connections,  lifting  inserts and\n                          window frames with  fixing  lugs,  etc and  their  support,\n                                  provision of finishes and fixing of recesses, sleeves and\n                                 boxouts.\n PC6     Placing, compaction   Check the quality and workmanship of concrete works, proper #  #         and curing of concrete  sequence of works, concreting method and curing method are\n                                  used.\n PC7    Demoulding and initial Check the concrete achieved  sufficient strength  prior  to #  #          handling            commence the demoulding process and initial handling\n\n\n\n\n\n                                                                   - 1 -"
+    },
+    {
+      "id": "page-12",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        12
+      ],
+      "text": "Stream Item           Stage/Item                      Description  No.                                                   RSE  RC\n\n (c)      Inspection and Testing of Finished Products\n PC8     Concrete condition     Check  the  quality  of  concrete  after demoulding which #  #                                  includes size and shape of the products, location of cast-in\n                                 items and  construction  joints,  surfaces  finishes,  defects\n                                     identified and associated repair works, etc.\n PC9     Storage of finished     Check the condition of storage area and stacking method   #  #          products\n\n PC10    Special testing of      Check watertightness (e.g. by water penetration  test), the @ @          finished products       performance of tiled finishes (e.g. pull off test).\n PC11    In-situ concrete       Check in-situ concrete strength (e.g. by concrete coring test or   \n          strength              rebound hammer test).\n\n PCn    Any other items considered essential for quality supervision of the precast concrete                                                                                               as appropriate         works\n\nLegend:\n#   The quality supervision requirements are detailed in clauses 3.2 to 3.14 of the Code.\n@   The special testing is detailed in clause 4.3 of the Code.\n\n\n\n\n\n(4/2022)\n\n                                                                   - 2 -"
+    },
+    {
+      "id": "page-13",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        13
+      ],
+      "text": "Annex 2 of Appendix D\n                                                    (PNAP APP-143)\n\n                  Record of Quality Supervision Carried Out by\n                    QCS under RSE Stream\n\nBD Ref.:                BD 3/1234/22\nBuilding Project:           ABC Centre\nType of Works:                 Precast Concrete Works\nName of QCS(1):            Mr LEE Tai-man\nFrequency of Inspection:       Weekly\n\n    Date                                            07/05/2022 (Wed)\n                  Locations of the precast concrete                                                                    Inspection Findings                             elements\n                                                                                                  Photos Item                                                         Result                                                          (if any)\n  No.(2)                   (Product ID)               (S(3)/NS(4)/NA(5))        Remedial / Remark\n\n    PC1                               -               NA                                -\n                     Batch no. 10, delivered on    PC2                                       S                                 -                            07/05/2022\n\n    PC3     Zone A of 4/F (ABC-ZA-04-T1-004)        S                                 -\n\n    PC4     Zone B of 2/F (ABC-ZB-02-T5-002)        S                                 -\n\n    PC5     Zone C of 2/F (ABC-ZC-02-T1-002)      NS          Insufficient concrete cover            1-2\n\n    PC6     Zone A of 2/F (ABC-ZA-02-T5-002)        S\n\n    PC7     Zone A of 2/F (ABC-ZA-02-T4-002)        S\n\n    PC8     Zone A of 2/F (ABC-ZA-03-T2-002)        S\n\n    PC9     Zone A of 2/F (ABC-ZA-03-T1-002)        S\n    PC10                             -               NA                                -\n    PC11                             -               NA                                -\n  Signature\n\nNote (1)   :   Full name of the QCS as provided in the supervision plan.\nNote (2)  :   According to the checklists devised by the RSE and AS of the RC.\nNote (3)  :   “S” denotes “Satisfactory”.\n                If a non-conformity is very minor in nature and has been rectified to the satisfaction of the\n        QCS at the same inspection, it would be recorded as “satisfactory”.\nNote (4)  :  “NS” denotes “Not Satisfactory”.\n                  It should be recorded in the log book of QCS and where applicable, Form B in Appendix\n                III of the Code of Practice for Site Supervision 2009 (2021 Edition).\n           Completion of Form B is Required for a non-conformity that (a) has material concern for\n              safety; or (b) does not have material concern for safety but the works item/rectification\n           works cannot be verified due to the areas have been covered up during inspection or re-\n             inspection.\n Note (5) :  “NA” denotes “Not Applicable”.\n\n (4/2022)"
+    }
+  ]
+}

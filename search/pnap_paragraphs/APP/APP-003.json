@@ -1,0 +1,94 @@
+{
+  "code": "APP-003",
+  "source_text": "indexed_text/PNAP/APP/APP-003.txt",
+  "source_pdf": "documents/PNAP/APP/APP-003.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorised Persons,\n Buildings Department       Registered Structural Engineers and     APP-3\n                             Registered Geotechnical Engineers\n\n                    Nomination of an Authorized Person,\n        Registered Structural Engineer or Registered Geotechnical Engineer\n                                    to act in stead\n\n          When an authorized person (AP), registered structural engineer (RSE) or\nregistered geotechnical engineer (RGE), who has been appointed in respect of building\nworks,  street works or minor works,  is incapacitated by  illness or proposes to be\ntemporarily absent from Hong Kong, a temporary replacement should be nominated by\nsubmission of the specified form, i.e. Form BA 21 or Form MW09, within 7 days.\nSections 4(2) and 4A(5) of the Buildings Ordinance, Regulation 23(2) of the Building\n(Administration) Regulations and section 49 of the Building (Minor Works) Regulation\nrefer."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 278
+        },
+        {
+          "label": "b",
+          "offset": 503
+        },
+        {
+          "label": "c",
+          "offset": 876
+        },
+        {
+          "label": "d",
+          "offset": 1100
+        },
+        {
+          "label": "e",
+          "offset": 1449
+        },
+        {
+          "label": "f",
+          "offset": 1573
+        }
+      ],
+      "text": "2.           While an AP, RSE or RGE may be appointed in respect of more than one\nactive project [i.e. with works in progress and/or applications currently or about to be\nlodged with the Buildings Department (BD)], the AP, RSE or RGE nominating a\ntemporary replacement should -\n\n        (a)    complete and submit one Form BA 21 for all active building works\n              or street works projects as defined above, a list of which is to be\n              given in the Form to be submitted in duplicate;\n\n        (b)     in the case of a RSE or a RGE appointed in respect of more than\n             one building works or street works project under different APs,\n              submit one Form BA 21 for all active projects under each AP. A\n                     list of the respective projects is to be given in the Form which\n              should be signed by the AP concerned;\n\n        (c)     in  case  of  class   I  minor  works,  the  prescribed  building\n               professionals (i.e. AP, RSE or RGE) shall complete and submit\n             one Form MW09 for all active minor works projects;\n\n        (d)     advise the nominee that if it is necessary for him to communicate\n              with the BD in respect of any of the listed active projects he should\n            on every such occasion make brief reference to the fact that he\n             does so under the authority of an earlier submission of Form BA\n            21 or Form MW09;\n\n        (e)     advise  the nominee  that he  cannot  further nominate  another\n           AP/RSE/RGE to act in his stead;\n\n         (f)     advise the BD by  letter within 7 days  that the arrangements\n              covered by Form BA 21 have ceased if he recovers from illness,\n              or return from overseas before the expiry date of the temporary\n              replacement given in the Form; and\n                                                                                      /(g).   ...."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n        (g)     in case of class I minor works, the nominee should notify the BD\n            by the standard form MW31 within 7 days  after the date of\n               cessation of the nomination.  Section 50 of the Building (Minor\n            Works) Regulation refers."
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 187
+        }
+      ],
+      "text": "3.          Under  sections  4(2)  and  4A(5)  of  the  Buildings  Ordinance,  an\nAP/RSE/RGE may nominate another AP/RSE/RGE to act in his stead ONLY under\nthe following circumstances :-\n\n         (i)     the period must be temporary; AND\n          (ii)    he is unable to act by reason of his illness or absence from Hong\n            Kong."
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         To avoid ambiguity and abuse of the Buildings Ordinance, the Building\nAuthority (BA) considers that an acting period exceeding 3 months or at frequent\nintervals  is not temporary and such nomination may not be accepted by the BA.\nUnder  such  circumstances,  the  owner  may  be  advised  to  appoint  another\nAP/RSE/RGE."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.         Upon receipt of the Form BA 21 or Form MW09, the BD will formally\nacknowledge  it with a copy to the owner or the person who arranged for the minor\nworks to be carried out informing him the period and reason of acting.\n\n\n\n\n\n                                        (AU Choi-kai )\n                                                       Building Authority\n\n\n\nRef : BD GR/CC/21\n    BD GP/BORD/75\n\nThis PNAP is previously known as PNAP 14\nFirst issue   December 1974\nLast revision December 2005\nThis revision December 2010 (AD/Sup) – General revisions, paras. 2(c) and 2(g) added"
+    }
+  ]
+}

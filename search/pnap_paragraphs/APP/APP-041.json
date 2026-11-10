@@ -1,0 +1,1643 @@
+{
+  "code": "APP-041",
+  "source_text": "indexed_text/PNAP/APP/APP-041.txt",
+  "source_pdf": "documents/PNAP/APP/APP-041.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-41\n                          Registered Geotechnical Engineers\n\n\n           Buildings to be Planned for Use by Persons with a Disability\n               Regulation 72 of Building (Planning) Regulations\n                  Design Manual: Barrier Free Access 2008\n\n\n              Pursuant  to  section 84  of  the  Disability Discrimination Ordinance\n(Cap. 487), the Building Authority (BA), as a public authority which has the power to\napprove building works shall not, in respect of those works, approve plans, whether for a\nnew building or for the alterations or additions to an existing building unless the person\nseeking approval satisfies the BA that such access as is reasonable in the circumstances\nto the building or premises will be provided for persons with a disability. The Building\n(Planning) Regulations (B(P)R) also require certain categories of buildings to be planned\nfor use by persons with a disability. Access and facilities for persons with a disability\n(collectively referred to as “barrier free access”) shall be incorporated in a building at the\ndesign stage of the project, to comply with the legislation.\n\nRelevant Building Regulations"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The regulations stipulating requirements for buildings to be planned for\nuse  by  persons  with  a  disability  include  regulation  8(1)(m)  of  the  Building\n(Administration) Regulations (B(A)R), regulations 2(1), 39(3)(e) and 72 and the Third\nSchedule of the B(P)R and regulation 61(3) of the Building (Standards of Sanitary\nFitments, Plumbing, Drainage Works and Latrines) Regulations."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            Regulation 72 of the B(P)R and the Third Schedule thereto set out the\nstatutory requirements for barrier free access in private buildings. The B(P)R are\nsupplemented by the Design Manual: Barrier Free Access 2008 (Design Manual 2008)\nwhich has incorporated the statutory design requirements as well as recommendations for\nbest practice to improve the barrier free access."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.             Part 4 of the Third Schedule to the B(P)R identifies those categories of\nbuildings (including domestic, non-domestic and composite buildings) where limited\nbarrier free access are to be provided under regulation 72 of the B(P)R. Save for those\nbuildings which are exempted under regulation 72(4) of the B(P)R, all other buildings not\nincluded in Part 4 of the Third Schedule are required to comply fully with the regulations.\n\nExemption from or Modification of Regulation 72 of B(P)R"
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.             In an application for approval of plans for a new building or for the\nalterations or additions to an existing building, barrier free access should be clearly shown\non the submitted plans in accordance with regulation 8(1)(m) of the B(A)R.\n\n\n\n                                                                                                 /6. ..."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           There are occasions where proposals for building development cannot\nmeet the full requirements for barrier free access stipulated in the regulations. Exemption\nfrom or modification of the regulations will be considered by the BA on individual merits\nof each case.  The BA is prepared to consider applications to vary the requirements\nprovided that the BA is satisfied that special circumstances exist. Examples of special\ncircumstances include the physical location and immediate environs of a development\nsite render compliance with the legislation impracticable or where such provisions would\nimpose unjustifiable hardship on the applicant or any other person. The circumstances\nunder which the BA may consider such applications are outlined in Appendix A.\n\nAlteration and Addition Submissions"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          Where alteration and addition works are proposed to an existing building\nwithout initial access for persons with a disability, all practical measures should be taken\nto provide suitable barrier free access. Applications for exemption citing the prevailing\nspecial circumstances would be considered on a case by case basis.\n\nAdvisory Committee on Barrier Free Access"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.             In considering applications for exemption from or modification of the\nregulations, the BA has established an advisory committee namely Advisory Committee\non Barrier Free Access (ACBFA) to provide a forum for the deliberation and discussion\nof the proposals. The BA will take into account the advice given by the ACBFA in\nmaking decisions on the applications. The terms of reference and membership of the\nACBFA are at Appendix B.\n\nAmendments to Design Manual 2008"
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 483
+        },
+        {
+          "label": "b",
+          "offset": 528
+        },
+        {
+          "label": "c",
+          "offset": 572
+        },
+        {
+          "label": "d",
+          "offset": 614
+        },
+        {
+          "label": "e",
+          "offset": 653
+        },
+        {
+          "label": "f",
+          "offset": 697
+        },
+        {
+          "label": "g",
+          "offset": 747
+        }
+      ],
+      "text": "9.          The Buildings Department (BD) has set up a Technical Committee (TC)\nto, among others, collect and consider the views and feedback from the building sector,\nrehabilitation sector and relevant stakeholder organisations arising from their practical\nexperience in the use of the Design Manual 2008. Taking into account the advice of the\nTC, the following amendments to the Design Manual 2008 have been promulgated and\nincorporated into the Design Manual 2008 (2024 Edition):\n\n          (a)   Appendix C – November 2012;\n\n         (b)  Appendix D – September 2015;\n\n          (c)   Appendix E – April 2017;\n\n         (d)  Appendix F – June 2019;\n\n          (e)   Appendix G – October 2020;\n\n           (f)   Appendix H – December 2021; and\n\n         (g)  Appendix I – May 2024.\n\n\n                                                                                     /10. …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.         To further encourage ageing in place, the Government formed a Task\nForce on Promoting Elderly-friendly Building Design (Task Force) led by the Deputy\nFinancial Secretary in 2024 and a series of design requirements have been formulated for\napplication.  After consultation with the relevant stakeholders, the design requirements\nwill be implemented in two stages, first administratively by updating the relevant practice\nnotes and Design Manual 2008 (2024 Edition), and followed by amending the B(P)R to\nstipulate the mandatory requirements."
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.          Forming part of the series of design requirements formulated by the Task\nForce, Chapter 6 of the Design Manual 2008 (2024 Edition) has been amended at\nAppendix J which provides recommended design requirements to promote active ageing\nby enabling the elderly to achieve autonomy and independence without the help of others\nand promote their well-being, in particular social interaction among elderly and between\nelderly and other groups. The recommended design requirements will also help to create\nbuilding design that is beneficial and usable for all people.  Authorized persons are\ntherefore encouraged to recommend to their clients to incorporate the design features in\ntheir developments."
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.           All the amendments in paragraph 9 and Appendix J have been incorporated\nin the Design Manual 2008 (2025 Edition) and uploaded to BD website www.bd.gov.hk.\n\n\n\n\n                                                              ( HO Chun-hung )\n                                               Building Authority\n\n\n\n\n\nRef. : BD GP/BREG/P/25 (XIV)\n\nThis PNAP is previously known as PNAP 112\nFirst issue     April 1985\nLast revision  May 2024\nThis revision  June 2025 (AD/NB1) (Paragraphs 9 & 10 amended, paragraphs 11 & 12\n                                and Appendix J added)"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                  (PNAP APP-41)\n\n\n                        Building (Planning) Regulation 72\n\n\n      Special Circumstances that may be Acceptable to the Building Authority\n                        for Applications to Vary Provisions\n\n\n             For alterations and additions works to existing buildings where initial access\nfor persons with a disability is not provided, the Building Authority would be satisfied with\nthe design of the building in respect of the non-provision of facilities for persons with\nlocomotory disabilities in cases where the provision of a ramp access would involve\nalteration works to the common parts of a building and where the applicant can demonstrate\nthat :\n\n             •   the applicant has no control over the area;\n\n             •  consent from co-owners or owners' corporation to permit the\n                  carrying out of the alteration works to the common parts of\n                   the building is declined or cannot be obtained; and\n\n             •  where ground beam is involved, there is spatial or structural\n                    constraint.\n\n\n\n\n\n(Rev. 11/2012)"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Appendix B\n                                                  (PNAP APP-41)\n\n\n             Advisory Committee on Barrier Free Access (ACBFA)\n\nTerms of Reference\n\nThe terms of reference of ACBFA are to offer advice to the Building Authority in relation\nto plans submitted for a new building or for alteration and addition to an existing building\nas to whether reasonable access and facilities will be provided in the building for persons\nwith a disability.  In arriving at such an advice, the Committee should consider the\nfollowing :\n\n         •   the standards and requirements contained in Building (Planning)\n              Regulation 72, the Design Manual - Barrier Free Access 2008 and\n             any other relevant statutory provisions;\n\n         •   whether  it  is  practicable  to provide such access within the\n               curtilage of the building, bearing in mind the physical location and\n             immediate environs of the building; and\n\n         •   whether  providing  such  access would  impose  unjustifiable\n              hardship on the person seeking approval or any other person.\n\nMembership\n\nThe membership of ACBFA is as follows :\n\nChairman      : Assistant Director/New Buildings 1, Buildings Department\n\nMembers       : A representative of the Commissioner for Rehabilitation\n\n         A representative of the Director of Architectural Services\n\n         A representative (authorized person) appointed by the\n                   Director of Buildings\n\n         A lay member appointed by the Director of Buildings\n\n              Three representatives nominated by the Commissioner for\n                    Rehabilitation representing  the  physically handicapped,\n                     visually impaired and hearing impaired respectively\n\n                Technical Secretary/Building, Buildings Department\n\nSecretary       : Building Surveyor/Technical Services 3, Buildings Department\n\nIn attendance  : The Senior Building Surveyor or Building Surveyor of the case\n\n\n(Rev. 11/2012)"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix C\n                                                                                 (PNAP APP-41)\n\n\n\n     Amendments to the Design Manual: Barrier Free Access 2008\n\n                                    ( November 2012 )\n\n\n\n\nLegends:\n\n1111  Amended\n\n1111  Deleted\n\n@     Obligatory Design Requirements\n\n*     Recommended Design Requirements under Best Practice Section"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p1-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "1.  Figure 16A\n   (Paragraph\n   30 in\n   Division\n   8)@\n\n\n\n\n\n                                                                                          1"
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p2-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "2.  Figure 16B\n   (Paragraph\n   B(b) in\n   Division\n   8)*"
+    },
+    {
+      "id": "page-9-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p3-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "3.  Figure 24\n    (Division\n   11)@*"
+    },
+    {
+      "id": "page-10-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p4-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "4.  Figure 25\n   (Paragraph\n    55(ii) in\n   Division\n   11)@\n\n\n\n\n\n                                                                        Figure 25 - u Urinal for Use by Persons with Ambulant Disabilities\n\n                                                        To add paragraph B(bb) in Page 1015.  Page 101\n    (Division                                             As an alternative to providing  lift control buttons inside the  lift car as\n   19 of                                                                     stipulated in paragraph 80(1), the adoption of a Destination Control System\n   Chapter                                                 (DCS) should comply with the following: -\n   4)*                                                                           (a) The keypad control of the DCS to be installed in a conspicuous place in\n                                                                               the lift hall shall have the built-in design for the use of persons with a\n                                                                                         disability.\n                                                                              (b) The keypad shall be of standard telephone keypad type with raised dot\n                                                                                   for easy orientation at number 5 key. An appropriate Braille notice “lift\n                                                                           button for the visually impaired” shall be provided.\n                                                                                  (c) The keypad shall have an “international wheelchair” button to activate\n                                                                               the system specially designed for the persons with a disability and a\n                                                                    push button with a symbol in a “star” shape for identifying the main\n                                                                            entrance floor for the use of visually impaired users."
+    },
+    {
+      "id": "page-11",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        11
+      ],
+      "text": "Item          2008 version                               Amendments\n\n                                                                              (d)  Tactile Arabic numerals with suitable design (e.g. 15mm high) and\n                                                                       normally engraved by 1mm instead of Braille shall be provided on the\n                                                                        keypad.\n                                                                                  (e) The user shall be able to know that the DCS has been operated. The call\n                                                                                     registration shall be confirmed by a visible and audible signal. The\n                                                                            audible signal shall be given on every individual call registration even if\n                                                                               the  call  is already  registered.   Also, a speech output system  (in\n                                                                         Cantonese, Putonghua and English) of the keypad for verification of the\n                                                                           designated floor shall be provided.\n                                                                                           (f)  All essential buttons including emergency alarm push button, intercom\n                                                                                   controls, and the door opening push button shall be provided inside the\n                                                                                                              lift car.\n                                                                              (g) The keypad at the lift hall and all the essential buttons in the lift car\n                                                                                     shall be located between 900mm and 1200mm above the finished floor\n                                                                                   level of the lift hall or the floor of the lift car in compliance with section\n                                                                          80(2) of the Third Schedule to the Building (Planning) Regulations and\n                                                                        paragraph 80(2) in Division 19.\n                                                                              (h) The design of the keypad shall comply with the international standards\n                                                                                for the use of persons with a disability such as the European Standard\n                                               EN 81-70:2003, Safety rules for the construction and installations of\n                                                                                                       lifts - Particular applications for passenger and goods passenger lifts -\n                                                                             Part 70:  Accessibility  to  lifts  for persons including persons with\n                                                                                       disability.  Adequate signal and indication for use shall be provided\n                                                                             including an illuminated visual indicator and an audible signal.\n                                                                                                (i)  Braille and  tactile  plate  indicating  the  user’s  instruction  shall be\n                                                                mounted on the wall adjacent to the keypad reachable by the visually\n                                                                        impaired users.  The instruction shall be in both English and Chinese.\n                                                                                                (j) When the “wheelchair” button is pushed, the gong sound and voice\n                                                                  announcement (in Cantonese, Putonghua and English) will be activated\n                                                                on the arrival of the accessible  lift.  To allow the persons with a\n                                                                                      disability to catch the lift, time allowed for keeping the lift door open\n                                                                   and the response time for the keypad shall be suitably extended."
+    },
+    {
+      "id": "page-12",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        12
+      ],
+      "text": "Item          2008 version                               Amendments\n\n                                                                              (k)  Tactile guide path shall be provided to guide the visually impaired users\n                                                                                  to the keypad in the lift hall and then to the designated accessible lift."
+    },
+    {
+      "id": "page-13",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        13
+      ],
+      "text": "Appendix D\n                                                                                 (PNAP APP-41)\n\n\n\n     Amendments to the Design Manual: Barrier Free Access 2008\n\n                                    ( September 2015 )\n\n\n\n\nLegends:\n\n1111  Amended\n\n1111  Deleted"
+    },
+    {
+      "id": "page-14-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        14
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p1-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "1. Paragraph      lift buttons should comply with paragraphs 80(1) and   lift buttons and emergency call button should comply with paragraphs 80(1)\n    5.5 B(a)(vi)   (4) in Division 19;                                     1to 80(8) and 80(i) and 80(ii) in Division 19;\n     in Chapter\n    51"
+    },
+    {
+      "id": "p2-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "2. Paragraph    grab bars complying with paragraphs 28(3) and (4) in  grab bars complying with paragraphs 28(3) and (4) in Division 8 should be\n    5.5          Division 8 should be placed at a height of 900mm  placed at a height of 900mm from the finished floor level and be fixed on\n     B(a)(viii) in  from the finished floor level and be fixed on both sides  both sides and at the rear of the lift car (lift door(s) excepted);\n    Chapter 5    and at the rear of the lift car;"
+    },
+    {
+      "id": "p3-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "3. Paragraph    the maximum travel should be 4000mm;                 the maximum travel should be 17000mm;\n    5.5 B(a)(ix)\n     in Chapter\n    52"
+    },
+    {
+      "id": "p4-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "4. Paragraph   The landings to a vertical lifting platforms at the 2  Every landing1  to  a  vertical  lifting  platform1  should be  in  opposite\n    5.5           access levels should be in opposite directions so as to  direction1or located at 90° relative to all other landings so as to eliminate the\n     B(a)(xii) in   eliminate the need for the wheelchair to back-out.       need for the wheelchair to back-out.  This requirement does not apply to a\n    Chapter 53                                                                  vertical  lifting  platform  which  is  provided  with  power-operated  and\n                                                                         automatically controlled horizontally sliding or swing doors.  The kinetic\n                                                                   energy of the automatic doors should not exceed 10J.\n\n\n\n\n1 To unify the standards of control buttons and emergency call button of a vertical lifting platform as an accessible lift.\n2 To extend the limit of travel height of a vertical lifting platform to 7000mm taking into account current Code of Practice on the Design and Construction of Lifts\n and Escalators issued by the Electrical and Mechanical Services Department.\n3 To control the arrangement on access to and egress from a vertical lifting platform with a maximum travel height up to 7000mm which may serve more than two\n  access levels.  Back-out arrangement of the wheelchair is allowed if a vertical lifting platform provided with automatic doors similar to an accessible lift with\n automatic doors."
+    },
+    {
+      "id": "page-15-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        15
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p5-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "5. Figure 45"
+    },
+    {
+      "id": "page-16",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        16
+      ],
+      "text": "Appendix E\n                                                                                           (PNAP APP-41)\n\n                   Summary of Amendments to the Design Manual: Barrier Free Access 2008\n                                                         (April 2017)\n\n(A)  Obligatory Design Requirements:                             8    Sliding door at accessible toilet (item 16)\n 1    Braille and tactile information on handrail (item 1)                 9   Luminous contrast between toilet door/compartment door and wall\n 2   Fire exit map (item 2)                                                    (item 17)\n 3    Braille and tactile signs for toilets (items 3 and 4)                 10    Indicating tiles/blocks to urinal for use by persons with ambulant\n                                                                                           disabilities (items 18 and 19)\n(B)  Design Considerations and Recommended Design               11   Levels of illumination in toilets (items 20 and 21)\n     Requirements under Best Practice Section:                     12    Staircase not to be at open riser design (item 22)\n 1   Power-operated door for accessible toilets (items 5 to 7)            13   Minimum clearance between directional tiles/blocks and walls\n 2    Slip-resistant grab rails and handrails (items 8 to 10)                       (item 23)\n 3   Emergency call bells in accessible bathrooms and shower           14   Visual alarm (items 24 and 25)\n     compartments (items 10 and 13)                               15   Further guidelines in providing vertical lifting platform\n 4   Revised design of grab rails and shower seats for shower                   (items 26 to 31)\n     compartments (items 10 to 11)                                16   Provisions of audience spaces for wheelchair users, visual display\n 5   Emergency alarm link to public information or service counter              of subtitles and room for “audio description” in auditorium\n     (item 12)                                                                 (items 32 and 33)\n 6   Marking for frameless glass doors (item 14)                     17   Visual door bells in hotels, hostels and guest houses (item 34)\n 7   Round edges for counters / devices installed at controlled           18   Number of accessible car parking spaces (item 35)\n     passages / guardrails under low headroom (item 15)\n\n\n\n\n                                                                                                 - 1 -"
+    },
+    {
+      "id": "page-17",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        17
+      ],
+      "text": "Amendments to the Design Manual: Barrier Free Access 2008\n\n                                       ( April 2017 )\n\n\n\n\nLegends:\n\n1111  Amended\n\n1111  Deleted\n\n@     Obligatory Design Requirements\n\n#     Design Considerations under Best Practice Section\n\n*     Recommended Design Requirements under Best Practice Section\n\n\n\n\n\n                                                                              - 2 -"
+    },
+    {
+      "id": "page-18-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        18
+      ],
+      "text": "Item          2012 version                               Amendments"
+    },
+    {
+      "id": "p1-page-18",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        18
+      ],
+      "subparagraph_markers": [],
+      "text": "1. Figure\n  16A@\n\n\n\n\n\n                                                                                                  - 3 -"
+    },
+    {
+      "id": "page-19-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        19
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p2-page-19",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        19
+      ],
+      "subparagraph_markers": [],
+      "text": "2. Figure 32@"
+    },
+    {
+      "id": "p3-page-19",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        19
+      ],
+      "subparagraph_markers": [],
+      "text": "3. Paragraph\n                  Braille and tactile sign shall be installed on adjacent   Braille and tactile signs shall be installed on adjacent wall or door of public   68 (1)&(2)\n                 wall or door of public toilet to indicate whether the   toilet to indicate whether the toilet is for male, female or unisex. The signs   in Division\n                     toilet is for male, female or unisex. The sign shall be   shall be placed between 900 mm to 1500 mm above the finished floor level.   13 of\n                placed at 900 mm to 1500 mm above the finished floor   Specifications of Braille cells 1and tactile signs are shown in Figure 31.   Chapter 4@\n                   level. Specification of Braille cells is shown in Figure\n                 31.\n\n\n\n\n\n                                                                                                  - 4 -"
+    },
+    {
+      "id": "page-20-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        20
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p4-page-20",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        20
+      ],
+      "subparagraph_markers": [],
+      "text": "4. Figure 31\n   in Division\n   13 of\n   Chapter 4@\n\n\n\n\n\n                                                                                                  - 5 -"
+    },
+    {
+      "id": "page-21-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        21
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p5-page-21",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        21
+      ],
+      "subparagraph_markers": [],
+      "text": "5. Division 11                                                        (To add paragraph (da) after paragraph (d) in Section A)\n   of Chapter\n   4#                                                                      (da)   Power-operated door is considered convenient for persons with a\n                                                                                              disability,  and  a  power-operated  sliding  door  is  preferable  to\n                                                                           power-operated swing door from safety point of view.  The swing\n                                                                             path and mechanism of power-operated swing doors should not pose\n                                                                           a risk of colliding with passers-by."
+    },
+    {
+      "id": "p6-page-21",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        21
+      ],
+      "subparagraph_markers": [],
+      "text": "6. Division 11                                                        (To add paragraph (ea) after paragraph (e) in Section B)\n   of Chapter\n                                                                              (ea)  A power-operated door should be designed as follows:   4*\n                                                                                                          (i)   push pad type control buttons having a minimum dimension of\n                                                                       20 mm should be used to open or lock the door;\n                                                                                                             (ii)   after the door is open, the door should be automatically closed\n                                                                                                  after a minimum of 10-second time lapse.  An audible signal\n                                                                                should be provided to signify the door opening and closing\n                                                                                            action;\n                                                                                                               (iii)  a detection device should be provided to re-open the door in the\n                                                                                  event of hitting any obstacle.  The device should be positioned\n                                                                                                   at a height between 300 mm to 400 mm above the finished\n                                                                                            floor level;\n                                                                                            (iv)  a lock button should be provided  inside  the  toilet.  The\n                                                                                   locking device should be able to be released from the outside\n                                                                            manually upon activation of an emergency break glass unit\n                                                                                              installed between 1800 mm to 2000 mm above the finished\n                                                                                            floor level outside the toilet.  The maximum horizontal force\n                                                                                            for  opening  the  door  manually  should comply  with  the\n                                                                                  requirements stipulated in paragraph 43 in Division 10;\n\n\n\n\n                                                                                                  - 6 -"
+    },
+    {
+      "id": "page-22-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        22
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p6-page-22",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        22
+      ],
+      "subparagraph_markers": [],
+      "text": "6. Division 11\n                                                                                      (v)   in case the lock button is pressed before the door-closing action   of Chapter\n                                                                                                          is complete, the door should still be able to be locked;   4* (cont’d)\n                                                                                            (vi)  an audible message should be provided in English, Cantonese\n                                                                          and Putonghua to inform the user after the door is locked;\n                                                                                                (vii) an indicator activated by the locking device signifying the toilet\n                                                                                                          is being occupied should be provided both inside and outside\n                                                                                       the toilet;\n                                                                                                    (viii) the door should be provided with vertical grab rails fixed on\n                                                                                both sides of the door at the height of 800 mm from the\n                                                                                        finished floor level (measuring from the bottom of the grab\n                                                                                                        rails) and with a grip space of not less than 30 mm clear of the\n                                                                                      door.  Grab rails should not be less than 32 mm and not more\n                                                                                   than 40 mm in external diameter and not less than 600 mm in\n                                                                                          length;\n                                                                                           (ix)  the door including control buttons should have a minimum\n                                                                            luminous  contrast of 30% with  the door frame and  their\n                                                                                 surrounding finishes;\n                                                                                     (x)   a back-up emergency power supply should be provided for at\n                                                                                                 least 20 minutes in power failure situation;\n                                                                                           (xi)  the control buttons should be installed at the wall adjacent to\n                                                                                       the door opening such that the user will not be interfered by the\n                                                                              door movement.   For a door swinging  into an area with\n                                                                                             internal corner, the buttons should be located at least 600 mm\n                                                                         from the internal corner of a room and the button should have a\n                                                                                            clear 1000 mm minimum distance from the swing of the door;\n\n\n\n\n                                                                                                  - 7 -"
+    },
+    {
+      "id": "page-23-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        23
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p6-page-23",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        23
+      ],
+      "subparagraph_markers": [],
+      "text": "6. Division 11\n                                                                                                (xii)  the control buttons should be located at not less than 900 mm   of Chapter\n                                                                          and not more than 1200 mm above the finished floor level;   4*(cont’d)\n                                                                                                   (xiii) separate door open and lock buttons should be provided inside\n                                                                                       the toilet and placed together;\n                                                                                     (xiv) Braille and tactile marking should be provided to the control\n                                                                                    buttons  in compliance with  the requirements  stipulated  in\n                                                                                 paragraphs 80(5) and 80(6) in Division 19 and Figures 25A and\n                                                                         25B; and\n                                                                               (xv)  user instructions in Chinese, English and Braille on how to\n                                                                         open and lock the door should be provided adjacent to the\n                                                                                        control buttons inside the toilet.\n                                                               See examples in Figures 25A to 25D.\n\n\n\n\n\n                                                                                                  - 8 -"
+    },
+    {
+      "id": "page-24-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        24
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p7-page-24",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        24
+      ],
+      "subparagraph_markers": [],
+      "text": "7. Division 11                                                        (To add Figure 25A)\n   of Chapter\n   4*(cont’d)\n\n\n\n\n\n                                                                                                  - 9 -"
+    },
+    {
+      "id": "page-25-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        25
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p7-page-25",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        25
+      ],
+      "subparagraph_markers": [],
+      "text": "7. Division 11                                                        (To add Figure 25B)\n   of Chapter\n   4*(cont’d)\n\n\n\n\n\n                                                                                                 - 10 -"
+    },
+    {
+      "id": "page-26-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        26
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p7-page-26",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        26
+      ],
+      "subparagraph_markers": [],
+      "text": "7. Division 11                                                        (To add Figure 25C)\n   of Chapter\n   4*(cont’d)\n\n\n\n\n\n                                                                                                 - 11 -"
+    },
+    {
+      "id": "page-27-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        27
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p7-page-27",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        27
+      ],
+      "subparagraph_markers": [],
+      "text": "7. Division 11                                                        (To add Figure 25D)\n   of Chapter\n   4*(cont’d)"
+    },
+    {
+      "id": "p8-page-27",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        27
+      ],
+      "subparagraph_markers": [],
+      "text": "8. Division 8                                                         (To add paragraph (e) after paragraph (d) in Section B)\n   of Chapter\n                                                                           Slip-resistant   4*\n                                                                                  (e)  The surface of the handrails provided under paragraph 28 in Division 8\n                                                                         should be slip-resistant, e.g. stainless steel with hair-line finish.\n\n\n\n\n\n                                                                                                 - 12 -"
+    },
+    {
+      "id": "page-28-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        28
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p9-page-28",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        28
+      ],
+      "subparagraph_markers": [],
+      "text": "9. Division 11                                                        (To add a heading and paragraph (m) after paragraph (l) in Section B)\n   of Chapter\n                                                     Grab Rails   4*\n                                                               (m)  The surface of the grab rails should be slip-resistant, e.g. stainless steel\n                                                                         with hair-line finish."
+    },
+    {
+      "id": "p10-page-28",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        28
+      ],
+      "subparagraph_markers": [],
+      "text": "10. Section B    Taps and other controls should be installed between  (To  designate  the  existing  requirement as paragraph  (a) and  to add\n   in Division   the centre line and the outer edge of the bathtub.        paragraphs (b), (c), (d), (e) and (f) in Section B)\n   12*\n                                                            Taps and Controls\n                                                                                  (a)   Taps and other controls should be installed between the centre line and\n                                                                                the outer edge of the bathtub.\n                                                     Grab Rails\n                                                                              (b)  The surface of the grab rails should be slip-resistant, e.g. stainless steel\n                                                                         with hair-line finish.\n                                                                                  (c)  Two additional  vertical grab  rails should be  installed for shower\n                                                                     compartments and they should:\n                                                                                                        (i)   have a minimum length of 750 mm;\n                                                                                                           (ii)  be installed at a height between 700 mm and 800 mm measured\n                                                                        from the bottom of the bars to the finished floor level; and\n                                                                                                             (iii) be provided adjacent to the shower seat such that one is mounted\n                                                                                  beside the shower seat and another one is mounted not more than\n                                                                      450 mm from the edge of the shower seat (see Figure 27).\n\n\n\n\n\n                                                                                                 - 13 -"
+    },
+    {
+      "id": "page-29-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        29
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p10-page-29",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        29
+      ],
+      "subparagraph_markers": [],
+      "text": "10. Section B\n                                                        Shower Seats   in Division\n   12*(cont’d)                                                                              (d)  The depth of shower seats in shower compartments should be 450 mm.\n                                                         Emergency  Call   Bells   in  Accessible  Bathrooms  and  Shower\n                                                        Compartments\n                                                                                  (e)  The push button of the emergency call bell should be appropriately\n                                                                               located and conveniently accessible to all users.  The emergency call\n                                                                                       bell when activated should emit audible or visible alarm signal which\n                                                                         should be readily noticeable for summoning assistance for the person\n                                                                                    in  the    bathroom/shower compartment.  The emergency alarm\n                                                                         should be installed outside the bathroom/shower compartment and\n                                                                         connected to a public information or service counter.\n                                                                                           (f)  An emergency call bell should be equipped with a weatherproof push\n                                                                            button for activating the alarm.  The push button should be installed\n                                                                                           at the wall outside but immediately adjacent to the bathtub or shower\n                                                                    compartment at a height between 400 mm to 600 mm above the\n                                                                                 finished floor level. A notice “Emergency Call” in English, Chinese\n                                                                    and Braille shall be fitted next to the emergency push button.\n\n\n\n\n\n                                                                                                 - 14 -"
+    },
+    {
+      "id": "page-30",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        30
+      ],
+      "text": "Item          2008 version                               Amendments\n11.Figure 27\n   in Division\n   12 of\n   Chapter 4*\n\n\n\n\n\n                                                                                                 - 15 -"
+    },
+    {
+      "id": "page-31-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        31
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p12-page-31",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        31
+      ],
+      "subparagraph_markers": [],
+      "text": "12. Paragraph    In addition to a position outside the compartment or  In addition to a position outside the compartment or cubicle, the emergency\n   A(b) in       cubicle, the emergency alarm should be connected to a  alarm should be connected to a 1caretaker’s office or public information/\n   Division     24-hours manned caretaker’s office.                     service counter provided under paragraph 70 in Division 15.\n   17#"
+    },
+    {
+      "id": "p13-page-31",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        31
+      ],
+      "subparagraph_markers": [],
+      "text": "13. Division 17                                                        (To add paragraph (c) in Section A)\n   of Chapter\n   4#                                                       Emergency call bells should be equipped with a back-up power supply."
+    },
+    {
+      "id": "p14-page-31",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        31
+      ],
+      "subparagraph_markers": [],
+      "text": "14. Division 10\n                                                                      (To add paragraph (fa) after paragraph (f) in Section B)   of Chapter\n   4*                                                          The marking provided at a frameless glass door should consist of at least a\n                                                                           horizontal band with a minimum height of 100 mm and contrasting colours\n                                                                    with the background to assist visibility.  The marking including those in\n                                                                  broken or solid lines, patterns or company logos, etc., should cover at least\n                                                  10% of the glazing area within the zone between 900 mm and 1500 mm\n                                                               above the internal finished floor.   If the horizontal band design  is not\n                                                                       adopted, other types of marking should still be designed horizontally across\n                                                                          the glass door.  Such kind of marking should cover at least 30% of the\n                                                                        glazing area within the zone between 900 mm and 1500 mm above the\n                                                                               internal finished floor."
+    },
+    {
+      "id": "p15-page-31",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        31
+      ],
+      "subparagraph_markers": [],
+      "text": "15. Division 9\n                                                                      (To add a heading and paragraph (i) after paragraph (h) in Section B)   of Chapter\n   4*                                                    Round Edges\n                                                                                                (i)   The counters or devices  installed  at controlled passages and the\n                                                                      warning guardrails provided for low headroom should be designed\n                                                                         with round edges.\n\n\n\n\n\n                                                                                                 - 16 -"
+    },
+    {
+      "id": "page-32-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        32
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p16-page-32",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        32
+      ],
+      "subparagraph_markers": [],
+      "text": "16. Paragraph\n              Double swing doors which open both inwards and  Double swing doors which open both inwards and outwards may be   B(e) in\n                outwards may be provided in any toilets or cubicles.  provided in any toilets or cubicles.  Sliding door fixed with vertical grab   Division\n                 Sliding door is equally acceptable provided that  it is   rails on both sides of the door in accordance with paragraph (ea) (viii) below   11*\n                 not heavy or awkward to use.                                  is equally acceptable provided that it is not heavy or awkward to use.  The\n                                                                      requirements of door handle and horizontal grab rail will not be applicable to\n                                                                              sliding doors."
+    },
+    {
+      "id": "p17-page-32",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        32
+      ],
+      "subparagraph_markers": [],
+      "text": "17. Division 11\n                                                                      (To add paragraph (ha) after paragraph (h) in Section B)   of Chapter\n   4*                                                                            (ha)  Toilet door and compartment door should have a minimum luminous\n                                                                                   contrast of 30% with its frame and adjacent wall."
+    },
+    {
+      "id": "p18-page-32",
+      "type": "numbered_paragraph",
+      "paragraph": "18",
+      "pdf_pages": [
+        32
+      ],
+      "subparagraph_markers": [],
+      "text": "18. Division 11\n                                                                      (To add a heading and paragraphs (n) and (o) after paragraph (m) in   of Chapter\n                                                                        Section B)   4*\n                                                                     Indicating Tiles/Blocks\n                                                                              (n)  Two indicating tiles/blocks on the floor to facilitate the use by persons\n                                                                         with visual impairment (see Figures 26A and 26B) should be provided\n                                                                                    in front of the urinal for use by persons with ambulant disabilities.\n                                                                              (o)  The indicating tiles/blocks should have a minimum luminous contrast\n                                                                              of 30% with the floor finishes.\n\n\n\n\n\n                                                                                                 - 17 -"
+    },
+    {
+      "id": "page-33-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        33
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p19-page-33",
+      "type": "numbered_paragraph",
+      "paragraph": "19",
+      "pdf_pages": [
+        33
+      ],
+      "subparagraph_markers": [],
+      "text": "19. Division 11\n                                                                      (To add Figures 26A and 26B)   of Chapter\n   4*\n\n\n\n\n\n                                                                                                 - 18 -"
+    },
+    {
+      "id": "page-34-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        34
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p20-page-34",
+      "type": "numbered_paragraph",
+      "paragraph": "20",
+      "pdf_pages": [
+        34
+      ],
+      "subparagraph_markers": [],
+      "text": "20. Paragraph\n           Common  areas  of  a  building  should  have  an  Common areas, including toilets, of a building should have an illumination   B(a) in\n                 illumination level of not less than 120 lux measured at   level of not less than 120 lux measured at the finished floor level.   Division\n                 the finished floor level.   16*"
+    },
+    {
+      "id": "p21-page-34",
+      "type": "numbered_paragraph",
+      "paragraph": "21",
+      "pdf_pages": [
+        34
+      ],
+      "subparagraph_markers": [],
+      "text": "21. Paragraph\n                Uniformity of illumination level should be maintained  Uniformity of  illumination  level should be maintained throughout  the   B(c) in\n                throughout  the  designated  confined  areas such  as  designated1 areas1 and toilets.   Division\n                   staircases, corridors or the like.   16*"
+    },
+    {
+      "id": "p22-page-34",
+      "type": "numbered_paragraph",
+      "paragraph": "22",
+      "pdf_pages": [
+        34
+      ],
+      "subparagraph_markers": [],
+      "text": "22. Paragraph\n                   Stair  should  be  designed  with  more  generous   Stair should be designed with more generous dimensions, e.g. wider tread,   A(f) in\n                dimensions,  e.g.  wider  tread,  and  shorter  travel  and shorter travel distance is recommended.  No 1open risers shall 1be   Division 7#\n                 distance  is recommended.  Open  risers should be   installed1.\n                 avoided."
+    },
+    {
+      "id": "p23-page-34",
+      "type": "numbered_paragraph",
+      "paragraph": "23",
+      "pdf_pages": [
+        34
+      ],
+      "subparagraph_markers": [],
+      "text": "23. Division 4\n                                                                      (To add a heading and paragraph (d) after paragraph (c) in Section B)   of Chapter\n   4*                                                                      Directional Tiles/Blocks\n                                                                              (d)  A minimum clearance between directional tiles/blocks of tactile guide\n                                                                            path and an obstruction should be maintained as follows:\n\n\n\n\n\n                                                                                                 - 19 -"
+    },
+    {
+      "id": "page-35",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        35
+      ],
+      "text": "Item          2008 version                               Amendments\n24.Paragraph\n              The provision of visual alarm shall not apply to all exit  The provision of visual alarm shall not apply to all exit staircases as required   5.2.3(b) in\n                   staircases as required under the Code of Practice for  under the Code of Practice for 1Fire Safety in Buildings including the smoke   Chapter 5@\n                 the Provision of Means of Escape in Case of Fire   lobbies adjoining the exit staircase, and the following areas: -\n                 including  the  smoke  lobbies  adjoining  the  exit\n                   staircase, and the following areas: -\n25.Paragraph\n                                                                      (To add Section B after Section A)   5.2 in\n   Chapter 5*                                                                  B.   Recommended Design Requirements\n                                                                      Except for areas designed for domestic use, areas listed in paragraph\n                                                                                   5.2.3(b) shall also be provided with visual alarm in situations where\n                                                                          person with hearing impairment has to work alone.\n26.Paragraph\n             Door                                          Automatic Door   5.5 B(a)(ii)\n   and (iii) in                       (i) minimum clear entrance width of 900 mm;             (i)  minimum clear entrance width of 900 mm;\n   Chapter 5*\n                        (ii) Single door or 2-door design;                               (ii)  1single door or 2-door design and the kinetic energy of the door should\n                                                                            not exceed 10J;\n               Platform size\n                                                               Platform size\n                        (iii) minimum size of 1100 mm (wide) x 1400 mm\n                      (deep);                                                             (iii)  minimum size of 1100 mm (wide) x 11500 mm (deep);\n\n\n\n\n\n                                                                                                 - 20 -"
+    },
+    {
+      "id": "page-36",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        36
+      ],
+      "text": "Item          2015 version                               Amendments\n27.Paragraph\n               Control                                          Control   5.5 B(a)(vi)\n   in Chapter                    (vi) lift buttons and emergency call buttons should   (vi)      1lifting platform buttons and emergency call buttons should comply\n   5*                  comply with paragraphs 80(1) to 80(8) and 80(i)          with paragraphs 80(1) to 80(8) and 80(i) and 80(ii) in Division 191.\n                   and 80(ii) in Division 19;                                For automatic swing doors, the control buttons at the landing side\n                                                                            should meet the requirements in paragraph (ea)(xi) in Section B of\n                                                                              Division 11.  The hold-to-run button should be of a minimum\n                                                                         dimension of 50 mm;\n                                                                      (viA)   the vertical lifting platform should be self-operable by users holding\n                                                                            a common key;\n                                                                        (viB)    call button and CCTV should be provided at every landing to a\n                                                                                           vertical  lifting  platform.   The  call  button should  activate an\n                                                                            intercom and video contact with a caretaker’s office or public\n                                                                                  information/service  counter  provided  under  paragraph  70  in\n                                                                              Division 15 for assistance;\n28.Paragraph\n             Grab bars                                 Grab 1Bars   5.5\n   B(a)(viii) in                      (viii) grab bars complying with paragraphs 28(3) and   (viii)  1grab bars complying with paragraphs 28(3) and (4) in Division 8\n   Chapter 5*                         (4) in Division 8 should be placed at a height of         should be placed at a height of 900 mm from the finished floor level\n                   900 mm from the finished floor level and be        and be fixed on both sides and at the rear of the 1 platform (1door(s)\n                       fixed on both sides and at the rear of the lift car          excepted).  The  vertical distance between the grab bar and the\n                                (lift door(s) excepted);                                    control buttons should not be less than 100 mm;\n\n\n\n\n\n                                                                                                 - 21 -"
+    },
+    {
+      "id": "page-37",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        37
+      ],
+      "text": "Item          2015 version                               Amendments\n29.Paragraph\n              Landing                                                        (xii) (repealed in April 2017)   5.5\n   B(a)(xii) in                     (xii)   Every landing to a  vertical  lifting platform\n   Chapter 5*                       should be in opposite direction or located at\n                      90°  relative  to  all  other landings so as  to\n                         eliminate  the  need  for  the  wheelchair  to\n                        back-out. This requirement does not apply to a\n                           vertical lifting platform which is provided with\n                       power-operated and automatically controlled\n                         horizontally sliding or swing doors. The kinetic\n                      energy  of  the  automatic  doors  should  not\n                      exceed 10J.\n\n\n\n\n\n                                                                                                 - 22 -"
+    },
+    {
+      "id": "page-38",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        38
+      ],
+      "text": "Item          2015 version                               Amendments\n30.Paragraph\n                    (a)  Where  it is impractical to provide a passenger   (a)  Where  it  is impractical to provide a passenger  lift or a ramp, a   5.5 B(a)\n                                 lift or a ramp, a self-operated vertical  lifting        self-operated  vertical  lifting platform should be considered  as a   and Figure\n                      platform should be considered as a reasonable        reasonable alternative for vertical circulation for wheelchair users, the   45 in\n                         alternative for vertical circulation for wheelchair         vertical lifting platform should have the following provisions1:-   Chapter 5*\n                         users, the vertical lifting platform should have\n                        the following provisions (see Figure 45):-\n                                                                      Figure 45 (repealed in April 2017)\n\n\n\n\n\n                                                                                                 - 23 -"
+    },
+    {
+      "id": "page-39",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        39
+      ],
+      "text": "Item          2008 version                               Amendments\n31.Paragraph\n                                                                      (To add paragraphs (xiii) after paragraph (xii) in Section B)   5.5 B(a) in\n   Chapter 5*                                                             Undertaking from Owners\n                                                                                          (xiii) the owner should undertake quality management and maintenance to\n                                                                                             facilitate the reliable use of the lifting platform.  The platform should\n                                                                     be kept in service during the opening hours of the premises and routine\n                                                                                   servicing/repair should be arranged in closed times.\n32.Division 1\n                                                                      (To add paragraphs (g), (h) and (i) after paragraph (f) in Section B)   of Chapter\n   4*                                                                              (g)   Eight wheelchair spaces should be provided at spectator levels in an\n                                                                          auditorium with not more than 800 fixed seats.  For auditorium with\n                                                                more than 800 fixed seats, four wheelchair spaces should be provided\n                                                                                    for every additional 400 fixed seats and any part thereof.\n                                                                              (h)   Visual display of  subtitles should be provided  at an appropriate\n                                                                                     location.\n                                                                                                (i)  A room with a view of the performance for “audio description” should\n                                                                     be provided for the visually impaired persons.\n33.Paragraph\n            Two  to  three rows of removable  seats should be  1Removable seats should be provided at accessible spectator levels in 1an   B(d) in\n                provided in the auditorium for the use by large group  auditorium for the use by large group of wheelchair users for special   Division 1\n                 of wheelchair users for special function / occasions.      functions   /  occasions.    Adequate  numbers  of  removable  seats  to   of Chapter\n                                                            accommodate  sixteen  wheelchair  spaces  should  be  provided  in  the   4*\n                                                                     auditorium with not more than 800 fixed seats.  For the auditorium with\n                                                           more  than 800  fixed  seats, adequate numbers  of removable  seats  to\n                                                            accommodate  eight  wheelchair  spaces  should  be  provided  for  every\n                                                                            additional 400 fixed seats and any part thereof.\n\n\n\n\n                                                                                                 - 24 -"
+    },
+    {
+      "id": "page-40",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        40
+      ],
+      "text": "Item          2008 version                               Amendments\n34.Division 2\n          A typical guest room layout is shown in Figure 2 and  (To add paragraph (b) after paragraph (a) in Section B)   of Chapter\n                   typical bathroom and shower compartment are shown   4*                                                                                  (a)  A typical guest room layout is shown in Figure 2 and typical bathroom                   in Figure 27.\n                                                                    and shower compartment are shown in Figure 27.\n                                                                              (b)  A minimum of two guest rooms (being not accessible guest rooms) for\n                                                                         every 100 guest rooms and any part thereof should be provided with\n                                                                                  visual door bells installed at a prominent location and the function can\n                                                                     be switched on or off conveniently by the guest.\n35.Division 3\n                                                                      (To add paragraph (c) after paragraph (b) in Section B)   of Chapter\n   4*                                                                                  (c)   Accessible car parking spaces should be provided as follow:\n\n\n\n\n\n                                                                                                 - 25 -"
+    },
+    {
+      "id": "page-41",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        41
+      ],
+      "text": "Appendix F\n                                                                             (PNAP APP-41)\n\n       Summary of Amendments to the Design Manual: Barrier Free Access 2008\n                                     (June 2019)\n\n       Design Considerations and Recommended Design Requirements under Best Practice Section:\n\n1     Braille and tactile information for lockers (item 1)\n2     Braille characters both in Chinese and English (item 2)\n3     Lift control buttons of accessible lift cars (items 3 and 4)\n4    Detection device of accessible lift cars (item 5)\n5     Increasing depth of accessible lift cars (item 6)\n6    Audio and visual indicators in lift cars (item 7)\n7    Communication system in lift cars (item 8)\n8    Typical layout of guestroom in hotels, hostels and guesthouses (item 9)\n9    Hold-open device for fire-rated doors (item 10)\n10   Width of door (item 10)\n11   Washroom accessories in accessible toilet (item 11)\n12    Mirror for wheelchair users at accessible toilet (item 12)\n13    Audible and visible alarm signal for emergency call bells (item 13)\n14    Public information or service counters (item 14)\n15   Baby care room (item 15)\n16    Drinking fountains (item 16)\n\n\n\n\n\n                                                                            - 1 -"
+    },
+    {
+      "id": "page-42",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        42
+      ],
+      "text": "Amendments to the Design Manual: Barrier Free Access 2008\n\n                                        ( June 2019 )\n\n\n\n\nLegends:\n\n1    Amended\n\n      Deleted\n\n\n#     Design Considerations under Best Practice Section\n\n*     Recommended Design Requirements under Best Practice Section\n\n\n\n\n\n                                                                                       - 2 -"
+    },
+    {
+      "id": "page-43-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        43
+      ],
+      "text": "Item            2008 version                             Amendments"
+    },
+    {
+      "id": "p1-page-43",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        43
+      ],
+      "subparagraph_markers": [],
+      "text": "1. Division 13 of                                                      (To add Sections A and B after Figure 32 for paragraph 68)\n   Chapter 4#*\n                                                   BEST PRACTICE SECTION\n                                                              A.  Design Considerations\n                                                                         Persons with visual impairment may have difficulty in identifying their\n                                                                              lockers for public use.\n                                                                  B.  Recommended Design Requirements\n                                                                 Each locker door in sports complex, public swimming pool complex or\n                                                                             public areas should be provided with Braille cells and raised Arabic\n                                                                              numerals/characters*.\n                                                                 * The locker key holders should be provided with raised Arabic\n                                                                                  numerals/characters."
+    },
+    {
+      "id": "p2-page-43",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        43
+      ],
+      "subparagraph_markers": [],
+      "text": "2. Section A in                                                        (To add paragraph (g) after paragraph (f) in Section A)\n   Division 14 of\n                                                                              (g)   Braille Characters in both English and Chinese should be provided on   Chapter 4#\n                                                                                signs as far as possible if space could accommodate them."
+    },
+    {
+      "id": "p3-page-43",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        43
+      ],
+      "subparagraph_markers": [],
+      "text": "3. Section A                                                          (To add paragraph (ba) after paragraph (b) in Section A)\n   following\n                                                                           (ba)  Keypad control device should be avoided as far as practicable.   paragraph 80\n   of Division 19\n   of Chapter 4#\n\n\n\n\n\n                                                                                                            - 3 -"
+    },
+    {
+      "id": "page-44-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        44
+      ],
+      "text": "Item             2008 version                             Amendments"
+    },
+    {
+      "id": "p4-page-44",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        44
+      ],
+      "subparagraph_markers": [],
+      "text": "4. Section B                                                          (To add paragraphs (ba) and (bb) after paragraph (b) in Section B)\n   following\n                                                                           (ba)  In  addition  to  the  essential  lift  control  buttons  required  under   paragraph 80\n                                                                          paragraph 80(1), another set of essential lift control buttons should be   of Division 19\n                                                                                       installed on one of the side walls of lift car, preferably in the middle   of Chapter 4*\n                                                                    and on the right side from the entering direction.  For two lift door\n                                                                         openings design, the additional set of essential  lift control buttons\n                                                                         should be on any side wall.\n                                                                        (bb)  Lift control buttons in  lift cars should have a minimum luminous\n                                                                                   contrasts of 50% with the background surfaces."
+    },
+    {
+      "id": "p5-page-44",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        44
+      ],
+      "subparagraph_markers": [],
+      "text": "5. Section B                                                          (To add paragraph (g) after paragraph (f) in Section B)\n   following\n                                                                              (g)  An additional detection device positioned at a height of 200 mm above   paragraph 80\n                                                                                the floor of the lift car should be provided.   of Division 19\n   of Chapter 4*"
+    },
+    {
+      "id": "p6-page-44",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        44
+      ],
+      "subparagraph_markers": [],
+      "text": "6. Section B                                                          (To add a heading and paragraph (h) after paragraph (g) added in item 5\n   following                                                       above)\n   paragraph 80\n                                                            Depth of Accessible Lift Car   of Division 19\n   of Chapter 4*                                                                                (h) The clear depth of an accessible  lift car should be not less than\n                                                                 1 500 mm.\n\n\n\n\n\n                                                                                                            - 4 -"
+    },
+    {
+      "id": "page-45-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        45
+      ],
+      "text": "Item             2008 version                             Amendments"
+    },
+    {
+      "id": "p7-page-45",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        45
+      ],
+      "subparagraph_markers": [],
+      "text": "7. Section A      A.  Design Considerations                        (To  designate  the  existing requirement as paragraph  (a) and  to add\n   following                                                    paragraph (b) in Section A)                       Signs indicating the location of an accessible   paragraph 83\n   of Division 19           lift should be clearly visible from the main   A.  Design Considerations\n   of Chapter 4#        entrance  of  the  building.   Additionally, a         (a)  Signs indicating the location of an accessible lift should be clearly\n                         sign identifying the floor reached should be             visible from the main entrance of the building.   Additionally, a\n                                                                                 sign identifying the floor reached should be provided on each                       provided on each landing in a location that\n                                                                               landing in a location that can be easily seen from the lift and is\n                      can  be  easily  seen from  the  lift  and  is                                                                            designed in luminous contrasts with its surroundings.\n                       designed  in  luminous  contrasts  with   its\n                                                                                   (b) The audio indication of the stopping floor should be clear and\n                        surroundings.                                                                             without background noise."
+    },
+    {
+      "id": "p8-page-45",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        45
+      ],
+      "subparagraph_markers": [],
+      "text": "8. Section B                                                          (To add headings and paragraphs (c), (d) and (e) after paragraph (bb) in\n   following                                                            Section B)\n   paragraph 83\n                                                                      Indication in Lift Cars   of Division 19\n   of Chapter 4*                                                                                    (c) The visual indicators and audio indication required under paragraph 82\n                                                                         should be provided in all other passenger lift cars.\n                                                                                (d) The voice for audio indication in passenger lifts should be more than\n                                                                 10 dB and should not be more than 80 dB above ambient level,\n                                                                    measured at the annunciator.  The voice should have a frequency\n                                                                     between 300 Hz and 3 000 Hz.\n                                                                     Visual Communication System\n                                                                                    (e) A visual communication system such as the provision of monitor for\n                                                                          video call in the lift car should be provided to all passenger lifts to\n                                                                                          assist persons with hearing impairment in lift car to communicate with\n                                                                                the building management office or the caretaker’s office in emergency\n                                                                                        situation.\n\n\n                                                                                                            - 5 -"
+    },
+    {
+      "id": "page-46-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        46
+      ],
+      "text": "Item         2008 version                                     Amendments"
+    },
+    {
+      "id": "p9-page-46",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        46
+      ],
+      "subparagraph_markers": [],
+      "text": "9. Figure 2\n   in\n   Division                                                                                                                     BATHTUBIN COMPLIANCEAND/ORWITHSHOWERFIGURECOMPARTMENT27\n   2 of\n   Chapter\n   4*\n\n\n\n                                                                                                                                    CLEAR\n                                                                                                                             MANOEUVRING\n                                                                                                                                SPACE NOT LESS                                                                                                                            THAN 1500 X 1500                                                                                                                                                              (MIN.)\n                                                                                                                                                                                                                                                                                                                                                      1950\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      (MIN.)                          850 (MIN.)                                                                                                                                                                                                                                           850                                                                                                                                               (MIN.)OPENING\n                                                                                                                                                                                                                                                                                                                     850CLEAR\n\n\n\n\n\n                                                                                                            - 6 -"
+    },
+    {
+      "id": "page-47-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        47
+      ],
+      "text": "Item          2008 version                               Amendments"
+    },
+    {
+      "id": "p10-page-47",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        47
+      ],
+      "subparagraph_markers": [],
+      "text": "10. Section B                                                          (To add headings and paragraphs  (h) and  (i)  after paragraph  (g)  in\n   in Division                                                          Section B)\n   10 of\n                                                           Doors to Areas with Accessible Facilities   Chapter 4*\n                                                                              (h)  Fire rated doors leading to areas with accessible facilities should be\n                                                                        provided with hold-open device except for doors to a required staircase\n                                                                      forming part of a protected exit and its protected lobby.  Doors not for\n                                                                                             fire safety purposes leading to areas with accessible facilities should be\n                                                                            automatic.\n                                                        Width of Doors\n                                                                                                (i)  Door, including one leaf of a double-leaf door, should have a clear\n                                                                      width of not less than 850 mm between the open door and opposite\n                                                                jamb or the other leaf."
+    },
+    {
+      "id": "p11-page-47",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        47
+      ],
+      "subparagraph_markers": [],
+      "text": "11. Section B                                                          (To add a heading and paragraph (p) after paragraph (o) in Section B)\n   in Division\n                                                    Washroom Accessories   11 of\n   Chapter 4*                                                                              (p) The manually operated controls of washroom accessories should be at a\n                                                                               position which is not higher than 1 100 mm above the finished floor\n                                                                                        level.\n\n\n\n\n\n                                                                                                            - 7 -"
+    },
+    {
+      "id": "page-48",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        48
+      ],
+      "text": "Item          2012 version                                      Amendments\n12.Figure 24 in\n   Division 11\n   of\n   Chapter 4*\n\n\n                                                                                                                                                                                                                         MIRROR\n                                                                                                                                                                                                                  FOR WHEELCHAIR USER\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                      (MIN)\n                                                                                                                                                                                                                                                                                                                                                                           1800\n\n\n\n\n\n                                                                                                            - 8 -"
+    },
+    {
+      "id": "page-49-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        49
+      ],
+      "text": "Item            2008 version                              Amendments"
+    },
+    {
+      "id": "p13-page-49",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        49
+      ],
+      "subparagraph_markers": [],
+      "text": "13. Division 17                                                        (To add Section B after Section A)\n   of Chapter 4*\n                                                                  B.   Recommended Design Requirements\n                                                                                         (a)  The emergency call bell when activated should emit audible and\n                                                                                            visible alarm signal which should be readily noticeable for\n                                                                   summoning assistance.\n                                                                                    (b)   Visible  and  audible  signal  should  be  emitted  inside  the\n                                                                                      accessible toilet when the emergency call bell is activated."
+    },
+    {
+      "id": "p14-page-49",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        49
+      ],
+      "subparagraph_markers": [],
+      "text": "14. Division 15                                                        (To add Section B after Section A)\n   of Chapter 4*\n                                                                 B.   Recommended Design Requirements\n                                                               Leg space of a depth between 480 mm to 600 mm should be provided\n                                                                                    for public information or service counters."
+    },
+    {
+      "id": "p15-page-49",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        49
+      ],
+      "subparagraph_markers": [],
+      "text": "15. Section B in                                                       (To add a heading and paragraph (fa) after paragraph (f) in Section B)\n   Division 11\n                                                      Baby Care Room   of Chapter 4*\n                                                                                    (fa)  The room should be provided with a clear manoeuvring space not less\n                                                                            than 1 500 mm x 1 500 mm measured at 350 mm above finished floor\n                                                                                         level."
+    },
+    {
+      "id": "p16-page-49",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        49
+      ],
+      "subparagraph_markers": [],
+      "text": "16. Section B in                                                        (To add paragraph (d) (iv) and (v) after paragraph (d)(iii) in Section B)\n   paragraph 5.6\n                                                               Control   of Chapter 5*\n                                                                              (d)  Controls should: -\n                                                                                                      (i)   be at or near to the front of the fountain;\n                                                                                                         (ii)  be operable with one hand; and\n                                                                                                           (iii)  require no tight grasping, pinching, or twisting of the wrist.;\n                                                                                         (iv)  require a force of 22N or less to activate; and\n                                                                                   (v)   be hand-operated control with minimum dimension of 50 mm.\n\n\n                                                                                                            - 9 -"
+    },
+    {
+      "id": "page-50",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        50
+      ],
+      "text": "Appendix G\n                                                                                          (PNAP APP-41)\n\n                        Summary of Amendments to the Design Manual: Barrier Free Access 2008\n                                                         (October 2020)\n\n\n                   Design Considerations and Recommended Design Requirements under Best Practice Section\n\n1       Braille and tactile information for room numbers and fire exit maps at guest rooms in hotels, hostels and guesthouses (item 1)\n\n2       Resting places for long corridors or passageways (items 2 and 3)\n\n3      Automatic doors for all main entrances (item 4)\n\n4      Unobstructed area adjacent to the door handle on the leading face of a single door (item 5)\n\n5      Bevelled edge of door threshold (item 6)\n\n6      Height of shower head (item 7)\n\n7       Braille and tactile plan of toilet and changing room (item 8)\n\n8       Tactile guide path for office building, hotel, guesthouse, hostel and bank (item 9)\n\n9       Position of the Braille and tactile sign for the public toilet (item 10)\n\n10      Increase in the illumination level for lift lobbies of upper floors, corridors, accessible paths and staircases (items 11 and 12)\n\n11      Mirror in accessible lift car (item 13)\n\n\n\n\n\n                                                                                    - 1 -"
+    },
+    {
+      "id": "page-51",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        51
+      ],
+      "text": "Amendments to the Design Manual: Barrier Free Access 2008\n\n                                  (October 2020)\n\n\n\n\nLegends:\n\n1111 Amended\n\n1111 Deleted\n\n\n#   Design Considerations under Best Practice Section\n\n*  Recommended Design Requirements under Best Practice Section\n\n\n\n\n\n                                                                       - 2 -"
+    },
+    {
+      "id": "page-52-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        52
+      ],
+      "text": "Item             2017 version                             Amendments"
+    },
+    {
+      "id": "p1-page-52",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        52
+      ],
+      "subparagraph_markers": [],
+      "text": "1.   Section B in   (b)  A minimum of two guest rooms (being not   (b)    For every 100 guest rooms and any part thereof, in addition to\n     Division 2 of        accessible guest rooms) for every 100 guest          accessible guest rooms, the following types of guest rooms should be\n    Chapter 4*         rooms and any part thereof should be provided         provided:\n                        with visual door bells installed at a prominent\n                                                                                                          (i)  A minimum of two guest rooms with visual door bells installed                           location and the function can be switched on\n                                                                                                    at a prominent location and the function can be switched on or                          or off conveniently by the guest.\n                                                                                              off conveniently by the guest ; and\n                                                                                                             (ii)  A minimum of two guest rooms located near lift lobby with\n                                                                                            Braille and tactile fire exit maps at the back of guest room doors,\n                                                                           and  Braille and  tactile information  for main lamp switch\n                                                                                             controls.\n                                                                                  (c)   Where planning allows, the accessible guest rooms required under\n                                                                           paragraph 7(2) of Division 2 should be provided with the facilities in\n                                                                           paragraph (b)(i) and (ii) above in full or in combination.\n                                                                              (d)   Where planning allows, the guest rooms in paragraph (b)(i) above\n                                                                           should be provided with the facilities for accessible guest rooms in\n                                                                           paragraph 7(2) of Division 2 and facilities in paragraph (b)(ii) above\n                                                                                     in full or in combination.\n                                                                                  (e)   Where planning allows, the guest rooms in paragraph (b)(ii) above\n                                                                           should be provided with the facilities for accessible guest rooms in\n                                                                           paragraph 7(2) of Division 2 and facilities in paragraph (b)(i) above in\n                                                                                                full or in combination.\n                                                                                           (f)    For floors with guest rooms provided under paragraph (b)(ii) above,\n                                                                                      Braille sign should be installed on the wall adjacent to the open side\n                                                                                of each door leading to an exit staircase to indicate such information.\n                                                                The sign should be placed at 900 mm to 1500 mm above the finished\n                                                                                     floor level.\n\n\n\n                                                                                        - 3 -"
+    },
+    {
+      "id": "page-53-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        53
+      ],
+      "text": "Item             2008 version                             Amendments"
+    },
+    {
+      "id": "p1-page-53",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        53
+      ],
+      "subparagraph_markers": [],
+      "text": "1.   Section B in                                                          (g)   A sign with guest room number in raised Arabic numerals/characters\n     Division 2 of                                                      and Braille should be installed on the wall adjacent to the door lock of\n    Chapter   4*                                                                              all guest rooms. The sign should be placed at 900 mm to 1500 mm\n     (cont’d)                                                           above the finished floor level."
+    },
+    {
+      "id": "p2-page-53",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        53
+      ],
+      "subparagraph_markers": [],
+      "text": "2.   Section A in                                               To add paragraph (e) after paragraph (d) in Section A\n     Division 9 of\n                                                                                  (e)    Long corridors and passageways are difficult for the persons with    Chapter 4#\n                                                                         locomotion impairment to negotiate.  Therefore, adequate resting\n                                                                                places with resting facilities should be provided therein. Such resting\n                                                                                                 facilities should not reduce the statutory requirements on the clear\n                                                                         width  of access and manoeuvring space and should not cause\n                                                                                 obstruction to access, circulation and exit routes."
+    },
+    {
+      "id": "p3-page-53",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        53
+      ],
+      "subparagraph_markers": [],
+      "text": "3.   Section B in                                               To add a heading and paragraph (j) after paragraph (i) in Section B\n     Division 9 of\n                                                                  Resting Places    Chapter 4*\n                                                                                                (j)     Seats (including fold-down  seats) or lean-on  railings should be\n                                                                           provided in recessed areas at maximum intervals of 50 m in:\n                                                                                                          (i)   long corridors and passageways within  transport  stations,\n                                                                                     interchanges and passenger terminals; and\n                                                                                                      (ii)   public passages within a building connecting with transport\n                                                                                                 stations, interchanges and passenger terminals.\n\n\n\n\n\n                                                                                        - 4 -"
+    },
+    {
+      "id": "page-54-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        54
+      ],
+      "text": "Item             2008 version                             Amendments"
+    },
+    {
+      "id": "p4-page-54",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        54
+      ],
+      "subparagraph_markers": [],
+      "text": "4.   Section B in  (d)  Automatic door opener should be provided on   (d)    Other than a domestic building,  automatic door openers should be\n     Division  10       the  main  entrance  door  of  buildings  not         provided on  all entrance doors of a building which are commonly\n     of Chapter 4*       included in paragraph 45 and should:                  used by the public, and should: -\n                                  (i)  remain open for a minimum of 5                   (i)   remain open for a minimum of 5 seconds;\n                              seconds;                                                        (ii)  have a guardrail where it opens into a route of travel (see\n                                   (ii)  have a guardrail where it opens into                    Figure 23);\n                             a route of travel (see Figure 23);                         (iii)  have a sign showing automatic door; and\n                                    (iii) have a sign showing automatic door;                 (iv)  be located outside of the door swing.\n                          and\n                              (iv) be located outside of the door swing.               Sliding automatic door with overhead sensor operating device or\n                                                                    manual large button control should be provided.\n                         Sliding automatic door with overhead sensor\n                        operating device or manual large button control\n                       should be provided."
+    },
+    {
+      "id": "p5-page-54",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        54
+      ],
+      "subparagraph_markers": [],
+      "text": "5.   Section B in                                               To add a heading and paragraph (j) after paragraph (i) in Section B\n     Division  10\n                                                              Unobstructed Area     of Chapter 4*\n                                                                                                (j)   An unobstructed area adjacent to the door handle on the leading face\n                                                                                of a single door should not be less than 600 mm in width.\n\n\n\n\n\n                                                                                        - 5 -"
+    },
+    {
+      "id": "page-55-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        55
+      ],
+      "text": "Item             2008 version                  Amendments"
+    },
+    {
+      "id": "p6-page-55",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        55
+      ],
+      "subparagraph_markers": [],
+      "text": "6.   Section B in                                  To add a heading, paragraph (k) and Figure 23A after paragraph (j) in Section B\n     Division  10\n                                            Door Thresholds     of Chapter 4*\n                                                             (k)  Door threshold (see Figure 23A) should have a bevelled and round edge on each side at\n                                                           a gradient not steeper than 1:2.\n\n\n\n\n\n                                                   Figure 23A – Example of Door Threshold\n\n\n\n\n\n                                                                                        - 6 -"
+    },
+    {
+      "id": "page-56-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        56
+      ],
+      "text": "Item             2008 version                                    Amendments"
+    },
+    {
+      "id": "p7-page-56",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        56
+      ],
+      "subparagraph_markers": [],
+      "text": "7.   Figure 27 in\n     Division  12\n     of Chapter 4*\n                                                                                                   VERTICAL GRAB\n                                                                                                            RAIL\n                                                                                          100mm (MAX.)\n                                                                                  FROM BATHTUB\n                                                                                                   RIM\n\n\n\n\n\n                                                                                            ADJUSTABLE\n                                                                              SHOWER\n                                                                                     HEAD\n                                                                                      450mm (MIN.)\n                                                                                   AND\n                                                                                        850mm (MAX.)\n                                                                                     ABOVE\n                                                                                      FLOOR\n                                                                                              LEVEL\n\n\n\n\n\n                                                                                        - 7 ­"
+    },
+    {
+      "id": "page-57",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        57
+      ],
+      "text": "Item          2017 version                                       Amendments\n\n\n\n\n\n                                                                                                                                                                           750 – 1300mm\n                                                                                                                                         ABOVE FLOOR\n                                                                                                                                                           LEVEL\n\n\n\n\n\n                                                                                                                    DIMENSIONS PRINTED IN BOLD FORM DENOTE OBLIGATORY DESIGN REQUIREMENTS\n                                                                                                                    DIMENSIONS PRINTED IN ITALIC FORM DENOTE RECOMMENDED DESIGN\n                                                                                                             REQUIREMENTS\n\n\n\n\n\n                                                                                        - 8 ­"
+    },
+    {
+      "id": "page-58-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        58
+      ],
+      "text": "Item             2019 version                  Amendments"
+    },
+    {
+      "id": "p8-page-58",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        58
+      ],
+      "subparagraph_markers": [],
+      "text": "8.   Division  13  BEST PRACTICE SECTION    BEST PRACTICE SECTION\n     of   Chapter\n                 A.   Design Considerations       A.   Design Considerations    4#*\n                        Persons     with      visual             Persons with visual impairment may have difficulty in identifying their locker for\n                       impairment   may    have              public use, and sanitary fitments in a public toilet or changing room.\n                             difficulty in identifying their\n                                                    B. Recommended Design Requirements                          lockers for public use.\n                                                                       (a)   Each locker door in a sports complex, public swimming pool complex or public                  B.   Recommended Design\n                                                                     area  should be provided with the locker number in Braille  and raised Arabic                      Requirements\n                                                                    numerals/characters*.\n                      Each locker door  in  sports\n                                                         * The  locker  key  holders  should  be  provided  with   raised  Arabic                       complex,  public swimming\n                                                                        numerals/characters.                        pool complex or public areas\n                        should  be  provided  with                                                                   (b)  A Braille and tactile plan (see Figure 32A) should be provided for the toilets with\n                            Braille cells and raised Arabic                                                                         five or more waterclosets (urinal in a public male toilet and changing room is\n                          numerals/characters*.                                                                 regarded as a watercloset for this purpose) in a public toilet/changing room. The\n                                *                                        plan should be installed on the wall adjacent to the door of the public toilet/                       The  locker  key  holders\n                                                              changing room, or their entrance if entrance door is not provided. The plan should                           should be provided with\n                                                            be placed at 900 mm to 1500 mm above the finished floor level.                              raised            Arabic\n                             numerals/characters.\n\n\n\n\n\n                                                                                        - 9 -"
+    },
+    {
+      "id": "page-59",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        59
+      ],
+      "text": "Item             2019 version                  Amendments\n\n\n\n\n\n                                                                                                               Watercloset *\n\n\n\n\n\n                                                     Figure 32A – Example of Braille and Tactile Plan of Toilet and Changing Room\n\n\n\n\n\n                                                                                       - 10 -"
+    },
+    {
+      "id": "page-60-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        60
+      ],
+      "text": "Item               2008 version                           Amendments"
+    },
+    {
+      "id": "p9-page-60",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        60
+      ],
+      "subparagraph_markers": [],
+      "text": "9.   Section A   in                                             To add paragraph (fa) after paragraph (f) in Section A\n     Division 14  of\n                                                                                    (fa)   For any part of a building used for the purposes as office, hotel,    Chapter 4#\n                                                                              guesthouse, hostel or bank, a tactile guide path should be installed\n                                                                     from the main entrance of the building to  lift zone, the nearest\n                                                                                  accessible toilet, public information/service counter, Braille and tactile\n                                                                                     floor plan, and staircase."
+    },
+    {
+      "id": "p10-page-60",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        60
+      ],
+      "subparagraph_markers": [],
+      "text": "10. Section  B   in                                             To add paragraph (ja) after paragraph (j) in Section B\n     Division 14  of\n                                                                                       (ja)   The  Braille  and  tactile  sign  for  public  toilet  required  under    Chapter 4*\n                                                                           paragraph 68(1) and (2) in Division 13 should be installed on the wall\n                                                                                adjacent to the open side of the toilet door or toilet entrance if toilet\n                                                                        door is not provided."
+    },
+    {
+      "id": "p11-page-60",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        60
+      ],
+      "subparagraph_markers": [],
+      "text": "11.  Section A   in                                             To add paragraph (c) after paragraph (b) in Section A\n     Division 16  of\n                                                                                  (c)    To enhance the illumination level of the lift lobby of upper floors,    Chapter 4#\n                                                                                      corridors, accessible paths and staircases, additional lighting to be\n                                                                           provided may be activated by sensors. The following factors should\n                                                                      be considered in setting the duration of such sensors:\n                                                                                                          (i)     length of the corridors and paths; and\n                                                                                                             (ii)    walking speed of the persons with visual impairment, other\n                                                                              forms of physical infirmities, etc.\n\n\n\n\n\n                                                                                       - 11 -"
+    },
+    {
+      "id": "page-61-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        61
+      ],
+      "text": "Item               2008 version                           Amendments"
+    },
+    {
+      "id": "p12-page-61",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        61
+      ],
+      "subparagraph_markers": [],
+      "text": "12. Section  B   in                                             To add paragraph (aa) after paragraph (a) in Section B\n     Division 16  of\n                                                                              (aa)    Lift lobby of upper floors, corridors, accessible paths and staircases    Chapter 4*\n                                                                           should have an illumination level of not less than 120 lux measured at\n                                                                                 the finished floor level. Such enhanced illumination may be provided\n                                                                  by additional lighting activated by sensors."
+    },
+    {
+      "id": "p13-page-61",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        61
+      ],
+      "subparagraph_markers": [],
+      "text": "13. Section  B   in                                             To add a heading and paragraph (i) after paragraph (h) in Section B\n     Division 19  of\n                                                            Mirror in Accessible Lift Car    Chapter 4*\n                                                                                                (i)   A non-breakable mirror or mirror-like surface should be provided\n                                                                                   inside an accessible lift car to allow visual feedback for wheelchair\n                                                                                 users when reversing backwards into the lift lobby. Such provision\n                                                                           should have a clear width not less than 850 mm and its bottom and top\n                                                                         edges should be not more than 300 mm and not less than 1800 mm\n                                                                      above the floor of the lift car respectively.\n\n\n\n\n\n                                                                                       - 12 -"
+    },
+    {
+      "id": "page-62",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        62
+      ],
+      "text": "Appendix H\n                                                                            (PNAP APP-41)\n\n\n\n      Summary of Amendments to the Design Manual: Barrier Free Access 2008\n                              (December 2021)\n\n       Design Considerations and Recommended Design Requirements under Best Practice Section\n\n1    Updated European Standard for keypad design of Destination Control System of lift control (item 1)\n2    Considerations for setting duration of sensors of additional lighting (item 2)\n3    Provision of resting places with resting facilities in long corridors and passageways (item 3)\n\n\n\n\n\n                                                            - 1 -"
+    },
+    {
+      "id": "page-63",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        63
+      ],
+      "text": "Amendments to the Design Manual: Barrier Free Access 2008\n                        (December 2021)\n\n\n\n\nLegends:\n\n1111 Amended\n\n1111 Deleted\n\n\n*    Recommended Design Requirements under Best Practice Section\n\n#    Design Guidelines for the Elderly and Elderly with Frailty\n\n\n\n\n\n                                                                       - 2 -"
+    },
+    {
+      "id": "page-64-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        64
+      ],
+      "text": "Item            2012 version                                       Amendments"
+    },
+    {
+      "id": "p1-page-64",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        64
+      ],
+      "subparagraph_markers": [],
+      "text": "1. Paragraph       (viii) The  design  of  the  keypad  shall  comply  with  the   (viii) The  design  of  the keypad   should comply with  the\n    (ba) in                international  standards  for  the use of persons with a         international  standards  for  the use  of persons with a\n   Section B             disability such as the European Standard EN 81-70:2003,         disability such as the European Standard EN 81-70:2018,\n   following            Safety rules for the construction and installations of lifts ­        Safety rules for the construction and installations of lifts ­\n   paragraph 83         Particular applications for passenger and goods passenger         Particular applications for passenger and goods passenger\n    in Division              lifts - Part 70: Accessibility to lifts for persons including           lifts - Part 70: Accessibility to lifts for persons including\n   19 of                persons with disability. Adequate signal and indication for        persons with disability. Adequate signal and indication for\n   Chapter 4*          use  shall be provided including an illuminated  visual        use  should be provided including an illuminated visual\n                          indicator and an audible signal.                                     indicator and an audible signal.\n\n\n\n\n\n                                                                                        - 3 ­"
+    },
+    {
+      "id": "page-65-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        65
+      ],
+      "text": "Item            2008 version                           Amendments"
+    },
+    {
+      "id": "p2-page-65",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        65
+      ],
+      "subparagraph_markers": [],
+      "text": "2. Item 6.2.2 of  Recommended Design Guidelines             Recommended Design Guidelines\n    the table in\n   paragraph     Where changes in level are unavoidable, the floor  Where changes in level are unavoidable, the floor and wall surfaces along the level\n   6.2 of         and wall surfaces along the level difference shall   difference should be in luminous contrast.\n   Chapter 6#     be in luminous contrast.\n                                                                   All common areas of a building should have an illumination level of not less than\n                   All common areas of a building should have an  120 lux measured at the finished floor level, and uniformity of illumination level\n                   illumination  level  of  not  less  than 120  lux  should be maintained for any space.\n                 measured  at  the  finished  floor  level,  and\n                   uniformity  of  illumination  level  should  be  Where additional lighting activated by sensors  is provided to enhance the\n                  maintained for any space.                         illumination level of the lift lobby of upper floors, corridors, accessible paths and\n                                                                             staircases, the length of the corridors and paths and the walking speed of the\n                   Alternative or stand-by light sources should be   elderly should be considered in setting the duration of such sensors.\n                  provided to illuminate any space in case of power\n                      failure.                                            Alternative or stand-by light sources should be provided to illuminate any space\n                                                                         in case of power failure.\n        …\n                             …"
+    },
+    {
+      "id": "p3-page-65",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        65
+      ],
+      "subparagraph_markers": [],
+      "text": "3. Item 6.2.3 of  Recommended Design Guidelines             Recommended Design Guidelines\n    the table in\n   paragraph      Resting places such as fold-down seats on stair  Resting places with resting facilities, such as seats (including fold-down seats) or\n   6.2 of          landings or in long corridors should be provided.   lean-on railings, should be :\n   Chapter 6#     Resting  places  in  external  recreation  spaces\n                                                                              (a)    provided on stair landings;                  should be adequately provided.\n                                                                          (b)    provided in long corridors; and\n                                                                              (c)    adequately provided in external recreation spaces.\n\n                                                      Long corridors and passageways within transport stations, interchanges and\n                                                                 passenger terminals, and public passages within a building connecting with\n                                                                         transport stations, interchanges and passenger terminals should be provided with\n                                                                          resting places with resting facilities. The resting facilities should be provided in\n                                                                    recessed areas at maximum intervals of 50 m.\n\n\n                                                                                        - 4 -"
+    },
+    {
+      "id": "page-66-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        66
+      ],
+      "text": "Item            2008 version                           Amendments"
+    },
+    {
+      "id": "p3-page-66",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        66
+      ],
+      "subparagraph_markers": [],
+      "text": "3. Item 6.2.3 of                                                  Resting facilities should not reduce the statutory requirements on the clear width\n    the table in                                                       of access and manoeuvring space and should not cause obstruction to access,\n   paragraph                                                            circulation and exit routes.\n   6.2 of\n   Chapter 6#\n    (cont’d)\n\n\n\n\n\n                                                                                        - 5 -"
+    },
+    {
+      "id": "page-67",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        67
+      ],
+      "text": "Appendix I\n                                                                            (PNAP APP-41)\n\n\n\nSummary of Amendments to the Design Manual: Barrier Free Access 2008 (2021 Edition)\n                                                  ( May 2024 )\n\n       Design Considerations and Recommended Design Requirements under Best Practice Section\n1    Requirements on riser of external steps and stairs. (item 1)\n2    Design considerations on handrail cross section profiles. (item 2)\n3     Braille and tactile information for exit of building on handrail of staircase. (item 3)\n4    Width of access route. (item 4)\n5    Additional push button for emergency call bell in accessible toilet. (item 5)\n6    Wall-mounted drinking fountain in an alcove. (item 6)\n\n\n\n\n\n                                                                         - 1 -"
+    },
+    {
+      "id": "page-68",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        68
+      ],
+      "text": "Amendments to the Design Manual: Barrier Free Access 2008 (2021 Edition)\n                                         ( May 2024 )\n\n\n\n\n  Legends:\n\n 1111 Amended\n\n\n #    Design Considerations under Best Practice Section\n\n *    Recommended Design Requirements under Best Practice Section\n\n\n\n\n\n                                                                                         - 2 -"
+    },
+    {
+      "id": "page-69-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        69
+      ],
+      "text": "Item           2021 Edition                          Amendments"
+    },
+    {
+      "id": "p1-page-69",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        69
+      ],
+      "subparagraph_markers": [],
+      "text": "1.  Section B in    (a)    For  any  internal   stair  with  heavy  (a)    For any internal stair with heavy circulation and any external steps and\n   Division 7 of           circulation, riser should be reduced to            stairs, riser should be reduced to 150 mm high and tread be increased to\n   Chapter 4 *         150 mm high and tread be increased to        300 mm wide for greater ease of use.\n                     300 mm wide for greater ease of use."
+    },
+    {
+      "id": "p2-page-69",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        69
+      ],
+      "subparagraph_markers": [],
+      "text": "2. Section A in    (a)    Handrail should be designed to provide  (a)     Handrail should be designed to provide easy, firm and comfortable grip\n   Division 8 of          easy, firm and comfortable grip to all          to all users and should have no obstruction when people slide their hands\n   Chapter 4 #           users and should have no obstruction         along the handrail. Handrail in shape other than tubular should provide\n                    when people slide their hands along the          user a grip similar to tubular handrail and adequate space should be\n                           handrail.                                      provided for installation of the Braille and tactile information as stated\n                                                                               in paragraph 30. Examples of acceptable handrail cross section profiles\n                                                                              (other than tubular shape) are shown in Figure 16AA.\n                                            Ø     Ø\n\n\n\n\n                                             Ø      Ø\n\n                                               ALL DIMENSIONS ARE IN mm\n                                                                 Figure 16AA – Examples of Acceptable Handrail Cross Section\n                                                                           Profiles (other than tubular shape)\n\n\n\n\n\n                                                                                                            - 3 -"
+    },
+    {
+      "id": "page-70-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        70
+      ],
+      "text": "Item           2021 Edition                          Amendments"
+    },
+    {
+      "id": "p3-page-70",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        70
+      ],
+      "subparagraph_markers": [],
+      "text": "3. Section B in                                             To add a heading, paragraph (f) after paragraph (e) in Section B\n   Division 8 of\n   Chapter 4 *\n                                                                    Braille and Tactile Information for Exit of Building\n                                                                                     (f)    For landings of staircase leading to the exit of a building, Braille and\n                                                                                         tactile information on exit of building (see Figure 16C) should be\n                                                                      provided on handrails of staircase as illustrated in Figure 13.\n\n\n\n\n\n                                                        Legend:\n                                                    BRAILLE AND TACTILE INFORMATION ON HANDRAIL\n                                              UNDER RECOMMENDED DESIGN REQUIREMENTS\n                                                            Figure 16C - Braille and Tactile Information on Handrail of Required\n                                                                                Staircase\n\n\n\n                                                                                                            - 4 -"
+    },
+    {
+      "id": "page-71-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        71
+      ],
+      "text": "Item           2021 Edition                          Amendments"
+    },
+    {
+      "id": "p4-page-71",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        71
+      ],
+      "subparagraph_markers": [],
+      "text": "4. Section B in    (a)    Path  width  should  be  more  than  (a)    Path width should be more than 1200 mm to enable a wheelchair user to\n   Division 9 of        1200 mm to enable a wheelchair user to        pass anyone who is on the same path or preferably at least 1500 mm to\n   Chapter 4 *           pass anyone who is on the same path or        allow two wheelchairs to pass.  For a hospital, purpose-built clinic,\n                          preferably at least 1500 mm to allow two        welfare  centre,  transport  station,  transport  interchange,  passenger\n                         wheelchairs to pass. At right angle turns,         terminal, school and shopping complex on a site of an area of not less than\n                           inside  corner  should  be  splayed  or       1000 m2, width of access routes, corridors, lobbies and paths which are\n                       rounded to at least 300 mm radius (see       commonly used by the public should be not less than 1500 mm. At right\n                         Figure 20).                                    angle turns, inside corner should be splayed or rounded to at least 300 mm\n                                                                           radius (see Figure 20).\n\n\n\n\n\n                                                                                                            - 5 -"
+    },
+    {
+      "id": "page-72-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        72
+      ],
+      "text": "Item          2021 Edition                           Amendments"
+    },
+    {
+      "id": "p5-page-72",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        72
+      ],
+      "subparagraph_markers": [],
+      "text": "5. Section A     (a)   A push button should be easily operated  To add paragraph (aa) after paragraph (a) in Section A\n    in Division         and  be  provided  in  any  individual\n                                                                            (a)   A push button should be easily operated and be provided in any   17 of                 accessible toilet compartment or a water\n                                                                            individual accessible  toilet compartment or a water closet cubicle   Chapter 4 #           closet cubicle designed for the persons\n                                                                      designed for the persons with a disability to summon assistance at seated                       with a disability to summon assistance at\n                                                                             position or on the floor when the person has fallen accidentally. The call                         seated position or on the floor when the\n                                                                             button, sometimes equipped with a pull cord of a length between                       person has fallen accidentally.  The call\n                                                              700 mm to 750 mm should be suitably positioned and reachable not more                          button, sometimes equipped with a pull\n                                                                        than 300 mm from floor level.                       cord of a length between 700 mm to\n                     750 mm should be suitably positioned and                                                                         (aa)  An additional push button should be installed below the push button                        reachable not more than 300 mm from                                                                     provided under paragraph 76 and should be located not more than                          floor level.                                                              200 mm above the finished floor level (see Figure 24).\n\n\n\n\n\n                     Figure 24 – Accessible Toilet\n                                                                 Figure 24 – Accessible Toilet\n\n\n\n                                                                                                            - 6 -"
+    },
+    {
+      "id": "page-73-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        73
+      ],
+      "text": "Item           2021 Edition                          Amendments"
+    },
+    {
+      "id": "p6-page-73",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        73
+      ],
+      "subparagraph_markers": [],
+      "text": "6. Section B in    (e)    The spatial arrangement should allow for   (e)  The spatial arrangement should allow for the provision of:\n   paragraph             the provision of:\n   5.6 of                                                                                     (i)  a clear floor space of at least 800 mm x 1200 mm;\n   Chapter 5 *               (i)   a  clear  floor space  of  at  least            (ii)  a clear knee space of at least 800 mm wide, 200 mm deep and\n                          750 mm x 1200 mm;                      680 mm high between the bottom of the apron and the floor or\n                                   (ii)   a  clear knee  space  of  at  least             ground; and\n                          750 mm wide, 200 mm deep and            (iii) a toe space not less than 800 mm wide, 230 mm deep and 230 mm\n                          680 mm high between the bottom              high.\n                               of  the  apron and  the  floor  or\n                              ground; and\n                                    (iii)  a toe space not less than 750 mm\n                              wide, 230 mm deep and 230 mm\n                                high.\n\n\n\n\n\n                                                                     Figure 46 – Built-in Drinking Fountain                   Figure 46 – Built-in Drinking Fountain\n\n                                                                                                            - 7 -"
+    },
+    {
+      "id": "page-74",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        74
+      ],
+      "text": "Appendix J\n                                                 (PNAP APP-41)\n\n                     CHAPTER 6\n\n            ELDERLY-FRIENDLY DESIGN GUIDELINES\n\n6.1   GENERAL\n\n      The guidelines set out in this Chapter aim to provide a safe and comfortable\n         living environment for the elderly who may gradually experience declining\n         abilities; promote active ageing by enabling the elderly to achieve autonomy\n      and independence without the help of others; and promote the elderly’s well-\n       being, in particular social interaction among the elderly and between the elderly\n      and other age groups.\n\n        Building owners and designers are encouraged to adopt these guidelines in the\n        building design as far as practicable.\n\n\n6.2   DESIGN GUIDELINES\n\n      The design guidelines set out as recommended design requirements are\n      grouped into four categories, namely Mobility and Accessibility (section 6.2.1),\n      Design  Adaptability  (section   6.2.2),  Well-being  (section   6.2.3),  and\n       Gerontechnology (section 6.2.4).\n\n\n6.2.1  Mobility and Accessibility\n\n      The functional capacity (such as muscular strength, balancing, vision and\n       hearing) of a person often declines gradually as ageing progresses, which may\n       increase the risk of accidents and injuries. One crucial factor for ageing in place\n         is to ensure safe mobility and accessibility of the built environment, both inside\n      and beyond the residential units.\n\n       Improving mobility and accessibility can significantly enhance the safety, health\n      and well-being, as well as the convenience of the elderly, promoting their\n      independence and reducing the risk of falls and other health complications.\n\n        In addition, ensuring smooth circulation between various major destinations will\n         facilitate  the  convenient and  efficient movement  of  building  occupants,\n        especially for the elderly.\n\n\n\n\n\n                                                       - 1 -"
+    },
+    {
+      "id": "page-75",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        75
+      ],
+      "text": "Location        Features         Recommended Design\n                                         Requirements\n\nResidential Units\nBathrooms        A1. Bathrooms      (a) Adequate clear space of not\n                                             less than 1200 mm diameter\n                                         should be allowed for turning\n                                                 of wheelchair and transfer of\n                                            users.\n\n                                            (b) Grab bars should be provided.\n\n                  A2. Doors            (a) Doorways of not less than 850\n                        mm  should be  provided  to\n                                           allow a  wheelchair  to pass\n                                           through.\n\n                                             (b) Sliding   doors   should  be\n                                          provided    for   easy   and\n                                         convenient use. Where sliding\n                                        doors could not be provided,\n                                        doors that take up less space,\n                                      such  as  folding  or  double\n                                       swing   doors,   should  be\n                                            provided.\n\n                  A3. Bathtubs /         ( a) Bathtub  should  have  either\n                   Showers              built-in seat at the head end of\n                                          bathtub or attachable portable\n                                          seat that fastens securely to\n                                           the tub when needed.\n\n                                             (b) Showers should be of size not\n                                             less than 1500 mm x 900 mm\n                                             with a folding seat  to allow\n                                               transfer of users.\n\n                                               (c) Grab bars should be provided.\n\n                  A4. Floor Surfaces   (a) Floor surfaces should comply\n                                             with the Best Practice Section\n                                       under   Division   4.      Slip-\n                                               resistant floor finishes should\n                                    be used. Shiny and reflective\n                                                 floors such as marble, glazed\n                                                        tiles and the  like should be\n                                          avoided.\n\n\n\n\n                                          - 2 -"
+    },
+    {
+      "id": "page-76",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        76
+      ],
+      "text": "Location        Features         Recommended Design\n                                         Requirements\nOthers            A5. Fittings and      (a) Double-switching    systems\n                        Furniture          should be considered.\n\n                                        Switches and controls should\n                                    be provided at reachable level.\n\n                                        For bedrooms, switches and\n                                             controls should be provided\n                                        near bedside to avoid crossing\n                                           the room in the dark.\n\n                                             (b) Lever-type    controls   and\n                                        handles should be used. Knob\n                                          handles, push operated and\n                                                self-closing    type    faucet\n                                             controls should be  avoided.\n                                    Examples  of  elderly-friendly\n                                        door handles and faucets are\n                                         provided in Figure 47.\n\n                                               (c) Cupboards  should  not  be\n                                                 installed   at   high    levels.\n                                    Overhead cabinets should be\n                                          avoided.   Pull-down shelves\n                                        should   be   provided    for\n                                      cupboards  at  high  level  or\n                                      overhead cabinets.\n\n                                             (d) Drying racks and laundry poles\n                                              projecting from  the  external\n                                             walls of the building should be\n                                          avoided.\n\n                                                 Flip hooks should be provided\n                                                at main entrance for hanging\n                                             items.\n\n\n\n\n\n                                          - 3 -"
+    },
+    {
+      "id": "page-77",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        77
+      ],
+      "text": "Location        Features         Recommended Design\n                                         Requirements\n\nCommon Areas and Facilities\nAccessible        A6. Corridors /       (a) Accessible routes should be\nRoutes               Paths and          without   steps,   thresholds,\n                      Lobbies / Lift       small   ramps    or   kerbs,\n                       Lobbies,          wherever  possible.   Where\n                     Steps /           changes     in    level    are\n                        Staircases,         unavoidable, handrails or grab\n                           etc.               bars should be provided. The\n                                                   floor and wall surface along the\n                                                level of difference should be in\n                                        luminous contrast.\n\n                                             (b) Handrails should be provided\n                                         along common corridors.\n\n                                               (c) Steps and staircases should\n                                    be designed with wider treads\n                                    and lower risers.\n\n                  A7. Handrails        (a) Handrails  to  corridors, steps\n                                    and  staircases  should  be\n                                        lowered to a height between\n                                    810 mm and 900 mm from the\n                                              finished floor level to the top of\n                                           the handrails.\n\n                                          Handrails   should   be    of\n                                            materials such as timber or\n                                             with plastic coated surfaces for\n                                            easier grip.\n\n                  A8. Doors            (a) Automatic  doors  should  be\n                                          provided as far as practicable.\n\n                                             (b) If  door  closing  devices  are\n                                                  installed,   they  should  be\n                                       designed to allow external and\n                                                internal doors to be opened\n                                             with horizontal forces of not\n                                   more  than  28N  and  18N\n                                               respectively.\n\n                                               (c) Lever-type handles should be\n                                         used. Knob handles should be\n                                          avoided. Examples of elderly-\n                                                 friendly  door  handles  are\n                                          provided in Figure 47.\n\n\n                                          - 4 -"
+    },
+    {
+      "id": "page-78",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        78
+      ],
+      "text": "Location        Features         Recommended Design\n                                         Requirements\n                  A9. Floor Surfaces   (a) Floor surfaces should comply\n                                             with the Best Practice Section\n                                       under   Division   4.      Slip-\n                                               resistant floor finishes should\n                                    be used. Shiny and reflective\n                                                 floors such as marble, glazed\n                                                        tiles and the  like should be\n                                          avoided.\n\n                                Open   jointed   pavers   or\n                                            aeration  paver  blocks  with\n                                    uneven or very rough surface\n                                        should be avoided at external\n                                    open spaces.\n\nLifts, Escalators   A10. Larger Lift      (a) Larger lift cars with clear depth\nand Passenger        Cars                of not less than 1.5 m should\nConveyors                           be provided.\n\n                  A11. Seating         (a) Resting   facilities  such  as\n                          within Lift           folding seats or lean on railings\n                     Cars             should be provided within the\n                                                                               lift cars except fireman’s lifts.\n\n                 A12. Lift Control     (a) Control panels or buttons at\n                      Panels            the    lift  lobbies  should  be\n                         or Buttons         located at 1050 mm above the\n                                              finished  floor  level.   They\n                                        should be easy to operate and\n                                     have  a  minimum  luminous\n                                             contrast of 30%.\n\n                                             (b) Lift control buttons in the  lift\n                                          cars should be back-lit.\n\n                                               (c) Audio  indication  helping  the\n                                               elderly  to  locate themselves\n                                        should be provided in the  lift\n                                              cars.\n\n                 A13. Escalators      (a) Escalators  and  passenger\n                    and              conveyors should be designed\n                     Passenger         with slower speed.\n                     Conveyors\n\n\n\n\n\n                                          - 5 -"
+    },
+    {
+      "id": "page-79",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        79
+      ],
+      "text": "Location        Features         Recommended Design\n                                                      Requirements\n                  Toilets and WC    A14. Toilets and     (a) Doors  of   toilets  and WC\n               Cubicles         WC               cubicles should open outward\n                                       Cubicles          or  both  ways.   Locks and\n                                                            latches should be  of  larger\n                                                            sizes and be able to open from\n                                                           outside with a coin.\n\n                                                              (b) Lever-type    controls   and\n                                                      handles should be used. Knob\n                                                         handles, push operated and\n                                                                 self-closing    type    faucet\n                                                              controls should be  avoided.\n                                                 Examples  of  elderly-friendly\n                                                      door handles and faucets are\n                                                         provided in Figure 47.\n\n                                                                 (c) Emergency   alarm   system\n                                                       should     be      provided.\n                                                Emergency  call  bell  should\n                                                   comply   with   Division   17.\n                                                    Should pull-cord be installed,\n                                                         they must be extended to floor-\n                                                                      level.\n\n             Car Parks         A15. Vehicular       (a) Audio  / visual warning signal\n                                     Entrances        should   be   provided    at\n                                                             vehicular  entrances  of  car\n                                                           parks.\n\n              Others           A16. Signs and      (a) Signages\n                                      Decorations\n                                                              Bright primary colours should\n                                                 be  used  as   contrast   or\n                                                                 highlight       for      easier\n                                                                    differentiation  1  .  Monotone\n                                                            colour should be avoided.\n\n                                                       Colour combination  of signs\n                                                   such as yellow figure on black\n                                                    background or white figure on\n                                                         blue     background        is\n                                                 recommended.\n\n\n\n1   In general, elderly may become less sensitive to colours having shorter wavelengths (blues,\n   greens and violets) as their lenses thicken and yellow with age. Warm colours with longer\n   wavelengths (reds, oranges and yellows) are easier for them to differentiate.\n\n                                                                  - 6 -"
+    },
+    {
+      "id": "page-80",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        80
+      ],
+      "text": "Location        Features         Recommended Design\n                                     Requirements\n                                           In addition to colour contrasts,\n                                         clear  signs  with  bigger  font\n                                        size should be provided  for\n                                            elderly-friendly  facilities  and\n                                              floor numbering.\n\n                                        (b) Wayfinding\n\n                                           Different colours for different\n                                          building  blocks,  floor  levels,\n                                    zonings or areas of different\n                                          functional    purposes    are\n                               recommended      to      aid\n                                       wayfinding.\n\n                                           Different   floor  surfaces  or\n                                       colours should be considered\n                                              for  tactile   /  visual cues  for\n                                         navigation.\n\n                                      Noticeable features, artworks,\n                                   landmarks such as sculptures,\n                                          planters, or fountains should\n                                be   provided   at   different\n                                      entrances,    zonings   and\n                                                  facilities for easy identification.\n\n             A17. Lighting         (a) All common areas of a building\n                 Arrangement      should have an  illumination\n                                            level of not less than 120 lux\n                                measured at the finished floor\n                                              level,   and   uniformity   of\n                                           illumination  level  should be\n                                     maintained for any space.\n\n                                        (b) Where    additional    lighting\n                                        activated   by   sensors    is\n                                     provided   to  enhance   the\n                                           illumination  level  of  the   lift\n                                     lobby    of   upper    floors,\n                                           corridors,  accessible  paths\n                                and staircases, the length of\n                                      the corridors and paths and the\n                                      walking speed of the elderly\n                                    should  be   considered   in\n                                          setting the duration  of such\n                                      sensors.\n\n\n                                   - 7 -"
+    },
+    {
+      "id": "page-81",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        81
+      ],
+      "text": "Location        Features         Recommended Design\n                                     Requirements\n                                          Alternative  or  stand-by  light\n                                    sources should be provided to\n                                          illuminate any spaces in case\n                                           of power failure.\n\n                                      Consideration should be given\n                                           to ensure gradual transition of\n                                             lighting levels from one place\n                                           to another.\n\n                               The use of natural lighting or\n                                   ambient  artificial  white  light\n                                    should be encouraged.\n\n                               The use of wall-mounted light\n                                        or peripheral lighting from floor\n                                 lamps are superior to a central\n                                            ceiling source as the formation\n                                           of shadows can be avoided.\n\n                                  Bare   light  bulbs  producing\n                                        glare which would cause pain\n                                           to the aging eyes should be\n                                      avoided.\n\n                                                 All interior spaces should be lit\n                                           at a consistent and even level,\n                                    from floor to ceiling and from\n                                          wall  to  wall.   High contrast\n                                 between  shadow  and   light\n                                        creating    confusion    and\n                                          disorienting patterns should be\n                                      avoided.\n\n\n\n\n\n                                   - 8 -"
+    },
+    {
+      "id": "page-82",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        82
+      ],
+      "text": "6.2.2  Design Adaptability\n\n     A person’s  living needs and preferences may change throughout his/her\n        lifespan. Allowing the flexibility in modifying a residential unit without the need\n         for structural alteration is a crucial aspect to facilitate ageing in place. Providing\n       design adaptability in a home environment can accommodate evolving needs\n      and preferences over time while obviating the need for relocation at old age.\n       This enables the elderly to stay in the same and familiar environment and\n      neighbourhood as they age, thus maintaining their family and community\n       connections.\n\n           Location        Features         Recommended Design\n                                                Requirements\n\n        Residential Units\n         Individual Flats    B1. Convertibility    (a) To suit the needs of the elderly\n                                 without              at     different    ages,    the\n                                   Structural           residential  units  should  be\n                                   Alteration           convertible without the need for\n                                            making structural alterations so\n                                             as   to  accommodate   the\n                                                       following        elderly-friendly\n                                                   designs:\n\n                                            To reduce possible safety risks\n\n                                                                                               i.   Raised deck or similar to\n                                               overcome level difference\n                                                between indoor living area\n                                              and the balcony;\n                                                                                                    ii.   Handrail   /  grab  bars  in\n                                                                         toilet / shower area;\n                                                                                                      iii.  Shower seat; and\n                                                                        iv.  Low    threshold    and\n                                                       curbless walk-in shower.\n\n                                            To  cater  for  the  elderly on\n                                                  wheelchair\n\n                                                              v.  Lower  door  viewer   for\n                                               main entrance (see Figure\n                                                           48);\n                                                                        vi.  Wider corridor within units\n                                                          with a clear width of not\n                                                          less than 950 mm;\n                                                                              vii. Large and  /  or two-way\n                                                      switches and controls at\n                                                    reachable level;\n                                                                                   viii. Maneuvering area of not\n                                                          less   than  1200  mm\n                                                     diameter in main entrance,\n\n                                                       - 9 -"
+    },
+    {
+      "id": "page-83",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        83
+      ],
+      "text": "Location        Features         Recommended Design\n                                         Requirements\n\nResidential Units\n                                                  kitchen,      toilet    and\n                                         bedroom;\n                                                            ix.  Wider internal door with a\n                                                  clear width of not less than\n                                       850 mm; and\n                                                   x.  Knee space under kitchen\n                                                 sink and wash basin.\n\n                                     To improve convenience\n\n                                                            xi.  Counter–top   in  kitchen\n                                                 with a depth of not more\n                                            than 600 mm; and\n                                                                 xii. Adequate       drainage\n                                                provisions    to   enable\n                                              adaptive design.\n\n                              See Sample Layout  of  Elderly-\n                                             friendly Adaptive Design in Figure\n                                       49.\n\n\n\n\n\n                                         - 10 -"
+    },
+    {
+      "id": "page-84",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        84
+      ],
+      "text": "6.2.3  Well-being\n\n             Design features relating to well-being aim to promote a sense of contentment,\n            encourage social participation and enhance intergenerational interaction and\n             harmony. They reflect the important role that the built environment plays as\n              they cater  to the  physical, mental and emotional needs  of the  elderly.\n             Convenient and easy access to recreational facilities with equipment/ facilities\n                that are designed for the elderly and a greater connection with nature can\n                significantly improve the health and quality of life of the elderly, promote physical\n                  activity, social engagement, and sense of well-being.\n\n            These amenities may also serve “multi-generation” users which will in turn\n            promote intergenerational harmony.\n\n                  Location        Features         Recommended Design\n                                                      Requirements\n\n               Residential Units\n               Habitable Space   C1. Windows        (a) Larger  windows  with  lower\n                                                window     cills   should   be\n                                                        provided   to   increase   the\n                                                amount  of  natural  light and\n                                                           allow views of the outside for\n                                                          the elderly when seated or on\n                                                        wheelchair  (see  Figure  50).\n                                                         This can have positive impact\n                                                on moods and reduce feelings\n                                                                 of  depression  and  anxiety.\n                                                         Nevertheless, requirements of\n                                                              protective  barrier  should be\n                                                      complied with. Other concerns\n                                                   such as privacy and fear  of\n                                                           height   should    also   be\n                                                         considered.\n\n                                                               Sliding  windows  should  be\n                                                    adopted to enhance daily use\n                                                   by the elderly.\n\n          Common Areas and Facilities\n                Corridors / Paths   C2. Lighting and     (a) Large windows at the end of\n             and Lobbies / Lift        Ventilation         long and dark  corridors  that\n              Lobbies                          may cause  glare should be\n                                                         avoided.\n\n                                                   Cross  ventilation  should be\n                                                         optimised  in common areas\n                                                   such  as  corridors  and    lift\n                                                               lobbies.\n\n\n                                                                 - 11 -"
+    },
+    {
+      "id": "page-85",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        85
+      ],
+      "text": "Location        Features         Recommended Design\n                                         Requirements\n                 C3. Resting          (a) Resting  places  with  resting\n                            Facilities              facilities,   such   as   seats\n                                              (including fold-down seats) or\n                                          lean on railings, should be:\n\n                                                                  (i)  provided on stair landings;\n                                                                       (ii)  provided in corridors more\n                                            than 50 m in length; or\n                                                                          (iii) provided   in   typical    lift\n                                                  lobbies.\n\n                                            (b) Long       corridors     and\n                                    passageways within transport\n                                                stations,   interchanges  and\n                                      passenger   terminals,   and\n                                             public  passages   within  a\n                                              building    connecting    with\n                                             transport              stations,\n                                         interchanges and  passenger\n                                            terminals should be provided\n                                            with resting places with resting\n                                                         facilities. The resting facilities\n                                        should be provided in recessed\n                                       areas at maximum intervals of\n                                   50 m.\n\n                                         Resting facilities for items (a)\n                                   and  (b)  above  should  not\n                                       reduce      the      statutory\n                                        requirements  on  the  clear\n                                          width     of    access   and\n                                      manouvering   space,   and\n                                        should not cause obstruction to\n                                         access,  circulation  and  exit\n                                             routes.\n\nToilets and WC    C4. Elderly-          (a) Elderly-friendly  toilets should\nCubicles                 friendly          be provided and located in an\n                           Toilets                                              easily   accessible  common\n                                       area  or  within a  toilet  with\n                                              multiple cubicles.\n\n                                 See Sample of Elderly-friendly\n                                                   Toilet in Figure 51.\n\n\n\n\n\n                                         - 12 -"
+    },
+    {
+      "id": "page-86",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        86
+      ],
+      "text": "Location        Features         Recommended Design\n                                         Requirements\n                 C5. Elderly-          (a) Elderly-friendly      changing\n                           friendly             station /  facilities with an adult\n                    Changing                                             sized,    height    adjustable\n                        Station /                                       changing  bench,  either  wall\n                            Facilities in                                   mounted or free standing  in                       Accessible\n                                          accessible  toilets  should be                           Toilets\n                                           provided.\n\nExternal          C6. Elderly-          (a) Resting  places  with  resting\nRecreation               friendly                facilities,   such   as   seats\nSpaces               Resting             (including  fold-down  seats),\n                            Facilities           lean-on  railing,  fixed  chairs,\n                                            tables  and  benches,  steps,\n                                             planter   edges   for    sitting\n                                            preferably with shelters or at\n                                       covered  areas  should  be\n                                         provided   at  outdoor  open\n                                        space.\n\n              C7 Elderly-          (a) Elderly-friendly          fitness\n                          friendly           equipment such as twister and\n                       Fitness             stepper, pull-down equipment,\n                    Equipment         stepping platforms, chest press\n                                        equipment, tai-chi wheels and\n                                       areas   with   safety   flooring\n                                     system should be provided.\n\n                 C8. Elderly-          (a) Knee   spaces   should  be\n                           friendly            provided under the planters for\n                        Planters for       community farming which can\n                   Community        help to improve focus, memory\n                     Farming         and  cognitive  function  (see\n                                          Figure 52).\n\nOthers           C9. Choice of        (a) Sound-absorbing    materials\n                        Material           should be used for floors and\n                                             walls to avoid echoes.\n\n                                        Non-glare or low gloss finishes\n                                   on floors, matt paint or textured\n                                          wallpaper on walls should be\n                                        considered  to  help  reduce\n                                               glare.    Glass  or  reflective\n                                            material should be avoided.\n\n\n\n\n\n                                         - 13 -"
+    },
+    {
+      "id": "page-87",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        87
+      ],
+      "text": "6.2.4  Gerontechnology\n\n      There are new technologies that can enhance safety and convenience, facilitate\n       ageing  in place, and foster confidence and independence of the  elderly.\n        Effective use of technology is not only a solution to elderly care but also an\n       enabler for the elderly to lead a more independent life.\n\n       Gerontechnology  helps  the  elderly  with  declining  capacities  to  support\n       themselves. Hardware and software applications to assist the elderly and/or\n         their carers are under rapid development, and the elderly are becoming more\n        technologically literate. By integrating assistive technologies into daily life, the\n        elderly can overcome certain physical limitations, maintain cognitive function,\n      and access vital services more easily. Some intelligent devices may also help\n       detect accident of an unattended elderly. The adoption of gerontechnology\n       requires a robust and accessible infrastructure that supports both technological\n      and social integration. This includes high-speed and stable internet access in\n        residential units and common areas of the buildings.\n\n           Location        Features         Recommended Design\n                                                Requirements\n         Residential Units   D1. Network         (a) Enabling works for high-speed\n       and Common                         and stable  internet provision\n        Areas                                           (e.g. 5G)  / Global Positioning\n                                           System   /  Radio  Frequency\n                                                           Identification  Technology   to\n                                                  support     the    use     of\n                                                gerontechnology and Internet\n                                                          of  Things  (e.g.  smart  card\n                                             system   for  main  entrance;\n                                                 water flow sensor; call caring\n                                                      services;   motion    sensor;\n                                           window    opener;     artificial\n                                                         intelligence    and     robotic\n                                                    support;  remote  gas  heater\n                                                          control;  and  door  sensor)\n                                                should   be   provided    in\n                                                         residential units and common\n                                               areas of the buildings.\n\n\n\n\n\n                                                      - 14 -"
+    },
+    {
+      "id": "page-88",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        88
+      ],
+      "text": "Figure 47 – Examples of Elderly-friendly Door Handles and Faucets\n\n\n\n\n\n                                                  - 15 -"
+    },
+    {
+      "id": "page-89",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        89
+      ],
+      "text": "Figure 48 – Sample of Lower Eye Viewer\n\n\n\n\n\nFigure 49 – Sample Layout of Elderly-friendly Adaptive Design\n\n\n\n                                              - 16 -"
+    },
+    {
+      "id": "page-90",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        90
+      ],
+      "text": "Figure 50 – Example of Lower Window Level\n\n\n\n\n\n                                - 17 -"
+    },
+    {
+      "id": "page-91",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        91
+      ],
+      "text": "Recommended Design Requirements\n\n                                                (a)  Open outward / folding door;\n                                                (b)   Grab bars on both sides of the\n                                                     cubicle, one side with L-shape\n                                             grab bars;\n                                                  (c)   Emergency      call     buttons\n                                             complying with Division 17 in the\n                                                     cubicle;\n                                                (d)   Hands-free  sensor  type   toilet\n                                                        flush;\n                                                (e)   Holding device for walking sticks\n                                        and bags;\n                                                               (f)   Minimum internal width 900 mm\n                                        and door width 850 mm;\n                                                (g)   Adequate manoeuvring space of\n                                        350 mm diameter between the\n                                                  cubicle door and the water closet;\n                                        and\n                                                (h)  A sign installed outside showing\n                                                the  cubicle  is  equipped  with\n                                                     elderly friendly facilities.\n\n\n\n\n\n          Sample of Signage for Elderly-friendly Toilet\n(Note: Clear text, such as “Elderly-friendly Toilet” should be shown on the signage)\n\n     Figure 51 – Sample of Elderly-friendly Toilet\n\n\n\n                                        - 18 -"
+    },
+    {
+      "id": "page-92",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        92
+      ],
+      "text": "Figure 52 – Knee Space under Planter for Community Farming\n\n\n\n\n\n(6/2025)\n\n\n\n\n\n                                                                 - 19 -"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "code": "APP-064",
+  "source_text": "indexed_text/PNAP/APP/APP-064.txt",
+  "source_pdf": "documents/PNAP/APP/APP-064.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers   APP-64\n\n                         Practice Note for Authorized Persons and\nBuildings Department                                                 167\n                        Registered Structural Engineers\n\n\n                   Methods for Testing Hong Kong Soils\n          (GEOSPEC 3 - Model Specification for Soil Testing)\nIntroduction\n\n\n           This Practice Note announces the adoption of a Hong Kong soil testing\n standard – Geospec 3 to suit Hong Kong conditions.  The standard is prepared to cater\n for the need of the profession for a comprehensive Hong Kong soil testing standard.   It\ncovers soil classification and compaction tests as listed in Appendix A (Expanded Phase I\n soil tests – 32 nos.) and soil shear strength and compressibility tests as listed in Appendix\nB (Phase II soil tests – 7 nos.).  Geospec 3 – Model Specification for Soil Testing is\n published by the Geotechnical Engineering Office (GEO) of the Civil Engineering and\nDevelopment  Department  and  can  be  purchased  online  at  the  website  of  the\nGovernment Bookstore: http//bookstore.esdlife.com.\n\n\nBackground"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        In 1992, with an aim to produce a series of standards for the testing of soils in\nHong Kong, the GEO initiated a review of standards for the testing of soils, which is\nbased on amendment of British Standard BS 1377: 1990 – “Methods of Test for Soils for\n Civil Engineering Purposes”.  The first phase of the review covered soil classification\nand compaction tests.  The result of the review was the recommendation of a new\n standard contained in GEO Report No. 36 – “Methods of Test for Soils in Hong Kong\n for Civil Engineering Purposes (Phase  I Tests)”.  PNAP 167 was  first issued  in\nSeptember 1994 to promulgate the new standards contained in GEO Report No. 36.\nThe second phase of the review included the soil shear strength and compressibility tests\n(Phase II soil tests), as well as Phase I tests and additional tests of the same nature\n(Expanded Phase  I soil  tests).  The Geospec 3 now available contains 32 standard\nprocedures for Expanded Phase I soil tests and 7 standard procedures for Phase II soil\n tests.\n\nApproval of plans or consent application"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          It  is recommended  that Authorized Persons (AP), Registered Structural\nEngineers (RSE) and  Registered  Geotechnical  Engineers (RGE)   should  adopt\nGeospec 3 as the\n                                                                                     / standard….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "standard when  specifying  relevant  soil  testing  for  the  investigation, design and\nconstruction of building development projects.  Whenever a test report involving soil\ntests is submitted in support of a plan for approval or in compliance with a condition\nof approval/consent under the Buildings Ordinance section 17(1) sub-section 6(b), the\nBuilding Authority (BA) may refuse approval of plans or consent for commencement\nof building works  if the  soil  tests have not been carried out in accordance with\nGeospec 3.  The BA may also refuse approval of ground investigation plans in the\nScheduled Areas, site formation plans or any other plans with geotechnical content if\nthe soil tests are carried out at variance with the standards in Geospec 3.  Likewise,\nif the in-situ density tests and laboratory compaction tests on  fill material have not\nbeen carried out in accordance with Geospec 3, the Certificate of Completion for the\nfilling works may not be accepted (PNAP 55 refers).\n\n\nSelection of laboratories"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.      Where soil tests are to be carried out, only laboratories accredited under the\nHong Kong Laboratory Accreditation Scheme (HOKLAS) for the relevant tests shall\nbe employed.  The BA will only accept results issued on HOKLAS-endorsed test\ncertificates or reports.   It is therefore important that the AP/RSE/RGE should ensure\nthat the laboratory appointed has been accredited by Hong Kong Accreditation Service\n(HKAS) to carry out the tests ordered and is authorised to issue HOKLAS-endorsed\ntest  certificates or reports for these  tests.  The HKAS publishes a Directory of\nAccredited  Laboratories (HOKLAS  009)  every  year  listing  all  the  laboratories\naccredited under HOKLAS for various tests.  Information on the most updated list of\nlaboratories and  their accredited  tests may be obtained from HKAS through the\nQuality Services Division of the Innovation and Technology Commission at telephone\n2829 4840 or  the HKAS website http://www.info.gov.hk/itc/hkas.   Guidance on\nselection of laboratories is given in clause 2.3 of Geospec 3.\n\n\nCredibility of soil testing data"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.      The BA attaches great importance to the representativeness and accuracy of\nsoil testing data which are used to support the proposed investigation, design or\nconstruction for building development projects.   In  this regard, the BA takes a\nserious view of the credibility of such data and will give them due consideration in the\ncontext of both the disapproval of plans and the administration of sanctions for\nknowingly misrepresenting material facts in submissions to the BA.  To assist APs,\nRSEs and RGEs , the following practical guidelines are given:\n                                                                                             / care …..\n\n\n                                 2"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "-    care should be taken in preparing the test schedule according\n                to the geology of the site and relevant information should be\n             provided  for  each  test  in  accordance  with  Geospec  3,\n              including information on soil type;\n\n            -    sampling,  storage  and   transportation  of  samples  and\n              preparation of test samples should be properly supervised to\n              prevent sample disturbance and to ensure sample security;\n\n            -     tests should be carried out with due care and test results are\n              properly documented, and where appropriate, analysed and\n               vetted; and\n\n            -   any HOKLAS-endorsed test reports should not be reproduced\n              except  in  full and any doubts on such reports should be\n                clarified with HKAS for submission to the BA.\n\n\nLaboratory Accreditation to Geospec 3 Standards"
+    },
+    {
+      "id": "p6-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "6.       For any soil tests carried out on or after 1 July 2004, the BA will only\naccept HOKLAS-endorsed soil  test certificates or reports from laboratories which\nhave been accredited by HKAS for the relevant tests in accordance with Geospec 3.\n\n\nPhase I soil tests in GEO Report 36"
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "7.       For soil tests carried out before 1 July 2004, the BA will continue to accept\nHOKLAS-endorsed certificates or reports for Phase I soil tests listed in Appendix C\nconducted  in accordance with GEO Report No. 36.  The BA  will  also accept\nHOKLAS-endorsed  test  certificates or reports for the relevant Phase  I  soil  tests\nconducted in accordance with Geospec 3 as equivalent.\n\n\n\n\n\n                                                                  ( H W CHEUNG )\n                                                   Building Authority\nRef. : BD GR/GEO/10\n\nFirst Issue  September 1994\nLast revision  May 2004 (AD/NB2, AD(G)/HKI)\nThis revision  December 2005 (AD/Sup)  (Paras. 1,3, 4 & 5 amended)\n\nIndex under:  Soil testing\n\n                                   3"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                     (PNAP 167)\n                                                            (APP-64)\n         Testing Standard for Expanded Phase I Soil Tests in Geospec 3\n\n\nStandard methods                           Specific tests\n\nGeospec 3 –        Determination of Moisture Content by Oven-drying at 45 ± 5°C\nTest Method 5.1\nGeospec 3 –        Determination of Moisture Content by Oven-drying at 105 ± 5°C\nTest Method 5.2\nGeospec 3 –       Comparative Test for the Determination of Moisture Content by\nTest Method 5.3    Oven-drying\nGeospec 3 –        Determination of Liquid Limit, Plastic Limit and Plasticity Index\nTest Method 6.1\nGeospec 3 –        Determination of Liquidity Index\nTest Method 6.2\nGeospec 3 –        Determination of Particle Density by Gas Jar Method\nTest Method 7.1\nGeospec 3 –        Determination of Particle Density by Small Pyknometer Method\nTest Method 7.2\nGeospec 3 –        Determination of Particle Size Distribution by Wet Sieving\nTest Method 8.1    (with Dispersant)\nGeospec 3 –        Determination of Particle Size Distribution by Wet Sieving\nTest Method 8.2    (without Dispersant)\nGeospec 3 –        Determination of Particle Size Distribution by the Pipette Method\nTest Method 8.3    (with Dispersant)\nGeospec 3 –        Determination of Particle Size Distribution by the Pipette Method\nTest Method 8.4    (without Dispersant)\nGeospec 3 –        Determination of Particle Size Distribution by the Hydrometer\nTest Method 8.5   Method (with Dispersant)\nGeospec 3 –        Determination of Particle Size Distribution by the Hydrometer\nTest Method 8.6   Method (without Dispersant)\nGeospec 3 –        Construction of a Continuous Particle Size Distribution Curve\nTest Method 8.7    from the Results of Wet Sieving and Sedimentation Tests\nGeospec 3 –        Determination of Organic Matter Content\nTest Method 9.1\nGeospec 3 –        Determination of the Mass Loss on Ignition\nTest Method 9.2\nGeospec 3 –        Determination of Total Sulphate Content of Soils and Sulphate\nTest Method 9.3    Content of Groundwater and of Aqueous Soil Extracts by\n                   Gravimetric Method\nGeospec 3 –        Determination of Water-soluble Chloride Content\nTest Method 9.4\nGeospec 3 –        Determination of the pH Value\nTest Method 9.5\n\n\n\n\n                                      1"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Testing Standard for Expanded Phase I Soil Tests in Geospec 3 (Cont’d)\n\n\n Standard methods                           Specific tests\n\nGeospec 3 –         Determination of Dry Density/Moisture Content Relationship of\nTest Method 10.1    Soils Containing Particles Which are Not Susceptible to Crushing\n                    (Using 1000 cc Mould and 2.5 kg Rammer)\nGeospec 3 –         Determination of Dry Density/Moisture Content Relationship of\nTest Method 10.2    Soils Containing Particles Which are Susceptible to Crushing\n                    (Using 1000 cc Mould and 2.5 kg Rammer)\nGeospec 3 –         Determination of Dry Density/Moisture Content Relationship of\nTest Method 10.3    Soils Containing Particles Which are Not Susceptible to Crushing\n                    (Using CBR Mould and 2.5 kg Rammer)\nGeospec 3 –         Determination of Dry Density/Moisture Content Relationship of\nTest Method 10.4    Soils Containing Particles Which are Susceptible to Crushing\n                    (Using CBR Mould and 2.5 kg Rammer)\nGeospec 3 –         Determination of Dry Density/Moisture Content Relationship of\nTest Method 10.5    Soils Containing Particles Which are Not Susceptible to Crushing\n                    (Using 1000 cc Mould and 4.5 kg Rammer)\nGeospec 3 –         Determination of Dry Density/Moisture Content Relationship of\nTest Method 10.6    Soils Containing Particles Which are Susceptible to Crushing\n                    (Using 1000 cc Mould and 4.5 kg Rammer)\nGeospec 3 –         Determination of Dry Density/Moisture Content Relationship of\nTest Method 10.7    Soils Containing Particles Which are Not Susceptible to Crushing\n                    (Using CBR Mould and 4.5 kg Rammer)\nGeospec 3 –         Determination of Dry Density/Moisture Content Relationship of\nTest Method 10.8    Soils Containing Particles Which are Susceptible to Crushing\n                    (Using CBR Mould and 4.5 kg Rammer)\nGeospec 3 –         Determination of In-situ Bulk Density and In-situ Dry Density of\nTest Method 11.1    Soils by Sand Replacement Method Suitable for Fine- and\n                   Medium-grained Soils (With Small pouring Cylinder)\nGeospec 3 –         Determination of In-situ Bulk Density and In-situ Dry Density of\nTest Method 11.2    Soils by Sand Replacement Method Suitable for Fine-, Medium-\n                   and Coarse-grained Soils (With Large Pouring Cylinder)\nGeospec 3 –         Determination of In-situ Bulk Density and In-situ Dry Density of\nTest Method 11.3    Soils by Nuclear Densometer Method Suitable for Fine- and\n                   Medium-grained Soils\nGeospec 3 –         Determination of Relative Compaction of Fill Material\nTest Method 11.4\nGeospec 3 –         Determination of the California Bearing Ratio (CBR)\nTest Method 12.1\n\n\n\n\n(Rev. 5/2004)\n\n\n\n                                      2"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix B\n                                                    (PNAP 167)\n                                                            (APP-64)\n              Testing Standard for Phase II Soil Tests in Geospec 3\n\n\n Standard methods                           Specific tests\n\nGeospec 3 –        The One-dimensional Consolidation Test\nTest Method 14.1\nGeospec 3 –        The Isotropic Compression Test in a Triaxial Cell\nTest Method 14.2\nGeospec 3 –        The Unconsolidated Undrained Triaxial Compression Test\nTest Method 15.1    Without Pore Pressure Measurement\nGeospec 3 –        The Isotropically Consolidated Undrained Triaxial\nTest Method 15.2    Compression Test With Pore Pressure Measurement\nGeospec 3 –        The Isotropically Consolidated Drained Triaxial Compression\nTest Method 15.3    Test With Measurement of Volume Change\nGeospec 3 –        The Direct Shear Test (Small Shear Box Apparatus)\nTest Method 16.1\nGeospec 3 –        The Direct Shear Test (Large Shear Box Apparatus)\nTest Method 16.2\n\n\n\n\n\n(5/2004)"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Appendix C\n                                                    (PNAP 167)\n                                                            (APP-64)\n          Phase I Soil Tests in accordance with GEO Report No. 36\n\n\n                                                             Equivalent Test    Test Method                Test Description\n                                                 Method in Geospec 3\nGEO Report No. 36  Determination of moisture content by      Geospec 3 –\nTest 2.3.2A         oven-drying at 105°C±5°C               Test Method 5.2\nGEO Report No. 36  Determination of moisture content by      Geospec 3 –\nTest 2.3.2B         oven-drying at 45°C±5°C                Test Method 5.1\nGEO Report No. 36  Comparative test for the determination of  Geospec 3 –\nTest 2.3.2C         moisture content by oven-drying           Test Method 5.3\nGEO Report No. 36  Determination of liquid limit by the cone\nTest 2.4.3           penetrometer method                   Geospec 3 –\nGEO Report No. 36  Determination of plastic limit, plasticity    Test Method 6.1 & 6.2\nTest 2.5.3           index and liquidity index\nGEO Report No. 36  Determination of particle size distribution  Geospec 3 –\nTest 2.9.2A        by wet sieving (with dispersant)            Test Method 8.1\nGEO Report No. 36  Determination of particle size distribution  Geospec 3 –\nTest 2.9.2B        by wet sieving (without dispersant)         Test Method 8.2\nGEO Report No. 36  Determination of particle size distribution  Geospec 3 –\nTest 2.9.4A        by the pipette method (with dispersant)     Test Method 8.3\nGEO Report No. 36  Determination of particle size distribution  Geospec 3 –\nTest 2.9.4B        by the pipette method (without dispersant)  Test Method 8.4\nGEO Report No. 36  Determination of particle size distribution  Geospec 3 –\nTest 2.9.5A        by the hydrometer method (with           Test Method 8.5\n                      dispersant)\nGEO Report No. 36  Determination of particle size distribution  Geospec 3 –\nTest 2.9.5B        by the hydrometer method (without        Test Method 8.6\n                      dispersant)\nGEO Report No. 36  Construction of a continuous particle size  Geospec 3 –\nTest 2.9.6             distribution curve from the results of wet   Test Method 8.7\n                      sieving and sedimentation tests\nGEO Report No. 36  Determination of the dry density/moisture  Geospec 3 –\nTest 4.3.3A          content relationship of soils containing     Test Method 10.1\n                        particles which are not susceptible to\n                     crushing (with 1000cc mould and 2.5kg\n                  rammer)\nGEO Report No. 36  Determination of the dry density/moisture  Geospec 3 –\nTest 4.3.3B          content relationship of soils containing     Test Method 10.2\n                        particles which are susceptible to crushing\n                     (with 1000cc mould and 2.5kg rammer)\n\n\n\n\n\n                                      1"
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Phase I Soil Tests in accordance with GEO Report No. 36 (Cont’d)\n\n\n                                                               Equivalent Test    Test Method                Test Description\n                                                   Method in Geospec 3\nGEO Report No. 36  Determination of the dry density/moisture   Geospec 3 –\nTest 4.3.4A          content relationship of soils containing      Test Method 10.3\n                        particles which are not susceptible to\n                     crushing (with CBR mould and 2.5kg\n                  rammer)\nGEO Report No. 36  Determination of the dry density/moisture   Geospec 3 –\nTest 4.3.4B          content relationship of soils containing      Test Method 10.4\n                        particles which are susceptible to crushing\n                      (with CBR mould and 2.5kg rammer)\nGEO Report No. 36  Determination of the insitu bulk density and Geospec 3 –\nTest 9.2.1             insitu dry density of soil by the sand        Test Method 11.1\n                    replacement method suitable for fine- and\n                   medium-grained soils (with small pouring\n                       cylinder)\nGEO Report No. 36  Determination of the insitu bulk density and Geospec 3 –\nTest 9.2.2             insitu dry density of soil by the sand        Test Method 11.2\n                    replacement method suitable for fine-,\n                  medium- and coarse-grained soils (with\n                      large pouring cylinder)\n\nNotes : (1)     The Guidelines for Laboratory General Requirements and Sample\n                 Preparation given in Appendix A of GEO Report No. 36 shall be\n                adopted.\n        (2)       Information on soil type and oven-drying temperature shall be provided to\n                  the laboratory for all tests that involve the determination of moisture\n                 content.\n\n\n\n\n\n(5/2004)\n\n\n\n                                      2"
+    }
+  ]
+}

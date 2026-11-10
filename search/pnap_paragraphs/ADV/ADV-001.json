@@ -1,0 +1,151 @@
+{
+  "code": "ADV-001",
+  "source_text": "indexed_text/PNAP/ADV/ADV-001.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-001.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department      Registered Structural Engineers and       ADV-1\n                            Registered Geotechnical Engineers\n\n\n                                   Asbestos\n\n             Exposure to asbestos is hazardous to health. As a general rule, all persons\ninvolved in the design, construction, and maintenance of buildings must avoid the use of\nasbestos containing material (ACM) and ensure that the removal of ACM from existing\nbuildings will be carried out only by registered asbestos personnel.\n\nProhibition"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The use of asbestos and ACM in any industrial or manufacturing process\nincluding any building operation  are  prohibited under  the  Factories and  Industrial\nUndertakings (Asbestos) Regulation (Cap 59AD).  Effective from 4 April 2014, the\nimport, transhipment, use and supply of asbestos and ACM are banned under the Air\nPollution Control Ordinance (APCO) (Cap 311), whilst ACM present in existing buildings\nwill not be affected.\n\n\nControl and Abatement Works"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 447
+        },
+        {
+          "label": "b",
+          "offset": 586
+        },
+        {
+          "label": "c",
+          "offset": 744
+        },
+        {
+          "label": "d",
+          "offset": 1170
+        }
+      ],
+      "text": "3.             Certain building activities, such as the clearance of unauthorised building\nworks, and repair or demolition of existing buildings, may involve the handling of in-situ\nACM. Such activities should be controlled and where necessary, abatement works should\nbe carried out.  Generally speaking, for all building works where ACM is present or\nsuspected  to be  present, the control and abatement measures required include the\nfollowing :\n\n        (a)    appointment of a registered asbestos consultant as early as possible to carry\n              out an asbestos investigation;\n\n        (b)     as part of the investigation of suspected ACM, possibly the  taking of\n             samples for testing by a registered asbestos laboratory;\n\n        (c)     for cases where the presence of ACM  is confirmed, preparation and\n              submission of the following to the Environmental Protection Department\n            (EPD) :\n                  -    an Asbestos Abatement Plan for the planned removal of ACM; and/or\n                  -    an Operation and Maintenance Plan  for deferred  treatment,  e.g.\n                    encapsulation, enclosure, of the same;\n\n        (d)    appointment of a registered asbestos contractor to carry out the removal\n             works under the supervision of an asbestos consultant;\n\n\n                                                                        /28-day ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n        (e)    28-day advance notice to EPD before commencement of works;\n\n         (f)     protection of the workers in accordance with the requirements of the\n             Labour Department (LD) ; and\n\n        (g)    proper disposal of asbestos contaminated waste in accordance with the\n              requirements of EPD."
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 247
+        },
+        {
+          "label": "b",
+          "offset": 388
+        },
+        {
+          "label": "c",
+          "offset": 691
+        }
+      ],
+      "text": "4.            For more effective control of the  in-situ ACM and to ensure  better\nprotection for personnel working in the related building sites, all authorized persons and\nregistered structural engineers are advised to take the following steps:\n\n        (a)    complete  asbestos  investigation and  abatement  of  the ACM  before\n            commencement of other building activities;\n\n        (b)     refrain unauthorised personnel, the scavengers in particular, from entering\n               the works site, before completion of the asbestos investigation with all the\n                 in-situ ACM  inventoried,  photographed,  conspicuously  labelled and\n               segregated; and\n\n        (c)    ask the registered asbestos consultant supervising the abatement works to\n                certify successful completion of the abatement works in accordance with\n               the asbestos investigation report and the abatement plan, and immediately\n               notify EPD of the same.\n\n\nGeneral Information"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          LD, through its Occupational Safety and Health Branch, gives advice on\nthe health and safety of workers engaged in any work involving ACM."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          The Asbestos Management and Control Section of EPD gives general\nadvice on asbestos management and abatement techniques and keeps registers of asbestos\nconsultants, asbestos contractors, asbestos supervisors and asbestos laboratories."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.            For certain asbestos abatement works involving only low risk and readily\nidentifiable non-friable ACM, the requirement of the services of an asbestos consultant\nand/or an asbestos contractor may be exempted. The exemption list was published in the\nGazette Notice 25/1997 - GN 3021 and GN 3022 on 6 June 1997, and a copy of which is\navailable at EPD’s website: http://www.epd.gov.hk."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 100
+        },
+        {
+          "label": "b",
+          "offset": 205
+        }
+      ],
+      "text": "8.            Relevant information on the subject can also be found in the following\npublications :\n\n        (a)    Code of Practice: Safety and Health at Work with Asbestos\n              published by LD.\n\n        (b)    Health Hazards of Asbestos published by LD.\n\n                                                                                 /5 sets ….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n\n\n          (c)    5 sets of Code of Practice on Asbestos Control published by\n           EPD :-\n                    -      Handling, Transportation and Disposal of Asbestos\n                     Waste;\n                    -       Preparation of Asbestos Investigation Report, Asbestos\n                   Management Plan and Asbestos Abatement Plan;\n                    -      Asbestos Work  Using  Full  Containment  or Mini\n                     Containment Method;\n                    -      Safe  Handling  of Low  Risk  Asbestos  Containing\n                        Material; and\n                    -      Asbestos Work Using Glove Bag Method.\n\n         (d)    3 leaflets published by EPD :-\n                    -      Environmental Asbestos Control;\n                    -      Asbestos Removal of Unauthorised Building Works;\n                    and\n                    -      Banning Asbestos.\n\n          (e)     Practice Note 2/97 Handling of Asbestos Containing Materials\n                 in Buildings issued by the Professional Persons Environmental\n                Consultative Committee.\n\n           (f)    Code of Practice for Demolition of Buildings published by the\n               Buildings Department."
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.       A similar practice note has been issued to registered contractors.\n\n\n\n\n\n                                                (HUI Siu-wai)\n                                                       Building Authority\n\n\nRef. :  BD GR/BM/4\n     BD GR/1-10/460\n\nThis PNAP is previously known as PNAP 114\nFirst issue September 1985\nLast revision November 2012\nThis revision January 2015 (AD/CS) (General revision)"
+    }
+  ]
+}

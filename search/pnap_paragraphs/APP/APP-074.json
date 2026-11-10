@@ -1,0 +1,163 @@
+{
+  "code": "APP-074",
+  "source_text": "indexed_text/PNAP/APP/APP-074.txt",
+  "source_pdf": "documents/PNAP/APP/APP-074.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers      APP-74\n\n                                     Practice Note for Authorized Persons\nBuildings Department                                                   180\n                              and Registered Structural Engineers\n\n\n             Alkali-Aggregate Reaction in Reinforced Concrete Structures\n\n              Reinforced concrete structures can suffer from alkali-aggregate reaction (AAR)."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        AAR is a chemical process in which alkalis, mainly from the cement, combine\nwith certain types of minerals in the aggregate, when moisture  is present.  This reaction\nproduces a gel that can absorb water and expand to cause cracking and disruption of the\nconcrete. The cracks accelerate the corrosion of the reinforcement in the concrete. Moreover,\nreduction in the compressive strength of the concrete reduces the strength of the concrete\nmembers."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 78
+        },
+        {
+          "label": "b",
+          "offset": 152
+        },
+        {
+          "label": "c",
+          "offset": 269
+        }
+      ],
+      "text": "3.          The following factors are essential for AAR to occur in concrete:\n\n        (a)    There must be reactive minerals present in the aggregate.\n\n        (b)    There must be  sufficient  alkali  in  the  concrete  to  react with  the\n               aggregates.\n\n        (c)    There must be  sufficient moisture available  to enable the chemical\n                reaction."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.       A range of minerals, including opal, tridymite, cristobalite, volcanic glasses,\ncryptocrystalline to microcrystalline quartz and poorly-crystalline quartz, have been reported\nby overseas researchers as capable of causing AAR. The occurrence of AAR depends on both\nthe type and percentage by mass of reactive minerals present."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The alkalis in the concrete come mainly from the cement. An effective means\nof reducing the risk of AAR includes proper control on the amount of cement used in the\nconcrete mix, use of a low alkali cement, and appropriate use of cement replacement such as\npulverised fuel ash (PFA)."
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "6.             In 1992, a programme of studies on AAR was started by the Public Works\nLaboratories of the Hong Kong Government. These included tests on concrete cores obtained\nfrom suspected structures, as well as investigations on the AAR potential of aggregates from a\nnumber of local quarries. The investigations are still on-going and the long-term tests may take\na few years to complete.  However, in view of the potential risks in the event of AAR\noccurring in structures and the long duration required for the experimental work, specification\nitems (Appendix A) have been introduced on all future Works Branch contracts.\n\n                                                                                           /cont'd...."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2  -"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.         To avoid the risk of AAR occurring, authorized persons / registered structural\nengineers should consider incorporating the specification clauses for the control of AAR in\nconcrete into contracts for private development projects.  In such cases, plans for approval\nshould clearly indicate that the reactive alkali of concrete expressed as the equivalent sodium\noxide per cubic metre of concrete should not exceed 3.0 kg when determined in accordance\nwith the specification items given in Appendix A."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          The authorized person or registered structural engineer should ensure that the\nconcrete mix complies with the limit on reactive alkali by requiring the specification clauses to\nbe complied with, unless he is in the opinion that the concrete element will not be subject to\ningress of moisture throughout its design life.\n\n\n\n\n\n                                                             (Helen C P Lai YU)\n                                                                 Building Authority\n\n\n\n\n\nRef. : BD GP/BREG/C/7\n    BD GR/CC/132\n\nFirst issued April 1995 (AD/SE)\n\nIndex under :  Concrete\n              Alkali-Aggregate Reaction\n             Aggregate"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "PNAP 180\n                                                                Appendix A\n                                                           APP-74\n                        Model Specification Clauses for\n                for the Control of Alkali-Aggregate Reaction in Concrete\n\nControl Measures"
+    },
+    {
+      "id": "p1-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "1.           Measures  to control the occurrence of alkali-aggregate reaction (AAR)  in\nconcrete  shall be  submitted  to  the  authorized  persons  /  registered  structural  engineers\n(AP/RSE) for approval. In the absence of alternative proposals, such control shall be achieved\nby limiting the reactive alkali content of the concrete as described in clauses 2 to 4 below\nunless in the opinion of the AP/RSE the concrete element will not be subjected to moisture\ningress throughout its design life.\n\nLimit on Reactive Alkali"
+    },
+    {
+      "id": "p2-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The reactive alkali of concrete expressed as the equivalent sodium oxide per\ncubic metre of concrete shall not exceed 3.0 kg.\n\nEquivalent Sodium Oxide (Na2O) Content"
+    },
+    {
+      "id": "p3-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The  equivalent sodium oxide (Na 2 O)  content  of  the  concrete  shall be\ndetermined in accordance with the following steps:\n         (1)   The equivalent Na2O shall be calculated by the expression\n\n                             Equivalent Na2O = A + B + C\n\n            where A  is the sum of the acid-soluble alkalis (expressed as\n                          equivalent Na2O) of cement, admixtures and water;\n\n              B   is equal to 1/6 the total alkalis of pulverised fuel ash\n                     (PFA) (expressed as equivalent Na2O); and\n\n                                                                                     - ) of the             C   is equal to 0.76 times the chloride ion (Cl\n                          aggregate.\n\n        (2)    The acid-soluble alkali content of the cement shall be determined in\n              accordance  with BS 4550:Part 2:1970  (excluding amendment AMD\n             7285, July 1992) and shall be taken as the average of the latest 25 daily\n               determinations of  equivalent sodium oxide  plus twice  the standard\n               deviation of the results.\n\n        (3)    The acid-soluble alkali content of admixtures shall be determined in\n              accordance with BS 1881:Part 124:1988.\n                                                                                           /cont'd...."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "-  2   -\n\n\n        (4)    The  acid-soluble  alkali  content  of  water  shall  be  determined  in\n              accordance with American Public Health Association (APHA) (17ed.\n             1989) Sections 3500-K and 3500-Na.\n\n        (5)    The total alkali content of the PFA shall be determined in accordance\n              with BS 4550:Part 2:1970  (excluding amendment AMD 7285,  July\n             1992) and shall be taken as the average of 25 weekly determinations\n               plus twice the standard deviation of the results.\n\n        (6)    The equivalent sodium oxide content of the coarse and fine aggregates\n                 shall be calculated from the quantity of chloride ion present which shall\n             be measured in accordance with BS 812:Part 4:1976.\n\nTest Certificates and Calculations"
+    },
+    {
+      "id": "p4-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          The following particulars of the concrete mix should be submitted by the\nconcrete supplier to the AP/RSE:\n\n        (1)    HOKLAS-endorsed test certificates not older than six months giving the\n                 results of tests required in clauses 3 (2) to (6);\n\n        (2)     Calculation of the reactive alkali of the proposed mix; and\n\n        (3)   New HOKLAS-endorsed  test  certificates giving the  results of  tests\n               required in clauses 3 (2) to (6) to be submitted at quarterly intervals\n               together with any necessary further calculations to demonstrate that the\n            mix continues to comply with the limit on reactive alkali.\n\n\n\n\n\nRef:  PNAP 180\nFirst issued April 1995"
+    }
+  ]
+}

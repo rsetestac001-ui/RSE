@@ -1,0 +1,543 @@
+{
+  "code": "APP-096",
+  "source_text": "indexed_text/PNAP/APP/APP-096.txt",
+  "source_pdf": "documents/PNAP/APP/APP-096.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-96\n                         Registered Geotechnical Engineers\n\n\n     Registration of General Building Contractors and Specialist Contractors\n\n\n             This practice note covers solely the registration of general building\ncontractors and specialist contractors. Minor works contractors registration is separately\nexplained in Practice Note for Authorized Persons, Registered Structural Engineers and\nRegistered Geotechnical Engineers APP-148."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            Sections 8, 8A, 8B, 8C, 8D, 8E and 8F of the Buildings Ordinance (BO)\ngovern the current contractors registration system. The prime objective of the system is\nto ensure that only contractors who are able to perform their duties and responsibilities in\na competent manner as well as fully conversant with the relevant statutory requirements\nand the current building control system are registered and allowed to carry out building\nworks and street works.\n\nRegisters of Contractors"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          Under section 8A of the BO, there are three contractors’ registers, namely\nthe general building contractors’ register, the specialist contractors’ register and the minor\nworks contractors’ register, being kept by the Building Authority (BA). In respect of the\nspecialist contractors’ register, sub-registers of different categories of specialized works\nare maintained."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          The names of the contractors in the registers are published annually in the\nGazette. Relevant registration particulars of the contractors, including the name of the\ncontractor, the name of the person appointed by the contractor to act for the contractor\nfor the purposes of the BO, hereinafter referred to as the Authorized Signatory (AS), its\nregistration number and the expiry date of its registration are also posted on the Buildings\nDepartment (BD) website.\n\nCategories of Specialized Works"
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 312
+        },
+        {
+          "label": "b",
+          "offset": 346
+        },
+        {
+          "label": "c",
+          "offset": 380
+        },
+        {
+          "label": "d",
+          "offset": 430
+        }
+      ],
+      "text": "5.            Section 8A(2) of the BO empowers the BA to designate by notice in the\nGazette categories of building works as specialized works that are required to be carried\nout by registered specialist contractors (RSC).  Currently, there are five categories of\nworks designated as specialized works. They are:\n\n        (a)    Demolition works;\n\n        (b)    Foundation works;\n\n        (c)    Ground investigation field works;\n\n        (d)     Site formation works; and\n\n                                                                                               /(e) …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n        (e)     Ventilation works.\n\nScope of Works"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.            Registered general building contractors (RGBC) may carry out general\nbuilding works and street works which do not include any specialized works in the\ndesignated  categories while RSC may only carry out  specialized works  in  their\ncorresponding categories in the sub-registers in which they have been entered. RGBC\nmay also carry out all types of minor works as stipulated in Part 2 of Schedule 1 of the\nBuilding (Minor Works) Regulation (B(MW)R) while RSC may only carry out the minor\nworks as specified in section 28(1)(b) to (ea) of the B(MW)R according to their\ncorresponding categories on the sub-registers in which they have been entered."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.       A building owner is required to appoint contractors from the appropriate\nregister corresponding to the category of building works to be carried out. The scope of\nworks of RGBC and that of RSC in the demolition, foundation, ground investigation field\nworks, site formation and ventilation categories are detailed in Appendix A."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.         To facilitate the operation of the construction industry, certain general\nbuilding works are permitted to be carried out by more than one category of contractors.\nDetailed guidelines are also provided in Appendix A.\n\nRequirements for Registration"
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 137
+        },
+        {
+          "label": "b",
+          "offset": 221
+        },
+        {
+          "label": "c",
+          "offset": 300
+        },
+        {
+          "label": "d",
+          "offset": 373
+        }
+      ],
+      "text": "9.          Under section 8B(2) of the BO, an applicant for registration as an RGBC\nor RSC must satisfy the BA on the following aspects:\n\n        (a)      If it is a corporation, the adequacy of its management structure;\n\n        (b)   The appropriate experience and qualifications of its personnel;\n\n        (c)      Its ability to have access to plant and resources; and\n\n        (d)   The ability of the person appointed to act for the applicant for the\n             purposes of the BO to understand building works and street works\n             through relevant experience and a general knowledge of the basic\n               statutory requirements.\n\nAS, Technical Director and Other Officer"
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 177
+        }
+      ],
+      "text": "10.           In  considering each  application,  the BA  is  to have regard  to  the\nqualifications, competence and experience of the following key personnel of the\napplicant:\n\n        (a)   A minimum of one AS appointed by the applicant to act for the\n               applicant for the purposes of the BO;\n\n\n\n                                                                                           /(b) …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n        (b)    For a corporation – a minimum of one director from the board of\n               directors of the applicant, hereinafter referred to as a ‘Technical\n               Director’ (TD) for the purpose of ensuring that the works are\n               carried out in accordance with the BO. Thus, the TD should be\n              authorised by the board to –\n\n                   (i)   have access to plant and resources;\n\n                   (ii)   provide technical and financial support for the execution\n                    of building works and street works; and\n\n                    (iii)  make decisions for the company and supervise the AS and\n                    other personnel; and\n\n        (c)    For a corporation which appoints a director who does not possess\n              the required qualification or experience as TD to manage the\n              carrying out of building works and street works - an ‘Other\n               Officer’ (OO) or an AS authorised by the board of directors to\n                assist the TD. An OO or an AS is permitted to assist one TD only."
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.           In addition to the above key personnel, the applicant is also required to\ndemonstrate that it has employed appropriate qualified staff to assist the applicant and\nthe above key personnel to execute, manage and supervise the building works and street\nworks."
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.        To facilitate qualified construction personnel in applying to become an AS\nand to assist contractors in finding and appointing AS, qualified individuals1 may apply\nto become a Pre-accepted AS through the assessments by the Contractor Registration\nCommittee (CRC) and the BA, even though they have not yet been appointed by a\ncontractor. Names of successful applicants will be entered into the List of AS2, which is\npublished on the BD website. Contractors may choose to select the Pre-accepted AS from\nthis List when applying for inclusion in the registers or addition of AS.\n\nPersons Eligible to be the AS or TD"
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 89
+        },
+        {
+          "label": "b",
+          "offset": 218
+        },
+        {
+          "label": "c",
+          "offset": 366
+        }
+      ],
+      "text": "13.         The following persons are eligible to become the AS and TD of the\napplicant:\n\n        (a)      If the applicant is an individual, the applicant is the only person\n                eligible to act as the AS;\n\n        (b)     If the applicant is a partnership, any partner appointed by all the\n              other partners is eligible to act as the AS; and\n\n        (c)      If the applicant is a corporation, a suitable person appointed by\n              the board of directors is eligible to act as the AS, whereas the TD\n            must be a director appointed under the Companies Ordinance and\n             appointed by the board of directors to perform the role of TD.\n                                                                                     /14. …\n\n1  The qualified individuals must meet the minimum qualifications and experience requirements\n   as stipulated in Appendices A to F of PNRC 38.\n2  The List of AS comprises “Former AS”, “Pre-accepted AS” and “Practising AS”."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -"
+    },
+    {
+      "id": "p14-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "14.      A person is permitted to take up the roles of the AS as well as the TD of a\ncorporation at the same time provided that he meets the requirements of both the AS and\nTD.\n\nAppointment of AS/TD/OO for Registered Contractors"
+    },
+    {
+      "id": "p15-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "15.        To ensure that adequate supervision and proper management are provided\nfor carrying out of building works and street works and to avoid possible situations of\nconflict of interest, persons who have been accepted by the BA as the AS/TD/OO for a\nregistered contractor will not be accepted as the AS/TD/OO for another contractor\nsimultaneously for its registration, except under the special sharing arrangement for\nholding and subsidiary companies.\n\nContractors Registration Committee"
+    },
+    {
+      "id": "p16-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 202
+        },
+        {
+          "label": "b",
+          "offset": 262
+        },
+        {
+          "label": "c",
+          "offset": 398
+        },
+        {
+          "label": "d",
+          "offset": 506
+        }
+      ],
+      "text": "16.       CRC are independent bodies appointed by the BA under section 8 of the\nBO. The function of a CRC is to assist the BA in considering applications for inclusion\nin the contractors’ registers by:\n\n        (a)    Examining the qualifications of applicants;\n\n        (b)     Inquiring as the CRC considers necessary to ascertain whether an\n               applicant has the relevant experience;\n\n        (c)    Conducting  interviews  with  the  applicants  and  their  key\n              personnel; and\n\n        (d)    Advising the BA to accept, defer or reject applications for\n              inclusion in the relevant register."
+    },
+    {
+      "id": "p17-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "17.         Under section 8B(10) of the BO, the BA must not include the name of an\napplicant in the register of general building contractors or specialist contractors unless the\nrelevant CRC so recommends. Besides, the BA may seek advice from the relevant CRC\nin respect of applications for addition of AS/TD/OO to a registered contractor, as well as\napplications for inclusion as a Pre-accepted AS who may subsequently be appointed by a\ncontractor for becoming its AS for satisfying the requirements of section 8B(2)(d) of the\nBO for inclusion in the relevant register."
+    },
+    {
+      "id": "p18-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "18",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "18.           In processing applications for renewal and restoration of names to the\nregisters, the BA may also seek advice from the relevant CRC under section 8C(4) and\nsection 8D(3) respectively of the BO.\n\nComposition of a CRC"
+    },
+    {
+      "id": "p19-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "19",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 183
+        }
+      ],
+      "text": "19.         Under section 8(3) of the BO, a CRC appointed to assist the BA in\nconsidering applications for inclusion in the register of general building contractors shall\nconsist of:\n\n        (a)    The BA’s representative;\n\n\n                                                                                           /(b) …"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 5 -\n\n        (b)    3 persons, 1 of whom is nominated by each of the Architects\n              Registration Board (ARB), the Engineers Registration Board\n           (ERB) and the Surveyors Registration Board (SRB) from the lists\n              of authorized persons (AP), registered structural engineers (RSE)\n            and registered geotechnical engineers (RGE);\n\n        (c)    3  persons  nominated  by  The  Hong  Kong  Construction\n              Association Ltd.;\n\n        (d)    1 person nominated by The Hong Kong E & M Contractors’\n              Association Limited; and\n\n        (e)    1 person selected by the BA from among persons nominated by\n             such bodies as the BA may think fit."
+    },
+    {
+      "id": "p20-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "20",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 178
+        },
+        {
+          "label": "b",
+          "offset": 219
+        },
+        {
+          "label": "c",
+          "offset": 356
+        },
+        {
+          "label": "d",
+          "offset": 465
+        }
+      ],
+      "text": "20.         Under section 8(3A) of the BO, a CRC appointed to assist the BA in\nconsidering applications for inclusion in the register of specialist contractors shall consist\nof:\n\n        (a)    The BA’s representative;\n\n        (b)    3 persons, 1 of whom is nominated by each of the ARB, the ERB\n            and the SRB from the lists of AP, RSE and RGE;\n\n        (c)    3  persons  nominated  by  The  Hong  Kong  Construction\n              Association Ltd.; and\n\n        (d)    2 persons selected by the BA from among persons nominated by\n             such bodies as the BA may think fit."
+    },
+    {
+      "id": "p21-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "21",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "21.         Under section 8(6) of the BO, the members of the committee will elect the\nChairman from the members of the committee other than the BA’s representative.\n\nApplication Procedures and Requirements"
+    },
+    {
+      "id": "p22-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "22",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "22.            Details of the application procedures and requirements for inclusion of\nnames in the contractor registers, renewal and restoration of registration are provided in\nPractice Note for Registered Contractors 38.\n\n\n\n                                                                   ( HO Chun-hung)\n                                                   Building Authority\nRef. : BD REG/RC/13/3\n    BD REG/6-35/1\n\nThis PNAP is previously known as PNAP 214\nFirst issue   November 1997\nLast revision  September 2020\nThis revision September 2026 (AD/CS)   (Paragraphs  10 &  17  amended  and\n                                        paragraph 12 added)"
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix A\n                                                  (PNAP APP-96)\n\n\n          Scope of Works of Registered General Building Contractors\n                  and Registered Specialist Contractors\n\n\nRegistered General Building Contractor (RGBC)\n\n            The RGBC is qualified under the BO to carry out any building works and\nstreet works which are not designated by the BA as a category of specialized works.\n\nRegistered Specialist Contractor in the Demolition Works Category (RSC(D))"
+    },
+    {
+      "id": "p2-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 200
+        },
+        {
+          "label": "b",
+          "offset": 296
+        },
+        {
+          "label": "c",
+          "offset": 401
+        },
+        {
+          "label": "d",
+          "offset": 536
+        },
+        {
+          "label": "e",
+          "offset": 648
+        },
+        {
+          "label": "f",
+          "offset": 789
+        }
+      ],
+      "text": "2.            All  demolition works  to which  the  Building  (Demolition Works)\nRegulations apply are specialized works of the demolition works category unless all the\nfollowing circumstances exist:\n\n         (a)   The  building  to be demolished  is not  in Scheduled Area\n           Number 1.\n\n         (b)  No part of the building to be demolished exceeds 10m above\n              adjacent ground.\n\n         (c)  No  structural element  to be demolished has a  clear span\n             exceeding 6m or a cantilever span exceeding 1m.\n\n         (d)  No part of the building to be demolished is in pre-stressed\n              concrete construction.\n\n         (e)  No part of the building to be demolished is an earth-retaining\n               structure with retaining height exceeding 1.5m.\n\n          (f)   There are no other buildings within 5m from the building to be\n              demolished.\n\nRegistered Specialist Contractor in the Foundation Works Category (RSC(F))"
+    },
+    {
+      "id": "p3-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            All  foundation  works,  except where  the  penetration  depth  of  the\nfoundation element does not exceed 3 m, are specialized works of the foundation works\ncategory.\n\nRegistered  Specialist  Contractor  in  the Ground  Investigation  Field Works\nCategory (RSC(GIFW))"
+    },
+    {
+      "id": "p4-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 60
+        },
+        {
+          "label": "b",
+          "offset": 365
+        }
+      ],
+      "text": "4.          The scope of works for RSC(GIFW) is as follows:\n\n        (a)     all exploratory drilling, boring, excavation and probing of land\n               for obtaining information on ground conditions, and includes\n              the  installation  of  instrument,  sampling,  field  testing  in\n              boreholes, and any other associated site operations;\n\n        (b)     pre-drilling for foundation works;\n                                                                                             /(c) …..\n\n\n                                                        - 1 -"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "(c)     proof-drilling for cast-in-place concrete foundation, mini-piles\n            and socketed H-piles; and\n\n        (d)     field testing of ground, the loading capacity of which has been\n            improved by ground treatment."
+    },
+    {
+      "id": "p5-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The following  list of works, not exhaustive, are examples of works\nwhich are required to be undertaken by RSC (GIFW):\n\n\n     Types of Works                          Details of Works\n\n Excavation                   Trial pits, trial trenches, slope surface stripping.\n Boreholes              Hand auger boring, corehole drilling, light cable\n                             percussion boring, rotary open hole drilling, rotary core\n                                  drilling.\n Sampling                  Disturbed samples, U76 samples, U100 samples, split\n                                barrel standard penetration test samples, thin-walled\n                              piston samples, continuous soil and rock samples, rotary\n                            core samples, Mazier samples, block samples,\n                           groundwater samples and vibro-coring.\n Instrumentation               Installation of instruments e.g. piezometers, standpipes,\n                              tensiometers, piezometer buckets, inclinometers,\n                             extensometers.\n Field Testing in            Standard penetration test, vane shear test, permeability\n Boreholes                       tests, packer (water absorption) test, plate test,\n                            pressuremeter test, borehole discontinuity survey\n                             (impression packer survey) and cone penetration test.\n Cast-in-Place Concrete       Pre-drilling to determine rockhead level, core-drilling to\n Foundation                  verify quality of founding stratum.\n Ground Treatment           Field testing to verify load carrying capacity of treated\n                            ground.\n\nRegistered Specialist Contractor in the Site Formation Works Category (RSC(SF))"
+    },
+    {
+      "id": "p6-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 139
+        },
+        {
+          "label": "b",
+          "offset": 264
+        },
+        {
+          "label": "c",
+          "offset": 414
+        },
+        {
+          "label": "d",
+          "offset": 552
+        }
+      ],
+      "text": "6.            All site formation works are specialized works of the site formation\ncategory, unless all the following circumstances exist:\n\n        (a)    The maximum  gradient  across  the  lot from boundary  to\n             boundary is not more than 15 degrees.\n        (b)    The overall gradient of an area bounded by lines 10m outside\n               the lot boundary in any direction is less than 15 degrees.\n        (c)    There is no slope within the area 10m outside the lot boundary\n               steeper than 30 degrees or higher than 1.5m.\n        (d)    There is no retaining wall or terrace wall, either within the lot\n              or within the area 10m outside the lot, which is higher than\n             1.5m.\n                                                                                             /(e) …..\n\n\n\n                                                        - 2 -"
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "(e)   No retaining walls or terrace walls higher than 1.5m are to be\n               constructed.\n         (f)   No slopes steeper than 30 degrees nor higher than 1.5m are to\n             be constructed.\n        (g)    The combined  height  of  retaining  wall and  slope  to be\n              constructed does not exceed 1.5m.\n\nRegistered Specialist Contractor in the Ventilation Works Category (RSC(V))"
+    },
+    {
+      "id": "p7-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "7.            All  ventilating  system works  to which  the  Building  (Ventilating\nSystems) Regulations apply are specialized works under the ventilation category.\n\nWorks Which May be Carried out by More Than One Category of Contractors"
+    },
+    {
+      "id": "p8-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "8.                 It is difficult to give an exhaustive or absolute demarcation among the\nscope of works of different categories of contractors.  Whether the contractors in a\ncategory possess the recognized competence, experience, expertise, plant and resources\nin carrying out the proposed works should be the primary consideration of the\nAP/RSE/RGE. Additional guidelines in paragraph 10 below are provided for reference."
+    },
+    {
+      "id": "p9-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "9.             In situations not covered by any of the published guidelines and when\nunique  site characteristics  call for special consideration, the AP/RSE/RGE of the\nproposed works are expected to make professional judgment according to the aforesaid\nprinciples on the selection of the appropriate category of contractors.  Should such\ncircumstances arise, the BA will consider proposals from the AP/RSE/RGE on a case\nby case basis."
+    },
+    {
+      "id": "p10-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 131
+        },
+        {
+          "label": "b",
+          "offset": 611
+        },
+        {
+          "label": "c",
+          "offset": 933
+        }
+      ],
+      "text": "10.           Additional guidelines on the demarcation of different scope of works\namong categories of contractors are as follows:\n\n        (a)    Temporary Works\n          RGBC, RSC(F), RSC(SF) and RSC(D) may generally carry out\n             temporary works which are associated with the execution of the\n               respective types of general building works and specialist works.\n             These temporary works include hoarding, covered walkways,\n              sheet piling, soldier piling, pipe piling, shoring, rock filled\n              slopes for demolition, protective and precautionary measures.\n\n        (b)     Pile Cap Works\n\n               Pile cap works may be carried out either by RGBC or RSC(F).\n             These contractors may also carry out the associated temporary\n             works, such as excavation and lateral support works, which are\n              necessary for the construction of the pile caps.\n\n        (c)    Basement Works\n\n             Excavation  for basements, construction of basement  walls,\n               slabs and drains, which do not form part of pile caps fall within\n               the scope of works of the RGBC.\n\n                                                                                         /(d) …..\n\n\n                                                        - 3 -"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "(d)    Foundation Works\n\n      Diaphragm walls should be carried out by RSC(F) when the\n       penetration depth exceeds 3m.  The penetration depths of\n       foundation elements are generally measured from the ground\n        level which may be existing or newly formed. Spread footing\n      and raft foundation works may be carried out by either RSC(F)\n       or RGBC.\n\n(e)    Landscape and Street Works\n\n     On  grade  roads,  streets,  landscape  features,  etc.,  should\n       generally be carried out by RGBC. Such works which do not\n       involve the construction of a roof or foundation, and drains\n       associated with landscape works in the periphery of buildings\n       not forming part of the permanent drains of buildings may also\n      be carried out by RSC(SF).\n\n(f)     Retaining Structures\n\n       Retaining  structures involving diaphragm  walls,  bore-piles,\n       caissons or other foundation works, excluding those mentioned\n        in paragraph 10(a) above should be carried out by RSC(F).\n\n      Appendix B of PNAP APP-18 stipulates that mini piles are not\n        to take lateral loads and therefore not commonly used in site\n       formation works.   Its construction could be up to 400mm\n       diameter and should therefore be carried out by RSC(F) or if\n        less than 3m deep, by RGBC but not RSC(SF).\n\n(g)    Dredging Works\n\n      The general meaning of dredging  in construction involves\n       taking up of mud from sea or riverbeds that should generally be\n        classified as site formation works.  If the said works fall within\n       the scope of works as set out in paragraph 6 above, it should be\n        carried out by RSC(SF), otherwise, it should be carried out by\n     RGBC.\n\n(h)    Reclamation Works\n\n       Reclamation works  usually  involves  the forming  of  land,\n       construction of seawalls or retaining structures and should be\n       considered  as  site  formation works  to be  carried  out by\n      RSC(SF).\n\n(i)     Trial Pit Works\n\n        Trial pit works should normally be carried out by RSC(GIFW).\n       Other registered contractors except RSC(V) may also carry out\n       such works  if  the  trial  pits  are excavated  solely  for  the\n       following purposes:\n\n         (i)     exposing existing shallow foundations;\n                                                                                                 /(ii) …..\n\n\n\n                                              - 4 -"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "(ii)    locating    utilities,   underground    structures   and\n                         installations;\n\n                    (iii)    verifying the density of the backfill soil behind retaining\n                       structures (Note: insitu-density test has to be carried out\n                  by a laboratory which is accredited by the Hong Kong\n                     Accreditation Service for performing such test); and\n\n                 (iv)    other studies not involving the investigation of ground\n                      conditions or soil/rock descriptions, e.g. archaeological\n                        studies.\n\n         (j)      Installation and Inspection of Fire Dampers\n\n                Fire dampers may be installed either by RGBC or RSC(V). For\n                   fire dampers installed by RGBC, RSC(V) should be engaged to\n                inspect and certify that the fire dampers are in safe and efficient\n             working order pursuant to Clause E8.3 of the Code of Practice\n                for Fire Safety in Buildings.  For  fire dampers installed by\n             RSC(V), the same RSC(V) could inspect and certify the fire\n              dampers.  Requirements on the inspection and certification of\n                  fire dampers by RSC(V) are provided in PNAP APP-13.\n\n\n\n\n\n(9/2013)\n\n\n\n\n\n                                                        - 5 -"
+    }
+  ]
+}

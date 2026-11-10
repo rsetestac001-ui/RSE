@@ -1,0 +1,152 @@
+{
+  "code": "ADV-027",
+  "source_text": "indexed_text/PNAP/ADV/ADV-027.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-027.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers   ADV-27\n\n                               Practice Note for Authorized Persons Buildings Department                                               295\n                         and Registered Structural Engineers\n\n\n\n                       Protection of natural streams/rivers\n           from adverse impacts arising from construction works\n\n\nBackground\n\n         Many of the natural streams/rivers 1 in Hong Kong are good habitats\nsupporting a variety of wildlife and with important ecological functions, and carry\nhigh aesthetic and landscape value. There have been calls for increased protection to\nnatural streams/rivers."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.      A natural stream/river refers to a natural channel with natural water fed\nfrom upper terrains, which covers both perennial stream/river with water flowing\nthroughout the year as well as intermittent ones with water-flow only during the wet\nseason. The streambed is natural and not man-made, which could consist of mixtures\nof bedrocks, boulders, cobbles, gravels, sand, silt or clay. The banks are also largely\nnatural and defined, covered with bank-side and riparian vegetations.  Ecologically\nImportant Streams/ Rivers (EIS) are natural streams/rivers with important ecological\nfunctions such as providing habitats for diverse or rare animal or plant communities.\nThe updated list of EIS can be found in the website of Agriculture, Fisheries and\nConservation Department (http://www.afcd.gov.hk/conservation/eng/eis_1.htm).\n\nConstruction Activities"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.        The Environment, Transport and Works Bureau (ETWB) has issued a\nTechnical Circular (Works) No. 5/2005 on protection of natural streams and rivers.\nDetails  of  the  circular  are  available  on  the  website   at  the  address  of\nhttp://www.etwb.gov.hk. ETWB has advised that construction works in or affecting\nnatural streams/rivers should be restrained where possible to minimise possible\ndisturbance to  these streams/rivers.  In case that construction works in or affecting\nnatural  streams/rivers  are  unavoidable,  they  should  be  carried  out  in  an\nenvironmentally responsible manner and with appropriate mitigation measures to\nminimise any adverse impact so caused."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          Construction works arising from projects and developments may have\ndirect and/or indirect impacts on natural streams/rivers.  Direct impacts are those\nresulted from  physical changes  directly  disturbing  the  natural  habitats  of  the\n\n\n                                                                 /streams/rivers. …..\n\n\n\n1 For the purpose of this practice note, natural streams and rivers exclude flood retention ponds, fishponds\nand engineered stormwater drainage systems which include drainage channels, nullahs, and ditches.\nExamples of engineered drainage channels are Tin Shui Wai Main Nullah, Yuen Long Nullah, Tuen Mun\nNullah, engineered sections of Shing Mun River, or concrete U-channels for collection of surface runoff."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\nstreams/rivers.  Examples of such construction works causing direct impacts are\ntraining,  filling,  culverting,  narrowing,  widening, damming,  realignment and\ndiversion of streams/rivers, as well as bank stabilisation works such as shotcreting on\nriverbanks.  Indirect impacts are those resulted from construction works that may\ncause  pollution  to or  affect water-flow  of  streams/rivers.  Examples of such\nconstruction works causing indirect impacts are site formation, landfilling discharge\nof silt and polluted water, dumping of debris into an area nearby, or foundation works\ninvolving dewatering,  geotechnical and demolition works  in  the proximity  of\nstreams/rivers.\n\nMeasures for Protection"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.        Most of the natural streams/rivers in the territory are subject to the\ncontrol of a number of ordinances to various extents.  These may include Land\n(Miscellaneous Provisions) Ordinance (Cap 28), Waterworks Ordinance (Cap 102),\nTown Planning Ordinance (Cap 131), Public Cleansing and Prevention of Nuisances\nRegulation (Cap 132BK), Country Parks Ordinance (Cap 208), Waste Disposal\nOrdinance (Cap 354) and Water Pollution Control Ordinance (Cap 358). Authorized\npersons, registered structural engineers and registered contractors are advised to pay\nattention to the requirements of the relevant ordinance(s) which are applicable to their\nprojects."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.         During the planning stage, designers should avoid any potential impact\non natural streams/rivers, particularly EIS.   If this is unavoidable,  it is strongly\nrecommended that appropriate measures be adopted to minimise or compensate such\nimpacts,  taking  into account  the advice from  all  relevant  authorities and  the\nrecommendations  of  any  environmental  review/study  that may  be  required.\nAppendix A contains a set of broad guidelines (extracted from ETWB’s Technical\nCircular (Works) No. 5/2005) on planning for construction works in natural stream/\nrivers and in EIS."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.         During the detailed design stage, designers are strongly recommended to\nadopt environmental friendly design in order to maintain the naturalness, landscape as\nwell  as  ecological  value  of  natural  streams/rivers.   To  facilitate  smooth\nimplementation  during  construction,  requirements  for  the proposed  mitigation\nmeasures covering temporary works and construction  activities should be fully\nincorporated in the contract documents for the project. Guidelines (extracted from\nETWB’s Technical Circular (Works) No. 5/2005) on developing precautionary\nmeasures during the construction stage are given in Appendix B."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.         For  projects  with  only  potential  indirect  impacts  on  natural\nstreams/rivers other than EIS, authorized persons, registered structural engineers and\nregistered contractors are strongly advised to carry out good site practice and establish\nappropriate pollution control measures during construction to minimise impacts.\n\n\n                                                                                    /9. ….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.      A similar practice note has been issued to registered contractors.\n\n\n\n\n\n                                                                 ( Marco M H WU )\n                                                  Building Authority\n\n\n\n\n\nRef. : BD GR/1-10/12/0\n\nFirst issue May 2005 (AD/NB1)\n\nIndex under : Natural streams/rivers"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                    (PNAP 295)\n                                                           (ADV-27)\n\n\n    Guidelines on Planning for Construction Works in Natural Stream/Rivers\n            and in Ecologically Important Streams/Rivers (EIS)\n\n\n(A) Planning for Construction Works in Natural Rivers and Streams\n\n           In planning  for construction works  in natural  rivers and streams, the\nfollowing considerations are relevant: -\n\n       a. When determining the method and type of construction works, the project\n         proponent should ascertain the potential environmental impact associated with\n         such works. The method and type of works should be so chosen to avoid or\n         minimise the possible environmental impact on streams/rivers. Construction\n          of a new channel using artificial non-vegetative smooth lining (e.g. concrete\n           lining) should be avoided as far as possible and should only be applied as the\n            last resort when other more environmentally friendly designs are proved\n          impracticable. In general, the various engineering options that can be adopted\n           for river and stream modification works, in ascending order of impact on the\n         environment and ecology, are as follows: -\n\n             (i)    protection/stabilisation of river bank at locations prone to erosion by use\n                of natural materials such as rock;\n\n             (ii)   removal of fallen objects/obstruction and clearing of vegetation in a\n                 selective manner;\n\n             (iii)   enlargement of channel by modifying one bank only;\n\n           (iv)   enlargement of channel by modifying/widening both banks;\n\n          (v)    enlargement of channel by deepening;\n\n           (vi)    realigning by creating a new channel;\n\n            (vii)   construction  of  a  new  channel  using   artificial  non-vegetative\n              smooth lining such as concrete.\n\n       b. The proposed works should preferably be carried out during the dry season\n        where flow in the stream/river is low. Rapid flow in a stream/river during\n          the wet season together with the on-going construction works will have a\n          higher potential of inducing collapse of the riverbanks and resulting in\n          highly turbid water.\n\n\n\n\n                                   1"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "c. Temporary access to the works site should be carefully planned and located\n           to minimise disturbance caused to the substrates of streams/rivers and\n           riparian vegetation by construction plant.\n\n       d. The use of less or smaller construction plant may be specified to reduce\n          disturbance to the riverbed where aquatic inhabitants are located.\n\n        e. Temporary sewerage system should be designed and installed to collect\n          wastewater and prevent it from entering rivers and streams.\n\n         f.  Proper locations well away from rivers/streams for temporary storage of\n           materials  (e.g. equipment,  filling  materials, chemicals and  fuel) and\n         temporary stockpile of construction debris and spoil should be identified\n          before commencement of the works.\n\n       g. Landscape and visual impact assessment should be conducted early to\n           identify, assess and minimise any adverse landscape or visual impact.\n\n\n(B) Planning for Construction Works in the EIS\n\n           In  planning  for  construction works  in  the  EIS,  in  addition  to  the\nconsiderations mentioned in (A) above, the following considerations are also relevant: -\n\n        a. Environmentally friendly features, such as diversified planting of trees,\n          shrubs, herbaceous and wetland plants and grass on the river embankments to\n         form an ecological riparian zone, should be incorporated into the works. The\n         bottom of a natural stream/river should be left intact where practicable, and\n          only bank stabilisation or bank widening works using soft but adequately\n          robust engineering techniques or bank widening works should be carried out.\n\n        b. The use of concrete or the like should be avoided or minimised. Unless there\n           are severe site constraints, more environmentally friendly alternatives such as\n           geotextile-reinforced  grassed  lining,  bio-engineering  methods,  natural\n          stonewall, gabions etc. should be used on the embankment and random rubble\n          or stones on the bottom.\n\n       c. Wherever a natural habitat of special flora and fauna is identified, alternative\n          design  and  construction  methods  should  be  considered  to  avoid  the\n          disturbance.  If disturbance is unavoidable, proper mitigation measures such\n          as   translocation,  temporary  migratory  pathways,  recolonisation  or\n         compensation plan should be devised. After construction works, placement of\n           substrates (e.g. gravels, crushed stones or boulders) of similar size and\n         composition  to those of  the  original riverbed should be considered  to\n         encourage recolonisation.\n\n       d. Phasing of the works should be considered to better control and minimise any\n         impact caused, and to provide refuge for aquatic animals. Works should not\n         be carried out for the whole width of the stream at the same time, if the stream\n\n                                   2"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "is wide enough. Adequate width of the stream should be left intact with the\n         flow maintained as far as practicable so that disturbance to the aquatic\n         ecosystem is kept to the minimum. A free passage along the stream is\n          necessary to avoid forming stagnant water in any phase of the works and to\n          maintain the integrity of aquatic communities.\n\n       e.  If the upper reaches are breeding grounds for fish and the works would\n          involve construction of dam structures, installation of specially designed fish\n          ladder should be provided for fish migration.\n\n        f.  Before commencement of works, Agriculture, Fisheries and Conservation\n         Department (AFCD) should be consulted for the presence of rare species\n          within the works site.   Mitigation measures such as relocation of the rare\n          species outside the site should be discussed with AFCD where necessary.\n\n       g. Before commencement of works, an inspection of stream should be carried out\n           to check the presence of any pools of considerable size.  If found, they should\n         be preserved with care as far as possible, as they are usually favourite habitats\n          of aquatic inhabitants and removal of pools can be detrimental to aquatic\n         communities.\n\n\n\n\n\n(May 2005)\n\n\n                                   3"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Appendix B\n                                                    (PNAP 295)\n                                                          (ADV-27)\n\n               Guidelines on Developing Precautionary Measures\n                       during the Construction Stage\n\n\n         Depending on the extent of the proposed works and particulars of relevant\nrivers and streams, different precautionary measures may have to be devised and\nimplemented.  Some of the measures generally recommended for adoption to the\nconstruction works in the vicinity of natural rivers and streams are listed below:-\n\n        a. The proposed works site inside or in the proximity of natural rivers and\n          streams should be temporarily isolated, such as by placing of sandbags or silt\n           curtains with lead edge at bottom and properly supported props, to prevent\n          adverse impacts on the stream water qualities.  Other protective measures\n          should also be taken to ensure that no pollution or siltation occurs to the water\n           gathering grounds of the work site.\n\n       b. The natural bottom and existing flow in the river should be preserved as much\n           as possible to avoid disturbance to the river habitats.  If temporary access\n           track on riverbed is unavoidable, this should be kept to the minimum width\n         and length. Temporary river crossings should be supported on stilts above\n           the riverbed.\n\n        c.  Stockpiling of construction materials,  if necessary, should be properly\n          covered and located away from any natural stream/river.\n\n       d.  Construction debris and spoil should be covered up and/or properly disposed\n           of as soon as possible to avoid being washed into nearby rivers/streams by\n            rain.\n\n        e.  Construction effluent, site run-off and sewage should be properly collected\n          and/or treated. Wastewater from a construction site should be managed with\n           the following approach in descending order:\n\n              (i)     minimisation of wastewater generation;\n               (ii)    reuse and recycle;\n               (iii)    treatment.\n\n          Proper locations for discharge outlets of wastewater treatment facilities well\n         away from the natural streams/rivers should be identified.\n\n         f.  Removal of existing vegetation alongside the riverbanks should be avoided or\n          minimised. When disturbance to vegetation is unavoidable, all disturbed\n           areas should be hydroseeded or planted with suitable vegetation to blend in\n          with the natural environment upon completion of works.\n\n\n                                   1"
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "g. Adequate lateral support may need to be erected in order to prevent soil/mud\n         from slipping into the stream/river, but without unduly impeding the flow\n          during heavy rain\n\n       h.  Supervisory staff should be assigned to station on site to closely supervise and\n          monitor the works.\n\n\n\n\n\n(May 2005)\n\n\n                                   2"
+    }
+  ]
+}

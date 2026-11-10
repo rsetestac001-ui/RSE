@@ -1,0 +1,219 @@
+{
+  "code": "APP-097",
+  "source_text": "indexed_text/PNAP/APP/APP-097.txt",
+  "source_pdf": "documents/PNAP/APP/APP-097.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department    Registered Structural Engineers and          APP-97\n                         Registered Geotechnical Engineers\n\n\n           Consent Procedures for Building Works and Street Works\n\nIntroduction\n\n              This practice note provides guidelines on consent application.\n\nFast Track Application"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            Buildings Department has put in place a system for fast-track processing\nof application for consent to commence works from the Building Authority (BA) for\ncertain building works and street works.  The procedures aim to facilitate building\ndevelopment by reducing the number of times authorized persons (AP), registered\nstructural engineers (RSE) and registered geotechnical engineers (RGE) are required to\nsubmit consent applications."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The procedures for securing the BA’s consent to the commencement of\nbuilding works and street works are laid down in the Buildings Ordinance (BO) and the\nBuilding (Administration) Regulations (B(A)R).  With the implementation of the\nfast-track processing of consent application, there are now two sets of procedures:\n\n             •  The normal procedure – This is applicable to all building\n                works and street works.   It should be followed for  all\n               Type I works and if so opted by AP or RSE, for Type II\n                 works; and\n\n             •  The fast-track procedure – This is only applicable to Type\n                       II works.\n\nClassification of Works"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 207
+        }
+      ],
+      "text": "4.           For the purposes of this practice note and the administration of section\n14(1)(b) of the BO and regulation 31 and 33 of the B(A)R, building works and street\nworks are classified into two types:\n\n        (a)    “Type I works” refers to all the works, which have not been\n              issued with a first consent of the BA.  In this context, a first\n              consent means the BA’s consent granted for the first time for the\n             works.   It does not include the BA’s consent required for the\n            works shown on amendment plans, but include major revisions\n              or amendment plans containing material deviations, approved\n              subsequently; and\n\n\n                                                                                           /(b) …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2  -\n\n        (b)    “Type II works” refers to the works for which the BA has\n              given approval and a  first consent, in respect of which an\n            amendment to plans already approved is proposed.   It excludes\n             major  revisions  or  amendment  plans  containing  material\n               deviations to the plans previously approved."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.           AP, RSE or RGE wishing to take advantage of the fast-track procedures\nshould mark clearly on the lower right-hand corner of his plans the following statement:\n\n           “The works shown on these plans are Type II works\n                 (curtain wall works, for example) in respect of which\n               consent is applied for the purpose of Fast Track consent\n                application  under   regulation  33   of   the  Building\n                (Administration) Regulations.”"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.                  It is the responsibility of AP, RSE and RGE to consider thoroughly and\nensure whether the works are Type I or Type II.  Where the BA does not accept the\nclassification indicated on a plan, he may, by invoking section 16(3)(a) or (b) of the BO,\nrefuse to grant consent under the procedures."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          The fast-track procedures have the obvious advantage of allowing for\ntechnical and minor adjustments to be made to the works without suspending the works\non site.  For any works to qualify as Type II works, it is essential that consent should\nhave already been obtained earlier for the works."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          To facilitate the operation of the consent application system, AP, RSE\nand RGE are requested to adopt the following terminology for differentiating the\ndifferent types of building works or street works:\n\n             •  Demolition works\n\n             •  Ground investigation works\n\n             •   Site formation works\n\n             •   Slope/retaining wall works\n\n             •  Excavation and lateral support works\n\n             •  Foundation works\n\n             •  Cap/footing/basement works\n\n             •  Superstructure works\n\n             •  Curtain wall works/cladding works\n\n             •   Alteration and addition works\n\n                                                                                     /Street …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3  -\n\n             •   Street or access road works\n\n             •  Drainage works\n\n             •  Tunnel works\n\n             •  General building works  (i.e., works shown on general\n                  building plans, often synonymous with superstructure\n                works)\n\nNote      :    More detailed description may be added in brackets after the above terms\n              as necessary, e.g. Excavation and Lateral Support Works (Sheet Piles)\n             and Site Formation Works (Phase I).\n\nFirst Consent Checklist"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          To ensure all essential works and procedures have been completed and\nall required documents are submitted prior to or together with the application for the\nfirst consent to the commencement of the superstructure works, AP/RSE/RGE may\nmake reference to the checklist at Appendix A as appropriate.\n\nNormal Procedures"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.         The normal procedures require separate applications to be made for the\nBA’s approval of plans and consent for commencement of the approved works.  These\nprocedures should be followed in respect of all Type I works and where AP, RSE or\nRGE so chooses, in respect of any Type II works.\n\nFast-track Procedures"
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.         The fast-track procedures operate on the principle that approval and\nconsent are given at the same time in respect of Type II works.   It follows, therefore,\nthat the consent given is limited to what is shown on the plans approved.   If approval\nof other types of plans are required, e.g., corresponding structural amendment plans, the\nworks, for which approval and consent have been given, should not be executed on site\nuntil approval of the structural amendment plans have been obtained together with the\nconsent for the structural amendment works."
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.         The procedures to be followed are as follows:\n\n              Step 1  :  Statement in accordance with paragraph 5 above is\n                   made by AP, RSE or RGE on the plans for Type II\n                     works submitted in the application for approval and\n                        consent at the same time.\n\n              Step 2  :   If the plans cannot be approved, the disapproval of\n                         the plans and the refusal to give consent are issued\n                          to AP, RSE or RGE at the same time.\n\n\n                                                                            /Step 3 …"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4  -\n\n              Step 3  :   If the plans can be approved, approval and consent\n                          will be given at the same time with the required\n                        consent notice in respect of the works so approved\n                     and consented to.  The BA expects AP, RSE and\n               RGE to ensure  that the works so approved and\n                       consented  to  are compatible with  all previously\n                      approved plans and that all conditions imposed are\n                      complied with.\n\n              Step 4 :    If the plans can be approved but consent cannot be\n                         given, the plans will be approved and a notification\n                         of  refusal  of  consent  will  be  issued.    In  the\n                        circumstances, AP, RSE or RGE should follow the\n                      normal  procedures  for  securing  consent  for  the\n                      approved amendment works.\n\n             Step 5 :   For any subsequent submission of amendment plans,\n                       Step 3 or Step 4 as appropriate will be taken.\n\nSpecified Forms"
+    },
+    {
+      "id": "p13-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "13.            In lieu of the specified Form BA8, a statement in accordance with\nparagraph 5 above will be accepted for the purpose of application for consent for Type\nII works.\n\nSanctions"
+    },
+    {
+      "id": "p14-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "14.          AP, RSE and RGE wishing to take advantage of the fast track procedures\nfor the Type II works should ensure that all necessary consents are obtained and all\nrequirements are met prior to the commencement of the works.  In this regard, AP,\nRSE and RGE are reminded of the sanctions contained in sections 7 and 40 of the BO.\n\nValidity of Plans"
+    },
+    {
+      "id": "p15-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "15.          While the BO does not prescribe a validity period of approved plans,\nsection 16(3)(d) of the BO does provide the BA with the opportunity to review any\nplans that are approved more than 2 years ago upon the application for consent to\ncommence works.  The BA will invoke section 16(3)(d) of the BO to refuse consent if\nthe building works or street works shown on the approved plans do not comply with the\ncurrent standards specified in the BO and allied regulations.  However, section 16(3)(d)\nof the BO will not be invoked to enforce approved or draft outline zoning plans\nintroduced under the Town Planning Ordinance after the approval of the building plans.\n\n\n\n\n\n                                                                 /Application …"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 5  -\n\nApplication of New Regulations"
+    },
+    {
+      "id": "p16-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "16.           Section 39(2) of the BO provides that if any building works or street\nworks are being carried out or consent to their commencement has been given before\nthe coming into operation of any new regulation, the provisions of the law prior to the\nnew regulation shall apply to such works.  In this connection, if the building works or\nstreet works required under a new regulation are not shown on any plans that have been\napproved within a period of 2 years at the time of application for first consent to\ncommence works, the BA may invoke section 16(3)(a) of the BO to refuse the consent\napplication on the ground that the BA has not received and given his approval to all the\nplans prescribed by regulations.  In cases where section 16(3)(a) of the BO is not\ninvoked to refuse the application for first consent, such as in the case where plans\nincorporating the required building works or street works have been approved but not\nconforming to the standards specified in the new regulations, AP, RSE or RGE is\nresponsible to ensure that the building works or street works to be carried out comply\nwith the standards set out in the new regulations pursuant to the provisions of section\n39(2) of the BO.   In such cases, AP/RSE/RGE should submit amended plans for\napproval as necessary, before application for an occupation permit.   If the building\nworks or street works carried out do not comply with the new regulation, the application\nfor occupation permit may be refused under section 21(6) of the BO.\n\n\n\n\n\n                                                                  ( YU Po-mei, Clarice )\n                                                    Building Authority\n\n\n\n\nRef. : BD GP/OM/5/3\n    BD GR/1-50/43/0\n\nFirst issue    November 1997\nLast revision  December 2005\nThis revision May 2023 (AD/NB1) (Paragraph 9 and Appendix A added)"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix A\n                                                        (PNAP APP-97)\nChecklist for Application for the First Consent to the Commencement and Carrying out of\n                    Building, Superstructure and/or Drainage Works\n\n(This checklist is not required to be submitted to the BD)\n\nPART 1  - SITE PREPARATION WORKS\n                                                                           Yes     No     N/A\n\n1.1  Conditions of the existing party wall and/or adjoining building, if any, are structurally\n      safe?\n1.2  Shoring or other temporary support to adjoining or other buildings,  if required,\n      installed?\n1.3  Information   of  Authorized   Person/Registered   Structural  Engineer/Registered\n     Geotechnical Engineer/Registered Contractor and their contact telephone numbers\n     displayed on site? (PNAP ADV-12)\n\nPART 2  - REQUIRED DOCUMENTS/INFORMATION TO BE SUBMITTED\n                                                                           Yes     No     N/A\n2.1  Form BA8 (Application for Consent to the Commencement and Carrying Out of\n      Building Works or Street Works) or Form BA8A (Application for Concurrent Consent\n      to the Commencement of Building Works) duly completed and signed?\n2.2   Supervision plan submitted?\n2.3  The following documents,  if required by the conditions imposed when granting\n      modification, submitted?\n    GFA concessions:\n      2.3.1  The result of the Provisional Assessment under the BEAM Plus certification\n             conferred/issued by the Hong Kong Green Building Council (PNAP APP-2,\n           APP-130, APP-150 & APP-151)\n      2.3.2  Information  on  the  estimated  energy  performance/consumption  for  the\n         common  parts of the building  (for domestic development)/for the  entire\n             building (for non-domestic domestic) (PNAP APP-2, APP-130, APP-150 &\n           APP-151)\n      2.3.3  Provisional  Energy   Efficiency  Report   (for  domestic   or  composite\n            development) (PNAP APP-151 & APP-156)\n     Ownership of site:\n      2.3.4  Documentary proof of full ownership of the site (Circular Letter dated 27\n           September 2021)\n     Others:\n      2.3.5  Please specify: [Documents/information required by conditions imposed by\n            modification granted (Permit No. XX xx/yyyy (MOD) dated dd.mm.yyyy)]\n2.4  The following documents, if required by conditions imposed under regulation 10 of\n      Building (Administration) Regulations, submitted?\n      2.4.1 GBP amendment incorporating deferred essential information for Stage II as\n             detailed in Appendix A1 of PNAP ADV-33 submitted and approval obtained\n         (PNAP ADM-19 & ADV-33)\n      2.4.2  Provisional OTTV Report of a commercial or hotel building (PNAP APP-67)\n      2.4.3  Proofs of site parameters either by a detailed lease plan or a land survey plan\n            prepared by an Authorized Land Surveyor (PNAP ADM-21)\n2.5. Documents/information, if required by conditions imposed under section 17(1) of the\n    Buildings Ordinance, submitted?\n\n\n                                                                    - 1 ­"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Appendix A\n                                                        (PNAP APP-97)\n\n\nPART 3  - OTHER ASPECTS\n                                                                           Yes     No     N/A\n3.1  Approvals of the corresponding Superstructure plans and/or Drainage plans including\n     amendments obtained?\n3.2  Approval  of  additional  plans  of  the Approved Anchor System and  the  future\n     monitoring information and guidelines, for works in relation to prestress ground\n     anchors obtained? (PNAP APP-12)\n3.3   Conditions or requirements imposed under section 17(1) of Buildings Ordinance, if\n      any, complied with?\n\n3.4   Conditions or requirements imposed by Geotechnical Engineering Office of Civil\n     Engineering and Development Department, if any, complied with?\n\n3.5  Are requirements of new regulations/new codes/PNAPs, if applicable, complied with?\n3.6  Requirements from Antiquities and Monuments Office,  if any declared/proposed\n     monument or graded building affected, fulfilled?\n3.7  The modification permit,  if granted,  still valid? (Circular Letter dated 20 October\n     2010)\n3.8  Hoarding Permit issued and valid? (PNAP APP-23)\n3.9  Consent from the adjoining owners of party walls/structures,  if strengthen works\n      required, obtained? (section 113 of the Buildings Ordinance)\n3.10 Form BA 14 certifying completion of foundation works acknowledged?\n3.11 Modification of B(A)R 33(1) for deferring submission of minor amendment, if to be\n      applied, submitted together? (PNAP ADM-19)\n\n\n\n\n\n(5/2023)\n\n\n\n\n\n                                                                     - 2 ­"
+    }
+  ]
+}

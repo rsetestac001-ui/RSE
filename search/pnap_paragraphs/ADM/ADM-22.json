@@ -1,0 +1,35 @@
+{
+  "code": "ADM-22",
+  "source_text": "indexed_text/PNAP/ADM/ADM-22.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-22.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department      Registered Structural Engineers and     ADM-22\n                            Registered Geotechnical Engineers\n\n\n                       Withdrawal and Resubmission\n\n          Withdrawal and resubmission1 (W&R) of applications for occupation permits\nand plan approval is a long-established and facilitating practice which allows flexibility in\nthe processing of applications within the statutory time limits with a view to obtaining\napprovals."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 115
+        },
+        {
+          "label": "b",
+          "offset": 179
+        }
+      ],
+      "text": "2.        The following governing measures are in place to ensure the effectiveness of\nthis facilitating practice:\n\n        (a)  W&R must be in writing and provided with reasons.\n\n        (b)  W&R of the same submission may generally be entertained for not more\n            than two times.\n\n\n\n\n\n                                                                   ( CHEUNG Tin-cheung )\n                                                       Building Authority\n\n\n\n\n\nRef.: BD GP/BORD/10(VI)\n\nFirst issue  September 2019 (AD/NB1)\n\n\n\n\n\n1 W&R describes an action by Authorized Person/Registered Structural Engineer/Registered Geotechnical\n   Engineer, which usually involves the processing of an application for approval of plans, occupation permit\n   or consent to commence works, by means of a letter to the Building Authority, to simultaneously withdraw\n   and resubmit an application without physically taking back and resubmitting the relevant plans or\n   documents with the effect of re-commencing the statutory period for processing."
+    }
+  ]
+}

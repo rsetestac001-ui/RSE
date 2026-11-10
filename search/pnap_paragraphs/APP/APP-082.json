@@ -1,0 +1,83 @@
+{
+  "code": "APP-082",
+  "source_text": "indexed_text/PNAP/APP/APP-082.txt",
+  "source_pdf": "documents/PNAP/APP/APP-082.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-82\n\n                                     Practice Note for Authorized Persons\nBuildings Department                                                   195\n                              and Registered Structural Engineers\n\n\n                    Code of Practice for the Provision of\n                   Means of Escape in Case of Fire 1996\n\n\n             Requirements for means of escape for buildings are laid down in\nsection 41(1) of the Building (Planning) Regulations. The Code of Practice for the\nProvision of Means of Escape in Case of Fire (MOE Code) provides guidance on\nthe compliance with these requirements."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The MOE Code has been reviewed recently.  The revised Code\n(Code of Practice for the Provision of Means of Escape in case of Fire 1996) has\nbeen published and is available for sale at the Government Publication Centre. The\npurpose  of  this  Practice Note  is  to  explain  the  revised requirements and  the\napplication of the revised Code.\n\nRevised Requirements"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The revised Code has clarified a number of anomalies and grey areas\nin the existing Code, upgraded standards on the design of some building components\nand streamlined duplications in the MOE Code and the Code of Practice for Fire\nResisting Construction. A new Part III is also added to deal with means of escape\nrequirements for places of public entertainment.\n\nApplication"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 98
+        },
+        {
+          "label": "b",
+          "offset": 205
+        }
+      ],
+      "text": "4.          The revised MOE Code shall come into operation on 1.12.96 except\nfor the following :-\n\n        (a)     Part III of the new MOE Code has been effective on 28.6.96 (PNAP\n            194 refers).\n\n        (b)    For buildings or building works which are being carried out or for\n            which consent to commence has been given on or before 1.12.96, the\n                earlier  edition of the MOE Code may be used as the basis for\n              providing the facilities."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The Building Authority acknowledges that there may be difficulties in\nthe adoption of the Fire Engineering Approach and in the application of the new\ncode to existing buildings in certain situations. Further guidelines may be issued.\n\n\n                                                               /Suggestions  ......"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n\n\nSuggestions"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.     This Code will be reviewed regularly. Any suggestion for improving it is\nwelcome.\n\n\n\n\n\n                                      (CHOI Yu-leuk)\n                                                 Building Authority\n\n\n\n\n\nRef.  BD GP/LEG/6/A(VI)\n     PNAP 163, 192 & 194\n\nFirst issued (June 1996) (AD/LM)\nIndex under: Means of Escape, Code of Practice for"
+    }
+  ]
+}

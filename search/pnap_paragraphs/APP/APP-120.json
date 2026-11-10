@@ -1,0 +1,109 @@
+{
+  "code": "APP-120",
+  "source_text": "indexed_text/PNAP/APP/APP-120.txt",
+  "source_pdf": "documents/PNAP/APP/APP-120.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers   APP-120\n\n                               Practice Note for Authorized Persons\n Buildings Department                                                255                         and Registered Structural Engineers\n\n\n                           Concrete Batching Plant\n\n Background\n\n               Concrete  Batching  Plants  (CBP)  were  originally  located  within\n construction sites for supply of concrete for on-site construction activities. Such CBP\n were commonly considered  to be machinery and equipment and did not  in the\n circumstances  fall into the definition of 'building' under the Buildings Ordinance\n (BO). Over time, some CBP have evolved to become bigger, and others sited in urban\n areas, near buildings and public thoroughfares."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          From time to time, Authorized Persons (AP) and Registered Structural\n Engineers (RSE) exercise  their professional judgment  in determining whether  to\n submit  plans  of CBPs  to  the  Building  Authority (BA)  for  approval.  Buildings\n Department (BD) also advises, in response to specific enquiries, on the need for\n submission of plans for approval.\n\n Building Works"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          What  constitutes a  building and  therefore becomes  subject  to  the\n application of the BO is a question of degree and circumstances, including any risk\n they may pose to public safety. The BA is of the view that CBP fixed to and founded\n on the ground, connected to a utility supply and with a control room, are buildings\n under the BO. Hence approval and consent are required prior to their erection.\n\n Requirements"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 169
+        }
+      ],
+      "text": "4.           Taking into account the growing concern on the public safety posed by\n contemporary CBP1, the BA takes the following position on CBP: -\n\n           New CBP\n\n            (a)  For new CBP including associated structures such as cement,\n               sand and aggregate handling facilities, building plans prepared\n              by AP and RSE should be submitted to the BA for approval in\n               accordance   with   the  BO  and   regulations   (including\n               compliance with the town plan) before they are erected. For\n                 the common type of CBP shown on Appendix A, BA  is\n               prepared  to process applications for approval and consent\n                simultaneously upon request and such applications will be\n                  dealt with as outlined in Appendix B;\n                                                                                        /(b) …..\n\n\n  1 Contemporary CBP may comprise, inter alia, washing-out pits, elevators, conveyor belts, ground hoppers,\n mixing drums, workspaces and offices, silos, water-tanks, storage areas/tanks, structural supports including\n  foundations"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n           (b) An occupation permit or a temporary occupation permit shall\n             be applied for, depending on the requirements of the operator\n              or nature of the site, upon satisfactory completion of works in\n             accordance with the provisions of the BO and regulations; and\n\n           (c)  Enforcement  action under  the BO  in accordance with  the\n               prevailing  policy  for  the  control  of unauthorized  building\n            works will be taken against new CBP and associated structures\n               erected  after 31 March 2002  without  prior approval and\n              consent.\n\n              Existing CBP\n\n          (d)  Action against existing CBP erected prior to 1 May 2002 will\n              not be taken  if their structural safety can be demonstrated\n             through submission of satisfactory appraisal reports by a RSE\n            by 30 October 2002 and such plant is properly maintained.\n             This notwithstanding, other government departments may still\n                  initiate enforcement actions against individual CBP which fails\n                to comply  with  the  relevant  provisions  under  applicable\n              Ordinances, or respective land use requirements."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.             In the longer term, we will explore the  feasibility of setting up a\nstatutory system for self-certification of CBP with a total silo capacity less than 50\ntonnes and having an overall height less than 15 m.\n\n\n\n\n\n                                               (C M Leung)\n                                                    Building Authority\n\n\n\n\n\nRef.: GP/BORD/73 (II)\n\nFirst Issue March 2002 (AD/NB1, AD/NB2)\n\nIndex under: Concrete Batching Plant"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Appendix A\n                                                     (PNAP 255)\n                                                             (APP-120)\n\n\n\n\n\n(3/2002)"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix B\n                                                    (PNAP 255)\n                                                           (APP-120)\n\nIn respect of those type of CBP's as shown in Appendix A (the number of production\nlines may vary) the following arrangements under the BO will be accepted: -\n\n  New CBP\n-\n\n\n\n\n\n   -\n\n\n\n\n\n-\n\n\n\n            (i)   the number of production lines does not exceed 4 and\n\n            (ii)   the total GFA of all control rooms does not exceed 100 m2.\n   -\n\n\n\n\n   -\n\n\n\n\n\n  Rearrangement of layout of CBP\n   -\n\n\n\n\n\n                                                                     /Relocation …..\n\n\n                                                   - 1 -"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Relocation of an approved CBP\n   -\n\n\n\n\n\n-\n\n\n\n\n\n   Existing unapproved CBPs\n-\n\n\n\n\n\n   Relocation of existing unapproved CBP\n-\n\n\n\n\n\n  Non Typical CBP\n    -\n\n\n\n\n\n(3/2002)\n\n\n                                                   - 2 -"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix C\n                                                    (PNAP 255)\n                                                           (APP-120)\n\n\nRequirements  for 30-day processing  of  structural submissions  in  respect  of\n'Relocation of an approved CBP'\n\n(A)    Superstructure\n\n     RSE is to certify the following during the plan submission :-\n\n          (i)    the structural framing plans, members and connection details are the\n          same as the approved plans dated _______________ under the reference\n              of BD ______________.\n          (ii)    the structural calculations, including the method of analysis, wind load,\n            dead  load,  live load and  material design  stresses and  the  relevant\n             standards submitted for the approved plans mentioned above have been\n            reviewed and found to be equally applicable to the new CBP now\n             proposed.\n\n(B)    Foundations\n\n     RSE is to certify the following during the plan submission :-\n\n          (i)    the foundation plans showing the foundation system, allowable bearing\n              pressure, type, layout and details are the same as the approved plans\n             dated _____________ under the reference of BD _____________.\n          (ii)   the structural calculations for the foundation details including the method\n             of  analysis,  loadings and  material  design  stresses and  the  relevant\n             standards submitted for the approved plan mentioned above have been\n            reviewed in conjunction with the site investigation report for the CBP\n         now proposed, and are found to be equally applicable to the new CBP\n         now proposed.\n\n(C)    Referrals of Supertructure and Foundation Plans\n\n      The RSE is to certify that the new CBP proposal does not involve or affect the\n       followings and hence referral to each of the organisation is not required.\n\n       Does proposal involve or affect the    Referral to each of the relevant\n        following?                            organisation\n\n       Schedule Area No. 1, 2 or 4          Geotechnical Engineering Office\n       Schedule Area No. 3 or MTR       Mass Transit Railway Corporation\n        Protection Area\n\n\n                                                                    /Schedule …..\n\n                                                   - 1 -"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Schedule Area No. 5                    (a)  Geotechnical Engineering Office;\n                                            and\n                                                  (b) Drainage Services Department\n        Slopes/Retaining Structures/Deep     Geotechnical Engineering Office\n        excavation/disused tunnel\n        Culvert, nullah, stream course        Drainage Services Department or\n                                               Project Manager, Territory\n                                       Development Department for New\n                                               Territory area\n      Kowloon Canton Railway route      Railway Division, Highways\n        protection area or proposed rail      Department\n        routes\n        Light Rail Transit                    Light Rail Division, Kowloon Canton\n                                         Railway Corporation\n        Structures to be erected in, over,       (a)  Lands Department; and\n       under or upon street                    (b) Highways Department\n      Highway Structures               Highways Department\n       Sea walls, adjacent to sea front       Technical Services Division,\n                                                Civil Engineering Department\n        Reclamation, piers                      (a)  Marine Department; and\n                                                  (b)  Technical Services Division,\n                                                     Civil Engineering Department\n        Public drainage                     Drainage Services Department\n       Water mains                      Water Supplies Department\n\n\n\n\n\n(3/2002)\n\n\n                                                   - 2 -"
+    }
+  ]
+}

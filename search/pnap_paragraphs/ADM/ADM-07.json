@@ -1,0 +1,114 @@
+{
+  "code": "ADM-07",
+  "source_text": "indexed_text/PNAP/ADM/ADM-07.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-07.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers      ADM-7\n\n                                     Practice Note for Authorized Persons\n  Buildings Department                                                   104                              and Registered Structural Engineers\n\n\n\n                               Geotechnical Information Unit\n\n              Since 1983, the Geotechnical Information Unit (GIU) has been an important\nsource of geotechnical information for the public including authorized persons, registered\nstructural engineers and their consultants.  It is the largest and most comprehensive collection\nof  site-specific  geotechnical  data  in  the  Territory.    It  is operated by  the Geotechnical\nEngineering Office and is housed within the Civil Engineering Library on the First Lower\nGround Floor of the Civil Engineering Building in Homantin, between 9:00 - 12:30 and 14:00\n- 16:15 on Mondays to Fridays (except public holidays)."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 50
+        },
+        {
+          "label": "b",
+          "offset": 154
+        },
+        {
+          "label": "c",
+          "offset": 221
+        },
+        {
+          "label": "d",
+          "offset": 297
+        },
+        {
+          "label": "e",
+          "offset": 337
+        },
+        {
+          "label": "f",
+          "offset": 387
+        }
+      ],
+      "text": "2.          The GIU holds the following material:\n\n        (a)    ground  investigation  reports  including  geophysical  survey\n                reports;\n\n        (b)     reports on laboratory testing of soils and rocks;\n\n        (c)    a card index of cut slopes, fill slopes and retaining wall;\n\n        (d)     landslip record cards;\n\n        (e)     piezometric monitoring data; and\n\n         (f)     rain gauge records.\n\nIn particular, most of the data on geology, hydrology and soil properties collected in the course\nof the Mid-levels Study between 1979 and 1981 are available in the GIU."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.             Retrieval of ground investigation information and laboratory  test reports  is\naccomplished using the GIU Cell Referencing System. This is based on an array of numbered\ncells superimposed on 1:5 000 scale survey sheets for the urban areas and 1:20 000 scale\nsheets for the remainder of the Territory."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 134
+        }
+      ],
+      "text": "4.         GIU users can also consult the wide range of geotechnical literature held in the\nCivil Engineering Library. This includes:\n\n        (a)    a collection of geotechnical and geological textbooks, reports,\n               journals and periodicals, including reference books on ground\n                investigation, testing and engineering standards; and\n\n                                                                                                    /(b) a ...."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "-  2  -\n\n        (b)    a comprehensive collection of published papers on Hong Kong\n             geology and geotechnical engineering.\n\nThese materials are referenced by class (type) of publication and by subject matter.  Retrieval\nis now assisted by a computerized catalogue that allows keyword searching by title or author."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.           Data from the GIU may be examined in the reading area but is not to be taken\nout of the library. There are photocopying facilities available at a nominal charge."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          The GIU has a set of plans showing the locations of registerable slopes and\nretaining walls contained in the Catalogue of Slopes prepared by the Consultant to Government\nin 1977/78 and subsequently updated by the Survey Division of the Civil Engineering\nDepartment.  There are also data sheets and photographs.  General enquiries on the GIU\nshould be directed to the librarian who can be contacted by telephoning 2762 5147."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           Those who wish to obtain information from the Catalogue should  fill in an\napplication form available from District Offices and the GIU and preliminary information will\nbe sent to the enquirer in ten days.\n\n\n\n\n\n                                                             (Helen C P Lai YU)\n                                                                 Building Authority\n\n\n\n\n\nRef : BD GR/OD/22\n\nFirst issued May 1984\nThis update May 1995 (AD/SE, GGE)\n\nIndex under :  Geotechnical Information Unit"
+    }
+  ]
+}

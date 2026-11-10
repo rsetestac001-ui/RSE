@@ -1,0 +1,144 @@
+{
+  "code": "APP-108",
+  "source_text": "indexed_text/PNAP/APP/APP-108.txt",
+  "source_pdf": "documents/PNAP/APP/APP-108.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers   APP-108\n\n                                 Practice Note for Authorised Persons\n Buildings Department                                                233\n                           and Registered Structural Engineers\n\n\n               Dedication of Land/Area for Use as Public Passage\nPurpose\n\n              This practice note sets out the general guidelines on proposals to dedicate\nland or area within a building for use as public passage and the concessions which the\nBuilding Authority (BA) may grant upon acceptance of such dedication.\n\nDedications"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 371
+        }
+      ],
+      "text": "2.          The BA has the discretionary power to grant concessions in the form of\nexemption of certain floor areas from the gross floor area (GFA) calculations and in the\nform of additional plot ratio and site coverage in exchange for dedication of land or area\nfor use as public passage. Proposals for dedication usually fall into one of the following\ntwo categories:-\n\n          (i)    Dedication of set back area at street level for the purpose of\n              public passage\n\n            The permitted site coverage and plot ratio for the building may\n             be exceeded to an extent calculated in accordance with Building\n               (Planning) Regulations (B(P)R). The maximum additional plot\n                 ratio thus approvable is five times the area so dedicated or 20%\n               of the permissible plot ratio, whichever is the less. In addition,\n               the BA may exempt areas accepted as dedicated for use as public\n              passage from GFA calculations.\n\n          (ii)    Dedication of an area within or through a building at ground\n                level or other floor levels for public passage\n\n            The BA may in return for this type of dedication allow the\n              concessions by way of granting modifications of the relevant\n            B(P)R provisions. The extent of the concessions, which may be\n              granted by the BA according to individual merits, ranges from\n             exempting the dedicated area from GFA calculations to allowing\n             bonus  plot  ratio  and  site  coverage  for  the  development.\n             Normally the bonus site coverage, if allowed, will be equivalent\n                to the extent calculated in accordance with B(P)R 22(1). The\n           maximum bonus  plot  ratio,  in  terms  of  additional GFA,\n               generally will be at multiples of the dedicated area (five times for\n               dedicated area at ground level and two times for areas at other\n                floor levels) subject to the total bonus in return for the dedication\n               not to exceed 20% of the permissible plot ratio with the dedicated\n               area being exempted from accountable GFA.\n                                                                                           / General …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\nGeneral Guidelines"
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         To provide a greater degree of certainty to authorized persons and\ndevelopers when they submit applications for concessions in return for dedication of land\nor area within a building for use as public passage, the following guidelines on the\nprovision of public passages are provided for general reference."
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          B(P)R 22(2) provides for additional plot ratio and site coverage in return\nfor surrender for the purpose of street widening. Hence public passages intended for\nstreet widening shown on town plans or other street improvement plans would be\nconsidered in the context of B(P)R 22."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          Where bonus plot ratio and site coverage are given in return for dedication\nof land for public passage, the resultant development intensity shall not exceed the\nrestrictions, if any, stipulated in the statutory town plan unless otherwise provided in the\nsaid plan."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 143
+        },
+        {
+          "label": "b",
+          "offset": 276
+        },
+        {
+          "label": "c",
+          "offset": 550
+        },
+        {
+          "label": "d",
+          "offset": 660
+        }
+      ],
+      "text": "6.          The Building Authority may accept dedication of land or area within a\nbuilding for public passage if such dedication will lead to:\n\n        (a)     alleviation of congestion problems of vehicular or pedestrian\n                 traffic on public roads or walkways;\n\n        (b)    linkage  with  a  footbridge/subway  or proposed  footbridge/\n            subway which is or will be readily accessible to and used by the\n              general public, and such linkage would significantly enhance\n              public safety or convenience;\n\n        (c)    improvement of road safety or significant enhancement of public\n              convenience; or\n\n        (d)    provision of suitable greenery compatible with the use of the\n             proposed public passageway."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.            All  applications  for  dedication should be accompanied by  suitable\njustification to demonstrate that there is a genuine need by the public for such dedication\nand the dedicated areas are reasonable in the circumstances to cater for the need.  In\ngeneral, upon acceptance of a proposed dedication of land or area within a building for\npublic passage as  desirable, the BA may exempt such land or area from GFA\ncalculations. However, bonus plot ratio and site coverage for the development will only\nbe allowed if such dedication is considered to be essential by government, taking into\naccount alternative public passages available in the vicinity."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          Where the dedicated area within a building serves both the public and the\nusers of the building, the amount of exempted GFA and/or bonus GFA will be assessed\nby taking into account the proportion of traffic generated by the public and the users of\nthe building.\n\n                                                                                            / Display …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n\nDisplay of Notices"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.            In all cases, the responsibility for the provision, maintenance and repair of\nthe dedication areas will rest with the building owners. For greater transparency, notices\nadvising the public of the dedication of the area for use as public passage, the opening\nhours of such a public passage and the party responsible for the management of the area\nshould be displayed in conspicuous locations of the area to the satisfaction of the BA.\nSuch responsibility for the display of notices, maintenance and repair will be made a\ncondition of dedication.\n\nDeed of Dedication"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.      A temporary occupation permit or an occupation permit will not be issued\nbefore the execution of a Deed of Dedication incorporating all the relevant terms and\nconditions and until all these terms and conditions have been fullfilled. APs should\nremind their clients for early preparation and execution of the required Deed.\n\n\n\n\n\n                                                                    ( Marco M H WU )\n                                                     Building Authority\n\n\n\n\n\nRef: BD GP/BREG/P/3(III)\n\nFirst issue November 1999\nLast revision December 2002\nThis revision June 2003 (AD/NB1) (General revision)\n\nIndex under:  Dedication\n            B(P)Reg 22"
+    }
+  ]
+}

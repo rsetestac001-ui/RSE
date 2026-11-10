@@ -1,0 +1,45 @@
+{
+  "code": "APP-125",
+  "source_text": "indexed_text/PNAP/APP/APP-125.txt",
+  "source_pdf": "documents/PNAP/APP/APP-125.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-125\n                         Registered Geotechnical Engineers\n\n\n          External Area and Floor Adjoining External Ground or Roof\n\n\n              Sections 33(2) and 34(2) of the Building (Construction) Regulation\n(B(C)R) require adequate means to be provided to prevent ingress of water from the\nground surface outside a building or from the roof of a building to the adjoining floor.\nSection 33(3) of the B(C)R requires the ground surface (except in landscaped area)\noutside a building must be provided with paving laid to an adequate gradient to direct\nwater to flow into a surface water drain.  This practice note provides guidance on\ncompliance with these requirements."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 388
+        },
+        {
+          "label": "b",
+          "offset": 536
+        }
+      ],
+      "text": "2.           While the requirements under sections 33(2) and 34(2) of the B(C)R can\ngenerally be met by providing sufficient difference in level between the internal floor\nand the adjoining external ground or roof, alternative design achieving the equivalent\nperformance may be acceptable.  In this connection, the following designs will be\naccepted as complying with these requirements:\n\n        (a)    The level of the internal floor is not less than 150 mm above the\n               level of the adjoining external ground or roof; or\n\n        (b)    Additional drainage channels, each with  at  least 2 drainage\n               outlets are provided, and the external ground or roof is laid to\n                  fall at a gradient of not less than 1 in 80 away from the adjoining\n               internal floor.\n\nIn the event that the above designs cannot be considered, the provision of a kerb, with\nwater proofing construction, at the access point having a total height of 150 mm above\nthe adjoining external ground or roof may be considered on individual case merits and\ncircumstances."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           For the purpose of section 33(3) of the B(C)R, the paving should be laid\nto fall at a gradient of not less than 1 in 80 to a gully trap or drainage channels\nconnected to a surface water drain.\n\n\n\n                                                                 ( YU Tak-cheung )\n                                                  Building Authority\n\nRef. : BD GP/BREG/C/23 (VIII)\n\nThis PNAP is previously known as PNAP 266\nFirst issue    December 2001\nLast revision  January 2005\nThis revision  February 2021 (AD/NB1) (General revision)"
+    }
+  ]
+}

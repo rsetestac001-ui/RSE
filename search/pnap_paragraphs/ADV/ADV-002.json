@@ -1,0 +1,114 @@
+{
+  "code": "ADV-002",
+  "source_text": "indexed_text/PNAP/ADV/ADV-002.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-002.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department      Registered Structural Engineers and     ADV-2\n                            Registered Geotechnical Engineers\n\n\n\n                             Legislation and Publications\n                          Affecting the Building Industry\n\n\n        A list of the legislation and other publications of interest to the building\nindustry is shown in Appendix A. The list is not exhaustive and is offered for general\ninformation only."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The publications listed in Appendix A are available for viewing from\nvarious Government departments’ websites or purchase by the following means :\n\n               calling  the  Publications  Sales  Unit  of  Information\n                  Services Department (ISD) at 2537 1910;\n\n               visiting   the   online   Government   Bookstore    at\n                  http://www.gov.hk/en/residents/government/publication/\n                  publication/bookstore.htm;\n\n              downloading the order form from the ISD website at\n                www.isd.gov.hk and submitting the order online or by\n                  fax to 2523 7195; and\n\n               placing   order   with   ISD   through   e-mail   to\n                 puborder@isd.gov.hk.\n\n\n\n\n\n                                                                      ( HUI Siu-wai )\n                                                      Building Authority\n\n\nRef. : BD GR/1-125/2/0\n\nThis PNAP is previously known as PNAP 115\nFirst issue     October 1985\nLast revision  March 2011\nThis revision  November 2014 (AD/CS)  (Appendix A amended)"
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "Appendix A\n                                                    (PNAP ADV-2)\n\n             Legislation and Publications Affecting the Building Industry\n\nA. Laws of Hong Kong\n\n\nChapter               Relevant Ordinances                    Website\n\n123       Buildings Ordinance                             Department of Justice\n                                                        www.doj.gov.hk123A       Building (Administration) Regulations\n\n123B        Building (Construction) Regulations\n\n123C        Building (Demolition Works) Regulations\n\n123F        Building (Planning) Regulations\n\n123G       Building  (Private  Streets and  Access  Roads)\n             Regulations\n\n123H       Building (Refuse Storage and Material Recovery\n           Chambers and Refuse Chutes) Regulations\n\n 123I        Building   (Standards   of   Sanitary   Fitments,\n             Plumbing,   Drainage  Works  and   Latrines)\n             Regulations\n\n 123J        Building (Ventilating Systems) Regulations\n\n123K       Building (Oil Storage Installations) Regulations\n\n123L        Building (Appeal) Regulation\n\n123M       Building (Energy Efficiency) Regulation\n\n123N       Building (Minor Works) Regulation\n\n123O       Building (Minor Works) (Fees) Regulation\n\n123P        Building (Inspection and Repair) Regulation\n\n7         Landlord and Tenant (Consolidation) Ordinance\n\n17       Lands Tribunal Ordinance\n\n28       Land (Miscellaneous Provisions) Ordinance\n\n40       Government Leases Ordinance\n\n51       Gas Safety Ordinance\n\n53        Antiquities and Monuments Ordinance\n\n59        Factories and Industrial Undertakings Ordinance\n\n\n                                                                                                                    / 95 …..\n\n\n\n                                                        - 1 -"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Chapter               Relevant Ordinances                    Website\n\n95         Fire Services Ordinance                          Department of Justice\n                                                       www.doj.gov.hk\n97     New Territories Ordinance\n\n102      Waterworks Ordinance\n\n121       Buildings  Ordinance  (Application  to  the New\n            Territories) Ordinance\n\n124      Lands Resumption Ordinance\n\n125      Government Rent and Premium (Apportionment)\n          Ordinance\n\n126      Government   Rights   (Re-entry   and   Vesting\n         Remedies) Ordinance\n\n127       Foreshore and Sea-bed (Reclamation) Ordinance\n\n128      Land Registration Ordinance\n\n130      Land Acquisition (Possessory Title) Ordinance\n\n131     Town Planning Ordinance\n\n132       Public Health and Municipal Services Ordinance\n\n150     New Territories Leases (Extension) Ordinance\n\n152     New Territories (Renewable Government Leases)\n          Ordinance\n\n172       Places of Public Entertainment Ordinance\n\n172A         Places of Public Entertainment Regulations\n\n208      Country Parks Ordinance\n\n211       Aerial Ropeways (Safety) Ordinance\n\n219      Conveyancing and Property Ordinance\n\n243       Child Care Services Ordinance\n\n243A        Child Care Services Regulations\n\n\n                                                                                                                 / 276 …..\n\n\n\n\n\n                                                       - 2 -"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Chapter               Relevant Ordinances                    Website\n\n276      Mass  Transit  Railway  (Land  Resumption  and  Department of Justice\n          Related Provisions) Ordinance                    www.doj.gov.hk\n\n279       Education Ordinance\n\n279A        Education Regulations\n\n295      Dangerous Goods Ordinance\n\n301     Hong Kong  Airport  (Control  of  Obstructions)\n          Ordinance\n\n311       Air Pollution Control Ordinance\n\n317        Industrial    Training    (Construction    Industry)\n          Ordinance\n\n337      Demolished Buildings (Re-development of  Sites)\n          Ordinance\n\n344       Building Management Ordinance\n\n347       Limitation Ordinance\n\n349       Hotel and Guesthouse Accommodation Ordinance\n\n354      Waste Disposal Ordinance\n\n358      Water Pollution Control Ordinance\n\n360      Pneumoconiosis and Mesothelioma (Compensation)\n          Ordinance\n\n370      Roads (Works, Use and Compensation) Ordinance\n\n372      Kowloon-Canton Railway Corporation Ordinance\n\n374      Road Traffic Ordinance\n\n376      Clubs (Safety of Premises) Ordinance\n\n400      Noise Control Ordinance\n\n406        Electricity Ordinance\n\n\n                                                                                                                 / 408 …..\n\n\n\n\n\n                                                       - 3 -"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Chapter               Relevant Ordinances                    Website\n\n408       Architects Registration Ordinance                  Department  of  Justice\n                                                       www.doj.gov.hk\n\n409       Engineers Registration Ordinance\n\n417       Surveyors Registration Ordinance\n\n438      Sewage Tunnels (Statutory Easements) Ordinance\n\n447      Bedspace Apartments Ordinance\n\n459       Residential   Care  Homes   (Elderly   Persons)\n          Ordinance\n\n464      Timber Stores Ordinance\n\n470       Builders’  Lifts  and  Tower  Working  Platforms\n           (Safety) Ordinance\n\n473      Land Survey Ordinance\n\n487        Disability Discrimination Ordinance\n\n499       Environmental Impact Assessment Ordinance\n\n502       Fire Safety (Commercial Premises) Ordinance\n\n509       Occupational Safety and Health Ordinance\n\n515      Government  Rent  (Assessment  and  Collection)\n          Ordinance\n\n545      Land   (Compulsory   Sale   for   Development)\n          Ordinance\n\n572       Fire Safety (Buildings) Ordinance\n\n573      Karaoke Establishments Ordinance\n\n585      Land Titles Ordinance (not yet in operation)\n\n610       Buildings Energy Efficiency Ordinance\n\n618        Lifts and Escalators Ordinance\n\n\n                                                                                                    / B. Technical …..\n\n\n\n\n\n                                                       - 4 -"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "B.  Technical Memorandum\n\n\n                           Title                        Department Website\n\n Technical Memorandum for Supervision Plans, issued  Buildings Department\n under section 39A of the Buildings Ordinance Cap. 123   www.bd.gov.hk\n\n\n Technical  Memorandum  on  Environmental  Impact  Environmental Protection\n Assessment Process                                 Department\n                                                 www.epd.gov.hk\n Technical Memorandum  -  Standards  for  Effluents\n Discharged into Drainage and Sewerage Systems, Inland\nand Coastal Waters, issued under section 21 of the Water\n Pollution Control Ordinance Cap. 358\n\n\n\nC. Codes of Practice\n\n\n                           Title                        Department Website\n\nCode of  Practice  for Building Works  for  Lifts and  Buildings Department\n Escalators 2011                                   www.bd.gov.hk\n\nCode of Practice for Dead and Imposed Loads 2011\n\nCode of Practice for Demolition of Buildings 2004\n\nCode of Practice for Fire Resisting Construction 1996\n\nCode of Practice for Fire Safety in Buildings 2011\n\nCode of Practice for Foundations\n\nCode of Practice for the Mandatory Building Inspection\nScheme (MBIS) and the Mandatory Window Inspection\nScheme (MWIS) 2012\n\nCode of Practice for Oil Storage Installations 1992\n\nCode of Practice for Overall Thermal Transfer Value in\n Buildings 1995\n\nCode of Practice for Precast Concrete Construction 2003\n\nCode of Practice for the Provision of Means of Access\n for Firefighting and Rescue Purposes 1995\n\n\n                                                                                                                / Code …..\n\n\n\n                                                        - 5 -"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Title                        Department Website\n\nCode of Practice for the Provision of Means of Escape in  Buildings Department\nCase of Fire 1996                                 www.bd.gov.hk\n\nCode of Practice for Site Supervision 2009\n\nCode of Practice for Structural Use of Concrete 2013\n\nCode of Practice for the Structural Use of Steel 2011\n\nCode of Practice on Wind Effects in Hong Kong 2004\n\nCode of Practice : Avoiding Danger from Gas Pipes       Electrical and Mechanical\n                                                        Services Department\nCode of Practice on the Design and Construction of                                               www.emsd.gov.hk\nBuilders’ Lifts\n\nCode of Practice on the Design and Construction of Lifts\nand Escalators\n\nCode of Practice on the Design and Construction of\nTower Working Platforms\n\nCode  of  Practice on  the  Design, Manufacture and\nInstallation of Aerial Ropeways\n\nCode of Practice for the Electricity (Wiring) Regulations\n\nCode of Practice for Hong Kong LPG Industry, Module\n1 – LPG Compounds and Cylinder Stores\n\nCode of Practice for Hong Kong LPG Industry, Module\n2 – Underground LPG Pipework\n\nCode of Practice for Hong Kong LPG Industry, Module\n3 – Handling and Transport of LPG in Bulk by Road\n\nCode of Practice for Hong Kong LPG Industry, Module\n7 – Operating Procedures for Emergencies for LPG\nCompounds and Cylinder Stores\n\nCode of Practice for Hong Kong LPG Industry, Module\n9 – LPG Cylinders\n\nCode of Practice for Installation of Electrically Operated\nSliding Gates, Sliding Glass Doors and Rolling Shutters\n\nCode of Practice for Lift Works and Escalator Works\n\n                                                                                                                 / Gas …..\n\n\n\n                                                       - 6 -"
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Title                        Department Website\n\nGas Utilisation Code of Practice GU12 – Installation of  Electrical and Mechanical\nMechanical Exhaust System for Gas Appliances (Rated  Services Department\nHeat Input up to 70 kW)                            www.emsd.gov.hk\n\nCode of Practice for Building Energy Audit\n\nCode of Practice  for Energy Efficiency of Building\nServices Installation\n\nCode of Practice on Asbestos Control - Asbestos Work  Environmental Protection\nUsing Full Containment or Mini Containment Method    Department\n                                                www.epd.gov.hk\nCode of Practice on Asbestos Control - Asbestos Work\nUsing Glove Bag Method\n\nCode of Practice on Asbestos Control - Preparation of\nAsbestos Investigation Report, Asbestos Management\nPlan and Asbestos Abatement Plan\n\nCode of Practice on Asbestos Control - Safe Handling of\nLow Risk Asbestos Containing Material\n\nCode of Practice on the Handling, Transportation and\nDisposal of Asbestos Wastes\n\nCodes   of   Practice   for  Minimum   Fire   Service  Fire Services Department\nInstallations and Equipment and Inspection, Testing and www.hkfsd.gov.hk\nMaintenance of Installations and Equipment\n\nCode  of  Practice  on  Building  Management  and Home Affairs Department\nMaintenance                                      www.had.gov.hk\n\n\n                                                                                                               / Code …..\n\n\n\n\n\n                                                       - 7 -"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Title                        Department Website\n\nCode of Practice for Bamboo Scaffolding Safety         Labour Department\n                                                  www.labour.gov.hk\nCode of Practice for Metal Scaffolding Safety\n\nCode of Practice on Safe Use of Excavators\n\nCode of Practice for Safe Use of Mobile Cranes\n\nCode  of  Practice  for  Safe Use  and  Operation  of\nSuspended Working Platforms\n\nCode of Practice for Safe Use of Tower Cranes\n\nCode of Practice  : Safety and Health  at Work with\nAsbestos\n\nCode of Practice for Safety and Health  at Work in\nConfined Spaces\n\nCode of Practice : Safety and Health at Work for Gas\nWelding and Flame Cutting\n\nCode  of  Practice  : Safety and Health  at Work  for\nIndustrial Diving\n\nCode of Practice for Safety and Health at Work (Land-\nbased Construction over water – Prevention of Fall)\n\nCode of Practice : Safety and Health at Work for Manual\nElectric Arc Welding\n\nCode of Practice for Safety at Work (Lift and Escalator)\n\nCode of Practice : Land Survey Ordinance              Lands Department\n                                                  www.landsd.gov.hk\n\nCode of Practice for Loading of Vehicles                Transport Department\n                                                  www.td.gov.hk\nCode of Practice for Private Roads\n\n\n                                                                                                        / D. Design …..\n\n\n\n\n\n                                                       - 8 -"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "D. Design Manuals, Standards and Specifications\n\n\n                           Title                         Department Website\n\n Design Manual – Barrier Free Access 2008              Buildings Department\n                                                www.bd.gov.hk\nGuide to Fire Safety Design for Caverns 1994\n\n Guidelines on the Design and Construction of Bamboo\n Scaffolds\n\n Practice  Guidebook  for  Adaptive  Re-use  of  and\n Alteration and Addition Works to Heritage Buildings\n2012\n\n Construction Standard CS1:2010 – Testing Concrete  Civil Engineering and\nVolume 1 & 2                                    Development Department\n                                                 www.cedd.gov.hk General Specification for Civil Engineering Works\n\n Geoguide 1   :  Guide to Retaining Wall Design\n\n Geoguide 2   :  Guide to Site Investigation\n\n Geoguide 3   :  Guide to Rock and Soil Descriptions\n\n Geoguide 4   :  Guide to Cavern Engineering\n\n Geoguide 5   :  Guide to Slope Maintenance\n\n Geoguide 6   :  Guide to Reinforced Fill Structure and\n               Slope Design\n\n Geoguide 7   :  Guide to Soil Nail Design and\n                Construction\n\n Geospec 1    :  Model Specification for Prestressed\n              Ground anchors\n\n Geospec 3    :  Model Specification for Soil Testing\n\n Geotechnical Manual for Slopes\n\n Structures Design Manual for Highways and Railways   Highways Department\n                                                www.hyd.gov.hk\n\nHong Kong Planning Standards and Guidelines          Planning Department\n                                                  www.pland.gov.hk\n\n\n                                                                                                        / E. Practice …..\n\n\n\n\n\n                                                        - 9 -"
+    },
+    {
+      "id": "page-11",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        11
+      ],
+      "text": "E.  Practice Notes\n\n\n                           Title                        Department Website\n\n Joint Practice Notes                                    Buildings Department\n                                                www.bd.gov.hk\n Practice  Notes  for  Authorized  Persons,  Registered\n Structural  Engineers  and  Registered  Geotechnical\n Engineers\n\n Practice Notes for Mandatory Building and Window\n Inspection Schemes\n\n Practice Notes for Registered Contractors\n\n Professional   Persons   Environmental   Consultative  Environmental Protection\nCommittee Practice Notes (ProPECC Practice Notes)     Department\n                                                 www.epd.gov.hk\n\nLands Administration Office (LAO) Practice Notes      Lands Department\n                                                   www.landsd.gov.hk\n Legal  Advisory  and  Conveyancing  Office (LACO)\n Circular Letter\n\n Survey and Mapping Office (SMO) Practice Notes\n\n Practice Notes for Professional Persons                  Planning Department\n                                                  www.pland.gov.hk\n\n\n\nF. Guidelines\n\n\n                           Title                         Department Website\n\n General Guidelines on Minor Works Control System      Buildings Department\n                                                www.bd.gov.hk\n Technical Guidelines on Minor Works Control System\n\n\n Guidance Note on Gas Supply Installations                Electrical and Mechanical\n                                                        Services Department\n Technical Guidelines on Code of Practice for Building www.emsd.gov.hk\nEnergy Audit\n\n Technical Guidelines on Code of Practice for Energy\n Efficiency of Building Services Installation\n\n\n                                                                                                     / Connections …..\n\n\n\n                                                       - 10 -"
+    },
+    {
+      "id": "page-12",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        12
+      ],
+      "text": "Title                        Department Website\n\nConnections  to  Sewers Under  the  Water  Pollution  Environmental Protection\nControl Ordinance                                  Department\n                                                www.epd.gov.hk\nGrease Traps for Restaurants and Food Processors\n\nGuidance Notes on Discharges from Village Houses\n\nA Guide  to  the  Environmental  Impact  Assessment\nOrdinance\n\nA Guide to the Water Pollution Control Ordinance\n\nGuidelines for the Design of Small Sewage Treatment\nPlants\n\nGuidelines for Estimating Sewage Flows for Sewage\nInfrastructure Planning\n\nLandfill Gas Hazard Assessment Guidance Note\n\nInformation Leaflet – About Installing Letter Boxes     Hongkong Post\n                                                www.hongkongpost.hk\n\nEnvironmental Impact Assessment Ordinance (EIAO)  Planning Department\nGuidance Notes No. 8/2010: Preparation of Landscape www.pland.gov.hk\nand Visual Impact Assessment under EIAO\n\nTown Planning Board Guidelines                 Town Planning Board\n                                                     www.info.gov.hk/tpb/\n\n\n\n\n\n(Rev. 11/2014)\n\n\n\n\n\n                                                      - 11 -"
+    }
+  ]
+}

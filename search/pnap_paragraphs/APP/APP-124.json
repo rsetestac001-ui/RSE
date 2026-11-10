@@ -1,0 +1,80 @@
+{
+  "code": "APP-124",
+  "source_text": "indexed_text/PNAP/APP/APP-124.txt",
+  "source_pdf": "documents/PNAP/APP/APP-124.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n                                                      APP-124Persons, Registered Structural Engineers and Registered Geotechnical Engineers\n\n                               Practice Note for Authorized Persons Buildings Department                                               263\n                         and Registered Structural Engineers\n\n\n                            Streets for Site Classification\n\n         The permitted site coverage and plot ratio for a building to be erected on a\nsite is determined according to the class of the site, which in turn depends on the\nnumber of streets not less than 4.5m wide that the site abuts."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 134
+        },
+        {
+          "label": "b",
+          "offset": 525
+        },
+        {
+          "label": "c",
+          "offset": 816
+        }
+      ],
+      "text": "2.       The following guidelines provide assistance in determining what constitutes\na street for the purpose of site classification:\n\n             (a)    For a piece of land to be considered as a street,  it must have the\n                    characteristics  of  a  street.   Apart from  being  a  passageway,\n                  provision of access as a street, other relevant factors such as the\n                 presence of any street lighting, paving and drainage would also be\n                  taken into consideration.\n\n            (b)    Land designated as public amenity areas such as open car parks,\n                  public open spaces, and topographical features such as nullahs, sea,\n                and the like is not considered as a street for the purpose of site\n                     classification.\n\n             (c)    Where there is a physical separation of a site from a street by an\n                  intervening strip of land, whether the  site can be considered as\n                   abutting on that street for the purpose of  site classification will\n                depend upon the function, status and ownership of the intervening\n                   land."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 659
+        }
+      ],
+      "text": "3.        Apart from constituting a street itself, a street has to meet certain criteria\nbefore  it can be regarded as a street for the purpose of  site classification.  The\nBuilding (Planning) (Amendment) Regulation 2005 (the “Amendment Regulation”),\nwhich will come into operation on 31 December 2005, introduces a new regulation\n18A setting out such criteria. A “class A site”, “class B site” or “class C site” is\ndefined under B(P)R 18A(1) according to the number of “specified street” not less\nthan 4.5m wide that the site abuts. A street is to be regarded as a “specified street”\nif any of the following circumstances exists with respect to the street:\n\n             (a)    The street is vested in Government and maintained by the Highways\n                Department (regulation 18A(3)(a)(i)).  This refers to public streets\n                     like Nathan Road or Kings Road. If an authorized person has doubt\n               on whether a street is maintained by the Highways Department or\n                   not, he may consult the Highways Department directly.\n\n                                                           /(b)……"
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n(b)    The street is on land held under the same Government lease as the\n         site, and under the terms of the lease, the lessee has to surrender\n      (when required to do so) the land on which the street is situated to\n       the Government (regulation 18A(3)(a)(ii)).  This refers to private\n        streets  required  to be formed  within a  lot under  lease.  The\n       developer or the authorized person shall submit a copy of the land\n       grant  or  lease documents  to  substantiate  compliance  with  the\n       requirement  for  including  the  subject  private  street  for  site\n        classification.\n\n(c)    The street is required to be constructed on unleased Government\n       land by the lessee of the Government lease under which the site is\n       held pursuant to the terms of that lease (regulation 18A(3)(a)(iii)).\n      The developer or the authorized person shall submit a copy of the\n       land grant or lease documents to substantiate compliance with the\n       requirement for including the subject street for site classification.\n\n(d)    The street is on land over which the owner of the site is expressly\n       granted, by or by virtue of an instrument, a right of way exercisable\n        at  all  times  (regulation  18A(3)(a)(iv)).  A  private  street  not\n       belonging  to the owner of the  site under consideration  will be\n       accepted for site classification only if a right of way over the street\n         is expressly granted to the owner. A public passage not falling\n       within (a) or (c) above will not be accepted for site classification\n       unless the developer is expressly granted with a right of way over\n       the passage.  The developer or the authorized person shall submit a\n      copy of the instrument or deed of right of way to substantiate\n       compliance with the requirement for including the subject street for\n         site classification.\n\n(e)    The  street  is on land held by  the owner  of  the  site under a\n      Government  lease  (regulation  18A(3)(a)(v)).   This  refers  to  a\n        private street which is owned by the owner of the site, irrespective\n       of the site and the street being held under the same lease or not.\n      The  developer  or  the  authorized  person  shall submit  evidence\n        indicating that the street will remain as a street for the lifetime of\n       the development.   This could take the form of an undertaking\n        registered in the Land Registry to the effect that such street will be\n       assigned as common area for all owners of the development.\n\n\n\n\n                                                      /(f)……"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n\n              (f)      If one or more of the circumstances mentioned in (a) to (e) above\n                    exist with respect to different parts of the street, and these parts\n                  together constitute the street, such street will also be considered as\n                   specified street (regulation 18A(3)(b)).   If these parts are separated\n               by intervening strips of land that do not meet any of the above\n                 circumstances, each of these parts will be considered as a separate\n                   specified street."
+    },
+    {
+      "id": "p4-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          If a “specified street” for site classification is not an existing one and has to\nbe constructed, it should be completed before the occupation permit for the building\non the site is issued.   If such street has not been completed by the time an occupation\npermit is applied for, the Building Authority would refuse to issue the occupation\npermit under section 21(6)(a) of the Buildings Ordinance (BO).   In addition, the\n“specified street” so created should remain as a street insofar as the buildings relying\non it for attaining the site coverage and plot ratio exist.  Any subsequent proposal to\nbuild over or extinguish such street would result in contravention of the provisions of\nthe BO and such proposal would be disapproved under section 16(1)(d) of the BO.\n\n\n\n\n\n                                                                      ( H W CHEUNG )\n                                                      Building Authority\n\nRef.: BD GP/BORD/80 (VI)\n\nFirst issue  October 2001 (AD/NB1)\nThis revision  November 2005 (AD/Support, AD/NB1) – totally revamped\n\nIndex under:  Street\n               Private street\n                Site classification\n              Specified street"
+    }
+  ]
+}

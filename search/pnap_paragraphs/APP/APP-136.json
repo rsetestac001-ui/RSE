@@ -1,0 +1,137 @@
+{
+  "code": "APP-136",
+  "source_text": "indexed_text/PNAP/APP/APP-136.txt",
+  "source_pdf": "documents/PNAP/APP/APP-136.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n                                                       APP-136Persons, Registered Structural Engineers and Registered Geotechnical Engineers\n\n                                Practice Note for Authorized Persons Buildings Department                                                288\n                          and Registered Structural Engineers\n\n\n                        Building (Planning) Regulation 41D\n                       Emergency Vehicular Access\n\n Application\n\n             With  the  coming  into  operation  of  the  Buildings  (Amendment)\n Ordinance 2004 on 31 December 2004, the new Regulation 41D of the Building\n (Planning) Regulations (B(P)R) requires the provision of emergency vehicular access\n (EVA) to all new buildings."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         By virtue of section 39(2) of the Buildings Ordinance, Regulation 41D\n does not apply to building works which are being carried out or consent to the\n commencement of which has been given as at 31 December 2004. In general, building\n works may refer to foundation works of the proposal.\n\n Code of Practice"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            Pursuant to B(P)R 41D(2), the design and construction of an EVA shall be\n in accordance with such requirements as may be specified by the Building Authority from\n time to time. Such requirements are currently specified in Part VI of the Code of Practice\n for Means of Access for Fire-fighting and Rescue (the “MOA Code”). Any proposed\n EVA that meets the requirements in the MOA Code will be accepted as complying with\n the provisions of B(P)R 41D.\n\n EVA Plan"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         On general building plan submissions,  it is necessary to demonstrate\n compliance of the EVA requirements.  The EVA should be clearly designated by\n including a separate EVA plan with relevant notes. The EVA plan should be provided\n with the following information: -\n                  (a)    Extent and alignment of EVA (to be clearly marked as\n              EVA  on  plan  and  be  so  coloured  to  clearly\n                         differentiate the EVA from other building works).\n                 (b)    Width, inner/outer turning radii, loading capacity and\n                       gradient for the entire EVA.\n                  (c)    Location of all types of EVA signage and crash gate.\n                 (d)     If there  is overhead structure encroaching onto the\n                 EVA, a separate sectional drawing showing the clear\n                   headroom of the structure to be incorporated into the\n              EVA plan.\n                  (e)   A block plan showing the major façade of the building\n                      served by  the EVA  (to be so coloured  for easy\n                          identification).\n                                                                                                       /(f) ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n                  (f)     Calculation on the total length of the façade of the\n                      building to be served by the EVA and the percentage\n                      of such length over the total length of all the perimeter\n                     walls of the building.  For the avoidance of doubt,\n                      projections  accepted  by  the  Building  Authority\n                     (excluding balconies and utility platforms under JPN 1\n                   and 2) shall be disregarded for the purpose of the\n                       calculation.\n               (g)    Use of paving materials other than hard paving for the\n             EVA (e.g. grass paving materials)."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          Where the EVA is a public street, the information required for the EVA\nplan may be confined to the information in paragraph 4(a), (b), (e) and (f) above. For\nparagraph 4(b), the information required may be confined to the portion of the EVA\nserving the major façade of the building and the information of loading capacity of the\nEVA would not be required.\n\nMeasurement of Major Façade of a Building"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           Paragraph 24.2(e) of the MOA Code stipulates the requirements in the\nprovision  of major façade  of  the  building  to be served by  the EVA.   In  the\nmeasurement of one-fourth of the length of the perimeter wall as the major façade, the\nactual total length of the perimeter walls shall be used for the calculation of the major\nfaçade  for  buildings with simple contour  design  (e.g.  in  the shape  of  square,\nrectangle, circle, triangle, L-shaped, cruciform etc.). For buildings with complicated\ncontour design, in lieu of the actual total length of the perimeter walls, the total length\nof the notional building contour line, as illustrated in Appendix A, may be used for\nthe measurement of one-fourth of the length of the perimeter wall as the major façade.\n\nExemption and Modification"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 248
+        },
+        {
+          "label": "b",
+          "offset": 430
+        }
+      ],
+      "text": "7.         As stipulated in B(P)R 41D(3), the Building Authority may exempt a\nbuilding from complying with any or all of the EVA standards specified in the MOA\nCode if the Building Authority is satisfied that compliance with the requirements is: -\n                (a)     impracticable  having  regard  to  the  topographical\n                       features of the area on which the building is situated;\n                      or\n               (b)    unwarranted on the ground that the purpose for which\n                      the building is to be used constitutes a low fire risk."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.         When the circumstances arise that an EVA will not be provided or when\nthe EVA provided cannot meet the standards as stipulated in the MOA Code, an\napplication for exemption from B(P)R 41D(1) or (2) should be made on Form BA16\nwith full justification and, where appropriate, substantiated by a fire-safety report as\nrequired by paragraph 27.2 of the MOA Code. The Building Authority in consultation\nwith the Director of Fire Services will consider such an application on the merits and\nthe special circumstances of the case.\n                                                                                               /9. ….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          AP/RSEs may make reference to the guidance notes at Appendix B for\ninformation  on  exemption/modification  in  special  circumstances.    In  general,\napplications for relaxation of the items of requirement listed in Appendix B do not\nrequire the submission of a fire-safety report, although enhanced fire safety measures\nmay be required on a case-by-case basis.\n\n\n\n\n\n                                                                 ( CHEUNG Hau-wai )\n                                                   Building Authority\n\n\nRef.: BD GP/BREG/P/46(II)\n\nFirst issue May 2005 (AD/NB1)\nThis revision July 2006 (AD/NB1)   (Para. 1, 2, 3, 5 & 8 revised, paras. 6, 9,\n                                  Appendices A & B added)\n\nIndex under : Emergency vehicular access\n         EVA\n         EVA plan\n            B(P)R 41D\n        MOA Code"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Ap\n\n\n\n\n\n(PNAP\n\nA\npendix"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Appendix B\n                                                      (PNAP 288)\n                                                             (APP-136)\nGuidance Notes on Exemption / Modification\nConsideration of Part VI of the MOA Code where Special Circumstances warranted\n\n               MOA\n           Situation                                       Relaxation                    Code Para.\n 1  Dead-end EVA        24.2(d)   Non-provision of turning space at dead-end EVA is\n                           25.2     acceptable should the F.S. appliances need not to\n                                      reverse more than 30m for turning space.\n 2  Run-in/run-out         24.2(a)   The width of EVA may be relaxed to not less than\n    point                   25.3(c)   4.5m.\n 3  Domestic              24.2(a)   The width of EVA may be relaxed to not less than\n     building(s)   of   3-    25.3(c)   4.5m depending on the topographical constraints.\n 4  storey   or  below,    24.2(e)   The horizontal distance between the EVA and the\n    including      single    25.3(c)    building façade exceeds 10m but within 30m  is\n    family building(s) to              acceptable  subject   to  the  provision  of  FSI\n    which MOE Code            enhancement  which may  include  a  hose  reel\n    paragraph 5 applies              system.\n 5                             The horizontal distance between the EVA and the\n                                       building façade exceeds 30m is acceptable subject\n                                          to the provision of FSI enhancement which may\n                                      include   a   sprinkler   system   and/or   other\n                                  enhancements   depending  on   the   scope   of\n                                   development,  distance from  the main road and\n                                     source of water supply.\n 6 A    building    re-    25.3(c)   The width of the existing road(s)/street(s) serving\n    development  in  an              as EVA may be relaxed to not less than 4.5m.\n     original site such as\n    Class A, B or C site           The requirement on the EVA serving at least one\n     (other          than            major façade having not less than one-fourth of the\n     industrial,   cinema                 total perimeter walls may be relaxed when  the\n    or theatre)                        topographical  features  of  the   site  make  the\n                                   compliance  impracticable.   Notwithstanding  the\n                                    above,  the major façade of Class A  site being\n                                     served by EVA shall not be less than the minimum\n                                       distance between the two opposite side boundaries\n                                      within 10m from the EVA.; whilst for Class B and\n                        C sites, paragraph 24.2(e) should follow.\n\n\n\n\n\n(7/2006)"
+    }
+  ]
+}

@@ -1,0 +1,559 @@
+{
+  "code": "APP-147",
+  "source_text": "indexed_text/PNAP/APP/APP-147.txt",
+  "source_pdf": "documents/PNAP/APP/APP-147.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and        APP-147\n                          Registered Geotechnical Engineers\n\n\n                     Minor Works Control System\n\n\n          The Minor Works Control System (MWCS) aims to facilitate building\nowners and occupants in carrying out small-scale building works safely and lawfully\nthrough  simplified  statutory procedures and thereby improve the  quality of such\nbuilding works and building safety in Hong Kong, viz. without the need to obtain prior\napproval of plans and consent to the commencement of such works from the Building\nAuthority (BA).\n\nClassification of Minor Works"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 247
+        },
+        {
+          "label": "b",
+          "offset": 438
+        },
+        {
+          "label": "c",
+          "offset": 579
+        }
+      ],
+      "text": "2.      A total of 187 items of minor building works have been designated as\nminor works under the MWCS.  These minor works are classified into three classes\naccording to their nature, scale and complexity as well as the risk to safety they pose:\n\n      (a)    Class  I minor works (a  total of 58 items) are relatively more\n            complicated minor works, e.g. installation of internal staircases\n            connecting two floors;\n\n      (b)    Class II minor works (a total of 68 items) are comparatively less\n           complex works, e.g. repair of external walls; and\n\n      (c)    Class III minor works (a total of 61 items) cover small-scale minor\n            works, mostly carried out in household settings, e.g. erection of\n            supporting frames for air-conditioners."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         The size, location and respective criteria of each item of minor works are\nset out in Schedule 1 to the Building (Minor Works) Regulation (B(MW)R).\n\nThe Simplified Requirements"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         The simplified requirements of the MWCS are tabulated as follows:\n\n\n\n\n\n                                                                    /Minor ..."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n             Minor works\n                     involved                                       Class I              Class II        Class III\n          Requirements\n          Appointment        Prescribed building\n             (of the appointed       professionals (1) (PBP) to                                                         PRC to prepare and submit the            person)               design and supervise the                                                               plans and documents, to                                works; and                                                               supervise and carry out the                               Prescribed registered                                                      works                                       contractors(2) (PRC) to\n                                    carry out the works\n          Submission          AP/RI/PRC         PRC          PRC\n                                                                        Notice and\n                               Notice of commencement of works; and        certificate of\n                               Certificate of completion of works            completion of\n                                                                     works\n\n             Note(1)  :  PBP means an authorized person (AP) and (if required), a registered structural\n                       engineer (RSE) / a registered geotechnical engineer (RGE) or a registered inspector\n                        (RI) (according to section 27 of the B(MW)R, RI assumes the role of an AP of the\n                        prescribed repair or any associated demolition works that are Class I minor works).\n\n             Note(2)  :  PRC means a registered general building contractor (RGBC), registered specialist\n                        contractor or registered minor works contractor (RMWC)."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.         The workflow of the simplified requirements and the documents required\n______     to be submitted are summarised in Appendix A."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.        Some requirements and general guidance to streamline and expedite the\n______     processing of submissions are provided in Appendix B.  The specified forms and\n______     standard forms for use under the simplified requirements are listed in Appendix C.\n\n         General Reminders"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.         Under section 55 of the B(MW)R, the AP/RI appointed in respect of any\n          Class I minor works is required to provide a copy of the prescribed plans, details of the\n         works and supervision plan (as required) submitted under the simplified requirements to\n           the PRC for their keeping on site. The AP/RI shall also remind the PRC to keep on site\n          a copy of the acknowledgement letter from the Buildings Department (BD) for the\n           notice of commencement of works for inspection by BD officers."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.              If the minor works involve common parts of a building, the AP/RI should\n          remind “the person who arranged for the works to be carried out” to pay attention to the\n             civil liabilities under the deed of mutual covenant of the building. The AP/RI should\n           also notify the management office concerned, the Incorporated Owners or the related\n          owner(s) about the minor works to be carried out."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.         The AP/RI should remind the PRC to take appropriate measures to ensure\n           the proper disposal of construction waste.\n\n                                                                                                 /10. …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.        Where a supervision plan is required, the PBP and PRC are reminded to\n         comply with the requirements under the Technical Memorandum for Supervision Plans\n          and the Code of Practice for Site Supervision."
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.       When the AP, RSE, RGE or RI ceases to be appointed or nominated as the\n        PBP in respect of any Class I minor works, he should submit the standard form to notify\n           the BA within 7 days after the date of the cessation. When the PRC ceases to be\n           appointed in respect of any Class I minor works, he should deliver the specified form to\n           the AP/RI within 7 days after the date of the cessation. The AP/RI should submit the\n         form to the BA within 7 days after the date of receipt of such form.\n\n        Minor Works Relating to Signboards"
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.          In order to facilitate the distinction of the signboards erected or altered\n          under  the  simplified  requirements  from  those  unauthorised  signboards,   it   is\n         recommended that the minor works submission numbers be displayed on the signboards\n           erected or altered under the simplified requirements.  Standards and guidelines on\n______           display of these numbers are provided in Appendix D.  Similar arrangement is also\n         recommended for those signboards which have been erected or altered with prior\n           approval and consent from the BA as set out in Practice Note for Authorized Persons,\n           Registered Structural Engineers and Registered Geotechnical Engineers (PNAP) APP-"
+    },
+    {
+      "id": "p126-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "126",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "126.\n\n        Minor Works Relating to Radio Base Station, Antenna or Transceiver"
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "13.         For minor works relating to radio base station, antenna or transceiver, the\n______   AP and RSE should make reference to Appendix E for more details.\n\n         Household Minor Works Validation Scheme, Signboard Validation Scheme and\n        Minor Amenity Feature Validation Scheme"
+    },
+    {
+      "id": "p14-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "14.        The Household Minor Works Validation Scheme (HMWVS) was launched\n         upon the full implementation of the MWCS to allow validation of certain types of\n           unauthorised minor amenity structures, viz. metal supporting frames for air-conditioning\n            units or water cooling towers, drying racks and small canopies erected or carried out\n           before 31 December 2010 and as specified in Part 2 of Schedule 3 to the B(MW)R as\n           prescribed building or building works (PBW). The Minor Amenity Feature Validation\n         Scheme (MAFVS) was launched on 1 September 2021 which allows validation of\n           another 21 items of unauthorised minor amenity features1 erected or carried out before\n           these types of features designated as minor works under the MWCS on 1 September\n          2020. The list of PBW in Part 4 of Schedule 3 to the B(MW)R refers.\n\n                                                                                                  /15. ...\n\n\n\n                1  Including  supporting  structures  or  metal  casings  for  building  services  installations,\n               supporting structures for radio base stations, supporting frames for air-conditioning units or\n                for light  fittings, solid fence walls, mesh fences or metal railings, poles, metal gates,\n               canopies,  retractable awnings,  trellises, and metal ventilation ducts or any associated\n               supporting frames."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -"
+    },
+    {
+      "id": "p15-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "15.        Under section 39C of the Buildings Ordinance (BO) and sections 62 and\n       62A of the B(MW)R, an AP, RSE, RI, RGBC or RMWC2 can be appointed to inspect\n        and certify that the PBW are structurally safe and comply with the BO 3.  Upon\n           certification, no enforcement action will be taken against the PBW unless their safety\n          conditions have changed. Alteration and/or strengthening works may be carried out\n         before such structures can be certified. A flow chart showing the steps of processing the\n         submissions and the documents required to be submitted under the HMWVS and the\n______  MAFVS are provided in Appendix A."
+    },
+    {
+      "id": "p16-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "16.      A similar validation scheme namely Signboard Validation Scheme was\n         launched on 2 September 2013 for validation of certain unauthorised signboards as\n          specified in Part 3 of Schedule 3 to the B(MW)R.  The details of this scheme is\n         provided in PNAP APP-155.\n\n       No Referral of Plans"
+    },
+    {
+      "id": "p17-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "17.         Unlike  the  centralised  processing  of  building  plans,  the documents\n         submitted  to  the BD  for the carrying out of minor works under the simplified\n         requirements and for the inspection and certification of PBW will not be referred to\n          other government departments.  If the proposed minor works involves the jurisdictions\n          of other government departments, the PBP or PRC should consult and obtain necessary\n         approval or consent from the relevant government departments accordingly."
+    },
+    {
+      "id": "p18-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "18",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "18.        However, upon  receipt  of a minor works submission  for  notice  of\n        commencement  of  Class  I and Class  II minor works  involving spread  footing,\n         excavation or underground drainage works within Area Number 3 of the scheduled\n          areas in Schedule 5 to the BO, BD would forward a copy of the minor works submission\n          to the MTR Corporation Limited (MTRCL).  The MTRCL would then convey their\n        comments to the PBP/PRC directly.   The PBP/PRC shall inform the MTRCL and\n          obtain their agreement before commencement of the minor works.  Section 27 of the\n         Railways Ordinance (Cap. 519) or section 15 of the Mass Transit Railway (Land\n        Resumption and Related Provisions) Ordinance (Cap. 276) will be invoked in case the\n         proposed minor works would be incompatible with any works for the construction,\n         maintenance or improvement of the railway or with the operation thereof.\n\n       No Submission Fee Required"
+    },
+    {
+      "id": "p19-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "19",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "19.          All submissions under the simplified requirements and for the inspection\n        and certification of PBW are free of charge.\n\n\n\n\n                                                                            /Technical …\n\n\n              2  See Appendix A for details of RMWC that may be appointed for the HMWVS and the\n         MAFVS.\n              3  Except section 14(1) of the BO and regulation 25 of the Building (Administration)\n             Regulations."
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 5 -\nTechnical Guidelines on Minor Works Control System"
+    },
+    {
+      "id": "p20-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "20",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "20.        The Technical Guidelines on Minor Works Control System published by\nthe BD provides detailed guidance for the registered contractors and practitioners in the\nbuilding industry on compliance with the simplified requirements.  It is available at BD\nwebsite www.bd.gov.hk under the “Guidelines” category in the “Codes, design manuals\nand guidelines” page of the “Resources” section."
+    },
+    {
+      "id": "p21-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "21",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "21.      A similar practice note is issued to all registered contractors.\n\n\n\n\n\n                                                               ( YU Tak-cheung )\n                                                Building Authority\n\n\n\nRef. : BD GP/BORD/113 (II)\n\nFirst issue    December 2010\nLast revision December 2020\nThis revision September 2021 (AD/CS) (Paragraphs 14 to 16 and Appendices A and C\n                                  amended)"
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix A\n                                                 (PNAP APP-147)\n\n\n      Administrative Procedures for Processing Minor Works Submissions and\n               Submissions for the Inspection and Certification of\n                      Prescribed Building or Building Works\n\n\nProcessing of Minor Works Submissions"
+    },
+    {
+      "id": "p1-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "1.          General steps of processing the minor works submissions are as follows:\n\n\n     Appointed                Submit required\n      person                   documents1\n\n\n       Building            Any irregularities found in      Yes      Return the submission to the\n      Authority                 preliminary check2?                  appointed person with reason\n\n\n                               No\n\n                           Issue a letter3 to the appointed\n                        person to acknowledge receipt\n                                 of the submission\n\n\n\nNote1 :   The PBP/PRC is required to keep all relevant documents, such as records of site\n          supervision, structural calculations, test reports and certificates, etc. and provide to\n          the BA when required. Section 56 of the B(MW)R refers.\n\nNote2 :   The  preliminary check  includes  checking  for  completeness  of  the  submitted\n          information and verification of registration status of the appointed person.\n\nNote3 :  A unique submission number, for example, MW101200001, will be issued with the\n         acknowledgement letter. The submission number assigned is the identification for\n          the whole submission, which should be used in all future correspondences.\n\n\n\n\n\n                                                       - 1 -"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Documents Required to be Submitted\n\n                     Notice of Commencement of Works\n                           (a)  specified form4 ;\n                          (b) photographs;\n                           (c) coloured prescribed plans and details of the works;\n                          (d) supervision plan as required by the TM (for Class I only);\n                       and\n                           (e) other relevant documents5 (if any).\n   Classes I & II\n                       Certificate of Completion of Works\n                           (a)  specified form4 ;\n                          (b)  photographs;\n                           (c)  revised coloured prescribed plans and details of the works\n                       showing the minor deviations (if any, refer to paragraph 2\n                             for details); and\n                          (d)  other relevant documents6 (if any).\n                     Notice and Certificate of Completion of Works\n                           (a)  specified form4 ;\n      Class III        (b)  photographs;\n                           (c)  coloured plans or description of works; and\n                          (d)  other relevant documents6 (if any).\n\nNote4 :  The specified forms are listed in both Appendix A to PNAP APP-60 and Appendix C\n          to this PNAP.\n\nNote5 :   e.g. geotechnical assessment, ground investigation report, structural calculations, test\n          reports and certificates, etc.\n\nNote6 :   e.g. schedule of building materials and products, test reports and certificates, etc.\n\nMinor Deviations of Completed Minor Works and Additional Minor Works Items"
+    },
+    {
+      "id": "p2-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           After  receiving  BD’s  acknowledgement  letter  for  the  “Notice  of\nCommencement of Works”, there may be a need for the appointed person to slightly\namend his proposal to suit the actual site situation.  If the minor deviations from the\nsubmitted prescribed plans and details of the works do not affect the original design\nassumptions and still tally with the descriptions (including reduction in quantity) of the\nsubmitted minor works items, the appointed person may submit the revised plans and\ndetails with the “Certificate of Completion of Works” after completion of the works."
+    },
+    {
+      "id": "p3-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         However, if the change affects the original design assumptions; or does not\ntally with the descriptions (including increase in quantity) of the submitted minor works\nitems; or involves additional minor works items, a new “Notice of Commencement of\nWorks” should be submitted to the BA not less than 7 days before commencement of\nthe works. To simplify the submission, the specified form for additional minor works\nitems can be used to incorporate the additional items into the same submission. Other\nthan the specified form, the documents required to be submitted are similar to those\nsubmitted with the “Notice of Commencement of Works”, and all the proposed minor\nworks (including the additional minor works items) should be coloured on the revised\nprescribed  plans  and  details,  with  those  additional  items  delineated  for  easy\nidentification.\n\n                                                       - 2 -"
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Processing Submissions for the Inspection and Certification of Prescribed Building\nor Building Works (PBW) under the Household Minor Works Validation Scheme\n(HMWVS) and the Minor Amenity Feature Validation Scheme (MAFVS)"
+    },
+    {
+      "id": "p4-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         The following flow chart shows the steps of processing the submissions for\nthe inspection and certification of PBW and the documents required to be submitted:\n\n\n Person who arranged\n for the inspection         Appoint prescribed building           Appoint PRC 8 to carry out alteration/\n                              professional/ registered              strengthening works to the structure\n                             contractor to inspect the                                                           under the simplified requirements 9.                            unauthorised structure\n\n\n Appointed Person7\n                                                            Advise “the person who arranged for\n                             Carry out site inspection           the inspection” that the scheme is\n                                                                    not applicable\n\n\n                                            Is the structure          No                 Is the structure non-     No\n                            found to be PBW?                         concrete canopy projecting\n                                                                     ≤ 750 mm?\n\n                                        Yes                                        Yes\n\n                                               Is the PBW                                             No            Are alteration/      No\n                                    structurally safe?                         strengthening works\n                                                                                     feasible?\n\n                                        Yes                                     Yes\n\n                     Within 14 days after completion of the                                                                     Advise “the person who                     inspection and, if alteration/strengthening                                                                  arrange for the inspection” to                   works are involved, within 14 days after                                                                            arrange\n                        completion of such minor works,                                                                          alteration/strengthening\n                                                               works to the structure by\n                  submit Form MW06-1, MW06-2 or MW06-3                                                               PRC8 under the simplified\n                                    to the BA,                                                                      requirements9 before\n                                                                                re-inspection\n                       with photographs and descriptions\n                  showing the physical conditions of the PBW\n                    as inspected, and colour plans or description\n                               of minor works (if any),\n\n                            to certify that the PBW are\n                       structurally safe and comply with the BO 10.\n\n\n\n Building Authority                                                       Yes    Return the submission                       Any irregularities found in                                                                     to the appointed                               preliminary check 2?                                                              person with reason\n                                No\n                      Issue a letter to the appointed person to\n                   acknowledge receipt of the submission\n\n\nNote7 :  Under the HMWVS, the appointed person for inspection and certification of the\n         respective PBW should be an AP, RSE, RI, RGBC or RMWC registered for the\n         corresponding type or item of Class III minor works.\n\n                                                       - 3 -"
+    },
+    {
+      "id": "page-9-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Under the MAFVS, the appointed person for inspection and certification of the PBW\n          falling within the description of a corresponding Class I minor works item should be\n        an AP if the PBW is a specified construction under section 37(4) of the B(MW)R; or\n        an AP and an RSE if the PBW is not a specified construction under section 37(4) of\n         the B(MW)R.\n\n        Under the MAFVS, the appointed person for inspection and certification of the PBW\n          falling within the description of a corresponding Class II or III minor works item\n         should be an AP, RSE, RI, RGBC or RMWC registered for that class and type or item\n         of minor works.\n\nNote8 :  All alteration/strengthening works must be carried out by an RGBC or RMWC\n          registered for that class and type or item of minor works.\n\nNote9 :   If the alteration/strengthening works involve Class I or II minor works, the appointed\n       PBP and/or PRC should follow the simplified requirements to submit Form MW01 or\n     MW03 to notify the BA of the commencement of the minor works at least 7 days\n         before carrying out the minor works.\n\nNote10 : Except section 14(1) of the BO and regulation 25 of the Building (Administration)\n         Regulations.\n\nMinor Amendments to the Submitted Specified Forms, Plans and Documents"
+    },
+    {
+      "id": "p5-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "5.         The administrative procedures mentioned  in PNAP ADM-14 are not\napplicable to the submissions of minor works and the inspection and certification of\nPBW.  However, minor amendments by the PBP or PRC on the submitted specified\nforms,  plans and  other documents may be  arranged  at BD, depending on  the\ncircumstances of individual cases.\n\n\n\n\n\n(Rev. 9/2021)\n\n                                                       - 4 -"
+    },
+    {
+      "id": "page-10-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Appendix B\n                                                 (PNAP APP-147)\n\n\n            Requirements and Guidelines for Plans and Documents\n               Submitted under the Minor Works Control System\n\n\n      To  facilitate  the processing  of  plans and documents submitted under  the\nsimplified requirements of the Minor Works Control System, the following requirements\nand guidelines should be met:"
+    },
+    {
+      "id": "p1-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "1.     Every plan and section of minor works must be drawn to a ratio of not less than\n       1:100. Every block plan must be drawn to a ratio of not less than 1:500, B(MW)R\n       section 38 refers."
+    },
+    {
+      "id": "p2-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "2.     Photographs to be submitted should clearly show the physical conditions of the\n       premises immediately before the commencement and after the completion of minor\n       works, B(MW)R sections 30(b), 31(b), 32(b), 33(b), 34(b), 35(b) and 36(c) refer.\n      The “before” photographs are intended to prove that the proposed minor works\n      have not been commenced before the minor works submission while the “after”\n       photographs are to facilitate the identification of the completed works, particularly\n        in cases of Class III minor works which may not be accompanied with plans\n      showing the minor works. Generally, 4R-size photographs are acceptable for these\n       purposes. The “before” and “after” photographs should be taken from the same\n       angle to facilitate the understanding and comparison of the site situation. A mark\n       should be indicated on plans showing the angle of photo-taking with photo\n      numbers."
+    },
+    {
+      "id": "p3-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "3.    For minor works associated with building and drainage repairs of an entire\n       building, the prescribed building professional (PBP) or prescribed registered\n       contractor (PRC), as the case may be, should clearly indicate on the prescribed\n       plans the  details and locations of the  repair works involved.   Wide-angled\n       photographs showing extensive areas of the external elevations, drainage system\n      and premises involved are acceptable.   It is not necessary to submit close-up\n       photographs showing every spot or location of the minor works if details and\n       location of which have already been clearly indicated on the prescribed plans."
+    },
+    {
+      "id": "p4-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "4.    The AP should provide clearly the location and address of the minor works or the\n       prescribed building or building works on plans and documents. The address of the\n       premises shown on the “Demand for Rates and/or Government Rent” issued by the\n       Rating and Valuation Department is recommended to be used."
+    },
+    {
+      "id": "p5-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "5.     All supplementary documents should be submitted with the standard form MW33."
+    },
+    {
+      "id": "p6-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "6.     Coloured plan not larger than A3 size is recommended."
+    },
+    {
+      "id": "p7-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "7.    The PBP shall refer to paragraphs (1) – (3) in Appendix A to PNAP ADM-10 for\n       general guidelines on drawing standards, except  that paragraph  3(i)  is only\n       applicable to a plan larger than A3 size.\n\n                                                       - 1 -"
+    },
+    {
+      "id": "page-11",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        11
+      ],
+      "text": "*     For effective communication, the PBP and PRC should ensure that their contact\n       information as recorded in the Registration Unit of the BD is correct and updated.\n\n\n\n\n\n(Rev. 6/2012)\n\n\n\n\n\n                                                       - 2 -"
+    },
+    {
+      "id": "page-12",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        12
+      ],
+      "text": "Appendix C\n                                                 (PNAP APP-147)\n\n              List of Specified Forms and Standard Forms under the\n                     Minor Works Control System\n\n          The specified forms and standard forms for use under the Minor Works\nControl System are listed in the following table.  They can be downloaded from the\nwebsite of the Buildings Department at https://www.bd.gov.hk, or obtained from the\nGeneral Enquiry and Receipt Counter of the Buildings Department on G/F, Buildings\nDepartment Headquarters, North Tower, West Kowloon Government Offices, 11 Hoi\nTing Road, Yau Ma Tei, Kowloon during office hours.\n\nSpecified Forms:\n\n Form No.                                     Title\n\n             Notice  of Commencement  of Minor Works under  the  Simplified  MW01             Requirements (with Prescribed Building Professionals Appointed)\n\n               Certificate  of Completion  of Minor Works  under  the  Simplified  MW02             Requirements (with Prescribed Building Professionals Appointed)\n\n             Notice  of Commencement  of Minor Works under  the  Simplified  MW03             Requirements (without Prescribed Building Professional Appointed)\n\n               Certificate  of Completion  of Minor Works  under  the  Simplified  MW04             Requirements (without Prescribed Building Professional Appointed)\n\n             Notice and Certificate of Completion of Class III Minor Works under  MW05              the Simplified Requirements\n\n             Notice  of  Inspection and  Certification  of  Prescribed  Building  or\n             Building Works and  Certificate  of Completion  of  the Associated MW06-1              Alteration or Strengthening Works involving Class  I Minor Works\n            (Minor Amenity Feature Validation Scheme)\n\n             Notice  of  Inspection and  Certification  of  Prescribed  Building  or\n             Building Works and  Certificate  of Completion  of  the Associated MW06-2              Alteration or Strengthening Works involving Class  II Minor Works\n            (Minor Amenity Feature Validation Scheme)\n\n             Notice  of  Inspection and  Certification  of  Prescribed  Building  or\n             Building Works and  Certificate  of Completion  of  the Associated\n MW06-3   Alteration or Strengthening Works involving Class  III Minor Works\n            (Household Minor Works Validation Scheme or Minor Amenity Feature\n              Validation Scheme)\n\n\n\n\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-13",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        13
+      ],
+      "text": "Specified Forms (cont’d):\n\n Form No.                                     Title\n\n             Notice of Change in Appointment of Registered Structural Engineer,\n  MW07    Registered Geotechnical Engineer or Prescribed Registered Contractor\n             under the Simplified Requirements\n\n             Notice of Change in Appointment of Authorized Person or Registered  MW08              Inspector under the Simplified Requirements\n\n             Notice of Nomination by Prescribed Building Professional Appointed of\n  MW09    Another Prescribed Building Professional to act in his place for the\n              period of temporary inability to act under the simplified requirements\n\n             Notice of Prescribed Registered Contractor on Ceasing to be Appointed  MW10             under the Simplified Requirements\n\n             Notice  of Commencement  of  Additional Minor Works under  the\n  MW11    Simplified  Requirements  (with  Prescribed  Building  Professionals\n             Appointed)\n\n             Notice  of Commencement  of  Additional Minor Works under  the\n  MW12    Simplified Requirements  (without  Prescribed  Building  Professional\n             Appointed)\n\nStandard Forms:\n\n Form No.                                     Title\n\n             Notice of Prescribed Building Professional on Ceasing to be Appointed  MW31              or Nominated under the Simplified Requirements\n\n             Request for Submission Number for Class III Minor Works Relating to\n  MW32    the  Erection  or  Alteration  of  Signboard  under  the  Simplified\n             Requirements\n\n            Submission of Supplementary Documents or Information under the  MW33              Simplified Requirements\n\n             For Attachment of Photographs showing the Conditions of the Minor   PR1           Works\n\n   PR2     For Attachment of A3 Plans\n\n   PR3     For Attachment of A4 Plans\n\n   PR4     For Attachment of Structural Calculations\n\n\n\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-14",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        14
+      ],
+      "text": "Standard Forms:\n\n Form No.                                     Title\n\n   PR5     For Attachment of Supervision Plan for Class I Minor Works\n\n             For Attachment  of Safety Inspection Report and/or Other Related   PR6            Documents\n\n\n\n\n\n (Rev. 9/2021)\n\n\n                                                              - 3 -"
+    },
+    {
+      "id": "page-15-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        15
+      ],
+      "text": "Appendix D\n                                                 (PNAP APP-147)\n\n\n                        Standards and Guidelines on\n                Display of Minor Works Submission Number or\n              BD Reference Number on Signboards\n\n\n            Registered Minor Works  Contractors and  Registered General Building\nContractors are strongly recommended to display minor works submission numbers and\nBD reference numbers on signboards erected or altered under the simplified requirements\nand signboards erected or  altered with  prior approval and consent from the BA\nrespectively so as to distinguish them from unauthorized signboards. The standards and\nguidelines for displaying such numbers are as follows:"
+    },
+    {
+      "id": "p1-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 106
+        }
+      ],
+      "text": "1.  The letters and digits should be in black colour with a white background in the\n     following cases:\n\n       (i)     in case of a signboard erected under the simplified requirements, the minor\n          works submission number should be displayed, e.g. MW101212345;\n\n       (ii)     in case of a signboard erected or altered with prior approval and consent\n          from the BA, the BD reference number should be displayed, e.g. BD\n           2/9876/10 or BD 2-3/9876/10(6); and\n\n       (iii)    in case of any new works being carried out for alteration of the signboards\n           mentioned in  (i) or  (ii) above (excluding solely replacement of display\n             surfaces), the new number should be displayed.  Any existing number\n          shown should be removed to avoid unnecessary confusion."
+    },
+    {
+      "id": "p2-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "2.  The letters and digits of minor works submission number should be in black colour\n     with a yellow background in case any minor works being carried out for alteration\n     or replacement of display surfaces of those existing signboards without authorization\n     or not being erected under the simplified requirements."
+    },
+    {
+      "id": "p3-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "3.   All letters should be in block capitals.  All letters and digits should be minimum\n   35mm high and in the font style of “Arial” as shown below.\n\n\n\n     Min.\n    35mm      MW101212345    BD 2/9876/10\n\n     Min.\n    35mm      MW101254321  BD 2-3/9876/10(6)\n\n\n                                                                                                /4. …..\n\n\n                                                   - 1 -"
+    },
+    {
+      "id": "p4-page-16",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        16
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 190
+        }
+      ],
+      "text": "4.  The above number should be displayed on durable material securely affixed at a\n    conspicuous position on the signboard, in order to be seen  at the following\n     suggested locations:\n\n       (i)     the nearest pavement or pedestrian way, in case of a projecting signboard, a\n            signboard erected on/hung underneath the soffit of a balcony/canopy or a\n            signboard fixed on-grade;\n\n       (ii)    the nearest or the opposite pavement or pedestrian way, in case of a wall\n            signboard; and\n\n       (iii)    the main roof of the building, in case the signboard has been erected on the\n            roof of a building.\n\n\n\n(12/2010)\n\n\n\n\n\n                                                   - 2 -"
+    },
+    {
+      "id": "page-17-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        17
+      ],
+      "text": "Appendix E\n                                                 (PNAP APP-147)\n\n\n     Minor Works Relating to Radio Base Station, Antenna or Transceiver\n\n\n              Items  of  minor  works  relating  to  radio  base  station  (solely  for\ntelecommunication  services  in  the form  of an equipment  cabinet) on  roof,  or\nantenna/transceiver projecting from external wall or on roof include items 1.14, 1.28,\n1.50, 2.12, 2.31, 2.49, 3.2, 3.8, 3.26, 3.27 and 3.50, which may be carried out under the\nsimplified requirements.  Detailed descriptions of the items are in Schedule 1 of the\nBuilding (Minor Works) Regulation."
+    },
+    {
+      "id": "p2-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The  attention  of AP  and RSE   is  drawn  to  that  the  public\ntelecommunication  operators have  to  ensure  their  radio  base  stations meet  the\nrequirements of all relevant government departments and obtain approvals from the\nOffice of the Telecommunications Authority (OFTA), Town Planning Board, BD and\nLands Department, where necessary, before they would be allowed to install radio base\nstations on rooftops and/or mount the antennas on external walls of buildings."
+    },
+    {
+      "id": "p3-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           For erection or alteration of supporting structures of radio base station,\nantenna or  transceiver, the AP appointed  is required  to submit  to the OFTA a\ndeclaration stating that the proposed radio base station is in compliance with the BD’s\nrequirements.  The AP and RSE shall make reference to the Guidance Note for\nSubmission  of  Applications  by  Public  Telecommunications  Operators  for  the\nInstallation  of Radio Base  Stations  for  Public  Telecommunications  Services  in\nBuildings and on Rooftops issued by the OFTA for details."
+    },
+    {
+      "id": "p4-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          The AP and RSE should remind the owner of the premises that works for\nremoving supporting structures or frames of radio base station, antenna or transceiver\nand equipment cabinet of radio base station may also be minor works under the\nsimplified requirements.\n\n\n\n\n\n(Rev. 12/2020)"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "code": "APP-048",
+  "source_text": "indexed_text/PNAP/APP/APP-048.txt",
+  "source_pdf": "documents/PNAP/APP/APP-048.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Re gistered Structural Engineers and Registered Geotechnical Engineers   APP-48\n\n                               Practice Note for Authorized Persons Buildings Department                                               131\n                         and Registered Structural Engineers\n\n\n                    Requirements for Qualified Supervision\n           of Structural Works, Foundation Works and Excavation Works\n                          Buildings Ordinance section 17\n\n           As the design and construction of buildings become more complex, it is\nnecessary to exercise closer supervision during construction. Buildings Ordinance section\n17 provides that conditions may be imposed when approval of plans or consent to\ncommence building works is given, to require qualified supervision to be provided at\ncertain stages of construction or for some particular operations. Examples are :\n        (a)    major excavation and foundation construction;\n\n        (b)     concreting;\n\n         (c)     carrying out of compliance testing;\n\n        (d)     prestressing  operations  including  pre-tensioning,  post-\n               tensioning, grouting and lock-off;\n\n         (e)     fabrication,  erection and examination  of key  structural\n              steelwork elements on site; and\n\n          (f)     carrying out of specialist building works."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The personnel assigned to supervise the works should possess adequate\ntechnical knowledge and experience relevant to the works and should be fully conversant\nalso with the engineering basis upon which the works are designed.  The authorized\nperson, registered structural engineer, registered geotechnical engineer and registered\ncontractor are required, under their respective duties stipulated in Buildings Ordinance\nsection 4(3) and 9(3) and Building (Administration) Regulations 37 and 41, to ensure that\nqualified supervision is carried out properly."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The requirements for qualified supervision of geotechnical works are\ncovered by PNAP 83.\n\n                                                                            ( H W CHEUNG )\nRef. : BD GP/BORD/65                                    Building Authority\nFirst issue June 1990\nLast revision May 1994 (AD/SE)\nThis revision December 2005 (AD/Sup) (Para 2 is amended to include RGE)\n\nIndex under : BO s17 - Requirement for Qualified Supervision of Structural Works,\n                       Foundation Works and Excavation Works\n              Supervision  -  Structural Works,  Foundation Works  and  Excavation\n           Works"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "code": "ADM-20",
+  "source_text": "indexed_text/PNAP/ADM/ADM-20.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-20.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and       ADM-20\n                          Registered Geotechnical Engineers\n\n\n                              Central Data Bank\n\n\n        A Central Data Bank (CDB), which contains lists of building materials,\ncomponents and construction systems that have been accepted by some government\ndepartments, has been set up since 2005. CDB mainly contains information accepted by\nthe Buildings Department (BD).\n\nPurpose"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        CDB aims to provide a web-based point of reference to authorized person\n(AP), registered  structural engineer (RSE), registered geotechnical engineers (RGE),\nregistered contractors (RC) and other parties concerned in the building industry.    It is\nintended to help sharing of information amongst government departments and to enhance\npublic access to information.\n\nScope"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.        CDB  contains  information  of  building  materials,  components  and\nconstruction systems that have been accepted by some government departments.  In the\ncase of the Buildings Department (BD), such acceptance in CDB will generally be based on\ntests and assessments carried out by the accredited laboratories or the certificates of\nconformity (CoC) issued by relevant accredited certification bodies.  They should be\nassessed and certified by the AP/RSE/RGE as meeting the standards stipulated at the time\nof submission to BD in accordance with Practice Note for Authorized Persons, Registered\nStructural Engineers and Registered Geotechnical Engineers (PNAP) APP-118 and\nAPP-165 respectively.  AP/RSE/RGE/RC are reminded that the information included in\nBD’s list is historical data.\n\nListing Procedures"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 140
+        },
+        {
+          "label": "b",
+          "offset": 277
+        }
+      ],
+      "text": "4.           For structural products, a building material, component or construction\nsystem may be included in the BD’s list in the CDB if:\n\n          (a)    its use in a particular completed building project has been accepted by BD\n             and certified by AP/RSE/RC; or\n\n         (b)     it is currently on BD’s list of recognised types of piles.\n\n\n\n\n\n                                                                                                 /5. …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 ­"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            For non-structural products, the primary source of information for inclusion\nin the BD’s list is from the Schedule of Building Materials and Products submitted in\naccordance with PNAP APP-13. BD will randomly select some of the building materials\nand products from the Schedules received for audit check so as to verify the relevance of the\nlaboratory tests, assessments and the CoC.  Relevant information will then be transferred\nto the BD’s list in the CDB."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          Due to copyright consideration, the design details, the test and assessment\nreports and the CoC associated with the product will not be exhibited in the CDB. A\nsample of BD’s list in the CDB is provided at Appendix A."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.         As CDB contains only historical information on material acceptance in\nrespect of a development project, BD will not accept direct application from a supplier,\nmanufacturer or alike for including its products in the BD’s list.\n\nUse of Data"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.         AP/RSE/RGE who make use of or relies on any information in the CDB\nshould take full responsibility for the application and performance of a building material,\ncomponent or construction system.  They should ensure the materials, components or\nconstruction systems adopted have been properly tested according to the latest standards or\nsatisfied the requirements of the relevant Product Conformity Certification Scheme.   If they\nare satisfied with the use of such materials and do not wish to submit hard copy of the test\nreports or CoC which are identical to those listed in the BD’s list in the CBD, they may quote\nthe reference data from the CDB in their certification.  Any supplementary test or\nassessment reports that are not indicated in the BD’s list should however be submitted.  For\nthe purpose of the Schedule of Building Materials and Products, the AP may quote the\nreference number of the BD’s list in the “Remarks/Comments” column of the Schedule. A\nsample Schedule is provided at Appendix B.\n\n\n\n\n\n                                                                ( YU Tak-cheung )\n                                                 Building Authority\n\n\n\nRef.: BD GR/1-55/182\n    BD GR/1-125/106 (X)\n\nThis PNAP is previously known as PNAP 292\nFirst issue    January 2005\nThis revision  September 2021 (AD/CS) (General revision)"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Appendix A\n                                                                                                 (PNAP ADM-20)\n                                         Sample BD’s List under Central Data Bank\n\n(A1)  List for Fire Rated Doorsets with Test or Assessment Report\n\n   Ref. No.       Product        Name of          Fire Resistance                      Details of Test or Assessment Report                 Date of       Remarks/\n              Name       Manufacturer and        Rating                                                                            Posting on     Comments\n                                     Place of             (minutes)                                                 CDB\n                               Manufacture                                                      Integrity  Insulation   Name of    Name of     Report no.  Date of      Validity                                  (City and country)                                                                    Laboratory   Laboratory                   Test  /      Date\n                                                                           Accreditation    / Assessing                Assessment\n                                                               Body      Organisation                Report\n\n BD-D010    Fire Door ABC   ABC Ltd. Co.,        30        30        United        XYZ         Test Report   20/6/2003               1/2/2005\n                                 Edinburgh, UK                        Kingdom      International      12345\n                                                                                 Accreditation     Fire Ltd.\n                                                                           System\n BD-D011\n BD-D012\n\n(A2)  List for Fire Rated Doorsets with Certificate of Conformity (CoC)\n   Ref. No.       Product        Name of          Fire Resistance                                 Details of CoC                    CoC    Date of  Remarks/\n              Name       Manufacturer and        Rating                                                               Scheme   Posting  Comments\n                                     Place of             (minutes)                                                                       on CDB\n                               Manufacture                                                      Integrity  Insulation  Accreditation   Certification    CoC     CoC      Validity                                  (City and country)                                                               Body        Body      Number      Date      Date\n\n BD-CoC     Fire Door ABC   ABC Ltd. Co.,        30        30     Hong Kong      XYZ         12345      8/5/2019  23/11/2021   PCCS­    1/2/2021\n 001                  HK                                       Accreditation     Fire Ltd.                               PFPP\n                                                                               Service                                                                Issue 3\n BD-CoC\n 002\n\n\n(Rev. 9/2021)"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix B\n                                                                                                   (PNAP ADM-20)\n                       Sample Schedule of Building Materials and Products (under Appendix A of PNAP APP-13)\n\n BD Ref. :                                   Re : xx Nathan Road, Kowloon, Hong Kong\n                                                               (Address of development site)\n\n (A1)  Fire Rated Products with Test or Assessment Report\n\n          Building          Product     Name of       Fire Resistance    Compliance                    Details of test or Assessment Report                 Remarks/\n          Product         Name    Manufacturer       Rating@      with Relevant                                                      Comments\n                                   and Place of        (minutes)        Building\n                                     Manufacture                       Regulations                                                                  Integrity  Insulation              Name of     Name of     Report no.   Date of      Validity                                             (City and                    and Codes of                                                                                     Laboratory   Laboratory                   Test /       Date\n                                        Country)                            Practice                                                                                             Accreditation   /Assessing               Assessment\n                                                                             Body      Organisation               Report\n\n                                                                                           United Kingdom XYZ            Test Report    20/6/2003   a) Fire rated     G01     Fire Door  ABC Ltd. Co.,      30       30   FRC Code                                                              BD-D010#\n                                                                                                   Accreditation     International  12345#      doorset           ABC        Edinburgh, UK                        para. 6.5 &\n                                                                                        System           Fire Ltd.                                                                                  11.3\n\n                                                                                                    Ditto             Ditto         Assessment    10/1/2004   10/1/2006\n                                                                                                                        Report 98765\n   b) Lift landing\n     door\n   c) Fire rated\n      glazing\n   d) Fire-stop or sealing\n     system in wall/ floor/\n      curtain wall, etc\n   e) Others (e.g.\n      proprietary products,\n       fire shutter, etc)\n\n#   Copy of test report not submitted as it is identical to the report shown in BD’s list (Ref. No. BD-D010) under the CDB.\n@   The performance on stability has to be demonstrated where applicable.\n^   Corresponding legend in approved plan should be specified where applicable.\n\n                                                                                                     - 1 ­"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Appendix B\n                                                                                                   (PNAP ADM-20)\n\n (A2)  Fire Rated Products with Certificate of Conformity (CoC)\n\n        Building        Product     Name of        Fire Resistance     Compliance                           Details of CoC                   CoC    Remarks/\n       Product       Name    Manufacturer   Rating  (minutes)   with Relevant                                                     Scheme  Comments\n                               and Place of                            Building\n                                Manufacture                       Regulations and                                                       Integrity  Insulation                   Accredi­    Certification   CoC     CoC     Validity                                       (City and                         Codes of                                                                                                   tation Body    Body    Number     Date      Date                                   Country)                              Practice\n\n   a) Fire rated      ^  Fire Door   ABC Ltd. Co.,      30        30    PNAP       Hong Kong   XYZ          12345      8/5/2019  23/11/2021  PCCS­    BD-CoC\n      doorset        ABC      HK                              APP-165      Accredi­       Fire Ltd.                              PFPP     001#\n                                                                                                         tation Service                                                       Issue 3\n   b) Non­          ^\n      loadbearing\n       fire partition\n\n  ^  Corresponding legend in approved plan should be specified where applicable.\n #  In accordance with the record in CDB\n *  Delete whichever is inapplicable\n.\n\n\n (Rev. 9/2021)\n\n\n\n\n\n                                                                                                    - 2 ­"
+    }
+  ]
+}

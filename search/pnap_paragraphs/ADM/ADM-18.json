@@ -1,0 +1,219 @@
+{
+  "code": "ADM-18",
+  "source_text": "indexed_text/PNAP/ADM/ADM-18.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-18.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department    Registered Structural Engineers and      ADM-18\n                          Registered Geotechnical Engineers\n\n\n                          Site Auditing for Building Works\n\n\nIntroduction\n\n           This practice note provides details of the strategy on auditing building\nworks by the Buildings Department (BD)."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        The Building Authority  is empowered by section 22 of the Buildings\nOrdinance to enter building sites to ascertain whether the Buildings Ordinance and its\nsubsidiary regulations are being complied with.   It is BD's intention to exercise this\npower strategically so as to facilitate Authorized Persons (APs), Registered Structural\nEngineers (RSEs), Registered Geotechnical Engineers (RGEs), Registered General\nBuilding Contractors, Registered Specialist Contractors and Registered Minor Works\nContractors in carrying out their statutory supervisory duties.  The strategy on site\nauditing helps to bring to light structural safety-related irregularities or procedures and\npractices conducive to substandard building works before they become very costly or\nimpossible to put right.\n\nThe Strategy"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 235
+        },
+        {
+          "label": "b",
+          "offset": 361
+        },
+        {
+          "label": "c",
+          "offset": 431
+        },
+        {
+          "label": "d",
+          "offset": 497
+        },
+        {
+          "label": "e",
+          "offset": 567
+        },
+        {
+          "label": "f",
+          "offset": 611
+        }
+      ],
+      "text": "3.        The strategy for auditing building works, which focuses on compliance with\nrequirements of the Buildings Ordinance and regulations, includes surprise checks\nwithout prior notification and encompasses the following features -\n\n      (a)   Expansion of the scope of audits to include detailed checking\n           of foundation and superstructure works;\n      (b)  A performance-based approach to frequency of audit checks;\n      (c)  Removal of predictability from timing of audit checks;\n      (d)   Separation of submission-checking and auditing functions;\n      (e)   Rotation of auditing staff; and\n       (f)   Investigative focus on structural safety and integrity.\n\nScope of Audits"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.        The scope of auditing the foundation and superstructure works includes\ndetailed monitoring of the items shown in Appendix I.\n\n\n\n\n                                                                  /Frequency ..."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\nFrequency of Audits"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.     A performance-based approach is adopted to determine the frequency and\ntiming of audit checks.  On the initial auditing visit to a building site, various factors\nincluding  its  conditions, complexity of development,  on-site  organization  of  the\nregistered contractor (RC), qualified supervisory personnel in attendance by AP, RSE,\nRGE and RC, completeness of documentation kept on site and quality of the works\ncompleted to date will be rated accordingly.  The rating will be used to determine the\ninitial frequency of subsequent auditing inspections.  The general principle will be that,\nas the works progress, the timing of the next auditing will be decided upon having\nregard to the standard of building works discovered in the last auditing.   If the site is\nposing particular difficulties, or anomalies are discovered, or the quality of works has\nproved to be substandard, then the next auditing will be carried out earlier than it would\notherwise have been."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.        The auditing officer will have the discretion to determine the proportion of\nworks and items for inspection as appropriate in the circumstances of each site.  That\nis, the percentage and building works components subject to auditing depend on the\nnature of the various stages of building works on a case-by-case basis. A flow chart\nfor the performance-based site auditing approach is shown at Appendix II.\n\nTiming of and Personnel Assigned to Audits"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          Site  auditing  is most  effective  as a  deterrent  to  malpractice  if  it  is\nunpredictable in terms of frequency and timing of inspections, the work to be inspected\nand the personnel assigned to the inspections."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.       Any construction sites that are in progress or have been completed are liable\nto be audited by BD.  There will be no pre-determined percentage of structural units,\nor  specific  items,  to  be  audited on  each  site.    Generally,  there  will  be no\npre-arrangement with the AP/RSE/RGE/RC on the date and time of inspection."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.       As regards personnel assigned to site auditing work including quality and\nsite safety, BD institutes arrangements to ensure that the officer assigned to audit a\nparticular site is neither the officer who processes the documentary submissions in\nrespect of that site nor the officer who carried out the previous inspection.   Internal\nmechanism is in place within BD to ensure consistency and fairness of auditing and to\nmonitor the overall progress of the site auditing programme.\n\nMinor Works carried out in accordance with the Simplified Requirements"
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "10.       Minor works carried out in accordance with the simplified requirements (i.e.\ninvolving submitted plans instead of approved plans) are small scale with short\nconstruction period.  Hence instead of a programme of systematic inspections for\nconstruction  sites  with  approved  plans,  selected  cases  of  minor  works  under\nconstruction will be subject to audit site safety inspections.  Since minor works items\nmay involve certain items in the  first column of Appendix  I, like spread footing,\nreinforced  concrete,  in-situ concrete and  cantilever canopy,  please  also note  the\ncorresponding aspects subject to audit and objective/concern in the second and third\ncolumns thereof.\n\n                                                                           /Audit ..."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\nAudit Inspections for Two-Storey Warehouses"
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.        For proposals of two-storey warehouse satisfying the criteria for fast track\nprocessing  in PNAP ADM-19,  the BD undertakes  to conduct  inspection  of  the\nfoundation bearing stratum within one working day (i.e. within 8 working hours) upon\nreceipt of notification.  The BD has also streamlined the audit inspections for such\nproposals.  For the scheduled audit inspections on quality of superstructure works, the\nBD will combine the quality inspection to structural elements with the comprehensive\ninspection  at superstructure construction stage into one joint  site inspection.  For\nproposals of small warehouses with gross floor area not exceeding 1,500m2, the BD will\ncarry out only one unscheduled audit inspection to such low risk type construction\nunless irregularities are revealed during the audit inspection that may warrant further\nunscheduled audit inspections.\n\nInvestigation of Anomalies"
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.     BD will examine carefully  all anomalies found during  site audits but\ninvestigation will focus on anomalies that affect structural safety and integrity or that\noccurring frequently.  The overall effect and extent of seriousness of such anomalies\nwill be examined and consideration will be given to whether the anomaly has occurred\ninadvertently or otherwise.\n\nImpact on the Construction Industry"
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "13.       The strategy for auditing the building works entails more extensive and\nrigorous on-site checking by BD.  This should not be interpreted as any intention of\nBD to impede construction works or interfere with project management.  Normal site\noperations will not be interrupted  if building works are carried out properly. BD\nintends to work closely with the industry in enhancing the built quality and safety of\nbuildings."
+    },
+    {
+      "id": "p14-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "14.     A similar practice note is issued to all registered contractors.\n\n\n\n\n\n                               (CHEUNG Tin-cheung)\n                                                Building Authority\n\n\nRef. : BD GR/1-150/45\n\nThis PNAP is previously known as PNAP 254\nFirst issue April 2001\nLast revision February 2016\nThis revision April 2018 (AD/NB2) (Para. 11 amended)"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix I\n                                                (PNAP ADM-18)\n\n          Foundation            Things to be audited   Objective/concern\nDriven piles\n(A)  Materials\n       -  Steel H-pile                  Mill certificates        Proof yield stress\n\n       -  Precast prestressed Spun      Origin                Recognized type\n         concrete pile\n                                      Physical dimensions    Compliance with\n                                                        approved plans\n\n       -  Welding electrode           Grade of electrode      Ensure splice joint\n                                                                 strength\n\n(B)   Supervision personnel\n       -  RSE, RGE & RSC           Presence of qualified   Compliance with\n                                      supervisory staff         Site Supervision\n                                                           Plan\n\n(C)  Final Stage of Piling operation\n       -  Diesel hammer                 Sufficient driving       Ascertain piles are\n                                    energy and final set     driven to suitable\n                                                          founding stratum,\n                                                       complying with\n                                                        approved plans\n\n       -  Hydraulic hammer                       -ditto-                    -ditto-\n\n       -  Drop hammer                            -ditto-                    -ditto-\n\n(D)  Documentation\n       -  Ground Investigation          Pile tip founding       Ensure founding\n                                       material                stratum is able to\n                                                                  sustain the designed\n                                                                  load.\n\n       -  Piling record of completed     Final set and           Consistency of the\n                                   founding level           as-built level and       works\n                                                       ground investigation\n                                                               borelog.\n\n\n\n\n\n                                        1"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Excavation piles\n(A)  Materials\n      -  Bored pile                  Grade of concrete,     Compliance with\n                                        mill certificate for      approved plans\n                                     reinforcement\n\n      -   Mini-pile                  Grade of grout, mill              -ditto-\n                                            certificate of\n                                      reinforcement,\n                                     coupler\n\n      -  Socket H-pile              Grade of grout and               -ditto-\n                                        mill certificate of\n                                        Steel section\n(B) Supervision personnel\n     -   RSE, RGE & RC            Presence of qualified   Compliance with\n                                      supervisory staff         Site Supervision\n                                                           Plan\n\n(C)  Completion of excavation\n       -  Bored pile                     Pile depth, diameter,    Ensure bored piles\n                                         bell-out size             are constructed in\n                                                          accordance with the\n                                                        approved plans.\n                                    Actual founding        Consistency of\n                                       material and pre-drill   founding materials\n                                      records\n\n       -   Mini-pile & socket H-pile     Pile depth, dip angle    Ensure mini-piles\n                                         for raking pile           are constructed in\n                                                          accordance with the\n                                                        approved plans\n\nSpread Footing\n                                   Bearing stratum        Ensure suitability of       -   Raft/spread footing\n                                                          founding material\n                                      Physical dimensions    Compliance with\n                                                        approved plans\n\n\n\n\n\n                                        2"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Superstructure         Things to be audited   Objective/concern\n(A)  Reinforced concrete          Hammer test to         Concrete strength\n                                          structural elements\n                                       Select samples of       Tensile strength\n                                        reinforcing bars for\n                                           tensile test\n(B)   In-situ concrete                Coring tests            Strength of in-situ\n                                                              concrete\n(C)   Critical elements\n        -   Transfer plate            Document showing     Ensure the stability\n                                RSE’s acceptance on    of falsework\n                                    falsework design by\n                       RGBC\n                                    Concreting sequence     Instability of\n                                                           falsework\n        -   Prestressing member         Prestressing profile     Compliance with the\n                                                        approved plans\n                                  Grout vent            Ensure no air\n                                                           entrapped\n        -   Cantilever canopy           Location of            Ensure safety\n                                       construction joint\n                                 and cover\n(D)   Curtain wall & Glass wall     Member size, shape    Compliance with\n                                 and grade             approved plans\n\n                                       Cast-in anchors                  -ditto-\n\n\n\n\n\n (Rev. 2/2006)\n\n\n\n\n                                        3"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Appendix II\n                                                       (PNAP ADM-18)\n                               Initial Auditing\n                             (see Note)\n                                                        1\n\n\n                             Overall                  No              BD\n                         Performance                                  determines more\n                            Satisfactory?                                        frequent site\n                                                                                   auditing\n\nS/S\n                                     Yes            foundation\nfor                                                                                         S/S\n    for                                                                                                                                                                                                                                                                                                                                foundation                             Site Auditing                                           Site Auditing            for\n                                                                                                formonths                                          No           No4 months 2                                                                                                                                                                           months                               2  month\n                                1\n                          Audited                                         Audited\n                          building works                                      building works\n                           acceptable?                                         acceptable?\n\n\n\n                                     Yes\n\n                                                                                           Yes\n                   BD\n                         determines less\n                           frequent site\n                              auditing\n\n                                                Note:\n                                                              1. Foundation\n                                                   1 month after commencement of piling works\n                     Next Site Auditing\n                                                              2. Superstructure\n                                                     3 months after commencement of superstructural\n                                                           (S/S)works\n\n                          Audited           NoS/S\n                          building works           1              foundationfor                        acceptable?\n    for\nmonths\n4           No                 Yes        months\n 2\n\n                        Completion           Yes\n                          of all structural                  End\n                       components\n\n                      Performance-based Site Auditing\n           (4/2001)"
+    }
+  ]
+}

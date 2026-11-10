@@ -1,0 +1,144 @@
+{
+  "code": "APP-073",
+  "source_text": "indexed_text/PNAP/APP/APP-073.txt",
+  "source_pdf": "documents/PNAP/APP/APP-073.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department      Registered Structural Engineers and      APP-73\n                            Registered Geotechnical Engineers\n\n\n\n                                  Service Lanes\n\n\n              Service  lanes, formally known as scavenging  lanes,  are an  essential\ncomponent of the urban fabric.  Historically, they provided the means of removing waste\nfrom dwellings but in effect also acted as essential fire-breaks.  Today, these lanes are\ncommonly incorporated into building designs to provide sources of lighting and ventilation\nand routes  for access and escape.   Additionally, established lanes often provide a\nconvenient neighbourhood pattern of footpaths."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            This practice note advises on general issues concerning private service\nlanes.\n\nRights-of-way"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            Before a private or partly private service lane can be used for a particular\nscheme to meet Buildings Ordinance requirements (such as lighting and ventilation, means\nof escape and means of access), the authorized person must demonstrate that either\npermanent or pertinent rights-of-way over the lane exist. The integrity of the lane must be\nensured for all users of the proposed building.\n\nMeans of Escape and Access"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          Where exit routes are required, they would not be acceptable  if they\ndischarge into a private or partly private service lane unless it can be demonstrated that the\nusers of the proposed building would have unfettered rights-of-way over the lane."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.       A service lane, public or private, would not be acceptable as a means of\nescape and access if it is obstructed, incapable of improvement or obviously in a decaying\nstate.\n\nSite Coverage and Plot Ratio"
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          Where an abutting private lane is in the ownership of the developer but is\nnot specifically required for any purpose under the Buildings Ordinance for the proposed\nscheme, the Building Authority will give favourable consideration to including the relevant\narea of such lane in site coverage and plot ratio calculations. Where the legal status of a\nlane has been clearly established by the existence of rights-of-way, it would be necessary to\napply formally for a modification of Building (Planning) Regulation 23(2)(a)."
+    },
+    {
+      "id": "p7-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "7.         When an area designated as a private lane has been included in  site\ncoverage and plot ratio calculations, it must on completion of the building works be free of\nany structures. The only exception is where such structures have been approved and taken\ninto account in the calculations.\n                                                                                                  /8. ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.                  It is often in the interest of a developer as well as good urban planning to\namalgamate sites.  This can result in the extinguishment and diversion of existing lanes.\nGenerally speaking, if a diverted lane is required only for a useful neighbourhood pattern\nand not specifically for a proposed development, then the Building Authority will give\nfavourable consideration to including the relevant area of such lane in site coverage and\nplot ratio calculations.\n\nOpen Space"
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.           Save as provided for in Building (Planning) Regulation 28(3), the area of\nservice lanes should be excluded from the open space requirements under Building\n(Planning) Regulation 25. This applies whether or not the area of lane is included in the\nsite coverage and plot ratio calculations.\n\nImprovement and Surrender"
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "10.          Every opportunity should be taken to improve a substandard service lane.\nThe long-term objective is that upon full development of abutting sites, a lane would be\ndirect and have an unobstructed width of not less than 3 m."
+    },
+    {
+      "id": "p11-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "11.           Except in the circumstances prescribed, Building (Planning) Regulation 28\nrequires that every domestic building shall be provided with a suitable service lane at the\nrear or to its side."
+    },
+    {
+      "id": "p12-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "12.         Where improvement to a lane is considered essential in the public interest\nbut the lane is not specifically required under the Buildings Ordinance for a proposed\nscheme, the Building Authority will consider granting appropriate plot ratio and site\ncoverage concessions in return for the free surrender of such lane acceptable to the\nGovernment provided that the area to be surrendered does not form part of an existing lane."
+    },
+    {
+      "id": "p13-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "13.        When land is surrendered for lane widening, the owner must submit a plan\nand a written undertaking to surrender to the Government free of all cost the area shown\ncoloured on the plan and to pay for paving, channelling, sewering, drainage and (where\nappropriate) lighting. The area for surrender must be free of structures.\n\n\n\n\n\n                                                                          ( AU Choi-kai )\n                                                         Building Authority\n\nRef :  BD GP/BREG/P/17 (II)\n\nThis PNAP is previously known as PNAP 179\nFirst issued May 1995\n Last revision November 1995\nThis revision April 2011 (AD/NB1) – Para. 12 and 13 revised"
+    }
+  ]
+}

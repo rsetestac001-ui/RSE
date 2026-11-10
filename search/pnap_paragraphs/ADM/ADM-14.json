@@ -1,0 +1,81 @@
+{
+  "code": "ADM-14",
+  "source_text": "indexed_text/PNAP/ADM/ADM-14.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-14.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and      ADM-14\n                           Registered Geotechnical Engineers\n\n\n             Minor Amendments to Plans and Specified Forms\n\n           To facilitate processing of plans which are considered by the Buildings\nDepartment (BD) as approvable under the Buildings Ordinance (BO) subject to minor\namendments, authorized persons (APs), registered structural engineers (RSEs) and\nregistered geotechnical engineers (RGEs) would be allowed to make minor amendments\nto such plans and relevant specified forms with BD's prior agreement. This Practice Note\nsets out the related procedures.\n\nProcedures"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 224
+        },
+        {
+          "label": "b",
+          "offset": 1243
+        }
+      ],
+      "text": "2.          With immediate effect, the procedures for making minor amendments to\nplans which are approvable under the BO subject to such amendments and other relevant\nspecified forms already submitted to BD are as follows :\n\n        (a)   Amending plans and specified forms in BD\n\n                    It is usual practice for BD staff to conduct an interview with the\n              design team from AP/RSE/RGE  to  clarify  queries on  the\n              submissions  prior  to  minor  amendments  to  the  plans.\n           AP/RSE/RGE may amend the plans and specified forms in BD\n             and authenticate the amendments by his signature.\n\n             Should clarification be required on the work the design of which\n              has been prepared by specialist or proprietary contractors such as\n              glazing works, cladding and curtain wall works, foundation\n            works and hoarding works, the AP/RSE/RGE or his competent\n               representative who understands the  entire project  is always\n             encouraged  to  attend  the  interview  with  the  specialist  or\n               proprietary  contractor  for  better  co-ordination and prompt\n               resolution of interface problems raised by BD.\n\n\n        (b)    Substituting sheets and specified forms\n\n           AP/RSE/RGE may amend the plans by handing in substitute\n               sheets with all the amendments clearly annotated and individually\n               authenticated. Such amendments should first be agreed with the\n              case officer and the substitute sheets should reach him on a date\n               to be agreed with him, in any case not more than two working\n             days from the date the AP/RSE/RGE approaches the case officer.\n\n\n                                                   /AP/RSE/RGE ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n           AP/RSE/RGE may replace the specified forms by handing in\n                substitute ones. Such substitution should first be agreed with the\n              case officer.\n\n         (c)   Taking away part of the submission and specified forms\n\n           AP/RSE/RGE may request in writing the removal of part of a\n             submission of plans or specified forms.  Such request should\n              specify the reference or number of the plans or the specified\n             forms to be taken away and must contain an undertaking to return\n               the amended plans or specified forms in not more than two\n             working days. The precise date of return should be agreed with\n               the case officer beforehand. The amended plans or the specified\n             forms should be clearly annotated and individually authenticated.\n\n        (d)   Amending plans, specified forms and documents submitted\n              via Electronic Submission Hub (ESH)\n\n           AP/RSE/RGE may submit amended plans, specified forms and/or\n            documents under the function of “Revised Submission” in ESH\n               to supersede or supplement their electronic submissions. Similar\n               to paper submissions, such amendments and the deadline of\n             submission via ESH should first be agreed with the case officer."
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "3.             In the case of (b), (c) and (d) in paragraph 2 above, if the plans and/or\nspecified forms for amendment are not returned to the case officer or not submitted\nunder the function of “Revised Submission” in ESH by the agreed date, the\nsubmission may be disapproved under sections 16(1)(i) and/or 16(1)(c) of the BO on\nthe grounds that not all the plans as are prescribed by regulations and/or the required\nspecified forms have been submitted."
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.           For amendments that may have implication under the lease conditions, if\nthe submission is made in paper format, an extra copy of the plans with amendments\nclearly annotated/coloured together with a Development Schedule  to  indicate the\nalterations/changes and the extent of compliance with the lease conditions should be\nsubmitted for onward transmission to the Lands Department (LandsD) for consideration.\nExamples of such amendments may include exclusion of floor space from gross floor area\n(GFA) calculation, conversion of floor space accountable for GFA calculation into\nback-of-the-house facilities for hotel etc. For electronic submissions, such amendments\ntogether with the Development Schedule should be submitted via ESH for direct referral\nto the relevant District Lands Officer of LandsD for consideration.\n\n\n\n\n\n                                                                                                 /5. …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p5-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The above procedures aim to facilitate and will be reviewed from time to\ntime. BD expects co-operation from all APs, RSEs and RGEs using the facility. In the\nevent of abuse or operational difficulties, the procedures will be modified or cancelled.\n\n\n\n\n\n                                                          ( YU Po-mei, Clarice )\n                                              Building Authority\n\n\n\n\n\nRef. : BD GP/BOP/6 (XII)\n\nThis PNAP is previously known as PNAP 190\nFirst issue    December 1995\nLast revision  November 2010\nThis revision  June 2024 (AD/CS)  (Paragraph 2(d) added and paragraphs 3 & 4\n                                amended)"
+    }
+  ]
+}

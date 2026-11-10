@@ -1,0 +1,335 @@
+{
+  "code": "APP-156",
+  "source_text": "indexed_text/PNAP/APP/APP-156.txt",
+  "source_pdf": "documents/PNAP/APP/APP-156.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department    Registered Structural Engineers and         APP-156\n                         Registered Geotechnical Engineers\n\n\n                   Design and Construction Requirements\n                   for Energy Efficiency of Residential Buildings\n\nIntroduction\n\n              In Hong Kong, buildings accounted for more than 90% of the total\nelectricity consumption 1.  Around 27% of the total electricity of the territory was\nconsumed by residential buildings.  Enhancing the energy performance of residential\nbuildings forms an important part of the Government’s overall strategy towards the\nachievement of a more environmentally friendly and sustainable built environment.\nThe Buildings Department (BD) commissioned a consultancy study on the design and\nconstruction requirements of residential buildings for energy efficiency (Consultancy\nStudy) in 2010.   This practice note promulgates the measures formulated in the\nConsultancy Study and sets out the procedures to implement the measures for improving\nthe energy efficiency of residential buildings."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           For the avoidance of doubt, “residential building” in the context of this\npractice note means a domestic building as defined in section 2(1) of the Buildings\nOrdinance (BO) but does not include those premises having an air-conditioning operation\nprofile not similar to that of a normal domestic household, such as hotel, guesthouse,\nresidential care home for the elderly/persons with a disability.\n\nImprovement of Energy Efficiency of Residential Buildings"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 520
+        },
+        {
+          "label": "b",
+          "offset": 778
+        }
+      ],
+      "text": "3.           Based on the Consultancy Study, a  set of design and construction\nrequirements is devised for improving the energy efficiency of residential buildings.\nThese design and construction requirements are promulgated in the “Guidelines on\nDesign and Construction Requirements for Energy Efficiency of Residential Buildings”\n(Guidelines) which has been issued and uploaded to the BD website at www.bd.gov.hk.\nThe Guidelines set out the following key measures to enhance energy efficiency of\nresidential buildings:\n\n        (a)     controlling Residential Thermal Transfer Values (RTTV) of\n              building  envelopes,  including  visible  light  transmittance\n              (VLTGlass) and  external  reflectance  (ERGlass) of the glazed\n               portions; and\n\n        (b)    promoting natural ventilation in window design for maintaining\n              thermal comfort (NVTC).\n\n\n                                                                                                 /4. …\n\n\n1  Hong Kong Energy End-use Data 2021 published by the Electrical and Mechanical Services\n   Department."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         As  the  building  fabric  and  air-conditioning  profile  of  residents’\nrecreational facilities (RRF) in residential developments share similar attributes with\ncommercial buildings and hotels, the Consultancy Study recommended that the Overall\nThermal Transfer Value (OTTV) of RRF (OTTVRRF) should be subject to similar control\nas hotels and commercial buildings."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.       BD has set up a Technical Committee on Design and Construction\nRequirements for Energy Efficiency of Buildings (TC) to, among others, collect and\nconsider the views and feedback from the building industry arising from the use of the\nGuidelines and the Code of Practice for OTTV in Buildings 1995 (CoP). The TC also\nreviews the OTTV and RTTV standards under the Energy Saving Plan for Hong Kong’s\nBuilt Environment 2015~2025+2. On the advice of the TC, the revised RTTV/OTTV\nstandards are incorporated in paragraph 6(a) and (b) below."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 498
+        },
+        {
+          "label": "b",
+          "offset": 697
+        },
+        {
+          "label": "c",
+          "offset": 952
+        },
+        {
+          "label": "d",
+          "offset": 1168
+        }
+      ],
+      "text": "6.         To improve the energy efficiency of residential buildings and on the advice\nof the TC, the compliance with the following design and construction requirements is\nincluded as one of the pre-requisites for the granting of gross floor area (GFA)\nconcessions for green/amenity features and non-mandatory/non-essential plant rooms and\nservices in a residential building under Practice Note for Authorized Persons, Registered\nStructural Engineers and Registered Geotechnical Engineers APP-151:\n\n        (a)    the RTTV of wall (RTTVWall) and roof (RTTVRoof) should not\n             exceed 12.5 Watt/m2 (previously 14 Watt/m2) and 3.5 Watt/m2\n              (previously 4 Watt/m2) respectively;\n\n        (b)     the OTTVRRF should  not exceed 20 Watt/m2  (previously\n            21 Watt/m2) (in case of a building tower) or 40 Watt/m2\n              (previously 50 Watt/m2) (in case of a podium) as calculated in\n             accordance with the CoP;\n\n        (c)     the extent of compliance with NVTC requirements  (i.e. the\n              percentage of area of habitable space complying with the\n              Guidelines on NVTC) should be submitted to the BD; and\n\n        (d)     glass forming part of the building envelope such as curtain wall,\n               cladding, skylight, window and door of the residential building\n             and RRF should have a VLTGlass of not less than 50%3 and an\n               ERGlass of not more than 20%.\n\n\n\n\n                                                               /Procedures …\n\n\n\n2   It was promulgated by the Environment Bureau in May 2015 requiring that RTTV standards\n   for     residential    buildings    would    be    reviewed    twice    before    2030\n   (http://www.eeb.gov.hk/sites/default/files/pdf/EnergySavingPlanEn.pdf).\n3  The visible light transmittance requirement is only applicable to the glass installed in the\n   prescribed windows referred  to  in regulations 30 and 31 of the Building (Planning)\n   Regulations."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\nProcedures"
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "7.                 It is recognised that the design of the façade of a building may not have\nbeen finalised when the building plans are first submitted to the Building Authority (BA)\nfor approval.  Accordingly, the BA would accept that the first submission of building\nplans needs not be accompanied by the information and calculations as required in\nparagraph 6 above. However, the plans should include a statement indicating that the\nproposed development should comply with the requirements of RTTVWall, RTTVRoof,\nOTTVRRF, VLTGlass and ERGlass under this practice note."
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "8.            After the approval of general building plans and prior to the application\nfor consent to the commencement of the building works, the Summary Sheets in\nAppendices A and B should be submitted to demonstrate compliance with paragraphs\n6(a), (b) and (d) above.  The RTTV and OTTV provided in the Summary Sheets in\nAppendices A and B should be calculated in accordance with the Guidelines and CoP\nrespectively."
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 369
+        },
+        {
+          "label": "b",
+          "offset": 487
+        },
+        {
+          "label": "c",
+          "offset": 662
+        },
+        {
+          "label": "d",
+          "offset": 697
+        },
+        {
+          "label": "e",
+          "offset": 857
+        },
+        {
+          "label": "f",
+          "offset": 930
+        }
+      ],
+      "text": "9.             Prior to the application for an occupation permit (OP), the finalised\nRTTVWall, RTTVRoof, OTTVRRF, VLTGlass, and ERGlass of the building and the shading\ncoefficients of glass should be incorporated into the general building plans for record.\nUpon application  for OP, an Energy Efficiency Report containing the following\ninformation should be submitted:\n\n        (a)   RTTV calculations and information on the standard forms at\n            Appendix III of the Guidelines;\n\n        (b)   OTTVRRF calculations, if applicable, with information on the\n              standard forms (Forms OTTV 1 to 4) set out in the schedule to\n              the CoP;\n\n        (c)     the record plans;\n\n        (d)     test certificates or published specifications for the building\n               materials used (such as glass used for fenestration and façade);\n\n        (e)     the finalised Summary Sheets in Appendices A and B; and\n\n         (f)     the  extent  of  compliance  with  NVTC  requirements  in\n            Appendix VI of the Guidelines."
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.      A sample of the RTTV calculations for a residential building is provided\nin Appendix IV of the Guidelines and user-friendly computer spreadsheets are available\nat the BD website at www.bd.gov.hk to facilitate the calculation of RTTV for residential\nbuildings.\n\n\n\n\n\n                                                              /Acceptance …"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -\n\nAcceptance of Building Materials"
+    },
+    {
+      "id": "p11-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "11.              If building materials other than those listed in the Guidelines and the CoP\nare used, their RTTV and OTTV related properties should be obtained from reliable\nsources.   It would facilitate the processing of the consent or OP application  if full\nbackground of the source of information and the suitability of the materials for use in\nlocal conditions are detailed in the submission.\n\nSunshading and Innovative Designs"
+    },
+    {
+      "id": "p12-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "12.          Genuine sunshades that are conducive to the reduction of RTTV and\nOTTV are not accountable for GFA and  shall not be included in  site coverage\ncalculations. In case the sunshades project more than 750 mm from the external walls,\nquantitative assessment should be submitted to the BA for consideration.   It is not\nenvisaged that sunshades would project more than 1.5 m from the external walls."
+    },
+    {
+      "id": "p13-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "13.           In addition, sunshades with a projection of not more than 750 mm are\nregarded as not causing obstructions to prescribed windows."
+    },
+    {
+      "id": "p14-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "14.          Sunshades will not be allowed to project over streets under section 31(1)\nof the BO, but exemptions may be considered in individual cases if special circumstances\nso justify.\n\nDisclosure for Public Information"
+    },
+    {
+      "id": "p15-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "15.        To promote the adoption of the Guidelines for enhancing energy efficiency\nof residential buildings and increase the transparency of information to the public, the\ninformation on RTTV (including RTTVWall and RTTVRoof) together with OTTVRRF of\nindividual residential developments will be uploaded onto the BD website after issuance\nof the OP."
+    },
+    {
+      "id": "p16-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "16.         The extent of compliance with the NVTC requirements as set out in the\nGuidelines is collected for further research with a view to formulating a benchmark for\nNVTC design in the long run. Such information will not be uploaded onto the BD website.\n\nImplementation"
+    },
+    {
+      "id": "p17-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "17.         The revised requirements in paragraph 6(b) above shall apply to all new\nbuilding plans or major revision of building plans for development proposals submitted\nfor approval on or after 31 December 2025."
+    },
+    {
+      "id": "p18-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "18",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "18.          This practice note does not apply to alteration and addition works or\nchange in use not resulting in a new residential building.\n\n\n\n\n\n                                                        /Way …"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 5 -\n\nWay Forward"
+    },
+    {
+      "id": "p19-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "19",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "19.           Similar to the control on OTTV under the Building (Energy Efficiency)\nRegulation, the benchmark values for RTTVWall, RTTVRoof and OTTVRRF in this practice\nnote will be subject to periodic review to keep pace with advancement in building design\nand technological development.\n\n\n\n\n\n                                                             ( HO Chun-hung )\n                                              Building Authority\n\n\n\n\n\nRef. : BD GR/1-150/62\n    BD GR/1-50/84 (V)\n\nFirst issue    September 2014\nLast revision  July 2024\nThis revision September 2025 (AD/NB1) (Paragraphs 5, 6(b) and 17 amended)"
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix A\n                                                               (PNAP APP-156)\n                           RTTV Summary Sheet\n\nAddress:                                                                                    BD Ref. No.\n\nBuilding Type:          Residential\nRTTV calculated by  □ 1. Registered Professional Engineers\n           □ 2. Architect\n           □ 3. Others, please specify :\nNo. of Storeys\n(Residential Units)\nTable 1\n                                               Deemed to Satisfy RTTVWall\nFacade Orientation Facing\nAverage Absorptivity\nAverage Window to Wall Ratio\nShading Coefficient of Glazing\nAverage Shading Coefficient of Facade\nVisible Light Transmittance              %        %        %        %        %        %        %        %\nExternal Reflectance                 %        %        %        %        %        %        %        %\nTable 2\n                                                                            RTTVWall\nFacade Orientation\nFacing\nWall Orientation Factor\nTotal External Wall              m² Window to Wall           m² Window to Wall           m² Window to Wall           m² Window to Wall\nArea (Residential Units)                       Ratio                             Ratio                             Ratio                             Ratio\nTotal Window Area              m²   =                   m²   =                   m²   =                   m²   =\nHeat      Opaque                                   W/m²                   W/m²                   W/m²                   W/m²Conduction Wall\n         Window                     W/m²                   W/m²                   W/m²                   W/m²\nWindow    Glass Type □     Area=  SC=  VLT=  % □      Area=  SC=  VLT=  % □      Area=  SC=  VLT=  % □     Area=  SC=  VLT=  %\n                                Reflective    m²      ER=  % Reflective    m²      ER=  % Reflective    m²      ER=  % Reflective    m²      ER=  %\n           □     Area=  SC=  VLT=  % □      Area=  SC=  VLT=  % □      Area=  SC=  VLT=  % □     Area=  SC=  VLT=  %\n                              Tinted      m²      ER=  % Tinted      m²      ER=  % Tinted      m²      ER=  % Tinted      m²      ER=  %\n           □     Area=  SC=  VLT=  % □      Area=  SC=  VLT=  % □      Area=  SC=  VLT=  % □     Area=  SC=  VLT=  %\n                               Clear       m²      ER=  % Clear       m²      ER=  % Clear       m²      ER=  % Clear       m²      ER=  %\n           Double      □ Yes □ No         □ Yes □ No         □ Yes □ No         □ Yes □ No\n             Glazing\n             External      Overhang □ Yes □ No        Overhang □ Yes □ No        Overhang □ Yes □ No        Overhang □ Yes □ No\n           Shading         Sidefin □ Yes □ No            Sidefin □ Yes □ No            Sidefin □ Yes □ No            Sidefin □ Yes □ No\nSolar Radiation through                                   W/m²                   W/m²                   W/m²                   W/m²Gazing\n Average Absorptivity\nRTTVWall at each facade                    W/m²                   W/m²                   W/m²                   W/m²\n    Overall RTTVWall                                                W/m²\nTable 3\n                                                                           RTTVRoof\nRoof Orientation Factor\nTotal Roof Area (Residential Units)                                               m²\nTotal Skylight Area                                                          m²\nHeat        Roof                                                      W/m²\nConduction   Skylight                                                    W/m²\nSkylight     Glass Type          □ Reflective           Area=           m²     SC=               VLT=     %       ER=     %\n                    □ Tinted             Area=           m²     SC=               VLT=     %       ER=     %\n                    □ Clear              Area=           m²     SC=               VLT=     %       ER=     %\n           Double Glazing                       □ Yes □ No\n             External Shading                      □ Yes □ No\n     Solar Radiation through Glazing                                          W/m²\n      Average Absorptivity (roof)\n             Overall RTTVRoof                                                W/m²\n\n   ER = External Reflectance; SC = Shading Coefficient & VLT = Visible Light Transmittance\n\n   Notes :"
+    },
+    {
+      "id": "p1-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "1.   Please tick in the box as appropriate"
+    },
+    {
+      "id": "p2-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "2.   Window and skylight data should represent the major proportion of its use in the development.                                 (9/2014)"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Appendix B\n                                                          (PNAP APP-156)\n\n        OTTV of Resident’s Recreational Facilities Summary Sheet\n\n        Address:                                                                   BD Ref. No.\n\n         Building Type / Use :                    Resident’s Recreational Facilities\n       OTTV calculated by          □ 1. Registered Professional Engineers\n                       □ 2. Architect\n                       □ 3. Others, please specify :\n          Classification                            □ Podium / □ Tower\n        No. of Storeys (RRF)\n        Gross Floor Area                                                m²\n        Usable Floor Area                                               m²\n         Total External Wall Area (including                              m²           Window to Wall Ratio\n        windows)\n         Total Window Area                                         m²                =\n         Total Skylight Area                                              m²\n       **Weighted       Opaque Wall                                W/m²\n        Average U-value    Window                                   W/m²\n                       Opaque Roof                                W/m²\n                                Skylight                                    W/m²\n      Window             Glass Type    □ Reflective      Area=  m²        SC=           VLT=          ER=\n                                                              %         %\n                       □ Tinted         Area=  m²        SC=           VLT=          ER=\n                                                              %         %\n                       □ Clear          Area=  m²        SC=           VLT=          ER=\n                                                              %         %\n                          Double Glazing                   □ Yes □ No\n                              External                                    Overhang □ Yes □ No\n                           Shading                                              Sidefin □ Yes □ No\n         Skylight             Glass Type    □ Reflective      Area=  m²        SC=           VLT=          ER=\n                                                              %         %\n                       □ Tinted         Area=  m²        SC=           VLT=          ER=\n                                                              %         %\n                       □ Clear          Area=  m²        SC=           VLT=          ER=\n                                                              %         %\n                          Double Glazing                   □ Yes □ No\n                              External                      □ Yes □ No\n                           Shading                      □ Yes □ No\n       **Weighted        Wall\n        Average                          Roof         Absorptivity\n       **Weighted        Wall                                               kg/m²\n        Average Density                          Roof                                               kg/m²\n        OTTVRRF            Wall                                      W/m²\n                          Roof                                      W/m²\n                              Overall Average                              W/m²\n\n    ER = External Reflectance; SC = Shading coefficient & VLT = Visible Light Transmittance\n\n     ** Weighted by area\n\n     Notes :"
+    },
+    {
+      "id": "p1-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "1.   Please tick in the box as appropriate"
+    },
+    {
+      "id": "p2-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "2.   Window and skylight data should represent the major proportion of its use in the development.\n\n\n\n\n\n(9/2014)"
+    }
+  ]
+}

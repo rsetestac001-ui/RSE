@@ -1,0 +1,280 @@
+{
+  "code": "APP-137",
+  "source_text": "indexed_text/PNAP/APP/APP-137.txt",
+  "source_pdf": "documents/PNAP/APP/APP-137.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-137\n                          Registered Geotechnical Engineers\n\n\n              Ground-borne Vibration and Ground Settlement\n     arising from Pile Foundation and Excavation and Lateral Support Works\n\n\n               Pile  driving,  boring and  withdrawal  in  foundation  works,  similar\noperations in excavation and lateral support (ELS) works such as installation or extraction\nof temporary pile walls, collectively known as pile installation works, may cause\nvibrations and settlements.   Improper control of pile installation works may have\nadverse effects on, or cause damage to, adjacent buildings/structures/land/services, in\nparticular, non-structural elements therein."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            This  practice  note aims  to  provide  guidelines on  the  control  of\nground-borne vibrations and ground settlements arising from pile installation works with\na view to minimising possible damage to adjacent properties and streets.  Authorized\npersons (AP), registered structural engineers (RSE) and registered geotechnical engineers\n(RGE) are reminded that under the Buildings Ordinance (BO), it is their responsibility to\nensure that the building works carried out will not impair the stability of, or cause damage\nto any buildings/structures/land/services.  They should also exercise their professional\njudgment in choosing suitable and safe construction methods and provide vigilant\nsupervision over the works throughout the construction period.\n\nPile Foundation Plan and ELS Plan Submissions"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 751
+        }
+      ],
+      "text": "3.             Pile foundation plans and ELS plans submitted for approval should, in\ngeneral, follow the requirements laid down in the Code of Practice for Foundations 2017\n(Foundation Code) and Practice Note for Authorized Persons, Registered Structural\nEngineers and Registered Geotechnical Engineers (PNAP) APP-18.  AP/RSE/RGE’s\nparticular attention should be paid to the monitoring requirements and the required\nassessment at clause 7.2 of the Foundation Code for adjacent buildings/structures/land/\nservices in relation to the pile installation works.  Depending on the structural condition\nof the adjacent buildings/structures/land/services, the Building Authority (BA) may\nrequire the following details to be included in the assessment report:\n\n        (a)     Pre-construction condition survey with a full set of photographic\n              record   of   the   external  and  common   areas   of   the\n               buildings/structures/land/services that are vulnerable to vibration\n             and settlement damage.   If access to some internal areas can be\n              gained, the condition therein should also be recorded.\n\n\n\n\n\n                                                                                           /(b) …"
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n        (b)    Preliminary assessment including a vibration and settlement\n              assessment of the stability of the structural and non-structural\n              elements of adjacent buildings/structures/land/services under the\n                effect of  the expected ground-borne  vibrations and ground\n               settlements.  The assessment should cover the whole course of\n                pile installation works setting out clearly the types and duration\n              of the major vibration-generating construction activities.\n\n        (c)    Proposed  vibration and  settlement  control  limits (with due\n              consideration of the recommendations given in Appendix A of\n                 this practice note) and a monitoring proposal to monitor the\n            movements of adjacent grounds and buildings/structures/land/\n                services.   Critical locations for monitoring should be identified\n            by RSE/RGE and included in the monitoring proposal.\n\n        (d)      If vibration control limits greater than those given in Appendix A\n               are to be adopted, a detailed assessment of the magnitude of the\n             ground-borne vibrations generated by the pile installation works\n             should be made.  Under such circumstances, reference could be\n           made to the Foundation Code, BS ISO 4866 1 and Technical\n            Note 142 2  published by the Construction Industry Research\n               Information Association (CIRIA) 3 of the UK for such assessment\n              or  to any other  relevant  references acceptable  to  the BA.\n              Consideration should also be given to the cumulative effects from\n               the installation of all piles at the site.  The structural stability of\n                  all adjacent buildings/structures/land/services due to the effects\n              of ground-borne vibrations in item (c) above should also be\n              appraised by detailed engineering analyses.   In respect of the\n               vibration control of building works carried out within railway\n               protection areas, reference should be made to the requirements\n              given in Appendix B of PNAP APP-24.\n\n        (e)      If the site is situated close to buildings/structures/land/services\n                that are vulnerable to damage caused by the pile installation\n             works, a  trial pile proposal to validate the accuracy of the\n              assessments on the vibration and settlement and the effects of the\n                pile  installation works on adjacent  buildings/structures/land/\n               services (see paragraphs 9, 11 and 12 below).\n\n\n\n\n\n                                                                                                 /4. …\n\n\n\n\n1  BS ISO 4866 – Mechanical vibration and shock – Vibration of fixed structures – Guidelines\n   for the measurement of vibrations and evaluation of their effects on structures.\n2  Technical Note 142 – Ground-borne vibrations arising from pile installation.\n3  The website of CIRIA is http://www.ciria.org."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p4-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "4.                  It  should  be  noted   that  certain  types  of   piles   installed  by\npercussive/vibratory equipment may cause significant damage to vibration sensitive\nbuildings/structures/land/services such  as  those mentioned  in  clause  7.2.6  of  the\nFoundation Code.  Such method will not normally be accepted by the BA unless it can\nbe satisfactorily demonstrated to the BA by means of installation of trial pile(s) as\ndescribed below.  Prior to the installation of the trial piles, precautionary measures such\nas the provision of shoring for temporary support to cracked structural members of\nadjacent buildings may need to be provided."
+    },
+    {
+      "id": "p5-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "5.                If site formation plans involve ELS works such as the installation of\ntemporary pile walls including steel sheet piles, pipe piles or steel channel plankings, a\ndetailed   vibration   and   settlement   monitoring   proposal  on    all   adjacent\nbuildings/structures/land/services with details described in the above paragraph 3(a) to (d)\nshould also be included in the plans to be submitted to the BA for approval.   If the site\nis situated close to buildings/structures/land/services that are vulnerable to damage caused\nby the installation of temporary pile walls, a trial pile proposal as described in the above\nparagraph 3(e) should also be included in the plans for approval.\n\nRequired Actions prior to Commencement of Pile Installation Works"
+    },
+    {
+      "id": "p6-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "6.             Prior to the commencement of pile installation works, RSE is required to\nconfirm with the registered general building contractor (RGBC)/registered specialist\ncontractor (RSC) the method of construction including the maximum number of piles to\nbe  installed  concurrently  and  the  relevant  details  of  the  construction  plants.\nAP/RSE/RGE is also required to fulfill the requirements imposed by other government\ndepartments.  In case there are changes from the approved details, RSE should submit\nan amendment plan together with a re-assessment of the ground-borne vibrations and\nground settlements and, if necessary, revise and submit the assessment report for items\n3(b) and (c) above together with the amendment plan."
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          To address the concerns of the occupants of adjacent buildings affected by\nthe vibrations of pile installation works, AP/RSE/RGE/RGBC/RSC are advised to\nformulate a Public Relations Plan (PR Plan), setting out the actions to be carried out\nbefore and after the commencement of the pile installations, with reference to clause 7.2.7\nof the Foundation Code.  RSE is advised to submit the PR Plan to the BA for agreement\nprior to the commencement of pile installation works.\n\nTest/Trial Pile(s) for Vibration and Settlement Control"
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "8.                If the adjacent buildings/structures/land/services are not vulnerable to the\neffects of vibration from the pile installation works, the magnitude of ground-borne\nvibrations and ground settlements as assessed above can be verified during the installation\nof test pile(s).  Ground-borne vibrations should be measured as detailed in paragraph 11\nbelow and the associated settlements should be recorded upon the completion of the test\ninstallation.   The effects of the pile installation works on the adjacent buildings/\nstructures/land/services should also be assessed by the RSE/RGE during the installation\nof the test pile(s).\n\n\n                                                                                                 /9. …"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -"
+    },
+    {
+      "id": "p9-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "9.             In cases where buildings or structures that are particularly vulnerable to\nthe effects of vibration, such as declared monuments or masonry buildings, are in the\nproximity of the pile installation site, RSE/RGE should submit for approval a trial pile\nproposal to confirm the magnitude of ground-borne vibrations and ground settlements as\nassessed above,  at each  critical ground condition where generation of maximum\nground-borne vibrations and ground settlements will be expected (usually at the highest\nfounding level/obstruction at shallow depth/interbedded strata of rock and soil).  The\nnumber of such trial pile(s) would depend on the actual site condition in particular for\nvery large construction site."
+    },
+    {
+      "id": "p10-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "10.        AP/RSE/RGE will be required, under section 17 of the BO and in\naccordance with the Code of Practice for Site Supervision to provide quality supervision\nof the installation of test/trial piles to ensure the allowable limits of the ground-borne\nvibrations and ground settlements will not be exceeded."
+    },
+    {
+      "id": "p11-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "11.          For the vibration monitoring of test/trial pile installation, the maximum\nground-borne vibrations, measured in terms of peak particle velocity (ppv), should be\nrecorded at every meter length of penetration of pile, at final set and at levels where\nobstructions  are encountered.   The maximum ppv should be evaluated  at  three\northogonal axes measured at ground levels of the buildings/structures/land/services in the\nvicinity.  The monitoring readings should be taken by a properly calibrated device under\nthe direction of RSE/RGE with the agreement of the BA and the supervision of the\ntechnically competent persons (TCP) of AP/RSE/RGE/RGBC/RSC’s stream.    If the\nmeasured ground-borne vibrations have been found to exceed the allowable values or if\ndamage  to  either  the  structural  or  non-structural  elements  of  the  adjacent\nbuildings/structures/land/services has been observed, all pile installation works should be\nceased and the agreed precautionary measures referred to clause 7.2 of the Foundation\nCode should be reviewed by RSE/RGE.  The suspended pile installation works should\nnot be resumed until RSE/RGE’s review report and revision of precautionary measures,\nwhere necessary, have been submitted to the satisfaction of the BA."
+    },
+    {
+      "id": "p12-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "12.       A condition survey of  all  adjacent  buildings/structures/land/services\nshould be carried out after the completion of the trial piles for confirmation of the effects\nof the pile installation works.  Two sets4 of trial pile installation report on ground-borne\nvibrations and ground settlements and their effects on adjacent buildings/structures/land/\nservices should be submitted to the BA for consideration prior to the application for\nconsent to the commencement of the installation of the working piles.\n\nRequired Actions during the Pile Installation Works"
+    },
+    {
+      "id": "p13-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "13.        AP/RSE/RGE should review the site situation from time to time and if\nfound necessary, suspend the pile installation works, revise the precautionary measures\nand/or vibration monitoring proposal and submit them to the BA for agreement prior to\nresumption of the works.  Reference should be made to clause 7.2 of the Foundation\nCode.\n\n\n                                                           /Enhanced …\n\n\n4  Only one set of trial pile installation report is required if submission is made via BD’s\n   Electronic Submission Hub."
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 5 -\n\nEnhanced Control Mechanism"
+    },
+    {
+      "id": "p14-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "14.           Clauses 7.2.4 and 7.2.6 of the Foundation Code have set out a system of\nthree triggering levels (i.e. Alert, Alarm and Action Levels) as a useful tool for systematic\nmonitoring of any settlement and vibration arising from the pile installation works.  With\na view to enhancing the monitoring of ground and service settlements, as well as the\nresponse of buildings in vibration, it is advisable to elaborate the system to a five-tier\nsystem by sub-dividing the third tier Action Level into three sub-levels (i.e. Action Levels\n1, 2 and 3) so that AP/RSE/RGE could step-up actions earlier corresponding to the\nrespective trigger values of the Action Levels reached.  The provisional trigger values\nand the recommended contingency measures are given in Appendix A.\n\nEngineering Approach for Assessment of Ground and Services Settlement"
+    },
+    {
+      "id": "p15-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "15.            In addition to the adoption of the empirical limits given in the tables of\nAppendix A, RSE/RGE may adopt an engineering approach to establish a set of\nsite-specific limits for monitoring, by referring to Appendix C of PNAP APP-24.  The\nsite-specific limits for ground and services movement control derived by the engineering\napproach should be subject  to the  availability of information  for conducting the\nengineering assessment and analysis.  Acceptance of the assessment and analysis by the\nrelevant government authorities and/or permission of using the site-specific limits from\nthe owners of the adjacent buildings/structures/land/services to be affected by the pile\ninstallation works are required prior to plan approval by the BA on a case-by-case basis.\n\n\n\n\n\n                                                          ( YU Po-mei, Clarice )\n                                              Building Authority\n\n\n\n\n\nRef. :  BD/GP/BREG/C/36\n\nThis PNAP is previously known as PNAP 289\nFirst issue   May 2004\nLast revision  October 2018\nThis revision November 2024 (AD/NB2) (General revision)"
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix A\n                                                 (PNAP APP-137)\n\n\n    Recommended Ground Settlement and Ground-borne Vibration Limits\n\n\nGround Movements\n\n            Ground movements arising from pile installation works depend on several\nfactors including installation or extraction method, construction sequence, sub-soil\ngeology, groundwater conditions, layout of the pile installation works and workmanship.\nExcessive ground movements in the vicinity of the pile installation works may be\ndetrimental to adjacent buildings or structures with piles of inadequate lateral resistance\nor foundations with inherently low factors of safety, especially those supported by shallow\nfoundations.\n\nTolerable Ground Settlement, Services Settlement and Building Tilting Limits"
+    },
+    {
+      "id": "p2-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         As different structures will have different tolerance in accommodating\nmovements of their foundations, acceptance of estimated ground settlements should be\nconsidered on a case-by-case basis with respect to the integrity, stability and functionality\nof the supported structures."
+    },
+    {
+      "id": "p3-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           Provided that there are no particularly sensitive buildings/structures/land/\nservices in the vicinity, the following empirical limits may be taken as the provisional\ntrigger values of the Alert, Alarm, Action Levels 1, 2 and 3 (generally referred to as “5A”)\nfor the monitoring of pile installation works:\n\n                                                          Action\n   Instrument      Criterion      Alert   Alarm\n                                                 Level 1  Level 2  Level 3\n  Ground                  Total  settlement                12mm  18mm  20mm  22mm  25mm                  settlement  marker\n                  Total  Services                 12mm  18mm  20mm  22mm  25mm                  settlement and  settlement                          or        or        or        or        or                  angular  marker                         1:600    1:450    1:400    1:350    1:300                    distortion\n  Building       Angular                                1:1000    1:750    1:600    1:550    1:500   tilting marker   distortion\n\n\n\n\n                                                              /Ground-borne …\n\n\n\n\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Ground-borne Vibration Limits"
+    },
+    {
+      "id": "p4-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "4.             Similarly, in the absence of an engineering analysis on the response of\nvibration for buildings in the vicinity, the following empirical limits with the provisional\n5A trigger values may be used for reference:\n\n                            Guide Values of Maximum ppv\n                                       (mm/sec)\n                     Transient Vibration               Continuous Vibration Building                       (eg. drop hammer)                  (eg. vibratory hammer) Condition\n                                 Action                             Action\n             Alert Alarm  Level  Level  Level  Alert Alarm  Level  Level                                                                            Level 3                           1      2      3                   1      2\nRobust and\n   stable            9     12    13    14    15     4.5    6     6.5    7     7.5 buildings\n in general\n\n Vibration-\n  sensitive/              4.5    6     6.5    7     7.5    1.8    2.4    2.6    2.8    3 dilapidated\n buildings"
+    },
+    {
+      "id": "p5-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The recommended contingency measures for exceedance of the triggering\nlevels are listed as follows:\n\n   Triggering                                  Contingency Measures     Level\n               The monitoring should be enhanced by increasing the frequency of      Alert                 monitoring measurements and the number of check points.\n\n               The method of installation of the piles should be reviewed with the\n     Alarm      purpose of mitigating the detrimental effects arising from vibration\n                   or ground settlement.\n\n           A joint site inspection by AP/RSE/RGE/RGBC/RSC and relevant\n                   stakeholders should be carried out.  RSE/RGE should check the\n Action Level 1   stability and serviceability of the affected buildings/structures/land/\n                    services.  AP/RSE/RGE should propose and implement necessary\n                  remedial works after consulting the relevant stakeholders.\n\n\n                                                               /Action Level 2 …\n\n\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "RGBC/RSC  should  immediately  notify  the AP/RSE/RGE,\n                   relevant  authorities and  relevant  stakeholders.  A  detailed\n                    investigation, and checking the stability and serviceability of the\n                   affected buildings/structures/land/services should be conducted by Action Level 2             RGBC/RSC.  A joint site inspection should be carried out by\n              AP/RSE/RGE/RGBC/RSC.   RSE/RGE  should  review,  and\n                    revise, if necessary, the design and method statements for the pile\n                    installation or the works likely to have induced the trigger values.\n\n               The   corresponding   site  works   should   be   suspended.\n                  Construction activities should not be resumed until the necessary Action Level 3                 remedial  and  preventive  measures  have  been  completed\n                     satisfactorily."
+    },
+    {
+      "id": "p6-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 113
+        },
+        {
+          "label": "b",
+          "offset": 414
+        },
+        {
+          "label": "c",
+          "offset": 562
+        }
+      ],
+      "text": "6.          The “Action Level 3” contingency measures should be taken if any of the\nfollowing situations occurs:\n\n        (a)   Any monitoring station has a reading reaching the specific\n                trigger value based on serviceability limit1, or in the absence\n              of such engineering assessment, the provisional trigger value\n               for Action Level 3 is reached, whichever is applicable;\n\n        (b)   Undue settlement as indicated in any check points (e.g. an\n              increase of 5mm between two consecutive daily readings); or\n\n        (c)    Sign of distress or damages  is observed in any adjacent\n               buildings/structures/land/services.\n\n\n\n\n\n(11/2024)\n\n\n\n\n\n1  Serviceability limit is defined as the maximum calculated movements estimated in the design\n   or the maximum allowable movement or response of the adjacent ground, groundwater regime,\n   structures and services.\n\n                                                              - 3 -"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "code": "ADM-21",
+  "source_text": "indexed_text/PNAP/ADM/ADM-21.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-21.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered  Structural  Engineers  and   ADM-21\n                          Registered Geotechnical Engineers\n\n\n                        Site Parameters - Documentary Proof\n\nIntroduction\n\n         The maximum permissible site coverage (SC) and plot ratio (PR) of a\nproposed building are dependent on the area of the relevant site which should be under\nthe title of the applicant or his realistic prospect of control.  Other site parameters such\nas boundaries and their setting out are also essential to support the area and the\nclassification of site as claimed."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         Pursuant  to  regulation  8(1)(h)(i)  of  the  Building  (Administration)\nRegulations (B(A)R), the prescribed plans for the Authorized Persons (AP) to submit\nfor approval include a diagrammatic plan, with  full dimensions and calculations,\nshowing the  height, SC, PR and disposition of the building  in accordance with\nregulations 19, 20 and 21 of the Building (Planning) Regulations (B(P)R).  Item\n3(a)(1.1) Part C in Appendix A1 to PNAP ADV-33 on Essential Information in Plan\nSubmissions states that in applying for the approval of General Building Plans (GBP),\nAP are required to substantiate the site parameters with either a detailed lease plan or\nLand Survey Plan (LSP)."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.             It is AP’s responsibility to ensure that accurate site parameters are adopted\nin his building proposal.  Such parameters should be further updated as necessary\nbefore certifying that the buildings completed are in compliance with the Buildings\nOrdinance (BO).\n\nProofs of Site Parameters"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 54
+        },
+        {
+          "label": "b",
+          "offset": 253
+        },
+        {
+          "label": "c",
+          "offset": 449
+        }
+      ],
+      "text": "4.      Common proofs of site parameters may include:\n\n             (a) A lease plan showing details of lot (constituting the site) areas,\n               boundaries and setting-out coordinates prepared by the District\n              Survey Office (DSO);\n\n            (b) A LSP showing the details of lot (constituting the site) areas,\n               boundaries  and  setting-out  coordinates  prepared  by  an\n              Authorized Land Surveyor;\n\n             (c) Lease  documents  specifying  the  approximate  areas  and\n               boundaries  of  the  lots  which  form  the  site  but  without\n                 setting-out coordinates;\n\n\n                                                                                  /(d) …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n            (d) Deed Polls of subdivided lots with lot areas and boundaries\n              forming the site which may or may not have the setting-out\n                coordinates; and\n\n             (e) Approved GBP of the existing buildings with area of site shown\n                 in the calculation of SC and PR.\n\nSubstantiation before Consent Application for Superstructure"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          Either Item 4(a) or 4(b) above, which bears accurate information on site\nparameters, is acceptable by BD for processing GBP.  Other sources of information as\nstated in 4(c) to 4(e) can only be taken as provisional reference to facilitate plan\napproval.  Before application for consent to commence superstructure works, 4(a) or\n4(b) has to be submitted to BD.  Conditions to this effect will be imposed under\nregulation 10 of B(A)R in the approval of GBP.\n\nDiscrepancies among Sources of Information"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.            If plans in 4(a) or 4(b) above show a discrepancy in site parameters with any\nother documents in paragraph 4 above, either of the former two sources of documents\nwill generally be referred to for the purpose of processing GBP.  AP should refer to\nsection 14(2) of BO in this regard."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.        Should there be a situation when 4(a) and 4(b) co-exist and there is a\ndiscrepancy between them, AP should provide the rationale for adopting either in the\nGBP for BD’s acceptance before applying for the superstructure consent."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.           After the approval of GBP, if plans in 4(a) or 4(b) subsequently submitted\nor other situation shows actual site parameters different from those on the approved\nGBP affecting the approved building layout, SC or PR, amended GBP have to be\nsubmitted correspondingly before the application for superstructure consent can be\nprocessed.\n\nNumber of Decimal Places of Figures on LSP"
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.        The decimal place on the presentation of site areas computed in accordance\nwith the Code of Practice issued under the Land Survey Ordinance (Cap. 473) (Code)\nwill be adopted by BD for the purpose of GBP.  Under the Code, lot (constituting the\nsite) co-ordinates and dimensions should be recorded and shown on plans to 0.001 of a\nmetre and the areas shall be rounded off (5 up 4 down) to the nearest 0.1m2 for area\nunder 2000m2 and to the nearest 1m2 for area of 2000m2 and above.\n\n\n\n\n\n                                                              /Two …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n\n\nTwo Sets of LSP Required"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.          If LSP is used as proof of site parameters, two sets of the LSP are required\nto be submitted to BD.  One set of LSP will then be referred under the central\nprocessing system to the District Lands Office (DLO) for keeping in the DSO1.  AP\nmay take the opportunity to attach relevant documents as required2 by DLO with this\nset of LSP.\n\n\n\n\n\n                                                               ( CHEUNG Tin-cheung )\n                                                    Building Authority\n\n\n\n\n\nRef. :  BD GR/1-55/273\n           First issue January 2017 (AD/NB1)\n\n\n\n\n\n1 The LSP has to be prepared in accordance with the Code of Practice issued under Cap. 473.  For the\n  set to be kept in DSO for information sharing purpose, it should be submitted together with (i) a duly\n  completed form SMF-0043, (ii) a survey report and (iii) a survey record plan.  Refer to Practice Note\n  Issue No. 2/2013 promulgated by the LandsD.\n2 Refer to Lands Administration Office Practice Note Issue No. 4/2008 promulgated by the LandsD on\n  Measures to Avoid Encroachment onto Government Land requiring AP to ensure that the proposed\n  building works will not encroach onto Government land."
+    }
+  ]
+}

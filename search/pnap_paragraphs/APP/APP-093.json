@@ -1,0 +1,335 @@
+{
+  "code": "APP-093",
+  "source_text": "indexed_text/PNAP/APP/APP-093.txt",
+  "source_pdf": "documents/PNAP/APP/APP-093.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and        APP-93\n                           Registered Geotechnical Engineers\n\n\n\n                  Planning and Design of Drainage Works\n\n\n            This practice note sets out the requirements for the planning and design\nof drainage works for new buildings.\n\nIntroduction"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           In the course of carrying out drainage repair and maintenance, difficulties\nhave often been encountered in obtaining access to both the underground drains and\nabove ground drainage pipes which run under/inside private premises such as shops\n(in particular restaurants and restaurant kitchens) and domestic units under separate\noccupancies.  Both investigation and repair works, which may necessitate entry into\nprivate premises, opening up of floor slabs, and trench excavations, will cause much\ninconvenience to the occupants.  In the worst cases, the premises may have to be\nclosed to effect the repair works.\n\nImprovement"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 219
+        },
+        {
+          "label": "b",
+          "offset": 467
+        }
+      ],
+      "text": "3.           In order to obviate such access difficulties and to facilitate the future\nmaintenance of common drains, I shall require under section 28(1) of the Buildings\nOrdinance that the following be complied with: -\n\n\n        (a)  Except drains in car-parking floors, all common underground\n             drains for new buildings shall run in a space or land which is\n              ‘sterilized’ or otherwise designated as common parts of the\n             building;\n\n\n        (b)  Where internal common soil and waste stacks are proposed in\n            domestic buildings not intended for  single occupancy, such\n             stacks shall be located in the common parts of the building.\n          Where pipe-ducts or pipe wells are proposed to house common\n               soil and waste stacks, they shall satisfy the following criteria\n             respectively : -\n\n                 (i)   Pipe Ducts\n\n                    (1)  These  pipe-ducts  shall  be  accessible  from  the\n                 common parts of the building;\n\n                    (2)  An unobstructed working space, of not less than 700\n             mm  in  front of the pipes,  shall be provided for\n                     maintenance and repair of the pipeworks; and\n\n                                                                                        /(3) ….."
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n            (3)  The  doors  or  panels  providing  access  to  the\n                pipe-ducts shall not be less than 600 mm wide by\n             2000 mm high and shall comply with Part C of the\n             Code of Practice for Fire Safety in Buildings 2011.\n\n        (ii)   Pipe Wells\n\n            (1)  The size of pipe well shall not be less than 1200 mm x\n              1500 mm;\n\n            (2)  No opening will be allowed in a pipe well other than\n                access points for inspection and maintenance, which\n                   shall be from  the common  parts  of  the  building.\n               Access points shall be provided to the pipe well at not\n             more than 21 storeys apart;\n\n            (3)  Cat ladder with proper guard rings shall be installed in\n                 the  full height of the pipe well for inspection and\n               maintenance purposes;\n\n            (4)   Grating platforms shall be provided at intervals of not\n             more than 4 storeys;\n\n            (5)  The opening at every access point shall not be less\n                than 600 mm wide by 2000 mm high and  shall\n             comply with Part C of the Code of Practice for Fire\n                Safety in Buildings 2011; and\n\n            (6)  A ventilation opening having a minimum net area of\n                  1/10th of the horizontal area of the pipe well shall be\n               provided at both the top and bottom of the pipe well;\n\n\n     Subject to paragraph 4 below, the area of pipe ducts and pipe\n     wells could be exempted from the gross floor area (GFA)\n      calculations.  Open pipe wells may also be exempted from site\n     coverage calculations. A sample illustration of the design of a\n     pipe well is attached at Appendix A for general reference.\n\n\n(c)  The lowest level of re-entrants and light wells housing external\n      soil and waste stacks shall be designated as common parts of the\n     building and such parts shall be provided with adequate access\n     which could be in the form of cat-ladder where necessary, for\n     carrying out maintenance works and cleansing;\n\n\n(d)  For domestic buildings other than those intended for single\n     occupancy or single family residence, no pipeworks for a unit\n      shall protrude into the unit under separate occupancy on the\n      floor below;\n\n\n                                                                                /(e) ….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n        (e)  Except  for  buildings  not  more  than  three  storeys  high,\n             separate pipework discharging to a manhole shall be provided to\n            serve the sanitary fitments at the floor, which is at the same\n              level as the bottom of the waste/foul water stack;\n\n\n         (f)  The nominal diameter of every  soil pipe from water closet\n             fitments or slop sinks shall be not less than the diameter of the\n              outlet of any of the fitments it serves; and\n\n\n        (g)   Soil and wastewater pipes shall only have bends where a change\n              in direction  is unavoidable.  The radius of the bends at the\n           bottom of stacks shall under no circumstances be less than four\n            times the radius of the stack measured from the  centerline\n           whenever practicably possible, but under no circumstances be\n              less than 200 mm measured from the centerline."
+    },
+    {
+      "id": "p4-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "4.             If the pipe ducts and/or pipe wells are proposed to house pipes for\nrainwater, soil and wastewater disposal, as well as other pipeworks which are part of\nthe distribution network for non-mandatory feature / non-essential plant room1, the\nexemption  described  in  paragraph  3(b) above may  only be  granted  subject  to\ncompliance with the pre-requisites and the overall cap on GFA concessions stipulated\nin PNAP APP-151 on Building Design to Foster a Quality and Sustainable Built\nEnvironment."
+    },
+    {
+      "id": "p5-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "5.        To  provide  flexibility  in  the  design  of  pipeworks  to  satisfy  the\nrequirement set out in paragraph 3(d) above, the Building Authority is prepared to\nconsider an application for modification of regulation 25(1) of the Building (Standards\nof Sanitary Fitments, Plumbing, Drainage Works and Latrines) Regulations to permit\nthe total length of pipeworks from a bathtub or shower tray to a trap up to 750 mm at\na minimum gradient of 1:40.   If sunken slab design is adopted for accommodating\npipeworks   (including  both   vertical  and   horizontal   pipes)   associated  with\nbathroom/lavatory/kitchen in domestic units, the void space between the floor finish and\nthe sunken slab shall not be backfilled with concrete or similar materials which may\ncause obstruction to future repair and maintenance of the pipeworks.  On occasions\nwhere the backfilling of such void space is unavoidable, sufficient access points (such\nas by means of access panels of appropriate size and/or cleaning eyes extended to the\nfinished floor level from such pipeworks) should be provided to facilitate inspection of\nevery part of such pipeworks and clearance of any blockage thereof.  To cater for\ninspection of such pipeworks in the void space in future, arrangement can be made for\nsuch inspection to be carried out with the assistance of appropriate device (such as\nportable type camera or CCTV imaging device) through the access points.  Authorized\nPersons (APs) are also advised to draw the attention of building owners that the floor\nfinish of the sunken slab design may need to be opened up and subsequently reinstated\nfor the carrying out of pipe repair and maintenance works (such as pipe replacement or\nrepairing of leaking joints) as necessary in future.\n\n                                                                                  /6. ……\n\n1 See PNAP APP-151 on examples of non-mandatory feature / non-essential plant room."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -"
+    },
+    {
+      "id": "p6-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          Reference shall be made to PNAP ADV-14 on the  facilities for the\nmaintenance of external building drainage pipes.  Consideration for separate pipes in\nzones for high  rise buildings  shall also be made  in the design stage for future\nmaintenance and repair."
+    },
+    {
+      "id": "p7-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "7.             If architectural features are proposed to enclose external drainage pipes\nfor  achieving  a  better  elevation  design,  the AP  should  provide  an  effective\narrangement for visual inspection of the pipes including pipe connexions, fixing of\npipes, etc. to enable the detection or inspection of any defect, leakage or insanitary\ncondition of the pipes in a convenient and safe manner, where necessary.  The access\nfor inspections and maintenance should be from the common parts of the building and\nshown on the submitted drainage plans and incorporated in the corresponding building\nplans.  An example of an effective arrangement  is provided  at Appendix B for\nreference.  For the avoidance of doubt, pipes partially screened by architectural\nfeatures complying with the criteria in Appendix C are not regarded as enclosed by\narchitectural features for the purpose of this paragraph."
+    },
+    {
+      "id": "p8-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "8.         While  the requirement  set out  in paragraph 3(d) does not apply  to\nnon-domestic premises, APs are encouraged to adopt the same arrangement, wherever\npossible, for drainage pipes in such premises.\n\n\n\n\n\n                                                                          ( HUI Siu-wai )\n                                                       Building Authority\n\n\n\n\n\nRef. :  BD GP/BORD/21 (III)\n       BDGP/BREG/P/49 (V)\n      BD GP/BORD/21 (IV)\n\n\nThis PNAP is previously known as PNAP 211\nFirst issue  August 1997\nLast revision  September 2012\nThis revision  May 2014 (AD/NB1)   (Para. 7, Appendices B & C added and\n                                         previous para. 8 deleted)"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 1 -\n\n                                                                           (PNAP APP-93)\n\n\n\n\n\nDOOR WITH FRR NOT LESS\nTHAN THAT OF THE\nENCLOSURE WALL AT\nACCESS POINT AT NOT\nMORE THAN 21 STOREYS\nAPART"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "- 2 -\n\n\n\n\n\nDOOR WITH FRR NOT LESS THAN\nTHAT OF THE ENCLOSURE WALL\nAT ACCESS POINT AT NOT MORE\nTHAN 21 STOREYS APART\n\n\n\n\n\nAT"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "- 3 -\n\n\n\n\n\n  DOOR WITH FRR NOT LESS THAN THAT OF THE\n  ENCLOSURE WALL AT ACCESS POINT AT NOT\n  MORE THAN 21 STOREYS APART\n\n\n\n\n\n(Rev. 9/2012)"
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Appendix B\n                                                 (PNAP APP-93)\n\n\n\n            Example of Effective Arrangement for Inspection of\n          External Drainage Pipes enclosed by Architectural Features"
+    },
+    {
+      "id": "p1-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "1.       The architectural features and enclosed space should comply with the\ndesign and construction requirements in Annex 1 of this Appendix to facilitate the use\nof CCTV imaging device 1 for inspection of the drainage pipes.  The schematic\ndiagrams showing relevant details of the arrangement are provided in Annex 2 of this\nAppendix for reference."
+    },
+    {
+      "id": "p2-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 148
+        },
+        {
+          "label": "b",
+          "offset": 473
+        },
+        {
+          "label": "c",
+          "offset": 612
+        }
+      ],
+      "text": "2.     A letter by the owner or developer should be submitted to undertake that\nthere will be a provision in the Deed of Mutual Covenant (DMC) to :\n\n      (a)   require the property management company to provide a suitable2\n       CCTV imaging device and trained personnel to operate the device,\n           or  secure a  contract with a  service  provider  for conducting\n            inspection of the concealed drainage pipes by a suitable2 CCTV\n          imaging device;\n\n      (b)   designate the access and working space required in Annex 1 of\n             this Appendix as common parts of the building; and\n\n      (c)   require regular inspection of the subject pipework on a specified\n            interval as proposed by the authorized person (AP) to alert any\n            early  signs  of  water  leakage  and  pipe  joints/pipe  brackets\n            conditions."
+    },
+    {
+      "id": "p3-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "3.       Where no DMC is to be in force for a development, a letter by the owner\nor developer should be submitted to undertake either to provide a suitable2 CCTV\nimaging device and trained personnel to operate the device, or enter into a contract\nwith a service provider for conducting inspection of the concealed drainage pipes by a\nsuitable2 CCTV imaging device.  Similar arrangement should be incorporated into the\nSales and Purchase Agreement, Assignment, Tenancy Agreement or conveyance\ndocument including the provisions in paragraph 2 above to be added in the DMC\nwhenever one is formed such that the future owners and tenants are aware of their\nrights and liabilities.\n\n\n1  CCTV imaging device is a camera with built-in light source attached to the end of a long\n    cable connected to a portable computer with monitor.   It enables instant inspection of\n    confined spaces using the monitor, and provides video and snap shot recording functions.\n   The recorded images / videos provide information on the distance checked by the camera.\n   Depending on the supplier and model, the length of the cable can be up to 120m.\n\n2   The length of the cable of the CCTV imaging device should be sufficient to cover all pipes\n    between the access openings required under Item 2.1 of Annex 1 of this Appendix.\n\n                                                            - 1 -"
+    },
+    {
+      "id": "p4-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "4.       Upon completion of the installation of the architectural features and prior\nto an application for an occupation permit, the external drainage pipes concealed by\nthe architectural features should be inspected by a CCTV imaging device under the\nsupervision of the AP or his representative who should subsequently endorse the\ninspection results on site.  In support of the application for an occupation permit, the\nAP should submit a  “certificate on completion  of  inspection of drainage  pipes\nconcealed by architectural features” in Annex 3 of this Appendix together with the\nendorsed inspection records.\n\n\n\n\n\n(5/2014)\n\n\n\n\n\n                                                            - 2 -"
+    },
+    {
+      "id": "page-10-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Annex 1 of Appendix B\n                                                 (PNAP APP-93)\n\n                    Construction and Design Requirements"
+    },
+    {
+      "id": "p1-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "1.       Size of architectural features, concealed space and ventilation openings\n\n1.1    No part of the architectural feature should project more than 500mm from\n          the external wall.\n\n1.2     The width of the concealed space should be adequate for proper fixing and\n         function of the pipes and the maneuvering of the camera within the space.\n\n1.3    A permanent ventilation opening having a net area not less than 50% of the\n          horizontal area of the concealed space should be provided at both the top and\n        bottom of the concealed space."
+    },
+    {
+      "id": "p2-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "2.       Access for inspection\n\n2.1    An access opening should be provided for lowering the camera to inspect the\n         pipes in the concealed space.  Depending on the length of the cable of the\n      CCTV imaging device proposed by the Authorized Person, additional access\n         openings should be provided at different floors as necessary.\n\n2.2      Convenient and safe access to the access opening should be through the\n       common parts of the building.\n\n2.3     The size of the access opening should be not less than 300mm x 300mm to\n           facilitate the dropping and maneuvering of the camera. The access opening\n         should be directly connected to a vertical passage 1 within the concealed\n         space for inspection.   Additional access openings should be provided  if\n          additional vertical passages are required under Item 3.3 below.\n\n2.4      Except under Item 2.5 below, the access opening should be within 600mm\n          horizontal distance from the floor / roof for operating the CCTV imaging\n         device safely.\n\n2.5     For an access opening which is away from the floor or roof area, a safety\n         device such as cast-in anchor device promulgated in PNAP ADV-14 should\n        be provided.\n\n2.6     The lowest  level of the concealed space should be accessible from the\n       common parts of the building.\n\n2.7     Adequate working space (including the lowest level of the concealed space)\n         should be designated as common parts of the building for carrying out\n         maintenance works.\n\n\n\n1   Since the camera is dropped down from a point above the pipes in the concealed space, a\n    vertical passage (Items 3.1 to 3.4 refer) along the entire height of the concealed space is\n    required for the camera to pass through and to capture views of the pipework being\n    inspected.\n\n                                                       - 1 -"
+    },
+    {
+      "id": "p3-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "3.      Maneuvering space for the camera during inspection\n\n3.1     The vertical passage should be unobstructed along its entire height and be\n          free from pipework, brackets or other fixtures inside the space.\n\n3.2     The vertical passage should have a minimum clearance of 120mm in front of\n            all pipes that need to be inspected.\n\n3.3    When providing a single vertical passage to inspect every pipework is not\n          possible, additional vertical passages each of not less than 120mm diameter\n         should be provided to ensure each pipe can be viewed from the camera along\n           at least one of these vertical passages.\n\n3.4      Signage to show the floor number should be provided inside the enclosed\n         space for easy checking and proper record."
+    },
+    {
+      "id": "p4-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 910
+        },
+        {
+          "label": "b",
+          "offset": 1055
+        }
+      ],
+      "text": "4.       Access to pipes\n\n4.1     At least one side of the architectural feature along the entire height of the\n         concealed space should be demountable for carrying out maintenance works.\n         All demountable panels must be provided with a safety chain  to avoid\n          accidental falling off during maintenance.  Details of the demountable panel\n         should be included in the structural plans of the architectural features for\n         approval.\n\n4.2     The demountable panels should be of such size and so situated that sufficient\n         access is available to all pipe connexions and clearing eyes for clearance of\n          obstruction by cleaning rods.\n\n4.3     The  recommended  provisions  for  providing   facilities   for   external\n         maintenance of buildings promulgated in PNAP ADV-14 should be provided\n        and indicated on the building plans and structural plans:\n\n           (a)  For maintenance works using gondola system2, it should be ensured that\n               the gondola can actually reach all pipes.\n\n          (b)  For curtain wall buildings or facades that will be fully covered by\n              cladding  without gondola system complying with  Item  (a) above,\n             anchor points for erection of bamboo scaffolding must be built-into the\n               curtain wall / cladding system and at least one anchor point on each\n               side of the concealed space should be provided at each floor."
+    },
+    {
+      "id": "p5-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "5.       Reference diagrams\n\n5.1      Schematic diagrams showing relevant details of the operation of the CCTV\n        imaging device are provided at Annex 2 of this Appendix for reference.\n\n\n\n(5/2014)\n\n2   Gondola system should be installed in the building before the application of the occupation\n    permit.\n\n                                                       - 2 -"
+    },
+    {
+      "id": "page-12",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        12
+      ],
+      "text": "Annex 2 of Appendix B\n\n                                                 (PNAP APP-93)\n\n   Schematic Diagrams of Inspection by CCTV Imaging Device for Reference\n\n\n\n                                                               Cable roll (connecting computer\n                    Access opening                                                        and monitor not shown)\n\n\n                                             COMMON PARTS OF THE\n                      CCTV camera\n                                                              BUILDING\n\n\n                    Concealed space\n\n\n\n\n                                                            Internal\n          Unobstructed vertical space                  area\n\n\n    Section\n\n\n\n\n                                                                                  External finishing\n\n                                                                    Demountable panel with safety\n                                                                              chain (for maintenance)\n                                     Internal area\n\n                                                                         Unobstructed vertical space\n                                                                                      for inspection by camera\n                                                                                 (min. 120mm dia.) providing\n                                                                                      clear view of all pipes\n\n\n                                                     Maximum depth for GFA exemption is\n   Layout Plan                                      500mm\n\n\n                                     External finishing        Architectural feature\n                                                            enclosing pipework\n\n\n\n\n                                     Internal area                          External finishing\n\n                                                                  Unobstructed vertical space\n                                                                             for inspection by camera\n                                                                         (min. 120mm dia.) providing\n                                                                             clear view of all pipes\n\n\n\n                                    500mm    Maximum depth for GFA exemption\n\n                                                                            Architectural feature with\n                                                              demountable panel with safety\n                                                                      chain (for maintenance)\n   Layout Plan\n\n                                                                          External finishing\n\n\n\n(5/2014)"
+    },
+    {
+      "id": "page-13-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        13
+      ],
+      "text": "Annex 3 of Appendix B\n                                                  (PNAP APP-93)\n\n\n                     Certificate on Completion of Inspection of\n             Drainage Pipes Concealed by Architectural Features\n\n\n                                     BD Ref. :\n\n                                                     Date :\n\n    Re : __________________________________________________________\n\n                 (Address and lot description of development site)\n\n\n\nTo the Building Authority,\n\n\n              I, (name in  full) _______________________________, authorized person\nconfirm that * I / my representative ( ______________________________________ )\nhad witnessed the inspection of drainage pipes concealed by architectural features\nwhich was carried out at the captioned site on                                        .  Pursuant to\nAppendix B of PNAP APP-93 and regulation 44 of the Building (Administration)\nRegulations,  I submit  the inspection  results with record plans of drainage pipes\ninspected, duly endorsed by me, in support of my Form BA 13 submission dated\n                        ."
+    },
+    {
+      "id": "p2-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          I certify that the above inspection has been properly carried out and I am\nsatisfied with the results of the inspection.\n\n\n\n\n\n                                                       Signature# of authorized person\n\n                        Certificate of Registration No. #:\n\n                     Date of expiry of registration#:\n\n\n\n\nc.c.  Registered General Building Contractor\n\n* Delete whichever is inapplicable\n# In accordance with the registration record\n\n\n(5/2014)"
+    },
+    {
+      "id": "page-14-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        14
+      ],
+      "text": "Appendix C\n                                                  (PNAP APP-93)\n\n                          Criteria for Partial Screening of\n\n               External Drainage Pipes by Architectural Features"
+    },
+    {
+      "id": "p1-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "1.  The pipes should be exposed to the external at least on one side in accordance with\n\n     Item 2 below and should not be obstructed by other building services, fittings or\n\n      fixtures in accordance with Figure A;"
+    },
+    {
+      "id": "p2-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "2.  The exposed side may be screened by permeable architectural features of not less\n\n     than 70% permeability* subject to the provision of a vertical zone with a minimum\n\n     height of 800 mm at each floor level such that the pipes and branch pipes for that\n      floor will not be screened by any architectural feature (Figure B refers); and"
+    },
+    {
+      "id": "p3-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "3.  No part of the permeable architectural features should project more than 500mm\n\n     from the external wall.\n\n\n\n                   OUTSIDE              INSIDE          OUTSIDE             INSIDE\n\n\n                                                                                              (unacceptable as (acceptable drainage pipe               \n                                             PIPES                               PIPES         the outermost pipe     layout may be provided with\n                                                                                                  screening off the    permeable architecture\n                                       EXTERNAL                       EXTERNAL     pipes behind)     features)\n                                   WALL                        WALL\n\n\n                                       ARCHITECTURE                   ARCHITECTURE\n                                       FEATURE                        FEATURE\n\n\n                       Figure A : Layout Plans of Exposed Pipes\n\n\n\n\n                                                                    TYPICAL FLOOR\n\n            Permeable architectural\n              features of not less than\n          70% permeability*\n\n\n                                                                    TYPICAL FLOOR\n\n         Minimum 800 mm high\n             vertical zone exposing the\n           pipes and branch pipes to\n          be provided for each floor\n\n                                                                    TYPICAL FLOOR\n\n\n        Figure B : Elevation of Architectural Features on the Exposed Side\n\n ________________________\n\n *    Permeability means the visual and physical porosity of the architectural features.\n\n (5/2014)"
+    }
+  ]
+}

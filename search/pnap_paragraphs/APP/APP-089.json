@@ -1,0 +1,161 @@
+{
+  "code": "APP-089",
+  "source_text": "indexed_text/PNAP/APP/APP-089.txt",
+  "source_pdf": "documents/PNAP/APP/APP-089.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and        APP-89\n                          Registered Geotechnical Engineers\n\n\n                          Provision of Better Lift Service\n\nIntroduction\n\n              This practice note sets out the guidelines on the provision of lifts in buildings\nfor domestic and office use with a view to promoting better lift services, thereby improving\nthe quality of life for the occupants of domestic and office buildings.\n\nBackground"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            Areas of lifts and lift shafts in a building are accountable for site coverage\n(SC) and gross floor areas (GFA) under regulations 20 and 23(3)(a) of the Building\n(Planning) Regulations."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            Except for fireman’s lifts and accessible lifts required to be provided for\npersons with a disability, no requirements and dimensions are spelt out in the Buildings\nOrdinance and regulations which govern the adequacy of lift service. To maximise the\nusable floor area of a building, it has been quite common that only the minimum area is\nallowed for the provision of lifts, occasionally at the expense of comfort and convenience of\noccupants of the building.\n\nQuality of Lift Service"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.             In general, the quality of  lift service depends on a number of factors\nincluding the number and size of the lifts provided, their handling capacity, travelling time\nand waiting time. Having regard to the aspiration for better lift service and the effect on\nbuilding density, the Building Authority may favourably consider to allow areas of lift shafts\nexceeding the average standard to be excluded from GFA and SC calculations subject to the\ncriteria specified in paragraphs 5 and 6 below.\n\nGFA Exemption"
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 231
+        }
+      ],
+      "text": "5.          The total area of lift shafts1 that may be exempted from GFA calculation\nshould be obtained as follows:\n               Lifts serving domestic accommodation in domestic/composite\n              buildings including hotels\n\n       (a)     For domestic and composite buildings including hotel buildings, the\n               area of lift shafts over and above 2.5% of the total domestic/hotel\n\n                                                         /GFA …\n\n1  Includes lift shafts at podium floors with lobbies solely serving the domestic/hotel/office\n   accommodation, but excludes lift shafts serving GFA non-accountable storeys like refuge\n    floor."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n         GFA may be exempted provided that the total  lift shaft area\n            exempted should in no case be in excess of 3.5% of the total\n              domestic/hotel GFA of the proposed building, i.e. if the lift shaft\n               area is more than 6% of the total domestic/hotel GFA, then the\n          maximum exempted area will be 3.5% of the total domestic/hotel\n           GFA.\n\n               Lifts   serving    office   accommodation   in    office   or\n              office/commercial buildings with GFA of the office floors less\n             than 10 000 m2\n\n      (b)     For office and office/commercial buildings, the area of lift shafts\n              over and above 5% of the total GFA for office accommodation2\n          may be exempted provided that the total lift shaft area exempted\n              should in no case be in excess of 3% of the total GFA for office\n             accommodation, i.e. if the lift shaft area is more than 8% of the total\n         GFA for office accommodation, then the maximum exempted area\n               will be 3% of the total GFA for office accommodation.\n\n               Lifts   serving    office   accommodation   in    office   or\n              office/commercial buildings with GFA of the office floors equal\n              to or more than 10 000 m2\n\n       (c)      Subject to (d) below, the area of lift shafts over and above 3.5% of\n               the total GFA for office accommodation may be exempted provided\n                that the total lift shaft area exempted should in no case be in excess\n              of 2.5% of the total GFA for office accommodation, i.e. if the lift\n                shaft  area  is more  than 6%  of  the  total GFA  for  office\n             accommodation, then the maximum exempted area will be 2.5% of\n               the total GFA for office accommodation.\n\n      (d)     For buildings with GFA between 10 000 m2 and 12 000 m2 for\n                office accommodation, a maximum exempted area of 300 m2 may\n             be allowed.\n\nSC Exemption"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          The maximum area to be exempted from SC calculation should be obtained\nthrough dividing the total lift shaft area to be exempted from GFA calculation obtained under\nparagraph 5 above by the number of storeys occupied by such lift shaft(s)."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.         An example illustrating the exemption of GFA and SC set out in paragraphs\n5 and 6 above is at Appendix A.\n\nPre-requisites for Granting Exemption"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.            Modification for exemption of lift shaft area from GFA and SC calculations\nwill only be considered if the following criteria are met:\n\n                                                                                            (a) …\n\n2  Includes use and facilities ancillary to office accommodation but excludes other commercial\n   use in the case of office/commercial building."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n       (a)      the internal area of each  lift car and  lift shaft for domestic or\n             composite building is not less than 1.82m2 and 4.12m2 respectively;\n       (b)      the internal area of each lift car and lift shaft serving the office\n             accommodation is not less than 2.1m2 and 4.4 m2 respectively; and\n\n       (c)      the application is accompanied by an assessment from a registered\n                     lift engineer (means a person whose name is included in the register\n             under section 105 of the Lifts and Escalators Ordinance (Cap. 618))\n               or a registered professional engineer (means a person whose name\n                  is included in the  register under section 7 of the Engineers\n               Registration  Ordinance  (Cap.  409)  in  the  building  services\n                discipline) certifying that, according to international codes, the lift\n               service to be provided is above the acceptance level of service in\n              terms of handling capacity and waiting time and that there is\n              adequate manoeuvring space for the carrying out of maintenance\n              works."
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          The granting of GFA and SC exemption set out in this practice note is subject\nto compliance with the pre-requisites stipulated in PNAP APP-151 on Building Design to\nFoster a Quality and Sustainable Built Environment.\n\nApplication"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.           Buildings already issued with occupation permits will not be considered for\nGFA and SC exemption set out in this practice note. For new projects on which building\nworks are in progress, an application for exemption may be considered if it can be established\nthat an enhanced standard of  lift service has been incorporated in the building under\nconstruction."
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.         The rules on exemption in this practice note are also applicable to projects\nunder development in phases. For the avoidance of doubt, completed phases will not be\nconsidered and there should not be transfer of GFA and SC between any completed phases\nand other phases yet to be completed. An example illustrating the GFA and SC exemption\nin phased development is at Appendix B.\n\n\n\n\n\n                                                               ( HO Chun-hung )\n                                                Building Authority\n\n\nRef.  : GP/BREG/P/35 (II)\n\nThis PNAP is previously known as PNAP 207\nFirst issue    August 1997\nLast revision  January 2013\nThis version  June 2025 (AD/NB1) (General revision)"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                  (PNAP APP-89)\n\nAn Example Illustrating GFA and SC Exemption for Office/Commercial Buildings\n\nI.      Site particulars\n        Site area : 2 000m2\n       Permissible Non-domestic Plot Ratio (PR) : 15\n       Permissible Non-domestic SC (not exceeding 15m) : 100% (or 2 000m2)\n       Permissible Non-domestic SC (over 15m) : 65% (or 1 300m2)\n\n\n\n\n\nII.    Exemption on GFA\n      •   Proposed GFA for retail podium : 6 000m2\n      •   Proposed GFA for office tower : 24 000m2\n      •    Lift shaft areas provided for office accommodation :\n       6% of the GFA for office use\n      •   Exempted area  (i.e. over and above 3.5% of the total GFA for office\n          accommodation) :\n         24 000m2 x (6% - 3.5%)\n        = 600m2 (not exceeding 2.5% of the GFA for office accommodation)\n      •   Accountable GFA for PR calculation :\n         6 000m2 + 24 000m2 - 600m2\n        = 29 400m2 (i.e. PR of 14.7) (not exceeding the permissible PR)\n\nIII.   Exemption on SC\n      •   Covered area accountable for SC (over 15m) : 1 320m2 (or 66%)\n      •  Number of storeys in office accommodation occupied by lift shaft(s) with\n       GFA exempted  : 20\n      •   Exempted area for SC :\n         600m2 ÷ 20 = 30m2 (i.e. SC of 1.5%)\n      •   Accountable SC\n        66% - 1.5% = 64.5% (not exceeding the permissible SC)\n\n(Rev. 6/2025)\n\n\n                                                        - 1 -"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Appendix B\n                                                  (PNAP APP-89)\n\n\nAn Example Illustrating GFA and SC Exemption for a Phased Development\n\nI.    Site particulars\n\n      (a)   Site area : 10 000m2\n           Permissible domestic PR : 5\n           Total permissible GFA : 50 000m2\n           Permissible domestic SC : 40% (or 4 000m2)\n\n      (b)   For development in 3 phases :\n\n          •   Phase I already completed with an occupation permit issued;\n          •   Phase II is now under construction;\n          •   Phase III has general building plans approved but no building works have\n             commenced; and\n          •   The criteria in paragraphs 8 to 11 of the PNAP should be complied with\n                 for Phase II and Phase III.\n\n\nII.   Exemption on GFA\n\n      (a)   Phase I\n          •   Approved GFA for completed buildings : 10 000m2\n          •    Lift shaft areas provided : 7% of the GFA of Phase I (the lift shaft areas\n                are to remain as accountable GFA for PR calculation, i.e. no exemption\n                   is allowable under this PNAP)\n          •  PR and accountable GFA left for Phase II & Phase III are 4 and 40 000m2\n                 respectively.\n\n      (b)   Phase II\n          •   Proposed GFA : 25 000m2\n          •    Lift shaft areas provided : 6% of the GFA of Phase II\n          •   Exempted area for Phase II (i.e. over and above 2.5% of the GFA of Phase\n                    II) :\n             25 000m2 x (6% - 2.5%)\n            = 875m2 (not exceeding 3.5% of the GFA of Phase II)\n              •   Accountable GFA for Phase II :\n                 25 000m2 - 875m2 = 24 125m2\n              •  PR and accountable GFA left for Phase III are 1.588 and 15 875m2\n                     respectively.\n\n                                                                                               /(c) …\n\n\n\n\n\n                                                        - 1 -"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "(c)   Phase III\n\n          •   Proposed GFA : 15 000m2\n          •    Lift shaft areas provided : 5.5% of the GFA of Phase III\n          •   Exempted area for Phase III (i.e. over and above 2.5% of the total GFA\n                of Phase III)\n             15 000m2 x (5.5% - 2.5%)\n            = 450m2 (not exceeding 3.5% of the GFA of Phase III)\n          •   Accountable GFA for Phase III :\n             15 000m2 - 450m2 = 14 550m2\n          •   Overall GFA :\n             10 000m2 (Phase I) + 24 125m2 (Phase II) + 14 550m2 (Phase III)\n            = 48 675m2 (i.e. PR of 4.868) (not exceeding permissible)\n\nIII.  Exemption on SC\n\n      (a)   Phase I\n          •   Covered area accountable for SC : 800m2 (or 8%)\n          •   The lift shaft areas are to remain as accountable for SC calculation\n                     (i.e. no exemption is allowable under this PNAP)\n          •   Accountable SC for Phase I = 8%\n\n      (b)   Phase II\n          •   Covered area accountable for SC : 2 000m2 (or 20%)\n          •  Number of storeys in domestic accommodation occupied by lift shaft(s)\n               with GFA exempted : 15\n          •   Exempted area for SC : 875m2 ÷ 15 = 58.33m2 (i.e. SC of 0.583%)\n          •   Accountable SC : 20% - 0.583% = 19.417%\n\n      (c)   Phase III\n          •   Covered area accountable for SC : 1 200m2 (or 12%)\n          •  Number of storeys in domestic accommodation occupied by lift shaft(s)\n               with GFA exempted : 15\n          •   Exempted area for SC : 450m2 ÷ 15 = 30m2 (i.e. SC of 0.3%)\n          •   Accountable SC : 12% - 0.3% = 11.7%\n          •   Overall SC :\n          8% (Phase I) + 19.417% (Phase II) + 11.7% (Phase III)\n            = 39.117% (not exceeding permissible)\n\n\n(Rev. 6/2025)\n\n\n\n\n\n                                                        - 2 -"
+    }
+  ]
+}

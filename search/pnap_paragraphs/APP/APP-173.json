@@ -1,0 +1,228 @@
+{
+  "code": "APP-173",
+  "source_text": "indexed_text/PNAP/APP/APP-173.txt",
+  "source_pdf": "documents/PNAP/APP/APP-173.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and       APP-173\n                           Registered Geotechnical Engineers\n\n\n                           Hostels in the City Scheme\n\n\n         To consolidate Hong Kong’s status as an international hub for post-secondary\neducation, the Government has launched the Hostels in the City Scheme (“the Scheme”)\nto encourage the market to convert existing commercial buildings and hotels into student\nhostels.   Under the Scheme, eligible student hostels converted from commercial\nbuildings and hotels may enjoy certain facilitation measures under the building regime.\nThis practice note sets out the details of these facilitation measures, including the factors\nthat the Building Authority (BA) will take into consideration for the purpose of granting\nmodifications under the Buildings Ordinance (BO) to effect such facilitation.\n\nFacilitation Measures for Conversion of Existing Buildings under the BO"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          In handling alteration and addition (A&A) proposals for the conversion of\nexisting commercial buildings or hotels into student hostels which are supported by the\nGovernment’s policy  (i.e.  eligible student hostels under the Scheme meeting the\neligibility criteria which have been confirmed by the Education Bureau (EDB)), the BA\nwould adopt a pragmatic approach when considering applications for modification of or\nexemption from the relevant building regulations.\n\nSite coverage (SC), plot ratio (PR), open space, service lane and kitchen"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 169
+        },
+        {
+          "label": "b",
+          "offset": 504
+        },
+        {
+          "label": "c",
+          "offset": 632
+        }
+      ],
+      "text": "3.        While student hostels for habitation are domestic use, for eligible student\nhostels under the Scheme, the BA is prepared to grant modifications/exemptions to:\n\n     (a)     treat a building or part of a building that is converted for use as a\n           student hostel as a non-domestic building or a non-domestic part of\n           a building for the purposes of SC and PR calculations under\n            regulations 19, 20, 21 and 22 of the Building (Planning) Regulations\n           (B(P)R);\n\n     (b)    allow the non-provision of open space and service lane 1 under\n            regulations 25 and 28 of the B(P)R; and\n\n     (c)    permit the non-provision of kitchens 2 in individual hostel units\n          under regulation 45 of the B(P)R."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         For the avoidance of doubt, other requirements for domestic buildings (such\nas natural lighting and ventilation) and the  fire safety requirements applicable to\nhostels/dormitories should be complied with.\n                                                                 /Exemption …\n\n1   Modification of regulation 28 of B(P)R for non-provision of service lane will be considered on case\n    merits, e.g. no lane is provided for the existing building and the servicing strategy of the converted\n   student hostel is acceptable.\n2   Subject to the provision of a communal canteen/kitchen/pantry."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\nExemption of supporting facilities for student hostels from gross floor area (GFA)\ncalculation"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.        The BA will favourably consider exempting supporting facilities that are\nconducive to a better living environment for tenants of the eligible student hostels under\nthe Scheme (“hostel facilities”) from GFA calculation. Such hostel facilities which may\nenjoy GFA exemption are set out in Appendix.\n\nRetaining previously exempted/disregarded GFA"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           Facilities in an existing commercial building or a hotel which had been\nexempted/disregarded from GFA  calculation can be retained and continue  to be\nexempted/disregarded from GFA calculation after conversion into a student hostel\neligible under the Scheme. The spirit of this arrangement is to ensure that eligible student\nhostels under the Scheme need not reduce their existing bulk for conversion from the\noriginal buildings due to GFA calculation issue. In cases where the proposed conversion\nwould result in certain facilities shown on the approved building plans of the original\ncommercial building or hotel becoming redundant and such facilities had previously been\nexempted/disregarded from GFA  calculation, any application  for modification of\nregulation 23(3)(a) of the B(P)R to convert such facilities to other mandatory features,\nessential/non-essential plant rooms, green/amenity features and hostel facilities will be\nfavourably considered according to its special circumstance3."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.         For the avoidance of doubt, for eligible student hostels converted from former\nlicensed hotels which are no longer holding valid hotel licences under the Hotel and\nGuesthouse Accommodation Ordinance (Cap. 349), the picking up and setting down\nareas and back-of-house facilities, which had previously been disregarded from GFA\ncalculation under regulation 23A(3) of the B(P)R, could be converted into hostel\nfacilities. The BA is prepared to grant exemption of such facilities from GFA calculation\nupon application for modification of regulation 23(3)(a) of the B(P)R."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.         For projects with redundant facilities of less than 5% of the total GFA of the\nstudent hostel, it can have hostel facilities up to 5% of the total GFA of the student hostel.\nFor projects with redundant facilities more than 5% of the total GFA of the student hostel,\nit may be allowed to convert all the redundant facilities into hostel facilities. Exemption\nof hostel facilities exceeding 5% of the total GFA of an eligible student hostel from GFA\ncalculation would be considered on a case-by-case basis.\n\nEligibility Criteria"
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.       As aforementioned, for student hostels to qualify for the facilitation measures\nabove, they must be supported by the Government’s policy (i.e. eligible student hostels\nunder the Scheme). For details of the Scheme, please refer to the dedicated website of\nthe Scheme (www.studenthostel.gov.hk).\n\n\n\n                                                                                     /10. …\n\n\n3   Subject to the compliance with the pre-requisites stipulated in PNAP APP-151 on Building Design to\n   Foster a Quality and Sustainable Built Environment for A&A works resulting in a new building."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.        In addition, A&A proposals for conversion under the Scheme should comply\nwith  all other applicable requirements under the building regime as well as the\nrequirements from all relevant government departments including but not limited to the\nLands  Department,  Planning  Department,  Fire  Services  Department,  Transport\nDepartment, etc.  Facilitation measures under the building regime conferred under this\npractice note would not prejudice control of other regulatory regimes.\n\nPartial Conversion"
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.         Partial conversion of a building into an eligible student hostel is allowed\nunder the Scheme as long as the conditions set out in the Application Guidelines of the\nScheme  are duly met.  EDB  assisted by the Development  Projects  Facilitation\nOffice under the Development Bureau will determine if such conditions are met for A&A\nproposals involving partial conversion."
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.        For partial conversion cases, the “total GFA of the student hostel” mentioned\nin paragraph 8 above should refer to the total GFA of the student hostel portion of the\nbuilding (i.e. areas exclusively operated as student hostel under the Scheme).\n\nFacilitation Measures for Newly Built Student Hostels under the BO"
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 291
+        },
+        {
+          "label": "b",
+          "offset": 480
+        },
+        {
+          "label": "c",
+          "offset": 604
+        },
+        {
+          "label": "d",
+          "offset": 732
+        }
+      ],
+      "text": "13.        Pursuant to the 2025 Policy Address, the Scheme has been expanded to cover\nnewly built student hostels. Subject to satisfying the eligibility criteria as mentioned in\nparagraph  9  above,   the  BA   is   also  prepared   to   grant   the   following\nmodifications/exemptions to:\n\n     (a)     treat a newly built student hostel as a non-domestic building for the\n           purposes of SC and PR calculations under regulations 19, 20, 21 and\n         22 of the B(P)R;\n\n     (b)    allow the non-provision of open space and service lane 4 under\n            regulations 25 and 28 of the B(P)R;\n\n     (c)    permit the non-provision of kitchens2 in individual hostel units under\n            regulation 45 of the B(P)R; and\n\n     (d)    exempt the hostel facilities set out in Appendix up to 5% of the total\n       GFA of the student hostel from GFA calculation. The granting of\n       GFA concessions for hostel facilities under the Scheme is subject to\n          compliance with the pre-requisites stipulated in PNAP APP-151 but\n           not subject to the overall cap on GFA concessions."
+    },
+    {
+      "id": "p14-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "14.       As student hostels under the Scheme would be treated as non-domestic\nbuildings for the purposes of SC and PR calculations under regulations 19, 20, 21 and 22\nof the B(P)R, they would be considered as non-residential developments for the purposes\nof Joint Practice Note (JPN) No.1, JPN No.2, Practice Note for Authorized Persons,\nRegistered Structural Engineers, Registered Geotechnical Engineers (PNAP) APP-42 and\nPNAP APP-104.\n\n                                                                                     /15. …\n\n4   Modification of regulation 28 of B(P)R for non-provision of service lane will be considered on case\n    merits, e.g. no existing lane pattern and the servicing strategy of the student hostel is acceptable."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -"
+    },
+    {
+      "id": "p15-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "15.       The facilitation measures for newly built student hostels under the Scheme as\nset out in paragraphs 13 and 14 above are applicable to all new building plans or major\nrevision of building plans for development proposals submitted to the BA for approval\non or after the issuance of this practice note.\n\nLoss of Status for Facilitation"
+    },
+    {
+      "id": "p16-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "16.        In case the building/premises is no longer operated as a student hostel under\nthe Scheme, the exemptions granted under the BO as mentioned above will be revoked.\nThe owner of the building has to appoint an authorized person to submit for the BA’s\napproval any subsequent change in use demonstrating compliance with the provisions\nunder the BO. Otherwise, the Buildings Department may consider taking enforcement\naction under the BO.\n\n\n\n\n\n                                                                    ( HO Chun-hung )\n                                                   Building Authority\n\n\n\n\n\nRef. : BD HK/1-10/3 (III)\n\nFirst issue     July 2025\nThis revision  September 2025 (AD/NB1)  (Paragraph 3 amended and paragraphs 13\n                                               to 15 added)"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Appendix\n                                                 (PNAP APP-173)\n\n\n          Hostel Facilities that May be Exempted from GFA Calculation\n\n\n         The following supporting facilities that are essential/conducive to a suitable\nliving environment for the exclusive use of a student hostel may be exempted from GFA\ncalculation:\n\n     (a)    Linen store;\n\n     (b)    Laundry room;\n\n     (c)    Study room/collaboration room1/leisure room;\n\n     (d)    Gymnasium/sports room;\n\n     (e)   Communal kitchen/pantry/canteen;\n\n     (f)     Staff rest room;\n\n     (g)     Staff toilet; and\n\n     (h)    Other facilities in support of the operation of a student hostel that\n        may be accepted by the EDB and the BA.\n\n\n\n\n\n(7/2025)\n\n\n\n\n\n1  Rooms intended for students to self-study and/or collaborate with other students for schoolwork."
+    }
+  ]
+}

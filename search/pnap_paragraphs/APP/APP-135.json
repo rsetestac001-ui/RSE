@@ -1,0 +1,84 @@
+{
+  "code": "APP-135",
+  "source_text": "indexed_text/PNAP/APP/APP-135.txt",
+  "source_pdf": "documents/PNAP/APP/APP-135.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers  APP-135\n\n                              Practice Note for Authorized Persons Buildings Department                                              284\n                        and Registered Structural Engineers\n\n                   Quality Supervision of Soil Nailing Works\n\nIntroduction\n\n          The use of soil nails for upgrading existing slopes and in forming new\nslopes is becoming very common in Hong Kong. Close supervision and timely design\nreview during construction are essential to ensure the quality of the soil nailing works."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.      A soil nail, when constructed,  is buried in the ground, and  its built\nquality is not readily visible.  There is a need to put in place reliable procedures for\nthe supervision, testing and certification for acceptance of the  soil nailing works\nduring construction to ensure the quality of the works. This practice note promulgates\nthe supervision, testing and certification requirements at various stages of soil nailing\nworks and specifies the criteria for acceptance of the works."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          Reference may be made to the Particular Specifications and standard\ndrawings for soil nailing works as well as guidance notes and checklists for their\nsupervision that are used by the Civil Engineering and Development Department\n(CEDD) of the HKSAR Government under the LPM Programme which can be found\non the CEDD website <http://www.cedd.gov.hk/eng/publications/>. GEO (2003)#,\nwhich can also be downloaded from the CEDD website, gives guidance on non-\ndestructive testing of soil nail length.  These documents may be used as a guide for\nprivate development projects.\n\nBuildability of Soil Nails"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.           In designing soil nails, the designer should give due consideration to the\nbuildability of the soil nails to ensure that the designs are practical and could be built.\nFor  long  nails,  say  with  length  exceeding 20m,  there  is  a  higher chance  of\nencountering  loose  or  permeable  ground,  or  buried  stream  course,  leading  to\ndifficulties in construction.  Examples include collapses of soil or rock along the\ndrillhole (which may obstruct the insertion of the nail reinforcement assembly), and\nhigh grout loss.  Grout quality may also be difficult to ensure as the length of nail\nincreases.   For  cases where long  nails  are proposed  or where  the ground  or\ngroundwater  conditions  are  likely  to be  adverse  to  soil  nail  construction,  the\nRegistered Geotechnical Engineer (RGE) may be required to undertake an assessment\nof buildability and the effects of soil nail installation on the existing ground and\ngroundwater conditions, based on a site trial, prior to carrying out the soil nailing\nworks. The site trial may be incorporated in and should include the pull-out tests of\nsoil nails where possible.  Soil nails for site trials and pull-out tests should be installed\nand tested prior to the installation of working soil nails.\n                                                                                    /5. …..\n\n  #GEO (2003). Non-destructive Tests for Determining the Lengths of Installed Steel Soil Nails. GEO\n        Report No. 133,  Geotechnical  Engineering  Office,  Civil Engineering and Development\n        Department, the Government of the HKSAR, 54p.  (This can be downloaded from the CEDD\n         website <http://www.cedd.gov.hk/eng/publications/geo_reports/geo_rpt133.htm>.)"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          Examples of ground conditions that may present difficulties for soil nail\nconstruction include loose  fill or colluvium, rockfill, presence of soil pipes, buried\nstream courses, rock mass with open discontinuities and fractures, alternating zones of\nsoil and rock. The installation of soil nails in areas with groundwater flow will pose\nparticular difficulties. The hole drilled may be more susceptible to collapse than dry\nground and the quality of the grout may also be in doubt.  Suitable measures, e.g.\ngroundwater drainage, may have to be incorporated to facilitate installation of soil\nnails.\n\nParticular Requirements for Approval of Plans"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          The RGE is required to include the following particulars in the site\nformation submission for approval by the Building Authority:\n\n                   (i)     Details of the site  trial,  if required, to confirm the\n                        buildability of the soil nails, including its locations.\n\n                    (ii)    Procedure adopted for the pull-out tests.\n\n                    (iii)   Methodology  and  details  of  the  proposed  non-\n                       destructive  test (NDT)  for  verifying  the length of\n                        installed   soil   nails,   with   suitable   provisions\n                     incorporated to allow the test to be carried out.\n\n\nQuality Supervision Requirements for Soil Nailing Works"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          The  details of the quality supervision requirements for  soil nailing\nworks, the minimum qualification and experience required for site supervisors for soil\nnailing works and the details of non-destructive testing of installed  soil nails are\nprovided  in the Technical Memorandum for Supervision Plans and the Code of\nPractice for Site Supervision.\n\n\n\n\n\n                                                                    ( H W CHUENG )\n                                                     Building Authority\nRef. : BD GR/1-150/33\n\nFirst issue October 2003\nThis revision February 2006     [AD/NB2 and Deputy Head of GEO (Island)]\n(Paragraphs 4 & 6 amended to include ‘RGE’, paragraph  6(iii) revised, original\n  paragraphs 7 to 18 and App A & B deleted, new paragraph 7 added.)\n\nIndex under   :  Soil Nails\n                  Soil Nailing Works"
+    }
+  ]
+}

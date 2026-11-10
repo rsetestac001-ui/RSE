@@ -1,0 +1,152 @@
+{
+  "code": "APP-163",
+  "source_text": "indexed_text/PNAP/APP/APP-163.txt",
+  "source_pdf": "documents/PNAP/APP/APP-163.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-163\n                          Registered Geotechnical Engineers\n\n\n          Code of Practice on Access for External Maintenance 2021\n\n\n          With the coming into operation of the Building (Construction) Regulation\n (B(C)R) on 1 February 2021, sections 27(2), 28(5), 31(3) and 34(3) of the B(C)R require\nthe provision of adequate means of access for maintenance and repair of external building\nelements1 of a building (M&R access). The Code of Practice on Access for External\nMaintenance 2021 (the Code) provides guidance on compliance with these requirements.\nIn this connection, the Code supersedes the Code of Practice on Design for Safety -\nExternal Maintenance 2019.\n\nApplication"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.       By virtue of section 39(2) of the Buildings Ordinance, the requirements for\nthe provision of M&R access do not apply to building works which are being carried out\nor consent to the commencement of which has been given as at 31 January 2021.  In\ngeneral, building works may refer to foundation works of the proposed development."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         For proposed  alteration and addition works to existing buildings, the\nauthorized persons (APs) should consider exploring the feasibility of providing suitable\nM&R access in accordance with the Code.  Reference should be made to the relevant\ncodes of practice and guidance notes issued by the Labour Department on occupational\nsafety.\n\nSubmission of M&R Access Plans"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.        APs are required to submit M&R access plans to demonstrate compliance\nwith the requirements under the Code. Procedures for submission of M&R access plans\nincluding details, information, supporting documents and developer or owner’s letter of\nundertaking are set out in the Code.\n\nAmendments to the Code"
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.        The Buildings Department has set up a technical committee (TC) to, among\nothers, collect and consider the views and feedback from the building industry arising\nfrom the use of the Code. Taking into account of the advice of the TC, the amendments\nto the Code in Appendix A have been consolidated in the Code (2024 Edition).\n\n\n\n\n                                                                                                /6. …\n\n1  They include external walls, curtain walls, external claddings and roofs, as well as their\n   projections."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.         Except for the requirements in item 1 of Appendix A  (i.e. the new\nparagraph 3.2.4), all the remaining items in Appendix A are implemented with immediate\neffect. The requirements in the new paragraph 3.2.4 are applicable to all new general\nbuilding plans (GBP) or major revision of GBP for development proposals submitted to\nthe Building Authority for approval on or after 1 December 2024, and to GBP which\nhave been previously disapproved and are resubmitted  for approval on or  after\n1 December 2024. Notwithstanding the implementation date as mentioned above, AP is\nadvised to provide the anchors for anchorage of personal fall arresting systems in\nbalconies and utility platforms at appropriate locations in their ongoing projects to\nenhance operational safety for the maintenance and repair works.\n\n\n\n\n\n                                                             ( YU Po-mei, Clarice )\n                                                Building Authority\n\n\n\n\n\nRef. : BD/GR/1-55/276 (VI)\n\nFirst issue    February 2021\nThis revision September 2024 (AD/NB1)  (Paragraphs 3 to 5 amended, paragraph 6 and\n                                    Appendix A added)"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Appendix A\n                                                                                      (PNAP APP-163)\n\n\n\nAmendments to the Code of Practice on Access for External Maintenance 2021\n                          (September 2024)\n\n\n\n\n\n      Legends:\n          Amended\n             Deleted\n\n\n\n\n\n       (9/2024)\n\n\n\n\n                                                                                                   - 1 -"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Amendments to the Code of Practice on Access for External Maintenance 2021 (September 2024)\n\n      Item                          2021 Version                                 Amendments"
+    },
+    {
+      "id": "p1-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "1.   Part 2 –          3.2.3  The M&R access to the outer surface of balcony   3.2.3  The M&R access to the outer surface of balcony\n    Paragraph 3.2          and UP  shall be provided by power-operated         and UP  shall be provided by power-operated\n                              elevating work platform or suspended working          elevating work platform or suspended working\n                              platform.                                                   platform.\n\n                                                                                    3.2.4  At least one anchor for anchorage7 of personal fall\n                                                                                              arresting system shall be provided at every balcony\n                                                                            and UP for carrying out M&R at height.  Such\n                                                                                 anchor  shall  be  readily  accessible  from  the\n                                                                                       adjoining floor, provided at a height of not less\n                                                                                     than 1.5 m and not more than 1.8 m above the\n                                                                                           finished floor level of the adjoining floor and\n                                                                         comply with the requirements in paragraph 7 of\n                                                                          Appendix D.\n\n                                                                                                     7 Structural detail/fixing detail of the anchor should be\n                                                                               submitted for approval in accordance with Appendix F."
+    },
+    {
+      "id": "p2-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "2.   Part 2 –          4.2.3  Where stepping onto the inaccessible roof  for   4.2.3  Where stepping onto the inaccessible roof  for\n    Paragraph 4.2      M&R works is required, safety measures such as     M&R works is required, safety measures such as\n                               guard-rails with toe-boards shall be provided at the           guard-rails with toe-boards shall be provided at the\n                          edge  of  the  roof  in  accordance  with  the         edge  of  the  roof  in  accordance  with  the\n                            requirements set out in paragraph 4 of Appendix D.          requirements   set   out   in  paragraph  4   of\n                                                                          Appendix D. Where it is impracticable to install\n                                                                              permanent guard-rails around the whole perimeter                       4.2.4  Fixed maintenance ladder ……\n\n                                                                                                    - 2 -"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Item                          2021 Version                                 Amendments\n                                                                                 of an inaccessible roof due to  site constraints\n                                                                               and/or other design considerations, subject to the\n                                                                                 conditions  mentioned  in  paragraph  4.2.4,  the\n                                                                              following alternative shall be provided:\n\n                                                                                                           (i)   proprietary  collapsible  guard-rail  system\n                                                                                 designed to resist the imposed loads and wind\n                                                                                     loads not  inferior  to  the requirements as\n                                                                                            stipulated in B(C)R, Code of Practice for\n                                                                    Dead and Imposed Loads (Loading Code) and\n                                                                   Code of Practice on Wind Effects in Hong\n                                                                        Kong; and/or\n\n                                                                                                              (ii)  temporary  edge  protection  with  suitable\n                                                                                   platform  and   access   ladder   designed\n                                                                                 according to the prior risk assessment8 of the\n                                                                              concerned M&R task.\n\n                                                                                            8 Risk assessment for work-above-ground/work-at-height\n                                                                                               is  required under Section 3  of  the “Overview  of\n                                                                      Work-at-Height Safety” as published by the Labour\n                                                                   Department  and  such  risk  assessment  should  be\n                                                                      conducted in accordance with the “Five Steps to Risk\n                                                                   Assessment” by the Labour Department.\n\n\n\n\n\n                                                                                         - 3 -"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Item                          2021 Version                                 Amendments\n                                                                             4.2.4  For provision of proprietary collapsible guard-rail\n                                                                         system and/or temporary edge protection with\n                                                                                      suitable platform and access ladder in accordance\n                                                                            with paragraph 4.2.3, suitable anchorage points or\n                                                                                   horizontal  lifeline  system  for  anchorage  of\n                                                                                personal   fall  arresting  system  and/or  travel\n                                                                                             restraint  system  complying  with  the  relevant\n                                                                             requirements under OSHO and FIUO shall be\n                                                                            provided at:\n\n                                                                                                           (i)   the roof access; or\n                                                                                                              (ii)  other appropriate locations not less than 2m\n                                                                          from the roof edge/fragile area;\n                                                                      and where the lanyard of the personal fall arresting\n                                                                         system and/or travel  restraint system could be\n                                                                               properly attached before the user moves  in a\n                                                                                   position that he would be at risk of a  fall, to\n                                                                                                facilitate   installation/erection   of   collapsible\n                                                                                     guard-rail system/temporary edge protection.\n\n                                                                                  In case of the access to the inaccessible roof is\n                                                                               within 2m from the roof edge/any fragile area or\n                                                                     open onto a pitched roof, permanent guard-rails\n                                                                            should be provided at least around the roof access\n                                                                                  point  or  landing  to  give  the  required  edge\n                                                                                   protection for anchorage of personal fall arresting\n                                                                              system.\n\n                                                                                         - 4 -"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Item                          2021 Version                                 Amendments\n\n\n                                                                 The following general notes shall be added to the\n                                                                                general building plans, where appropriate:\n\n                                                                                  Suitable anchorage points or horizontal lifeline\n                                                                         system for anchorage of personal  fall arresting\n                                                                         system and/or  travel  restraint system  shall be\n                                                                            provided  at  the  locations  as  indicated  in  the\n                                                                                 building plan/maintenance and repair (M&R) plan.\n                                                                                     Structural details for the anchorage points will be\n                                                                             submitted separately for approval.\n\n                                                                                            (a)  Proprietary collapsible guard-rail system\n                                                                                       Proprietary collapsible guard-rail system at\n                                                                                         inaccessible roof shall be designed to resist\n                                                                                       the imposed loads and wind loads not inferior\n                                                                                           to the requirements as stipulated in Building\n                                                                                      (Construction) Regulation, Code of Practice\n                                                                                            for Dead and Imposed Loads and Code of\n                                                                                         Practice on Wind Effects in Hong Kong.\n\n                                                                                       (b)  Temporary edge protection\n                                                                                         Prior to carrying out of M&R tasks at the\n                                                                                         inaccessible   roof,   risk   assessment   in\n                                                                               accordance with the “Five Steps  to Risk\n                                                                            Assessment”  published  by  the  Labour\n                                                                            Department shall be conducted and temporary\n\n                                                                                         - 5 -"
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Item                          2021 Version                                 Amendments\n                                                                                  edge protection together with other suitable\n                                                                                           precautionary  measures  such  as  working\n                                                                                          platform and access ladder shall be provided\n                                                                                                   in compliance with the relevant requirements\n                                                                                     under  the OSHO,  the FIUO  and  their\n                                                                                              subsidiary regulations.\n\n                                                                           4.2.█5      Fixed maintenance ladder ……"
+    },
+    {
+      "id": "p3-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "3.   Appendix A     Codes of Practice and Guidance Notes issued by Labour  Codes  of  Practice█,  Guidance  Notes  and  Other\n                   Department                                        Guidebooks issued by Labour Department\n\n                                                           Add after item 20. Overview of Work-at-Height Safety\n                            -                                                          21.   Five Steps to Risk Assessment\n\n                                                                  Change item numbers\n                  21 - 36                                      █22 - █37\n\n\n\n\n\n                                                                                                    - 6 -"
+    }
+  ]
+}

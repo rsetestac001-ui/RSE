@@ -1,0 +1,54 @@
+{
+  "code": "ADM-03",
+  "source_text": "indexed_text/PNAP/ADM/ADM-03.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-03.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        ADM-3\n                          Registered Geotechnical Engineers\n\n\n                         Emergency Situations\n              Telephone Numbers for Use Outside Office Hours\n\n\n              Staff of the Buildings Department (BD) are on 24-hour call and stand by\neven outside office hours to attend to emergencies sometimes involving sites where\nbuilding works are in progress."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          Often the remedy may be a relatively simple matter  if the authorized\nperson  (AP),  registered  structural  engineer (RSE)  and/or  registered  geotechnical\nengineer (RGE) responsible for the development can be contacted in time. This would\navoid much inconvenience and delay, e.g. clearance of major thoroughfares due to\ncollapsed scaffolding or hoarding, and obviate the need  to use the Government\nContractor at the expense of the owner of the building."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          APs, RSEs and RGEs have a duty to ensure that no danger is caused to the\npublic by the building works for which they are responsible.  You are therefore\nrequested to inform BD of your telephone number, fax number and mobile telephone\nnumber, if any, for use in emergencies. Please also keep BD informed of any change in\nthese numbers by using the letter in Appendix A."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.           All telephone numbers supplied  will be used by BD  staff only  for\nemergency purpose as outlined in this Practice Note.\n\n\n\n\n\n                                                         ( CHEUNG Tin-cheung )\n                                              Building Authority\n\n\n\n\n   Ref. : BD REG/6-35/1 Pt.1\n\n   This PNAP is previously known as PNAP 34\n    First issue December 1976\n   Last revision August 2007\n   This revision April 2019 (AD/CS) (Appendix A amended)"
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "Appendix A\n                                                     (PNAP ADM-3)\n\n                        ForUse by Authorized Persons\n         Registered Structural Engineers and Registered Geotechnical Engineers\n\nTo :   Registration Unit\n       Buildings Department Headquarters\n       North Tower, West Kowloon Government Offices\n      11 Hoi Ting Road, Yau Ma Tei\n      Kowloon\n     Hong Kong\n\n(Fax. No. 2625 0437)\n\n                           Emergency Situations\n                 Telephone Numbers for Use Outside Office Hours\n\n\n                Regarding PNAP ADM-3, I hereby notify that my telephone number(s) is\n(are) as follows:\n\nTelephone no(s).            :\n\nMobile telephone no(s).   :\n\nFax no(s).                    :\n\nThese number(s) should be used only for emergencies outside office hours concerning building\nsites for which I am the AP/RSE/RGE.   If there is any change, I will advise you as soon as\npossible.\n\n\n                 Signature         :\n\n            Name             :\n\n                 Registration no. :\n\n               Date               :\n\nBuildings Department’s Statement on Personal Information Collection\n\nAny personal data provided in this form will only be used for the purposes of contacting\nyou in case of emergencies outside office hours concerning building sites for which you\nare the AP/RSE/RGE.  The provision of personal data by means of this form is voluntary.\nYou have rights of access and correction to your personal data.   If you wish to exercise\nthese rights with respect to your personal data held by the Buildings Department,\nplease contact Registration Unit of this department at 2626 1616.\n\n(Rev. 4/2019)"
+    }
+  ]
+}

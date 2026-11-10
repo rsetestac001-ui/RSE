@@ -1,0 +1,55 @@
+{
+  "code": "APP-159",
+  "source_text": "indexed_text/PNAP/APP/APP-159.txt",
+  "source_pdf": "documents/PNAP/APP/APP-159.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department    Registered Structural Engineers and       APP-159\n                          Registered Geotechnical Engineers\n\n\n\n                       Measures to Deter Misuse of\n                      Industrial Buildings for Residential Use\n\n\n               Industrial Buildings (IBs) are not suitable for residential use, given that\nunits in an IB can be used for  industrial  activities or storage of dangerous and\ninflammable goods at any time.  Unauthorised conversion of industrial premises for\nresidential use could pose high risks to tenants living there.  The unauthorised change\nin use also contravenes the Buildings Ordinance."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 230
+        },
+        {
+          "label": "b",
+          "offset": 563
+        },
+        {
+          "label": "c",
+          "offset": 779
+        },
+        {
+          "label": "d",
+          "offset": 1037
+        },
+        {
+          "label": "e",
+          "offset": 1304
+        }
+      ],
+      "text": "2.             In order to deter the misuse of IBs for residential use at building design\nstage, the Buildings Department has adopted the following measures in processing new\nproposals (including alteration and addition) for IBs:\n\n          (a)   servicing arrangement for the workshop units has to be clearly\n           shown on the general building plans, particularly the provision\n              of loading/unloading areas and cargo  lifts as well as  their\n              segregation from the communal circulation routes of occupiers\n            and visitors;\n\n         (b)   Modification to permit the non-provision of natural lighting and\n               ventilation to the toilets will not be granted generally except for\n                 toilets designed for communal use;\n\n          (c)   Consequent to (b) above, the internal pipe ducts for the toilets\n               will not be exempted from gross floor area (GFA) calculations\n              except for communal toilets located in common parts of the\n               buildings;\n\n         (d)   For an IB with small workshop units1 and provided with curtain\n               walls, the outer face of the curtain walls will be taken as the\n               external wall of the building for the purpose of measuring GFA\n            and site coverage;\n\n          (e)   Proposals for excessive storey heights2 in small workshop units\n             have to be fully justified; and\n\n\n\n\n\n1 Units with usable floor area of less than 80 m2\n2 Storey height exceeding 3.5m"
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n\n           (f)    Justification for designs and facilities that are not commonly\n             found in an IB or commensurate with industrial use will be\n           demanded for, failing which the proposal may not be accepted as\n            an IB development.\n\n\n\n\n\n                                         (HUI Siu-wai)\n                                               Building Authority\n\n\n\n\n\nRef. : BD GR/1-125/121\n\nFirst issue : October 2016 (AD/NB1)"
+    }
+  ]
+}

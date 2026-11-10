@@ -1,0 +1,26 @@
+{
+  "code": "APP-112",
+  "source_text": "indexed_text/PNAP/APP/APP-112.txt",
+  "source_pdf": "documents/PNAP/APP/APP-112.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department    Registered Structural Engineers and        APP-112\n                          Registered Geotechnical Engineers\n\n\n                  Disposal of Condensate from Air-conditioners\n\n\n            The Building Authority takes the view that proper disposal system for the\ndrainage of the condensate from air-conditioners should be provided as part of the\nsurface water drainage system of a building.  You are, therefore, requested to indicate\nthe condensate disposal system in your drainage submission, failing which the plans will\nbe disapproved under section 28(1) of the Buildings Ordinance."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           For existing buildings not fitted with a disposal system for discharging\ncondensate from air-conditioners, you are strongly recommended to advise your clients\nto install such a communal system when carrying out comprehensive maintenance\nworks to their buildings.\n\n\n\n\n\n                                 (CHEUNG Tin-cheung)\n                                                   Building Authority\n\n\n\n\n\nRef. : BD GP/BREG/VS/2(II)\n    BD GP/BORD/92\n\nThis PNAP is previously known as PNAP 238\nFirst issue March 2000\nThis revision March 2019 (AD/NB1) (Revamped)"
+    }
+  ]
+}

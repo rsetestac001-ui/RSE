@@ -1,0 +1,213 @@
+{
+  "code": "APP-145",
+  "source_text": "indexed_text/PNAP/APP/APP-145.txt",
+  "source_pdf": "documents/PNAP/APP/APP-145.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department        Registered Structural Engineers and     APP-145\n                            Registered Geotechnical Engineers\n\n\n\n                   Fire Safety (Buildings) Ordinance, Cap. 572\n\nIntroduction\n\n            The  Fire  Safety  (Buildings) Ordinance  (the “FS(B)O”) came  into\noperation on 1 July 2007. The purpose of the FS(B)O is to provide better protection\nfrom the risk of fire for occupants and users of, and visitors to, certain kinds of\ncomposite  buildings and domestic  buildings  (target  buildings) by upgrading  the\nbuildings to current fire safety standards.  Owners/occupiers of such buildings are\nrequired to improve the fire safety measures which include fire service installations and\nequipment as well as fire safety construction of the building.\n\nApplication"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 80
+        },
+        {
+          "label": "b",
+          "offset": 349
+        },
+        {
+          "label": "c",
+          "offset": 521
+        }
+      ],
+      "text": "2.          The FS(B)O applies to a composite building or domestic building if:\n\n         (a)     it was constructed, or intended to be used\n                   (i)     partly for domestic purposes and partly for non-domestic\n                     purposes; or\n                    (ii)     for domestic purposes with more than 3 storeys;\n\n        AND\n\n         (b)   the plans of  its building works was  first submitted  to the\n              Building Authority for his approval on or before 1 March 1987;\n              or\n\n         (c)   constructed on or before 1 March 1987 where no plans of its\n              building works were submitted on or before that date to the\n              Building Authority for approval."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.       A “Domestic  building”  includes  ancillary club house, carpark and\nrecreation facilities that are provided for the exclusive use of residents of the building\nand persons invited to use them by such residents.\n\n4.           “Domestic purposes” in respect of a composite building or domestic\nbuilding means use for human habitation, but does not include a building or part of a\nbuilding that is used for a hotel, guesthouse, home for the elderly, child care centre or\nnursery.\n\n5.           “Composite building” means a building that is constructed, or intended\nto be used, partly for domestic purposes and partly for non-domestic purposes but\nexcludes a building where the part intended for non-domestic purposes consists wholly\nof a factory or industrial undertaking, godown, warehouse or place of bulk storage.\n\n                                                                                               /6. ..…"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          The Ordinance does not apply to buildings constructed in accordance\nwith the Buildings Ordinance (Application to the New Territories) Ordinance (Cap.\n121).\n\nFire Safety Measures"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 220
+        },
+        {
+          "label": "b",
+          "offset": 696
+        },
+        {
+          "label": "v",
+          "offset": 1054
+        }
+      ],
+      "text": "7.           Depending on the use of a target building or part of the building,\nowners/occupiers may need to provide all or any of the following fire safety measures to\nthe required standards mentioned in para. 8 below:\n\n           (a)  Fire safety construction requirements for the provision of:\n\n                   (i)  adequate means of escape for the building in the event of\n                        fire;\n                    (ii)  adequate means of access to the building to facilitate access\n                     for firefighting and rescue;\n                    (iii) measures to inhibit the spread of fire and to ensure the\n                     integrity of the structure of the building.\n\n          (b)  Fire service installations and equipment requirements for the\n              provision of:\n\n                   (i)  automatic sprinkler system;\n                    (ii)  automatic  cut-off  devices  for a mechanical  ventilating\n                  system;\n                    (iii) emergency lighting;\n                 (iv) manual fire alarms;\n               (v)  fire hydrant and hose reel system;\n                 (vi) the requirements specified in the Code of Practice for\n              Minimum Fire Service Installations and Equipment 1994.\n\nFire Safety Construction"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.             In relation to the fire safety construction requirements mentioned in\nparagraph 7(a) above, the scope of requirements is listed in Schedule 1 of the FS(B)O\nfor the non-domestic parts of a target composite building and Schedule 2 therein for a\ntarget domestic building or the domestic parts of a target composite building. The\ncorresponding detailed requirements are set out in the following codes of practice:\n\n            •   the Code of Practice for the Provision of Means of Escape in\n              Case of Fire 1996;\n            •   the Code of Practice for Fire Resisting Construction 1996;\n               and\n            •   the Code of Practice for Means of Access for Firefighting\n               and Rescue 1995.\n\n                                                              /Enforcement ….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\nEnforcement Authority"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 44
+        },
+        {
+          "label": "b",
+          "offset": 248
+        }
+      ],
+      "text": "9.           For the purpose of the FS(B)O:\n\n         (a)   the Director of Buildings is the enforcement authority for the\n              provision of fire safety measures in the planning, design and\n               construction of the building; and\n\n         (b)   the Director of Fire Services is the enforcement authority for the\n              provision of fire service installations or equipment in the\n               building.\n\nFire Safety Section"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.         The Fire Safety Section headed by the Chief Building Surveyor/Fire\nSafety is set up in the Buildings Department to administer the FS(B)O in respect of the\nfire safety construction requirements.\n\nDirections and Orders"
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.          Under section 5(1) or 5(2) of the FS(B)O, the Director of Buildings may\nserve on the owner of a target building or part of a target building a fire safety\ndirection (FSDn) directing him to comply with all or any of the requirements in respect\nof fire safety construction specified in Schedule 1 or 2 of the FS(B)O."
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.         Upon conviction of the offence of failure to comply with a FSDn, the\nDirector of Buildings may, under section 6(1) of the FS(B)O, apply to a magistrate to\nmake a fire safety compliance order directing the owner to comply with all or any of\nthe requirements specified in the FSDn to which the offence is related.\n\nDifficulties in Complying with Fire Safety Construction Requirements"
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "13.          Under section 5(1) and 5(2) of the FS(B)O, if the relevant enforcement\nauthority considers that  it would not be reasonable for the owner to comply with a\nparticular fire safety requirement as specified under paragraph 8 above, having regard to\nthe structural integrity of building and the technology available to comply with such\nrequirement, he may  direct  the compliance  of  other  alternative requirements  as\nappropriate.  In cases of genuine difficulties, the Director of Buildings is prepared to\nconsider owners’ alternative improvement measures based on fire safety engineering\nprinciples, which will equally achieve the primary objectives of the FS(B)O.\n\nAdvisory Committee for the Fire Safety (Buildings) Ordinance (FS(B)O) and the\nFire Safety (Commercial Premises) Ordinance (FS(CP)O)"
+    },
+    {
+      "id": "p14-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "14.           Pursuant to Section 5(10) of the FS(B)O, the Director of Buildings has\nestablished the Advisory Committee for the FS(B)O and the FS(CP)O (the “ACFSO”)\nto  assist him  in  considering, among  others,  those  alternative  requirements and\nimprovement measures as mentioned in paragraph 13 above when necessary.  The\nterms of reference and the membership of the ACFSO are attached at Appendix A.\n\n                                                            /Submission ….."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -\n\nSubmission of Plans for Approval"
+    },
+    {
+      "id": "p15-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "15.         Where non-exempted building works are proposed either to voluntarily\ncomply with the FS(B)O or to satisfy the requirements of a FSDn, an application for\napproval under  the  Buildings Ordinance should be made  in  the  usual manner.\nHowever, for such applications, three instead of two sets of plans showing fire service\ninstallations and equipment are required by the Fire Services Department for processing."
+    },
+    {
+      "id": "p16-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "16.        No fee will be charged under the Building (Administration) Regulation\n42 if the proposals are entirely for improving the fire safety measures of the existing\nbuilding pursuant to the requirements of a FSDn.\n\n\n\n\n\n                                                                         ( AU Choi-kai )\n                                                      Building Authority\n\n\n\n\n\nRef. : BD FS/OA/165\n\nThis PNAP is previously known as PNAP 302\nFirst issue  October 2007\nThis revision  October 2010 (AD/EB2) –   para. 7 amended and para.14 and Appendix\n                         A added"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Appendix A\n                                                 (PNAP APP-145)\n\n\n       Advisory Committee for the Fire Safety (Buildings) Ordinance and\n           the Fire Safety (Commercial Premises) Ordinance (ACFSO)\n\n\nTerms of Reference\n-\n\n\n\n\n\n-\n\n\n\n\n\nMembership\n\nThe membership of ACFSO is as follows:\n\n\nChairman :         Assistant Director/Existing Buildings 2, Buildings Department\n\n\nMembers :        Chief Building Surveyor/Fire Safety, Buildings Department\n\n                  Chief Structural Engineer/Existing Buildings, Buildings Department\n\n                1 Representative from the Fire Services Department\n\n                3 Authorized Persons (on rotational basis)\n\n                3 Fire Safety Practitioners (on rotational basis)\n\n                3 Fire Safety Experts from academia (on rotational basis)\n\n                3 Members of Public (on rotational basis)\n\n\nSecretary:         Building Surveyor/Fire Safety, Buildings Department\n\n\n\n\n\n(10/2010)"
+    }
+  ]
+}

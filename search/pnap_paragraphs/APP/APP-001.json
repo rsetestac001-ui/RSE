@@ -1,0 +1,90 @@
+{
+  "code": "APP-001",
+  "source_text": "indexed_text/PNAP/APP/APP-001.txt",
+  "source_pdf": "documents/PNAP/APP/APP-001.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers          APP-1\n\n                                     Practice Note for Authorized Persons\n   Buildings Department                                                     11\n                              and Registered Structural Engineers\n\n\n\n                 Landlord and Tenant (Consolidation) Ordinance, Cap. 7\n            Demolished Buildings (Re-development of Sites) Ordinance, Cap. 337\n\n\nValidity of Approved Plans\n\n            Approved plans forming the basis of an Exclusion Order under the Landlord &\nTenant (Consolidation) Ordinance are normally excluded by Buildings Ordinance section 16(3A)\nfrom the application of Buildings Ordinance section 16(3)(d).  Consent applied for after more\nthan two years of approval will be given if it is still practical for the work to be completed within\nthe Re-development Order period.\n\nMaterial Variation"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 150
+        },
+        {
+          "label": "b",
+          "offset": 214
+        },
+        {
+          "label": "c",
+          "offset": 287
+        }
+      ],
+      "text": "2.           For a project affected by an Exclusion Order, amendments as follows to the\napproved plans would be deemed to be a \"material variation\" :\n\n        (a)    a reduction in floor space of more than 10%; or\n\n        (b)    a change in use of any part of the proposed building; or\n\n        (c)     the involvement of other premises also subject to the Landlord and\n             Tenant  (Consolidation)  Ordinance  (e.g. by  extension  of  the\n                project).\n\nThe authorized person (or his client's solicitors) must apply to the Lands Tribunal (Registrar,\nLands Tribunal, Wanchai Law Courts, Wanchai Tower, 12 Harbour Road, Hong Kong) for an\namending Exclusion Order."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         Any approval given by the Building Authority under the Buildings Ordinance\ndoes  not  imply  that  the  plans  will  also  be  accepted  under  the  Landlord and  Tenant\n(Consolidation) Ordinance.\n\nPenalty-Free Extension"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.             In case of delays to commencement of building works by the date laid down in an\nExclusion Order, penalty-free extension of one month may be granted by the Building Authority\nupon request before expiry of the commencement period.\n\n\n                                                                                 /5. Examples ...."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "-  2  -"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 87
+        },
+        {
+          "label": "b",
+          "offset": 292
+        },
+        {
+          "label": "c",
+          "offset": 443
+        }
+      ],
+      "text": "5.           Examples of circumstances which may justify penalty-free extensions are :\n\n        (a)     inability  to obtain vacant possession,  subject  to the  applicant\n              having  commenced   legal  proceedings  and  pursuing  such\n              proceedings with due diligence;\n\n        (b)     inability to obtain entry to adjacent property to construct adequate\n              shoring or other precautionary works required; and\n\n        (c)     inability to obtain consent to commence demolition works for\n               other reasons beyond the control of the applicant.\n\n\n\n\n\n                                                         (Helen C P Lai YU)\n                                                             Building Authority\n\n\n\n\n\nRef. : BD GP/LEG/lO\n\nFirst issued December 1974\nThis revision March 1994 (AD/D)\n\nIndex under : BO s16(3A) - Approved Plans\n             Demolished Buildings (Re-development of Sites) Ordinance, Cap. 337\n              Exclusion Orders\n             Landlord & Tenant (Consolidation) Ordinance, Cap. 7\n              Material Variation\n             Re-development Orders"
+    }
+  ]
+}

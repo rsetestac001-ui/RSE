@@ -1,0 +1,160 @@
+{
+  "code": "APP-060",
+  "source_text": "indexed_text/PNAP/APP/APP-060.txt",
+  "source_pdf": "documents/PNAP/APP/APP-060.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-60\n                          Registered Geotechnical Engineers\n\n\n                        Buildings Ordinance (Cap. 123)\n                                 Specified Forms\n\n\n               In exercise of the powers under section 22(4) of the Buildings Ordinance\n(BO), I have specified the forms listed at Appendix A."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          Where a section of the BO or a regulation made under the BO requires an\napplication, a notice or a certificate to be submitted in a specified form, the forms listed\nin Appendix A for the relevant purpose should be used and should not be altered or\namended in any way.  Failure to use the specified form may invalidate the application,\nnotice or certificate."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         An Electronic Forms Submission System (EFSS) and an e-Counter have\nbeen set up to  facilitate online submission of some specified forms with built-in\nsubmission function via the Buildings Department (BD) website at www.bd.gov.hk and\nvia emails at receipt@bd.gov.hk respectively."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          With the launch of Stage 1, Stage 2 and Stage 3 of the Electronic\nSubmission Hub (ESH) on 30 June 2022, 31 March 2023 and 30 June 2024 respectively,\ncommonly used specified forms for new building and alteration and addition works are\navailable for online submission via ESH."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The Registration and Minor Works Management System (RMWMS) was\nlaunched on 29 May 2026 via BD website at https://rmwms.bd.gov.hk for receiving and\nprocessing submissions of certain specified forms and related supporting documents."
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "6.            Please refer to Appendix A for the specified forms that are available for\nsubmission online via different information systems."
+    },
+    {
+      "id": "p7-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "7.            Reference should be made to Practice Note for Authorized Persons,\nRegistered  Structural Engineers and  Registered Geotechnical Engineers ADM-17\nregarding the requirements for submission of plans and related documents in electronic\nformat.\n\n\n                                                         /8…"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          The specified forms will be kept under regular review and revised as\nnecessary. The latest versions can be downloaded from BD website. BD encourages\npaperless submission by electronic means. Even when a form is submitted in hard copy,\nusers are encouraged to fill in the form on computer so that the required information can\nbe automatically stored in the two-dimensional barcode (i.e. QR code) on the form for\nsubsequent processing by BD.  If required, copies of the forms can be obtained during\noffice hours from the General Enquiry and Receipt Counter on G/F of Buildings\nDepartment Headquarters, North Tower, West Kowloon Government Offices, 11 Hoi\nTing Road, Yau Ma Tei, Kowloon."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.           For the list of specified forms in relation to the Mandatory Building and\nWindow Inspection Schemes, reference should be made to the Practice Note for\nMandatory Building and Window Inspection Schemes PNBI-3.\n\n\n\n\n\n                                                             ( HO Chun-hung )\n                                              Building Authority\n\n\n\n\n\nRef. : BD GP/BREG/A/1 (VII)\n\nThis PNAP is previously known as PNAP 159\nFirst issue    August 1993\nLast revision  June 2024\nThis revision May 2026 (AD/CS)  (Paragraph  4 &  Appendix A  amended,  and\n                                  paragraphs 5 & 6 added)"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Appendix A\n                                                                (PNAP APP-60)\n\n                                Buildings Ordinance (Cap. 123)\n                                         Specified Forms\n\nForm               Description               Relevant     Available    Available    Available\n No.                                              section of     for online     for online    for online\n                             BO or its    submission   submission   submission\n                                                 regulations     via EFSS        via        via ESH\n                                                      and    RMWMS\n                                                         e-Counter\n BA1     Application for Inclusion in the     BO s3(6)                     \n         Authorized Persons’ Register/\n           Structural Engineers’ Register/\n          Geotechnical Engineers’ Register/\n           Inspectors’ Register\nBA1A    Application for Retention of Name in  BO s3(9B)                    \n          the Authorized Persons’ Register/\n           Structural Engineers’ Register/\n          Geotechnical Engineers’ Register/\n           Inspectors’ Register\nBA1B    Application for Restoration of Name  BO s3(12)                     \n           in the Authorized Persons’ Register/\n           Structural Engineers’ Register/\n          Geotechnical Engineers’ Register/\n           Inspectors’ Register\n BA2     Application for Registration as a     BO s8B                      \n         General Building Contractor/\n           Specialist Contractor\nBA2A    Application for Renewal of        BO s8C(2)                    \n          Registration as a Registered General\n          Building Contractor/Registered\n           Specialist Contractor\nBA2B    Application for Restoration of Name  BO s8D(2)                    \n           to the Register of General Building\n           Contractors/Specialist Contractors\nBA2C    Application for Approval of Technical BO s8B                      \n          Director/Other Officer/Person\n         Appointed to Act for the purposes of\n          the Buildings Ordinance for a\n          Registered General Building\n          Contractor/Registered Specialist\n          Contractor\n\n\n\n\n\n                                                                         - 1 -"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Form               Description               Relevant     Available    Available    Available\n No.                                              section of     for online     for online    for online\n                             BO or its    submission   submission   submission\n                                                 regulations     via EFSS        via        via ESH\n                                                      and    RMWMS\n                                                         e-Counter\n BA4    Notice of Appointment of Authorized  BO s4 &                     \n         Person and/or Registered Structural    B(A)R 23\n         Engineer and/or Registered\n          Geotechnical Engineer\n BA5     Application for Approval of Plans of  BO s14(1)(a)                    \n          Building Works and/or Street Works  & B(A)R18A,\n         and Certificate of Preparation of Plans & 29\n BA6     Stability Certificate of Authorized    B(A)R 18                      \n         Person and/or Registered Structural\n         Engineer\n BA7    Notice of Urgent Works Required as  BO s19 &                     \n         a Result of Accident or Emergency    B(A)R 28\n\n BA8    Application for Consent to the      BO s14(1)(b)                   \n        Commencement and Carrying out of  & B(A)R 31                                                               (only within          Building Works or Street Works                                                                     office hours)\nBA8A    Application for Concurrent Consent  BO s14(1)(b)                    \n           to the Commencement of Building   & B(A)R 31\n        Works\n BA9    Application for Renewal of Consent  BO s20                        \n           to the Carrying out of Building\n        Works or Street Works\nBA10   Notice of Appointment of Registered  BO s9 &                     \n          Contractor, Notice of              B(A)R 20\n        Commencement of Building Works\n          or Street Works and Undertaking by\n          Registered Contractor\nBA11   Notice from a Registered Contractor   B(A)R 24                     \n       On Ceasing to be Appointed in\n          respect of Building Works or Street\n        Works and Certificate In Respect of\n           that Part of the Building Works or\n           Street Works Carried out by the\n          Registered Contractor\nBA12    Certificate on Completion of      BO s21 &                      \n          Building Works Resulting in a New   B(A)R 25\n        Temporary Building, a New\n          Building or Part of a New Building\n         and Application for Temporary\n         Occupation Permit in respect of Such\n          Building or Part\n\n                                                                         - 2 -"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Form               Description               Relevant     Available    Available    Available\n  No.                                              section of     for online     for online    for online\n                              BO or its    submission   submission   submission\n                                                 regulations     via EFSS        via        via ESH\n                                                      and    RMWMS\n                                                          e-Counter\n BA13    Certificate on Completion of      BO s21 &                      \n          Building Works Resulting in a New   B(A)R 25\n          Building and Application for Permit\n           to Occupy Such Building\n BA14    Certificate on Completion of        B(A)R 25 &                   \n          Building Works Not Resulting in a    26\n       New Building or of Street Works\nBA14A   Certificate on Completion of        B(A)R 25                     \n          Demolition Works\n\nBA14B    Certificate on Completion of        B(A)R 25                      \n          Demolition Works (Streamlined\n          Procedure)\n\nBA14C    Certificate on Completion of        B(A)R 25                      \n          Building Works not Resulting in a\n       New Building (Streamlined\n          Procedures)\n BA15   Notice of Intended Material Change  BO s25 &                     \n           in the Use of a Building            B(A)R 47                                                                (only within\n                                                                     office hours)\n BA16    Application for Modification of     BO s42                      \n          and/or Exemption from the\n          Provisions of the Buildings\n          Ordinance and/or Regulations Made\n          Thereunder\n BA17    Application for Permit to Erect a      B(P)R 51                       \n         Temporary Building\n BA18    Application for Permit to Erect a      B(P)R 53                    \n           Contractor’s Shed\n\n BA19    Application for Permit to Erect       B(P)R 64                       \n          Hoardings, Covered Walkways or\n          Gantries\n BA20   Notice of Technically Competent    B(DW)R 8                    \n          Person or Persons Appointed to\n          Supervise Demolition Works\n\n\n\n\n\n                                                                          - 3 -"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Form               Description               Relevant     Available    Available    Available\n  No.                                              section of     for online     for online    for online\n                             BO or its    submission   submission   submission\n                                                 regulations     via EFSS        via        via ESH\n                                                      and    RMWMS\n                                                          e-Counter\n BA21   Notice of Nomination by Authorized  BO s4(2) &                    \n          Person or Registered Structural      B(A)R 23(2)\n          Engineer or Registered Geotechnical\n          Engineer to temporarily act in his\n           stead\n BA22    Application for Authorization to    BO s28B(1)                    \n          Carry Out and/or Maintain\n         Groundwater Drainage Works\n BA23    Application for Grant/Renewal of     B(OSI)R 6(1)                   \n          Licence for an Oil Storage       & 7(3)\n            Installation\n BA24    Notification of Change of Business   B(A)R 45                     \n          Address/Contact Information\n BA25    Application for Registration as a     B(MW)R                     \n          Registered Minor Works Contractor    s10(1)(b)\n         (Company)\nBA25A   Application for Renewal of        B(MW)R                     \n           Registration of Registered Minor      s14(1)\n        Works Contractor (Company)\nBA25B   Application for Restoration of Name  B(MW)R                     \n           to the Register of Minor Works        s18(1)\n          Contractors (Company)\nBA25C   Application for Registration of      B(MW)R                     \n          Additional Class and/or Type of       s21(2)\n         Minor Works for Registered Minor\n        Works Contractor (Company)\nBA25D   Application for Approval of       B(MW)R                     \n         Nomination of Additional             s24(1)\n          Authorized Signatory/Technical\n           Director of Registered Minor Works\n          Contractor (Company)\nBA25E   Application for Review of Decision   B(MW)R s26                   \n          of the Building Authority or\n         Recommendation of the Minor\n        Works Contractors Registration\n         Committee in respect of Registration\n          of Minor Works Contractor\n         (Company)\n\n\n\n\n                                                                          - 4 -"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Form               Description               Relevant     Available    Available    Available\n  No.                                              section of     for online     for online    for online\n                              BO or its    submission   submission   submission\n                                                  regulations     via EFSS        via        via ESH\n                                                      and    RMWMS\n                                                          e-Counter\n BA26    Application for Registration as a     B(MW)R                     \n           Registered Minor Works Contractor    s10(1)(a)\n            (Individual)\n BA26A   Application for Renewal of        B(MW)R                     \n           Registration of Registered Minor      s14(1)\n         Works Contractor (Individual)\nBA26B   Application for Restoration of Name  B(MW)R                     \n            to the Register of Minor Works        s18(1)\n           Contractors (Individual)\n BA26C   Application for Registration of      B(MW)R                     \n           Additional Items of Class III Minor    s21(1)\n         Works for a Registered Minor Works\n           Contractor (Individual)\n BA26D   Application for Review of Decision of  B(MW)R s26                   \n            the Building Authority or\n         Recommendation of the Minor Works\n           Contractors Registration Committee\n            in respect of Registration of Minor\n         Works Contractor (Individual)\n MW01   Notice of Commencement of Class I   B(MW)R s30,                   \n         Minor Works                       s33 & s37\n MW02    Certificate of Completion of Class I   B(MW)R s31,                   \n         Minor Works                           s32, s34, s35,\n                                             s36 & s37\n MW03   Notice of Commencement of Class II  B(MW)R s33                   \n         Minor Works              & s37\n MW04    Certificate of Completion of Class II   B(MW)R s34,                   \n         Minor Works                           s35, s36 & s37\n MW05   Notice and Certificate of Completion  B(MW)R s36                   \n           of Class III Minor Works        & s37\nMW06-1  Notice of Inspection & Certification   BO s39C &                    \n           of Prescribed Building or Building    B(MW)R s31,\n         Works and Certificate of Completion   s37 & s62A\n           of the associated Alteration or\n           Strengthening Works involving\n           Class I Minor Works\n          (Minor Amenity Feature Validation\n          Scheme)\n\n\n\n                                                                           - 5 -"
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Form               Description               Relevant     Available    Available    Available\n  No.                                              section of     for online     for online    for online\n                              BO or its    submission   submission   submission\n                                                  regulations     via EFSS        via        via ESH\n                                                      and    RMWMS\n                                                          e-Counter\nMW06-2  Notice of Inspection & Certification   BO s39C &                    \n           of Prescribed Building or Building    B(MW)R s34,\n         Works and Certificate of Completion   s37 & s62A\n           of the associated Alteration or\n           Strengthening Works involving\n           Class II Minor Works\n          (Minor Amenity Feature Validation\n          Scheme)\n\nMW06-3  Notice of Inspection & Certification   BO s39C,                     \n           of Prescribed Building or Building    B(MW)R s36\n         Works and Certificate of Completion  & s37 &\n           of the associated Alteration or       B(MW)R s62\n           Strengthening Works involving         or s62A\n           Class III Minor Works\n          (Household Minor Works Validation\n         Scheme or Minor Amenity Feature\n           Validation Scheme)\n MW07   Notice of Change in Appointment of   B(MW)R                     \n         Minor Works (Registered Structural    s48(2) &\n           Engineer, Registered Geotechnical      s48(4)\n           Engineer or Prescribed Registered\n           Contractor)\n MW08   Notice of Change in Appointment of   B(MW)R                     \n         Minor Works (Authorized Person or    s48(3)\n           Registered Inspector)\n MW09    Notification of Nomination of      BO s4A(5) &                   \n          Temporary Acting of the Prescribed   B(MW)R s49\n           Building Professional (Minor Works)\n MW10   Notice of Cessation of Prescribed    BO s4A(5) &                   \n           Registered Contractor (Minor Works)  B(MW)R s51\n                           & s52\n MW11   Notice of Commencement of       B(MW)R s30,                   \n           Additional Class I Minor Works       s33 & s37\n MW12   Notice of Commencement of       B(MW)R s33                   \n           Additional Class II Minor Works    & s37\n MW31   Notice of Cessation of Appointment   B(MW)R s50                   \n           or Nomination of Prescribed Building\n            Professional (Minor Works)\n\n\n\n                                                                           - 6 -"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Form               Description               Relevant     Available    Available    Available\n   No.                                              section of     for online     for online    for online\n                               BO or its    submission   submission   submission\n                                                   regulations     via EFSS        via        via ESH\n                                                       and    RMWMS\n                                                           e-Counter\n MW32   Request for Submission Number for   B(MW)R s36                   \n            Class III Minor Works Relating to the\n            Erection or Alteration of Signboard\n\n  SC01    Notice of Inspection & Certification   BO s39C(1A)                   \n             of Unauthorised Signboard and     & B(MW)R\n          Commencement of                     s30, s37 &\n             Alteration/Strengthening Works -      s62A\n            Class I Minor Works\n  SC01C    Certificate of Completion of       BO s39C(1A)                   \n             Alteration/Strengthening Works     & B(MW)R\n            Carried Out for Inspection and          s31, s37 &\n              Certification of Unauthorised         s62A\n            Signboard - Class I Minor Works\n  SC02    Notice of Inspection & Certification   BO s39C(1A)                   \n             of Unauthorised Signboard and     & B(MW)R\n          Commencement of                     s33, s37 &\n             Alteration/Strengthening Works -      s62A\n            Class II Minor Works\n  SC02C    Certificate of Completion of       BO s39C(1A)                   \n             Alteration/Strengthening Works     & B(MW)R\n            Carried Out for Inspection and          s34, s37 &\n              Certification of Unauthorised         s62A\n            Signboard - Class II Minor Works\n  SC03    Notice of Inspection & Certification   BO s39C(1A)                   \n             of Unauthorised Signboard and     & B(MW)R\n           Completion of                          s36, s37 &\n             Alteration/Strengthening Works -      s62A\n            Class III Minor Works\n\nNote :   Please  refer  to Practice Note  for Authorized Persons, Registered  Structural Engineers and Registered\n         Geotechnical Engineers ADM-17 for details regarding online submission via EFSS, e-Counter, RMWMS and\n       ESH.\n\n\n\n\n\n(Rev. 5/2026)\n\n\n\n\n                                                                             - 7 -"
+    }
+  ]
+}

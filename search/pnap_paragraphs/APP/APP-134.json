@@ -1,0 +1,145 @@
+{
+  "code": "APP-134",
+  "source_text": "indexed_text/PNAP/APP/APP-134.txt",
+  "source_pdf": "documents/PNAP/APP/APP-134.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers   APP-134\n\n                              Practice Note for Authorized Persons        283 Buildings Department                        and Registered Structural Engineers\n\n\n          Development in the Designated Area of Northshore Lantau\n\nBackground\n\n         Hong Kong Geological Survey Sheet Report No. 6, published by the\nGeotechnical Engineering Office (GEO) of the then Civil Engineering Department in\nJuly 2002, provides information on the geology of Tung Chung and  Northshore\nLantau  Island. Other information on the geology of the  area, including previous\ngeological studies as well as relevant onshore and marine ground investigation data, is\navailable for inspection in the Geotechnical Information Unit of the Civil Engineering\nLibrary."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        The Northshore Lantau  area  is  underlain mainly by medium-grained\ngranite,  intruded by numerous  rhyolite  dykes.  However,  the  following complex\ngeological conditions are known to exist within the area:\n\n                 (i)     metasedimentary   rocks       (comprising       marble,\n                  metasandstone  and  metasiltstone)  that  are  subject  to\n                    dissolution and give rise to cavities,  cavity-fill  deposits\n                 and residual soils (these geological terms are described in\n                      detail in the appendix to Hong Kong Geological Survey\n                  Sheet Report No. 6);\n\n                 (ii)     soft or loose or weakly lithified superficial deposits that\n                 occupy depressions in the subcrop surface, most of which\n                        lie directly above or adjacent to metasedimentary rocks;\n                 and\n\n                  (iii)   anomalously  deep,  or  steeply  inclined,  rockhead    in\n                  igneous rocks."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.        The complex geology can have significant effects on foundation design\nand construction in terms of both development costs and construction programme,\nowing to the practical difficulties associated with the installation of long piles through\nthe  difficult  ground  conditions.  In  two  extreme  cases,  this  has  led  to  the\nabandonment of planned  residential tower blocks  at the Tung Chung New Town\nreclamation at sites where the existence of cavity-fill deposits and a deep, and locally\nsteeply dipping, rockhead rendered the foundation works too costly, time consuming\nand difficult to build.\n                                                                                      /4. ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.        The nature of the problem suggests that there is scope for optimization of\nfoundation design, given adequate ground investigation. In some cases, foundations\nmight prove to be so costly that adjustment of the layout of the development or site\nabandonment  is  warranted.  It  is  therefore considered necessary  to adopt  special\nmeasures for developments within the Designated Area in order to ensure that deep\nfoundations in the area are properly designed and constructed.\n\nBoundary of Designated Area"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.        The affected area is referred to as “the Designated Area of Northshore\nLantau”. The plan  illustrating the extent of the Designated Area  is available for\ninspection in the Geotechnical Information Unit of the Civil Engineering Library. A\nsmall-scale location plan of the Designated Area is shown in Appendix A.\n\nAdministrative Procedures and General Guidance\nGround Investigation (GI)"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.         Authorized Persons (APs)  / Registered Geotechnical Engineers (RGEs)\nshould follow the administrative procedures including supervision requirements for the\nGI works in accordance with the Code of Practice for Site Supervision. In addition,\nthe GEO  will provide  useful  advice/information on  geological  conditions  in  the\nDesignated Area  to  facilitate development. APs/RGEs are strongly encouraged  to\nseek advice/comments from the Chief Geotechnical Engineer/Mainland West of the\nGEO on their GI proposals within the Designated Area before commencement of the\nGI works."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.       GI for a site within the Designated Area is best carried out in stages and\nmust be adequate to allow an assessment of whether the ground conditions will effect\nthe proposed development.  Some deep drillholes will be required for this purpose.\nIt is also advisable to carry out the initial stages of the GI prior to the finalization of\ngeneral building plans for the site because, in certain circumstances, adjustments to\nthe locations of certain structures may be the most economical means of dealing with\nserious geotechnical problems posed by difficult ground conditions.\n\nDesign and Construction of Deep Foundations"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 124
+        }
+      ],
+      "text": "8.        The following documents shall be submitted with the foundation plans for\nbuildings works in the Designated Area:\n\n                (i)    an explanatory guide to the submission;\n\n                 (ii)    a report containing the  results of ground investigation\n                   including details of the equipment and procedures used;\n                                                                                                                  /(iii)"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n                 (iii)   a report containing critical examination and interpretation\n                   of  (ii)  above,  a  schedule  of  the  geotechnical  design\n                   assumptions,   discussion   of   anticipated   geotechnical\n                 problems and containing geotechnical requirements for the\n                  design and construction of the foundation works including\n                      testing, inspecting and maintenance requirements; and\n\n              (iv)    design calculations for foundation works."
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.         General guidance on the design and construction of piled foundation\nworks is given in PNAP 66 and the Code of Practice for Foundations."
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.       The AP/RSE/RGE shall arrange for supervision of the foundation works\nin the Designated Area as specified in the Code of Practice for Site Supervision.\n\nGeotechnical Information"
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.       Technical guidance on foundation works  in  the Designated Area  of\nNorthshore Lantau  is given in GEO Technical Guidance Note No. 12, which  is\navailable  on   the   Civil  Engineering  and  Development  Department  website\n(www.cedd.gov.hk). Ground investigation works shall be carried out in accordance\nwith the standards and provisions set down in the latest editions of “Guide to Site\nInvestigation” and other GEO technical guidance documents as may become available\nfrom time to time.  Furthermore, a review of the principles and practice related to\nthe design and construction of piles in Hong Kong is provided in GEO Publication No.\n1/96.\n\n\n\n\n\n                                                                          ( H W CHEUNG )\n                                                         Building Authority\n\n\n\nRef. : BD GP/BORD/A/15 (IV)\n\nFirst issue  January 2004\nThis revision  February 2006  [AD/NB2 and Deputy Head of GEO (Island)]\n                               (Paras 6 & 10 amended to include ‘RGE’)\n\nIndex under : Designated Area"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                       (PNAP 283)\n                                                             (APP-134)\n\n\n         THE DESIGNATED AREA OF NORTHSHORE LANTAU\n\n\n\n\n\nTHE\n\n\n\n\n\n   (1/2004)"
+    }
+  ]
+}

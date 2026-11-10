@@ -1,0 +1,56 @@
+{
+  "code": "APP-107",
+  "source_text": "indexed_text/PNAP/APP/APP-107.txt",
+  "source_pdf": "documents/PNAP/APP/APP-107.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-107\n\n                                      Practice Note for Authorized Persons   Buildings Department                                                232\n                               and Registered Structural Engineers\n\n\n\n\n                  Precautionary Measures for Construction Sites\n\n           From time to time, construction activities cause damage to adjoining\nproperties and nuisance to the public."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            This practice note serves as a reminder of the need to provide necessary\nprotective and  precautionary measures  to minimize  adverse  effect on  adjoining\nbuildings and nuisance to general public."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           While the precautionary measures required for a particular site depend\non its special circumstances, attention should be paid to the following types of works :\n\n        a)     Demolition works;\n       b)     Dewatering in foundation and basement excavation;\n        c)     Lateral support for excavation;\n       d)     Pouring of concrete against walls of adjoining buildings;\n        e)      Structural works."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.            General advice on the above works can be found in Practice Notes for\nAuthorized Persons and Registered Structural Engineers 71, 74, 81, 148 and 224 as well\nas the Draft Code of Practice for Demolition of Buildings."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.             In addition, your attention is also drawn to PNAP 144 on the control of\nenvironmental nuisance.\n\n\n\n\n\n                                                                ( CHOI Yu-leuk )\n                                                Building Authority\n\n\n\n\n\nRef. : BD GR/ACT/20\n\nFirst issue December 1998 (AD/D)\n\nIndex under :  Precautionary measures for construction works\n               Protective measures"
+    }
+  ]
+}

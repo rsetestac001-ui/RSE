@@ -1,0 +1,132 @@
+{
+  "code": "ADV-019",
+  "source_text": "indexed_text/PNAP/ADV/ADV-019.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-019.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers    ADV-19\n\n                                  Practice Note for Authorized Persons\n Buildings Department                                                243                            and Registered Structural Engineers\n\n\n\n                       Construction and Demolition Waste\n\n Introduction\n\n         The  landfills used for disposal of solid waste are being  filled up  at an\n alarming rate.  Of particular concern is the increasing amount of construction and\n demolition (C&D) materials being dumped at the landfills.  More than one quarter of\n the total solid waste disposed of in landfills is generated from building construction.\n Careful consideration given to waste generation and management at the planning stage\n of a building development will lead to less waste later on for disposal at landfills.\n\n Waste Minimization"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.      Waste prevention not only reduces the need for  landfill space, but also\n conserves natural resources and reduces pollution.  Opportunities to prevent waste\n can be  identified during both  the  project planning and design stage as well as\n construction stage.  Measures may include :\n\n     Planning and Design\n\n        i)    Precast and prefabrication including modular design, precast façade,\n           precast  staircase,  precast  slab,  prefabricated  external  elements,\n           precast bridge-decks or footbridges,  precast blocks  for pavement\n           paving, prefabricated kitchen or bathroom accessories, proprietary\n           doorset and partition wall;\n       ii)    Sprayed plaster;\n      iii)    Balancing cut and fill;\n     iv)   Use of pulverised fuel ash in concrete for substructure, superstructure\n          and streetwork;\n     v)   Combine services trenches to reduce excavation;\n     vi)    Purchasers’ choice for finishes and fittings;\n    vii)    Minimised use of timber from non-sustainable sources; and\n    viii)    System formwork.\n\n     Construction and Site Management\n\n        i)   Waste Management Plan;\n       ii)    Non-timber hoarding;\n      iii)    Metal formwork and metal falsework;\n     iv)    On-site sorting of C&D materials;\n     v)    On-site water conservation;\n     vi)    Recycling of concrete for use as fill or hardcore;\n\n\n                                                                         /vii)….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "-2-\n\n   vii)    Recycling of aggregate for concrete for non-structural work;\n  viii)     Identification  of  available  recycling  facilities  for waste  materials\n          generated; and\n   ix)     Installation of underground mechanical spray wheel wash.\n\nWaste Management Plan"
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "3.      As a Waste Management Plan (the Plan) is a useful tool in ensuring that\nmeasures are taken during the construction stage to reduce C&D materials,  it  is\nrecommended that you advise your client to require the contractor to submit such a\nplan to you for agreement.  The following are the areas that may be covered in the\nPlan :\n\n      i)    the types of waste and their estimated quantities;\n     ii)    the timing of waste arising;\n    iii)    measures for reducing waste generation;\n   iv)    on-site waste separation;\n    v)    on-site and off-site material reuse;\n   vi)    areas for waste storage;\n   vii)    quantities of waste requiring off-site disposal;\n  viii)    disposal outlets;\n   ix)    monitoring and auditing programme;\n    x)    organisation structure for waste management;\n   xi)    a list of materials to be reused or recycled with estimated quantities;\n   xii)    implementation of the trip ticket system (see paragraph 5 below for\n          reference);\n  xiii)   method of processing, storing and disposal of hazardous waste; and\n  xiv)   method of dealing with packaging material."
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.       For projects that produce more than 300,000 cu.m. of construction and\ndemolition material, the Director of Environmental Protection has indicated that he is\nprepared to offer advice to you prior to your acceptance of the Plan.  The Public Fill\nCommittee of Civil Engineering Department is also prepared to offer advice to AP &\nRSE on the management and beneficial reuse of C&D material.\n\nTrip Ticket System"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.      The problem of illegal dumping has attracted adverse publicity and most\nillegally dumped materials are generated from construction  activities.  For more\neffective control, the Works Bureau has established a Trip-ticket System in public\nworks contracts for the proper disposal of construction and demolition (C&D) material\nat public filling facilities or landfills.  This policy is promulgated under the Works\nBureau Technical Circular (WBTC) No.5/99, which is effective on 1 July 1999.  The\npolicy is that all public fill (being the inert portion of C&D material) shall be disposed\nof at designated public filling facilities managed by Civil Engineering Department\n(CED), and all C&D waste (being the non-inert portion of C&D material) shall be\ndisposed of at designated landfills managed by Environmental Protection Department\n(EPD). A brief description of the Trip-ticket System is described in Appendix A.\n                                                                              /6. ….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "-3-"
+    },
+    {
+      "id": "p6-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "6.      The system has been adopted by the Housing Authority and the Works\nDepartments.  The same system could be applied to the disposal of C&D material in\nprivate sector projects.  The project administrators for private developments could\napply, through CED and EPD, for designated public filling facilities and landfills for\nthe disposal of the public fill and C&D waste respectively.  The Building Authority\nstrongly recommends that the system be implemented in private sites for better control\nof the C&D material disposal."
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "7.       For details of the WBTC No.5/99, please go to the web site of Works\nBureau @ http://www.wb.gov.hk.  For details on the disposal of public fill, please\nrefer to the web site of CED @ http://www.info.gov.hk/ced and the notes at Annex I\nof Appendix A.\n\n\n\n\n\n                                         (C M LEUNG)\n                                               Building Authority\n\n\n\n\n\nRef : BD GP/BREG/RC/3\n\nFirst issue June 2000 (AD/D)\n\nIndex under : Construction waste\n             Demolition waste\n               Trip-ticket system\n            Waste management plan"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                               PNAP 243\n                                                       ADV-19\n                            Trip Ticket System\n\n  (i)   At the planning stage of a contract, the project officer seeks confirmation from\n    CED (Public Fill Committee) whether public filling facilities are available for\n       disposal of the public  fill, and from EPD  (Facilities Management Group)\n      whether landfills are available for disposal of the C&D waste.\n\n(ii)   The project officer shall provide the following information to CED and EPD in\n       the application for designated disposal outlets:\n\n        (a)    Contract number and title;\n        (b)     Site location;\n        (c)    Anticipated quantities of disposal;\n        (d)   Programme for disposal;\n        (e)   Recommended   disposal   arrangement   in   Environmental   Impact\n             Assessment/Contamination Assessment Report, if any;\n         (f)    Test results identifying the type and level of contaminants present,  if\n             any;\n        (g)    Types of the public fill and/or C&D waste;\n        (h)    Contact details of the project officer.\n\n(iii)  CED  and EPD  will  designate  the  public  filling  facilities  and  landfills\n       respectively for the project and advise the project officer the acceptance criteria\n       of the respective facilities.  As a general policy to conserve the limited landfill\n       void  space,  public  fill  (such  as  soil,  rock,  concrete,  bricks, bituminous\n       materials  etc.) should be delivered to public  filling  facilities instead of to\n        landfills (see Annex I regarding disposal of public fill).\n\n(iv)   The project officer then specifies the names of the facilities and acceptance\n        criteria in the tender documents.\n\n(v)  A trip ticket (i.e. a Disposal Delivery Form) is required for each truckload\n       delivered to the public filling facilities and landfills. (Sample of the Form is\n      shown in Annex II and also available in the WBTC No.5/99).\n\n(vi)   Upon commencement of construction, the Contractor shall carry the trip ticket\n       (Disposal Delivery Form) issued by the project officer for every vehicular trip\n       transporting the public  fill and C&D waste to the designated public filling\n         facilities and landfills respectively.\n\n(vii)  For each vehicular trip on arrival at the disposal facility, the Contractor shall\n       present the Form at the entrance gate, proceed with the disposal operation and\n       then obtain a receipt from the operator of the public filling facility or landfill at\n       the exit gate.  The Contractor is required to submit the original receipt to the\n       Engineer's/Architect's Representative of the project office.  The project office\n       then approaches CED or EPD for a monthly report of the relevant transaction\n       records and carries out the reconciliation for compliance checking."
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Annex I of Appendix A\n                                               PNAP 243\n                                                       ADV-19\n\n                             Disposal of Public Fill\n\n(a)   For each truckload delivered to the public filling facilities a trip ticket (i.e. a\n     Disposal Delivery Form) is required.  Please see Annex II.\n\n(b)  The dump trucks should also have valid Dumping Licences issued by CED.\n    Dump trucks without Dumping Licences will be rejected.\n\n(c)   Application form  for Dumping  Licence  and  the  associated  conditions  as\n      stipulated  in  the Dumping Licence can be  collected from  the Port Works\n      Division,  5/F.,  Civil  Engineering  Building, 101  Princess Margaret Road,\n     Homantin,   Kowloon   or   downloaded   from  CED’s  web    site    at\n     http://www.info.gov.hk/ced/. A sample is at Annex III.\n\n(d)  The inert construction and demolition (C&D) materials to be delivered to the\n      public filling facilities should be in accordance with the conditions as stipulated\n      in the Dumping Licence (copy attached).\n\n(e)  The normal opening hours of the public filling facilities will be from 8:30 a.m.\n      to 12:00 noon and then from 1:00 p.m. to 6:00 p.m.\n\n(f)   All public filling facilities are open to the public free of charge for land delivery\n      of inert construction and demolition material by vehicles."
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Annex II of Appendix A\n                                               PNAP 243\n                                                       ADV-19\n\n                    Construction and Demolition Material\n                            Disposal Delivery Form\n\n\n\nDepartment :                                    Contract No. :\n\nContractor :\n\nContract Title :\n\nLocation of Site :\n\nLocation of Public Filling Facility/Landfill * :\n\n\n\nVehicle Registration No. :                      Date :\n\n\nApproximate Load :    Full / three quarter / half / one quarter *\n\nRemark :\n\n\n\n\n\nTime of Departure :\n\n                                                     Authorised Chop of\n                                                   Engineer's Representative/\n                                                      Architect's Representative *\n\n\n\n\n\n* Delete whichever inappropriate"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "A                                                         n\n\n\n\n\n\n                                        ex III\n\n\n\n\n\n                                                                                                                       n"
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "A                                                         n\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                nex"
+    }
+  ]
+}

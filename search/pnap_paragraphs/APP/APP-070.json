@@ -1,0 +1,59 @@
+{
+  "code": "APP-070",
+  "source_text": "indexed_text/PNAP/APP/APP-070.txt",
+  "source_pdf": "documents/PNAP/APP/APP-070.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers      APP-70\n\n                                     Practice Note for Authorized Persons\nBuildings Department                                                   176\n                              and Registered Structural Engineers\n\n                               Use of Plastic Sheet\n                              to cover scaffolding outside buildings\n\n                    It is obligatory to provide screens, fans, catch platforms or similar protective\nmeasures to prevent objects from falling outside the building boundary and to alleviate dust\npollution under the law, viz :\n\n        (a)     Regulation 49(1) of the Construction Sites (Safety) Regulations,\n           Cap 59;\n\n        (b)    Regulation  3(2)(a)  of  the  Building  (Demolition  Works)\n               Regulations, Cap 123; and\n\n        (c)     Section 4B(2) of the Summary Offences Ordinance, Cap 228."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            Contractors often cover entirely the scaffolding erected around the walls of a\nvacant building under demolition or construction with polyvinyl (PVC) sheets. This practice is\nsometimes extended to occupied or partly occupied buildings under repair or renovation. The\nDirector of Fire Services has expressed concern  that  the use of PVC  sheets  in  these\ncircumstances aggravates the spread of fire."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The Commissioner for Labour has advised that if not properly fixed, the use of\nsheeting can affect the stability of bamboo scaffolding during strong winds.  Furthermore,\nthere have been instances when PVC sheeting has obstructed the natural ventilation and\nlighting of occupied buildings under renovation."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 173
+        },
+        {
+          "label": "b",
+          "offset": 231
+        },
+        {
+          "label": "c",
+          "offset": 312
+        }
+      ],
+      "text": "4.         You are advised therefore to take the following precautionary measures when\nplastic sheeting is used to cover scaffolding erected around the walls of buildings :\n\n        (a)     flame-retardant sheeting should be used;\n\n        (b)     scaffolding should be reinforced to withstand strong winds; and\n\n        (c)     obstruction  to  natural  ventilation and  lighting  of  occupied\n               buildings under renovation by sheeting should be avoided as far\n               as practicable.\n\n\n                                                         (Helen C P Lai YU)\n                                                             Building Authority\nRef : L/M 18-92 BD GR/ACT/11\n\nFirst issued May 1995\n\nIndex under :  Plastic Sheet\n               Scaffolding"
+    }
+  ]
+}

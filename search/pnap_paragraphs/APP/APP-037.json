@@ -1,0 +1,704 @@
+{
+  "code": "APP-037",
+  "source_text": "indexed_text/PNAP/APP/APP-037.txt",
+  "source_pdf": "documents/PNAP/APP/APP-037.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-37\n                          Registered Geotechnical Engineers\n\n\n                  Curtain Wall, Window and Window Wall\n\nStructural Submission of Curtain Wall Plans\n\n              Curtain wall should be designed to meet the performance requirements set\nout in sections 29 to 31 of the Building (Construction) Regulation (B(C)R).  Attention\nshould be paid to the requirements for wind loads, horizontal imposed loads specified in\nsection 9 of and Table 3 in the Schedule to the B(C)R on curtain wall when there is no\nprotective barrier provided, protection of openings, protection against corrosion and the\nquality of materials."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 148
+        },
+        {
+          "label": "b",
+          "offset": 308
+        },
+        {
+          "label": "c",
+          "offset": 652
+        },
+        {
+          "label": "d",
+          "offset": 831
+        },
+        {
+          "label": "e",
+          "offset": 887
+        },
+        {
+          "label": "f",
+          "offset": 990
+        },
+        {
+          "label": "g",
+          "offset": 1045
+        },
+        {
+          "label": "h",
+          "offset": 1243
+        }
+      ],
+      "text": "2.          The following details are required to be included in the curtain wall plans\nfor submission to the Building Authority (BA) for approval:\n\n        (a)     structural framing and key structural details and the installation\n             procedures excluding any unnecessary shop fabrication details;\n\n       (b)     structural calculations comprising design check on the parent\n                structure, analysis on the structural adequacy and stability of the\n             proposed curtain wall, element design for aluminium alloy,\n               fixing components, glazing, and deflection check on major load\n              carrying members;\n\n        (c)    workmanship   specifications   for   welding,   galvanisation\n             measures  to  overcome  bi-metallic  effects,  and  corrosion\n              prevention;\n\n       (d)     elevations including pane arrangements;\n\n        (e)     typical and non-typical sections showing structural members\n            and supports;\n\n         (f)     typical and non-typical connections;\n\n       (g)     specifications on allowable tolerance of the positioning of\n               curtain wall supports and any remedial arrangements in cases\n            where such tolerance is exceeded;\n\n       (h)     the mode of support from and connection to the load-bearing\n               structure of the building (anchorages in structural concrete\n           members or welded connections to structural steel members)\n            and any justification and application for modification of section\n            31 of the B(C)R for using other mode of support, e.g. drilled or\n              bolted fixings;\n                                                                                                            /(i) …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n         (i)     standards or codes of practice;\n\n         (j)     material specifications for structural steel, aluminium alloy,\n                cast-in anchors, fixing screws, structural sealant, and glazing;\n            and\n\n       (k)     sections showing compliance with section 35 of the B(C)R and\n              the Code of Practice for Fire Safety in Buildings 2011 on such\n               relevant aspects as the protection against spread of fire and\n           smoke between floors, between different fire compartments on\n              the same floor, and between the accommodation of a storey and\n              the required staircase or its protected lobby."
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The authorized person (AP) and registered structural engineer (RSE) are\nreminded to ensure that the curtain wall plans are compatible with the approved general\nbuilding plans.\n\nStructural Submission of Window or Window Wall Plans"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.             In general, window and window wall should satisfy the performance\nrequirements stipulated in the B(C)R, the requirements on lighting and ventilation\nstipulated in the Building (Planning) Regulations and relevant codes of practice."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 585
+        },
+        {
+          "label": "b",
+          "offset": 701
+        },
+        {
+          "label": "c",
+          "offset": 961
+        }
+      ],
+      "text": "5.                If a window or window wall forms wholly or partly the external wall of a\nbuilding, have a structural opening with the least dimension exceeding 1.8m or an area\nexceeding 6m2, and is at 100m or more above adjoining ground level or where the wind\nreference pressure, Qo,z 1, is 2.86 kPa or more, structural framing and key structural\ndetails, excluding any unnecessary shop fabrication details should be submitted for\napproval. The submission should contain the following information to demonstrate that\nthe window or window wall is of adequate strength and stability:\n\n        (a)     information  described  in  items  (b)  to  (g),  (i)  to  (k)  of\n             paragraph 2 above;\n\n       (b)     structural adequacy  in  resisting  horizontal imposed  loads\n               specified in section 9 of and Table 3 in the Schedule to the\n           B(C)R for the window or window wall that functions as a\n               protective barrier; and\n\n        (c)     deflection checks to ensure that the maximum deflection of the\n                structural  elements does  not exceed  the  deflection  limits\n               stipulated in the Code of Practice for Structural Use of Glass\n            2018 (Glass Code).\n\n\n\n                                                                                                 /6. …\n\n\n1  In case the preceding Code of Practice on Wind Effects in Hong Kong 2004 is adopted for the\n   design of window or window wall, design wind pressure, qz, should be regarded as the wind\n   pressure criterion."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p6-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "6.             Structural details of a window or window wall (including glass shop front)\nwith the design span of its structural elements (i.e. mullion, glass fins, etc.) exceeding 6m\nshould be submitted for approval. The structural information mentioned in items (a) to\n(c) of paragraph 5 above should be included in the submission."
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          Where the structural details of a window and window wall are not required\nto be submitted for approval, the AP and RSE should ensure that the design, fabrication\nand installation of the window and window wall would achieve the required safety\nstandard.  Attention should be given to the requirements on horizontal imposed loads,\nprotection of openings, function of protective barriers, corrosion protection, quality\ncontrol of materials and protection against the spread of fire and smoke between floors.\n\nMinor Works Relating to Curtain Wall, Window or Window Wall"
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          Under the Minor Works Control System, certain minor works relating to\nrepair or replacement of curtain wall, and construction, alteration, repair or replacement\nof window or window wall in an existing building are designated as minor works, which\nmay be carried out under the simplified requirements as an alternative to obtaining prior\napproval and consent under the Buildings Ordinance (BO). Reference can be made to\nSchedule 1 of the Building (Minor Works) Regulation and Practice Note for AP, RSE\nand Registered Geotechnical Engineers (PNAP) APP-147 regarding the list of minor\nworks items and the simplified requirements respectively.\n\nDesign and Construction Standards"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.            Standards commonly used for the design and construction of curtain wall,\nwindow and window wall, which are acceptable to the BA, are given in Appendix A and\nPNAP APP-53.\n\nSeparate RSE"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.            In view of the specialty of curtain wall, window and window wall works,\na separate RSE may be appointed to prepare the design and supervise the carrying out of\nsuch works. Under such circumstances, the specified Forms BA4 and BA5 indicating\nthe appointment of the separate RSE and the scope of works for which he/she is\nresponsible are required to be submitted together with the plans submitted for approval.\nUpon completion of the works, the separate RSE so appointed is required to certify\nsatisfactory completion of the works in accordance with regulation 25(3) of the Building\n(Administration) Regulations (B(A)R)."
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.         Where structural details for proposed curtain wall, window or window\nwall works are submitted by the separate RSE, the submission should be accompanied\nby an assessment report prepared by him/her giving an account of the effect of the\nproposed works to the parent structure. The assessment report should be appended with\na statement signed by the project RSE to confirm that he/she is fully aware of the\nconnection details and the effect of the works on the parent structure.\n\n\n\n                                                                                     /12. …"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -"
+    },
+    {
+      "id": "p12-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "12.         The separate RSE appointed for the curtain wall, window or window wall\nworks shall be responsible for the supervision of the construction of such works,\nincluding the installation of any cast-in anchorage, e.g. anchor plates, cast-in embeds and\nthrough bolts, etc., in the parent structure except in the event where the cast-in anchorage\nhas been pre-installed in the parent structure prior to his/her appointment. For such cases,\nthe structural details and layout of the pre-installed parts should be given in the\nsuperstructure plans to be submitted for approval by the project RSE who shall then be\nresponsible for the supervision of the installation of such parts. The separate RSE should\nrefer to the pre-installed connection details when designing the curtain wall, window or\nwindow wall works and should co-ordinate with the project RSE for any necessary\namendments if different connection details are to be used.\n\nUse of Tempered Glass"
+    },
+    {
+      "id": "p13-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "13.         Where tempered glass is used, the RSE and the registered contractor (RC)\nshould ensure that an acceptable Quality Assurance Scheme (QAS) is adopted by the\nglass manufacturer to minimise the risk of spontaneous breakage of tempered glass."
+    },
+    {
+      "id": "p14-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 334
+        },
+        {
+          "label": "b",
+          "offset": 528
+        },
+        {
+          "label": "c",
+          "offset": 1239
+        }
+      ],
+      "text": "14.        To ensure that the tempered glass panes are of good quality, proper\nsupervision and adequate quality control are necessary during the production processes\nof the tempered glass panes.  In this connection, the following conditions/requirements\nwill be imposed when giving approval of plans:\n\n              Quality assurance\n\n        (a)     the tempered glass should be manufactured by a factory with\n           ISO 9001 quality assurance certification as required under item\n            6 of section 17(1) of the BO;\n\n       (b)    a copy of the QAS of the manufacturer should be submitted at\n                least 14 days before the commencement of the production works\n               in the factory as required under regulation 10 of the B(A)R.\n            Such submission should be appended with a statement signed by\n              the RSE to declare that he/she has studied the QAS and confirm\n                that there are adequate measures incorporated in the QAS to\n              ensure the quality of the tempered glass products in compliance\n             with the provisions of the BO and the approved plans. The items\n               to be included in the QAS are listed in clause 9.1.3 of the Glass\n            Code;\n\n        (c)     the compliance reports for heat soak process2 issued by the glass\n             manufacturer and endorsed by the RSE should be submitted\n               prior to the application for occupation permit or the submission\n              of Form BA14 as appropriate under regulation 10 of the B(A)R.\n           The compliance reports for heat soak process should be in\n             accordance with clause 9.3 of the Glass Code;\n\n                                                                      /Quality …\n\n\n2  As one of the quality control measures for tempered glass used in curtain wall, window and\n  window wall works, heat soak process conforming to BS EN 14179-1:2016 and complying\n   with the Glass Code should be carried out to all tempered glass panes."
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 5 -\n              Quality supervision plan\n\n       (d)    a  quality supervision  plan  for  the  quality  supervision  of\n              manufacturer’s heat soak process of the tempered glass to be\n             used in the works shown in the approved plans prepared by the\n          RSE and  the RC should be submitted as required under\n               regulation 10  of  the B(A)R  at  least 14 days  before  the\n           commencement of the tempered glass production in the factory.\n        A standard form of supervision plan together with a list of\n               typical items for quality supervision and a sample of the\n              inspection record are provided in Appendix B for reference.\n\n              Qualified supervision\n\n        (e)     the required qualified supervision under item 6 of section 17(1)\n              of the BO should be provided as follows-\n\n                   (i)     the RSE should assign a quality control supervisor\n                 (QCS) to supervise a certain number of tempered glass\n                    panes undergoing the heat soak process.  The RSE\n                    should   determine   the   necessary   frequency   of\n                      supervision, which should cover at least 30% of the\n                 number of tempered glass panes used in the project. The\n                minimum qualifications and experience of the QCS are\n                       to be the same as grade T3 technically competent person\n                  (TCP) under the RSE’s stream, as stipulated in the Code\n                     of Practice for Site Supervision 2009 (2021 edition)\n                     (Supervision Code). As an alternative, the RSE’s QCS\n               may employ videotelephony3 to conduct supervision. In\n                         this connection, the QCS should work with his/her\n                        assistant in the factory who is not a member of the team\n                     of supervisory personnel of the RC stream providing the\n                     required continuous supervision;\n\n                   (ii)    the RC should assign a quality control co-ordinator\n                (QCC) to provide full time continuous supervision of the\n                     heat soak process of all tempered glass panes in the\n                       factory. The minimum qualifications and experience of\n                      the QCC are to be the same as grade T1 TCP under the\n                 RC’s stream, as stipulated in the Supervision Code. To\n                    ensure the heat soak process is properly conducted by\n                      the glass manufacturer, the QCC should measure the\n                      glass surface temperature independently by using his/her\n                own data logger. The information recorded by the data\n                     logger should be set at one-minute intervals and kept in\n                      the factory; and\n\n                                                                                                             /(iii) …\n\n\n3  Videotelephony means two-way simultaneous communication with both audio and video in\n   real time through telephone or computer network connections. The video should be recorded\n   in colour with resolution of not less than 480p in a non-rewritable DVD-ROM."
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "- 6 -\n                    (iii)    the names and qualifications of the QCS and QCC of the\n              RSE and the RC respectively should be recorded in their\n                      inspection log books. The details of heat soak process\n                       for tempered glass panes should also be recorded in their\n                     log books and kept in the factory.   If the alternative\n                    arrangement of employing videotelephony as described\n                       in paragraph 14(e)(i) above is adopted, all supervision\n                    items covered in the videos taken should be recorded\n                   contemporaneously in QCS inspection log book and\n                    should be submitted together with the DVD-ROM discs\n                     of  the  videos  taken  to BD  within 14  days  after\n                    completion of the heat soak process for each batch of\n                   tempered glass panes. The RSE should certify on each\n                      disc with a permanent marker signifying that his/her\n              QCS personally use videotelephony for compliance with\n                      the approval conditions; and\n\n              Quality supervision report\n\n          (f)     a quality supervision report should be submitted by the RSE as\n               required under regulation 10 of the B(A)R,  prior  to the\n                application for occupation permit. The report should include a\n               statement  signed by  the RSE  to  confirm  that  adequate\n               supervision has been provided in accordance with the quality\n               supervision plan, a copy of the inspection log book of the QCS\n             and QCC of the RSE stream and RC stream respectively for the\n               heat soak process required in paragraph 14(e)(iii) above, and a\n                 soft copy of the record of the data logger required in paragraph\n                 14(e)(ii) above.\n\nStructural Sealant"
+    },
+    {
+      "id": "p15-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "15.          For better aesthetic appearance, structural sealant may be used in the\ncurtain wall, window or window wall works. The proposed structural sealant should be\ncompatible with the glazing system and the structural frame with which it is in contact.\nCompliance certificates comprising sealant compatibility test report, sealant adhesion test\nreport and print review report in accordance with the Glass Code together with deglazing\ntest report are required to be submitted prior to the application of an occupation permit or\nthe submission of Form BA14 as appropriate. The compliance certificates and deglazing\ntest report should be made by sealant manufacturer and be also appended with a statement\nsigned by the RSE who has prepared the plans to confirm the acceptance criteria\nappropriate to the test have been complied with.\n\n\n\n\n\n                                                                    /Design …"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "- 7 -\nDesign of Spider Fixing"
+    },
+    {
+      "id": "p16-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "16.         The design of metal spider fixing as the fixing device for supporting glass\npanes should be verified by means of proof load test.  In addition, attention should be\ngiven to its detailing at the interface connection with the glass panes, which should be\ndesigned to accommodate  all anticipated movements.  The mechanical properties,\ndimensions, load capacities and specific proprietary model number/series of metal spider\nfixing should be shown in the relevant plans submitted for approval."
+    },
+    {
+      "id": "p17-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "17.          Proof load test on metal spider fixing should be conducted in accordance\nwith the test criteria specified in Appendix C upon completion of the works. The test\nreport should be endorsed and submitted by the RSE prior to the application of an\noccupation permit or the submission of Form BA14 as appropriate. Proof load tests of\nmetal spider fixing may not be required if the type of the proposed metal spider fixing is\nalready included in the Central Data Bank promulgated in PNAP ADM-20 and uploaded\nto the Buildings Department (BD) website.\n\nLocking Devices of Openable Sashes/Sub-frames"
+    },
+    {
+      "id": "p18-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "18",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "18.          Locking devices are used to  restrain openable sashes/sub-frames of\nwindows, window walls and curtain walls in locked positions. All components of locking\ndevices should be made of durable and non-combustible materials."
+    },
+    {
+      "id": "p19-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "19",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "19.          Locking devices should be evenly distributed along the sash/sub-frame to\nallow even load distribution on the window frame/curtain wall. The locations and the\nultimate design strength of the locking points should be shown on structural plans for\napproval4. The ultimate design strength should be the characteristic strength divided by\na factor of safety (FOS) of 1.8. The characteristic strength should be verified by means\nof a proof load test in accordance with the test criteria set out in Appendix D and the test\nreport should be endorsed by RSE and submitted to BD prior to the application for an\noccupation permit or the submission of Form BA14 as appropriate. Proof load tests of\nlocking devices may not be required if the type of the proposed locking devices is already\nincluded in the BD’s Central Data Bank."
+    },
+    {
+      "id": "p20-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "20",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "20.           In order to ensure all locking points can be triggered effectively, a single\nhandle bar should not be connected to more than 8 locking points."
+    },
+    {
+      "id": "p21-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "21",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "21.          Hinges for openable sashes/sub-frames should be adequate in holding its\nown weight. In general, the size of a top-hung sash should not exceed 2.5m2. Similarly,\nthe width of a side-hung sash should not exceed 700mm."
+    },
+    {
+      "id": "p22-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "22",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "22.        AP/RSE should ensure the openable sash/sub-frame and the locking\ndevices are properly designed and assembled to meet the performance requirements and\nconstruction tolerance.  In normal circumstance, the FOS of 1.8 is considered adequate\nfor covering construction tolerance. Improper assembly may cause additional moment\non the components of the locking devices.  Adequate site supervision should also be\nprovided to ensure that the works are properly assembled.\n\n                                                                          /Safety …\n\n4  The requirements on locking devices are applicable to all new or major revision of structural\n   plans for development proposals or alteration and addition works submitted to the BA for\n   approval on or after 1 August 2020."
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "- 8 -\nSafety Test for Curtain Wall"
+    },
+    {
+      "id": "p23-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "23",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "23.           Safety test for a curtain wall should be conducted as required under item 6\nof section 17(1) of the BO. The test should be carried out by an independent laboratory\naccredited by the Hong Kong Laboratory Accreditation Scheme (HOKLAS) or by other\nlaboratory   accreditation   bodies   which   have   reached   mutual   recognition\nagreements/arrangements with HOKLAS.  The  test  carried out by an accredited\nlaboratory should be within its scope of accreditation. The test reports should be made\non a HOKLAS endorsed certificate or equivalent certificate/report and be also appended\nwith a statement signed by the RSE who has prepared the plans to confirm the acceptance\ncriteria appropriate to the test have been complied with. They should be submitted prior\nto the application of an occupation permit or the submission of Form BA14 as appropriate.\nHowever, such safety test is not required for the curtain wall repair or replacement works\ncarried out under the fast track processing procedures as stipulated in the relevant\nparagraphs of PNAP ADM-19 or minor works item 1.61 of the Minor Works Control\nSystem."
+    },
+    {
+      "id": "p24-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "24",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "24.        As a curtain wall may comprise various pane sizes subject to a wide range\nof design wind pressure, the test panes should be selected based on engineering judgement\nand with justification of mathematical computation models where appropriate.   It is\ndesirable to specify the representative test panes in the curtain wall plans.  Detailed\nrequirements of the safety test are given in clause 8.3.1 of the Glass Code.\n\nInspection, Maintenance and Repair"
+    },
+    {
+      "id": "p25-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "25",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "25.            In view of the special requirements for the design and construction of\ncurtain wall, window and window wall, the inspection, maintenance and repair of such\nworks shall follow Annex D of the Glass Code. The BA recommends all AP and RSE to\nadopt the guidelines and requirements given in the Glass Code. They are also requested\nto offer help and advice as appropriate to their clients who have curtain walls, windows\nor window walls in their buildings."
+    },
+    {
+      "id": "p26-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "26",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "26.          At completion of new building projects or alteration and addition works,\nspare glass panes may be reserved for future repair or replacement works of curtain wall,\nwindow or window wall. The guidelines on record keeping and use of spare glass panes\nset out in Appendix E should be followed.\n\nAluminium Windows"
+    },
+    {
+      "id": "p27-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "27",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "27.          Reference may be made to PNAP APP-116 in respect of the design and\ninstallation guidelines on aluminium windows.\n\nConcurrent Processing of Approval and Consent Applications"
+    },
+    {
+      "id": "p28-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "28",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "28.          For curtain wall works, the application for approval of plans and consent\nto the commencement of works may be made concurrently under PNAP ADM-19.\n\n\n\n                                                                                     /29. …"
+    },
+    {
+      "id": "page-9-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        9
+      ],
+      "text": "- 9 -"
+    },
+    {
+      "id": "p29-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "29",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "29.       A similar practice note has been issued to RC.\n\n\n\n\n\n                                                               ( YU Po-mei, Clarice )\n                                                 Building Authority\n\n\n\n\n\nRef. : BD GP/BREG/C/6(VII)\n\nThis PNAP is previously known as PNAP 106\nFirst issue    September 1984\nLast revision  April 2022\nThis revision February 2024 (AD/NB2)  (Paragraph  2, 5 & 23 and Appendix B\n                                    amended, and paragraphs 3, 26 & 29 and\n                                   Appendix E added)"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Appendix A\n                                                  (PNAP APP-37)\n\n                     Standards Commonly Used for the\n                         Design & Construction of\n                  Curtain Wall, Window and Window Wall\n                     Acceptable to the Building Authority\n\nReference Standards\n\n          The standards listed in this appendix and PNAP APP-53 are intended to\nprovide reference information only for the purpose of design and construction of curtain\nwall, window and window wall systems.  It should be noted that:\n\n        (a)   the standards listed are not meant to be exhaustive;\n\n        (b)  national standards and codes of practice of various countries,\n           though similar in major aspects, do not have exact equivalence\n             to one another;\n\n        (c)  should a certain design standard be adopted, it should be applied\n             to the design consistently; and\n\n        (d)  Building Regulations shall always take precedence over other\n            design standards should there be a conflict between them.\n\nA.    Material & Workmanship\n\n                    Standard                     Title/Description\n     Glass     Hong Kong Code of     Code of Practice  for Structural Use of\n                  Practice                 Glass 2018\n\n    Stainless   BS EN 10029:2010      Hot rolled steel plates 3 mm thick or above\n      Steel                                         - Tolerances on dimensions, shape\n\n            BS EN ISO 9445:2006    Continuously  cold-rolled  stainless  steel.\n                                         Tolerances on dimensions and form.\n\n           BSEN ISO 9445-1:2010   Part 1. Narrow strip and cut lengths\n\n           BSEN ISO 9445-2:2010   Part 2. Wire strip and plate/sheet\n\n            BS EN 10048:1997      Hot rolled narrow steel strip. Tolerances on\n                                       dimensions and shape\n\n            BS EN                  Continuously  hot-rolled  uncoated  plate,\n              10051:1991+A1:1997     sheet and  strip  of non-alloy and  alloy\n                                                   steels. Tolerances on dimensions and shape\n\n            BS EN 10095:1999      Heat resisting steels and nickel alloys\n\n\n                                                                                  /B. …\n                                                              - 1 -"
+    },
+    {
+      "id": "page-11",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        11
+      ],
+      "text": "B.    Design\n\n                    Standard                     Title/Description\n     Glass     Hong Kong Code of     Code of Practice  for Structural Use of\n                  Practice                 Glass 2018\n\n\nC.    Testing\n\n                    Standard                     Title/Description\n     Glass     Hong Kong Code of     Code of Practice for Structural Use of Glass\n                  Practice               2018\n\n Curtain Wall,  Hong Kong Code of     Code of Practice for Structural Use of Glass\n Window,        Practice               2018\n Window wall\n\n\n\n\n\n(Rev. 5/2020)\n\n\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-12-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        12
+      ],
+      "text": "Appendix B\n                                                      (PNAP APP-37)\n\n\n              Heat Soak Process of Tempered Glass Supervision Plan\n\n\nTo the Building Authority,\n\n             In accordance with  the conditions of approval imposed  in your  letter of\n                                                         for                          works,\nwe submit this supervision plan for the heat soak process of the tempered glass to be used at\n(address of site)                                                            on\n(Lot No.)                          (BD ref. ________________________)."
+    },
+    {
+      "id": "p2-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "2.       We undertake that the supervision of the above heat soak process will be carried\nout in accordance with this supervision plan, PNAP APP-37/PNRC 84 and the Code of Practice\nfor Structural Use of Glass 2018 (Code).  We also undertake that the management and\nexecution of quality supervision of the works covered by this supervision plan will be carried\nout in the manner prescribed by the provisions of the Buildings Ordinance and Regulations."
+    },
+    {
+      "id": "p3-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         The quality control supervisor (QCS) and quality control co-ordinator (QCC)\nassigned by the registered structural engineer (RSE) and the registered contractor (RC)\nrespectively to supervise the above heat soak process are:\n\n                                                         I.D. No.^/        Frequency of         Name in English^ Name in Chinese^                                    TCP No.**     Quality Supervision\n\n                                                                                at least 30% of the\n                                                        number of tempered\nRSE’s QCS#                                                               glass panes\n\n              Signature of QCS for confirmation of appointment*: ____________________\n                                                                            Full time\n RC’s QCC#\n              Signature of QCC for confirmation of appointment*: ____________________\n\nThe contact information and CVs showing their relevant experience and academic qualifications are\nattached at the Annexes.   If more than one supervisor/co-ordinator is proposed for a QCS/QCC post,\nthe demarcation of their responsibility should be provided.\n\n\n^  In accordance with the Hong Kong Identity Card\n** CV is not required if TCP No. is provided.\n#  The minimum qualification and experience of QCS and QCC should  fulfill the requirements\n   specified in PNAP APP-37.\n*  Signature of QCS/QCC for the confirmation of appointment under RSE/RC stream indicates that the\n  QCS/QCC has read, understood and agreed with the notes on “Personal Data” of this supervision\n   plan.\n\n\n                                                                                                       /4. …\n\n                                                                  - 1 -"
+    },
+    {
+      "id": "p4-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         The quality supervision will cover all items of works to be inspected as devised in\nAnnex 1.  The record of quality supervision in Annex 2 will be completed contemporaneously\nby the QCS/QCC with a copy of these documents to be kept in the factory.\n\n\nPrepared by:\n\nSignature                                     Signature\nName of RSE                       Name of AS\nDate                          RGBC\n                                         Date\nEnclosure : Annexes 1 to 3\n\n\nPersonal Data\n\nPurposes of Collection"
+    },
+    {
+      "id": "p1-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 142
+        },
+        {
+          "label": "b",
+          "offset": 242
+        },
+        {
+          "label": "c",
+          "offset": 321
+        }
+      ],
+      "text": "1.          The personal data provided by means of this supervision plan will be used by the\nBuildings Department for the following purposes:\n\n        (a)     activities relating to the processing of your submission in this supervision plan;\n\n        (b)     activities relating to the above proposed building works; and\n\n        (c)     facilitating communication between the Buildings Department and yourself."
+    },
+    {
+      "id": "p2-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "2.                 It is obligatory for you to provide the information as required in the supervision plan.   If\nyou fail to provide the required data, delay may be caused in processing of your submission or even\nresult in rejection of the application.\n\nClasses of Transferees"
+    },
+    {
+      "id": "p3-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The personal data you provided by means of this supervision plan may be disclosed to\nother government departments, bureaux, organisations or any persons for the purposes mentioned in\nparagraph 1 above.\n\nAccess to Personal Data"
+    },
+    {
+      "id": "p4-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         You have the right of access and correction with respect to the personal data as provided\nunder the Personal Data (Privacy) Ordinance.  The Buildings Department has the right to charge a\nreasonable fee for the processing of any data access request.  Request for personal data access and\ncorrection should be addressed to the New Buildings Division 2 of the Buildings Department.\n\n\n\n\n\n(Rev. 2/2024)\n\n                                                                  - 2 -"
+    },
+    {
+      "id": "page-14",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        14
+      ],
+      "text": "Annex 1 to Appendix B\n                                                      (PNAP APP-37)\n\n    Typical Items for Quality Supervision of Heat Soak Process of Tempered Glass\n\n Item                                      Description\n\n   (a)    General\n  H1   Ensure that the names of quality control supervisor (QCS) under RSE and quality control\n         co-ordinator (QCC) under RC recorded in an inspection logbook and kept in the factory agree\n        with the supervision plan.\n  H2   Ensure the respective QCC/QCS’s inspection frequency and items are in accordance with the\n         requirements of PNAP APP-37 and Code of Practice for Structural Use of Glass 2018 (Glass\n        Code).\n  H3   Check that the calibration reports (as detailed in clause 9.3.2 of the Glass Code) of the ovens\n         are in accordance with BS EN 14179-1:2016 and kept in the factory.\n  H4   Check that all thermocouples are calibrated at 6-month interval as recommended in the\n     HOKLAS Supplementary Criteria No. 2.\n  H5   Check that all essential details (e.g. quantity and size of glasses, reading of data logger, etc.)\n         of heat soak process for tempered glass panes are recorded in the logbook and kept in the\n          factory.\n   (b)   Heat Soak Process\n\n  H6   Check that a minimum of 8 thermocouples are installed and monitored by the factory in\n        accordance with clause 9.3.3 of the Glass Code.\n  H7   Check that an additional thermocouple is installed and measured independently by using the\n       QCC’s own data logger.\n  H8   Check that a minimum clearance of 20mm is provided to separate the glass panels and ensure\n        heated air circulation between the glass panels.\n  H9   Check that heating phase is commenced with all the glass panels at ambient temperature.\n H10  Check that heating phase is concluded when surface temperature of the last glass reaches\n        250°C; the glass surface temperature should not be allowed to exceed 290°C; the period of\n         glass surface temperature in excess of 270°C shall be minimised.  The maximum heating\n          rate is 3°C per minute.\n H11  Check that holding phase is commenced when surface temperature of all glass panes has\n        reached 250°C; the duration of the holding phase is at least 120 minutes; the oven should be\n         controlled so that the glass surface maintains in range of 260°C ±10°C during the holding\n         phase.\n H12  Check that doors of oven are not opened until the reading of the control element dropped to\n        70°C.\n H13  Check that number of broken glass after heat soak process is recorded.\n H14  Check that fragmentation test is carried out after heat soak process.\n  Hn   Any other items considered essential for quality supervision of the heat soak process.\n\n\n\n\n\n(4/2022)"
+    },
+    {
+      "id": "page-15",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        15
+      ],
+      "text": "Annex 2 to Appendix B\n                                                      (PNAP APP-37)\n\n                 Record of Quality Supervision Carried Out by\n               QCS / QCC* under RSE / RC* Stream\n\nBD Ref.:         BD 3/1234/22\nProject Location:   ABC Street\nType of Works:      Heat Soak Process of Tempered Glass for Curtain Wall Works\nName of QCS / QCC*(1):     Mr. Lee Tai-man\nFrequency of Inspection:     Full time / at least 30% of the number of tempered glass panes*\n\n    Date                                    4/1/2022 (Tue)\n                                                             Inspection Findings\n                    Batch No. and                                                              Photos\n  Item           Quantity Inspected          Result               Remedial / Remark                  (if any)\n  No.(2)                                         (S(3)/NS(4)/NA(5))\n                  Batch 2, 8 nos. of glass    H1                                S                          panes\n\n    H2                  Ditto               S\n\n    H3                  Ditto               S\n\n    H4                  Ditto               S\n\n                                                             Record of some glass panes’ size\n    H5                  Ditto             NS           incomplete.   It has been rectified and\n                                                                         recorded in logbook\n    H6                  Ditto               S\n\n                             Ditto               S\n\n                                                               Clearance less than 20mm.   It has been      𝐻𝐻7H8                  Ditto             NS                                                                               rectified and recorded in logbook.\n    H9                  Ditto               S\n\n    H10                 Ditto               S\n\n    H11                 Ditto               S\n\n    H12                 Ditto               S\n\n                                                         Broken glass not recorded.   It has been    H13                 Ditto             NS                                                                               rectified and recorded in logbook.\n    H14                 Ditto               S\n\n  Signature\n\n* Delete if inappropriate\nNote (1)        :   Full name of the QCS/QCC as provided in the supervision plan.\nNote (2)        :  According to the checklists devised by the RSE and AS of the RC.\nNote (3)        :  “S” denotes “Satisfactory”.\nNote (4)        :  “NS” denotes “Not satisfactory”\nNote (5)        :  “NA” denotes “Not Applicable”.\n(4/2022)"
+    },
+    {
+      "id": "page-16-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        16
+      ],
+      "text": "Appendix C\n                                                  (PNAP APP-37)\n\n\n                    Proof Load Test for Spider Component\n\nReference Standards\n\n          The design of metal spider fixing can be verified by means of proof load\ntest, which are required to be carried out in accordance with the test criteria specified in\nthe Code of Practice for the Structural Use of Steel 2011."
+    },
+    {
+      "id": "p2-page-16",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        16
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 61
+        },
+        {
+          "label": "b",
+          "offset": 385
+        },
+        {
+          "label": "c",
+          "offset": 787
+        },
+        {
+          "label": "d",
+          "offset": 910
+        },
+        {
+          "label": "e",
+          "offset": 1217
+        },
+        {
+          "label": "f",
+          "offset": 1329
+        },
+        {
+          "label": "g",
+          "offset": 1516
+        }
+      ],
+      "text": "2.         The requirements and procedures for the test are:\n\n        (a)   Sampling rate should be at least 1% or 3 numbers, whichever is more,\n             of each representative type of the spider components concerned, and\n             the test specimens should be set up in such a manner that is compatible\n            with the proposed fixing details given in the approved plans;\n\n        (b)   Test loads should be determined in accordance with clause 16.2.1.2 of\n             the Code of Practice for the Structural Use of Steel 2011. ‘Actual dead\n            load present during the test’ may be taken as the weight of the spider\n           component. ‘Remainder of dead load’ may be taken as the weight of\n             the attachment (e.g. glass panes) to the spider component;\n\n        (c)  A test load should be applied and released in at least 5 increments and\n            decrements respectively;\n\n        (d)  A reading on deformation should only be taken when it has become\n            completely stable, and readings on deformation should be taken at\n             three 5-minute intervals at least on attainment of the test load until\n             there is no significant increase in the deformation;\n\n        (e)   There should be no creep for a period of at least 15 minutes under the\n               test load;\n\n         (f)  A running plot in respect of loading increment/decrement against\n            deformation should indicate substantial linear behaviour under the test\n             load; and\n\n        (g)  On removal of the test load, the recorded residual deformation should\n            not exceed 5% of the maximum deformation recorded.\n\n\n\n\n\n(5/2012)"
+    },
+    {
+      "id": "page-17-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        17
+      ],
+      "text": "Appendix D\n                                                  (PNAP APP-37)\n\n\n   Proof Load Test for Single Locking Devices of Openable Sashes / Sub-frames\n\n\n          The characteristic strength of each type of single locking devices should be\nverified by means of proof load test. The testing specimens should fully represent the\nactual arrangement of the single locking devices to be installed on site."
+    },
+    {
+      "id": "p2-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 61
+        },
+        {
+          "label": "b",
+          "offset": 370
+        },
+        {
+          "label": "c",
+          "offset": 436
+        }
+      ],
+      "text": "2.         The requirements and procedures for the test are:\n\n      (a)    Sampling rate should be at least 0.1% or 5 numbers, whichever is\n            more, of each type of the locking devices concerned.  The test\n            specimens should be set up in such a manner that they are compatible\n            with the proposed fixing details given in the approved plans;\n\n      (b)    Test load should be applied at a constant rate; and\n\n      (c)    The characteristic strength should be evaluated as follows:\n\n             Characteristic strength = Average test load at failure – K x σ\n\n           where\n\n       K    is the K-factor for at least 5 test specimens and may be taken as\n                 3.41  (K-factor  corresponding  to  larger  numbers  of  test\n                specimens may be used if appropriate); and\n\n         σ     is the standard deviation.\n\n\n\n\n\n(5/2020)"
+    },
+    {
+      "id": "page-18-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        18
+      ],
+      "text": "Appendix E\n                                                  (PNAP APP-37)\n\n\n         Guidelines on Record Keeping and Use of Spare Glass Panes in\n        Repair/Replacement of Curtain Wall, Window or Window Wall\n\n\n           At completion of new building projects or alteration and addition (A&A)\nworks involving curtain walls, windows or window walls (collectively referred to as\n“original  project”), spare glass panes may be reserved and kept by the owners/\nManagement Office (MO) of the buildings for use in future repair/replacement works.\nThe registered general building contractor (RGBC) appointed for the original project (the\noriginal RGBC) should confirm that the spare glass panes were manufactured for the\noriginal project and ensure that relevant documents, including approval letters, consent\nletters, certificates, test reports, compliance report and quality assurance scheme, of the\nspare glass panes (spare glass documents) are included in the maintenance manual. The\noriginal RGBC should label each spare glass pane with a unique identification number\nand record relevant information in Schedule A in the Annex for inclusion in the\nmaintenance manual."
+    },
+    {
+      "id": "p2-page-18",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        18
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         The owners or MO of the buildings should properly keep the maintenance\nmanual and the spare glass panes for future repair/replacement works. A traceable storage\nrecord of the spare glass panes should also be kept by the owners or MO including\nquantities for each type of the spare glass panes."
+    },
+    {
+      "id": "p3-page-18",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        18
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         Where prior approval and consent for repair/replacement of curtain wall,\nwindow or window wall with the use of the spare glass panes are sought from the Building\nAuthority (BA), the appointed registered structural engineer (RSE) should check the\ncorresponding set of spare glass documents in the maintenance manual. The RSE should\nclearly state in the plans submitted for the BA’s approval that: (i) spare glass panes of the\noriginal project will be used in the proposed A&A works; and (ii) inspection of such spare\nglass panes will be conducted prior to installation."
+    },
+    {
+      "id": "p4-page-18",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        18
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          Before installation, the RSE or his/her representative should inspect the\nspare glass panes to ensure that they are suitable for use in the proposed A&A works.\nAnnex D of the Code of Practice for Structural Use of Glass 2018 gives some reference\nguidelines for inspection of glass panes. Information of the glass panes used in the A&A\nworks should be recorded in Schedule B in the Annex and submitted together with the\nForm BA14 certifying completion of the A&A works to BD. A copy of the Schedule B\nshould also be provided to the owners or MO after completion of the works for inclusion\nin the maintenance manual. In case a copy of Schedule A which was duly completed and\nendorsed by the original RGBC is submitted together with the Form BA14 certifying\ncompletion of the A&A works to BD, copies of quality supervision plan and quality\nsupervision report for heat soak process of the spare tempered glass panes are not required\nto be submitted to BD for the proposed A&A works."
+    },
+    {
+      "id": "p5-page-18",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        18
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          For the use of spare glass panes in the repair/replacement of curtain walls,\nwindows or window walls carried out under the Minor Works Control System (MWCS),\nsimilar guidelines are provided in the Technical Guidelines on MWCS.\n\n(2/2024)"
+    },
+    {
+      "id": "page-19",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        19
+      ],
+      "text": "Annex to Appendix E\n                                                              (PNAP APP-37)\n\n                       Schedule A (for Spare Glass Panes Reserved for\n          Future Repair/Replacement of *Curtain Wall/Window/Window Wall Works)\n         (to be completed by RGBC at completion of new building project or alteration and addition works)\n\n(A)  Details of Spare Glass Panes\n   Type of Glass Pane                                      Dimensions  (e.g. heat strengthened/  Thickness                                        Identification no. of                                      (width x length)    Quantities  tempered/ laminated/    (mm)                                          Glass Pane                            (mm x mm)       IGU, etc.)\n\n\n\n\n\n(B)  The above glass panes were manufactured for the *new building development/alteration and addition\n     works at (address)                                                                   under\n   BD reference no.                         .\n\n(C)  The required documents (including approval  letters, consent  letters,  certificates,  test  reports,\n     #compliance report and #quality assurance scheme) for the above glass panes specified in the approval\n     and consent letters are attached herewith and included in the maintenance manual.\n\n Signature:\n\n Full name^ of\n Authorized Signatory                               Date:\n (AS) of RGBC:\n                                                Date of Expiry of Registration No.^:                                                       Registration^:\n*  Delete as appropriate\n#  Delete for non-tempered glass\n^  In accordance with registration record\n\n\n\n\n\n                                                                          - 1 -"
+    },
+    {
+      "id": "page-20-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        20
+      ],
+      "text": "Annex to Appendix E\n                                                              (PNAP APP-37)\n\n                       Schedule B (for Spare Glass Panes to be Used in\n             Repair/Replacement of *Curtain Wall/Window/Window Wall Works)\n         (to be completed by *RSE or Prescribed Building Professional (PBP)/Authorized Signatory (AS) of\n                Prescribed Building Contractor (PRC)# at completion of repair/replacement works)\n\n(A) Details of Spare Glass Panes Used\n     at (address)__________________________________under BD reference no. __________________\n Type of Glass Pane (e.g.                                      Dimensions    heat strengthened/    Thickness                       Quantities     Identification no. of                                      (width x length)  tempered/ laminated/    (mm)                          used        Glass Pane used                            (mm x mm)       IGU, etc.)\n\n\n\n\n\n(B) Inspection on Records and Conditions of Glass Panes"
+    },
+    {
+      "id": "p1-page-20",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        20
+      ],
+      "subparagraph_markers": [],
+      "text": "1.   I have read the relevant documents of the above glass panes kept in the maintenance manual\n         (including approval letters, consent letters, certificates, test reports, @compliance report and\n         @quality assurance scheme)."
+    },
+    {
+      "id": "p2-page-20",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        20
+      ],
+      "subparagraph_markers": [],
+      "text": "2.   I confirmed the above glass panes, in my opinion, suitable for the proposed repair/replacement\n        works.\n\n Signature:\n\n Full name^ of *RSE                                                    Date: or PBP/AS of PRC#:\n                                                Date of Expiry of Registration No.^:                                                       Registration^:\n*  Delete as appropriate\n@ Delete for non-tempered glass\n^  In accordance with registration record\n# To be endorsed by PBP for Class I Minor Works or the AS of PRC for Classes II/III Minor Works\n\n(2/2024)\n                                                                          - 2 -"
+    }
+  ]
+}

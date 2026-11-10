@@ -1,0 +1,104 @@
+{
+  "code": "APP-078",
+  "source_text": "indexed_text/PNAP/APP/APP-078.txt",
+  "source_pdf": "documents/PNAP/APP/APP-078.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers        APP-78\n\n                                    Practice Note for Authorized Persons\n Buildings Department                                                      188\n                             and Registered Structural Engineers\n\n\n                          Occupation of New Buildings\n                            Buildings Ordinance section 21\n\n            This PNAP  summarizes how  the  Building  Authority (BA)  processes  an\napplication for an occupation permit (OP)."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        By law the BA must process an application for an OP within 14 days. As time is\nof the essence, it is essential that the authorized person (AP) co-operates fully.  Apart from\nensuring that all building works are satisfactorily completed in accordance with the approved\nplans and in full compliance with the Buildings Ordinance and Regulations, the AP should\nensure that the requisite certificates, record plans and schedules are submitted with the formal\napplication (BA 13). Applications without the requisite certificates will be processed as far as\npracticable but if at all possible this should be avoided."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.       On receipt of an application, the Development Division building surveyor will\narrange with the AP an early appointment for inspection.  It is expected that in turn the AP will\nmake the necessary arrangements with the registered general building contractor."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          During an inspection  all parts of the building works must be available for\nexamination.   If the inspection reveals that building works controlled under the Buildings\nOrdinance are blatantly incomplete, e.g. sanitary fitments or fire doors have not been installed,\nthe application will be summarily refused.  In such cases, a fresh application (BA 13) would\nhave to be made.  In serious cases, consideration would be given to instigating disciplinary\nproceedings under the Buildings Ordinance for prematurely certifying the building completed."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.           Plant and machinery, such as an extensive air conditioning installation, that has\nbeen required under the Buildings Ordinance and Regulations to be operational on completion\nof the building should be made available for inspection.  Generally speaking, provided it is\nstructurally safe to do so, there is no objection to plant and fixtures required by the users of the\nbuilding being installed before an OP is issued. Such installations should not, however, unduly\nhamper inspection of the completed building works."
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "6.             If the inspection reveals only minor matters to be rectified, the BA will accept the\nAP’s written confirmation and, when appropriate, photograhic proof that rectification has been\nmade prior to the expiry of the 14-day period.  This should, however, be submitted in good\ntime to allow for preparation of the OP."
+    },
+    {
+      "id": "p7-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          Refusals of applications will in the first instance be notified by fax; a formal letter\nwill follow by post.  In addition to the statutory grounds for refusal, other comments and\nobservations may be included in additional paragraphs for information and any action deemed\nappropriate.\n\n\n                                                                                                /8. Following"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          Following a refusal, except in the case of a premature application, a formal\nresubmission of an application (BA 13) is not required. On receipt of written notification\nfrom the AP that the refusal items have been rectified to his satisfaction, the BA will within 14\ndays carry out a reinspection (if required) and either issue the OP or again formally refuse the\napplication."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          Section 21 of the Buildings Ordinance details the statutory procedures required\nfor the occupation of a new building. PNAP 53 and PNRC 25 provide information on the\nsubmission of amendment plans, record plans and schedules.\n\n\n\n\n\n                                                                     ( CHOI Yu-leuk )\n                                                    Building Authority\n\n\n\n\n\nRef. : BD GP/BORD/10\n\nFirst issued August 1996 (AD/D)\n\nIndex under : BO s21\n             Occupation Permits"
+    }
+  ]
+}

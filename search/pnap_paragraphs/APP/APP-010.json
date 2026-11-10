@@ -1,0 +1,367 @@
+{
+  "code": "APP-010",
+  "source_text": "indexed_text/PNAP/APP/APP-010.txt",
+  "source_pdf": "documents/PNAP/APP/APP-010.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers   APP-10\n\n                                 Practice Note for Authorized Persons   Buildings Department                                                48\n                          and Registered Structural Engineers\n\n\n\n                              Oil Storage Installations\n                  Building (Oil Storage Installations) Regulations\n\n\n          An  oil storage  installation  is defined in section 2(1) of the Buildings\n Ordinance as any tank having a capacity of not less than 110,000 litres or a group of\n tanks (within the same cluster or bunded area) any one of which has a capacity of not less\n than 110,000 litres, constructed above ground level for the purpose of storing petroleum\n products."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The construction of an  oil storage  installation should not commence\n without having first obtained approval and consent under section 14(1) of the Buildings\n Ordinance."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         An above-ground oil storage installation will be deemed to satisfy the\n requirements of the Building (Oil Storage Installations) Regulations (the 'B(OSI)R') if it\n meets the standards set out in the Code of Practice for Oil Storage Installations 1992."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         An oil storage installation should not commence operation before a licence\n to do so has been granted under the Regulations."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 603
+        },
+        {
+          "label": "b",
+          "offset": 1019
+        }
+      ],
+      "text": "5.             All existing oil storage installations and their associated works should have\n been licensed under the Regulations. Any new installation and its associated works will\n require a licence. Any alterations and additions (including a new tank) to an existing\n installation or its associated works will require an endorsement in the licence for the\n installation.  As a prerequisite to the granting of a licence for a new installation, the\n following documents in respect of the proposed operation instructions of the installation\n and its associated works should be submitted for agreement :\n\n         (a)     six copies of the proposed operation instructions in English\n             and one copy in Chinese (Although for licensing purposes\n                the  operation  instructions  are  written  in  English,   it  is\n                 essential  that they should also be written  in Chinese  to\n               ensure clear understanding of the operation by each grade of\n                personnel); and\n         (b)    one set of the general arrangement plans.\n\n In the case of an endorsement of alterations and additions in the licence of an existing\n installation where operation changes are proposed, amended operation instructions and\n general arrangement plans should also be submitted for agreement.\n\n\n\n                                                                                    /6.It should……"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.                    It should be noted that an occupation permit and a certificate of general\ninspection are required prior to the granting of a licence for new installations. For new\ntanks in an existing licensed installation, the original licence should be returned with the\napplication for endorsement. The licence is renewed annually and the application must\nbe accompanied by the certificates of external inspection of the tanks as required under\nRegulation 8(1)(b) of the B(OSI)R, in the form as attached at Appendix B, and certificate\nof inspection of the associated works as required by Regulation 8(1)(c) of the B(OSI)R,\nin the form as attached at Appendix C."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.             In addition, in accordance with Regulation 8(1)(a) of the B(OSI)R, a\ngeneral inspection must be carried out of all tanks internally not later than the tenth year\nin the life of the tank. Thereafter, such inspection shall be carried out once in the fifth\nyear after the year in which the first inspection was carried out.  Each certificate of\ngeneral inspection of a tank must be issued immediately after the inspection, in the form\nas attached at Appendix A, to the licensee who shall then deliver  it to the Building\nAuthority."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.           For the repair of or the alteration and addition to an existing installation,\ntwo copies of the proposals, signed by a registered  structural engineer, should be\nsubmitted in order to obtain written authorization, as required under Regulation 10 of the\nB(OSI)R. Where the repair works are considered to be extensive on the basis of the fact\nand special circumstances of the particular case, or where the alteration and addition\ninvolve non-exempted building works, approval under section 14(1) of the Buildings\nOrdinance should also be sought.  The normal requirements and procedures under the\nBuildings Ordinance for carrying out building works apply."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.           There have been cases where partially constructed tanks are damaged\nduring a typhoon.  Suitable precautionary measures should therefore be adopted during\nthe construction or repair of tanks in anticipation of unfavourable weather conditions."
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "10.           Demolition of the whole or any part of an oil storage installation must be\ncarried out in such a manner as to minimize the risk of environmental pollution, fire or\nexplosion. A clear statement of the method of demolition to be employed should be\nsubmitted for agreement and be to the satisfaction of the Building Authority before, or\nwith, the application for consent to commence work or the application for written\nauthorization, as the case may be.  The guidelines and procedures as stipulated in the\nattached  Appendix D  (Guidance  Notes  on  Demolition  Methods  of  Oil  Storage\nInstallations) and  Practice Note  for Authorized Persons and  Registered  Structural\nEngineers 71 (Demolition Works - Measures for Public Safety) should be taken into\naccount in the design of the demolition methods.\n                                                                    ( CHEUNG Hau-wai )\n                                                        Building Authority\nRef. : BD GP/BREG/A/6/1 (II)\n\nFirst issue May 1978\nLast revision March 1996\nThis revision August 2007 (AD/NB2)  - Sections 1(a) and 12 in Appendix D revised\n\nIndex under :  Building (Oil Storage Installations) Regulations\n               Oil Storage Installations"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "nspection\n\n\n\n\n\n                                I"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Settkement"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "I\n\n\n\n\n                                                                                               nspection"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Settlement"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Appendix C\n                                                                    (PNAP 48)\n                                                              (APP-10)\n                      AUTHORITY OF HONG KONG\n                          BUILDINGS ORDINANCE\n                                        (Chapter 123)\n            BUILDING (OIL STORAGE INSTALLATIONS) REGULATIONS\n                                        Regulation 8(1)(c)\n\n\n                               Certificate of Inspection of Associated Works\n\n\n\nTo the Building Authority,\n\n         In accordance with the provisions of Regulation 8(1)(c) of the Building (Oil Storage Installations)\n\nRegulations, I                                                                                                     , Registered\n\nStructural   Engineer,   hereby  CERTIFY   that   I  have   inspected/supervised   the   inspection  on\n\n_____________________                   of the associated works of the oil storage installation operated by\n\n__________________________________________________________________________________\n\n(company)\n\nat  ____________________________________________________________________________     (address)\n\non ______________________________________________________________________________  (lot  no.)\n\nand in my opinion the associated works are\n\n\n\n             fit for use for a further twelve months and the repairs listed in paragraph 2 below are required.\n\n          unfit for use until the repairs listed in paragraph 2 below are completed to my satisfaction."
+    },
+    {
+      "id": "p2-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "2.     The following repairs to the associated works are required :\n\n\n\n\n\n                                                          Signature of Registered Structural Engineer\n\n\n\n\n\nDate\n                                                     Address of Registered Structural Engineer\n\nc.c.     Director of Fire Services"
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Appendix D\n                                                      (PNAP 48)\n                                                            (APP-10)\n                  Guidance Notes on Demolition Methods of\n                             Oil Storage Installations\n\nEnvironmental Impacts"
+    },
+    {
+      "id": "p1-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 268
+        },
+        {
+          "label": "b",
+          "offset": 700
+        },
+        {
+          "label": "c",
+          "offset": 892
+        }
+      ],
+      "text": "1.             In  order  to  minimize  the  environmental  impacts  arising  from  the\ndemolition of oil storage installations, the guidelines and procedures stipulated in the\nfollowing documents should be taken into account in the design of the demolition\nmethods :\n\n        (a)    Environmental   Protection  Department  Guidance  Note   for\n             Contaminated Land Assessment and Remediation, Professional\n              Persons Environmental  Consultative Committee  Practice Note\n             1/93  and  Practice  Note  2/93  on  Noise  from  Construction\n                Activities,  obtainable  from  the  Technical  Secretary  of  the\n             Environmental Protection Department;\n\n        (b)     Practice Note for Authorized Persons and Registered Structural\n              Engineers 144 on  Control  of  Environmental  Nuisance from\n              Construction Sites; and\n\n        (c)    The  Air  Pollution  Control  Ordinance on  the  submission  of\n              Asbestos Investigation Report and Asbestos Management Plan, if\n               disposal of asbestos waste is involved.\n\nProtection Hoarding"
+    },
+    {
+      "id": "p2-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The work area  is to be enclosed with a suitable hoarding to prevent\nunauthorized access. Where only part of an oil storage installation is to be demolished,\nor where the oil storage installation is to be demolished in stages, a fire screen should be\nerected to separate the part being demolished from the remainder of the storage facility in\noperation.\n\nGas Freeing"
+    },
+    {
+      "id": "p3-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "3.             Full precautionary measures as recommended in the Institute of Petroleum\nMarketing Safety Code should be carried out. A formal system of permit-to-work must\nbe exercised on site by the demolition contractor. Precautions should be taken to prevent\nfire or explosion caused by gas and vapour particularly when removing tanks or pipes\nwhich might have contained flammable liquid or gas."
+    },
+    {
+      "id": "p4-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "4.             All pipes and tanks should be certified gas-free by a competent person. A\ncompetent person in this respect is a person who has successfully completed a training\nprogram established and maintained in accordance with standard industry practices.\n\n                                                                             /This …..\n\n\n\n                                                        - 1 -"
+    },
+    {
+      "id": "page-9-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        9
+      ],
+      "text": "This training program can be conducted by qualified industry personnel within a company\nor  by   a   qualified   commercial   firm.      In   either   case,   the  company\ncontracting/hiring/utilizing the competent person will be responsible for the judgement of\nthe competency of an individual.  The qualification course should include a specific\nprogram of training skills to be developed; a regular course of instruction; a means to\nevaluate the successful completion of the course; and a formal certification process to\nconfirm that the individual is competent to perform the gas-freeing of an oil storage tank\nprior to demolition. The evaluation can consist of a written test; hands-on performance to\npre-determined skill standards; or a combination of the two. The Standing Advisory\nCommittee  established by  regulation 4  of  the  Building  (Oil  Storage  Installations)\nRegulations may review the adequacy of the training.\n\nSludge and Chemical Waste"
+    },
+    {
+      "id": "p5-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The type of sludge and chemical waste that will arise from the demolition\nwork should be identified and arrangements made for its disposal. Disposal will have to\ncomply with the Waste Disposal (Chemical Waste) (General) Regulations.\n\nDischarge of Waste Water"
+    },
+    {
+      "id": "p6-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          Where tanks or pipes are to be emptied or removed, precautionary\nmeasures should be taken to avoid the spillage of any petroleum products which may\ncause contamination to the ground. Any contaminated materials such as absorbent or\ncleaning  stuffs should be disposed of properly.  The drainage system and the  oil\ninterceptors should be kept intact and maintained in a serviceable condition until all the\ntanks, pipes and sludge have been removed."
+    },
+    {
+      "id": "p7-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           Except during discharge of effluent in accordance with the operating\nprocedures of the oil interceptors, the seaboard valves on the oil interceptors should\nremain closed and locked at all times during demolition until all the tanks, pipes and\nsludge have been removed.  Discharges of effluent from oil interceptors must comply\nwith  the  conditions  of any  licence under  the Water  Pollution Control Ordinance\ngoverning  the  standard and  quantity  of  effluent discharged from  that  oil  storage\ninstallation.\n\nBunded Areas"
+    },
+    {
+      "id": "p8-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "8.         As far as possible the demolition of floors and walls of the bunded area\nshould not commence before all tanks and pipes spills have been removed. Where this\nis not possible adequate precautions must be taken to prevent the possibility of petroleum\nproducts escaping to the environment.\n\nProgramme of Work"
+    },
+    {
+      "id": "p9-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "9.         When part of the  oil storage installation will be in operation during\ndemolition work, due safety consideration must be taken for the operating environment\nand the demolition work should be programmed accordingly.  The agreed operation\ninstructions should be complied with at all times.\n\n                                                                    /Drainage …..\n\n                                                        - 2 -"
+    },
+    {
+      "id": "page-10-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Drainage"
+    },
+    {
+      "id": "p10-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "10.           Precautions should be taken to avoid contaminated washing water or\nother liquids from entering the storm drainage system, either accidentally during heavy\nand violent rainstorms or deliberately as a result of washing down. A plan of the storm\ndrains should be available on site at all times.\n\nExtreme Weather Conditions"
+    },
+    {
+      "id": "p11-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "11.           Consideration should be given to the  possibility of extreme weather\nconditions occurring during demolition of the tanks, and suitable precautionary measures\nshould be adopted.\n\nContamination Assessment Report"
+    },
+    {
+      "id": "p12-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 316
+        },
+        {
+          "label": "b",
+          "offset": 445
+        },
+        {
+          "label": "c",
+          "offset": 671
+        },
+        {
+          "label": "d",
+          "offset": 745
+        }
+      ],
+      "text": "12.       A  contamination  assessment  report   is  required  before  the  work\ncommences. Guidelines on the preparation of a contamination assessment report are set\nout in Environmental Protection Department Guidance Note for Contaminated Land\nAssessment and Remediation. The report shall include the following :-\n\n        (a)     information on activities carried out on site including those in the\n               past if there were changes;\n\n        (b)    an inventory of chemical/hazardous substances stored/used on site\n              with  the  locations  clearly  shown  on   site  diagrams  and\n              composition of hazardous substances precisely given;\n\n        (c)     details of manufacturing processes if there are any; and\n\n        (d)     soil sampling plan and analytical method that will be adopted."
+    },
+    {
+      "id": "p13-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "13.         The contamination assessment helps to identify the specific lots of soil\nwhich are contaminated and need treatment or  special disposal, or which can be\ndisposed of in the normal manner.  Relevant remedial work will be required wherever\nnecessary.\n\nSoil Samples"
+    },
+    {
+      "id": "p14-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "14.           After demolition of the above ground structures and facilities, tests on\nsoil samples for hydrocarbons and lead content should be carried out as specified in the\ncontamination assessment report.\n\n\n\n\n\n(Rev. 8/2007)\n\n                                                        - 3 -"
+    }
+  ]
+}

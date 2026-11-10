@@ -1,0 +1,523 @@
+{
+  "code": "APP-021",
+  "source_text": "indexed_text/PNAP/APP/APP-021.txt",
+  "source_pdf": "documents/PNAP/APP/APP-021.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-21\n                         Registered Geotechnical Engineers\n\n\n                             Demolition Works\n                       Measures for Public Safety\n\n\n           To ensure public safety, the control of demolition works is governed by\nthe Buildings Ordinance (BO), Building (Administration) Regulations (B(A)R) and\nBuilding (Demolition Works) Regulations (B(DW)R), which impose requirements for:\n\n        (a)     application for approval of plans for demolition works;\n\n        (b)    application for consent to commence the works;\n\n        (c)     site safety supervision;\n\n        (d)    appointment  of  technically  competent  person  to  supervise\n              demolition works;\n\n        (e)    appointment  of  operator  of powered  mechanical  plant  or\n             equipment; and\n\n         (f)     certification of completion of works."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            This practice note sets out the procedures to be followed by authorized\npersons (AP), registered structural engineers (RSE) and registered geotechnical engineers\n(RGE) in meeting these requirements.\n\nDemolition Proposals"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            All demolition proposals should be submitted for formal approval as\nprescribed under regulations 8(3) and (4) of the B(A)R. When preparing plans for\ndemolition works, reference should be made to the Code of Practice for Demolition of\nBuildings 2004 (Demolition Code) issued by the Buildings Department (BD) for\nguidance for complying with the BO and  its subsidiary regulations.  The Building\nAuthority (BA) may refuse to approve under section 16(1)(a) and (e) of the BO any\ndemolition proposal which does not contain all the plans and documents prescribed in the\nregulations."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          The BA will exercise his discretion to refuse an application for consent to\nthe commencement of demolition works under section 16(3)(a) and (b) of the BO where\nhis approval to the demolition plans for the works has not been given.\n\n\n\n                                                             /Precautionary …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\nPrecautionary and Protective Measures"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 302
+        },
+        {
+          "label": "b",
+          "offset": 355
+        },
+        {
+          "label": "c",
+          "offset": 416
+        },
+        {
+          "label": "d",
+          "offset": 471
+        },
+        {
+          "label": "e",
+          "offset": 546
+        }
+      ],
+      "text": "5.            Notwithstanding the need to include the precautionary and protective\nmeasures for the demolition works on the plans submitted for approval, the following\nitems, which at the time of their erection do not affect the structure of any building, may\nbe erected without the consent of the BA:\n\n        (a)     protective screens and safety nets;\n\n        (b)    dust screens of plastic or tarpaulin sheets;\n\n        (c)     scaffolds and intermediate catchfans;\n\n        (d)    hoarding, covered walkway, gantry and catch platforms; and\n\n        (e)    shoring and propping for stabilising buildings under demolition\n              or adjoining buildings.\n\nSupervision Plan"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.       A supervision plan as defined under section 2(1) of the BO is required to\nbe lodged with the BA by AP prior to or at the time of application for consent to\ncommence demolition works except for works which satisfy all of the criteria set out in\nparagraph 11 of the Technical Memorandum for Supervision Plans. The supervision plan\nshould be prepared in accordance with the Code of Practice for Site Supervision 2009\n(2024 Edition) issued by BD. Under section 16(3)(bc) of the BO, the BA may refuse to\ngive his consent to the commencement of demolition works where AP has not lodged a\nsupervision plan for the works.\n\nExecution and Supervision of Demolition Works"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          AP, RSE, RGE and registered specialist contractors (RSC) are required to\nobserve the requirements on the provision of a full time site engineer for demolition of\ncomplex structures, debris disposal and management system, and other execution and\nsupervision particulars as stipulated in the Demolition Code."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          Where a site engineer is required to be appointed, he/she should be directly\nresponsible to RSC. Any subsequent change in the appointment of the site engineer\nshould immediately be reported to AP/RSE/RGE and the BA by RSC.\n\nVideo Record of Demolition Works"
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.           Video cameras to record the entire demolition process should be provided\nby the RSC for all types of demolition sites. The video cameras should be installed at\nstrategic locations agreed by AP/RSE/RGE and be securely protected from being\ntampered with so that the entire demolition process including the movement of debris and\nthe overall sequence of demolition can be recorded for reference and review purposes.\nWhile the exact number of cameras is to be determined by AP/RSE/RGE, there should be\nat least one video camera for each site. The location of the video cameras should be\nshown in the demolition plan.\n\n                                                                                     /10. …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.         The video records should be kept by the RSC for at least 14 days.\n\nAppointment of Operator of Powered Mechanical Plant or Equipment"
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.         The use of powered mechanical plant or equipment for demolition works\ncarries risks and particular care should be taken. In certain circumstances, it may even be\nunsafe and should not be allowed, for example, the use of a crane and hammer in a densely\npopulated area. To ensure public safety, the operator of powered mechanical plant or\nequipment used in demolition work shall meet the requirements as specified in regulation\n9(3) of the B(DW)R."
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.          For the purpose of regulation 9(3)(b) of the B(DW)R, an operator should\nhave completed a training course in “Demolition of Building Course for Plant Operators”\norganised by the Hong Kong  Institute of Construction and obtained the relevant\ncertificate.  Equivalent training and certificate issued by a recognised examining body\nmay also be favourably considered by the BA for meeting the requirement."
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "13.        An application for consent to the commencement of demolition works\nmust be accompanied by the personal particulars, qualifications and experience of the\noperators of any powered mechanical plant or equipment proposed to be used in the\ndemolition works in accordance with regulation 31 of the B(A)R. The information to be\nsubmitted should include the operators’ name in Chinese and English, Hong Kong\nidentity card number, date of birth, address and telephone number. The BA may refuse\nthe consent application under section 16(3)(b) of the BO where such particulars have not\nbeen submitted."
+    },
+    {
+      "id": "p14-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "14.         The BA will vet the particulars of the plant operators and advise AP on the\nsuitability of the operators as soon as possible, having regard to their qualifications,\nexperience and training."
+    },
+    {
+      "id": "p15-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "15.         Where there is a change in the appointment of the operator, the BA should\nalso be notified within 7 days of the change and provided with the personal particulars,\nqualifications and experience of the new operator.\n\nDanger from Fire or Explosion"
+    },
+    {
+      "id": "p16-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "16.          Dangerous and hazardous materials left by the previous occupants may\ncause risk of fire or explosion during demolition operation through the leakage or\naccumulation of gas or vapour. RSC for demolition works should be asked to ensure all\nflammable goods are removed from site and any other flammable goods are stored in\nproper storage facilities.  All parties are drawn to the attention of the provisions in\nregulation 6 of the B(DW)R.\n\nDemolition of Dangerous Buildings"
+    },
+    {
+      "id": "p17-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "17.            In addition to the normal procedures under the B(DW)R, some special\narrangements specifically apply to the demolition of dangerous buildings under an order\nissued by the BA. The following notes are given for guidance and are not intended to be\nexhaustive:\n\n\n                                                                    /Closure …"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -\n\nClosure\n\n(a)    Immediately after a closure order has been issued and the\n       building was vacated, the premises should be secured\n       against unauthorised entry.  Otherwise, the BA has the\n       authority to secure the building and charge the costs to the\n      owner. AP, the owner or anyone affected by the closure\n     who wishes to gain entry to the building subsequently,\n       should apply to the Existing Buildings Division (EBD) of\n    BD for a permit;\n\nShoring\n\n(b)    All shores are preferably of structural steel of Grade 250 or\n      above and in compliance with the Code of Practice for the\n        Structural Use of Steel 2011(2023 Edition) (Steel Code) or\n       equivalent.  The position of dead shores should first be\n       discussed with EBD.  Raking shores or more permanent\n      forms  of  support  for  party  walls and any common\n        structures  should   also  be   suitably  designed  and\n       constructed. Plans should be submitted for agreement prior\n        to their erection;\n\n(c)     In the construction of shores, attention must particularly be\n       given to the connection details between the shoring and the\n       party wall;\n\n(d)    Temporary shoring should be removed after the demolition\n      works have been completed and, where necessary, should\n      be replaced by a more permanent form of support;\n\nPedestrian Passageways\n\n(e)    Matters relating to pedestrian passageways associated with\n       demolition works are dealt with in Practice Note for\n       Authorized Persons, Registered Structural Engineers and\n       Registered Geotechnical Engineers (PNAP) APP-23;\n\nJoint Demolition\n\n(f)    Where several adjacent buildings are to be demolished, AP\n       appointed in respect of one of the buildings should not\n       arrange  to  commence  demolition  works   until  the\n       demolition of all buildings can proceed simultaneously.\n     Any consequential delays should be notified to EBD early,\n       so that co-ordination by the parties concerned may be\n       carried out;\n\n\n                                                          /Party …"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 5 -\n\n            Party Walls\n\n               (g)    In most cases, exposed party walls which remain to enclose\n                      existing buildings will require raking or flying shores\n                   (Appendix A) from the site of the demolished building. In\n                many cases, an order requiring such works may be issued\n                  by the BA. Where a party wall is next to a framed building,\n                  any such order served may require demolition of the party\n                     wall and provision of new enclosure to the framed building;\n\n               (h)   Where conditions permit, the BA may be prepared to\n                     consider alternative permanent measures, to be proposed\n                  by AP concerned. Early discussion will avoid delays;\n\n                   (i)     Party walls that will remain should be regularly inspected\n                     as demolition proceeds and repairs (including rendering,\n                     facing up cut brickwork and removing old wood joist ends)\n                    should be carried out concurrently with the demolition\n                  works or in special circumstances, as soon as possible;\n\n             Default Works\n\n                   (j)    Where works have not commenced or have not been\n                      carried out within the period specified in the order, the BA\n               may cause the works to be carried out and then recover the\n                      costs plus supervision charges and a surcharge from the\n                   owner. AP should advise his client accordingly and attend\n                       to all matters without delay; and\n\n             Liaison\n\n               (k)      It is the duty of AP to advise the BA of any unexpected\n                   weaknesses in adjacent buildings, structures and ground\n                     revealed  during  the  demolition  works.   He  should\n                   immediately discuss with EBD when any such problems\n                      are encountered.\n\nStreet Name Signs on Buildings"
+    },
+    {
+      "id": "p18-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "18",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "18.         To ensure efficient replacement of street name plates, AP are requested to\ninform the Director of Highways of any building to be demolished if street name plates\nare affixed to such buildings under section 32 of the BO.\n\nPublic Drainage System"
+    },
+    {
+      "id": "p19-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "19",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "19.         To ensure proper updating of drainage records and better control of\ndrainage connections, APs are requested to inform the Drainage Services Department\n(Hong Kong and Islands Division/Mainland South Division/Mainland North Division, as\nappropriate) once the Registered General Building Contractor or RSC has completed the\nsealing of drains. Regulation 3(2)(b) of the B(DW)R refers.\n\n                                                                /Demolition …"
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "- 6 -\n\nDemolition Affecting Slopes and Retaining Walls"
+    },
+    {
+      "id": "p20-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "20",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "20.               If demolition works affect slopes and retaining walls, RSE should ensure\nthat all the relevant recommendations by RGE are incorporated in the demolition plans.\nAny difference in opinion should be resolved between RSE and RGE before submission\nto BD. The geotechnical reports and supporting documents are to be prepared and signed\nby RGE.\n\nSafety and Convenience of Third Parties"
+    },
+    {
+      "id": "p21-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "21",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "21.           Proper protection and safe passage for the public must be provided at all\ntimes by the erection and maintenance of suitable hoardings, covered walkways and\ngantries, and catch platforms."
+    },
+    {
+      "id": "p22-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "22",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "22.          Every effort must be made to minimise any nuisance to the public arising\nfrom dust, noise and vibration.\n\nDesign of Hoarding, Covered Walkway, Gantry and Catch Platform"
+    },
+    {
+      "id": "p23-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "23",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "23.         The design requirements of hoardings, covered walkways, gantries and\ncatch platforms should make reference to Chapter 3 of the Demolition Code and PNAP\nAPP-23."
+    },
+    {
+      "id": "p24-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "24",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "24.           Standard designs of hoardings, covered walkways, gantries and catch\nplatforms,  together with  the  alternative design  of  precast  concrete  footings and\ndemountable connections between members, are given in PNAP APP-23 for reference.\n\nUse of Fire Retardant Protective Net, Screen, Tarpaulin/Plastic Sheeting"
+    },
+    {
+      "id": "p25-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "25",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "25.           Protective net, screen, tarpaulin/plastic sheeting covering the façade of the\nbuilding to be demolished should have appropriate fire-retarding properties in compliance\nwith  recognised  standards.    In  this  regard,  supporting  documents  such  as\ncertificate/assessment reports to demonstrate the adequacy of fire-retarding properties\nshould be available on site for inspection by the representatives of BD when required.\n\nConsent to Commencement of Works"
+    },
+    {
+      "id": "p26-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "26",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "26.           All essential precautionary and protective measures should have been\ncarried out and required documents submitted prior to or together with the application for\nconsent to commencement of demolition works (Form BA8). AP may make reference to\nthe  checklist  at Appendix B.  The BA may  refuse  to give  his consent  to  the\ncommencement of demolition works under section 16(3)(b), (ba) or (bc) of the BO where\nthe required documents have not been submitted, or section 16(3)(bb) of the BO where\nthe precautionary and protective measures have not been adequately provided for the\ndemolition works.\n\n\n\n\n                                                                      /Certification …"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "- 7 -\n\nCertification on Completion of Demolition Works"
+    },
+    {
+      "id": "p27-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "27",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "27.          Within 14 days of the completion of the demolition works, AP, RSE and\nRGE, as the case may be, should certify the completion of works in Form BA14A, or in\nForm BA14B if the streamlined procedures in paragraphs 28 to 30 below are adopted.\n\nStreamlined Procedures for Fast Track Acceptance of Completion of Demolition\nWorks"
+    },
+    {
+      "id": "p28-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "28",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 223
+        },
+        {
+          "label": "b",
+          "offset": 342
+        },
+        {
+          "label": "c",
+          "offset": 449
+        },
+        {
+          "label": "d",
+          "offset": 627
+        },
+        {
+          "label": "e",
+          "offset": 837
+        }
+      ],
+      "text": "28.        To speed up the development process, BD may take into account the\ndifferent complexity of demolition works, and allow fast track acceptance of completion\nof demolition works which satisfy the following criteria:\n\n        (a)    The building to be demolished is structurally independent from\n              other building/structure;\n\n        (b)   The demolition works will not involve any basement1 or structures\n            below ground;\n\n        (c)   No part of the building/structure above ground except ground floor\n               slab and beam will remain after completion of the demolition\n             works;\n\n        (d)   No party walls/structures or external walls of adjoining buildings\n               require the erection of structural support during or after completion\n              of the demolition works; and\n\n        (e)    The demolition works will not affect the stability of any slopes or\n               retaining structures, and will not require the sealing off of the\n             ground  surface  of a  sloping  site,  or  additional  drainage  or\n                stabilisation works1 for slopes or retaining structures during and\n                after completion of the demolition works."
+    },
+    {
+      "id": "p29-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "29",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 114
+        },
+        {
+          "label": "b",
+          "offset": 252
+        }
+      ],
+      "text": "29.         AP, RSE and RGE who wish to take benefit of fast track acceptance should\nfollow the procedures below:\n\n        (a)     Indicate compliance with the criteria in paragraph 28 above on the\n              demolition plans for BD’s approval; and\n\n        (b)    Submit Form BA14B upon completion of the demolition works\n                certifying, among others, that the completed demolition works\n             have fully satisfied the criteria in paragraph 28 above, together with\n              colour record photos showing the general views of the site, the\n              adjacent  land  or  streets and  all  elevations  of  the  adjoining\n               buildings; and a mark-up plan indicating the direction of the photos\n               taken.\n\n                                                                                     /30. …\n\n1  For the avoidance of doubt, the criterion under paragraph 28(b) is considered satisfied if it is\n   proposed to fill up a basement with debris for counteracting buoyancy. However, if the filling\n   up of debris in basement is for stabilising the basement wall for earth retaining purpose, the\n   criterion under paragraph 28(e) is considered not satisfied."
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "- 8 -"
+    },
+    {
+      "id": "p30-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "30",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "30.       BD will carry out audit checks when processing Form BA14B. For cases\nnot selected for audit checks, BD will generally provide a reply within 14 days, advising\nacceptance of the completed works or outstanding issues to be rectified.  For cases\nselected for audit checks, AP/RSE/RGE will be informed in writing within 14 days upon\nreceipt of the Form BA14B that their case is selected for audit check, and a reply will\ngenerally be provided within 28 days, advising acceptance of the completed works or\noutstanding issues to be rectified, similar to that in processing Form BA14A.\n\nMinor Works Relating to Demolition Works"
+    },
+    {
+      "id": "p31-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "31",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "31.          Under the Minor Works Control System (MWCS), certain minor building\nworks relating to demolition works have been designated as minor works and may be\ncarried out under the simplified requirements as an alternative to obtaining prior approval\nand consent under the BO. Reference can be made to Schedule 1 of the Building (Minor\nWorks) Regulation and PNAP APP-147 regarding the list of minor works items and the\nsimplified requirements respectively.\n\nStreamlined Procedures for Carrying out Minor Works before Demolition of\nBuildings"
+    },
+    {
+      "id": "p32-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "32",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "32.           Before demolition of a building, minor building works such as the removal\nof unauthorised building works, projecting structures and windows of the parent building\nfor various purposes including the installation of precautionary measures and formation\nof openings in floor slabs to convey debris are usually required. To facilitate these works,\nin addition to the staged consent procedures of applying separate consent for the\ncommencement of these works and the procedures under MWCS for those falling within\nthe definition of minor works, AP may adopt the streamlined procedures as detailed in\nAppendix C to carry out such works."
+    },
+    {
+      "id": "p33-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "33",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "33.       A similar practice note has been issued to all registered contractors.\n\n\n\n\n\n                                                       ( YU Po-mei, Clarice )\n                                            Building Authority\n\n\nRef. : BD GP/BREG/DW/1 (VII)\n    BD GP/BORD/27\n      GC/4/16/1 (GEO file)\n\nThis PNAP is previously known as PNAP 71\nFirst issue   May 1980\nLast revision September 2022\nThis revision April 2025 (AD/NB1 and AD/NB2) (General revision)"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Appendix A\n                       (PNAP APP-21)\n\n\n\n\n\n- 1 -"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "(Rev. 12/2020)\n(Rev. 1/2021)\n\n\n\n                                               - 2 -"
+    },
+    {
+      "id": "page-11",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        11
+      ],
+      "text": "Appendix B\n                                                        (PNAP APP-21)\n\n\n  Checklist for Application for the First Consent to Commencement of Demolition Works\n                     (This checklist is not required to be submitted to BD)\n\nPART 1  - SITE PREPARATION WORKS\n                                                               Yes    No    N/A\n 1.1  Hoarding, covered walkway and catch platforms erected?\n 1.2  Precautionary and  protective measures including  scaffoldings, dust\n      screens and catchfans provided? (Including at the common boundaries of\n      adjoining demolition sites where demolition works will be carried out\n      concurrently.)\n 1.3  Proppings and temporary support to the structural elements and floor\n      slabs of the building installed?\n 1.4  Shoring to the buildings and supports to adjacent retaining walls and/or\n      slope installed?\n 1.5  Debris chute(s) provided?1\n\n 1.6 Video cameras and record system installed at strategic locations?\n\n 1.7  All glazed sashes and doors removed?1\n\n 1.8  All sewer and drainage connexions sealed?\n 1.9  All water, electricity, gas and other utility services disconnected and\n     meters removed?\n 1.10 All fittings attached to the building in connexion with any tramway\n      service, system of street lighting, supply of electricity or other service\n     removed?\n 1.11 Indications to show the route of emergency exit with  lighting/fire\n      extinguishing equipment provided?\n 1.12 Markings  to  identify  the  prohibited  areas  for  the movement  of\n     mechanical plants on the floor slabs and the concerned propped areas\n     provided?\n 1.13 Hazardous materials (e.g. asbestos containing materials, petroleum, etc.)\n     removed/cleaned up/disposed of by specialist in accordance with the\n     requirements of relevant government departments (e.g. Environmental\n      Protection Department, Labour Department, etc.)?\n 1.14 Details of authorized person/registered structural engineer/registered\n      geotechnical   engineer/registered   specialist   contractor/technically\n     competent person and their contact telephone numbers posted close to\n      the front entrance of the site?\n 1.15 Works specifically required for the project\n     Please specify:\n\n1    See item 2.9 of this Appendix if minor works are involved.\n                                                                    - 1 -"
+    },
+    {
+      "id": "page-12",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        12
+      ],
+      "text": "Appendix B\n                                                        (PNAP APP-21)\n\n\nPART 2  - DOCUMENTS SUBMITTED\n                                                               Yes    No    N/A\n 2.1 Form BA8 (Application for Consent to the Commencement and Carrying\n     Out of Demolition Works)\n 2.2 Form BA20 (Notice of Technically Competent Person(s) Appointed to\n      Supervise Demolition Works)\n 2.3  Supervision plan\n 2.4 Names of technically competent persons and their particulars\n 2.5  Details of operators of powered mechanical plant or equipment proposed\n      to be used\n 2.6  Details of debris disposal and management system\n\n 2.7  Details of site engineer, if required to be appointed\n 2.8  Chinese version of the demolition plans\n 2.9 Minor works submission records such as removal of unauthorised\n      building works, projecting structures, windows and formation of slab\n     opening to convey debris\n 2.10 Documents specifically required for the project\n     Please specify:\n\nPART 3  - OTHER ASPECTS\n                                                               Yes    No    N/A\n 3.1  Hoarding Permit still valid?\n 3.2  Excavation Permit, required by Highways Department, issued?\n 3.3  Consent from the adjoining owners for demolition/strengthening of party\n      wall/structures?\n 3.4  Conditions imposed in the approval letters complied with?\n 3.5  Requirements  from  other  government  departments  and/or MTR\n     Corporation Limited observed?\n 3.6  Requirements from Antiquities and Monuments Office fulfilled?\n 3.7  If there are  street name  plates affixed  to the building, Highways\n     Department informed?\n\n\n\n\n(9/2022)\n\n\n                                                                    - 2 -"
+    },
+    {
+      "id": "page-13-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        13
+      ],
+      "text": "Appendix C\n                                                  (PNAP APP-21)\n\n\n                   Streamlined Procedures for Carrying out\n            Minor Works (MW) before Demolition of Buildings\n\n\n            The following streamlined procedures for MW to be carried out before\ndemolition of parent building are applicable if the authorized person, registered structural\nengineer and  registered  specialist  contractor 1 (Project Team) responsible  for the\ndemolition of the parent building are also responsible for such MW.\n\nNotification of Commencement"
+    },
+    {
+      "id": "p2-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          Form MW01 for the MW to be carried out before demolition of the parent\nbuilding should be submitted not less than 7 days prior to their commencement, together\nwith the application for approval of demolition plans for the parent building, by the same\nProject Team. The demolition plans should indicate such MW including a statement that\nprotective and precautionary measures in accordance with the Technical Guidelines on\nMinor Works Control System are to be provided."
+    },
+    {
+      "id": "p3-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            Photographs showing the locations of the proposed MW are not required\nif such have been included in the building appraisal report submitted with the demolition\nplans.\n\nCertification of Completion"
+    },
+    {
+      "id": "p4-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          Form MW02 on completion of the MW should be submitted together with\nthe Form BA14A/BA14B for completion of demolition of the parent building by the same\nProject Team. Photographs showing the MW as completed are not required if the whole\nparent building is demolished subsequent to the completion of the MW."
+    },
+    {
+      "id": "p5-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "5.                If such MW are completed before the submission of Form BA10 for\ndemolition of the parent building, Form MW02 should be separately submitted together\nwith the necessary documents and information under the MW Control System to New\nBuildings Division 1 of the Buildings Department.\n\n\n\n\n\n(Rev. 4/2025)\n\n\n\n\n\n1   The MW should be carried out by the registered specialist contractor (demolition works) for\n    the demolition of the parent building, and both the MW and the demolition of the parent\n    building should be supervised by the same authorized signatory of the contractor."
+    }
+  ]
+}

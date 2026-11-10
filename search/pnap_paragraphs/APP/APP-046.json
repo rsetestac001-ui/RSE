@@ -1,0 +1,110 @@
+{
+  "code": "APP-046",
+  "source_text": "indexed_text/PNAP/APP/APP-046.txt",
+  "source_pdf": "documents/PNAP/APP/APP-046.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers      APP-46\n\n                           PRACTICE NOTE FOR AUTHORIZED PERSONS\nBUILDINGS ORDINANCE OFFICE                        AND REGISTERED STRUCTURAL ENGINEERS    124\n\n                            Pollution from Industrial Buildings\n                 Building (Standards of Sanitary Fitments, Plumbing,\n                    Drainage Works and Latrines) Regulation 90\n\n               Buildings Ordinance sections 24 and 28 and Building (Standards of Sanitary\nFitments, Plumbing, Drainage Works and Latrines) Regulation 90 contain provisions which\nmay be invoked by the Building Authority to tackle the problem of water pollution caused by\nthe discharge of effluent from industrial buildings."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            Following the issue of the first practice note on this subject in May 1987, more\nstringent measures have been taken in order to minimize the effects of untreated noxious\neffluent getting into drainage systems and causing pollution to water-courses and the sea. Such\neffluent can also seriously impair sewage treatment facilities or damage private or public drains\nand sewers. There is also the possibility of Government's drains and sewers being overloaded\nby industrial discharge or of workers being injured while repairing or maintaining drainage\nsystems."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.             In addition to consulting the Environmental Protection Department in cases\ninvolving a single occupancy specialized industrial building where the industrial processes to\nbe pursued are known and specific facilities can therefore be allowed for beforehand, the\nBuilding Authority will also pay particular attention to plans for 'flatted factory' development\nregarding general effluent treatment provisions."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.                  It  is therefore desirable for  all authorized persons and registered structural\nengineers to seek from their clients information on the proposed industrial processes which the\nintended building occupants will pursue, and ensure that at drainage plan submission stage\nbuilding uses are clearly stated and adequate provisions are made to treat any noxious effluent.\nFailure to provide this information may result in rejection of the drainage proposals under\nBuildings Ordinance section 16(1)(i)."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.             In the case of 'flatted factory' development where multi-occupancy is to be\nexpected, the assumption will be made that the industrial undertakings and places of work will\nnormally discharge  effluent of such volume or chemical composition as to  call for the\nprovision of drainage facilities other than those required under Building (Standards of Sanitary\nFitments, Plumbing, Drainage Works and  Latrines) Regulation  5(1).   Failure  to make\nprovision for future effluent discharge may lead to disapproval of the plans under Building\n(Standards of Sanitary Fitments, Plumbing, Drainage Works and Latrines) Regulation 90."
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           For 'flatted factory' development, unless specific facilities are provided, each\nindustrial unit should have an individual drainage outlet, adequately trapped, to receive treated\ntrade effluent from that unit. This outlet must be connected to the foul water system and be of\na size indicated below:\n\n           Factory usable floor area                            Size of outlet\n\n            less than 1,000 m2                           100 mm diameter\n         more than 1,000 m2                       150 mm diameter minimum\n                                                            Cont’d/……….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "-2-\n\n        The size of the vertical foul water down pipe will depend upon the number of floors served\n        and should generally be within the range of 150 - 300 mm diameter. These outlets must not be\n         connected to any storm-water drainage system. The outlets can be temporarily sealed at floor\n           level until required by occupants of the unit for the purpose of discharging treated effluent, the\n         assumption being that any effluent identified in Building (Standards of Sanitary Fitments,\n         Plumbing, Drainage Works and Latrines) Regulation 90 will be treated by the occupants of the\n           unit prior to being discharged into the outlet."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          The need to provide a petrol interceptor in areas used for the servicing  and\n-----     parking of vehicles is well known.  Standard details of the petrol interceptor are attached for\n          general information. The preferred contemporary practice regarding other types of industrial\n           effluent and appropriate methods of treatment is not so standardized or so clear.  In case of\n         doubt it may be necessary to obtain the advice of consultants."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.             In addition to tackling the pollution problem at plans submission stage, it is also\n         worth mentioning that more attention will be focused on illegal, insanitary and polluting drains\n        and sewers in future. To this end a unit has already been set up in the Buildings Ordinance\n          Office with specific responsibility for seeking out and dealing with polluting factories.  It is in\n          the interest of all concerned that timely steps are taken to protect our environment.\n\n\n\n\n\n                                                 (A.W. Samson)\n                                                           Building Authority\n\n\n\n\n\n         Ref: BLD(B) GR/BREG/SF/2\n\n          First issued May 1987\n         This update March 1992 (GBS/D) (para. 7 amended and grease trap details deleted)\n\n         Index under : B(SSFPDW&L)R 90 - Pollution from Industrial Buildings\n                        Effluent - noxious\n                        Pollution from Industrial Buildings"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": ""
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": ""
+    }
+  ]
+}

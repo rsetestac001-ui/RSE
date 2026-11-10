@@ -1,0 +1,162 @@
+{
+  "code": "ADV-035",
+  "source_text": "indexed_text/PNAP/ADV/ADV-035.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-035.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department       Registered Structural Engineers and       ADV-35\n                            Registered Geotechnical Engineers\n\n\n                          Greening in Buildings\n\n\nIntroduction\n\n             Greening has become more common in urban landscape design and it\nplays an important role in improving the living environment in densely populated cities\nlike Hong Kong. This practice note sets out the areas of considerations for Authorized\nPerson (AP)/Registered Structural Engineer (RSE) in planning, designing and installing\ngreening in buildings.\n\nSubmission for Approval"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           Greening may exist in various forms, extent and locations in a building.\nIts effects on aspects such as the structural, drainage, usage, fire safety and maintenance\nof a building may vary significantly.  Whether installation of greening constitutes\nbuilding works under the Buildings Ordinance (BO) depends on the relevant facts and\ncircumstances of each case. The relevant factors include degree of fixation, degree of\npermanence, nature and intended use, size, associated building works and provision of\nfacilities, ease of assembling and ease of removal.  All relevant factors have to be\nanalysed and then considered in totality. For example, the construction of fixed planter\nboxes is regarded as building works but the laying of soil and planting of vegetation\ntherein do not constitute building works under the BO."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           Under the Minor Works Control System, certain minor building works\nfor the installation of greening have been designated as minor works and may be carried\nout under the simplified requirements as an alternative to obtaining prior approval and\nconsent under the BO.  Reference can be made to Schedule 1 of the Building (Minor\nWorks) Regulation and Practice Note for Authorized Persons, Registered Structural\nEngineers and Registered Geotechnical Engineers (PNAP) APP-147 regarding the list of\nminor works items and the simplified requirements respectively."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          Where no new building works  are involved  in  the greening, plan\nsubmission to the Buildings Department (BD) for approval is not necessary.  However,\nthe AP/RSE should carefully consider the load bearing capacity of the existing building\nstructure, effects of the greening on the drainage system and fire safety, and associated\nchange in use."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          Where new building or building works including strengthening of the\nexisting structures are involved in the greening works, proposal for alteration and\naddition works should be submitted to the BD for approval.\n\n\n\n                                                                              /Structural …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\nStructural Consideration"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.             In assessing the effects of greening on structural elements in both new\ndevelopments and existing buildings,  all loading combinations associated with the\nproposed greening, such as drainage layer, substrate layer, growing medium layer, plant\nvariety and weight etc. should be considered. The fully saturated weight of the layers\nshould be taken into account. Consideration should also be given to the loading of the\nproposed irrigation system and construction load. Special attention should be given for\nthe provision of greening that may pose higher risks, such as on inaccessible roofs, long-\nspan roof/podium  structures, roofs/podiums with water ponds  or  cantilever  slab\nstructures."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.         As stipulated in the Code of Practice for Dead and Imposed Loads 2011,\nthe weight of soil, waterproofing and drainage system and plants for greening shall be\ntaken as dead loads. Imposed loads should be allowed for in addition to the loading of\nthe greening. For greening area where people may congregate, minimum imposed loads\nfor the corresponding usage should be adopted."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.             In carrying out structural assessment to ascertain whether the proposed\ngreening is suitable in an existing building, the AP/RSE should check the approved\nrecords of the relevant parts of the existing building and their existing site conditions\nagainst the loading induced by the greening which may vary significantly from green\ncarpets to deep water ponds.  Reference should be made to PNAP APP-117 on the\nStructural Requirements for Alteration and Addition Works in Existing Buildings.\n\nDrainage System and Waterproofing"
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.             Effective discharge of  rain water during heavy  rainfalls should be\nallowed for in the drainage design of all greenings. In general, surface fall not shallower\nthan 1:80 should be provided to the associated structure and the greenery. In particular,\nthe drainage system should be adapted to the specification of the chosen greenery\nsystem."
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "10.          For new greening on existing building, the existing drainage system of\nthe building may be  neither adequate nor  suitable  for the greening.   Therefore,\nadditional or specific drainage provision may be required to avoid water ponding and\noverloading of the building structure."
+    },
+    {
+      "id": "p11-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "11.         Sound waterproofing of the roof/podium should be ensured before the\nprovision of greening in order to avoid water seepage causing structural damage.  All\ndrainage provisions shall be inspected and maintained regularly.  Where leakage,\nblockage or defects are detected, they should be rectified immediately.\n\nMeans of Escape"
+    },
+    {
+      "id": "p12-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "12.         The provision of greening in buildings should not affect the safety of\noccupants in case of fire.  The extent of the refuge should not be diminished and/or\nobstructed by greenery or any other use.\n\n\n                                                                            /Protective …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\nProtective Barrier & Access for Maintenance"
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "13.            Protective barriers, such as balustrades and railing, should be provided\nfor the safe access to the greening area and to prevent the danger of falling in\naccordance with regulation 8 of the Building (Construction) Regulations.  Moreover,\naccess and safety provisions for maintenance of the greening area should also be\nprovided.\n\nMaintenance of Greening"
+    },
+    {
+      "id": "p14-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "14.         The building owners should be advised of the guidelines for the safe use\nof the greening, including regular inspection and maintenance of the affected structures\nand drainage system.\n\n\n\n\n\n                                                                   ( YU Tak-cheung )\n                                                   Building Authority\n\n\n\n\n\nRef. : BD GR/1-95/58\n\nFirst issue    June 2017\nThis revision September 2020 (AD/NB1) (Paragraph 3 added)"
+    }
+  ]
+}

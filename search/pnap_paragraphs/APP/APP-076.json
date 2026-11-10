@@ -1,0 +1,104 @@
+{
+  "code": "APP-076",
+  "source_text": "indexed_text/PNAP/APP/APP-076.txt",
+  "source_pdf": "documents/PNAP/APP/APP-076.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers      APP-76\n\n                                     Practice Note for Authorized Persons\nBuildings Department                                                   183\n                              and Registered Structural Engineers\n\n\n                     Keeping Buried Services out of Slopes\n\n             This gives guidelines on keeping buried services out of slopes and on dealing\nwith cases where  it is not possible to do so.  These guidelines are not exhaustive and\nprofessional judgement must be exercised in all cases.\n\nImportance of keeping Buried Services out of Slopes"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.             Persistent leakage of water from buried services not only causes nuisance,\nbut can also be a serious risk to the stability of slopes and retaining walls.  Water-carrying\nservices including stormwater drains, sewers, water mains, catchwater channels and water\ntunnels are prone to leak.  Other conduits such as telephone ducts, electric cable ducts or\ndisused pipes can also transmit a significant amount of water into the ground  : their\npotential  effect on the  stability of a slope or retaining wall should therefore not be\ndisregarded."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         As a long-term preventive measure, authorized persons/registered structural\nengineers (APs/RSEs) should keep buried  services out of slopes  in  their designs as\npracticable. Otherwise, adequate provision should be made to cater for the case where it is\nimpractical to do so.\n\nRouting of Buried Services away from Slopes"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.                 It is a poor engineering practice to route buried services close to the crest of\na slope. As a general rule, buried services should not be placed in a slope nearer to the\ncrest than a distance equal to its vertical height. Reference should be made to Section 9.7,\nGeotechnical Manual for Slopes in this regard.\n\nResiting of Existing Buried Services in Slopes"
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.           Applying the same rule, consideration should be given to re-routing  all\nexisting buried services in existing slopes.  Opportunities to re-route existing services may\narise when existing slopes within or adjacent to a lot are being upgraded or when existing\nservices are being relaid or repaired.\n\nSiting of Buried Services in the Crest Area"
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "6.            In  cases where  the  siting  of buried  services  outside  the  crest  area  is\nimpractical, the slope should be designed to the factors of safety as given in Chapter 5 of\nGeotechnical Manual for Slopes, taking into account the effects of possible water leakage.\nAlternatively, other measures as detailed below should be considered in the design to\nminimize the effects of possible water leakage :\n\n\n                                                                                       /(a) laying ...."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2  -\n\n        (a)     laying the services on or above the ground surface -- Additional\n              provisions as a result of their exposure should be made to ensure\n                aesthetic  acceptability  as  well  as  suitable  protection  against\n              corrosion or damage.\n\n        (b)    housing the services within a ducting system, sealed trench or\n              sleeve drained to a suitable discharge point at a surface water\n              drainage system or  natural stream  -- The discharge from  the\n              ducting system should be monitored regularly.  Measures such as\n               inspection chambers  should be  provided  to  allow  access  for\n              monitoring.\n\n        (c)     for water mains which have to be routed within the crest area,\n                installing stop valves at each side of the slope -- This will enable\n             any leakage to be easily controlled when spotted."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.         When  the  laying  of  services  inside  the  crest  area  of  a  fill  slope  is\nunavoidable, the design should allow for differential settlement of the buried services and\ntheir ancillary facilities, especially after any leakage."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.           For those sewers and stormwater drains in  fill slopes where differential\nsettlement may be large, any breakage of the pipe itself or widening of pipe-joints will\ncause leakage.  Rigid pipelines should, therefore, be avoided and flexible jointings with\nshort pipe pieces should be provided to enhance the degree of flexibility along the pipeline.\nNon-brittle pipe materials should be considered to avoid shearing of the pipe if settlement\noccurs.\n\nAccurate as-built Record of Buried Services"
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.         To  facilitate future maintenance and inspection of  all newly constructed\nburied  services, APs/RSEs should compile an accurate  as-built record of  the buried\nservices.   This should include updating of those building plans, drainage plans,  site\nformation plans and water services plans submitted to government departments.  Such\ninformation should be incorporated in the slope and retaining wall record plans referred to\nin PNAP 168. Copies should be distributed to the developers as well as the property\nowners or building managers who would take over the future maintenance of the buried\nservices.\n\n\n\n\n                                                                  ( Helen C P Lai YU )\n                                                    Building Authority\n\nRef : BD GR/CC/228 (II)\n\nFirst issued June 1995 (AD/S)\n\nIndex under : Buried Services - keeping out of slopes"
+    }
+  ]
+}

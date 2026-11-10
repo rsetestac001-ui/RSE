@@ -1,0 +1,94 @@
+{
+  "code": "APP-095",
+  "source_text": "indexed_text/PNAP/APP/APP-095.txt",
+  "source_pdf": "documents/PNAP/APP/APP-095.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers       APP-95\n\n                                  Practice Note for Authorized Persons\n Buildings Department                                                    213\n                           and Registered Structural Engineers\n\n\n                    Sale Offices and Show Flats on Construction Sites\n\n\n         There is an increasing tendency that developers wish to operate sale offices and\n exhibit show flats on construction sites well before the new buildings are completed and\n certified for occupation.  Since sale offices and show flats, which are open to the general\n public,  are incompatible with  construction works,  for  the sake  of  public  safety,  the\n following principles must be observed:\n\n            (a)  No part of any new building, whether  still under construction or\n                  substantially completed, should be occupied and used as a sale office\n                or a show flat without a temporary occupation permit.\n\n           (b)  No temporary building within a construction site should be occupied\n               and used as a sale office or a show flat without a temporary building\n                permit and a temporary occupation permit for that purpose."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 139
+        },
+        {
+          "label": "b",
+          "offset": 292
+        },
+        {
+          "label": "c",
+          "offset": 444
+        },
+        {
+          "label": "d",
+          "offset": 647
+        }
+      ],
+      "text": "2.         In  considering  applications  for  such  temporary  occupation and  usage,  the\n Building Authority has to be satisfied that -\n\n            (a)    the premises intended to be occupied and used as a sale office or a\n             show flat is structurally suitable for the purpose;\n\n           (b)    the premises is adequately segregated from the rest of the construction\n              works in terms of fire resisting construction;\n\n            (c)    there is available adequate independent and protected means of access\n               and escape to and from the premises with direct connection with a\n                    street; and\n\n           (d)    the premises is provided with adequate fire service installations to the\n                   satisfaction of the Director of Fire Services;"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 150
+        },
+        {
+          "label": "b",
+          "offset": 261
+        },
+        {
+          "label": "c",
+          "offset": 369
+        }
+      ],
+      "text": "3.        In permitting such temporary occupation and usage, the Building Authority may,\n depending on the circumstances, impose suitable conditions-\n\n            (a)    to limit the period within which the premises may be so occupied and\n                used;\n\n           (b)    to restrict the number of persons to be accommodated at any one time;\n               and\n\n            (c)     if necessary, to require the partial or  total suspension of building\n              works on the construction site during the period of such occupation\n               and use.\n                                                                                                      / 4. Any ..."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         Any violation of the above requirements or conditions may be liable to\nrevocation of the temporary occupation permit and prosecution under section 40(1) and (5)\nof the Buildings Ordinance."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            Authorised persons should take note of the above principles and when\nmaking an  application  for such  occupation and usage  they should submit  sufficient\ninformation to  justify  viability in terms of paragraph 2 above and specify the period\ntherefor and the expected number of persons to be accommodated.\n\n\n\n\n\n                                            (CHOI Yu-leuk)\n                                                        Building Authority\n\n\n\n\n\nRef. : BD GP/BORD/10 (III)\n\nFirst issued August 1997 (AD/D)\n\nIndex under :  Sale offices\n           Show flats\n          TOP"
+    }
+  ]
+}

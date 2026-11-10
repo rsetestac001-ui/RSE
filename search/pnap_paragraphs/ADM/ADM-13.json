@@ -1,0 +1,168 @@
+{
+  "code": "ADM-13",
+  "source_text": "indexed_text/PNAP/ADM/ADM-13.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-13.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department       Registered Structural Engineers and    ADM-13\n                            Registered Geotechnical Engineers\n\n\n\n                   Monitoring for Site Safety and Quality\n\nAims and Functions\n\n            The Site Monitoring Section (SMS) of the Buildings Department aims to\nenhance the safety and quality of building works on construction and demolition sites\nby a programme of systematic inspections.  Staff of SMS will visit sites to focus on\nunsatisfactory aspects which may have impact on or interface with public safety and\nquality. Matters of concern in this context include :\n\n          (a)   divergence or deviation in a material way from approved\n               plans;\n\n         (b)   use of defective materials ;\n\n          (c)   absence of adequate precautionary measures;\n\n         (d)   lack of supervision by the persons responsible;\n\n          (e)   departure from approved  or  agreed work sequence  or\n              procedures;\n\n           (f)   inadequacy of experience of workmen or plant operators for\n               specially hazardous operations;\n\n         (g)   non-compliance with conditions imposed or orders issued\n            by the Building Authority; and\n\n         (h)   contravention of provisions of the Buildings Ordinance or\n              subsidiary legislation.\n\nThe object  is to enhance safety and quality assurance by encouraging responsible\nattitudes on site and deterring dangerous operations."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          Where necessary, the SMS will advise the authorized person, registered\nstructural  engineer  or  registered  geotechnical  engineer  of  corrective  action on\nunsatisfactory aspects likely to have safety-related consequences. Other remedies and\nsanctions, including the service of orders under section 23 and 24A of the Buildings\nOrdinance, prosecution and disciplinary action will be considered where appropriate in\nthe light of the circumstances of individual cases.\n\nInspections"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.        SMS inspecting officers will inspect sites more frequently where the\nworks, the construction stages or the operations pose higher risks to life and limb.\nExamples are demolition, deep excavations, percussion  piling, formation of steep\nslopes, construction of high retaining walls, works projecting over public thoroughfares\nand operation of heavy powered mechanical plant.\n                                                                                               /4. ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 118
+        },
+        {
+          "label": "b",
+          "offset": 181
+        },
+        {
+          "label": "c",
+          "offset": 301
+        }
+      ],
+      "text": "4.            All SMS inspecting officers will carry a warrant card with authorisation\nby the Building Authority to :\n\n          (a)   inspect any premises and enter upon any land;\n\n         (b)   ascertain whether the provisions of the Buildings Ordinance\n               are being complied with; and\n\n          (c)   carry out tests, make openings and take reasonable samples\n               for the purposes of the Buildings Ordinance.\n\nCo-operative Efforts"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 201
+        },
+        {
+          "label": "b",
+          "offset": 265
+        },
+        {
+          "label": "c",
+          "offset": 501
+        },
+        {
+          "label": "d",
+          "offset": 757
+        },
+        {
+          "label": "e",
+          "offset": 1035
+        },
+        {
+          "label": "f",
+          "offset": 1133
+        },
+        {
+          "label": "g",
+          "offset": 1263
+        },
+        {
+          "label": "h",
+          "offset": 1431
+        }
+      ],
+      "text": "5.            Authorized  persons,  registered  structural  engineers  and  registered\ngeotechnical engineers are expected to co-operate in the interest of public safety and\nquality by ensuring that :\n\n        (a)    ready access to sites is provided to SMS staff;\n\n        (b)    copies of all approved plans, agreed work sequence and\n              procedures and  all conditions imposed by the Building\n              Authority are issued to registered contractors to keep on\n                  site;\n\n        (c)    copies of  all prescribed plans, details of the works and\n              supervision plans (as may be required) for minor works are\n              issued to prescribed registered contractors to keep on site of\n               the minor works;\n\n        (d)     all approved or agreed work sequence and procedures and\n                  all conditions imposed or orders issued by the Building\n              Authority are properly explained to registered contractors,\n            where necessary, with translations provided;\n\n        (e)    requirements on supervision of building and demolition\n            works are met;\n\n         (f)    adequate precautionary measures are provided, particularly\n             with regard to falling objects at sites;\n\n        (g)    any contravention resulting from the carrying out of works\n                  is notified to the Building Authority as soon as possible;\n            and\n\n        (h)     unsatisfactory aspects of work sites and building works are\n                rectified without delay.\n\nInterface with Others"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.             Inspections in connection with approval of plans, issue of consent,\npermits, licences and occupation permits and performance tests of building materials,\nstructural elements and systems will continue to be carried out by staff of the New\nBuildings Divisions of the Buildings Department.\n\n                                                                                                /7. …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "7.             In the event of the SMS inspecting officers identifying contravention of\nsafety or quality requirements not falling within the ambit of the Buildings Ordinance,\nthey will refer the cases to the appropriate government department for consideration of\nfollow up action.\n\nMinor Works carried out in accordance with the Simplified Requirements"
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          Minor works carried out in accordance with the simplified requirements\n(i.e. involving submitted plans instead of approved plans) are small scale with short\nconstruction period.  Hence instead of a programme of systematic inspections for\nconstruction and demolition sites with approved plans, selected cases of minor works\nunder construction will be subject to audit site safety inspections.  The matters of\nconcerns, remedies and sanction, cooperative efforts and interface, etc. described above\nare generally applicable, with the extent depending on the circumstances of individual\nminor works cases.\n\nCommon Concern"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.           Maintenance of site safety and quality demand the joint efforts of all\nparties concerned. Please bring this practice note to the attention of your clients and the\nregistered contractors they appoint."
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.       A similar practice note is issued to registered contractors.\n\n\n\n\n\n                                                                     ( AU Choi-kai )\n                                                   Building Authority\n\n\n\nRef : BD GR/1-50/48/0\n\nThis PNAP is previously known as PNAP 186\nFirst issue    September 1995\nLast revision  February 2006\nThis revision December 2010 (AD/NB2) – para. 4(c) amended, paras. 5(c) & 8 added"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "code": "APP-020",
+  "source_text": "indexed_text/PNAP/APP/APP-020.txt",
+  "source_pdf": "documents/PNAP/APP/APP-020.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Re gistered Structural Engineers and Registered Geotechnical Engineers   APP-20\n                              Practice Note for Authorised Persons Buildings Department                                                70\n                         and Registered Structural Engineers\n\n\n\n                      Building Proposals affected by Street Widening\n                           Building (Planning) Regulation 22(2)\n\n           When part of a lot is to be acquired by Government for the purpose of\nstreet widening, the owner may be given one or a combination of the following forms of\ncompensation :\n\n                 (a)    Bonus plot ratio and/or site coverage under Building\n                      (Planning) Regulation 22(2).\n\n                (b)    Cash settlement (negotiated by the Lands Department).\n\n                 (c)   An  exchange  of  Land  (negotiated  by  the  Lands\n                     Department)."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.             In the event of (a) being adopted, the interpretation of Building (Planning)\nRegulation 22(2) will be of concern to land owners and authorized persons (APs) and its\nimplications  will  require  to  be  ascertained on  other  related  Building  (Planning)\nRegulations.   It is for the purpose of avoiding doubt that this practice note is issued so\nthat APs may  acquaint  themselves  and  the owners  with  the method by which\ncompensation in terms of development potential may be quantified."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.             In  considering whether  or  not  to  permit  the bonus under  Building\n(Planning)  Regulation  22(2),  the  Building  Authority  will be  prepared,  subject  to\nparagraph 4 below and the provisions of Building (Planning) Regulation 23(2)(a), to\naccept the part or parts of a lot required for street widening to count also as ‘site area’, in\nrespect only of the first building subsequently erected on the reduced site area, for the\npurposes of arriving at the permitted plot ratio and site coverage for the building."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "b",
+          "offset": 277
+        }
+      ],
+      "text": "4.          The statement in paragraph 3 above is made with the proviso that :\n\n                 (a)      all claims for bonus under the Regulation will be dealt\n                     with individually according to the special circumstances\n                      of each case;\n\n                (b)     the  additional  plot  ratio  referred  to  in  Building\n                      (Planning)  Regulation  22(2)(b) may  only be  given\n                   where  the  Building  Authority  is  satisfied  that  the\n                       density of the development or redevelopment  is not\n                       excessive;\n\n                                                                                              /(c) ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n                 (c)    a separate block plan (in quadruplicate) indicating the\n                      area to be surrendered accompanies the building plan\n                     submission claiming bonus under Building (Planning)\n                     Regulation 22(2);\n\n                (d)     the building plans are suitably endorsed to indicate the\n                      areas to be surrendered; and\n\n                 (e)    a formal Agreement to Surrender to the satisfaction of\n                   Lands Department  is executed and registered in the\n                  Land Registry."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.           With regard to Building (Planning) Regulation 25, a similar principle may\nbe used, i.e. the setback area may count as open space where it is at the side or rear of a\nbuilding."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           Having established, at the time of submitting building plans for approval,\nthat the lot concerned is affected by street widening proposals, APs are advised at the\nsame time to submit a set of those plans to the Chief Estate Surveyor/Acquisition, Lands\nDepartment.  The purpose of this procedure is to provide the earliest opportunity to\nconsider  the  proposed  method  adopted  for  achieving  compensation  in  terms  of\ndevelopment potential.\n\nAgreement to Surrender"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.       A temporary occupation permit or an occupation permit will not be issued\nbefore the execution of an Agreement to Surrender incorporating all the relevant terms\nand conditions. AP should remind the owners for early preparation and execution of the\nrequired Agreement.\n\n\n\n\n\n                                                                        ( AU Choi-kai )\n                                                        Building Authority\n\n\nRef. : BLD(B) GP/BREG/P/4\n      BLD(B) GP/BL/P/5\n\nFirst issue April 1980\nLast revision January 1990\nThis revision December 2008 (AD/NB1) (General amendment and para. 7 added)\n\nIndex under : B(P)R 22(2) - Building Proposals affected by Street Widening\n                Street Widening - B(P)R 22(2)"
+    }
+  ]
+}

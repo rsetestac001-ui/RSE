@@ -1,0 +1,54 @@
+{
+  "code": "APP-091",
+  "source_text": "indexed_text/PNAP/APP/APP-091.txt",
+  "source_pdf": "documents/PNAP/APP/APP-091.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers          APP-91\n\n                                   Practice Note for Authorized Persons\nBuildings Department                                                       209                            and Registered Structural Engineers\n\n\n\n             Maintenance and Replacement Works of Lift Installations\n\n\n             According to paragraph 11.2 of the Code of Practice for Fire Resisting\nConstruction 1996, a door provided at a lift landing to give access to the car of a lift should\nhave a fire resistance period (FRP) of not less than 1 hour with regard to integrity.  In\norder to provide adequate resistance to the spread of fire, a landing door should normally\nremain in a closed position unless a lift car stops at the floor of the landing door."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           For  maintenance  or  replacement  works  of   lift   installations,   it   is\nunderstandable that some landing doors would need to be kept open or taken down before\nreinstatement.  However, in the course of such works, it is necessary to observe the fire\nsafety requirements for protecting the integrity of lift shafts in order to inhibit the spread of\nfire between floor compartments through the lift shafts and openings.  These requirements\nare set out in the Appendix."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           Authorized Persons and Registered Structural Engineers are requested to\nobserve these requirements and to bring them to the attention of all concerned in carrying\nout maintenance or replacement works of the lift installations under their supervision. The\nrequirements will be incorporated into the Code of Practice for Fire Resisting Construction\nissued by the Building Authority in due course."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.       A similar practice note has been issued to Registered Contractors.\n\n\n\n\n\n                                              (CHOI Yu-leuk)\n                                                           Building Authority\n\n\n\nRef. : BD GR/ACT/19/L\n\nFirst issued  : July 1997 (AD/LM)\n\nIndex under : FRC Code\n                Lift Installations - Maintenance/Replacement Works"
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "Appendix\n\n                     Fire resisting construction requirements for\n              maintenance and replacement works of lift installations\n\n(a)    Subject to para. (b) below, all landing doors should remain in a closed position in the\n       course of maintenance or replacement works of lift installations.\n\n(b)   Where landing doors need to be kept open for the works, normally no more than one\n       such door in a lift shaft should be in an opened position at any one time. The door\n       opening, other than the one at which the lift car is levelled with the floor landing, is to\n      be attended by lift workers.  If the works necessitate more than one door in a lift shaft\n        to be opened  at the same time, the following additional conditions should be\n       observed :\n\n          (i)     the maximum number of landing doors to be kept open at the same time is\n                three; and\n\n          (ii)   no hot works or welding operations will be carried out.\n\n(c)    Where landing doors are to be taken down, removal of more than one landing doors\n        in a lift shaft at any one time should be avoided.\n\n(d)     If more than one landing doors are to be removed at any one time, the door openings\n       should be protected by temporary hoarding having an FRP of not less than one hour.\n\n(e)    Openings in the hoarding are not allowed except small openings for ventilation of the\n          lift shaft and access doors to the lift shaft.\n\n(f)    Each ventilation opening should not exceed 5,500mm2 in area and should be located\n        at the upper portion of the hoarding. The number of such openings should be limited\n        to two per liftway, subject to a maximum of four in the hoarding.\n\n(g)    Access door in the hoarding should have the same FRP as the hoarding. Such door\n       should be self-closing and provided with locking device to prevent unauthorized\n       access. The locking device should be so arranged that it can be readily opened from\n       the inside without the use of a key.\n\n(h)    Temporary hoarding to enclose a lift shaft should not be erected to cause, as far as\n       reasonably practicable, any obstruction or reduction in width of any escape route.\n\n(i)    Any temporary works including scaffoldings, formworks, plankings and struttings\n        etc. erected inside a lift shaft during maintenance or replacement works should be\n       constructed of non-combustible materials.\n\n(j)    Arrangements  should be made  to  ensure  that  all temporary  openings  during\n       maintenance or replacement works are protected by either having all opened  lift\n       landing doors returned to the closed position or enclosing such openings properly\n       with fire resisting hoarding before leaving unattended any unfinished works during\n       lunch breaks or at the end of a day’s work."
+    }
+  ]
+}

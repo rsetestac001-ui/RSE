@@ -1,0 +1,66 @@
+{
+  "code": "APP-011",
+  "source_text": "indexed_text/PNAP/APP/APP-011.txt",
+  "source_pdf": "documents/PNAP/APP/APP-011.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers      APP-11\n\n\n                            PRACTICE NOTE FOR AUTHORIZED PERSONS\n BUILDINGS ORDINANCE OFFICE                         AND REGISTERED STRUCTURAL ENGINEERS    49\n\n                                 Street Improvement Schemes\n             Submission of Building Plans in respect of Lots affected thereby\n\n              Notwithstanding  the Roads  (Works, Use  and  Compensation)  Ordinance,\nCap 370, any street improvement scheme approved before  its enactment in 1982 remains\nvalid. The following principles continue to apply to such schemes and lots affected thereby.\n\nStreet Improvement Plans"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.              Street improvement plans are only an indication of desirable improvements.\nThey do not constitute any representation by Government that they will be implemented nor\nare they indicative that Government will resume the whole or any part of any property to\nimplement any street improvement."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.             In this respect, the existence of an approved street improvement plan which\nmay affect a property cannot be regarded as providing a basis upon which a property owner\ncan claim for compensation or damages.\n\nBuilding Plans"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          The approval under the Buildings Ordinance of building plans which conform\nto an approved  street improvement  plan does  not imply  that  the  latter  plan  will be\nimplemented, or that compensation or damages will be paid."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The approval under the Buildings Ordinance of building plans which do not\nconform to an approved street improvement plan must however be regarded as entirely without\nprejudice to any action Government may take under any other enactment, including resumption\nof the whole or any part of the affected property.\n\nGenerally"
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           For development or re-development of a lot which appears to be affected by an\napproved street improvement scheme, it may save time and obviate possible abortive work if\nthe  authorized  person  makes  an  enquiry  to  the  Highways  Department  to  ascertain\nGovernment's intention, before embarking upon formal submission of building plans for\napproval.\n\n\n                                                      (A.G. Eason)\n                                                           Building Authority\nRef. : BLD(B) GR/BL/TP/4\n\nFirst issued May 1978\nThis update January 1990 (GBS/D)\n\nIndex under :  Street Improvement Schemes"
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "code": "APP-146",
+  "source_text": "indexed_text/PNAP/APP/APP-146.txt",
+  "source_pdf": "documents/PNAP/APP/APP-146.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-146\n                          Registered Geotechnical Engineers\n\n\n                              Metal Gates\n\n             The installation of metal gates1 involves building works as defined under\nthe Buildings Ordinance.   This  practice note provides guidelines on design and\ninstallation of metal gates at fence walls or entrances of buildings as well as maintenance\nof metal gates."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.             For new buildings, metal gates should be shown on the building plans\nsubmitted for prior approval and consent by the Building Authority (BA). For large metal\ngates with a height exceeding 3.2m, plans showing structural details of the metal gates\nincluding design calculations are also required to be submitted for approval.  For the\ninstallation of new metal gates in existing buildings, if the height of the metal gate exceeds\n3.2m, both building and structural plans are required to be submitted for approval prior\nto installation.\n\nMinor Works Relating to Metal Gates"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           Under the Minor Works Control System, certain works relating to\ninstallation of metal gates in existing buildings have been designated as minor works,\nwhich may be carried out under the simplified requirements as an alternative to obtaining\nprior approval and consent from the BA.  For the list of minor works items and the\nsimplified requirements, please refer to Schedule 1 of the Building (Minor Works)\nRegulation and PNAP APP-147 respectively.\n\nDesign and Installation Requirements"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.              In general, all metal gates should be constructed of suitable materials and\nsatisfy the performance requirements stipulated in section 3 of the Building (Construction)\nRegulation.  They should be properly designed and constructed in accordance with\nrecognised standards to ensure their satisfactory and safe operation under the expected\nconditions of use. All parts of the metal gate installations, whether fixed or movable,\nincluding the fixings, should in all respects be of sound construction, adequate strength\nand free from obvious defects for their intended working life."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            Except for works which are prescribed as designated exempted works,\nthe installation of metal gates should be under the qualified supervision of a registered\ngeneral building contractor (RGBC) or registered minor works contractor (RMWC) as\nthe case may be to ensure that the works are carried out in accordance with the approved\nplans or the prescribed plans of minor works and the required standards are complied with.\nUpon completion of installation, the metal gate should be inspected and trial operated to\nensure that it has been properly installed.\n\n                                                                                                 /6. …\n\n\n1  Manually or electrically operated."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 132
+        },
+        {
+          "label": "b",
+          "offset": 316
+        },
+        {
+          "label": "c",
+          "offset": 535
+        },
+        {
+          "label": "d",
+          "offset": 738
+        },
+        {
+          "label": "e",
+          "offset": 874
+        },
+        {
+          "label": "f",
+          "offset": 1174
+        },
+        {
+          "label": "g",
+          "offset": 1351
+        }
+      ],
+      "text": "6.           Where submission of structural details of a metal gate is required, special\nattention should be paid to the following:\n\n        (a)      design wind load should be in accordance with the appropriate\n                provisions in the prevailing Code of Practice on Wind Effects in\n            Hong Kong;\n\n        (b)      details and design for the elements of the gate framework, post\n               support and foundation should be given to demonstrate the\n                  stability of the metal gate during operation;\n\n        (c)      design  of  connection  to  fix  the  gate framework  to  the\n               surrounding structure and the design check on the supporting\n                 structure should be provided;\n\n        (d)      for a swing-type metal gate, details of hinge pin fittings to\n               permit pivotal movement should be given;\n\n        (e)      for a sliding metal gate, details of end stoppers to prevent the\n               metal gate from over-travel at both ends should be shown;\n                similar provisions should be made for multi-passing metal gate\n             which also serve as connection between gate leaves;\n\n         (f)      additional measures at guide should be provided to stop the\n               metal gate from being lifted off or derailment during operation;\n              and\n\n        (g)      details of decorative parts of the metal gate need not be\n               submitted.\n\nAdditional Measures and Reference Standards"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           Recommendations on additional measures, design considerations and\nmaintenance for enhancing the safety of metal gates are given in Appendix A. Some\nrelevant standards/specifications for the design and installation of metal gates are given\nin Appendix B. Authorized person (AP) and registered structural engineer (RSE) may\nalso make reference to other international or national standards and specifications if\nequivalent performance can be demonstrated.\n\nTests on Anchors and Welding Joints"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          Where drilled-in anchors are proposed to secure the stability of a metal\ngate, at least 5 numbers of each type and size of the anchors installed should be tested by\npull-out test, in accordance with the relevant requirements given in Appendix B of\nPractice Note for Authorized Persons, Registered Structural Engineers and Registered\nGeotechnical Engineers APP-169, to demonstrate that its pull-out capacity is not less than\n1.5 times the recommended tensile load as specified by the anchor manufacturer. The test\nresult will be considered satisfactory if the tested anchor and its surrounding area do not\nshow any signs of separation, plastic deformation or deleterious effect.\n\n\n                                                                                                 /9. …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.            Non-destructive tests should also be carried out to all welded joints at the\nsupports of a metal gate and the mechanical end stoppers to verify the integrity and\nadequacy of the welds."
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.           All tests required under paragraphs 8 and 9 above should be carried out by\nlaboratories  accredited  under  the Hong Kong  Laboratory Accreditation Scheme\n(HOKLAS)  or  other  laboratory  accreditation bodies which have reached mutual\nrecognition agreements/arrangements with HOKLAS for the particular test concerned.\nThey should be carried out under the direction of AP/RSE for metal gates with plans\napproved by the BA, or under the direction of prescribed building professionals (PBP)\nfor gates carried out under Class I minor works. Regarding metal gates carried out under\nClass II or III minor works without PBP appointed, such tests should be carried out under\nthe direction of RGBC or RMWC as the case may be.\n\nElectrically Operated Metal Gates"
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.          For electrically operated metal gates, reference should also be made to the\n\"Code of Practice for Installation of Electrically Operated Sliding Gates, Sliding Glass\nDoors and Rolling Shutters\" published by the Electrical and Mechanical Services\nDepartment.\n\nGuidelines for Registered Contractors"
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.       A similar practice note is issued to registered contractors.\n\n\n\n\n\n                                                         ( YU Po-mei, Clarice )\n                                             Building Authority\n\n\n\n\n\nRef.: BD GP/BORD/108 (II)\n\nThis PNAP is previously known as PNAP 304\nFirst issue    December 2008\nLast revision   April 2018\nThis revision  March 2025 (AD/NB1 and AD/NB2)  (Paragraphs 1, 5, 6 & 8 and\n                                                 Appendices A & B amended,\n                                                and paragraphs 9 & 10 added)"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                 (PNAP APP-146)\n\n\n          Recommendations for Enhancing the Safety of Metal Gates\n\nSwing-Type Metal Gate\n\n              All hinge fittings of a swing-type metal gate should be welded all round\nto the gate framework and should be able to withstand the dead weight of the metal gate\nand wind loads during normal operation."
+    },
+    {
+      "id": "p2-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "2.       A minimum of three hinges should be provided for the connection between\nthe metal gate and each supporting post. For a large metal gate with a height exceeding\n3.2m, stainless steel hinges should be provided at centre to centre spacing of not more\nthan 1000mm and at a distance of not more than 300mm from the top and bottom of the\ngate, to connect the gate with its supporting post. To prevent the metal gate being lifted\noff from its hinges after installation, measures such as installing one of the hinge fittings\nwith the hinge pin pointing in a reverse direction should be incorporated for providing\nrestraint against vertical movement.\n\nSliding Metal Gate"
+    },
+    {
+      "id": "p3-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The gate leaf as well as any other moving parts of a sliding metal gate\nshould be designed and constructed in such a way so as to prevent them from falling\ndown, collapsing or derailment during normal operation or in case of contact with\nstationary obstacles.  Proper design and provisions of guide and metal gate stopper of\nadequate size and strength are required to maintain lateral stability of the metal gate and\nto resist the imposed loads and impact force."
+    },
+    {
+      "id": "p4-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "4.       A minimum of two pairs of guiding wheels with a minimum spacing of\n1000mm should be provided at the end support of a metal gate with sufficient overlapping\nwith the gate leaf. The guiding wheels should be designed to safeguard the metal gate\nfrom disengagement or derailment."
+    },
+    {
+      "id": "p5-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "5.       A minimum of one stopper should be provided to the sliding gate leaf and\nadditional stopper(s) should be installed on the ground, column or fence wall to prevent\noverrun when the stopper on the gate leaf is damaged. Rubber cushion should be fixed\nto the end stoppers to prevent excessive impact caused by percussion and vibration during\nthe operation of the gate."
+    },
+    {
+      "id": "p6-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          The recommendations outlined in paragraphs 2, 4 and 5 above are\nillustrated diagrammatically in Annex 1.\n\nFolding Metal Gate"
+    },
+    {
+      "id": "p7-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "7.            Paragraphs 1 to 6 above are applicable to a folding metal gate with two or\nmore hinged leaves, guided and/or supported at the top or at the bottom.  Similar\nprovisions for preventing the gate leaf from being lifted off should be made for the\nhanging fittings connecting the hinged leaves.\n\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Alternative Access on Metal Gates"
+    },
+    {
+      "id": "p8-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "8.             Alternative openable access on a metal gate may be provided to reduce the\nfrequency of swinging/sliding the gate.\n\nInstallation and Use"
+    },
+    {
+      "id": "p9-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "9.            Before installation, all members and components of the metal gate should\nbe visually inspected to ensure that they are free from visual defects and comply with the\napproved structural details.  In addition, all welding points for hinges should not be\ncovered up so as to allow easy inspection at all times."
+    },
+    {
+      "id": "p10-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "10.           Notices may be added to alert users of the proper use and operation of the\nmetal gate, such as avoid hanging any object or impose additional load on the metal gate,\nthe opening direction of push or pull if the gate is not a two-way gate, and use the gate\nhandle to open and close the gate.\n\nMaintenance and Repair"
+    },
+    {
+      "id": "p11-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "11.           All  parts  of  the  metal  gate  providing  mechanical  resistance and\nconnection, whether fixed or movable, are subject to normal deterioration of wear and\ntear. Regular inspection and maintenance should be provided to safeguard the metal gate\nfrom disengagement or derailment."
+    },
+    {
+      "id": "p12-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "12.       AP should coordinate with RGBC or RMWC to prepare documentation\non the safe operation and maintenance of the metal gate, for regular maintenance and\nrepair to be arranged by the owner/Incorporated Owners/management company. Defects\nwith safety concerns such as defective or missing hinges, defective guiding wheels, floor\ntrack or stopper and corrosion of supporting structural steel works and fixings should be\nidentified and suitable repair or replacement works should be carried out.  Routine\ninspection and maintenance work such as checking the condition and levelling of the floor\ntrack and removing any debris left in it, checking the stopper, guiding wheels and axle\nfor wear and tear, checking all welding points and hinges and applying lubrication to\nenable smooth movement of the metal gate should be carried out every three months."
+    },
+    {
+      "id": "p13-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 101
+        },
+        {
+          "label": "b",
+          "offset": 195
+        },
+        {
+          "label": "c",
+          "offset": 419
+        },
+        {
+          "label": "d",
+          "offset": 593
+        }
+      ],
+      "text": "13.           Reference should also be made to the information contained in the\nfollowing documents:\n\n        (a)   “A Safety Guide on Gate Work” published by the Labour\n             Department;\n\n        (b)   “Code of Practice for Installation of Electrically Operated Sliding\n              Gates, Sliding Glass Doors and Rolling Shutters” published by\n              the Electrical and Mechanical Services Department;\n\n        (c)    “Guide  to  Safety  of  Electrically  Operated  Sliding  Gates”\n              published by the Electrical and Mechanical Services Department;\n            and\n\n        (d)    “Green Cross Volume 30 No.1” published by the Occupational\n              Safety & Health Council (Chinese version only).\n\n(Rev. 3/2025)\n                                                              - 2 -"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Annex 1 to Appendix A\n                                                 (PNAP APP-146)\n\n                   Illustrative Diagrams for Recommendations on\n                   Swing-Type and Sliding Metal Gates\n\n\n\n\n\n(3/2025)"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Appendix B\n                                                 (PNAP APP-146)\n\n\n             Relevant Standards and Specifications for Metal Gates\n\n            The various standards, specifications for the design and installation of\nmetal gates as listed below are intended to provide reference information and the list is\nnot exhaustive. Other international or national standards and specifications may also be\nreferred to if equivalent performance can be demonstrated.\n\nBS 4092:Part 1:1996           : Domestic front entrance gates. Specification for metal\n                                 gates.\nBS EN 12433-1:2000          :  Industrial, commercial and garage doors and  gates.\n                            Terminology. Types of doors.\nBS EN 12433-2:2000          :  Industrial, commercial and garage doors and  gates.\n                            Terminology. Parts of doors.\nBS EN 12604: 2017            :  Industrial, commercial and garage doors and  gates.\n+A1:2020 (Incorporating     Mechanical aspects. Requirements and test methods.\ncorrigendum April 2023)\nBS EN 12453:2017             :  Industrial, commercial and garage doors and  gates.\n+A1:2021                   Safety in use of power operated doors - Requirements and\n                                    test methods.\nBS EN 13241:2003             :  Industrial, commercial and garage doors and  gates.\n+A2:2016                   Product standard, performance characteristics.\nBS EN ISO 1461:2022        : Hot dip galvanised coatings on fabricated iron and steel\n                                    articles. Specifications and test methods.\nBS EN ISO 12944-1 to        :  Paints and  varnishes.  Corrosion  protection  of  steel\n4:2017                         structures by protective paint systems.\nBS EN ISO 12944-5:2019   :  Ditto\nBS EN ISO 12944-6:2018   :  Ditto\nBS EN ISO 12944-7 to        :  Ditto\n8:2017\nBS EN ISO 14713-1:2017   : Zinc coatings. Guidelines and recommendations for the\n                               protection  against  corrosion  of  iron  and  steel  in\n                                  structures.\nBS EN ISO 14713-2:2020   :  Ditto\nBS EN ISO 14713-3:2017   :  Ditto\nBS EN 1176-1:2017            : Playground equipment and surfacing.  General safety\n                             requirements and test methods.\n\n(Rev. 3/2025)"
+    }
+  ]
+}

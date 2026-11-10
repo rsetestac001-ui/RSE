@@ -1,0 +1,92 @@
+{
+  "code": "APP-140",
+  "source_text": "indexed_text/PNAP/APP/APP-140.txt",
+  "source_pdf": "documents/PNAP/APP/APP-140.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers  APP-140\n\n                               Practice Note for Authorized Persons Buildings Department                                               293\n                         and Registered Structural Engineers\n\n\n\n    Registration of Authorized Persons and Registered Structural Engineers as\n                       Registered Geotechnical Engineers\n\nIntroduction\n\n         Many developments in Hong Kong stand on steep hillsides and man-made\nslopes.  In such  cases,  geotechnical works  are  usually  involved which  call  for\ngeotechnical expertise.  In the past, the Buildings Ordinance (BO) only required the\nappointment of an authorized person (AP) as the coordinator of building works and a\nregistered structural engineer (RSE) for the structural elements of the building works.\nAs such,  the AP had  to be held  statutorily responsible  for geotechnical works\nalthough geotechnical engineers were usually engaged as sub-consultant to the AP for\nthe design and supervision of the geotechnical works.\n\nRegistered Geotechnical Engineers"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        The Buildings (Amendment) Ordinance 2004 establishes a register of\ngeotechnical engineers and introduces the requirement  for the appointment of a\nregistered geotechnical engineer (RGE) for the geotechnical elements of building\nworks.   The RGE  so  appointed  will  undertake  the  investigation,  design and\nsupervision of geotechnical works and will be statutorily responsible for such works.\n\nAP/RSE applying for registration as RGE"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 685
+        },
+        {
+          "label": "b",
+          "offset": 956
+        },
+        {
+          "label": "c",
+          "offset": 1158
+        }
+      ],
+      "text": "3.        The basic qualification for registration as RGE is a registered professional\nengineer in the geotechnical engineering discipline.  The Building Authority (BA),\nhowever, also recognizes the experience and competence of those AP and RSE who\nhave actually been engaged in geotechnical works in the past. Upon commencement\nof the registration system for RGE on 31 December 2004, an AP in the  list of\nengineers or RSE may apply, within 12 months, i.e. on or before 30 December 2005,\nfor registration as RGE under section 53I of the BO (added by clause 43 of the\nBuildings (Amendment) Ordinance 2004).  He  is qualified for registration  if he\nsatisfies the following conditions:\n\n              (a)  During the period of 7 years immediately preceding the date of his\n                  application, he has been engaged  in  or has  taken  part  in  site\n                formation works carried out and completed in accordance with the\n             BO.\n\n             (b)  He was the AP or RSE appointed in respect of the building works or\n                    street works in relation to which the  site formation works were\n                  carried out.\n\n              (c)  He  satisfies  the BA  that  he  has  the  appropriate  geotechnical\n                 experience and competence in relation to the site formation works."
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 249
+        },
+        {
+          "label": "b",
+          "offset": 811
+        },
+        {
+          "label": "c",
+          "offset": 1291
+        }
+      ],
+      "text": "4.          In relation to condition (c) stipulated in paragraph 3 above, the BA will\nbe satisfied with the geotechnical experience and competence of the applicant  if,\nwithin the period of 7 years immediately preceding the date of his application:\n\n              (a)  He has been engaged in the following projects of  site formation\n              works from preparation of plans  for submission  to  the BA  for\n                 approval,  obtaining  approval  of  such  plans from  the BA and\n                 supervision of the carrying out of the works through to satisfactory\n                completion of the works:\n                 -\n\n                        -\n\n                        -\n\n\n\n               For the above purpose:\n\n         -\n\n\n                               -\n\n\n                        -\n\n\n\n             (b)  For an AP in the list of engineers, he has certified completion of the\n                     site formation works under the BO.  For an RSE, being not in a\n                  position to certify completion under the BO, he has reported to the\n                  certifying AP of the site formation works that he is satisfied that the\n              works have been completed in accordance with the approved plans\n               and in compliance with the BO; and\n\n              (c)  The  site  formation works were  completed  with no  record  of\n                 contravention of the BO."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.        The BA may  require  the  applicant  to  furnish such  information  or\ndocuments as may be required to justify his application. Upon registration as RGE,\nthe registration will be valid for 5 years which is renewable as long as his name\nremains in the register of AP/RSE."
+    },
+    {
+      "id": "p6-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "6.         This  practice  note  should  be  read  in  conjunction  with PNAP  43,\nparticularly paragraphs 7 and 11 to 14 thereof.\n\n\n\n\n                                                                      ( Marco MH WU )\n                                                      Building Authority\n\n\n\nRef. : BD GP/BORD/75(VIII)\nFirst issue December 2004 (AD/Sup)\nIndex under  : AP registering as RGE\n               Registered geotechnical engineer\n          RSE registering as RGE"
+    }
+  ]
+}

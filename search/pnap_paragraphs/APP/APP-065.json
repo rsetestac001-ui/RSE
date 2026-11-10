@@ -1,0 +1,59 @@
+{
+  "code": "APP-065",
+  "source_text": "indexed_text/PNAP/APP/APP-065.txt",
+  "source_pdf": "documents/PNAP/APP/APP-065.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons , Registered Structural Engineers and Registered Geotechnical Engineers   APP-65\n\n                                 Practice Note for Authorized Persons\n Buildings Department                                               169                           and Registered Structural Engineers\n\n\n                         Natural Lighting to Staircases\n                       Building (Planning) Regulation 40\n\n           Building (Planning) Regulation (B(P)R) 40  stipulates,  inter  alia,  that a\nstaircase in any building intended for common use by more than two tenants shall be\nprovided with adequate natural lighting."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.       The adequacy of natural lighting for staircases depends on a number of\nfactors including the size, number and location of windows, type of glass and design\nof the staircase.  The following guidelines aim to assist in the design of staircases as\nsatisfying the natural lighting requirement under B(P)R 40 :\n\n            a.  Clear glass should be used;\n\n           b. The  staircase window(s)  for each  storey should have an\n              aggregate glass area of not less than one-tenth of the plan area\n              within the staircase enclosure;\n\n            c. For buildings not exceeding 12 storeys, staircase windows\n              should face into an uncovered space complying with the \"open\n                air\" requirement as defined under B(P)R 2(1);\n\n           d. For buildings exceeding 12 storeys, staircase windows should\n               face into an uncovered and unenclosed space with a base\n             width of not less than 2.3m and a length at right angles to the\n              base of not less than 4.5m (the full width of any adjoining\n               service lane can be included); and\n\n            e.  Scissor staircases should be designed to ensure adequate and\n             even  distribution  of  natural  lighting  to each  flight.  The\n              following arrangements would be acceptable but alternatives\n            would be considered:\n\n                    i.   windows  in  the  end  wall  of  a  landing  being\n                     centrally positioned and having a minimum width\n                    of 1.3m; and\n\n                     ii.  windows in the side wall of a landing or of any\n                       flight having a minimum width of 650mm, not less\n                   than two windows being provided for each storey\n                 and  the  separating  wall  between  flights  being\n                  reduced to ensure that the back flight has adequate\n                       light.\n                                                                                    /3. ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 385
+        }
+      ],
+      "text": "3.            It  is accepted that adequate  artificial lighting with a backup emergency\nsystem is a viable alternative option for replacement of natural lighting.  To allow\ngreater flexibility in design without compromising safety, the Building Authority is\nprepared to waive the requirement for the provision of natural lighting under B(P)R 40\nif he is satisfied with the following:\n\n              (i)   The staircase is provided with permanent artificial lighting\n               having 30 lux minimum lighting level at floor level;\n\n               (ii)  The  artificial  lighting  is backed up by an  automatically\n                  activated  emergency  lighting  system.   Such  emergency\n                  lighting system complies with the requirements set out in the\n             Code of Practice for Minimum Fire Service Installations and\n              Equipment and would provide a horizontal illuminance at\n                  floor level of not less than 2 lux in event of emergency; and\n\n               (iii)  Proper management is in place to ensure that the artificial\n                  lighting and backup emergency systems are well maintained\n               and in effective working order."
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.        For the purpose of paragraph 3(iii), the BA would normally accept that a\nbuilding would have proper management if the maintenance of the artificial lighting\nand backup emergency system is to be managed by a management company upon the\noccupation of the building, and that the requirement for the regular maintenance of the\nsystem is incorporated in the Deed of Mutual Covenant of the building.\n\n\n\n\n\n                                                                   ( Marco M H WU )\n                                                    Building Authority\n\n\n\n\n\nRef. : BD GP/BREG/P/20 (II)\n\nFirst issue  November 1994\nThis revision  March 2003 (AD/NB1) (General revision)\n\nIndex under :  Building (Planning) Regulation 40\n               Natural lighting to staircases\n                  Artificial lighting to staircase"
+    }
+  ]
+}

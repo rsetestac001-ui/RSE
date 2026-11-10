@@ -1,0 +1,46 @@
+{
+  "code": "APP-080",
+  "source_text": "indexed_text/PNAP/APP/APP-080.txt",
+  "source_pdf": "documents/PNAP/APP/APP-080.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers           APP-80\n Buildings Department      Practice Note for Authorised Persons              192\n                        and Registered Structural Engineers\n\n             Code of Practice for Fire Resisting Construction 1996\n\n             Requirements for fire resisting construction for buildings are laid down in\n Part XV of the Building (Construction) Regulations. The Building Authority announced\n guidance on compliance with these requirements by publishing, in 1990, a Code of\n Practice for Fire Resisting Construction (FRC Code).  This Code has recently been\n revised in the light of experience in implementation of the Code since 1990. The revised\n Code (Code of Practice for Fire Resisting Construction 1996) is available for sale at the\n Government Publication Centre.\n\n Revised Requirements"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         The revised Code has clarified a number of anomalies and grey areas in the\n existing Code, upgraded standards on the design of some building components and\n streamlined duplications in the FRC Code and the Code of Practice for the Provision of\n Means of Escape in Case of Fire.\n\n Application"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         The  revised FRC Code  shall  be  effective on 1 August 1996.   The\n requirements therein do not apply to the buildings or building works which are being\n carried out or have been consented to commence on or before 1 August 1996.\n\n Suggestions"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.           This Code will be reviewed regularly. Any suggestion for improving it is\n welcome.\n\n\n\n                                          (CHOI Yu-leuk)\n                                                      Building Authority\n\n Ref.  BD GP/BREG/C/19/L (VI)\n     BD GP/LEG/6\n     PNAP 163\n\n First issued (April 1996) (AD/LM)\n\n Index under  :  Fire Resisting Construction, Code of Practice for\n\n\n\n\n [SBS LEG\\PRA-NOTE]"
+    }
+  ]
+}

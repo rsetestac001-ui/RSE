@@ -1,0 +1,599 @@
+{
+  "code": "APP-130",
+  "source_text": "indexed_text/PNAP/APP/APP-130.txt",
+  "source_pdf": "documents/PNAP/APP/APP-130.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department      Registered Structural Engineers and     APP-130\n                           Registered Geotechnical Engineers\n\n\n     Lighting and Ventilation Requirements – Performance-based Approach\n\n         Based on the findings of a consultancy study to review the standards of the\nlighting and ventilation requirements in buildings, the Building Authority (BA)  is\nprepared to accept the following alternative performance standards on the provision of\nnatural lighting and ventilation in habitable rooms and domestic kitchens for the\npurpose of regulations 30, 31 and 32 of the Building (Planning) Regulations (B(P)R):\n\n     (a)   Natural Lighting\n\n        Room of         Vertical Daylight Factor (VDF)1 (measurement\n       domestic building       taken on the centre of the window pane)\n       Habitable Room                  8%\n       Kitchen                       4%\n\n     (b)   Natural Ventilation\n\n        Room of                Air Change per Hour (ACH)\n       domestic building\n       Habitable Room                     1.5 (natural means)\n       Kitchen                1.5 (natural means) plus 5 (mechanical means)"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.       The BA  would  accept  proposals  based  on  the  above  standards.\nApplications to modify the prescriptive requirements set out in regulations 30, 31 and\n32 of the B(P)R will be accepted if the above performance standards are met.  In this\nconnection, the performance standards are deemed to be met if it can be proved that\nthe provision of windows meets the simplified assessment method on natural lighting\nand ventilation requirements stipulated in Appendix A."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.        Apart  from  the  simplified  assessment  method  in  Appendix A,  the\nAuthorized Persons (APs) may alternatively demonstrate compliance with the above\nperformance standards using any suitably verified and scientifically validated methods.\nAs  there  are  a number  of  such  assessment  tools  for  lighting and  ventilation\nperformance of a building available in the market such as lighting simulation software\nand Computational Fluid Dynamic (CFD) tools, APs should substantiate the validity\nand appropriateness of such tools to the satisfaction of the BA.  Guidance notes on\nvalidation of lighting simulation and CFD assessment of the ventilation performance in\nbuildings are given in Appendices B and C respectively.\n\n                                                                                  /4. The…\n\n1    \"Vertical Daylight Factor\" means the ratio in percentage of the total amount of illuminance falling\n    onto a vertical surface of a building to the instantaneous horizontal illuminance from a complete\n    hemisphere of sky excluding direct sunlight.   It takes into account light coming from the sky\n     directly and from reflected light of surrounding buildings and the ground both above and below the\n    horizon."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.       The BA accepts the design of a project partly based on the prescriptive\nrequirements and partly based on the performance standards set out in paragraph 1\nabove. For the purpose of regulation 31(2) of the B(P)R, the base may be measured\nat an angle not more than 15o from the external wall."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.       The need for any refinement to the standards and replacement of the\ncurrent prescriptive regulations would be considered when a review on the application\nof the alternative performance standards has been conducted."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 1050
+        },
+        {
+          "label": "b",
+          "offset": 1400
+        }
+      ],
+      "text": "6.         In the case of wholesale conversion of existing industrial buildings or other\ntypes of buildings to office use where there are difficulties in providing the required\nnatural lighting and ventilation due to constraints posed by the original design of the\nexisting building, application for modification of regulations 30 and 31 of the B(P)R\nwill be favourably considered if adequate artificial lighting and mechanical ventilation\nand energy efficient design that could achieve 40% in the categories of Energy Use\n(EU) and Indoor Environmental Quality (IEQ) with the BEAM Plus Certification\nconferred by the Hong Kong Green Building Council (HKGBC) are incorporated in\nthe proposal. As the pre-requisites for the granting of the modification,  the applicant\nin applying for approval of plans should submit the  official  letter issued by the\nHKGBC acknowledging the satisfactory completion of project registration application\nfor BEAM Plus Certification and a letter by the applicant undertaking to submit to the\nBD the following documents:\n\n      (a)   Result  of  the  Provisional  Assessment  under  the BEAM  Plus\n           Certification conferred by the HKGBC to demonstrate achievement\n           of 40% in the categories of EU and IEQ to be submitted prior to\n           the application for consent to the commencement of the building\n         works shown on the approved plans; and\n\n      (b)   Result of the Final Assessment under the BEAM Plus Certification\n          conferred by the HKGBC to demonstrate achievement of 40% in\n           the categories of EU and IEQ within 6 months of the date of the\n         BA’s letter of acknowledgment of the Form BA14 for the project.\n\n\n\n\n\n                                           (HUI Siu-wai )\n                                                   Building Authority\n\nRef : BD GP/BREG/P/42\n    BD GP/BREG/P/18/1(E) (VII)\n    BD GP/BREG/P/18/1(G) (II)\n\nFirst issue    December 2003\nLast revision  February 2015\nThis revision December 2016 (AD/NB1)  (Para. 6 of Appendix A amended)"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Appendix A\n                                                (PNAP APP-130)\n\n                  Simplified Assessment Method for\n          Natural Lighting and Ventilation Requirements\n\nPart I"
+    },
+    {
+      "id": "p1-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "1.   Introduction\n\n1.1 The performance standards stipulated in paragraph 1 of PNAP APP-130 are\n    deemed to be met if  it can be proved that the provision of windows meets the\n     simplified assessment method on natural lighting requirements stipulated in Part\n      II and the ventilation requirements stipulated in Part III below."
+    },
+    {
+      "id": "p2-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "2.   Interpretation\n\n    “Centre line of street” is half distance of the 2 opposite lot boundaries with a\n          street in between.\n\n    “Cross ventilation” means the situation in which outdoor air can flow from the\n       window openings  in the  front  half of the room  (the primary opening),\n        through the room, and out via the other window openings located in the rear\n          half of the room (the secondary opening) which is not located on the same\n         plane of the primary openings.\n\n     \"Height of facade\", when used in relation to the natural lighting and ventilation\n         requirements, means the height of a building measured from the top of the\n       window head at the lowermost storey in which the window is provided to the\n         top of the parapet of the main roof of the building.\n\n     \"Illuminance\" means the amount of light falling on a surface.\n\n    \"Open air\" has the same meaning as defined in regulation 2 of the Building\n         (Planning) Regulations (B(P)Rs).\n\n    “Primary opening” means any window opening which  satisfies the natural\n          lighting requirements stipulated under the B(P)Rs or in paragraph 1(a) of\n      PNAP APP-130 or any window opening locates in or within 1.5m from end\n         of the external wall where the aforementioned window locates.\n\n    “Secondary opening” means any window opening which  is located  at an\n         external wall, other than that defined for the primary opening, in the rear\n          half of the room and facing open air.\n\n     \"Vertical Daylight Factor\" means the ratio in percentage of the total amount of\n         illuminance falling onto a vertical surface of a building to the instantaneous\n         horizontal illuminance from a complete hemisphere of sky excluding direct\n          sunlight.   It takes into account light coming from the sky directly and from\n\n\n                                                        - 1 -"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "reflected light of surrounding buildings and the ground both above and below\n         the horizon.\n\n    \"Window  sill\", when used in relation to the window for achieving natural\n          lighting and ventilation, means the lowermost level of the glazing in the\n       room for which the window is provided.\n\nPart II"
+    },
+    {
+      "id": "p3-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 351
+        },
+        {
+          "label": "b",
+          "offset": 934
+        },
+        {
+          "label": "c",
+          "offset": 1103
+        },
+        {
+          "label": "d",
+          "offset": 1430
+        },
+        {
+          "label": "a",
+          "offset": 1651
+        },
+        {
+          "label": "b",
+          "offset": 2218
+        }
+      ],
+      "text": "3.   Provision of Natural Lighting by Unobstructed Vision Area Method\n\n3.1  The BA accepts the unobstructed vision area (UVA) method as a reliable way to\n     demonstrate compliance with the performance requirements.\n\n3.2  The UVA method  is  scientifically developed with  respect  to  the  daylight\n       characteristics in Hong Kong as follows :-\n\n       (a)    The amount of light receivable at the surface of a building facade is\n              related to the extent of its exposure to the environment.  Most of the\n              natural  light  for windows  of lower  floors  in  the  dense,  high-rise\n            development comes from reflected light of the surrounding surfaces.\n           The amount of  this  reflected  light  is dependent on how well these\n            surrounding surfaces are illuminated (which are in turn dependent on\n            both site and building layouts) and the reflectance of these surfaces.\n\n      (b)    Moreover, most useful light entering the glazing into building interiors\n           comes from a cone of light 100o centered to the normal of the glazing.\n\n       (c)    The above physical phenomena could be simplified as proportional to an\n            aggregated horizontal open area (i.e. UVA) in front of the window that\n              effectively contributes to the daylight performance and the height of\n             facade. A higher height of facade will require a larger UVA.\n\n      (d)    Larger glazing area could also be accounted for scientifically in the\n              calculation of UVA requirement to allow further design flexibility.\n\n3.3  The principles of the UVA method are as follows:\n\n      (a)     the UVA of a window is the unobstructed area bounded by a cone with\n             the horizontal angle measuring 100o up to both edges of the window\n             glazing pane, symmetrical and perpendicular to the window plane (see\n          Diagram A). For the purpose of measurement of the UVA, the currently\n            accepted amenity features including drying racks, small projecting air-\n             conditioner platforms or hoods and window eaves protruding onto the\n       UVA may be disregarded if the size of these features is not excessive;\n\n      (b)     the maximum length of the cone of the UVA is equal to the height of\n            facade in which the window is provided (see Diagram B);\n\n\n\n\n                                                        - 2 -"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Diagram A  : Measurement of the cone of UVA from both edges of window pane\n\n\n               CL                                                 CL\nFigure 1                                              Figure 2\n\n\n            UVA                                 UVA\n\n         θ L = 50o    θ R = 50o                         θ L = 50o    θ R = 50o\n            (max)        (max)                               (max)        (max)\n                                h                                            h\n\n\n\n\n     width of effective window glazing pane                  width of effective window glazing pane\n\n                      UVA = unobstructed vision area\n                              h = maximum length of the\n                                   cone\n                              = height of facade\n                            θ = θ L +θ R = 100o\n\n               CL                                                 CLFigure 3                                                     Figure 4\n\n\n\n                UVA                                  UVA\n\n         θ L = 50o    θ R = 50o                         θ L = 50o    θ R= 50o\n            (max)        (max)                               (max)        (max)\n                                h                                            h\n\n\n\n\n     width of effective window glazing pane                  width of effective window glazing pane\n\n\n  Figures 3 & 4 Measurement of UVA when there is an obstruction\n\n\n\n\n\n                                                            - 3 -"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Diagram B : Measurement of height of facade and UVA\n\n\n\n\n       Top of parapet wall on main roof of the\n         building\n\n\n\n               h\n\n\n\n\n                                         w = window\n                                                     h =  height of facade\n          window head             h1           = maximum length of the cone\n\n                    w\n                                                  Remarks :\n\n                                                       Using h1 is not right for the example\n                                                         above.  Typically  it should go to theCross Section\n                                                             top of the parapet of the main roof of\n                                                             the building\n\n\n\n\n\n        (c)     the UVA bounded by the cone shall be measured up to the lot boundary\n              only unless such boundary adjoins a street in which case the full width\n               of  the  street bounded by  the cone may  also be counted  for  the\n               calculation of the UVA.\n\n        (d)    where the UVA bounded by the cone protrudes beyond the common lot\n             boundary or the centre line of the street as shown in Diagram C, a\n              multiplying factor of 4 can be applied to this sector (i.e. C1) of cone\n              but the resultant UVA should not in any case exceed the UVA of this\n               sector of the cone that can be measured up to the height of the façade\n                  (i.e. C1 + C2).\n\n\n\n\n\n                                                        - 4 -"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Diagram C : Measurement of UVA with the cone protruding beyond the site boundary\n\n                          CL\n\n\n\n                                                           B.                      Height of Facade\n                                                 C2\n                                                                            (within Adjoining Lot\n                                                                      or Street)\n\n\n\n                                           C1\n\n\n\n                                           A.\n\nUVA facing building\n                                                 UVA facing lot boundary\n                                  50o       50o\n                                                       or\n\n\n                       WINDOW ‘1’                                                                                                                                                                           Street                                                                                                                                                                                                                            Boundary\n                                                         of\n                                                                                  Lot\n                                                                                                                  Line\n                                                                                                                                                                     Common Center\n\n    UVA of WINDOW ‘1’ = A + B + ( C1 x 4 ) or A + B + C1 + C2 whichever is the less\n\n\n\n\n\n        (e)    where the highest point of the adjacent structure within the same site\n               fronting the window does not sustain a vertical obstruction of more than\n               30o, the area on top of that structure within the cone may be counted\n               for the calculation of the UVA (see Diagram D); and\n\n\n\n\n\n                                                        - 5 -"
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Diagram D  : Measurement of UVA on top of building obstructing the cone\n\n\n\n\n                    w = window\n                                                     If θ ≦ 30o space over building obstructing the\n                           cone can be counted for the UVA calculation\n\n\n\n\n\n                                                              area on top of podium structure\n                                                                         within the cone can be counted\n                                                                                for UVA calculation\n\n\n\n\n\n            w                                                       Adjacent building within\n     cross section                 θ < 30o           the same site\n\n\n\n\n\n         (f)   for a room requiring more than one window to comply with the minimum\n            day-lighting requirement, the total room area can be considered as an\n           amalgamation of sub-divided rooms separated by notional partitions and\n           each of which  is provided with a window that satisfies the respective\n         minimum day-lighting requirement corresponding to the area of each sub-\n            divided room (see Diagram E).\n\n\n\n\n\n                                                        - 6 -"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Diagram E  : Measurement of UVA for a room requiring more than one window\n\n        adjoining wall of the same building\n\n                                overlapping area can be included  in the\n                                    calculation of UVA1 and UVA2 respectively\n\n        CL                CL\n\n\n\n\n     UVA1                          UVA2\n\n\n\n     θ= 100o          θ= 100o\n                                                    h                        h\n\n\n\n       W1                   W2\n\n                                    Notional partition wall\n\n\n             area 'A1'                area 'A2'\n\n\n\n\n\n              area of W1 ≥ 10% of area ‘A1’\n              area of W2 ≥ 10% of area ‘A2’\n      UVA1 and UVA2 ≥ Respective minimum UVA\n                          requirement in Table 1 &\n                          Table 2 under para. 3.5 below\n\n                    h = Height of facade\n\n\n\n 3.4  No window in the building shall, for the purpose of paragraph 3.1 above, be\n       counted for the calculation of UVA unless-\n\n       (a)       it faces into a space which is uncovered and not bounded on the side\n              opposite the window by any obstruction of the building;\n\n       (b)     the top of the window is at least 2m above the floor level; and\n\n       (c)     the superficial area of glass in the window or the aggregate superficial area\n              of glass in the windows (calculated from width of effective window\n              glazing pane), as the case may be, shall not be less than 10% of the floor\n              area of the room in which the window or windows are located.\n\n                                                         - 7 -"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "3.5  Where the aggregate superficial area of glass in the window or windows (i.e.\n      actual glazing area excluding window frames) is equal to 10%, 15% or 20% of\n      the  floor  area  of  the room,  the  total UVA  shall  not be  less  than  the\n      corresponding area shown in Table 1 and Table 2 according to respective use\n     and the height of facade in which the window or windows is provided.\n\n             Table 1 UVA Requirement for Habitable Room (8% VDF)\n\n\n                                         Minimum UVA (m2)\n Height of facade (m)\n                         Glazing Area : 10% of       Glazing Area : 15% of         Glazing Area: 20% of\n                         Floor Area of the Room     Floor Area of the Room       Floor Area of the Room\n\n    10 or below                50                          30                       20\n        20                    100                          80                       60\n        30                    250                         200                      150\n        40                    400                         300                      200\n        50                    600                         500                      400\n        60                    900                         700                      500\n        70                    1,200                        900                      700\n        80                    1,600                         1,200                     900\n        90                    2,000                         1,500                      1,100\n        100                    2,400                         1,800                      1,300\n        110                    2,900                         2,200                      1,600\n        120                    3,500                         2,600                      1,900\n        130                    4,100                         3,100                      2,200\n        140                    4,800                         3,600                      2,600\n        150                    5,400                         4,100                      3,000\n        160                    6,200                         4,600                      3,400\n        170                    7,000                         5,200                      3,800\n        180                    7,800                         5,900                      4,300\n        190                    8,700                         6,500                      4,700\n    200 or above                9,600                         7,200                      5,200\n\n            Table 2 UVA Requirement for Domestic Kitchen (4% VDF)\n\n                                          Minimum UVA (m2)\n Height of facade (m)       Glazing Area : 10% of      Glazing Area : 15% of        Glazing Area : 20% of\n                           Floor Area of the Room     Floor Area of the Room       Floor Area of the Room\n     10 or below                   20                        15                        10\n         20                       60                        40                        30\n         30                      150                       100                       70\n         40                      200                       150                       100\n         50                      400                       300                       200\n         60                      500                       400                       300\n         70                      700                       500                       400\n         80                      900                       700                       500\n         90                       1,100                      900                       700\n         100                      1,300                       1,000                      800\n         110                      1,600                       1,300                       1,000\n         120                      1,900                       1,500                       1,200\n         130                      2,200                       1,700                       1,400\n         140                      2,600                       2,000                       1,600\n         150                      3,000                       2,300                       1,800\n         160                      3,400                       2,600                       2,000\n         170                      3,800                       2,900                       2,300\n         180                      4,300                       3,300                       2,600\n         190                      4,700                       3,700                       2,900\n     200 or above                  5,200                       4,000                       3,200\n\n\n                                                        - 8 -"
+    },
+    {
+      "id": "page-11-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        11
+      ],
+      "text": "3.6  Where the aggregate superficial area of glass in the window or windows lies\n      within the range between 10% to 15% or 15% to 20% of the floor area of the\n     room, the Building Authority would accept interpolation of the area  fallen\n      within the range shown in Table 1 and Table 2 according to respective use. For\n     window area greater than 20% of the floor area of the room, the total UVA\n       shall not be less than the area required for 20% of the floor area of the room\n     shown in Table 1 and Table 2, as the case may be.  If the height of facade lies\n      within  the ranges shown  in  the  table,  the UVA should be derived from\n      interpolation method.\n\n\nPart III"
+    },
+    {
+      "id": "p4-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 208
+        },
+        {
+          "label": "b",
+          "offset": 347
+        },
+        {
+          "label": "c",
+          "offset": 488
+        }
+      ],
+      "text": "4.   Ventilation\n\n4.1  The BA accepts a room used for habitation or as a kitchen as shown in Diagram\n    F to have met the performance standard of ventilation if the following conditions\n     are satisfied:-\n\n      (a)    The total area of the primary openings provided in the room is not less\n            than 1/16 of the floor area of the room;\n\n      (b)    The primary openings face into a clear and unobstructed area complying\n            with at least the open air requirement; and\n\n      (c)     In the case of a kitchen, 5 ACH mechanical ventilation is provided in\n             addition to the requirements in (a) and (b) above.\n\n4.2  For the purpose of assessing the sizes of the primary and secondary openings\n      for ventilation in paragraphs 4.1 above and 5.1 below, the effective area of the\n     primary and secondary openings, irrespective of the height of the window head\n     and window sill is counted.\n\n\n\n\n\n                                                        - 9 -"
+    },
+    {
+      "id": "page-12-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        12
+      ],
+      "text": "Diagram F  : Openable window for ventilation\n\n\n                 C                       C\n\n\n\n\n            Unobstructed Vision Area             Unobstructed Vision Area\n\n\n                   100o                B:minimum               100o\n                                            1.5m\n A: minimum 1.5m                                                                            A: minimum 1.5m\n                                                            C:maximum              Height of\n                                                                       Façade                              1.5m \n\n\n\n\n\n  = accountable as primary openings - aggregate size shall not be less than 1/16 of the floor\n                                     area of the room\n\n A : Minimum distance of a corner window from the external wall should be 1.5m\n B : Minimum distance of a window from opposite external wall should be 1.5m\n C : Maximum distance of any part of window should be 1.5m from end of the external wall"
+    },
+    {
+      "id": "p5-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 263
+        },
+        {
+          "label": "b",
+          "offset": 391
+        },
+        {
+          "label": "c",
+          "offset": 525
+        }
+      ],
+      "text": "5.   Cross Ventilation\n\n5.1  Where cross ventilation is provided as shown in Diagram G, the requirements on\n      the openable area of the window and the restriction as set out in regulation 32 of\n      the B(P)R on the depth of the room are relaxed as follows:-\n\n      (a)     the aggregate size of the primary openings shall not be less than 2% of\n             the floor area of the room;\n\n      (b)     the aggregate size of the secondary openings shall not be less than 2% of\n             the floor area of the room; and\n\n      (c)     the depth of the room from the primary opening may be extended to a\n         maximum of 12m.\n\n\n                                                       - 10 -"
+    },
+    {
+      "id": "page-13",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        13
+      ],
+      "text": "Diagram G  : Openable window for ventilation when cross-ventilation is provided\n\n\n                CL                       CL\n\n\n          Unobstructed Vision Area            Unobstructed Vision Area\n\n\n                 100o                                    100o\n\n                                                                           minimum 1.5m\n minimum 1.5m\n               P2                   P2                                                                                                                                                                        maximum   \n                                                                               Height of         P1                                                          1.5m             P1\n                                                                     Façade        \n                  P3             P3                                     minimum 1.5m\n\n\n\n\n\n                  S1             S1\n      ∗    ∗\n\n\n\n\n =  accountable as primary or secondary opening\n =   not accountable as primary opening for the purpose of cross ventilation.\n＊ =  secondary openings in rear half of the room accepted for the purpose of cross\n         ventilation only when the primary openings is not located on the same plane of the\n       secondary openings.\n\n\n\n\n\n                                                  - 11 -"
+    },
+    {
+      "id": "p6-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "6.    Acoustic Windows\n\n6.1  For a primary or secondary opening with an acoustic “double glazing” window1\n     comprising an outer openable window and an inner sliding glass panel designed\n      for the dual purposes of natural ventilation under the B(P)Rs and noise reduction\n     as shown in Diagrams H and I, the resultant opening after aligning the inner\n      sliding glass panel with the outer openable window will be taken as its openable\n    window area for the purposes of regulations 30 and 31 of the B(P)Rs and Part III\n     of this Appendix.\n\n\nDiagram H  :  Acoustic window designed for the dual purposes of natural ventilation\n             under the B(P)R and noise reduction\n\n\n      Outdoor\n\n\n\n\n\n                                       Indoor\n\n\n       Wind direction\n\n         Cross-sectional area of the air gap\n\n\n\n\n\n1 This type of window has an inner sliding glass panel behind an outer window, both readily openable, for\ncreating an air gap for the supply of fresh air with noise mitigation effect. For optimum performance, the\nair gap should have a length of not less than 100mm and a width between 100mm and 175mm, with the\ninner sliding glass panel in a closed position.\n                                                       - 12 -"
+    },
+    {
+      "id": "page-15",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        15
+      ],
+      "text": "Diagram I  : Air gap of an acoustic window\n\n\n                            Outdoor\n\n   Outer openable window\n\n\n                                                   Width of the air gap is\n                                                between 100mm to 175 mm\n\n\n\n                                           Air gap\n\n\n\n\n    Inner sliding glass panel                          Length of air gap is not\n                                                          less than 100mm\n                               Indoor\n\n                PLAN (NOT TO SCALE)\n\n\n\n\n\n(Rev. 12/2016)\n\n\n\n\n\n                                                       - 13 -"
+    },
+    {
+      "id": "page-16-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        16
+      ],
+      "text": "Appendix B\n                                                (PNAP APP-130)\n\n\n            GUIDANCE NOTES ON VALIDATION OF\n              LIGHTING SIMULATION SOFTWARE"
+    },
+    {
+      "id": "p1-page-16",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        16
+      ],
+      "subparagraph_markers": [],
+      "text": "1.   Introduction\n\n\n    These notes give guidance on the validation of lighting simulation software for\n     assessing the performance of natural lighting in buildings.  As computational\n     lighting simulation is a complicated science, APs may wish to consult a specialist\n     in lighting design."
+    },
+    {
+      "id": "p2-page-16",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        16
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 679
+        }
+      ],
+      "text": "2.  Computational Lighting Simulation\n\n\n2.1 The BA accepts computational lighting simulation for the assessment of the\n    performance of natural lighting in buildings.  The BA will accept such a proposal\n    provided that the software is validated and the simulation is properly conducted.\n    For avoidance of doubt, the currently accepted amenity features including drying\n     racks, small air-conditioner platforms or hoods and window eaves protruding onto\n     the unobstructed vision area may be disregarded if the size of these features is not\n     excessive.\n\n\n2.2 APs should attend to the following 4 important criteria in carrying out a lighting\n     simulation test:\n\n\n      (i)    The accuracy of the Global Illumination Model of the software, which\n           determines how well the software cater for the characteristics of the sky.\n\n\n       (ii)   The accuracy of the Local Illumination Model of the software, which\n           determines how well  the software  cater  for  inter-reflections between\n            objects in the model.\n\n\n       (iii)   The accuracy of the Geometric description of the simulated scenes, which\n            requires the geometric input to the simulation software, is representative of\n            the scenes to be test.\n\n\n\n\n\n                                                            - 1 -"
+    },
+    {
+      "id": "page-17-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        17
+      ],
+      "text": "(iv)   The accuracy of the Material description of the simulated scenes, which\n            requires the material  reflectance of the surfaces of the geometry,  is\n            appropriately set."
+    },
+    {
+      "id": "p3-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [],
+      "text": "3.  Approach of Validation – Standard 3D Model and Datum\n\n\n3.1 For the purpose of validating the software, a Standard 3D model is built as the\n     geometrical input of the test and 62 selected points are defined on the model,\n    which together form the Datum of the validation test.  Details of the assembly are\n    provided at Annex 1.  An overview of the Standard 3D model and the distribution\n     of Datum points on the Standard 3D model are at Figure 1 and Figure 2 of Annex\n    1 respectively.\n\n\n3.2 Up to 2 different materials reflectance may be set, one for ALL vertical surfaces\n    and another for ALL horizontal surfaces.   Alternatively, a single setting of\n     reflectance may be used for all surfaces. As part of the submission, the material\n     reflectance(s) set should be reported.\n\n\n3.3 There are total 62 points (23 on horizontal surfaces and 39 on vertical surfaces)\n    where the simulated results of the Standard 3D model should be reported and\n    compared with the Datum.  Using the software to be validated with particular\n     settings, the results of all the 62 points on the Standard 3D model must not be more\n     than the Datum.  Simulated results of the Daylight Factor (DF) and Vertical\n     Daylight Factor (VDF) of say 12.459% could be rounded off to whole number\n     (i.e.12%).  Likewise, 12.501% should be rounded off to 13%.  Details of the\n    Datum values are provided at Annex 2."
+    },
+    {
+      "id": "p4-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 152
+        }
+      ],
+      "text": "4.   Validation Test\n\n\n    To demonstrate that the software is validated for use, the APs should submit the\n     following document to BA for approval:\n\n\n        (i) The name and version of the software to be validated.  The name, country of\n          origin and contact details of the vendor including mail address, telephone\n        number, fax number, email and website address must be attached.\n\n\n        (ii) A folder containing the generic simulation file(s) with the 3D model, and all\n            files and  detail  settings  necessary  to  reproduce  the  simulation  results\n         independently and without making reference to the APs.\n\n\n\n                                                            - 2 -"
+    },
+    {
+      "id": "page-18-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        18
+      ],
+      "text": "(iii) A note stating the Material Reflectance of the Standard 3D model used.\n        Only up to 2 material reflectance settings may be used: one for the ground\n          horizontal surface, the other for all vertical surfaces.\n\n\n    (iv) A print out of DF and VDF of ALL 62 points as defined in The Datum that\n          are generated by the software to be validated.  And a statement that the 62\n         values obtained with the software to be validated, using the settings and\n        geometry as defined, is UNDER the respective values of the Datum."
+    },
+    {
+      "id": "p5-page-18",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        18
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 379
+        }
+      ],
+      "text": "5.  Guide on creating an Accurate Geometric Model\n\n\n5.1 Once the software is validated for use, the AP should ensure the accurate building\n     of the geometry file of the design.  An example is shown in Annex 3.  Apart\n    from the building  to be  tested, the surrounding wall should be constructed\n     according to the following guidelines (refer to Annex 3 for reference):-\n\n\n      (i)  The building to be tested and all buildings within the same site must be\n          accurately modeled.\n\n\n       (ii) A “closed” surrounding wall is to be built surrounding the site, in such a way\n           that no gap is possible.  This surrounding wall should be made up of two\n          parts: from ground to height W and from height W to height H.  This wall is\n          to represent reasonably the surrounding conditions of the test site.\n\n\n       (iii) Height W  is the equivalent height of the façade area of  all immediate\n          buildings when compressed to fill the entire length of the site boundary.  The\n         surrounding wall up to this height W is solid.  This portion of the wall\n          represents the main bulk of the buildings on the test site.\n\n\n      (iv) Height H will be the average height of buildings used to work out height W.\n        The wall between W and H should be perforated with slots.  Vertical slots\n         equal to 1/5 (or 20%) the area of the surrounding wall W to H may be\n          inserted.  The void portions of the slots are to be between 10 to 15 meters\n        wide – exact dimension to be worked out evenly across the boundary.  The\n           slotted wall represents closely the cityscape immediately in front and beyond\n          the test site.  This portion of the wall captures the gaps of tower buildings\n         around the site.\n\n\n\n\n\n                                                            - 3 -"
+    },
+    {
+      "id": "page-19-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        19
+      ],
+      "text": "(v)  The minimum perpendicular dimension from own site boundary to the edge\n          of all the ‘immediate tower blocks’ facing the same boundary on its own site\n         should be defined.  Assume the average dimension be A meter.  For\n         example, if there are 3 immediate tower blocks, A will be the average of their\n       minimum distance from the boundary.  The minimum distance should be\n         taken from the walls of the buildings.\n\n\n      (vi) The surrounding wall towards that boundary could be positioned A into the\n         neighbour’s boundary.  This literally assumes that if the test building is set\n         back from its own site boundary, a mutually respected situation could be\n          established from the surrounding buildings on the other side of the boundary.\n\n\n      (vii) The design could also take advantage of ‘long and straight’ roads leading out\n          of the test site.  The open end of roads leading out could be capped (closed)\n         reasonably at a distance 5 times the height of the surrounding walls.\n\n\n5.2 The  surrounding  walls proposed  here  is  a  simplified method  to  re-create\n     reasonable surroundings for the  test  site.  The heights and positions of the\n    surrounding wall facing various orientations of the test site are to be determined\n     independently."
+    },
+    {
+      "id": "p6-page-19",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        19
+      ],
+      "subparagraph_markers": [],
+      "text": "6.  Guide on Material Description\n\n\n     The AP should use the reflectance they had set when the software was originally\n      validated for the scene they are going to test.  Only 2 reflectance should be used,\n     one for  all ground horizontal surfaces and another for  all building vertical\n      surfaces including the top horizontal surfaces of any podium."
+    },
+    {
+      "id": "p7-page-19",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        19
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 111
+        }
+      ],
+      "text": "7.  Performance Standard for Natural Lighting\n\n\n7.1 No window in a building shall be take into account unless:\n\n\n       (i)   it faces into a space which is uncovered and not bounded on the side opposite\n          the window by any obstruction of the building; and\n\n\n       (ii) the top of the window is at least 2m above the floor level.\n\n\n\n\n\n                                                            - 4 -"
+    },
+    {
+      "id": "page-20-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        20
+      ],
+      "text": "7.2 Under PNAP APP-130, 8% VDF and 4% VDF should be made available on the\n     vertical surface of the windows of habitable room and kitchen respectively when\n     the aggregate superficial area of glass in a window  (i.e. actual glazing area\n     excluding window frames) is 10% of the usable floor area of the room.   If larger\n    window size  is used, the following table could be used for the purpose of\n     simulation:-\n\n\n            Required    VDF 8%  VDF 6%  VDF 5%  VDF 4%  VDF 3%\n         VDF         or more   or more   or more   or more   or more\nGlazing area\n(% of UFA)\nHabitable room          10%     15%     20%\n\nKitchen                                       10%     15%\n\n\n7.3  The maximum glazing area is limited to 20% and 15% for habitable room and\n      kitchen respectively. Therefore, for example, VDF of habitable room cannot be\n       less than 5%.  Extrapolation beyond the limit (VDF 5% for habitable room or\n    VDF 3% for kitchen) is not possible.\n\n\n7.4  The required glazing area could be interpolated from the table. For example, the\n      simulation results show that the window is receiving 7.5% VDF.  The glazing\n      area needed is therefore 11.25% or larger."
+    },
+    {
+      "id": "p8-page-20",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        20
+      ],
+      "subparagraph_markers": [],
+      "text": "8.   Daylight Software\n\n\n    Some software are currently available in the market for daylight studies.  Details\n     are provided at Annex 4 for reference.\n\n\n\n\n\n(Rev. 2/2015)\n\n\n\n                                                            - 5 -"
+    },
+    {
+      "id": "page-21-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        21
+      ],
+      "text": "Annex 1\n                                                (PNAP APP-130)\n\n\n                           Standard 3D Model"
+    },
+    {
+      "id": "p1-page-21",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        21
+      ],
+      "subparagraph_markers": [],
+      "text": "1.  The Standard 3D model is assembled with 1 unit by 1 unit cube.   It is therefore\n    34 units wide, 44 units high and 8 units deep.\n\n\n\n\n\n                   Figure 1: An overview of the Standard 3D model\n\n\n\n\n\n                                                            - 6 -"
+    },
+    {
+      "id": "page-22-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        22
+      ],
+      "text": "Figure 2: Distribution of Datum points on the Standard 3D model"
+    },
+    {
+      "id": "p2-page-22",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        22
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 75
+        }
+      ],
+      "text": "2.   Figure 2 shows distribution of datum points on the Standard 3D model:\n\n\n      (i)  Datum points 1-16: Within it there are 16 slots at the bottom (Front Elevation\n          in Figure 2).  They are 1 unit wide, 2, 4, 6 and 8 units high, and 2, 4, 6 and\n        8 units deep.  The 4 deepest slots (8 unit deep) puncture the base of the\n          overall model and thus could be seen from below.\n\n\n\n\n\n                                                            - 7 -"
+    },
+    {
+      "id": "page-23",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        23
+      ],
+      "text": "Figure 3: Holes of the Standard 3D model\n\n\n(ii) Datum points 17-36: On top of the slots, there are 20 holes (Figure 3 refers).\n    The holes on the right are 3 units deep, whilst the ones on the left are 6 units\n     deep.  The largest hole is 4x4 unit in size, whilst the smallest hole is 1x1 unit\n     in size.  The rest of the holes follow the logic ranging from 1x1 to 1x4, and\n    1x4 to 4x4.\n\n\n\n\n\n           Figure 4: Streets and Buildings of the Standard 3D model\n\n\n\n                                                     - 8 -"
+    },
+    {
+      "id": "page-24-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        24
+      ],
+      "text": "(iii) Datum points 37-42: There are three horizontal slots on top of the holes\n         (Figure 4 refers). They represent street conditions.  They are all 1 unit high,\n        and 2, 4 and 6 unit deep respectively.\n\n\n      (iv) Datum points 43-58: On top of the slots are 2 housing layouts (Figure 4\n           refers).  The one on the right is 3 units deep, and the one on the left is 6\n          units deep.  The cruciform blocks are all 1+1+1 unit in plan.\n\n\n     (v)  Datum points 59-62: The four vertical external surfaces of the model (Plan\n        and Side Elevation in Figure 2)."
+    },
+    {
+      "id": "p3-page-24",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        24
+      ],
+      "subparagraph_markers": [],
+      "text": "3.  The Standard 3D should ideally have all the surfaces join perfectly (that is to say,\n     there is no gap between the surfaces used to build the model).  Typically the use\n     of solid model is the best way to guarantee that.   If surface CAD modeler is used\n     (e.g. AutoCAD), the operator must exercise extra care in building the model.\n    The reason for perfectly aligned model is to prevent light leak through the gaps.\n    Moreover, some software is known to behave strangely when surfaces intercept\n    each other."
+    },
+    {
+      "id": "p4-page-24",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        24
+      ],
+      "subparagraph_markers": [],
+      "text": "4.  The plan, sections and elevations of the Standard 3D model is shown in Figure 5.\n\n\n\n\n\n                                                            - 9 -"
+    },
+    {
+      "id": "page-25",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        25
+      ],
+      "text": "Figure 5: Plan and Sections and elevation of the Standard 3D model\n\n\n\n\n\n(Rev. 2/2015)\n\n\n\n                                                           - 10 -"
+    },
+    {
+      "id": "page-26",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        26
+      ],
+      "text": "Annex 2\n                                                (PNAP APP-130)\n                         Datum Values\n\n\nThe Datum values are shown in the following table:\n\n\n Datum   Key description   Detail description   DF or VDF   Datum (%)\n point\n 1          Slot             1x1x 2 deep         VDF           22\n 2                        1x1x 4 deep         VDF           21\n 3                        1x1x 6 deep         VDF           21\n 4                        1x1x 8 deep         VDF           20\n 5          Slot             1x2x 2 deep         VDF           14\n 6                        1x2x 4 deep         VDF           12\n 7                        1x2x 6 deep         VDF           12\n 8                        1x2x 8 deep         VDF           11\n 9          Slot             1x4x 2 deep         VDF           12\n 10                       1x4x 4 deep         VDF           8\n 11                       1x4x 6 deep         VDF           8\n 12                       1x4x 8 deep         VDF           7\n 13         Slot             1x6x 2 deep         VDF           10\n 14                       1x6x 4 deep         VDF           6\n 15                       1x6x 6 deep         VDF           5\n 16                       1x6x 8 deep         VDF           5\n 17       Hole            1x1x3 deep          DF            6\n 18                       1x2x3 deep          DF           10\n 19                       1x3x3 deep          DF           13\n 20                       1x4x3 deep          DF           15\n 21                       2x2x3 deep          DF           18\n 22                       2x3x3 deep          DF           24\n 23                       2x4x3 deep          DF           28\n 24                       3x3x3 deep          DF           32\n 25                       3x4x3 deep          DF           38\n 26                       4x4x3 deep          DF           45\n 27       Hole            1x1x6 deep          DF            2\n 28                       1x2x6 deep          DF            4\n 29                       1x3x6 deep          DF            5\n 30                       1x4x6 deep          DF            6\n 31                       2x2x6 deep          DF            7\n\n\n                                                           - 11 -"
+    },
+    {
+      "id": "page-27",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        27
+      ],
+      "text": "32                       2x3x6 deep          DF            8\n 33                       2x4x6 deep          DF           10\n 34                       3x3x6 deep          DF           11\n 35                       3x4x6 deep          DF           14\n 36                       4x4x6 deep          DF           18\n 37       Middle of Street   1x2 deep            DF           30\n 38                       1x4 deep            DF           16\n 39                       1x6 deep            DF           11\n 40                       1x2 deep           VDF           10\n 41                       1x4 deep           VDF           4\n 42                       1x6 deep           VDF           2\n 43        Building          Surface 1 x 3 deep    VDF           13\n                        (H facing 3 blks)\n 44          (anti- clockwise)   Surface 2 x 3 deep    VDF           13\n                         (V facing 3 blks)\n 45                          Surface 3 x 3 deep     VDF           22\n 46                          Surface 4 x 3 deep     VDF           20\n 47                          Surface 5 x 3 deep     VDF           18\n 48                          Surface 6 x 3 deep     VDF           19\n 49                          Surface 7 x 3 deep     VDF           14\n 50                          Surface 8 x 3 deep     VDF           19\n 51        Building          Surface 1 x 6 deep    VDF           5\n                        (H facing 3 blks)\n 52        (anti-clockwise)   Surface 2 x 6 deep    VDF           5\n                         (V facing 3 blks)\n 53                          Surface 3 x 6 deep     VDF           12\n 54                          Surface 4 x 6 deep     VDF           8\n 55                          Surface 5 x 6 deep     VDF           9\n 56                          Surface 6 x 6 deep     VDF           9\n 57                          Surface 7 x 6 deep     VDF           5\n 58                          Surface 8 x 6 deep     VDF           9\n 59        External surfaces  Surface 1          VDF           40\n 60                          Surface 2          VDF           40\n 61                          Surface 3          VDF           40\n 62                          Surface 4          VDF           40\n\n\nNotes :  DF – Daylight Factor\n      VDF – Vertical Daylight Factor\n\n(Rev. 2/2015)\n\n                                                           - 12 -"
+    },
+    {
+      "id": "page-28-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        28
+      ],
+      "text": "Annex 3\n                                                (PNAP APP-130)\n\n\n Geometric Model – Example to illustrate the construction of surrounding walls"
+    },
+    {
+      "id": "p1-page-28",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        28
+      ],
+      "subparagraph_markers": [],
+      "text": "1. To determine the position of the surrounding walls of the test site\n\n\n\n\n\n                  Figure 1: The Setting Out of Surrounding Walls\n\n\nSetback of surrounding wall (example for elevation A)\n\n-   Factor A1   = setback of tower block 1\n\n-   Factor A2   = setback of tower block 2\n\n-   Setback A   = average of A1 + A2\n\nExtent of surrounding wall to close the street (example for elevation A)\n\n-   Factor H1 = height of tower block 1 from street level\n\n-   Factor H2 = height of tower block 2 from street level\n\n-   Factor H = average of H1 & H2\n\n-   Factor L1 = actual distance from site to cross road\n\n-   Extent L = L1 + setback A,  or H x 5, whichever the less\n\n\n\n\n                                                           - 13 -"
+    },
+    {
+      "id": "p2-page-29",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        29
+      ],
+      "subparagraph_markers": [],
+      "text": "2. To determine the height of the surrounding walls facing the boundary of the\n    test site\n\n\n\n\n\n              Figure 2: The Height of surrounding walls (Elevation A)\n\n\n\nBase of surrounding wall (example for elevation A)\n\n-   Height of Podium W    = sum of area of elevation of Block 1 and Block 2\n                                   divided by width of site\n\n-   Height of perforated wall H = average of H1 & H2\n\n\n\n(Left)  Looking at the test site from a certain direction parallel to the boundary, two\nimmediate buildings (including their podiums) are to be taken into account.\n\n\n(Middle)  The elevation areas of the buildings (area of Block 1 and area of Block 2),\ncalculated parallel to the boundary, will be summed.  This total area will from the\nheight (W) of an equivalent sized rectangle occupying the whole length of the test site\nfacing that boundary.  This represents the ‘solid’ base of the surrounding walls facing\nthat directing of the boundary. Height W1, W2, W3 and so on for walls facing other\ndirections of the test boundary could be similarly worked out.\n\n\n(Right)  On top of this solid wall should be placed a “slotted wall”.  This represents\npossible light from gaps between tower buildings.  The slot wall has a rhythm of\n1:4:1:4 and so on.  When scaled to real dimension, the void portion of the wall should\nbe between 10 to 15 meters.  The exact dimension will be worked out evenly across\nthat portion of the boundary.  The total height of this wall (W+H) is equal to the\naverage height of the two immediate buildings used to work out H just now.\n\n\n\n\n(Rev. 2/2015)\n\n                                                           - 14 -"
+    },
+    {
+      "id": "page-30",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        30
+      ],
+      "text": "Annex 4\n                                                (PNAP APP-130)\n                              Daylight Software\n\n\nSome of the currently available software in the market for daylight studies are listed\nbelow for reference.  Their accuracy should be verified and the software should be\nvalidated before adapted for simulation.\n\n\nADELINE\n Daylighting, lighting, commercial buildings\nAG123\n Lighting, daylighting, rendering, roadway\nBSim2002\n Building simulation, energy, daylight, thermal analysis, indoor climate\nBuilding Design Advisor\n Design,  daylighting, energy performance,  prototypes,  case  studies, commercial\n buildings\nDAYSIM\n Annual daylight simulations, electric lighting energy use, lighting controls\nEcotect\n Environmental design, environmental analysis, conceptual design, validation; solar\n control, overshadowing, thermal design and analysis, heating and cooling loads,\n prevailing winds, natural and  artificial lighting,  life cycle assessment,  life cycle\n costing, scheduling, geometric and statistical acoustic analysis\nFLUCS\n Illumination, daylighting\nLESODIAL\n Daylighting, early design stage, user-friendliness\nLightscape\n Daylighting, luminance\nLumenMicro\n Daylighting, lighting, solar design, luminaries\nRADIANCE\n Lighting, daylighting, rendering\nSKYVISION\n Skylight, light well, fenestration, glazing, optical characteristics, daylighting.\nSuperLite\n Daylighting, lighting, residential and commercial buildings\nThe Lightswitch Wizard\n Annual daylight simulations, electric lighting energy use, lighting controls\n\n(Rev. 2/2015)\n                                                           - 15 -"
+    },
+    {
+      "id": "page-31",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        31
+      ],
+      "text": "Appendix C\n                                              (PNAP APP-130)\n\n   Guidance Notes on Computational Fluid Dynamic Assessment\n             of the Ventilation Performance in buildings\n\n1   Introduction\n\n\n    Computational Fluid Dynamic (CFD)  tools may be used for assessing the\n     ventilation  performance  in  buildings.   Authorized  Persons  (APs)  should\n     substantiate the validity and appropriateness of the tools to the satisfaction of the\n    Building Authority (BA).  These guidance notes assist the APs to undertake\n   CFD assessment of the ventilation performance in buildings.  Any deviation\n    from these guidance notes should be supported with substantiations  to the\n     satisfaction of the BA.\n\n2   Site Wind Data\n\n2.1 Wind data\n\n\n   Wind data should be adopted from the appropriate and reliable sources with\n    substantiations to the satisfaction of the BA, examples of which are :\n\n\n     (a) Nearby weather stations of Hong Kong Observatory with long term data of\n       10 years or more;\n\n\n     (b) Simulated site wind data based on appropriate mathematical models, such as\n        Fifth-Generation NCAR / Penn State Mesoscale Model (MM5) or CALMET;\n        or\n\n\n     (c) Experimental  site wind data from wind tunnel  test in accordance with\n        paragraph 16 in Annex A of the Housing, Planning And Lands Bureau and\n        Environment, Transport And Works Bureau Technical Circular No. 1/06.\n\n2.2 Wind profile\n\n\n   The  vertical  wind  profiles  should  be  determined  by  using  appropriate\n    mathematical method such  as Power Law and Log Law with  appropriate\n     coefficient based on the roughness length of the concerned terrain.\n\n\n\n-                                                              - 1 -"
+    },
+    {
+      "id": "page-32",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        32
+      ],
+      "text": "Appendix C\n                                              (PNAP APP-130)\n\n\n3   Simulation Methodology and Parameters\n\n3.1 General\n\n\n     (a)  Substantiations on the validity and appropriateness (including compliance\n        with international standards/best practices) of the CFD software employed\n         for the study shall be provided.\n\n\n     (b) CFD analysis shall be carried out in accordance with relevant international\n         standards/best practices.  The analysis shall properly define:\n\n\n           (i)   the physical model,\n\n\n            (ii)   the computational domain (including the domain  size, geometrical\n               representation of details and boundary conditions),\n\n\n            (iii)  the computational grid (including the grid resolution and expansion\n                 ratio),\n\n\n          (iv)  the numerical approximations, and\n\n\n         (v)  the solution.\n\n\n     (c) The BA’s in-principle agreement to the methodologies and scope of the CFD\n         analysis may be sought prior to submission of the ventilation performance\n        assessment.\n\n3.2  Testing model\n\n3.2.1 External area\n\n\n      (a) The testing model should include all proposed buildings in the site and\n          buildings  /  features  in the surrounding area which  shall be up  to a\n          perpendicular distance of 2H (H being the height of the tallest proposed\n          building on site) or 300m, whichever is the less, from the site boundary, or\n       may be enlarged if there are prominent features (e.g. tall buildings or large\n\n\n-                                                              - 2 -"
+    },
+    {
+      "id": "page-33",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        33
+      ],
+      "text": "Appendix C\n                                              (PNAP APP-130)\n\n         and bulky obstructions) immediately outside the 2H/300m zone.  APs can\n          advise  alternative  extent  of  the  surroundings  to  be  included on  a\n          case-by-case   basis,  especially  when  there  are  nearby  prominent\n          topographical features.\n\n\n      (b) All external features of the subject building that may significantly influence\n            air flow must be included in the model.\n\n3.2.2 Internal areas\n\n\n     The testing model should include the whole floor where the subject rooms are\n      situated with the following criteria:\n\n\n      (a)  All internal features that may significantly influence air flow must be\n          included in the model,\n\n\n      (b)  Fire rated doors (e.g. main entrance door and kitchen door) should be\n        assumed to be closed,\n\n\n      (c)  Toilet and bathroom doors should be assumed to be closed unless some of\n          the waste water from a waste fitment could be diverted to the U-trap of\n           floor drains in these rooms in accordance with PNAP ADV-24,\n\n\n      (d)  If a  ventilator would be provided in a room in the simulation, such\n          provision should be indicated on the submitted plans for approval, and\n\n\n      (e) Leakage assumption of a fire rated door should base on the bottom gap\n         between such door and the floor not exceeding 10mm.\n\n3.3  Scope of assessment\n\n\n     The  assessment  should  cover  all rooms  adopting  the  performance-based\n     approach on the following floors:\n\n      (a)  The lowest typical floor adopting the performance-based approach,\n\n      (b)  The topmost typical floor adopting the performance-based approach,\n\n\n-                                                              - 3 -"
+    },
+    {
+      "id": "page-34",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        34
+      ],
+      "text": "Appendix C\n                                              (PNAP APP-130)\n\n\n\n      (c)   For h > 60m (h being the total storey height of all typical floors adopting\n            the performance-based approach), the typical floor at ½h above the floor\n            level of the lowest typical floor, and\n\n      (d)   All non-typical floors.\n\n3.4  CFD Simulations\n\n\n      (a)   Stage 1 CFD simulation is for external areas under 16 wind directions for\n           providing data for Stage 2 CFD simulation.\n\n\n      (b)   Stage 2 CFD simulation is for internal areas under 16 wind directions.\n\n\n      (c)   Alternatively, Stage 2 CFD simulation may be based on the three wind\n            directions with lowest pressure difference (∆p) between openings of such\n           room/interconnected rooms identified in Stage 1 simulation.  The BA\n        may request  for  the assessment of  additional wind  directions on a\n           case-by-case basis.\n\n4   Acceptance criteria\n\n\n      (a)  Rooms adopting performance-based design should have not less than 1.5\n             air change per hour (ACH) under the tested wind directions.\n\n\n      (b)  ACH under some test wind directions less than 1.5 may be accepted if it\n          can be demonstrated by CFD simulation that the ventilation performance\n            for such room will not be less than the situation installed with compliant\n          windows.\n\n\n\n\n\n(2/2015)\n\n\n\n\n\n-                                                              - 4 -"
+    }
+  ]
+}

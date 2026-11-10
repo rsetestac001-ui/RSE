@@ -1,0 +1,36 @@
+{
+  "code": "ADV-024",
+  "source_text": "indexed_text/PNAP/ADV/ADV-024.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-024.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers   ADV-24\n\n                               Practice Note for Authorized PersonsBuildings Department                                                277\n                         and Registered Structural Engineers\n\n\n\n                       Floor Drains in Kitchens and Bathrooms\n\n\n             Water seal traps are required to be provided for all sanitary fitments,\nincluding floor drains (if provided), before they are connected to a common drainage\nstack.  The water in the trap may dry up through evaporation unless water is replenished,\nfrom time to time, by the occupants or through discharge of waste water."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         To obviate the need to top up the water in the trap of floor drains in\nkitchens and bathrooms, authorized persons (APs) may wish to consider diverting some\nof the waste water from a waste fitment to the U-trap of floor drains in their designs.\nAPs are reminded that their designs should comply with the provisions of the Building\n(Standards of Sanitary Fitments, Plumbing, Drainage Works and Latrines) Regulations\nand would ensure a smooth flow of the discharge.  Care should also be taken to prevent\nback-flowing at the floor drain."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         Any provision requiring modification of the relevant Building (Standards\nof Sanitary Fitments, Plumbing, Drainage Works and Latrines) Regulations may be\nconsidered on the merits of individual case upon application.\n\n\n\n\n\n                                                                ( Marco M H WU )\n                                                 Building Authority\n\n\n\n\n\nRef : BD GP/BREG/SF/1 (II)\n\nFirst issue  June 2003 (AD/NB1)\n\nIndex under : Sanitary fitment\n              Floor drain\n             Water seal"
+    }
+  ]
+}

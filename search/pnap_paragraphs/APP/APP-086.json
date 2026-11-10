@@ -1,0 +1,67 @@
+{
+  "code": "APP-086",
+  "source_text": "indexed_text/PNAP/APP/APP-086.txt",
+  "source_pdf": "documents/PNAP/APP/APP-086.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and       APP-86\n                         Registered Geotechnical Engineers\n\n\n                      Non-loadbearing Partition Walls\n\n\n           Building works, in particular alteration and addition works, after involve the\nconstruction and demolition of non-loadbearing partition walls. Although these walls are\nnot structural elements, authorized persons (APs) and registered structural engineers\n(RSEs) should ensure that the design and construction of such works achieve the required\nsafety and performance standards in order to ensure public safety.\n\nDesign and Construction of Non-loadbearing Partition Walls"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        The design and construction of non-loadbearing partition walls should be in\naccordance with relevant standards and codes of practice. In this respect, APs and RSEs\nshould refer to Practice Note for Authorized Persons, Registered Structural Engineers\nand Registered Geotechnical Engineers (PNAP) APP-53 and ensure that all factors, such\nas slenderness ratio, supports and restraints, which may affect the stiffness and stability\nof these walls, are taken into account.\n\nDemolition of Non-loadbearing Partition Walls"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 126
+        },
+        {
+          "label": "b",
+          "offset": 229
+        },
+        {
+          "label": "c",
+          "offset": 296
+        }
+      ],
+      "text": "3.       When non-loadbearing partition walls are to be demolished, APs and RSEs\nshould refer to PNAP APP-21 and ensure that:\n\n      (a)   appropriate precautionary measures are provided according to site\n             situation;\n\n      (b)   the works are carried out by experienced workers; and\n\n      (c)   adequate supervision  is provided throughout  the demolition\n            process.\n\nMinor Works Relating to Non-loadbearing Partition Walls"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.        Under the Minor Works Control System, certain minor building works\nrelating to non-loadbearing partition walls are designated as minor works, which may be\ncarried out under the simplified requirements as an alternative to obtaining prior approval\nand consent under the Buildings Ordinance. Reference can be made to Schedule 1 of the\nBuilding (Minor Works) Regulation and PNAP APP-147 regarding the list of minor\nworks items and the simplified requirements respectively.\n\n\n\n                                                             ( YU Tak-cheung )\n                                               Building Authority"
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\nRef. : BD GR/1-125/27/0\n\nThis PNAP is previously known as PNAP 203\nFirst issue    October 1996\nThis revision December 2020 (AD/NB2) (General revision)"
+    }
+  ]
+}

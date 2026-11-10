@@ -1,0 +1,238 @@
+{
+  "code": "APP-087",
+  "source_text": "indexed_text/PNAP/APP/APP-087.txt",
+  "source_pdf": "documents/PNAP/APP/APP-087.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers      APP-87\n\n                                Practice Note for Authorized Persons\nBuildings Department                          and Registered Structural Engineers            204\n\n\n\n                       Guide to Fire Engineering Approach\n\n\n       This practice note provides guidance on fire engineering approach for the design of new\nbuildings or alteration and addition works in existing buildings to meet the fire safety objectives\nand performance requirements of Building (Construction) Regulation 90, Building (Planning)\nRegulations 41, 41A, 41B & 41C and as an alternative to the prescriptive requirements set out in\nthe three Codes of Practice for Means of Escape, Means of Access for Firefighting and Rescue\nand Fire Resisting Construction, covering fire safety in buildings.\n\n\nObjectives"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            Fire engineering design offers a flexible alternative where  it is impracticable to\ncomply with prescriptive provisions in the Codes, especially when designing for special or large\nand complex buildings or alteration and addition works in existing buildings.  The aim is to\nprovide for an overall level of safety that is equivalent to that which would result if fire safety\nwas achieved through full compliance with the prescriptive provisions of the relevant codes of\npractice.  The acceptability of fire engineering approach is recognised in paragraph 3 of the\nCodes.  Fire engineering design provides a framework for practitioners to demonstrate that the\nperformance requirements of legislation are met, or in some cases bettered, even though some of\nthe design solutions adopted fall outside or short of the prescriptive provisions in the Codes when\nadditional fire safety measures are proposed to compensate for the deviation or shortfall."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         To  achieve  this  objective   it  is  important  to  understand  the  performance\nrequirements and the prescriptive provisions that are required as a minimum to comply with the\nlegislation.   If the design being considered is not substantially different from the prescriptive\nprovisions or can be readily accommodated by adopting conservative assumptions, it may simply\nbe  a  case  of  demonstrating  like-for-like  substitution  or  “equivalence”  with  prescriptive\nprovisions and fire safety objectives without having to embark on a full fire safety strategy.\nHowever, practical test may be required where necessary to demonstrate the equivalence by\npractitioners."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 176
+        },
+        {
+          "label": "b",
+          "offset": 357
+        },
+        {
+          "label": "c",
+          "offset": 536
+        }
+      ],
+      "text": "4.          The performance requirements of the legislation that have to be addressed in the\nfire engineering design, and re-expressed in terms of objectives, are as follows :\n\n        (a)    Given the function and purpose of the building or installation, the design should\n              not present an unacceptable risk of a fire developing and spreading.\n\n        (b)    Occupants should have time to reach a place of (temporary and/or permanent)\n               safety without being dangerously affected by heat or smoke from a fire.\n\n        (c)   A fire should not spread to adjacent property.\n                                                                                     /(d) A fire ...."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n        (d)   A fire (and smoke) should not spread beyond the compartment from which the fire\n               originates.\n\n        (e)     Firefighting personnel should be able to gain access and mount firefighting and\n              rescue operations without undue risk to their health and safety.\n\n         (f)    The stability, insulation and structural integrity of the building should be ensured\n                in a fire of specified intensity and duration.\n\n\nDesign Methodology"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.         One prevailing method of fire engineering design is based on making predictions\nof likely outcomes in the event of a fire and selecting appropriate fire safety system components\nto achieve the required objectives.  This is a deterministic method of fire-safety engineering\nwhich combines assessment of both risk and hazard.   It has been applied to special or unique\nbuildings such as airport terminals, railway stations, convention and exhibition centres, aircraft\nhangars, stadiums, etc. where the prescriptive requirements of the building regulations are often\nnot appropriate.   Application of  this method  is designed to provide a level of  fire safety\nequivalent to that expected in the legislation.  Demonstrating equivalence to the prescriptive\nprovisions is paramount to the acceptance of this method."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           Risk assessment is introduced in expectation of a fire development, and system\nperformance is based on various fire scenarios. Fire engineering is not sufficiently developed, at\nleast for the time being, to provide simple methods of quantifying the overall fire safety of a\nbuilding.  Hong Kong, moreover, currently lacks local statistical information to support the\nestablishment of appropriate  risk  factors  to cover the range of indigenous building types.\nQuantitative risk assessment and large-scale fire tests, on the other hand, can only be undertaken\nfor special buildings and installations."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           Hazard analysis follows the traditional engineering approach based on defined fire\nloads and demonstrating the ability to resist such loads.   It is often assisted by fire models and\ncomputational methods which are already established overseas and can offer a more certain\nindication of achieved safety. Provided the hazards are identified it is usually possible to devise\nstrategies for their management or design solutions which will ensure reasonable safety of the\noccupants, and the protection of essential emergency plant and equipment."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.            Equivalence can also be readily demonstrated by deterministic means  - equal\nperformance between the designed system and what is expected under full compliance with the\nregulations  i.e. the outcome under a given  fire scenario should be  similar  for  either the\ncomplying system or the alternative being proposed.\n\n\n\n\n\n                                                                         /9. Design Procedures ....."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\nDesign Procedures"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          The flow chart shown in the Appendix outlines the major steps to be followed in\nthe fire engineering design of a building.  The design procedure  is essentially a process to\nanalyse  the  likely  effects  of a  fire given  the worst  likely  location and time of  ignition.\nKnowledge of the fire loads, the number and location of occupants and the fire protection\nfeatures is essential for assessing whether the performance criteria are met. The first two steps\nare to determine the geometry, construction and use of the building and to establish performance\nrequirements.  The third step is to identify deviations from the prescriptive provisions and to\npropose alternatives to address the deficiency."
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.         The following steps revolve around scenario analysis, considering  all possible\nscenarios. Some parts of the analysis can possibly be quantified with numbers, but much of the\nanalysis requires subjective judgement as to the likely movement and consequences of a fire and\nthe likely location and movement of people.  If the performance criteria are not met, then either\nthe  building geometry or  the  fire  protection  features must be modified  until  satisfactory\nperformance is achieved. This process must be repeated for all possible fire scenarios.\n\n\nFire Safety Strategy Report"
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 331
+        },
+        {
+          "label": "b",
+          "offset": 505
+        },
+        {
+          "label": "c",
+          "offset": 702
+        },
+        {
+          "label": "d",
+          "offset": 936
+        },
+        {
+          "label": "e",
+          "offset": 1194
+        }
+      ],
+      "text": "11.         The compilation of a  fire safety strategy report  is the most effective way of\nidentifying and setting out the tactics for the fire safety design of a building.  Contents of the\nreport may be set out as follows with some sections assuming a greater or lesser degree of\nimportance depending on the particular project :\n\n        (a)     Introduction : sets out the overall objectives of the fire strategy and the parameters\n              of the report. Nature of the problems should be stated.\n\n        (b)    Description of the development : describes the intended function of the building or\n               project; outlining special features and inter-relationship with other properties.\n\n        (c)    Sources of Information : lists the codes, legislation and guidance documents used\n                in  the compilation  of  the  report and  the  features which  are based on  fire\n              engineering principles.\n\n        (d)   Means of Escape : establishes the objectives of the means of escape philosophy\n              and, if necessary, refers to escape times and extended travel distances, behaviour,\n               reaction and way finding pattern of the occupants.\n\n        (e)    Design fires : in complex buildings, where necessary, establishes the design fire\n                size by calculation of fire load and type so that the effect of fire and smoke can be\n               assessed.   This  is  particularly  important when  considering smoke  extract\n               calculations and the effect of heat on the building structure.\n\n\n\n                                                                                                     /(f) Smoke ....."
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -\n\n\n(f)    Smoke control : describes the purpose of smoke control system where required to\n       maintain clear layer height and to limit temperatures to keep escape routes safe\n      and clear, and to provide indication on the toxicity of gases.\n\n(g)    Fire spread  control  :  states  the  combustibility  of  wall and  ceiling  linings,\n       furnishings, the integrity rating of structure and compartment walls, the control of\n       the rate of spread of fire, the resistance of the effect of a fire and the capacity of\n        fire containing.  This section would also contain details of compartment size and\n       external fire spread with due regard to the insulation, stability and integrity of the\n       building.\n\n(h)     Structural Performance : predicts the thermal response and structural response of\n        fire resisting elements at elevated temperatures and determines their equivalent\n        fire resistance ratings; attention should also be given to the structural safety of\n       adjacent buildings due to heat radiation near the site boundary.\n\n(i)     Sprinkler system : where sprinklers are proposed, states the hazard classification,\n       water supplies, extent of coverage and system standard; identifies special features\n       such as fast response sprinklers used in areas of smoke control.\n\n(j)    Alarm system : describes the type and extent of the alarm system; for example\n       type and coverage of fire detectors, manual call points, communication of alarm,\n        technical features of the system, position of panels.  Where the alarm system is\n       also used to activate dampers, pressurise  stairs, or send a signal to the Fire\n       Services Communication Centre, suitable references will be made.\n\n(k)     First-aid firefighting : describes the provisions of first-aid firefighting equipment\n       e.g. hosereels and portable fire extinguishers available to the occupants of the\n       building.\n\n(l)      Facilities for firefighting personnel : describes the facilities which should be made\n        available  to  the  firefighting  appliance and  personnel  including  access, and\n      sometimes water  supplies  for  firefighting,  firefighting and rescue  staircases,\n       fireman’s lift, fire control centre/panel, smoke clearance and point of assembly.\n\n(m)   Emergency lighting and signs : outlines the standards and operating principles.\n\n\n\n\n\n                                                                                   /(n) Role ....."
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 5 -\n\n\n        (n)    Role of management : defines clearly the management role and states clearly the\n             arrangements that could ensure the continued maintenance of any fire protection\n              system.  This is an important element of the fire safety strategy which should be\n               clearly defined. Management may play an active part in minimizing the outbreak\n              of  fire  by  restricting  smoking,  ensuring good  housekeeping  and  security.\n            Management will also be responsible for ensuring that maintenance and testing\n              procedures are in place to ensure that the fire systems within the building will\n             respond to a fire.\n\n      The report should contain calculations, sketches and diagrams to support the conclusions\n      and aims of the report.  Detailed information should include smoke filling, design fire\n      and egress calculations where these are appropriate.\n\n\nConsultation"
+    },
+    {
+      "id": "p12-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "12.               It is important that practitioners consider the implications of fire safety on the\nbuilding design  at an early stage and establish a consultative procedure with the Buildings\nDepartment and Fire Services Department so  that the  fire safety objectives can be agreed\nbetween the parties at the outset.  In this connection, the Buildings Department and Fire Services\nDepartment should be approached prior  to submission of building plans for agreement  in\nprinciple to any fire engineering design being considered."
+    },
+    {
+      "id": "p13-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "13.        As yet there  is no accreditation of  fire engineers, authorized persons (APs)\nmeanwhile must assume the pivotal role in the consultative procedures when the fire strategy and\nfire engineering design is being developed.  Practitioners from other disciplines are expected,\nhowever, to provide their specialist input as well.\n\n\nReferences"
+    },
+    {
+      "id": "p14-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "14.         The range of overseas codes and standards applicable to fire safety is constantly\nincreasing and individual publications are frequently amended or revised. Although practitioners\nmay  not have  all  relevant  information  readily  to hand,  they  should be aware  of  these\npublications. Product data and articles in fire safety journals, also help keep practitioners up-to-\ndate with new developments in fire safety matters.  Various standard documents are available\ndescribing  fire  engineering approaches  to  design such  as  the  draft  British  Standard,  the\nAustralian Code, NFPA (National   Fire Protection Association) and SFPE (Society of Fire\nProtection Engineer) Handbooks.  These documents provide specific guidance on fire load,\nsmoke control, egress from buildings for specialised occupancies, equations and relationships,\ncalculation methods along with valuable  data  for use  in  the development  of  the case  to\ndemonstrate adequacy.\n\n\n\n\n\n                                                                             15. This ....."
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "- 6 -"
+    },
+    {
+      "id": "p15-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "15.          This  practice  note  cannot  possibly  outline  all  the  fire  engineering  design\ntechnology  required  for use on every  specific  building.   Rather,  it simply  outlines one\nrecommended framework for fire engineering design activities. As fire engineering approach is\nnew to both the practitioners and the authorities, this practice note would serve as an initial\nguideline. In the longer run, we need to develop fire safety standards (e.g. safe evacuation time,\ntenability level of exit routes, etc.) and develop control over tools (e.g. computer modules) for\npredicting risks or demonstrating compliance and over the service of professionals (e.g. fire\nengineers).  This guideline will be reviewed regularly.  Any suggestion for improvement is\nwelcome.\n\n\n\n\n\n                                                                                  ( CHOI Yu-leuk )\n                                                              Building Authority\n\n\n\n\n\nRef                :  BD GP/BREG/P/36\n\n\nFirst issued      :  (March 1998) (AD/LM)\n\n\nIndex under      :   Fire Engineering Approach"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "PNAP 204                              - 7 -\n                                                     Appendix\n                                              APP-87  O\n\n\n\n\n     verview of Fire Engin\n     eering Design\n\n\n\n\n\nAppendix : Overview of Fire Engineering Design"
+    }
+  ]
+}

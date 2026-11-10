@@ -1,0 +1,104 @@
+{
+  "code": "ADV-016",
+  "source_text": "indexed_text/PNAP/ADV/ADV-016.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-016.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers   ADV-16\n\n                                Practice Note for Authorized PersonsBuildings Department                                                 226\n                          and Registered Structural Engineers\n\n\n                         Street Name and Building Number\n\n              Proper  display  of  building numbers can  facilitate  identification  of\n buildings for the provision of emergency, postal delivery and other government services\n as well as for the convenience of visiting public and tourists."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          Under section 32(2) of the Buildings Ordinance, the Commissioner of\nRating and Valuation (CRV) is empowered to allocate building numbers and prescribe\n the manner in which such numbers should be marked for the purpose of distinguishing\nsuch building.  The CRV or the Building Authority (BA) may order the owner of a\n building to mark the building with the allocated building numbers in the prescribed\nmanner.\n\nAllocation of Building Number and Guidelines for Displaying Building Number"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The CRV has issued a practice note setting out the principles on allocation\n of building numbers and guidelines for displaying building numbers. You are advised to\nmake reference to the practice note which can be viewed and downloaded from the\nRating and Valuation Department (RVD) webpage :-\n\n              English version : http://www.rvd.gov.hk/en/issues/index.htm\n             Chinese version : http://www.rvd.gov.hk/tc/issues/index.htm"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.            In respect of the manner of displaying building number, it is stated in\nRVD’s Practice Note 1/2007 that the building number should be clearly displayed above\nor at the side of the entrance to the premises. The colour of the number or number plate\nshould contrast clearly with its background. The minimum height and width for each\n digit of the building number should be 50mm and 40mm respectively as shown below :-\n\n               Nath\n                  an Road\n\n\n\n\n\nNew Buildings"
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.           For new buildings, the developer or an Authorized Person  should take\n into account the building numbering principles set down in RVD’s Practice Note 1/2007\nduring the design stage.\n\n                                                                                    /6. ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2  -"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          The CRV will allocate a provisional building number upon receipt of an\napplication in writing from a developer or an Authorized Person after the consent to\ncommence the building works has been given by the BA. Upon completion of the new\nbuilding, the developer or the Authorized Person will be notified by the CRV of the\nofficial building number."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.         You should advise the developer to ensure that the allocated building\nnumber will be displayed, according to the guidelines laid down in RVD’s Practice Note\n1/2007, upon the allocation of official building number.\n\nExisting Buildings"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          Where any alteration, repair or renovation works affect the display of\nstreet name and building number, the Authorized Person should ensure  that any\nobscured, displaced or damaged street name or building number are repaired or replaced\nas soon as possible.\n\nEnquiries"
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.                If you have any enquiries regarding the allocation and display of building\nnumber, please contact RVD direct :\n\n             Address:           303 Cheung Sha Wan Road,\n                             Cheung Sha Wan Government Offices,\n                                   15/F., Kowloon\n             E-mail address:      enquiries@rvd.gov.hk\n              Tel. No. :          2150 8986 or 2150 8902\n            Fax No.:           2152 0138\n\n\n\n\n\n                                                           ( CHEUNG Hau-wai )\n                                                Building Authority\n\n\n\n\nRef. : BD GP/BORD/27 (IV)\n\nFirst issue July 1998 (AD/LM)\nThis revision May 2007 (AD/Sup) (General revamp)\n\nIndex under : Street Name\n              Building Number"
+    }
+  ]
+}

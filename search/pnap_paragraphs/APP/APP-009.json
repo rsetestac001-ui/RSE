@@ -1,0 +1,46 @@
+{
+  "code": "APP-009",
+  "source_text": "indexed_text/PNAP/APP/APP-009.txt",
+  "source_pdf": "documents/PNAP/APP/APP-009.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n Persons, Registered Structural Engineers and Registered Geotechnical Engineers      APP-9\n\n                             PRACTICE NOTE FOR AUTHORIZED PERSONS\n BUILDINGS ORDINANCE OFFICE                          AND REGISTERED STRUCTURAL ENGINEERS    47\n\n\n\n                        Country Parks Ordinance, Cap 208\n                           Buildings Ordinance section 16(1)(d)\n\n              Since the first publication of this practice note the Country Parks Authority has\nconsiderably increased the number of designated or proposed country parks and special areas\nto which section 10 (1) of the Ordinance applies."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            Authorized persons (APs) and registered structural engineers (RSEs) are also\nreminded that section 10(1) provides that :\n\n              \"After the publication of a notice by the Authority under section 9(1), no new\n             development shall be carried out within the area of the proposed country park\n            shown in the draft map without the prior approval of the Authority.\""
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            Notwithstanding any action which the Country Parks Authority may take in\nrespect of proposals for new development of land that falls within a designated or proposed\ncountry park or special area, Buildings Ordinance section 16 (1)(d) may be invoked to reject\nany such proposals unless and until the prior approval of the Country Parks Authority has been\nobtained.  Failure to comply with any conditions attached to the Country Parks Authority's\napproval may likewise result in the proposals being so rejected.  It is therefore in the interest of\nall concerned that, upon application in respect of the development of a site to which the\nCountry Parks Ordinance applies, that the Country Park Authority be consulted as soon as\npossible."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         APs and RSEs should therefore familiarize the locations of all country parks\nand in this respect copies of plans, showing the locations and boundaries of such, may be\npurchased from the Agriculture and Fisheries Department.\n\n\n\n\n                                                      (A.G. Eason)\n                                                           Building Authority\n\nRef. : BLD(B) GP/LEG/23\n\nFirst issued March 1978\nThis update January 1990 (GBS/D)\n\nIndex under : BO s16(1)(d) - Country Parks Ordinance, Cap 208\n             Country Parks Ordinance, Cap 208"
+    }
+  ]
+}

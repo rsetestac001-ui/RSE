@@ -1,0 +1,134 @@
+{
+  "code": "ADV-015",
+  "source_text": "indexed_text/PNAP/ADV/ADV-015.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-015.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers  ADV-15\n\n                               Practice Note for Authorized Persons Buildings Department                                               221\n                         and Registered Structural Engineers\n\n\n                  Fixing of Reinforcement for Concrete Works\n\n              Displaced reinforcement has been a major contributing factor for the\nundue corrosion of steel and spalling of concrete, which in some cases has led to the\ncollapse of structural elements causing casualties. This Practice Note gives guidance on\ngood practice in fixing reinforcement to achieve safe and durable reinforced concrete\nstructures.\n\nFixing of Reinforcement"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           Bar reinforcement and fabric reinforcement from each batch should not\nbe fixed until testing of the batch has been completed (Practice Note for Authorized\nPersons and Registered Structural Engineers 122 refers)."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           Loose rust, excessive flaky rust or mill-scale on reinforcement must be\nremoved by wire-brushing. Badly corroded, damaged or scaling steel should NOT be\nused."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.             Sufficient number of spacers, chairs and such other supports as may be\nnecessary should be provided to maintain the reinforcement in the correct location as\nshown in the approved plans and to maintain the specified minimum cover at  all\npositions.  Spacers and chairs should be placed at a maximum spacing of 1.5 m.\nHowever, in the case of 20 mm diameter or smaller bars the spacing of chairs and\nspacers should be suitably reduced to avoid sagging."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            Spacers for reinforcement should be constructed of concrete or of a\nproprietary plastic or concrete type. They should be as small as practicable and should\nbe capable of supporting the weight of reinforcement and construction loads without\nbreaking, deforming or overturning. The strength and durability of spacers should be\nnot less than that of the surrounding concrete."
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "6.             Sufficient number of intersecting and lapping bars should be tied by\ntying wire, tying devices or clips to prevent movement of the reinforcement. The ends\nof  tying  wire,  tying  devices and  clips  should  not encroach  into  the  cover  to\nreinforcement."
+    },
+    {
+      "id": "p7-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           Reinforcement should not be contaminated or displaced as a result of\naccess (e.g. persons walking or transporting concrete laden wheelbarrows) over the\nreinforcement. Access should be obtained by using planks and ladders or other methods\nwhich are independently supported and well clear of the completed reinforcement. Care\nshould be  taken  to avoid  the  displacement  of  reinforcement  or  spacers  during\nsubsequent trades (e.g. laying conduits for electric cables in floor slabs). In the case of\ncantilevered  projecting  structures,  it  is  crucial  to ensure  that  the completed top\nreinforcement would not deflect/displace due to access or other construction loads.\nThis can be achieved by providing extra chairs and ties to the reinforcement in such\nelements.\n\n                                                                                               /8. ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.           Laps and joints in reinforcement should be located only at the specified\npositions.  Reinforcement  connectors  should  be  fixed  in  accordance  with  the\nmanufacturer’s  recommendations  and  using  equipment  recommended  by  the\nmanufacturer."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.           Reinforcement which is free-standing should be secured in position and\nbraced to prevent movement due to wind and other loads.  Prefabricated reinforcement\ncages should be adequately supported and braced before lifting.\n\nSupervision and Inspection"
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "10.         The registered contractor should provide continuous supervision,  to\nensure that the fixing of reinforcement is carried out in accordance with the approved\nplans,  the  recommendations  given  in  this  Practice Note  are  followed and no\ndisplacement  of  reinforcement  takes  place during placement and compaction  of\nconcrete. The authorized person/registered structural engineer should provide adequate\nquality supervision in this respect."
+    },
+    {
+      "id": "p11-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "11.         The registered contractor should inform the authorized person/registered\nstructural engineer to inspect all reinforcement after fixing and well in advance of\nconcreting to allow for any necessary rectification.  In the case of walls, columns etc.,\nthe inspection should be arranged before the complete erection of formwork to avoid\ndifficult access  to the reinforcement.  The Contractor should also take adequate\nmeasures to ensure that the reinforcement remains in the approved conditions until\nconcreting has been completed."
+    },
+    {
+      "id": "p12-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "12.       A similar practice note has been issued to registered contractors.\n\n\n\n\n\n                                                                      ( Marco M H WU )\n                                                     Building Authority\n\n\n\n\n\nRef.: BD GP/BREG/C/3(III)\n\nFirst issue March 1998 (AD/SE)\nThis revision July 2003 (AD/NB2) – para. 5 added and para. 7 amended\n\nIndex under :  Fixing of Reinforcement for Concrete Works\n             Reinforcement Fixing"
+    }
+  ]
+}

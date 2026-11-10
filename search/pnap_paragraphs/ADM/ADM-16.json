@@ -1,0 +1,45 @@
+{
+  "code": "ADM-16",
+  "source_text": "indexed_text/PNAP/ADM/ADM-16.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-16.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "R e-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers  ADM-16\n\n                               Practice Note for Authorized Persons Buildings Department                                               225\n                         and Registered Structural Engineers\n\n\n\n      Ground Investigation Works in Scheduled Areas - Approval and Consent\n\n\n           Ground  investigation  in  the Scheduled Areas  is building works and\nrequires approval and consent under the Buildings Ordinance.\n\nConcurrent Processing of Applications"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          Procedures  are  in  place  in  Buildings  Department  for  concurrent\nprocessing  of  applications  for  approval and  consent  in  respect  of new ground\ninvestigation works in the Scheduled Areas.\n\nProcedures"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 94
+        },
+        {
+          "label": "b",
+          "offset": 211
+        }
+      ],
+      "text": "3.              If you wish to take advantage of the concurrent processing option, you\nshould\n\n        (a)   submit  a  site  supervision  plan  together  with  the ground\n              investigation plans; and\n\n        (b)   indicate  in  your  covering  letter  that you  wish  to  take\n            advantage of the concurrent processing option and submit an\n             application for consent after the 32nd day of the submission\n             of plans for approval.\n\n\n\n\n\n                                                                      ( H W CHEUNG )\n                                                      Building Authority\n\n\n\n\nRef :  GR/1-50/74/0\n\nFirst issue July 1998\nThis revision February 2006 [AD/NB2 and Deputy Head of GEO (Island)]\n                            (Paragraph 3(a) revised)\n\nIndex under : Ground Investigation in Scheduled Areas"
+    }
+  ]
+}

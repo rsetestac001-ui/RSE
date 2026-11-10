@@ -1,0 +1,46 @@
+{
+  "code": "ADV-025",
+  "source_text": "indexed_text/PNAP/ADV/ADV-025.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-025.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers   ADV-25\n\n                               Practice Note for Authorized Persons Buildings Department                                               285\n                         and Registered Structural Engineers\n\n\n\n                  Extractor Fans in Bathrooms and Lavatories\n                                in Domestic Buildings\n\n\n               Extractor fans are commonly fitted in the bathrooms and lavatories of\ndomestic flats. According to an investigation finding, an over-capacity extractor fan,\ncoupled with insufficient supply of fresh air to a bathroom, is thought to be one of the\nmany factors that may have contributed to the spread of Severe Acute Respiratory\nSyndrome at Amoy Gardens."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         Where mechanical ventilation in the form of extractor fan is provided in\nbathrooms and lavatories, care should be taken to ensure that plumbing seals are intact\nand operate according to the design intent.  In addition, consideration should be given\nto the quality and quantity of air intake, air-flow path and fan capacity."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The Environmental Health Team of the World Health Organisation\n(WHO) has advised that the optimum volume for bathroom ventilation is 2 cfm/sq ft\n(10.2 l/s per sq. metre). WHO is of the view that a larger volume does not add much\non the comfort side and has the hidden risk of building up negative pressure in the\nroom."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.           Authorized  persons  are recommended  to  provide  an  opening  to\nbathrooms and lavatories for air relief, such as an undercut to the door or an opening\nwith louvre at the door or wall, in order to minimise the build-up of negative pressure\nin case an extractor fan is provided for ventilation. The airflow path created should\navoid circuiting of the ingress and exhaust air.\n\n\n\n\n\n                                                                      ( Marco M H WU )\n                                                      Building Authority\n\n\n\nRef. : BD GP/BREG/P/18 (V)\n\nFirst issue March 2004 (AD/NB1)\n\nIndex under :  Bathrooms\n               Lavatories windows\n               Extractor fan"
+    }
+  ]
+}

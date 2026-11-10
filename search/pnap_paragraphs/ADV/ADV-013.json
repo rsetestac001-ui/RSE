@@ -1,0 +1,44 @@
+{
+  "code": "ADV-013",
+  "source_text": "indexed_text/PNAP/ADV/ADV-013.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-013.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers   ADV-13\n\n                               Practice Note for Authorized Persons Buildings Department                                               197\n                         and Registered Structural Engineers\n\n\n\n         Application for Excavation Permit for Works on Public Road -\n                  Circulation of Proposal to Utility Undertakers\n\n\nIntroduction\n\n             For any excavation for building works, such as sheet-piling, trial pits,\nground investigation works and erection/demolition of hoardings, covered walkways\nand  gantries,  to be  carried  out on  public  roads  maintained by  the Highways\nDepartment (HyD), an Excavation Permit from the Director of Highways is required\nunder section 10 of the Land (Miscellaneous Provisions) Ordinance (Chapter 28).\nFailure  to  obtain  the  necessary  permit would  constitute an  offence  under  the\nOrdinance.\n\nProtection of Public Utilities"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.       A considerable number of cases have been reported on damage to\npublic utilities caused by excavation on public roads. This damage arose as a result\nof failure to identify the location of utilities beneath the roads or to take necessary\nprecautions prior to commencement of the works. In order to prevent possible\ndamage to underground public utilities; to allow ample time for utility undertakers\nto  disconnect  utility  services  in  case  of demolition works; and  to  carry  out\nassociated road works in a properly co-ordinated manner, HyD will  reject an\napplication for Excavation Permit if it is not accompanied by documentary evidence\nthat advance notices of the intended works have been circulated to  all relevant\nutility undertakers and that their requirements have been properly responded to. A\nlist of utility undertakers  is shown in Table 1 of Appendix A to Conditions of\nExcavation Permit attached to the Excavation Permit Processing Manual of HyD\nand     may      be      downloaded        at     HyD’s     web        site\n(http://www.hyd.gov.hk/eng/public/publications/xppm/index.htm).\n\nPrecaution"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            In addition to obtaining the required Excavation Permit, APs, RSEs and\nRGEs should also note that as a precaution, suitable investigations (eg hand-dug trial\npits) to ascertain the exact position of the utilities in the vicinity should be carried out\nbefore using any heavy plant for road excavation to avoid damage to public utilities.\n\n\n\n\n\n                                                                            ( AU Choi-kai )\n                                                         Building Authority"
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n\nRef. : BD GP/BREG/C/31\n    BD GP/BREG/P/16 Pt V\n\nFirst issued August 1996\nThis revision February 2009 (AD/NB1)  (Paras. 1, 2 & 5 amended, paras. 3 & 4\n                                      and Appendix A deleted)\n\n\nIndex under : Excavation works on public road\n              Public road - excavation works\n             Excavation permit"
+    }
+  ]
+}

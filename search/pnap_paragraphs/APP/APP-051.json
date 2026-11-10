@@ -1,0 +1,265 @@
+{
+  "code": "APP-051",
+  "source_text": "indexed_text/PNAP/APP/APP-051.txt",
+  "source_pdf": "documents/PNAP/APP/APP-051.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\n           Persons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-51\n\n                                    PRACTICE NOTE FOR AUTHORIZED PERSONS\n         BUILDINGS ORDINANCE OFFICE                                 AND REGISTERED STRUCTURAL ENGINEERS  137\n\n\n                          Monitoring and Maintenance of Horizontal Drains\n\n\n----                     This Practice Note encloses a guidance note (Appendix A) on the monitoring\n          and maintenance of horizontal drains installed in connection with any building works.   It\n           amplifies the relevant parts of Chapters 4 and 11 of the Geotechnical Manual for Slopes\n          (Second Edition).\n\n         Drainage Works in Scheduled Area No. 1"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           Maintenance of horizontal drains installed in the Mid-levels area (specified as\n          Scheduled Area No. 1 in the Fifth Schedule of the Buildings Ordinance)  is subject to\n            additional control under Buildings Ordinance section 28A to 28D.\n\n         Other Drainage Works"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            In areas outside the Scheduled Area No. 1, the use of horizontal drains which\n           require specific long-term maintenance in situations where there is a significant risk to life\n            will  only be approved where  a  positive  undertaking  is  received  that  the  necessary\n          maintenance will be carried out to ensure their continued effectiveness."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.            Since private developments are normally subject to change of ownership, it is\n           envisaged that an acceptable undertaking could only be given in rare cases such as where a\n          major private body undertakes a development for its own specific purposes and  it can be\n           accepted that the ownership will not change.\n\n\n\n\n\n                                                       (A.G. Eason)\n                                                           Building Authority\n\n\n\n           Ref. : BLD(B) GR/GEO/7\n\n           Issued November 1990 (GGE)\n\n          Index under : Horizontal Drains"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "Appendix A\n\n                               Guidance Note\n                                   on\n                Monitoring and Maintenance of Horizontal Drains\n\nIntroduction"
+    },
+    {
+      "id": "p1-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "1.            Horizontal drains are installed in both rock and soil slopes in Hong Kong.\nThe drains  installed  in rock slopes are  typically short and are used mainly  to drain\nindividual rock joints or local areas of groundwater seepage.  Longer drains tend to be\ninstalled in soil and mixed rock/soil slopes, usually with the aim of achieving an overall\nreduction  in groundwater  pressures within  the  slope.   This guidance note  is mainly\nconcerned with the latter type of drains."
+    },
+    {
+      "id": "p2-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "2.       A horizontal drain system can be an effective slope stabilization measure\nprovided that due care is given to design requirements and construction methods.  Even\nwhere such care has been exercised, it is important to ensure that the system will perform\nsatisfactorily in the long term by carrying out appropriate monitoring and maintenance\nschemes.  The cost of monitoring and a commitment to long-term maintenance should be\nconsidered at the preliminary design stage in comparison with other stabilization measures\nbefore deciding whether to adopt a horizontal drain system."
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The procedures described here are intended to cover horizontal drain systems\nthat are designed to lower groundwater pressures so that the required factor of safety of a\nslope can be achieved (Geotechnical Manual for Slopes, Second Edition.  Tables 5.1 &\n5.4). These procedures need not be followed for other drain systems, but regular inspection\nand maintenance should still be carried out."
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         To ensure satisfactory performance of a horizontal drain system, the designer\nof the system should be closely involved with the monitoring and should prepare a suitable\nprogramme   of   maintenance.     The   maintenance   authority   should   appoint   a\nsuitably-experienced maintenance officer to be responsible for compiling the maintenance\ninspection records.  If the maintenance authority has any reason to believe that the system is\nnot performing effectively, this should be brought to the attention of the designer without\ndelay.  This approach is consistent with the more general guidance on slope maintenance\ngiven in Chapter 11 of the Geotechnical Manual for Slopes\n\nMonitoring Requirements"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.         As  part  of  the  initial  design  stage,  the  designer  should  devise  an\ninstrumentation scheme which is suitable for the project, including the type, number and\nlocation of piezometers for groundwater monitoring and the techniques to be used for drain\nflow measurement.  Allowance should be made for the maintenance and replacement of\ndefective instruments within the contract and for any subsequent period when instrument\nmonitoring is likely to be required. The piezometers should be installed at an early stage.\npreferably at the same time as the ground investigation for the design of the horizontal drain\nsystem  is carried out.  Open hydraulic piezometers are commonly used for long-term\nobservation (GEOGUIDE 2  : Guide to Site Investigation, Section 20.2.3).  `Halcrow\nbuckets' are often installed in the piezometer tubing to detect the highest piezometric level\nthat has occurred in the period since the last reading.  For a large drain installation, the\nwater from individual drains may he conducted to a single point through a system of pipes\nand channels to facilitate drain flow measurement.\n                                                    Cont’d/…………."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "-2-"
+    },
+    {
+      "id": "p6-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          The monitoring of piezometric levels and drain flow rates should be carried\nout at least once every two months during the dry season and weekly during the wet season.\nThe latter should be carried out within two days of any heavy rainstorm (for example,\nrainfall >100 mm in 24 hours).  All drains and piezometers on the site should monitored.\nThe need  for  frequent  site  visits and manual  monitoring can be  avoided by  using\ncomputerized automatic recording systems, but before adopting such a system the designer\nshould consider carefully his requirements in relation to the cost and necessary support\nservices."
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          The monitoring of piezometric levels should start at the earliest stage and\nshould preferably cover two wet seasons before the design  is finalized.   If this  is not\npossible, then the results from continuing monitoring during the period of design and\npreparation of tender documents should be used to make a final review of the design. The\ndata should be used to establish the `base groundwater levels' in the wet and dry seasons\nprior to drain installation. The monitoring of both piezometric levels and drain (low rates\nshould be carried out both during and after the installation of the system.  Monitoring\nshould be terminated in accordance with the procedures described in paragraph 13.  The\ndata obtained during construction may be used in an `observational approach' to design,\nwhereby the design parameters, such as the spacing of the drains, are modified during\nconstruction in accordance with the monitoring  results.   This approach  is particularly\nhelpful for horizontal drain installation because the performance of individual drains  is\nsensitive to the heterogeneous nature of the ground conditions commonly encountered in\nHong Kong."
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "8.             Particular  attention should be given  in monitoring programmes  to cases\nwhere  the  existing  groundwater  regime may  be  modified  significantly  by  adjacent\ndevelopment or pumping works.\n\nEvaluation of Drain Performance"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 215
+        },
+        {
+          "label": "b",
+          "offset": 355
+        },
+        {
+          "label": "c",
+          "offset": 491
+        },
+        {
+          "label": "d",
+          "offset": 630
+        }
+      ],
+      "text": "9.          The  effectiveness  of  a  horizontal  drain  system  should  be  gauged by\nconsidering,  in  descending  order  of  significance,  the  following  aspects  of  overall\ngroundwater response at the site:\n\n        (a)     the piezometric levels after drain installation should not rise above\n               the design level in heavy rainstorms,\n\n        (b)     the `base groundwater  level'  after drain  installation should be\n             lower than the pre-installation value,\n\n        (c)     the range of groundwater fluctuations (storm response) should be\n             lower than the pre-installation values, and\n\n        (d)     the rate of drop of piezometric level after a rainstorm should be\n                faster than the  pre-installation  rate, with the  level returning  to\n             normal within & few days after the rainstorm."
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.           In addition to the above, drain flow rates due to similar rainfalls measured\nshortly after installation and subsequently after a long period of tine should also provide an\nindication of the long-term performance of the drains.\n                                                          Cont’d/……….."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "-3-"
+    },
+    {
+      "id": "p11-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "11.          Other factors which the designer should consider in the evaluation of drain\nperformance include the adequacy of the acquired data,  reliability of the design data\n(including the assumed groundwater conditions), the number of heavy rainstorms during the\nmonitoring period, and the degree of contribution of the drains to the calculated factor of\nsafety.\n\nTermination of Monitoring"
+    },
+    {
+      "id": "p12-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "12.         The  designer  should  plan  groundwater  monitoring  with  the  object  of\nassessing the effectiveness of a horizontal drain system before the end of the Contract\nMaintenance period.  However, monitoring should be continued beyond this period if the\ndesigner considers  it necessary on  the  basis  of  the  criteria given above.  Once  the\neffectiveness of the system has been fully assessed, the designer should then decide either to\nterminate the monitoring if he is satisfied with the performance, or to recommend remedial\nmeasures if he considers that the system is not performing effectively.  If remedial works\nare to be carried out, monitoring of piezometers and drain flows should continue in order to\ngauge the effectiveness of the improved new system. Further remedial works may be\nnecessary. This process should be continued until the designer is satisfied that the system is\nperforming effectively."
+    },
+    {
+      "id": "p13-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "13.           Subsequently,  if  there  is  observational  evidence  of  possible  substantial\nchanges in existing groundwater conditions (for example, large variation in drain flows,\nsigns of new surface seepage), this should be brought to the attention of the designer by the\nmaintenance authority.  The designer can then assess whether the monitoring should be\nreactivated.\n\nMaintenance Requirements"
+    },
+    {
+      "id": "p14-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "14.          Regular maintenance of horizontal drains  is required to ensure that they\nfunction properly and do not become clogged.  Materials likely to close drains are organic\nelements (plant roots, fungi or algae), fines washed out of   the surrounding soils, and\nprecipitates of calcium, magnesium, iron and other compounds.  In most cases, flushing\nwith a clean water jet under controlled pressure should be adequate to restore the drain\nfunction.  If soil deposits have dried up in the drain, then it is necessary to brush the drain\nduring the flushing. Cleaning of the drain should commence from the deep end and proceed\ntoward its outlet.  This process should be repeated until the water flowing out of the drain\nappears clean."
+    },
+    {
+      "id": "p15-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "15.         The programme of maintenance and the `as built' details of the drain system\nshould he prepared by  the  designer and handed over  to  the maintenance  authority.\nMaintenance  of  the  drains  should be  carried  out  at  least once  during  the  Contract\nMaintenance period and then once  annually.  The maintenance work should  include\ninspection of the drains and surroundings, removal of weeds, clearing of  outlets and\nflushing the drains with a water jet (as described above).  In addition, if the drains contain\nremovable inner liners, these should be replaced where considered necessary on the basis of\nthe site inspection, the flushing operations and previous observations (for example, where\nthe drains are found to be blocked or where drain flows are substantially reduced).  All the\ndrains at the site should be examined and maintained. A record of the observations made in\nthe maintenance inspections and details of the work done should be kept tor future reference\nin the maintenance inspection record. A note should also be made in the maintenance\n                                                      Cont’d/………"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "-4-\n\ninspection record if any significant changes in drain flows or new areas of surface seepage\nare observed (see paragraph 14).   If large increases in flow are recorded the discharge\nshould be tested and the surrounding area inspected to assess whether the water originates\nfrom leaking services.  If this appears to be the case, the appropriate authority should be\nnotified and requested to trace and repair the leak."
+    },
+    {
+      "id": "p16-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "16.           In some special cases (for example, an extensive drain system in a natural\nhillslope where access to the outlet locations is difficult), a more cost-effective maintenance\nplan may consist of monitoring the effectiveness of the system using permanently-installed\npiezometers, and carrying out the cleaning and flushing of drains only  if shown to be\nnecessary by the monitoring.  Routine inspections and clearing of the drain outlets should\nstill be carried out regularly."
+    },
+    {
+      "id": "p17-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "17.           In all cases, it is necessary for a suitably-experienced maintenance officer to\nexamine the system when the annual maintenance is being carried out.  This will enable\nproblems to be identified and corrected at an early stage.\n\n\n\n\n\nRef. : PNAP:137\n\nIssued November 1990 (GGE)"
+    }
+  ]
+}

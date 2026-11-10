@@ -1,0 +1,77 @@
+{
+  "code": "APP-150",
+  "source_text": "indexed_text/PNAP/APP/APP-150.txt",
+  "source_pdf": "documents/PNAP/APP/APP-150.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department        Registered Structural Engineers and     APP-150\n                             Registered Geotechnical Engineers\n\n\n\n                Wholesale Conversion of Industrial Buildings\n\n\n           The Government has implemented a package of measures to encourage\nthe  revitalisation of existing industrial buildings through wholesale conversion of\nvacant or under-utilised industrial buildings.  Details of the measures are promulgated\nin the practice notes issued by the Lands Department (which can be downloaded from\nits website http://www.landsd.gov.hk).\n\nGreen Building Designs in Wholesale Conversion of Industrial Buildings"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          Compared with building redevelopment, wholesale conversion of vacant\nor under-utilised industrial buildings is in itself a sustainable way to reduce waste and\nconserve natural resources.  Greater environmental benefits can be obtained  if the\nowners adopt green building designs and practices when carrying out the conversion\nworks."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 712
+        }
+      ],
+      "text": "3.            In handling alteration and addition (A&A) proposals for the wholesale\nconversion of existing industrial buildings, the Building Authority (BA) would adopt a\npragmatic approach when considering applications for modification of or exemption\nfrom various building regulations in view of the constraints posed by the original\ndesign of the existing building. To encourage green building designs and practices,\nprovision of green and/or energy efficient features to revitalised industrial buildings\nwill be a relevant factor in support of the granting of modification of or exemption from\ncertain specific regulations. Examples relating to applications for such modification /\nexemption are as follows:\n\n          (i)      If a refuge floor is required to be provided in accordance with\n              the Code of Practice for Fire Safety in Buildings 2011 (the FS\n            Code) for the proposed conversion but there is difficulty or site\n               constraint to comply with the technical requirements of the FS\n            Code, proposal for the provision of a refuge floor with greenery\n             design and enhanced fire service installations will be favourably\n             considered subject to no adverse comments from the Director of\n              Fire Services. PNAP APP-122 is relevant.\n\n          (ii)    In the case of conversion to office use, if there are difficulties in\n             providing the required natural lighting and ventilation due to\n               constraints posed by the original design as industrial building,\n              application for modification of Regulations 30 and 31 of the\n             Building (Planning) Regulations (B(P)R) will be favourably\n             considered   subject   to  adequate   artificial   lighting  and\n            mechanical  ventilation  and  energy  efficient  design  that\n\n\n                                                                          /could …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n\n             could achieve 40% in the categories of Energy Use (EU) and\n             Indoor Environmental Quality (IEQ) under the BEAM Plus\n               Certification  conferred by  the Hong Kong Green  Building\n             Council being incorporated in the proposal. PNAP APP-130 is\n               relevant.\n\n          (iii)   For individual air-conditioning boxes / platforms attached to the\n              external walls with projection larger than the usually accepted\n               size and/or projection over street, application for modification /\n            exemption  will be favourably considered  if the proposal  is\n              incorporated with the use of energy efficient / environmentally\n               friendly air-conditioning units. PNAP APP-19 is relevant.\n\n        (iv)   For the provision of curtain walls to existing building facades,\n            exemption from section 31(1) of the Buildings Ordinance to\n             allow the curtain walls to project over streets will be favourably\n             considered  if  low-energy  absorbent  type  glazing   /  energy\n                efficient materials with energy efficient design of the curtain\n              walls that could achieve 40% in the categories of EU and IEQ\n             under the BEAM Plus Certification conferred by the Hong Kong\n            Green Building Council are incorporated in the proposal. PNAP\n           APP-2 is relevant.\n\nOther Measures  to  Facilitate Wholesale or Partial Conversion of Industrial\nBuildings"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         To dovetail with the policy measures on wholesale conversion of existing\nindustrial buildings, the Buildings Department has reviewed the relevant requirements\nunder the B(P)R for setting up places of public entertainment (PPE) in non-domestic\nbuildings, and the revised requirements have been incorporated in Clauses B19.2 and\nB20.9 of the FS Code."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.           Proposed conversion (whether by wholesale or partial) of an existing\nindustrial building to facilities requiring special electrical and mechanical installations\n(the ‘facilities’), such as in a data centre, may involve the construction of additional\ntransformer rooms or other mandatory features or essential plant rooms 1.   If the\nproposed conversion would result in certain covered carparking spaces shown on the\napproved building plans of the original industrial building becoming redundant and\nsuch carparking spaces had previously been disregarded from the gross floor area\n(GFA)  calculation under Regulation  23(3)(b)  of  the B(P)R, any  application  for\nmodification of Regulation 23(3)(a) of the B(P)R to convert such redundant carparking\nspaces to additional transformer rooms or other mandatory features or essential plant\nrooms will be favourably considered according to its special circumstances and subject\nto favourable comments from relevant Government departments. A letter of undertaking\nby the registered owner of the premises and the operator of the facilities should be\n\n                                                                       /submitted …\n\n\n1 Reference should be made to Appendix A to PNAP APP-151 regarding the types of mandatory\n   features and essential plant rooms."
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n\n\nsubmitted together with the requisite justifications at the building plan submission\nstage.  Such letter should include an undertaking that when the facilities, wholly or\npartially, have ceased operation and the premises reverted  to  industrial  use, the\ncorresponding additional plant rooms will be demolished and such floor spaces will be\nreinstated as carparking spaces in accordance with the approved plans of the original\nindustrial building.\n\n\n\n\n\n                                                                        ( AU Choi-kai )\n                                                     Building Authority\n\n\n\n\nRef. : BD GP/BORD/19/1(IV)\n\nFirst issue    September 2010\nThis revision  June 2013 (AD/NB1) (Paras. 1, 3 and 4 amended and para. 5 added)"
+    }
+  ]
+}

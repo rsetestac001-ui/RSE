@@ -1,0 +1,57 @@
+{
+  "code": "APP-083",
+  "source_text": "indexed_text/PNAP/APP/APP-083.txt",
+  "source_pdf": "documents/PNAP/APP/APP-083.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department        Registered Structural Engineers and     APP-83\n                             Registered Geotechnical Engineers\n\n\n\n            Amendments and clarification to Code of Practice\n                       for Fire Resisting Construction 1996\n\n            The following corrigenda therein are required for the January 1996 edition\nof the Code of Practice for Fire Resisting Construction 1996 (FRC Code) which have\nbeen incorporated in the reprints of the FRC Code after 1996:-\n\n          (i)   On page 9, in the fourth line of paragraph 7.2, \"but in no case less\n              than 2 “hours” should be deleted.\n\n          (ii)   On page 18, at the end of paragraph 17.2, the following diagram\n             should be added :\n\n\n                    FIRE DOOR\n             TO BE KEPT CLOSED\n\n            防 火 門\n            應 常 關\n\n\n          (iii)    In Table C on page 24, the concrete cover to all reinforcement\n              required to provide 2 hrs. FRP to continuous floors and landings\n              of solid reinforced concrete construction should read \"25 mm\"\n               instead of \"40 mm\"."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 89
+        }
+      ],
+      "text": "2.          The following corrigenda are required for the FRC Code reprinted after\n1996:\n\n          (i)   On page 10, paragraph 10.1 is revised as follows:\n\n              “10.1  Openings may be made  in compartment  walls  for\n                   communication,  but  not  combination,  of  adjoining\n                    compartments,  provided  that  any  such  opening  is\n                      protected by a door or a  fire  shutter with FRP as\n                       stipulated below:\n\n                        (a)   If the total width of the openings is not more than\n                  25%  of  the  length  of  the compartment  walls\n                          concerned, the door or fire shutter should have the\n                      same FRP as such compartment walls with regard\n                             to the criterion of integrity only; and\n                                                                                         /(b) ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n                       (b)   If the total width of the openings is more than 25%\n                           of the length of the compartment walls concerned,\n                            the door or fire shutter should have the same FRP\n                           as such compartment walls with regard to the\n                                criteria of integrity and insulation. Such FRP with\n                          regard to the criterion of insulation can be reduced\n                             to 30 minutes  if additional sprinkler heads are\n                         provided on each side of the doors or fire shutters\n                       and complying with the following requirements:\n\n                             (1)  The additional sprinkler heads should be a\n                                   part of the sprinkler system of the building\n                            and should comply with the Code of Practice\n                                   for Minimum Fire Service Installations and\n                             Equipment; and\n\n                             (2)  The layout/array of the additional sprinkler\n                              heads should be provided to substantiate the\n                                       full coverage of each side of the door or fire\n                                   shutter by  sprinklers and  the  spacing  of\n                                  sprinkler heads should also comply with the\n                      LPC   Rules    incorporating   BS  EN\n                              12845:2003.”\n\n             This paragraph is applicable to buildings or building works with\n              consent to the commencement of which obtained on or after 18\n            August 2011 (the date on which the last revision of this practice\n              note was issued). For the avoidance of doubt, in respect of new\n               buildings, the relevant consent refers to the consent to the\n           commencement of foundation works of such buildings; and in\n               respect of alterations and additions works, the relevant consent\n                refers to the consent to the commencement of such works.\n\n          (ii)   On page 14 in the fourth line, add “with an FRP as described in\n                    (iii) above” after the word “located”.\n\n          (iii)  On page 32 in the fifth line from the bottom, replace “fixed\n                light;” with “fixed light with FRP ≥ ½ FRPe;”.\n\n3            For the avoidance of doubt, a raised floor at a height of not more than 600\nmm from the structural floor is not an element of construction and does not require an\nFRP.  Authorized persons are reminded that the compartment walls and other fire\nseparation walls should start from the structural floor and not just rest on the raised floor."
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          The updated version of the FRC Code has been uploaded to the Buildings\nDepartment’s website at www.bd.gov.hk.\n\n\n\n\n                                                                        ( AU Choi-kai )\n                                                     Building Authority"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n\n\nRef. : BD GP/BREG/C/19/L (VII)\n    BD GP/BREG/C/19(IV)\n\nThis PNAP is previously known as PNAP 199\nFirst issue August 1996\nLast revision August 2011\nThis revision November 2012 (AD/NB1) (para. 2(i) amended)"
+    }
+  ]
+}

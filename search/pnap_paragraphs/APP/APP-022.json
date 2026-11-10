@@ -1,0 +1,105 @@
+{
+  "code": "APP-022",
+  "source_text": "indexed_text/PNAP/APP/APP-022.txt",
+  "source_pdf": "documents/PNAP/APP/APP-022.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-22\n\n                                     Practice Note for Authorized Persons\n  Buildings Department                                                   74                              and Registered Structural Engineers\n\n                             Dewatering in Foundation\n                        and Basement Excavation Works\n\n             Dewatering may  result from works  or may be  part  of  the method  for\nconstructing foundations and basement excavations. The procedures for dewatering activities\nand precautionary measures against impairing the stability and causing undue settlement of any\nadjoining buildings, streets and land should be to the satisfaction of the Building Authority\n(BA)."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 113
+        },
+        {
+          "label": "b",
+          "offset": 305
+        },
+        {
+          "label": "c",
+          "offset": 445
+        },
+        {
+          "label": "d",
+          "offset": 507
+        }
+      ],
+      "text": "2.          The following information should be included on the plans for submission to\nthe Building Authority :\n\n        (a)     the foundation  details of  adjoining  buildings and  details of\n             nearby underground utilities (e.g. fresh water pipe, gas main,\n             sewer and the like);\n\n        (b)     details of the dewatering proposals including ground treatment,\n                    if any (e.g. grouting and recharging);\n\n        (c)     the method and sequence of construction; and\n\n        (d)     the location and details of instrumentation for monitoring the\n                effects of  the works on adjoining buildings, streets and land\n               (including  the  change  in  ground  water  conditions  in  the\n               adjoining   ground)   during   construction,   together   with\n              information on --\n\n                    (i)      criteria for limiting movements and groundwater\n                      pressures and action to be taken if these limiting\n                      values are reached;\n\n                     (ii)     intervals between readings; and\n\n                     (iii)    availability of monitoring records."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 75
+        }
+      ],
+      "text": "3.          The following information should be submitted with the plans :\n\n        (a)   A site investigation report\n\n              This report should include adequate information on groundwater\n             and    geological    conditions    including    permeability,\n               compressibility and consolidation characteristics of the various\n                 soil strata, particle size  analyses and other test results relevant\n                to consideration of the dewatering   activities and preventive\n             measures against settlement;\n                                                                                        /(b) A report ...."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "-  2  -\n\n        (b)   A report on the conditions of adjoining buildings\n\n              This  report  should  give  information on  the  structure and\n               conditions of  all adjoining buildings  that may be adversely\n               affected by the proposed works;\n\n        (c)    Shoring/Underpinning details\n\n             These details are to be submitted if any adjoining building need\n              shoring/underpinning precautions; and\n\n        (d)    Assessment of excavation and dewatering effects\n\n              This assessment on the adjoining buildings, streets and land\n              should include the criteria for limiting movements and the like,\n               as mentioned in paragraph 2(d)(i) above."
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 193
+        },
+        {
+          "label": "b",
+          "offset": 395
+        }
+      ],
+      "text": "4.           During  the  foundation and basement  construction works,  the  authorized\nperson/registered structural engineer appointed for the works should supervise and inspect as\nnecessary:\n\n        (a)     to ensure that such works are being carried out in accordance\n              with the provisions of the Buildings Ordinance and Regulations\n             and with the approved plans; and\n\n        (b)     to  verify the design assumptions throughout the process of\n               construction. A suitably experienced full-time supervisor should\n             be employed where necessary."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            Piezometric and settlement monitoring records should be made available at all\ntimes and copies submitted to the BA periodically."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           These requirements are not exhaustive.   Please also refer to the relevant\nsections on groundwater and drawdown  control  in  the General  Specification  for  Civil\nEngineering Works published by the Civil Engineering Department and to BS 8004:1986\nBritish Standard Code of Practice for Foundations.\n\n\n\n\n                                                    (Helen C P Lai YU)\n                                                        Building Authority\nRef. : BD GP/BREG/C/14\n\nFirst issued February 1981\nThis revision May 1994 (AD/SE)\n\nIndex under : Basement - Dewatering in Excavation Works\n             Dewatering in Foundation and Basement Excavation Works\n              Excavation Works - Dewatering"
+    }
+  ]
+}

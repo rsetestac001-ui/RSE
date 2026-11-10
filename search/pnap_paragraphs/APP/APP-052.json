@@ -1,0 +1,59 @@
+{
+  "code": "APP-052",
+  "source_text": "indexed_text/PNAP/APP/APP-052.txt",
+  "source_pdf": "documents/PNAP/APP/APP-052.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department       Registered Structural Engineers and      APP-52\n                             Registered Geotechnical Engineers\n\n\n\n            Supply of Plans to Registered General Building Contractors,\n      Registered Specialist Contractors and Registered Minor Works Contractors\n            Regulation 36 of the Building (Administration) Regulations and\n                 Section 55 of the Building (Minor Works) Regulation\n\n\n            Under Regulation 36 of the Building (Administration) Regulations [B(A)R], it\nis the duty of the authorized person (AP) appointed for any building works or street works to\nsupply  to  the  registered  general  building  contractor (RGBC),  the  registered  specialist\ncontractor (RSC) and the registered minor works contractor (RMWC): -\n\n        (a)    a copy  of  plans approved by  the  Building  Authority  in\n              accordance with Regulation 30 of the B(A)R;\n\n        (b)    a  copy  of  structural  details  prepared  by  the  registered\n                structural engineer and approved by the Building Authority;\n             and\n\n        (c)    a copy of any supervision plan."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            Legal advice has confirmed that only a copy need be supplied to the RGBC,\nRSC and RMWC. However, the copy of approved plans should be an exact reproduction of\nthe plans as approved, stamped, signed and dated by the Building Authority."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           While the regulation does not specify the time within which a copy of the\nplans should be supplied, it is imperative that APs supply copies of the latest plans promptly\nin order that the RGBC, RSC and RMWC can carry out continuous supervision of the works\nproperly."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 236
+        }
+      ],
+      "text": "4.          Under section 55 of the Building (Minor Works) Regulation [B(MW)R], it is\nalso the duty of the AP appointed for any Class I minor works to deliver to the prescribed\nregistered contractor appointed in respect of the works: -\n\n        (a)    a copy of the prescribed plans and details submitted under\n               section 30(c) of the B(MW)R; and\n\n                                                                                            /(b)  ….."
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n\n        (b)      if required by the  technical memorandum, a copy of the\n               supervision plan submitted under section 30(d) or 48(2)(b) or\n                (3)(b) of the B(MW)R.\n\n\n\n\n\n                                                                              ( AU Choi-kai )\n                                                             Building Authority\n\n\n\nRef. : BD GP/BREG/A/17\n\nThis PNAP is previously known as PNAP 139\nFirst issue    December 1990\nLast revision  August 2001\nThis revision  December 2010 (AD/Sup) – General revisions"
+    }
+  ]
+}

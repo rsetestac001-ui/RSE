@@ -1,0 +1,88 @@
+{
+  "code": "APP-047",
+  "source_text": "indexed_text/PNAP/APP/APP-047.txt",
+  "source_pdf": "documents/PNAP/APP/APP-047.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department       Registered Structural Engineers and     APP-47\n                             Registered Geotechnical Engineers\n\n\n                   Unauthorized Alterations and Additions\n                        Buildings Ordinance Section 14\n\n\n             There may be occasions when  clients approach authorized persons,\nregistered structural engineers or registered geotechnical engineers to submit plans for\nbuilding works already completed.  This advises you on the action that the Building\nAuthority (BA) would take if such plans were submitted.\n\nNo Retrospective Approval"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The BA has no powers to give retrospective approval or consent for\nunauthorized building works (UBW).  Except for minor works commenced under the\nsimplified  requirements and  building works exempted under  section 41  of  the\nBuildings Ordinance (BO), no person shall commence or carry out any building works\nwithout having first obtained the approval and consent of the BA pursuant to BO\ns14(1). BO s42(5) further provides that the powers of exemption are not applicable to\nsection 14."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            In addition, pursuant to the inspection and certification of prescribed\nbuilding or building works (commonly known as ‘Household Minor Works Validation\nScheme’) under BO s39C, which come into operation on 31 December 2010, the\nprescribed building or building works, which are stipulated in Schedule 3 of the Building\n(Minor Works) Regulation, completed or carried out before 31 December 2010 may be\ncertified upon inspection and retained for use. Owners of them may appoint building\nprofessionals or contractors under BO s39C(2) to carry out inspection (and for some\nminor works, alteration, rectification or reinforcement  if required) and certify them\nunder section 62 of the Building (Minor Works) Regulation. Upon such certification,\nthe BA shall not serve a removal order under BO s24 or a warning notice under BO\ns24C in respect of the subject prescribed building or building works on the ground\nthat they had been completed or carried out in contravention of BO s14(1). However,\nthe legal status of such building or building works will remain unchanged (i.e. they\nwill remain unauthorized) and the BA may take appropriate actions under the BO if\ntheir safety conditions have changed and become dangerous.\n\n\nPowers of Disapproval"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 167
+        }
+      ],
+      "text": "4.           For plans of building works already completed (other than minor\nworks under the simplified requirements), the BA's position under the BO  is as\nfollows :\n\n        (a)    The submission will be rejected under section 16(1)(a) as it is\n              not  a  proposal  for  approval  and  consent  prior  to  the\n           commencement of works.\n\n                                                                                             /(b)....."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n        (b)    The same will also be rejected under section 16(1)(c) because of\n               the nature of the application in the Form BA 5 or BA 17, which\n                relates to an application for building works “to be carried out”\n              or  for  permission  “to  erect”  respectively.     It  is  not  an\n               application  for  approval and  consent  to  structures  already\n               erected.\n\n        (c)    Furthermore,  if the submission  is the subject of an effective\n              demolition order, it will be rejected under section 16(1)(d) for\n              contravening the said order.\n\nAdvice to Clients"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 439
+        },
+        {
+          "label": "b",
+          "offset": 562
+        }
+      ],
+      "text": "5.           Should a client contemplate pursuing building works (other than minor\nworks under the simplified requirements or exempted works) without first obtaining\napproval and consent, you should draw his attention to the need for prior approval of\nplans and consent for commencement.  The client should be firmly advised that\ncommencing or carrying out any such building works without prior approval and\nconsent may result in the BA :\n\n        (a)    serving an order under the BO requiring inter alia the demolition of\n             such building works; and\n\n        (b)    prosecuting under the BO Part IV. On conviction, the offender could\n              face a heavy fine and even a custodial sentence."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.            In case the building works to be carried out are minor works, the client\nshould be advised that the works can be carried out under the simplified requirements.\n\n\n\n\n\n                                                                            ( AU Choi-kai )\n                                                         Building Authority\n\nRef.: BD GP/BORD/18\n    BD GP/BOP/23\n\nThis PNAP is previously known as PNAP 125\nFirst issue    July 1987\nLast revision January 1996\nThis revision December 2010 (AD/Sup) – General revisions"
+    }
+  ]
+}

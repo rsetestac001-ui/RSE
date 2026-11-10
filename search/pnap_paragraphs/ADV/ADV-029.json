@@ -1,0 +1,69 @@
+{
+  "code": "ADV-029",
+  "source_text": "indexed_text/PNAP/ADV/ADV-029.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-029.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department    Registered Structural Engineers and       ADV-29\n                          Registered Geotechnical Engineers\n\n\n                           Construction Site Safety\n                        Pay for Safety Scheme\n\n\nIntroduction\n\n              Construction works may inevitably entail risky activities.  Responsible\ncontractors should adopt safe work practices and provide necessary precautionary\nmeasures to ensure construction sites under their charge are safe. Authorized persons,\nregistered structural engineers and registered geotechnical engineers are also required\nunder the Buildings Ordinance to ensure that building works under their supervisions\nare carried out in a safe manner."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           While relevant parties should comply with the requirements on site safety\nmonitoring under the Technical Memorandum for Supervision Plans and the Code of\nPractice for Site Supervision published by the Buildings Department, it is also important\nto integrate site safety into the overall management responsibilities, to promote safety\ntraining for all levels of the parties involved and to improve safety performance through\nprocurement and contractual arrangement.  As contractors are required to provide\ncontinuous site supervisions and have the most prominent legal obligations to assure\nconstruction site safety, they should have allowed in their tenders the cost of meeting\nsuch obligations.  However, if such costs are not distinctly identified as safety-related\nitems for pricing, valuation and payment, resources allocated for the proper provision of\nrelevant measures may be undermined, thus jeopardising site safety.\n\n\nPay for Safety Scheme"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           Pay for Safety Scheme (PFSS) introduced since 1996 specifically accords\nproper identity to the cost for construction site safety. Under the PFSS, an employer is\nobliged to pay the contractor upon the contractor’s satisfactory completion of the safety-\nrelated items including training, as vetted and certified by the employer’s representative,\nat the pre-priced rates set out in the Site Safety section in the Bills of Quantities or\nSchedule of Rates."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 46
+        }
+      ],
+      "text": "4.          The following links are relevant:\n\n          (a)   Construction  Site  Safety Manual  issued by  the Development\n            Bureau\n              (http://www.devb.gov.hk/en/publications_and_press_releases/publi\n               cations/construction_site_safety_manual/index.html);\n\n\n\n                                                                   /(b)…"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n          (b)   Factories  and  Industrial  Undertakings  (Safety  Management)\n              Regulation (Cap 59AF) (http://www.elegislation.gov.hk/);\n\n          (c)  The Real Estate Developers Association of Hong Kong and the\n           Hong  Kong  Construction   Association’s  Safety   Partnering\n            Programme (http://www.safetypartnering.com);\n\n          (d)  Guidelines on  the Adoption  of  the Pay  for  Safety Scheme\n              (http://www.cic.hk/cic_data/pdf/about_cic/publications/eng/PFSS_\n               eng_final.pdf)  and  Reference  Materials on  Construction  Site\n              Welfare, Health and Safety Measures (March 2017) (Chapter 7)\n               (http://www.cic.hk/cic_data/pdf/about_cic/publications/eng/referen\n              ce_materials/Site%20Welfare_booklet_e%20(final).pdf) published\n            by the Construction Industry Council; and\n\n          (e)   Safety training courses by the Occupational Safety and Health\n              Training     Centre     of      the     Labour     Department\n              (http://www.labour.gov.hk/eng/osh/content5.htm)            and\n             Occupational       Safety      and       Health       Council\n              (http://www.oshc.org.hk/eng/main/)."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            Authorized Persons are encouraged to recommend your clients to adopt\nthe PFSS in construction contracts so as to flourish a fair and equitable environment for\nthe contracting parties to handle site safety issues.\n\n\n\n\n\n                                (CHEUNG Tin-cheung)\n                                                  Building Authority\n\n\n\n\nRef. : BD GR/1-115/10\n\nThis PNAP is previously known as PNAP 298\nFirst issue March 2006\nThis revision August 2017 (AD/NB1) (Generally revamped)"
+    }
+  ]
+}

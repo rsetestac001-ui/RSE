@@ -1,0 +1,44 @@
+{
+  "code": "APP-085",
+  "source_text": "indexed_text/PNAP/APP/APP-085.txt",
+  "source_pdf": "documents/PNAP/APP/APP-085.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers        APP-85\n\n                                 Practice Note for Authorized Persons\nBuildings Department                          and Registered Structural Engineers             202\n\n\n\n                     Application of the Revised Fire Safety Codes\n\n\n            The Building Authority has updated and revised the three codes of practices\nrelating to fire safety in buildings. These codes are :\n\n             •  Code of Practice for Means of Access for Fire fighting and Rescue 1995\n\n             •  Code of Practice for Fire Resisting Construction 1996\n\n             •  Code of Practice for the Provision of Means of Escape in Case of Fire\n               1996\n\n\nApplication of the revised Codes"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            This practice note provides guidance on the application of the revised codes in\nsituations not explicitly stated in the relevant Ordinances or Regulations :-\n\n                    (i)     Alterations and additions in existing buildings\n\n                     Generally only  the  areas  affected by  the proposed  alteration and\n                       addition works (including shared exits) will need to comply with the\n                     requirements of the revised codes. The remaining parts of the building\n                      unaffected by the proposed works need not follow the revised codes.\n\n                    (ii)    Licencing of restaurants\n\n                      Similar to (i) above only the areas in a building subject to a new licence\n                       application will need to comply with the requirements of the revised\n                     codes.\n\n                     (iii)   Consent for works shown on plans approved prior to effective date\n                     of the revised Codes\n\n                   There is generally no objection to issue consent to commence building\n                  works shown on plans approved prior to the respective effective dates\n                      of the revised codes, provided that a consent   application  is made\n                      within two years of the date of approval and the application is in order\n                        in all other aspects.\n\n\n                                                                                                /(iv) .....\n\n                                     1"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "(iv)   Occupancy factor\n\n                     Buildings Department  will have no  objection  in  principle  to  the\n                    assessment of population in a submission of plans by using “head\n                    counts” in the premises where alteration works are proposed or in\n                   comparable  premises,  provided  that  the  authorized  person  could\n                    demonstrate  that  the  comparables  are  suitable  for  use  in  the\n                    circumstances  of  the  submission.   In  this  regard,  the  following\n                     considerations should be noted :\n\n                        (a)    Every  building   is  unique.    There  must  be   sufficient\n                           demonstration that the location, management, patronage, class,\n                            type and age of buildings etc. are similar; and\n\n                       (b)    For the design of a new building, it may be in the developer’s\n                                interest to use prescriptive value to assess population such that\n                             there will be sufficient margin to cater for future alterations and\n                           changes.\n\n\nFire Engineering Approach"
+    },
+    {
+      "id": "p2-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         The three codes of practice recently revised by the Building Authority contain\nprovisions for the adoption of Fire Engineering Approach as an alternative to complying with\nthe  prescriptive  provisions.   Guidelines on  the  administrative procedures  for making\nsubmissions to the Building Authority based on Fire Engineering Approach will be issued\nseparately.\n\n\n\n\n\n                                                                ( CHOI Yu-leuk )\n                                                  Building Authority\n\n\n\n\n\nRef                      :  BD GP/PREG/P/36\nFirst issued            :   October 1996 (AD/LM)\nIndex under            :  MOA\n                FRC\n              MOE\n                         Fire engineering approach\n\n\n\n\n\n                                    2"
+    }
+  ]
+}

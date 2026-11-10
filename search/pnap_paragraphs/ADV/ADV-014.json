@@ -1,0 +1,112 @@
+{
+  "code": "ADV-014",
+  "source_text": "indexed_text/PNAP/ADV/ADV-014.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-014.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department       Registered Structural Engineers and     ADV-14\n                             Registered Geotechnical Engineers\n\n\n\n           Facilities for External Inspection and Maintenance of Buildings\n\n\nIntroduction\n\n              Buildings do require inspection and maintenance or repair from time to\ntime throughout their life.  Many of the maintenance activities for the external building\nservices and building elements need to be carried out at height outside the external walls\nof a building.  Examples of these activities include maintenance and repair of external\ndrainage pipes, window cleansing, re-painting of walls, overhauling of finishes and\nrepairing of the fabric of the external structure.\n\nFacilities to be Provided"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.                 It is recognized that the availability of permanent access facilities would\nhelp to improve safety at work during external building maintenance.  Authorized\nPersons (APs) and Registered Structural Engineers (RSEs) are strongly advised to\nconsider, at the design stage of a project, incorporating such facilities for safe access to\nthe external walls of buildings.\n\nSuspended Working Platform"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         One of the common types of access  facilities takes the form of a\npermanent suspended access system comprising a working platform suspended on ropes\nfrom a securely mounted overhead structure.  Reference should be made to PNAP\nADV-11 on the construction and maintenance of suspended working platforms.\n\nGondola System (Suspended Working Platform)"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          The Construction Industry Council has identified gondola system as one\nof the desirable safety design features which would be effective in providing safe access\nto external walls.  APs and RSEs are strongly recommended to make provision for\ngondola system at the roof of new buildings, including residential projects, so that the\nworkers can safely carry out maintenance and repair works outside the external walls of\nthe  buildings  in  future.   Reference should be made  to PNAP ADV-11  for  the\ninstallation, use and maintenance of such system."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The design of gondola system to be installed at roof level of buildings\nshould comply with the following guidelines/considerations :\n\n       Planning Department’s considerations\n\n\n                                                                                             /(a) ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n        (a)    Gondola enclosures could be considered as rooftop  utility\n               structures  and  exempted  from  the  calculation  of  height\n                restriction if  it could be demonstrated that the size is of the\n           minimum to fulfill the functional requirements.  In general,\n              the height of rooftop utility structures should not exceed 15m\n            beyond the main roof or 10% of the building height, whichever\n                  is the less.\n\n        (b)   The height of rooftop utility structures should also have regard\n               to stipulated restrictions on the statutory town plans and such\n              other  considerations  as  the  preservation  of  the  view  of\n               ridgelines from vantage points.\n\n      Lands Department’s guidelines\n\n        (a)   The relevant building height restriction under lease is complied\n               with. Gondola enclosures could be considered as rooftop utility\n               structures and could be exempted from the calculation of height\n                restriction under lease if the size is not excessive.\n\n       Buildings Department’s guidelines\n\n        (a)    The  structural  design  of  the  supporting elements  for  the\n             gondola system shall comply with the Buildings Ordinance,\n              Building (Construction) Regulations and relevant codes of\n                practice.\n\n        (b)    All structural supports, members and fixings for the gondola\n             system   shall  be  properly  designed   to  withstand   all\n             combinations of loads imposed by the system and shall be\n               subject to the Building Authority’s approval.  These structural\n              elements shall either be corrosion resistant or protected with\n               anti-corrosion system.\n\n        (c)    Adequate restraint shall be provided to prevent undue sway or\n             motion of the gondola system on all areas of the façade of a\n              building which can be exposed to wind.\n\n        (d)    Convenient and safe access to the gondola system shall be\n              provided.\n\nMechanical Booms or Anchorages"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          Where  a  permanent  suspended  access  system   is  not  proposed,\nconsideration should be given for the installation of mechanical booms or anchorages on\nthe roof at suitable locations to facilitate the installation of a suspended access system at\na later date.  In addition, alternative permanent features (such as hooks, bolts, holes,\nplatforms) at suitable locations for anchorage of temporary structures or scaffoldings\nshould be provided to facilitate future external maintenance and repair works and at the\n\n                                                                   /same ….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\nsame time, to provide better safety for the workers engaged in these works.  All\nassociated structural members, fixings and anchorages of facilities should either be\ncorrosion resistant or protected with anti-corrosion system.\n\nCast-in Anchor Devices"
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "7.         APs and RSEs are also advised to provide cast-in anchor devices in the\ndesign and construction of new buildings.  The anchors will provide for the direct\nattachment of personal fall protection systems and equipment for use of workers to\nprevent and/or arrest falls from height when working on the external walls of buildings\nduring repair and maintenance works.  For technical details of the location, design and\ninstallation of cast-in anchor devices as well as their operation and maintenance,\nreference should be made to the “Technical Guidelines On The Design, Installation &\nMaintenance Of Cast-in Anchors At External Walls Of New Buildings” published by the\nConstruction  Industry  Council  (which  can  be  downloaded   in   its  website\nhttp://www.hkcic.org).\n\nLocation of Access for Maintenance and Repair"
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "8.         As drainage and other service pipes are often placed in lightwells and\nre-entrants, APs are therefore advised to pay special attention on access for repair and\nmaintenance when designing lightwells and re-entrants."
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.           Access to the common  facilities for maintenance and repair should\npreferably be through common areas of a building or areas which are designated in the\nDeed of Mutual Covenant for the purposes of inspection and maintenance.  The lowest\nlevel of re-entrants and lightwells housing soil and waste pipes or stacks should be\ndesignated as common areas with access, including access through cat-ladder where\nappropriate, to facilitate maintenance and clearance of any refuse.\n\n\n\n\n\n                                                                          ( AU Choi-kai )\n                                                       Building Authority\n\n\n\n\n\nRef : BD GR/1-115/8\n\nThis PNAP is previously known as PNAP 218\nFirst issue  April 1998\nLast revision  February 2010\nThis revision  June 2012 (AD/NB1) – General revision and para 7 added"
+    }
+  ]
+}

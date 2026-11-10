@@ -1,0 +1,837 @@
+{
+  "code": "APP-152",
+  "source_text": "indexed_text/PNAP/APP/APP-152.txt",
+  "source_pdf": "documents/PNAP/APP/APP-152.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-152\n                          Registered Geotechnical Engineers\n\n\n                     Sustainable Building Design Guidelines\n\n\n             This practice note promulgates guidelines on building design which will\nenhance the quality and sustainability of the built environment in Hong Kong. These\nguidelines are the Sustainable Building Design Guidelines (SBD Guidelines) referred to\nin Practice Note for Authorized Persons, Registered Structural Engineers and Registered\nGeotechnical Engineers (PNAP) APP-151, the compliance with which the Building\nAuthority (BA) will take into account, where applicable, as a pre-requisite in exempting\nor disregarding green and amenity features and non-mandatory/non-essential plant rooms\nand services from gross floor area and/or site coverage calculations (GFA concessions)\nfor new building developments. Terminology used in the SBD Guidelines is listed in\nAppendix A.\n\nObjectives"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The SBD Guidelines establish 3 key building design elements to enhance\nthe environmental sustainability of our living space.  They are building separation,\nbuilding setback and site coverage of greenery. The objectives are to achieve better air\nventilation, enhance the environmental quality of our living space, provide more\ngreenery, particularly at pedestrian level; and mitigate the heat island effect.\n\nBuilding Separation"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 324
+        },
+        {
+          "label": "b",
+          "offset": 378
+        }
+      ],
+      "text": "3.             In order to improve air ventilation, enhance the environmental quality at\npedestrian level and mitigate heat island effects arising from the undesirable screening\neffect of long buildings at different levels, building sites of the following categories\nshould comply with the building separation requirements:\n\n        (a)     sites that are 20,000m2 or above; or\n        (b)     sites that are less than 20,000m2 and proposed with building or\n             group of buildings having a continuous projected façade\n              length (Lp) of 60m or above."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 73
+        }
+      ],
+      "text": "4.            Building separation requirements for each assessment zone:\n\n        (a)    Design Requirement (1) – Lp\n           The Lp of a building or group of buildings along a street should\n              not exceed the maximum permissible 1 which is calculated\n             based on 5 times the mean width of street canyon (U); and\n\n                                                                                           /(b) …\n\n1  See Appendix B for computation of maximum permissible Lp"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n        (b)    Design Requirement  (2) –  Separating Distance  (S) and\n              Permeability (P)\n                   (i)   The P, comprising a minimum of 2/3 Intervening Space\n                      (IS) and a maximum of 1/3 Permeable Element (PE),\n                    assessed on two vertical projection planes for the two\n                    categories of sites should not be less than those as shown\n                     in Table 1.\n                   (ii)  Along the chosen projection planes, the S for the IS\n                 between the projected façade of the building and the site\n                   boundaries or the centreline of adjoining streets / lanes\n                   should not be less than 7.5m wide; and\n                    (iii)   If such IS are not sufficient to meet 2/3 of the P,\n                     additional IS with S not less than 15m wide can be\n                   provided between 2  projected  building façades  for\n                 making up.\n      Table 1\n                       Minimum P of buildings in each assessment zone\n                                     on two projection planes       Height (H) of the\n                              Site area < 20,000m2 and        Site area ≥ 20,000m2          tallest building\n                               with Lp ≥ 60m\n                             Each Plane            Plane 1         Plane 2\n       H ≤ 60m            20%            20%        25%\n       H > 60m            20%            20%         33.3%"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            Detailed requirements and method of measurement on Lp, S and P are\ngiven in Appendix B."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.            Standalone residential building blocks of height not exceeding 15m can be\nexempted from the building separation requirements and disregarded in the assessment\nof such for other buildings.\n\nBuilding Setback"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 257
+        }
+      ],
+      "text": "7.             In order to improve air ventilation, enhance the environmental quality at\npedestrian level and mitigate street canyon effect, buildings fronting a street less than\n15m wide should be set back to comply with one of the following requirements:\n\n        (a)    For maintaining a ventilation corridor with minimum section\n              of 15m x 15m, no part of the building up to a level of 15m\n            above  the  street  level should be within 7.5m from  the\n               centreline of the street as shown in Figures C1 and C2 of\n            Appendix C.  Where level of a street varies, the minimum\n               sectional area should be kept along the full frontage following\n              the profile of the street.\n\n\n\n\n                                                                                           /(b) …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n        (b)   Where a cross-ventilated communal podium garden with a\n               clear height of not less than 4.5m is provided, no part of the\n              building up to a level of 15m above the street level, should\n              protrude above the 45o inclined plane, the base of which is\n              placed at street level at the site boundary line on the opposite\n               side of the street as shown in Figures C3 and C4 of Appendix\n             C.\n              Typical examples on the application of building setback\n              requirements are given in Figures C5 to C9 of Appendix C."
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 127
+        },
+        {
+          "label": "b",
+          "offset": 388
+        },
+        {
+          "label": "c",
+          "offset": 687
+        },
+        {
+          "label": "d",
+          "offset": 876
+        }
+      ],
+      "text": "8.             In determining the compliance with the setback requirement, the BA may\ntake into account the following factors:\n\n        (a)     Structures higher than 15m above the street level may be\n             allowed to build over the setback area2.  If the setback area is\n             uncovered, a canopy that complied with regulation 10 of the\n            B(P)R may be permitted;\n\n        (b)    Minor projecting features and signboards projecting not more\n              than 600mm from the external walls and at a clear height of\n              not less than 2.5m above the street level; and single-storey\n              footbridges across the setback area may also be permitted;\n\n        (c)    Columns supporting the building above may be permitted\n              within the setback areas subject to requirements as shown in\n              Figure C2 of Appendix C; and\n\n        (d)   The setback area should be properly landscaped and paved,\n            and be open without any permanent building structures other\n              than landscaped features, perforated balustrades, perforated\n            boundary walls and structural columns."
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.            Buildings may be exempted from whole or parts of the building setback\nrequirement with reference to a street where its height3 is less than 2 times the mean width\nof the street.\n\nSite Coverage of Greenery"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.           In order  to improve the environmental quality of the urban space,\nparticularly at the pedestrian level and to mitigate the heat island effect, sites with areas\nof 1,000m2 or more should be provided with greenery areas in accordance with Table 2.\nDetail guidelines are provided in Appendix D.\n\n\n                                                                         /Table 2 ...\n\n\n2  The setback area at ground level under the footprint of such structures or the covered areas\n   under the canopy may be exempted from GFA calculation if it is designated as common parts\n   accessible by occupants of the building and without any commercial activities.\n3  Height of the building in this context is measured from the mean level of the street on which\n   the building abuts to the mean height of the roof over the highest usable floor space in the\n    building."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -\n    Table 2\n                              Minimum Site Coverage of Greenery                Site Area\n                                   Primary zone               Overall\n        1,000 m2 – 20,000 m2          10%               20%\n          ≥ 20,000 m2             15%               30%"
+    },
+    {
+      "id": "p11-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "11.          This requirement is not applicable to sites with a single family house only.\n\nSpecial Considerations"
+    },
+    {
+      "id": "p12-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "12.          There are special circumstances in which genuine difficulties in complying\nwith the SBD Guidelines may be encountered. Examples include new buildings serving\nspecial functions such as ferry piers, railway terminals, stadia; and conversion of existing\nbuildings to new buildings especially the adaptive reuse of historic buildings where\nbuilding façades or even layout are character defining elements. In recognition of such\ngenuine constraints in meeting the prescriptive requirements, the BA takes a flexible and\npragmatic stance when considering applicants’ proposals holistically to achieve the\nobjectives of the SBD Guidelines. Alternative approaches are provided in Appendix E.\n\nConditions for Approval"
+    },
+    {
+      "id": "p13-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "13.       PNAP APP-151 specifies the compliance with the SBD guidelines as one\nof the pre-requisites for granting GFA concessions. When granting such modifications\nunder section 42 of the Buildings Ordinance, the BA may impose relevant conditions for\nassuring the sustainability of the approved building design.\n\nInformation to be Submitted"
+    },
+    {
+      "id": "p14-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "14.        To demonstrate compliance with the building separation, building setback\nand site coverage of greenery requirements, information as detailed in Appendix F should\nbe submitted."
+    },
+    {
+      "id": "p15-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "15.        To increase the transparency of information to the public, plans and details\nshowing the site coverage of greenery as described in Appendix F will be uploaded to the\nBD’s website after the occupation permit is issued.\n\n\n\n\n                                                           ( YU Po-mei, Clarice )\n                                               Building Authority\n\n\nRef. : BD GR/1-55/187/1\n    BD GP/BREG/P/49\n\nFirst issue   January 2011\nLast version  January 2016\nThis version September 2023 (AD/NB1) (Appendices A & D amended)"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Appendix A\n                                                   (PNAP APP-152)\n\n                               Terminology\n\nAir Ventilation Assessment   Air ventilation assessment (AVA) is a protocol to objectively assess the effects\n(AVA)                       of planning and development proposals on external air movement for achieving\n                           a  better  pedestrian wind  environment. An  advisory framework  for  the\n                         methodology to undertake AVA has been outlined in the Technical Guideline\n                               for Air Ventilation Assessment available in the Planning Department’s website\n                           under the Hong Kong Planning Standard and Guidelines.\n\nAssessment Zones          Assessment zones demarcate the vertical spatial division for assessing fulfilment\n                             of the building separation requirement. The zonal division consists of low zone\n                             (within 20m from level zero), middle zone (20-60m from Level Zero) and high\n                          zone (higher than 60m from Level Zero). [Building Separation]\n\nComputational Fluid     CFD is a branch of fluid mechanics using numerical methods and algorithms to\nDynamics (CFD)            solve and analyze problems that involve fluid flows. Computers are used to\n                          perform the millions of calculations required to simulate the interaction of fluids\n                         and gases with the complex surfaces used in engineering.\n\nContinuous projected      The total projected length of facade of a building or a group of buildings if\nfacade length (Lp)           separation between them is less than 15m. (see Figures B2 & B3 of Appendix\n                        B) [Building Separation]\n\nGrass paving              Paving having not less than 50% of floor designed for the growth of grass or\n                            groundcovers. [Site Coverage of Greenery]\n\nGreenery area            Area with live plants and soil or similar base. Such area may include other\n                            greening features as per Appendix D.  [Site Coverage of Greenery]\n\nIntervening Space (IS)      Space that is open to above or have a clear height of not less than 2/3 of the\n                             height of the respective assessment zone. [Building Separation]\n\nLevel Zero               The mean street level on which the site abuts or where the site abuts streets\n                           having different levels, the mean level of the lower or lowest street. [Building\n                             Separation]\n\nMean Width of Street      The mean distance between (i) an external wall of the subject building which is\nCanyon (U)                 within 30m perpendicular from the centre line of a street and (ii) the boundary\n                             of the other site on the opposite side of the street, as shown in Figures B4 to B7\n                             of Appendix B.  It forms the basis for assessing the maximum permissible Lp\n                             of the building in the assessment zone, which is 5xU. [Building Separation]\n\nPrimary Zone            The 15m vertical zone of a site along the abutting street level. The greenery in\n                                  this zone is for providing visual contacts or access from a street through\n                     common parts of the building for enhancing the walkability of urban space to\n                              the public, visitors or occupiers. The top level of soil or similar base for planting\n                           should be taken as the reference level for inclusion in the Primary Zone. [Site\n                         Coverage of Greenery].\n\nPermeability (P)       A percentage indicating how permeable a building or group of buildings in that\n                           assessment zone is.  It is obtained by dividing the sum of the areas recognized\n                             as intervening space or permeable elements by the area of the assessment zone\n                             as shown in Figure B9 of Appendix B. [Building Separation].\n\n\n\n\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Permeable Element (PE)    Space provided within, above, below or between buildings within the same site\n                            with a minimum clear width and clear height of 3m as projected onto the chosen\n                               projection plan, e.g. refuge floors, communal sky gardens etc.  [Building\n                              Separation]\n\n  Separating Distance (S)     This is the minimum width of an IS in the following scenarios:-\n                                        (i)    between end of the projected building façade and the site boundary;\n                                          (ii)   between end of the projected building façade and the centerline of\n                                     adjoining street/lane where the site abuts; or\n                                          (iii)   between 2 projected building facades.\n                        Where such distance varies for an IS, the method of arriving at the mean of\n                            such distance is shown in Figure B12 of Appendix B.\n                              [Building Separation]\n\n  Site Coverage of Greenery  The percentage of total live greenery area divided by the area of the site.\n\n  Street             A street of width not less than 4.5m vested in the Government and maintained\n                         by the Highways Department or a private street on land held under the same\n                         Government lease as the site and under the terms of the lease, the lessee has to\n                              surrender (when required to do so) the land on which the street is situated to the\n                          Government,  as  described  under  B(P)R18A(3)(a)(i) &   (ii).  [Building\n                             Separation and Building Setback]\n\n  Vertical greening          Greenery that grows on a vertical surface. [Site Coverage of Greenery]\n\n\n\n\n\n(Rev. 9/2023)\n\n\n\n\n\n                                                                - 2 -"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Appendix B\n                                                   (PNAP APP-152)\n\n                        Building Separation Requirements"
+    },
+    {
+      "id": "p1-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "1.   Assessment and Method of Measurement\n\n1.1       The design of building(s) above Level Zero of the site shall comply with the\nDesign Requirements (1) and (2) below. They shall be assessed separately for each of the\nthree assessment zones i.e. the low, middle and high zones.\n\n1.2         In general, all measurements for building separation are taken from the external\nwalls of the building. Minor building features that will not materially affect air ventilation\naround buildings, including single-storey footbridges across buildings (not shadowed\nvertically by other footbridges), signboards, minor projecting features as described in\nparagraph 3 of PNAP APP-19, open sided features such as balconies, utility platforms,\ncovered walkways,  trellises and other highly permeable features such as  railing and\nperforated fence walls (with free area ≥ 2/3 or equivalent) may be disregarded in the\nbuilding separation assessment. Minor noise barriers that are not extensive in height and\ndesigned to permit air flow through or over the barriers may also be disregarded subject to\nthe provision of appropriate building features or permeable elements such as communal\npodium gardens  to compensate  for the  barrier’s obstruction to  free  air flow to the\nsatisfaction of the BA.\n\n1.3         Effect on air ventilation around buildings due to topographical features in a site\nincluding any slope features and retaining walls may be disregarded.  Any parts of a\nbuilding that are below the original site topography may therefore be disregarded from the\nassessment zone (see Figure B1)."
+    },
+    {
+      "id": "p2-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "2.   Design Requirement (1) - Lp of building(s) abutting a street\n\n2.1       Design Requirement (1) controls the maximum Lp of a building or a group of\nbuildings if any part of the building is within 30m from the centreline of the street on\nwhich the building(s) abuts.\n\n2.2       The Lp of a building or a group of buildings along its long side shall not exceed\nthe maximum permissible Lp which is obtained by multiplying 5 and the U on which the\nbuilding(s) abuts.  The U of such a street canyon in the assessment zone is measured\nperpendicular to the centreline of the street from the external wall of the building that is\nwithin 30m from the centreline of the street, to the site boundary of the other site on the\nopposite side of the street (see Figures B2 to B6). If the building or group of buildings\nabuts two or more streets having different U, the least U shall be adopted.\n\n2.3           If the width of a street canyon varies (on plan), U is the width obtained by\ndividing the area of such a street canyon by its length as measured along the centreline of\nthe street. If only a part of the building is within 30m from the centreline of the street, U is\nthe mean width of the street canyon that abuts such part of the building.  If there is more\nthan one such street canyon along the same street, U is the width obtained by dividing the\nsum of the areas of such street canyons by the sum of the lengths, as measured along the\ncentreline of the street, of such street canyons (see Figure B7).\n\n\n                                                                - 1 -"
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "2.4        For the purpose of measuring Lp of a building or a group of buildings along its\nlong side, the part of the building(s) that is within the low zone and of a height of not more\nthan 6.67m (i.e. 1/3 of 20m which is the height of the low zone) may be disregarded.\n\n2.5      Maximum permissible Lp is not applicable for Design Requirement (1) in the\nfollowing circumstances:\n\n      (a)  The subject site does not abut a street;\n\n      (b)   There is no building or no parts of building in the assessment zone\n           within 30m from the centreline of any streets on which the site\n            abuts."
+    },
+    {
+      "id": "p3-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "3.   Design Requirement (2) - S & P of Buildings (Projection Planes for Assessment)\n\n3.1       Assessment on compliance with Design Requirement (2) shall be made through\na pair of vertical projection planes (x, y) at an orthogonal relationship to each other (see\nFigure B8).  At least one of the projection planes for the low zone shall be set parallel to a\nstreet on which the site abuts. For a site that abuts on a curvilinear street, the projection\nplane for the low zone shall be set along any tangent of the street. For the middle/high\nzones, such pair of projection planes may be set to suit the building disposition or the site\nwind environment.\n\n3.2      To allow more flexibility in building design, the angle between each pair of\nprojection planes may vary from 75 to 105 degrees.\n\n3.3        For a site that is less than 20,000 m2 and the total width of all projected\nbuilding facades exceeds 60m along one projection plane only, assessment on compliance\nwith Design Requirement (2) is only required for that projection plane."
+    },
+    {
+      "id": "p4-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "4.   Assessment of S and P\n\n4.1        Elevation of all buildings within the site shall be projected onto the chosen\nprojection planes. On each projection plane, the required P of buildings as stipulated in\nTable 1 of this PNAP shall be achieved (see Figure B9).\n\n4.2       Not less than 2/3 of the required P shall be provided by IS between the ends of\nthe projected building facades and the adjacent site boundaries or, where the site abuts a\nstreet or a lane, the centreline of adjoining street or lane1.  Save for the part of building\ndisregarded in paragraph 2.4 above, such IS shall provide a S of not less than 7.5m wide.\nFor S involving site boundary or adjoining street/lane, if it varies on plan, the mean of S\nshall not be less than 7.5m and no part of the building shall be within 3m from the\nboundary line.  If such IS cannot meet 2/3 of the required P, additional IS can be provided\nbetween buildings. Such additional IS shall have an S of not less than 15m (see Figures\nB10 to B12).\n\n1   The street/lane of width less than 4.5m may also be included in the assessment of S and P. Open space\n    outside the site boundary is not accountable for P. However, where an area is zoned as open space on the\n    Outline Zoning Plan  / Development Permission Area Plan and provided such area  is a nullah or\n    designated as promenade or non-building area on the aforesaid plan and / or in the explanatory notes of\n    the aforesaid plan, such area may be treated as a lane for the purpose of assessing S and P.\n\n\n                                                                - 2 -"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "4.3       Not more than 1/3 of the required P may be provided by PE. (see Figures B10\n& B11)\n\n4.4      To allow more design  flexibility, the projection  line of the IS within an\nassessment zone may follow the path of a notional air corridor that starts at 90o from the\nprojection plane (on plan). The air corridor may flow between buildings and may change\ndirection without changing its width, when it meets the boundary line or anywhere within\nthe site, by not more than 15o provided the direction of the air corridor after the change of\ncourse is always within 15o from its original path before it enters the site. The minimum\nwidth of the air corridor along its path between buildings shall not be less than 15m (see\nFigures B13 to B16).\n\n4.5      When the site is large and / or of irregular shape, the site may be subdivided\ninto two or more notional sites provided that the line of the sub-division is located along\nthe centreline of a notional wind path that complies with the following requirements:\n\n      (a)   the wind path is open to above from the lowest level of the subject\n           assessment zone (disregarding the minor projecting features and\n          permeable features mentioned in paragraph 1.2 above);\n\n      (b)    it is of a width of not less than 15m;\n\n      (c)     it is continuous across the site in one direction or it may change in\n            direction by not more than 15 degrees provided its direction after the\n          change of course is always within 15 degrees from its original path2;\n\n      (d)  where it meets the site boundaries, there is a street or lane with a\n         mean width of not less than 7.5m.\n\n4.6        After subdividing the site, the P may be assessed separately for each subdivided\nsite using the same or a different pair of orthogonal projection planes (see Figures B17 &\nB18).\n\n4.7     A sample case on assessment of building separation provisions is given in\nFigures B19 to B21.\n\n\n\n\n\n(Rev. 1/2016)\n\n2   The wind path should preferably align with the summer prevailing wind direction or existing street\n     pattern.\n\n\n                                                                - 3 -"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "s\nB                                            B1\n                                                                                                                                                                                                                                     Projecti                    entire      Fig.                                   Level                                                                                                   the       APP-152)            usable                                                                                                (acrAppendix                                                                                                                                                        Elevat           ional on       oss                                   below\n     (PNAP              highest\n              the                                                         building\n                   over aof\n                   roof     part\n              the\n         of                                          sunken\n              or                            height\n                   mean           features\n              the\n         to     Buildings       Zero                                  street(s).                                                                                            topographical\n              to                        Level                     lowest        due       or from   Sunken  lower                                                                buildings & the  measured                                     Fig.B9-Fig.B11)\n       of be                                          around                                 (See                 level                        shall\n              mean                                                                              ventilation                                      building          the     a    air disregarded.\n       is\n         of   on be\n                 Zero”                                         shall     Topography                            height space.  effect\n                     “Level The floor The Zero\n  Site • • •\n                                                                                                                            ite)"
+    },
+    {
+      "id": "page-11",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        11
+      ],
+      "text": "B                                            B2\n                                                                                           Fig.                                                                                   Plan       APP-152)                                                                                                                                                                                                                                                 Buildings\n                                            ofAppendix                                                                                                          Diagra             mmatic s\n     (PNAP\n       Lp\n       in\n                                    disregarded\n          are\n                zone)\n          low\n       of\n                (1/3H\n                ≤6.67m\n                    height\n   Lp  of\n             zone\n          low\n       at                determining\n   of\n                          portions\n            Examples                          Building measurement Lp •"
+    },
+    {
+      "id": "page-12",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        12
+      ],
+      "text": "B3\nB\n                                                                                           Fig.\n                                 of       APP-152)Appendix                                                                             Plans                                                                                                                                                                                                                                                                                                          Buildings\n     (PNAP                                                                         Diagra                  maticm\n\n\n\n      side\n      long\n    its\n       along\n             buildings\n   of\n       group\n   or\n            building\n a\n   of\n   Lp\n   of\n            Examples\n Lp"
+    },
+    {
+      "id": "page-13",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        13
+      ],
+      "text": "B                                            B4\n                                                                                            Fig.       APP-152)Appendix\n     (PNAP\n\n\n      as                                           platforms,             such\n                              utility\n                             features,\n                                               (balconies,                                projecting\n                                  features                Minor\n                      sided                                                                 disregarded.\n           be                 open\n                may                                          unobstructed. and\n                           etc.)\n                                vertically footbridge                                                                                                                                                                                                          Canyon      be            trellises,\n                                                                                                                                                                                                                                                  Street\n U   shall                                                                      of                              covered\n    a                                                                                                                                                                                                          Width                                                walkways,                   canyon                                                                                                                                                                                                                                                                                           Showing                   Street signboard, covered\n\n\n   •    Showing                                                                                                                                                                                                                                                                                                                                                                            rspective\n                                                                    P  e"
+    },
+    {
+      "id": "page-14",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        14
+      ],
+      "text": "B                                            B5\n                                                                                            Fig.       APP-152)                  street.Appendix\n     (PNAP                       adjoining\n          an\n          of\n                                                centreline\n              the\n                   from\n              30m\n                             within\n                             partly\n          or\n\n      Lp                             wholly    Canyons      on\n                                           buildings                       control\n          of\n      to   Street\n                                                                                                                                                                                        Plans                       subject                                                                             Buildings/groups                                                                                                                                                                                                                                                                                                                                          iagrammatic\n                                                              D\n     •     Adjoining      Buildings"
+    },
+    {
+      "id": "page-15",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        15
+      ],
+      "text": "BAPP-152)Appendix\n     (PNAP\n\n                                                                                                           Plans\n                                                                                                                                                                                                                                           iagrammatic\n\n\n                     D\n\n\n\n\n Lp\n      Permissible\n  Max.\n &\n U"
+    },
+    {
+      "id": "page-16",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        16
+      ],
+      "text": "B                                            B7\n                                                                                            Fig.       APP-152)Appendix\n     (PNAP\n\n\n\n\n\n Lp\n      Permissible\n  Max.                   Plan\n &  c U     Diagrammat i"
+    },
+    {
+      "id": "page-17",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        17
+      ],
+      "text": "B                                            B8\n                                                                                            Fig.       APP-152)Appendix                                                                                                                                                                                                                                                                                        direction\n     (PNAP                                                                                                                                  wind\n\n P                                                                                                                                                                 (Plan)                                                                                                                                                                                                                                                                                                                                     prevailing\n of                                                                                                            Zone                  e.g.\n                                                                                                                                                                                                                                                                                                                                   Middle/Upper                                context\n                                                                                                                                                                                                                                                                                                                                                                                                                                       environmental\n                                     .\n                                                       o     Assessment                                                           or\n                                                                                                                                                                                                                             75-105  for\n                                                                          is                                                                                                                                                                               only.                                                                                                                                                                                                                                                                                                                                                                      disposition\n                                                                                                                                                                                    street                    plane     planes\n                                                                                                                                                                                                                                                                    building                                                                                       if:   Planes                                                                                        the                                                                                                                                                                                                                                                                              adjoining                                        projection        projection                                                                                                                   only                                                            an      suit\n                                                            to            one  of                                                                                       ①to                                                                      on   pair                                                                                                                                                plane\n                                                                                                         60m   each                                                                                                                                                                                                   planes                        (P                                                                                                                                                                           ①parallel       one >\n                        ne lan)                                                          on Lp                                                                                                           Zone chosen     Projection             Zo Low                                                                                                                                     planes                                                                                                         and     between\n of                                                                                 the   of     2ha                                                            of      pair  <    angle                                                                                                  Zone\n                                                                                          One     Any      Site  The                              •  • assessment • ①  Pair                                                                  Low             Middle/High P"
+    },
+    {
+      "id": "page-18",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        18
+      ],
+      "text": "BAPP-152)Appendix\n     (PNAP\n\n\n\n                                                                                                                                                   site)\n                                                                                                                                                                                 entire\n                100%                                                                       the\n    X                                                                                                                                                                      (across\n      PE   zone\n         and                                                                                                                                                                                                                                                                                                       Projection\n      IS\n      of                                                 assessment\n                areas               the                                                                                                                                                                                                                                                          Elevational\nP      of          of\nof     Sum                    Area                                                                                                                                                                                                                             -------------------------------------------------------\n\n    =\n\n  P Assessment"
+    },
+    {
+      "id": "page-19",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        19
+      ],
+      "text": "B      P\n    P      1/3\n\n       ≤       APP-152)Appendix                      required                              100%\n\n       x            the     (PNAP\n        of\n            1/3\n                                 zone\n             PE\n             of                            maximum\n        to                                 areas                                                                                   assessment             of\n                         the\n                    Sum  of                                        contribute\n                                 Area            may                                                                                                                                                                                                                                                                                                                                                                                                                           -------------------------------------------------------        PE\n\n        P                                  site)\n    P       2/3              re\n        ≥\n                               100%                                required  x\n            the                                                               enti\n        of                                  zone\n            2/3                     he\n              IS\n              of                min.\n            for              Pr                                  areas        t                                                                                     assessment        (a\n              of\n                          the PE                                                                cross                            account                    Sum of                                                                                                                                       Elevational ojection &                    shall            Area IS   IS                                                                                                         ------------------------------------------------"
+    },
+    {
+      "id": "page-20",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        20
+      ],
+      "text": "B                                                                     B11                                        Fig.B16).\n       of                                                                                Fig.       APP-152)       andAppendix\n     (PNAP                                  centreline Fig.B15\n   /\n       BL\n                                    Fig.B14,\n                    common\n                                    Fig.B12,                                        above.                                                                                                 Projectio                                                              ional\n             to                           adjacent                  (see                      15m.\n     ≥          and         open                  7.5m           be or\n    ≥\n                    façade      shall                          Zone                      width                       3m.\n\n      ≥                  mean                               projected        façades\n         or\n   a                                              height       of                      Assessment\n                      width                    the clear          end a projected\n             of\n           of                       and             has\n                 end 2/3H                        between and ≥      sit                                      width\n             be             entire                                      clear                                       between                                 shall      the                           provided           IS                                                 street/lane  IS PE                    have       be             of                                                                             (across\n                 shall                                                   Elevat  and                          shall n e)       IS adjoining Additional Height PE\n IS • • • •"
+    },
+    {
+      "id": "page-21",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        21
+      ],
+      "text": "B                                                                     B12\n                                                                                            Fig.       APP-152)Appendix\n     (PNAP\n\n\n                                           ram\n          c\n\n\n\n\n\n           n\n\n\n\n\n\n                    ti                                                                                    Diag\n\n\n\n S\n of\n                       Pla\n\n\n\n\n\n                    ma     Assessment"
+    },
+    {
+      "id": "page-22",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        22
+      ],
+      "text": "B                                                                     B13\n             and                                                                                            Fig.       APP-152)                      site,Appendix\n             the     (PNAP\n                          within                                 maintained,\n      is                                  anywhere\n         or                        corridor\n         BL\n         air\n             the\n                        notional                      meets                                                                                                                              Plan   /      path\n         it\n      IS\n         the                 when                                             original      of\n             15º                 the\n    ≤               width                                                                                                                                                                                                                                                                                                                                                                                          Diagrammatic                      from\n                 15º\n\n      ≤                        required                                               permissible\n         is     Corridor                                       deviate                     minimum  Air         the   direction\n         in                                                  direction            that\n                          Change  Overall     Notional  Provided • •"
+    },
+    {
+      "id": "page-23",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        23
+      ],
+      "text": "B      vary.                                                                    B14\n        may                                                                                           Fig.       APP-152)Appendix       planes\n        the     (PNAP\n     on\n                       projected\n     so\n   ends  façade\n     façade        X(2).                    building       or  at a\n & of               X(1)\n               length                   Plane        buildings             site,                      either        the\n       on     of      between          side\n S                                     projection               either\n           the     on\n       on\n               placed     is based Corridor X       be\nAir plane mayP\n       of                              ②≥7.5m.                          projection          S3                  15m     & ≥                                                                                                                                          Plan          When  Assessment S1 S2\n\n\n     • • Notional • •                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Diagrammatic"
+    },
+    {
+      "id": "page-24",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        24
+      ],
+      "text": "B              vary.                       Plan Diagrammatic                                                                    B15\n            may                                                                                           Fig.       APP-152)Appendix                planes\n            the     (PNAP\n        on\n                                     projected\n        so\n                         façade\n                                     chosen.                                 building as\n    a\n        of Y(2)\n                         length or                     Y(1)     ends                    site,                                either            the\n           on       façade   of\n  at                side\n S                                                     projection ≥7.5m                         either\n                the        on\n           on                         placed               street/lane        is based   Corridor Y           be\n                may  adjoining Air       plane P\n           of                                             between                                         projection             S2\n      &                When  Assessment S1\n\n\n     • •   Notional •"
+    },
+    {
+      "id": "page-25",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        25
+      ],
+      "text": "B                                                                    B16\n                            s     Fig.       APP-152)Appendix\n     (PNAP\n\n\n\n\n\n      ends\n         façade\n   at\n S\n    Corridor\n                                                                                                                 Plan  Air\n                                                                                                                                                                                                                                                                                                                        iagrammatic\n\n\n                                 D    Notional"
+    },
+    {
+      "id": "page-26",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        26
+      ],
+      "text": "B                                                                    B17\n                                                                                           Fig.       APP-152)Appendix\n     (PNAP\n                  zone\n\n\n\n\n\n   P      of    assessment\n             the\n         of\n                      level      ends                              gra                              assessment\n         for                          lowest      both              at\n             the               sites                            7.5m\n\n       ≥                      above      site                        notional               width     the\n            more            mean           through or      of                                                     unobstructed\n         TWO and      lane\n              or           passing                              Dia            into\n                                          street            site\n       a                                        uncovered  Path         to         the                       ≥15m\n\n                                                       Pl mmatic                                            vertically width  leading  Wind  Dividing • • •\n                                                an"
+    },
+    {
+      "id": "page-27",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        27
+      ],
+      "text": "BAPP-152)                                                               B18Fig.Appendix                                sites            the     (PNAP    of\n\n\n P                                                                       sub-divided                                         centreline                      sites.  of\n        at                   TWO\n        BL                   the           notional\n             of    all                                 notional           for                          each\n            the                   for                                   used        to\n                  be            Assessment                                       chosen                                            shall    for             be                                 measured                                   site\n        be\n      Sites   shall    may                                       planes            undivided            end\n                                                                       original                         facade                                                                                                                                                                               Plans                                                                 projection\n                           the         Notional      of\n                  of\n                          pair                                     projected                                            Zero\"                                                                                                                                                                                                                                                                                          Diagrammatic                          path.               assessment.            the\n        P\n        at    S wind   Individual for  \"Level\n\n\n    • • •             Sub-divided"
+    },
+    {
+      "id": "page-28",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        28
+      ],
+      "text": "B                                                                      B19\n                                                                                             Fig.       APP-152)Appendix\n     (PNAP\n\n\n\n                                                                                                                                                                                                                                                                                                                                                            Building\n        Assessment\n                                                                                                                                    Asse\n\n                                 n\n        Separation\n                                                                                                                                                                                                                                                                                                                                                                                                      Separatio       Building  ssment"
+    },
+    {
+      "id": "page-29",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        29
+      ],
+      "text": "B                                                                   B20\n                                                                                             Fig.       APP-152)Appendix\n     (PNAP\n\n\n                                                                                                                                                                                                                Assessment\n                                                                                                                                                                                                                Separation\n                     g                                                                                                 Buildi n\n        Assessment\n        Separation\n       Building"
+    },
+    {
+      "id": "page-30",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        30
+      ],
+      "text": "B                                                                   B21\n                                                                                             Fig.       APP-152)Appendix\n     (PNAP\n\n\n\n\n\n                                                men\n\n\n\n\n\n                                       A             Zone\n             High                                                                                                                                                                                                                                                                                                                           Separation\n         and                                                                                                                                                             lding        Assessment\n                   Middle                                                                                Bui\n\n   -\n         (2)\n\n                                                                                ess        Separation\n\n\n                                                                         ss                                   Requirement\n       Building  Design\n\n                                    t"
+    },
+    {
+      "id": "page-31",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        31
+      ],
+      "text": "Appendix C\n                                                  (PNAP APP-152)\n\n                       Building Setback Requirements\n\n\n\n\n\n                                                                          1\n\n                                              ailed i\n\n\n\n\n                                              f this PNA\n    s de\nt\n\n\n\n\n\n                     Building  setback  a     n paragraph 7(a)  o\n\n\n                              Fig      .  C\n\n                                                 P\n\n\n\n\n\n                                                                           F                             se\n       ig. C2 Building                        as detailed in\n\n\n\n\n\n        paragraphs 7(a)                             and 8(c)\n\n\n\n                            tba     ck\n\n\n\n\n\n                                                            - 1 -"
+    },
+    {
+      "id": "page-32",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        32
+      ],
+      "text": "Appendix C\n                                                    (PNAP APP-152)\n\nF\n\n\n\n\n\n                                                                                                                                               ig\n. C3 Stepped building profile with  communal podium garden as detailed in paragraph 7(b)\n\n\n\n\n\n                       etailed  in paragrap                        en as d\n\n\n                                     h 7(b)\n\n\n\n\n\n                        um gard\n\n\n\n\n\n                                              Fig      . C4 Stepped building profile with  co\n                                                                                                  mmunal podi\n\n\n\n\n\n                                                               - 2 -"
+    },
+    {
+      "id": "page-33",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        33
+      ],
+      "text": "Appendix C\n                                                    (PNAP APP-152)\n\n\n\n\n\n                                                                                  l\n                                                                                  d\n                                                                                  i\n                                                      ng Set\n                                                                                  b\n                                                                                  a\n                                                                                  c\n                                                                                  k\n                 ig. C5 Example\n                            - Site\n       F                                                              ab utting narrow lane with Green Belt beyond\n\n\n\n\n             (1) of  Bui\n\n\n\n\n\n                                  Por\n\n\n\n\n\n                                          . C6 Example (2) of Building Setback   –\n\n                                           g                 a  future  street\n\n\n\n        tion of Site will be surrendered  to form\n\n\n\n\nF\n                                                                                                                                                     i\n\n\n\n                                                               - 3 -"
+    },
+    {
+      "id": "page-34",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        34
+      ],
+      "text": "Appendix C\n                                                    (PNAP APP-152)\n\nF\n\n                            uilding  Setback - Site abutting str\n\n                                 g                                                C\n\n\n\n\n                                                                           a            7.Example\n                                                                           t\n\n                                                                           i\n                                                                           n\n                                           tersections\n\n\n\n                     (3)  of   B\n\n\n\n\n\n                         ee                             ts\n\n\ni\n\n\nF\ni\ng\n.\n\nC\n8\n\nE\nx\na\nm\np\nl\ne\n  (4) of Building Setback –  Site at the end of the street/ cul-de-sac\n\n\n\n\n\n                                                               - 4 -"
+    },
+    {
+      "id": "page-35",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        35
+      ],
+      "text": "Appendix C\n                                                    (PNAP APP-152)\n\n\nF\ni\ng\n.\n\nC\n9\n\nE\nx\na\nm\np\nl\ne\n\n(\n5\n)\n\no\n           f Building Setback – Site abutting cul-de-sac\n\n\n\n\n\n(Rev 1/2016)\n\n\n\n\n\n                                                               - 5 -"
+    },
+    {
+      "id": "page-36-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        36
+      ],
+      "text": "Appendix D\n                                                     (PNAP APP-152)\n\n\n                                 Site Coverage of Greenery"
+    },
+    {
+      "id": "p1-page-36",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        36
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 151
+        }
+      ],
+      "text": "1.   All greenery areas should be measured horizontally based on the soil1 areas as shown on\n     the plan in the following scenarios (see Figure D1):\n      (i)     greenery areas are uncovered;\n       (ii)    greenery areas in the form of projecting planters 2 are shadowed\n             vertically by parts of the building or other projecting features, and the\n             clear height of the building or projecting features above the covered\n            area is not less than 8 times the horizontal width of the covered area;\n       (iii)   greenery areas in the form of projecting planters2 are shadowed\n             vertically by other projecting planters, and both planters comply with\n            the requirements stipulated in paragraph 9 of PNAP APP-19; or\n      (iv)   greenery areas in the primary zone are shadowed  vertically by\n            buildings (including overhangs), and when measured from the 45o\n            projected line taken from the edge of the building, they fall within the\n             area; and they are accessible to the public, visitors or occupiers from\n            the adjoining open areas."
+    },
+    {
+      "id": "p2-page-36",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        36
+      ],
+      "subparagraph_markers": [],
+      "text": "2.  A multiplying factor of 2 is applicable in computing the greenery area of a green buffer\n    complying with the requirements  stipulated  in Appendix C1 of PNAP APP-151,\n     irrespective of whether the specific standard of enhanced greenery provision is adopted."
+    },
+    {
+      "id": "p3-page-36",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        36
+      ],
+      "subparagraph_markers": [],
+      "text": "3.  The summation of following greening features may be accepted to contribute not more\n     than 30% of the total required greenery areas of the overall provision as specified in Table\n    2 of this PNAP subject to  its location and application of a reduction factor where\n     applicable.\n\n\n\n\n\n 1    For reference, the recommended minimum soil depths for trees, shrubs, grass/ground covers are\n     1.2m, 0.6m and 0.3m respectively.\n 2   Greenery areas in the primary zone should be fronting or visible to the public from a street/a\n     public pedestrian way/public open space.  Greenery areas above the primary zone should be\n      visible to the public, visitors or occupiers.\n\n                                                                 - 1 -"
+    },
+    {
+      "id": "page-37-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        37
+      ],
+      "text": "Reduction Factor in\n           Greening Features                  Location             Computing the\n                                                                    Greenery Areas\n                                             Primary zone      Covered greenery areas3                                           (measured from 45o       accessible to public, occupiers or                               50%                                             projected line taken from        visitors from adjoining open space                                                the edge of building)\n                                       Primary zone or uncovered      Water features4                                          50%                                        communal roof\n                                        Except carparking spaces or      Grass paving                                            50%                                            loading / unloading areas\n\n       Planters on an inaccessible roof             Primary zone              50%\n\n\n\n       Vertical greening2                  No restriction                    Nil\n\n\n\n       Landscape-treated Greening on\n       slopes / retaining structures5 with        No restriction                    Nil\n       gradient steeper than 45o"
+    },
+    {
+      "id": "p4-page-37",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        37
+      ],
+      "subparagraph_markers": [],
+      "text": "4.   Irrigation points/automatic irrigation system and drainage system should be provided at\n     greenery areas to facilitate future maintenance. In addition, where greenery is provided\n    on the roof, the roof should be of impervious construction and the design dead load on\n     the roof should also take into account the anticipated loads of the soil, plants, trees, etc."
+    },
+    {
+      "id": "p5-page-37",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        37
+      ],
+      "subparagraph_markers": [],
+      "text": "5.   Greenery in removable pots/planters that are not permanently fixed or built into the\n    development should not be counted as greenery area."
+    },
+    {
+      "id": "p6-page-37",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        37
+      ],
+      "subparagraph_markers": [],
+      "text": "6.   Covered greenery above the primary zone such as in covered communal podium garden\n     or sky garden should not be counted as greenery area, except for the scenarios in\n     paragraph 1 above.\n\n\n\n 3   When selecting planting design and species for covered greenery, reference should be made to\n     “Proper Planting Practice – Provide Sufficient Growing Space between Trees and Adjacent\n     Buildings / Structures” issued by Greening, Landscape and Tree Management Section of DEVB\n     (www.greening.gov.hk).\n 4   Water features should be measured by the horizontal water surface area. Swimming pool and\n     jacuzzi are not considered as water features.  Filtration plant room for water feature may be\n    exempted from GFA but subject to compliance with the pre-requisites and the overall GFA cap\n    on GFA concessions stipulated in PNAP APP-151.\n 5   Greening on slopes/retaining structures should be measured by the projected elevational area of\n     the soil where the greenery will grow. Greening on slopes/retaining structures with gradient equal\n     or less than 45° will be measured horizontally based on the soil area as shown on the plan.\n\n                                                                 - 2 -"
+    },
+    {
+      "id": "p7-page-38",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        38
+      ],
+      "subparagraph_markers": [],
+      "text": "7.   Vertical greening should be measured by  the  elevational  area  of  the vegetated\n     panel/modular planter or panel, or the vertical frame (for climbing and/or weeping plants)\n    where the greenery will grow. For greenery areas provided by climbing or weeping plants,\n     those part of the vertical frames with a height more than 7.5m are not accountable. The\n     horizontal area of soil in planters under the vertical frame/modular planter/panel already\n    counted for vertical greening as aforesaid should be excluded from the greenery area\n     calculation.  Self-clinging climbing plants on hard surfaced walls should be measured\n     horizontally based on the soil areas as shown on the plan (not counted as vertical\n     greening)."
+    },
+    {
+      "id": "p8-page-38",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        38
+      ],
+      "subparagraph_markers": [],
+      "text": "8.   All greenery areas for the purpose of this PNAP should be designated as common parts\n     of the building. Access for maintenance and replacement of the plants should be provided\n    from common parts of the building. As for the planters on the inaccessible flat roofs,\n    communal access paths should still be provided from the common areas for maintenance\n     of the planters."
+    },
+    {
+      "id": "p9-page-38",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        38
+      ],
+      "subparagraph_markers": [],
+      "text": "9.   Tree planting can provide localized thermal relief in urban environment.  Provision of\n     tree cluster is encouraged.  Reference could be made to the requirements stipulated in\n    Appendix C1 of PNAP APP-151, irrespective of whether the specific standard of\n    enhanced greenery provision is adopted."
+    },
+    {
+      "id": "p10-page-38",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        38
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 221
+        },
+        {
+          "label": "b",
+          "offset": 344
+        },
+        {
+          "label": "c",
+          "offset": 873
+        }
+      ],
+      "text": "10. When granting modifications under section 42 of the Building Ordinance for GFA\n     concessions applied under PNAP APP-151, the Building Authority (BA) may impose,\n     but not limited to, the following conditions: -\n\n      (a)   The greenery areas should not be used for any other purposes without\n            the prior consent of the BA.\n\n      (b)   The restriction on the use as stated in item (a) above and the greenery\n           areas to be designated as common parts should be incorporated into\n            the Deed of Mutual Covenant (DMC) with details of their size (in\n             area), locations and the common access thereto clearly indicated on a\n             plan(s).  Where no DMC  is to be in force, such restriction and\n           designation should be incorporated  into the Sales and Purchase\n          Agreement, Assignment or Tenancy Agreement.\n\n      (c)   The letter of undertaking for complying with the requirements as stated\n            in items (a) and (b) above, submitted by the developer or owner in\n           support of the application for GFA concessions should be registered in\n            the Land Registry before applying for the occupation permit.\n\n\n\n\n\n                                                                 - 3 -"
+    },
+    {
+      "id": "page-39",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        39
+      ],
+      "text": "Measurement of Greenery Area\n\n\n\n\n\n                               Typical Section (not to scale)\n\nFig. D1  Greenery as per paragraph 1 of this Appendix\n\n\n(Rev. 9/2023)\n                                                                - 4 -"
+    },
+    {
+      "id": "page-40-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        40
+      ],
+      "text": "Appendix E\n                                                (PNAP APP-152)\n\n                              Alternative Approaches\n\n\nPrinciples\n\n          Pursuant  to paragraph 12  of  this PNAP,  in  recognition  of  the genuine\nconstraints in compliance with the SBD Guidelines under the special circumstances of\nindividual cases, the BA takes a flexible and pragmatic stance in accepting:\n\n     (a)   performance-based approach in justifying alternative designs that can\n          achieve equivalent standards, or\n\n     (b)   inadequate  provisions  of  a  particular  key  design  element when\n          mitigated  by  other  effective  compensatory  measures  such  as\n         enhancement  in  the  provision  of  other key  elements  or by  the\n          consideration  of  the  unique  context  of  the  site  e.g.  sites  with\n          unobstructed surrounds, such as piers."
+    },
+    {
+      "id": "p2-page-40",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        40
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        Alternative design proposals and applications for exemption or modification of\nthe building separation, building setback and site coverage of greenery requirements\nshould be supported by justifications. Where necessary, such proposals and applications\nmay be examined by the Building Committee or the Expanded Building Committee\n(collectively as BC) composing of external experts in the relevant fields. The BA may\ntake into account recommendations from the BC and other relevant considerations in\ndetermining acceptance of the proposal.\n\nBuilding Separation\n\nAlternative Design for Waiving Low Zone Assessment"
+    },
+    {
+      "id": "p3-page-40",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        40
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 96
+        },
+        {
+          "label": "b",
+          "offset": 244
+        }
+      ],
+      "text": "3.       The building separation requirement  at the low zone may be waived for\nbuildings with:\n\n      (a)  less dominating building bulk – the  site coverage for the building\n          including any podium does not exceed 65% of the site; and\n\n      (b)  adequate setback along street frontage – the full height of the building\n            is set back1 from a site boundary abutting any street such that the total\n          frontage of such setback is not less than 50% of the length of that\n         boundary and not less than 10m long or the full frontage for site with\n          frontage less than 10m; and the total setback area is not less than 15%\n          of the site area.\n\n\n\nPerformance-based Design Alternative\n\n1  Reference is made to the design criteria on the setback approach under PNAP APP-132\n\n                                                               - 1 -"
+    },
+    {
+      "id": "p4-page-41",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        41
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 329
+        },
+        {
+          "label": "b",
+          "offset": 432
+        }
+      ],
+      "text": "4.      To allow for flexibility in building design where the prescriptive requirements\nspecified in Design Requirements (1) and (2) as mentioned in paragraph 4 of this PNAP\ncannot be fully met, the adoption of performance-based design alternative on the provision\nof building separation may be accepted on the conditions that:-\n\n     (a)   Provision of the minimum P as specified in Table 1 for each assessment\n          zone; and\n     (b)   Satisfactory demonstration by air ventilation assessment (AVA) that the\n          buildings’ potential impact on the local wind environment has been\n         duly considered and that by comparing with a baseline case which\n         complies with the above Design Requirements (1) and (2), the proposed\n         design is equivalent or better in external air ventilation terms."
+    },
+    {
+      "id": "p5-page-41",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        41
+      ],
+      "subparagraph_markers": [],
+      "text": "5.      The AVA shall be done by referring to the latest methodology and requirements\nof Technical Guide for Air Ventilation Assessments2 using wind tunnel modelling or\ndigital representation of the physical and wind environment using Computational Fluid\nDynamics (CFD) simulations."
+    },
+    {
+      "id": "p6-page-41",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        41
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 267
+        },
+        {
+          "label": "i",
+          "offset": 816
+        },
+        {
+          "label": "v",
+          "offset": 1191
+        }
+      ],
+      "text": "6.       For projects adopting a performance-based design alternative, the following\ninformation with full justifications for deviation from the prescribed requirements should\nbe submitted preferably in two stages to avoid abortive work:\n\n         Stage 1 Submission\n\n     (a)  An expert evaluation on whether the tools and methodologies for AVA\n        employed  are  fit  for  the  purpose and  are  suitably  verified and\n           scientifically validated with practical merits shall be carried out. In this\n          connection, submission for prior acceptance of all information listed\n         below covering factors like site configuration, local topography, wind\n           characteristic and sensitive receivers in the surrounding areas, relevant\n         urban climatic considerations, etc. is required:\n             (i)    a baseline case that fully complies with  all the prescriptive\n               Design Requirements (1) and (2);\n             (ii)     details of scientific bases to assess performance;\n              (iii)    analysis tools and/or design procedures;\n           (iv)   modeling input, settings and parameters for the analysis and/or\n                 design;\n           (v)     limitation and applicability of the proposal in context;\n           (vi)    interpretation of results;\n            (vii)  method of verification;\n            (viii)  similar established standard and implementation in other places;\n               and\n           (ix)   documented references of the scientific bases.\n\n\n\n2   The Technical Guide is issued by the Planning Department and is available from the website at\n    (http://www.pland.gov.hk/pland_en/p_study/comp_s/avas/avas_eng/avas_mtguide_p01.html)\n\n\n                                                               - 2 -"
+    },
+    {
+      "id": "page-42-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        42
+      ],
+      "text": "Stage 2 Submission\n\n     (b)  A study report on whether the proposed scheme will be in line with\n          urban  climatic  considerations  and  such  similar  requirements  as\n         imposed  through  the  town  planning  approval  process  or  in\n         Government lease; and\n\n     (c)  An AVA report on whether the proposed scheme will perform better in\n           external air ventilation terms, demonstrated by the simulation results\n           of the proposed scheme as compared to the simulation results of the\n           baseline case."
+    },
+    {
+      "id": "p7-page-42",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        42
+      ],
+      "subparagraph_markers": [],
+      "text": "7.       Upon approval of the proposal, additional three hard copies and an electronic\ncopy in Acrobat format for each AVA report shall be submitted together with a copy of the\ncompleted AVA register3 for inclusion in the register kept by the Planning Department.\n\nSpecial Considerations for Buildings with Unique Functional Requirements or Heritage\nValue"
+    },
+    {
+      "id": "p8-page-42",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        42
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 538
+        },
+        {
+          "label": "i",
+          "offset": 1108
+        }
+      ],
+      "text": "8.         For alteration and addition of an existing building resulting in a new building\ninvolving the adaptive reuse of historic building or for certain new buildings with special\nfunctional requirements  in building length and/or bulk  e.g.  infrastructural  facilities,\ntransport terminus, sports and civic facilities, the BA may exempt such historic buildings\nor special facilities from the building separation Design Requirements (1) & (2) if the\nequivalent performance is proven and compensatory measures are provided as follows:\n\n      (a)  An AVA by wind tunnel or CFD has been conducted to demonstrate\n             that the design for the proposed new building has outperformed\n           another viable notional scheme4 in accordance with the methodology\n          and requirements  stipulated under  the category  of Microclimate\n          Around Buildings (SA8) of the BEAM Plus5 certification; and either\n          one of the following three requirements under the aforesaid category\n           has been complied with; and the results of which are considered\n            acceptable by the BA:\n               (i)   wind amplification – no pedestrian areas will be subject to\n                  excessive wind speeds;\n                (ii)   elevated temperatures – providing shade; or\n                (iii)   elevated temperatures – providing suitable roofing material or\n                  vegetation roof.\n\n\n\n\n3  AP is requested to seek consent from the owners to release the information contained in the AVA\n   proforma (https://www.devb.gov.hk/filemanager/en/content_679/hplb-etwb-tc-01-06.pdf) and  / or the\n  AVA reports for public inspection.  For projects which cannot be disclosed to the public due to\n   confidentiality or consent from owners has not been given, the information would be kept solely for the\n   government’s internal reference.\n4  Viable notional scheme is a practically viable scheme complying with relevant statutory and allied\n   requirements but excluding those on building separation for demonstrating the improvements to be\n   achieved by the proposed design.\n5 BEAM Plus for New Buildings. (http://www.hkgbc.org.hk/eng/beamplus-main.aspx)\n\n                                                               - 3 -"
+    },
+    {
+      "id": "page-43-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        43
+      ],
+      "text": "(b)    Building features such as additional building setback, stepped profile\n            of the podium from the adjoining streets and communal podium\n           garden to  separate the podium from the tower above and to promote\n              air flow  at  pedestrian  level,  etc. have been  considered  in  the\n           assessment described  in item  (a) above and incorporated  in the\n            design, where appropriate; and\n\n     (c)    Building separation requirement  is fully complied with for other\n            buildings on the same site or other parts of the building that are\n            located above such special  facilities or  historic buildings, where\n            applicable.\n\nProposal involving both new and existing buildings in a site"
+    },
+    {
+      "id": "p9-page-43",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        43
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          In principle, provided that new buildings will not increase the Lp of the\nexisting building, the BA may exempt the existing building from the building separation\nrequirement by disregarding them from the assessment zone.\n\nBuilding Setback"
+    },
+    {
+      "id": "p10-page-43",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        43
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 214
+        },
+        {
+          "label": "b",
+          "offset": 577
+        }
+      ],
+      "text": "10.      Where the setback of a building will result in a setback area of more than 15%\nof the area of the site, requirement for building setback may be relaxed if the following\ncompensatory measures are provided:\n\n     (a)    Full height and full frontage setback of the building from the site\n          boundaries  abutting any narrow  streets from  the  respective  site\n          boundaries with a total setback area which is not less than 15% of the\n           area of the site provided that such area will contribute to improving the\n             street environment; and\n\n     (b)   For small sites not exceeding 1,000 m2, greenery should be provided at\n           the Primary Zone such that the greenery area is not less than 50% of\n           the  setback  area.    All  greenery  areas  shall  comply  with  the\n           requirements in Appendix D where applicable.\n\nSite Coverage of Greenery"
+    },
+    {
+      "id": "p11-page-43",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        43
+      ],
+      "subparagraph_markers": [],
+      "text": "11.       For  sites with genuine difficulties in providing greenery along the street\nfrontage or in the primary zone but with abundance of sustainable natural landscape at the\nback, the BA may favourably consider the provision of welcoming “green” path to the\nstreet pedestrian for viewing such natural landscape as an alternative."
+    },
+    {
+      "id": "p12-page-43",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        43
+      ],
+      "subparagraph_markers": [],
+      "text": "12.       For sites with development in phases, while the level of provision of greenery\nshould base on the area of the whole site, notional site area may be applicable to a certain\nphase of the development for the greenery area to be provided for that particular phase.\n\n\n\n(1/2016)\n\n\n\n                                                               - 4 -"
+    },
+    {
+      "id": "page-44",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        44
+      ],
+      "text": "Appendix F\n                                                   (PNAP APP-152)\n                  Information and Documents to be Submitted\n\n       To demonstrate compliance with the building separation, building setback and\nsite coverage of greenery requirements, the following information should be provided for\nconsideration: -\n\n          Building Separation\n\n     (a)  1:500 layout plans each showing the site in relation to its adjoining streets and\n         surrounding buildings and features.  The footprint (external walls) of the\n         proposed buildings within the site, the provided IS, PE, the selected orthogonal\n          projection planes,  air corridors and  air paths are to be clearly shown to\n         demonstrate compliance with the building separation requirements for each\n         low, middle and high zones.\n\n     (b)  Plans, elevations and sections at a legible ratio (preferably not less than 1:300)\n         with supporting calculations showing the U, the maximum Lp of buildings and\n         groups of buildings in comparison to the permissible Lp; S provided in\n         comparison to the required S; and P of buildings achieved at each low, middle\n         and high zone, in comparison to the minimum P.\n\n          Building Setback\n\n     (c) A block plan showing the location of the subject site and the width of all\n          adjoining streets;\n\n     (d)  Where the width of any street is less than 15m, further details such as level(s)\n          of the street for computing the amount of required setback.\n\n     (e)  1:100 plan(s) and section(s) with calculations demonstrating compliance with\n          the building setback requirements.\n\n      (f)   Information showing the compliance of greenery areas requirement under\n         paragraph 10(b) of Appendix E (as detailed in items (g) and (h) below).\n\n           Site Coverage of Greenery\n\n    (g)*  Plans at a legible ratio (preferably not less than 1:300) showing the locations\n          of the proposed greenery areas, the common access thereto and details of\n          relevant street, public pedestrian way, public open space for compliance with\n          the requirement of greenery areas at Primary Zone(s).\n\n    (h)* A schedule with calculations and illustrated diagrams showing the area of\n         proposed greenery at each location for compliance with the minimum site\n         coverage of greenery requirements.\nNote\n*   Information to be updated and soft copy to be submitted at the time of submitting application for\n    occupation permit. The soft copy should be in PDF format with 200 dpi resolution.\n\n(Rev 1/2016)"
+    }
+  ]
+}

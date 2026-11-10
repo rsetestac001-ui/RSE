@@ -1,0 +1,387 @@
+{
+  "code": "APP-148",
+  "source_text": "indexed_text/PNAP/APP/APP-148.txt",
+  "source_pdf": "documents/PNAP/APP/APP-148.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-148\n                         Registered Geotechnical Engineers\n\n\n                 Minor Works Contractors Registration\n\n\n            Under Schedule 1 of the Building (Minor Works) Regulation (B(MW)R),\na total of 187 minor works items are specified therein amongst which 61 of them are\nclass III minor works items.  In order to ensure that only contractors who are able to\nperform their duties and responsibilities in a competent manner are allowed to carry out\nthe respective items of minor works, they are required to be registered under the\nBuildings Ordinance (BO).\n\nRegister of Minor Works Contractors"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          Under section 8A(1)(c) of the BO, the Building Authority (BA) is to\nkeep a register of minor works contractors who are qualified to carry out such minor\nworks belonging to the class, type and item specified in the register for which they are\nregistered."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           For ease  of  identification, those minor works  contractors who  are\nregistered under section 10(1)(a) of the B(MW)R in the name of an individual self-\nemployed worker for carrying out various items of class III minor works are to be\nreferred to as Registered Minor Works Contractors (Individual) (RMWCs (Ind)). On\nthe other hand, those minor works contractors who are registered under section 10(1)(b)\nof the B(MW)R in the name of a company (including corporations, sole proprietorship\nand partnership) for carrying out various types and classes of minor works are to be\nreferred to as Registered Minor Works Contractors (Company) (RMWCs (Co))."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          The names of the RMWCs (Ind) and RMWCs (Co), together with the\nitems, types and classes of minor works that they are qualified to carry out, the expiry\ndateof their registration and their registration number will be published annually in the\nGazette.  Similar information including Authorized Signatory (AS) as referred to in\nparagraph 11(a) below will also be posted on the Buildings Department website.\n\nItems, Types and Classes of Minor Works"
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.         Any reference to items, types and classes of minor works in this practice\nnote should be construed in accordance with the provisions in Schedule 1 of the\nB(MW)R."
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "6.        An applicant for registration as an RMWC (Ind) should specify in the\napplication the items of minor works that he intends to apply for registration. An\napplicant for registration as an RMWC (Co) should specify in the application the types\nand classes of minor works that he intends to apply for registration.\n\n\n\n                                                                                                 /7. …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          Where an applicant is found qualified to carry out certain items, types\nand classes of minor works, the BA will specify in the register such items, types and\nclasses of minor works only for which the applicant is registered.\n\nRequirements for Registration as RMWC (Ind)"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 154
+        },
+        {
+          "label": "b",
+          "offset": 218
+        },
+        {
+          "label": "c",
+          "offset": 371
+        },
+        {
+          "label": "d",
+          "offset": 474
+        }
+      ],
+      "text": "8.          Under section 11(2) of the B(MW)R , the person who intends to register\nhimself as an RMWC (Ind) must satisfy the BA on the following aspects:\n\n        (a)     the appropriate qualifications and experience;\n\n        (b)    the ability and skills to personally carry out the item or items of\n               class III minor works for which registration relates;\n\n        (c)    completion of a recognised training course on class  III minor\n             works; and\n\n        (d)    the applicant is suitable for registration in the register."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.       A person who has been registered as an RMWC (Ind) may be employed\nby a contractor firm to act as the AS for it but he should not be the sole proprietor,\npartner or Technical Director (TD) as referred to in paragraph 11(b) below of the firm\nsimultaneously.\n\nRequirements for Registration as RMWC (Co)"
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 138
+        },
+        {
+          "label": "b",
+          "offset": 223
+        },
+        {
+          "label": "c",
+          "offset": 280
+        },
+        {
+          "label": "d",
+          "offset": 360
+        },
+        {
+          "label": "e",
+          "offset": 653
+        }
+      ],
+      "text": "10.         Under section 12(5) of the B(MW)R, an applicant for registration as an\nRMWC(Co) must satisfy the BA on the following aspects:\n\n        (a)     the appropriate qualifications and experience of its key personnel;\n\n        (b)      it has access to plants and resources;\n\n        (c)      if it is a corporation, its management structure is adequate;\n\n        (d)    the ability of the persons appointed to act for the applicant for the\n             purposes  of  the BO  to  understand  the minor works under\n               application through relevant experience and a general knowledge\n              of the basic statutory requirements; and\n\n        (e)     the applicant is suitable for registration in the register.\n\nAS and TD of RMWC (Co)"
+    },
+    {
+      "id": "p11-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "11.           In considering each application for registration as an RMWC (Co), the\nBA is to have regard to the qualifications, experience and suitability of the following\nkey personnel of the applicant:\n\n\n\n                                                                                               /(a) …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n        (a)    a minimum of one person appointed by the applicant to act for the\n               applicant for the purposes of the BO hereinafter referred to as the\n           AS; and\n\n        (b)     for a corporation – a minimum of one director from the board of\n               directors of the applicant, hereinafter referred to as the TD, who is\n              authorised by the board to:\n\n                   (i)   have access to plants and resources;\n\n                   (ii)   provide technical and financial support for the execution of\n                 minor works; and\n\n                    (iii)  make decisions for the company and supervise the AS and\n                    other personnel for the purpose of ensuring that the works\n                    are carried out in accordance with the BO.\n\nPersons Eligible to be the AS or TD of RMWC (Co)"
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 93
+        },
+        {
+          "label": "b",
+          "offset": 233
+        },
+        {
+          "label": "c",
+          "offset": 382
+        }
+      ],
+      "text": "12.         The following persons are eligible to become the AS and the TD of the\napplicant:\n\n        (a)      if the applicant is a sole proprietorship, the sole proprietor is the\n             only person eligible to act as the AS;\n\n        (b)      if the applicant is a partnership, any partner appointed by all the\n              other partners is eligible to act as the AS; and\n\n        (c)      if the applicant is a corporation, a suitable person appointed by\n              the board of directors is eligible to act as the AS, whereas the TD\n            must be a director appointed under the Companies Ordinance and\n             appointed by the board of directors to perform the role of TD."
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "13.      A person is allowed to take up the role of the AS as well as the role of the\nTD of a corporation at the same time provided that he meets the requirements of both\nAS and TD.\n\nAppointment of AS and TD of RMWC (Co)"
+    },
+    {
+      "id": "p14-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "14.        To  ensure  that  adequate  supervision  and  proper management  are\nprovided for the carrying out of minor works and to avoid possible situations of conflict\nof interest, persons who have been accepted as the AS and / or TD for an RMWC (Co)\ncannot act as a key personnel for another contractor firm simultaneously. Key personnel\nherein refer to AS, TD or Other Officer as described in Practice Note for Registered\nContractors 38.\n\n\n\n\n\n                                                                          /Refusal …"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -\n\nRefusal of Incomplete Submission"
+    },
+    {
+      "id": "p15-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "15.         The BA may refuse an application if the information or documentary\nproof that the BA considers necessary for determining the application is not submitted.\n\nMinor Works Contractors Registration Committee"
+    },
+    {
+      "id": "p16-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 298
+        },
+        {
+          "label": "b",
+          "offset": 358
+        },
+        {
+          "label": "c",
+          "offset": 499
+        },
+        {
+          "label": "d",
+          "offset": 578
+        },
+        {
+          "label": "e",
+          "offset": 699
+        }
+      ],
+      "text": "16.         Minor Works Contractors  Registration Committee (MWCRC)  is an\nindependent body appointed by the BA under section 6 of the B(MW)R. The function\nof the MWCRC is to assist the BA in considering applications relating to registration\nmatters of minor works contractors under the B(MW)R by:\n\n        (a)    examining the qualifications of applicants;\n\n        (b)    inquiring  as  the MWCRC  considers  necessary  to  ascertain\n             whether an applicant has the relevant experience;\n\n        (c)    conducting interviews with applicants and their key personnel;\n\n        (d)    advising the BA to allow, defer or refuse either in whole or in part\n              the applications; and\n\n        (e)    reviewing the decisions of the BA or the recommendations of\n              another MWCRC.\n\nComposition of MWCRC"
+    },
+    {
+      "id": "p17-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 72
+        },
+        {
+          "label": "b",
+          "offset": 198
+        }
+      ],
+      "text": "17.         Under section 7(1) of the B(MW)R, a MWCRC shall consist of:\n\n        (a)    one person nominated by the BA, who in BA’s opinion, has\n            knowledge and experience in minor works;\n\n        (b)    one authorized person (AP) or  registered  structural engineer\n            (RSE) selected by the BA from nominations by  the Architects\n               Registration Board (ARB),  the Engineers  Registration Board\n           (ERB) and the Surveyors Registration Board (SRB); and\n\n        c)     one person selected by the BA from among persons nominated by\n             such bodies as the BA thinks fit."
+    },
+    {
+      "id": "p18-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "18",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "18.         Under section 7(3) of the B(MW)R, the members of the committee will\nelect the Chairman among themselves.\n\nRequirements and Scope of Interview"
+    },
+    {
+      "id": "p19-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "19",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "19.          For application involving class I minor works, including registration as\nRMWC (Co), addition of minor works and addition of AS / TD, the BA will refer it to\nthe MWCRC for consideration.\n\n\n\n                                                                                     /20. …"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 5 -"
+    },
+    {
+      "id": "p20-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "20",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "20.        When an application is referred to the MWCRC for consideration, the AS\nnominated by the applicant in the application, or where necessary, the TD, will\nrepresent the applicant to attend an interview with the MWCRC.  Application not\ninvolving class I minor works in general will not be referred to the MWCRC except\nthere are special circumstances rendering the need for referral."
+    },
+    {
+      "id": "p21-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "21",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "21.           In processing applications for renewal of registration and restoration of\nname to the register, the BA may seek advice from the MWCRC under section 15(1)\nand 19(1) of the B(MW)R.\n\nDiscretion of the BA and the MWCRC Regarding Requirements for and Scope of\nInterviews"
+    },
+    {
+      "id": "p22-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "22",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "22.                It is emphasized that whether a particular applicant and his AS / TD is\nrequired to attend an interview or not and the scope of any such interview are dependent\non the circumstances of each case and are solely at the discretion of the BA and the\nMWCRC  for  the purpose  of  ensuring  the  required  standard  of  the  contractor.\nPerformance of the applicant during the interview, the track records of the applicant, etc.,\nwill be taken into consideration in this regard.\n\nRecommendations of MWCRC"
+    },
+    {
+      "id": "p23-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "23",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "23.          For  any  application  for  registration,  additional  minor  works  and\nadditional AS/TD that has been referred to the MWCRC, the BA must not allow, in\nwhole or in part (as the case may be), such an application unless the MWCRC so\nrecommends.\n\nReview of Decisions of BA or Recommendations of MWCRC"
+    },
+    {
+      "id": "p24-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "24",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "24.        An  applicant who  is  aggrieved by  a  decision  of  the BA  or  a\nrecommendation of a MWCRC in respect of matters arising from application for\nregistration, renewal of registration, restoration of registration, addition of items / types\n/ classes of minor works and addition of AS / TD may request a MWCRC to review the\ndecision or recommendation under section 26 of the B(MW)R by submitting the request\nin a specified form to the BA.  Upon payment of the prescribed fees, a request for\nreview will be presented to a MWCRC for consideration. Where required, the person\nmaking the request may have to attend an interview with the MWCRC.   If the BA\nsubsequently substitutes the original decision with another decision, the review fee paid\nby the applicant will be refunded."
+    },
+    {
+      "id": "p25-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "25",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "25.         The MWCRC directed to review shall not consist of a member who has\nconsidered the original application on which the decision or recommendation under\nreview relates.\n\n\n\n\n\n                                                                      /Application …"
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "- 6 -\n\nApplication Procedures and Requirements"
+    },
+    {
+      "id": "p26-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "26",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "26.            Details of the application procedures and requirements for inclusion of\nnames in the minor works contractor registers, renewal and restoration of registration\nare provided in Practice Note for Registered Contractors 69.\n\n\n\n\n\n                                                          ( YU Tak-cheung )\n                                             Building Authority\n\n\n\n\n\nRef. : BD REG/RC/13/3\n    BD REG/6-35/1\n\nFirst issue   December 2010\nThis revision September 2020 (AD/CS) (General Revision)"
+    }
+  ]
+}

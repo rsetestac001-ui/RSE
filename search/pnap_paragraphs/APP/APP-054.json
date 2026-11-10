@@ -1,0 +1,153 @@
+{
+  "code": "APP-054",
+  "source_text": "indexed_text/PNAP/APP/APP-054.txt",
+  "source_pdf": "documents/PNAP/APP/APP-054.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department    Registered Structural Engineers and        APP-54\n                          Registered Geotechnical Engineers\n\n\n                                Retaining Wall\n\n\n        A retaining wall means a permanent structure on land that retains earth or fill.\nAnchor plates supporting a rock or earth face will not be treated as a retaining wall.\n\nDesign and Construction"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The design and construction of a retaining wall should comply with\nsection 23 of the Building (Construction) Regulation (B(C)R).  Reference should be made\nto Practice Note for Authorized Persons, Registered Structural Engineers and Registered\nGeotechnical Engineers (PNAP) APP-63 and the Geoguide 1 - Guide to Retaining Wall\nDesign, Second Edition1 (Geoguide 1) issued by the Geotechnical Engineering Office\n(GEO) of the Civil Engineering and Development Department (CEDD).  Rock faces are\nnot considered as “earth” for the purpose of earth pressure calculation.\n\nDrainage Provisions and Filter"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            Other than for a minor retaining wall defined in section 22 of the B(C)R,\ndrainage provisions and the filter of a retaining wall should be designed and constructed in\naccordance with section 24 of the B(C)R.  The filter should consist of clean, sound and\ndurable material free from clay, organic materials and other impurities.  Where site\nconditions are non-aggressive, geotextile filters composed of resistant synthetic polymers\nare suitable alternatives to granular filters in permanent works."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.             Section 8.5 of the Geoguide 1 gives some guidance on the design criteria for\ngranular and geotextile filters.  Further guidance can be obtained from GEO Publication\nNo. 1/93 on Review of Granular and Geotextile Filters1.\n\nBackfill"
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The in situ properties of the backfill behind a retaining wall should meet the\ndesign requirements conforming to the Geoguide 1 and also the requirements in Table 1 at\nAppendix A."
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 82
+        },
+        {
+          "label": "b",
+          "offset": 164
+        },
+        {
+          "label": "c",
+          "offset": 209
+        }
+      ],
+      "text": "6.          The material selected for use as backfill generally must not contain:\n\n        (a)     peat, vegetation, timber, organic or other degradable materials;\n\n        (b)    dangerous or toxic material;\n\n        (c)     material susceptible to combustion;\n\n                                                                                             /(d) …\n\n\n1 Available in CEDD website www.cedd.gov.hk."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n        (d)     metal, rubber, plastic or synthetic material;\n\n        (e)     material susceptible to significant volume change, e.g. marine mud,\n               swelling clays and collapsible soils; or\n\n         (f)     soluble material."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.             In addition, the backfill should not be chemically aggressive.  For example,\nthe presence of excessive sulphate in soils can cause accelerated deterioration of concrete\nand steel.\n\nRemedial or Preventive Works to Existing Retaining Wall"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          Where remedial or preventive works to an existing wall are proposed, the\npast performance of the wall during its service life is of considerable assistance to the\ndesigner.  Guidance is given in section 7.3.3 of Geotechnical Manual for Slopes1 published\nby the GEO.  Designs carried out in accordance with the recommendations therein will be\nacceptable to the Building Authority.\n\nMonitoring during Construction of Retaining Wall"
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.            Monitoring should be carried out during construction of a retaining wall so\nas to measure accurately the performance of the retaining wall and the effects of construction\non groundwater condition, the site and any building, structure, land, street or services.\n\nDemolition of Existing Retaining Wall"
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "10.         Where it is intended to demolish an existing retaining wall, demolition plans\nand supporting documents as prescribed in regulation 8(3) and (4) of the Building\n(Administration) Regulations should be submitted for approval.\n\nMinor Works Relating to Retaining Walls"
+    },
+    {
+      "id": "p11-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "11.          Under the Minor Works Control System, certain minor building works\nrelating to routine maintenance of slope or retaining walls are designated as minor works,\nwhich may be carried out under the simplified requirements as an alternative to obtaining\nprior approval and consent under the Buildings Ordinance.  Reference can be made to\nSchedule 1 of the Building (Minor Works) Regulation and PNAP APP-147 regarding the\nlist of minor works items and the simplified requirements respectively.\n\n\n\n\n\n                                                                 ( YU Tak-cheung )\n                                                 Building Authority\n\n\nRef. : BD GP/BREG/C/8"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n\nThis PNAP is previously known as PNAP 142\nFirst issue    December 1990\nLast revision  April 1998\nThis revision  February 2021 (AD/NB2) (General revision)"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                   (PNAP APP-54)\n\n                               Table 1\n      Grading and Plasticity Requirements for Retaining Wall Backfill\n\n\n                                                    Backfill Type\n Requirement              Crushed Rock Products                 Soil\n Maximum Size (mm)                   200                             75(2)\n % Passing 63 µm                       0                     0 - 45\n BS Sieve Size\n Coefficient of Uniformity              ≥ 5                  ≥ 50(4)\n Liquid Limit (%)                  Not applicable              ≤ 45(5)\n Plasticity Index (%)                Not applicable              ≤ 20(5)\n Notes:\n\n (1)    Relevant test methods for grading and plasticity of  fill materials are\n         specified in Sections 6 and 8 of Geospec 3－Model Specification for Soil\n        Testing prepared by the Geotechnical Engineering Office.\n\n (2)    The backfill may contain up to 5% of rock fragments not exceeding 200\n     mm in size, provided that these do not interfere with the compaction\n        requirements or cause any damage to the retaining wall.\n\n (3)     In addition to the above requirements, the maximum particle size should\n        not exceed two-thirds of the thickness of the compacted layer of backfill\n         in order to ensure good compaction.\n\n (4)    The above requirements apply to soil derived from in situ rock weathering\n         only.   For sands and gravels of  alluvial  origin, the coefficient of\n        uniformity should be not less than 5 and the material should not be gap-\n        graded (i.e. having two or more distinct sections of the grading curve\n         separated by sub-horizontal portions).\n\n (5)    There is no need to check the liquid limit and plasticity index of the soil if\n         the backfill contains less than 30% by weight of particles less than 63 µm.\n\n (6)    The determination of the particle size distribution of the backfill should be\n         carried out without using dispersants.\n\n\n\n\n\n(Rev. 2/2021)"
+    }
+  ]
+}

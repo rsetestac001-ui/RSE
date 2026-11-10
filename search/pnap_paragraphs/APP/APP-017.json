@@ -1,0 +1,102 @@
+{
+  "code": "APP-017",
+  "source_text": "indexed_text/PNAP/APP/APP-017.txt",
+  "source_pdf": "documents/PNAP/APP/APP-017.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers      APP-17\n\n                                     Practice Note for Authorized Persons\n  Buildings Department                                                   61\n                              and Registered Structural Engineers\n\n\n\n\n                               Rock Faces\n                        Building (Planning) Regulations 27 and 47\n\n\n             For the purposes of Building (Planning) Regulation 47, only a widely-jointed\n(spacing over 600mm) rock face having no unfavourably oriented joints or other discontinuities or\nother defects will be regarded as a “massive rock face”.  For slopes other than “massive rock\nface”, the provisions of Building (Planning) Regulation 27 will apply."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The Appendix of this PNAP elaborates on the requirements on submission of site\nformation plans involving rock faces and the standard of good practice to enable safety of rock\nfaces.  The importance of engaging qualified geotechnical engineers in the rock face survey is\nstressed and the lessons learnt from past rock face failures including the Fei Tsui Road fatal\nlandslide are incorporated."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           Adequate measures should be taken  to prevent uncontrolled  rockfalls during\nconstruction.  This is particularly important for works on existing rock faces that affect public\nsafety.\n\n\n\n\n\n                                             (CHOI Yu-leuk)\n                                                          Building Authority\n\nRef. : BD GP/BREG/P/28\n\nFirst issued June 1979\nLast update May 1994\nThis update December 1996 (AD/SE,GGE/I)\n\nIndex under :  Blasting\n            B(P)R 27 & 47 Rock Faces\n            Rock Faces - B(P)R 27 & 47"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "Appendix to PNAP 61\n                                                    Appendix to APP-17\n          Requirements on Submission of Site Formation Plans Involving Rock Faces\n\n           The purpose of this Appendix is to lay down the requirements on submission of\nsite formation plans involving rock faces and to elaborate on the standard of good practice to\nenable safety of rock faces both during construction and in the long term. The importance of\nengaging qualified geotechnical engineers in the rock face survey is stressed and the lessons\nlearned from  past rock  face  failures  including  the  Fei Tsui Road  Fatal  Landslide  are\nincorporated."
+    },
+    {
+      "id": "p2-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         As for design of other types of slopes, design of rock faces starts with site\ninvestigation  which may  include  site  reconnaissance,  aerial  photograph  interpretation,\nengineering  geological  field mapping and  drillhole  investigation.   Rock mass  condition\nincluding information on discontinuities could be obtained by appropriate field and laboratory\ntesting such as packer (water absorption) tests, impression packers and close circuit television\nsurveying, etc.  Useful information on this aspect is contained in the Geotechnical Manual for\nSlopes, Geoguide 2  - Guide  to  Site  Investigation and Geoguide 4  - Guide  to Cavern\nEngineering. Some guidelines on shear strength of rock mass and rock joints can be found in\nGeoguide 1 - Guide to Retaining Wall Design."
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          Methods of stability analysis and principle stabilisation measures for rock slopes\nare summarised in Tables 5.6 and 5.7 of the Geotechnical Manual for Slopes."
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.           Persons responsible for the formation of rock faces will rarely be able to assess\nthe full extent of the stability problem until excavation is nearly completed. Only then will the\nspacing, persistence, orientation and other characteristics (such as nature of constituent infill\nmaterials, roughness and aperture size) of discontinuities and other planes of weakness in the\nrock be revealed.  It is, therefore, frequently necessary to make assumptions about the jointing\npattern an other characteristics in order to evaluate the overall stability of the rock slope and to\nmake provision for local support of the final face and, as appropriate, general support of the\nrock slope.  These assumptions and the basis for them must be clearly and fully stated on the\nsite formation plans submitted for approval."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          Such plans should also contain notes on observance of the following standard of\ngood practice :\n\n        a)     any blasting to be carried out shall be controlled to avoid damage\n                to the final face.  Pre-split or smooth-face methods shall be used\n                to form the final face in suitable geological conditions;\n\n       b)       if expanding agents are to be used for rock splitting, the method\n               to prevent the uncontrolled flow of the expanding agents shall be\n                stated, and any adverse effect on the stability of rock faces shall\n             be assessed;"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 2 -\n\n\n        c)     immediately  after excavation, the intended  final face  shall be\n              scaled by removing loose material and shall be surveyed by a\n               qualified  geotechnical engineer or engineering  geologist,  e.g.\n              Registered Professional Engineer (Geotechnical) with adequate\n              experience in the design and construction of rock faces.  The\n             survey shall include the identification of any water seepages and\n           weak or relatively impermeable geological zones or structures\n            which may have adverse effect on the stability of the slope (for\n             example, unfavourably oriented persistent layers of kaolinitic clay\n                in altered or weathered rocks).  Results of the survey shall be\n             used in the design and detailing of support measures, rockfall\n               control measures and drainage measures; and\n\n       d)     large-scale   engineering   geological   drawings   (marked-up\n               transparent overlays to photographs or otherwise), showing  all\n                salient  rock   features   including  any  weak  or   relatively\n             impermeable  geological  zones  or  structures  together  with\n              appropriate  descriptions  in accordance with Geoguide  3,  the\n             dimensioned  location,  dimensioned  extent and  details  of  all\n              support  and  drainage  measures,  shall  be  submitted  for  the\n              approval of the Building Authority.  Documentation will also be\n              required on :\n\n                    i)      calculations and supporting data to justify the design of all\n                     support measures and to confirm overall stability;\n\n                    ii)     photographs of the scaled rock faces, where physically\n                       possible."
+    },
+    {
+      "id": "p6-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          With  regard  to  para  5(c),  your  attention  is drawn  to  the  Geotechnical\nEngineering Office Investigation Report on the Fei Tsui Road Fatal Landslide of 13 August\n1995.  The existence of an unfavourably oriented persistent layer of weak and relatively\nimpermeable material in the ground is a principal cause of failure. A copy of the report is\navailable for inspection in the Civil Engineering Library of the Civil Engineering Building at\n101 Princess Margaret Road, Homantin, Kowloon."
+    }
+  ]
+}

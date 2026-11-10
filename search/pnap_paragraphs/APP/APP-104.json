@@ -1,0 +1,150 @@
+{
+  "code": "APP-104",
+  "source_text": "indexed_text/PNAP/APP/APP-104.txt",
+  "source_pdf": "documents/PNAP/APP/APP-104.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and       APP-104\n                          Registered Geotechnical Engineers\n\n\n                 Exclusion of Floor Areas for Recreational Use\n\n\n               Practice Note for Authorized Persons, Registered Structural Engineers and\nRegistered Geotechnical Engineers (PNAP) APP-42 advises in its paragraph 32 that\ncertain recreational facilities for residential developments aimed to benefit the owners\nand residents generally may be considered for exclusion from gross floor area (GFA)\ncalculations by  modification  of  regulation  23(3)(a)  of  the  Building  (Planning)\nRegulations (B(P)R) on a case-by-case basis. With the exception of covered landscaped\nand play areas as described in paragraph 8 below, the granting of GFA concessions set\nout in this PNAP is also subject to compliance with the pre-requisites and the overall cap\non GFA concessions stipulated in PNAP APP-151 on Building Design to Foster a Quality\nand Sustainable Built Environment."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            Reference may be made to Appendix A for those active recreational\nfacilities which are commonly accepted for exclusion from GFA calculations.  The\npassive and ancillary facilities in the said Appendix may also be accepted provided their\nsizes are commensurate with the use appropriate to the development."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            This practice note gives guidance on the requirements and conditions for\nconsidering and granting of exemption from GFA calculations under section 42 of the\nBuildings Ordinance.\n\nApplication"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.            All applications for exclusion of floor areas for recreational use from GFA\ncalculations must be accompanied by information substantiating the need for the areas\nwith justification on overall size of the facilities, the headroom requirements and the mix\nof the various facilities as well as how the recreational facilities will be operated and\ncontrolled to ensure their exclusive use by the owners and residents including their bona\nfide visitors.  The Building Authority (BA) would not, however, allow the GFA of such\nfacilities including all voids, plant rooms (including filtration plant room for swimming\npool), covered courts, etc. serving solely for the recreational facilities to exceed the\nlimitation in a sliding scale as stated in Table 1 below.\n           Total Domestic GFA      Max. % of total Domestic GFA/Max.\n                                             area for GFA concession\n                                           (whichever is greater)\n         up to 25,000 m2        5 %\n         >25,000 to 50,000 m2     4.5 % / 1,250 m2\n         >50,000 to 75,000 m2     4.0 % / 2,250 m2\n         >75,000 to 100,000 m2   3.5 % / 3,000 m2\n         >100,000 to 125,000 m2  3.0 % / 3,500 m2\n         >125,000 m2             2.5 % / 3,750 m2\n          Table 1: Sliding scale of GFA concession for recreational facilities\n                                                                                                /5. …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.         To enhance the well-being of the elderly, at least one elderly-friendly toilet\nand elderly fitness equipment1 in compliance with the relevant requirements under the\nDesign Manual: Barrier Free Access should be provided at the recreational facilities to be\nexcluded from GFA calculation. In case where the elderly-friendly toilet also serves as a\nrequired accessible toilet, another elderly-friendly facility in addition to the elderly fitness\nequipment1 should be provided.  Such elderly-friendly  toilet,  facilities and fitness\nequipment should be indicated on the plans."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.            This concession does not apply  to  substantially luxury clubs with\nrestaurants and other  facilities obviously meant for an exclusive membership and\ncommercial undertakings rather than for the general benefit of owners and residents."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           Commercial undertakings are not qualified for exclusion from GFA\ncalculation.  For the avoidance of doubt, a kitchen of reasonable size ancillary to the\nrecreational activities at development sites without any commercial floor space may be\nconsidered for concession upon application."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.           Open-sided covered landscaped areas/children play areas provided under\nthe footprint of the domestic tower would not be subject to the limitation in Table 1 above,\nbut should be within 5% of the total domestic GFA, details as stated under PNAP APP-42\nand subject to compliance with the pre-requisites stipulated in PNAP APP-151."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.         As a pre-requisite for giving approval of plans, the developer or owner of\na proposed development is required to submit a letter of undertaking designating the\nrecreational facilities as a common area in a Deed of Mutual Covenant with details of the\nuse and location clearly indicated and binding and enforceable terms and conditions\nincluded for the control, operation, financial support and maintenance of the facilities.\nAny subsequent amendments affecting the recreational facilities must be accompanied\nwith a revised undertaking and layout plan.\n\nExemption Conditions"
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "10.          Exemption from GFA  calculations  will be  effected by way  of  a\nmodification of the relevant Building (Planning) Regulations. As a condition of the\nmodification, the BA will require the undertaking letter of the developer or owner to be\nregistered in the Land Registry before the submission of application for occupation\npermit. A further condition will be imposed to the effect that the recreational area should\nbe for the exclusive use of the owners and residents and their bona fide visitors only as\nindicated on the approved plans and such area shall not be used for any purpose or by any\nother persons without the prior consent of the BA."
+    },
+    {
+      "id": "p11-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "11.                It is important for authorized persons to note that an occupation permit\nwill not be issued unless there is evidence indicating that the relevant undertaking and\nlayout plan are registered in the Land Registry, and information on GFA concession has\nbeen disseminated in the Approved Building Plans as stipulated in PNAP ADM-2.\nDeveloper or owner should also remind purchasers that the BA will prosecute for\ncontravention of the conditions of exemption.\n\n                                                         /Implementation …\n\n\n1  The provision should be commensurate with the design of the recreational facilities. Examples\n  may be referred to Chapter 6 of the Design Manual: Barrier Free Access."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\nImplementation"
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.         The requirements set out in paragraph 5 above are applicable to all new\nbuilding plans or major revision of building plans for development proposals submitted\nto the BA for approval on or after 31 August 2025.\n\n\n\n\n\n                                                              ( HO Chun-hung )\n                                               Building Authority\n\n\n\n\n\nRef. : BD GP/BORD/48 (II)\n\nThis PNAP is previously known as PNAP 229\nFirst issue    January 1999\nLast revision  January 2011\nThis revision  July 2025 (AD/NB1) (Paragraph 5 added, paragraphs 1, 4, 6, 8 & 12\n                                amended,  previous  paragraphs 12 & 13 and\n                               Appendix B deleted)"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                 (PNAP APP-104)\n\n\n                  Recreational Facilities Commonly Accepted\n                      for Exclusion from GFA Calculations\n\n\n                                           Ancillary Facilities which may be\n  Facilities which are commonly accepted   accepted, depending on the size and\n                                            relationship with main functions\n Active facilities :\n\n   Swimming pool                     Club house management office/\n   Multi-purpose ball court/Squash court     Club house reception counter\n    Basketball court/Football court         Club house staff room\n   Tennis court/Badminton court          Snack  bar/mini-bar/pantry  (total  area\n   Children play area                         not exceeding 10m2)\n   Games room                               First-aid room\n   Indoor golf room                      Kitchen (not exceeding 15 m2) for sites\n    Table-tennis room                        without any commercial floor space\n    Fitness room                        Changing room/shower facilities\n   Gymnasium                               Lavatories/toilets\n   Weight training/Aerobic/Exercise room  Store rooms\n   Bowling alley\n   Skating rink\n    Volleyball court\n   Rock climbing room\n   Dance/Yoga room\n\n  Passive facilities :\n\n    Sitting area/lounge\n    Billiard room\n   Sauna/Jacuzzi/Spa facilities\n   Reading room/Study room/Library\n   Function room\n   Computer/video game room\n   Music room/Karaoke room\n\n\n\n\n\n(Rev. 1/2011)"
+    }
+  ]
+}

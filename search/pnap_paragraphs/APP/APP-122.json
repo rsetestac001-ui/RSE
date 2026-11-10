@@ -1,0 +1,157 @@
+{
+  "code": "APP-122",
+  "source_text": "indexed_text/PNAP/APP/APP-122.txt",
+  "source_pdf": "documents/PNAP/APP/APP-122.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department        Registered Structural Engineers and     APP-122\n                            Registered Geotechnical Engineers\n\n\n                    Provision of Sky Garden in Refuge Floor\n\nIntroduction\n\n        A refuge floor provides a safe and comfortable place for occupants to stay\nand wait for rescue in case of fire. When not in use as a refuge, the floor space may also\nbe utilised as a garden which provides recreational garden space for communal use and\nhelps enhance our built environment.  The Buildings Department has examined, in\nconsultation with Fire Services Department (FSD), the possibility of incorporating such\ngardens in refuge floors.\n\nRefuge floor cum Sky Garden"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 385
+        },
+        {
+          "label": "b",
+          "offset": 997
+        },
+        {
+          "label": "c",
+          "offset": 1101
+        },
+        {
+          "label": "d",
+          "offset": 1551
+        },
+        {
+          "label": "e",
+          "offset": 1770
+        }
+      ],
+      "text": "2.            Further to the promulgation of incentives in Joint Practice Note (JPN)\nNo. 1  to  promote  the  provision  of communal  sky  gardens  for  environmental\nenhancement, the Building Authority (BA), having examined all relevant matters, is\nprepared to accept the incorporation of communal sky gardens in refuge floors subject to\ncompliance with all the following conditions:\n\n        (a)    Requirements on refuge floors specified in paragraph 21 of the\n           Code of Practice for the Provision of Means of Escape in Case of\n               Fire (MOE Code) and paragraph 18 of the Code of Practice for\n               Fire Resisting Construction (FRC Code), except those special\n              provisions mentioned below, are complied with. In assessing the\n               net area for refuge and the minimum dimension of the area for\n               refuge, no account should be taken of the space occupied by any\n                planters, equipment and furniture in the refuge floor;\n\n        (b)    All garden furniture and equipment in the refuge floor are firmly\n               fixed;\n\n        (c)    All furniture, equipment and rubbish bins and other  artificial\n                features, including the finishing materials used in these gardens\n               are non-combustible materials and do not emit toxic gas in case of\n                  fire, and are so sited that they will not obstruct the exit routes and\n                     lift openings. Rubbish bins, where provided, are fitted with self-\n               closing lids;\n\n        (d)    The garden is not to be used for activities involving the use of\n             naked fire e.g. barbecuing. A notice to this effect should be\n              posted at prominent locations at the garden; and\n\n        (e)    Other criteria applicable to communal sky gardens specified in the\n           JPN No. 1 are complied with.\n\n                                                                 /Wholesale ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\nWholesale Conversion of Existing Buildings"
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           Wholesale conversion of an existing industrial building or other types of\nbuildings may entail the provision of a refuge floor in accordance with the MOE Code.\nTo promote the provision of greenery for environmental enhancement, the BA  is\nprepared to accept the incorporation of communal sky gardens in such refuge floors\nsubject to compliance with paragraph 2 above.  In view of the constraints posed by the\noriginal design of the existing building, the BA is also prepared to accept a refuge floor,\nincluding the main roof as a refuge floor, that does not meet the technical requirements\nprescribed in paragraphs 21.2 and 21.3 of the MOE Code and/or paragraph 18.2 of the\nFRC Code, subject  to the provision of enhanced  fire service  installations  to the\nsatisfaction of FSD and the incorporation of suitable greenery within the refuge floor.\nIf the main roof is used as a refuge floor, it should be designed as a green roof such that\nno less than 50% of the total roof area is planted with greenery1 and the design complies\nwith paragraphs 2(b) to (d) above.\n\nLift Access"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 183
+        },
+        {
+          "label": "b",
+          "offset": 383
+        }
+      ],
+      "text": "4.          Where sky gardens are incorporated in refuge floors, relaxation on the\nrestriction to provide lift door openings onto such floors may be granted subject to the\nfollowing:\n\n        (a)    The lift landing doors should open onto a protected lobby with\n             doors having an FRP of not less than 1 hour and walls having an\n          FRP of not less than 2 hours; and\n\n        (b)   The lift operation is arranged in such a manner that the landing\n             doors at the refuge floor, other than those for fireman’s lifts, will\n             be automatically locked when the fire alarm is on.\n\nFire Service Installations"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          Where a drencher system is required at external wall openings, FSD may\nwaive such requirement if the circumstances so justified on the merits of individual\ncases."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 191
+        }
+      ],
+      "text": "6.            Further to paragraph 3 above, the following is an example of enhanced\nfire service installations that may be required by FSD to compensate for a deficiency in\nthe refuge floor:\n\n        (a)    Water flow rate of the drencher system to cover all external wall\n             openings of the refuge floor might have to be greater than 10 litres\n              per minute per square metre as required by the Code of Practice\n               for Minimum Fire Service Installations and Equipment. This will\n             enhance protection against smoke travelling into the refuge floor\n             through such external wall openings; and\n                                                                                          /(b) …..\n\n\n\n1 Greenery in the form of a short grass turf suitable for foot traffic can be counted towards the net area for\nrefuge."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n        (b)   Where a sprinkler system  is required to protect the converted\n               building, the sprinkler heads shall be of fast response type for\n               early detection and suppression of  fire so as to minimize the\n             presence of smoke.\n\nLandscape Works"
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           While live plants are unlikely to pose undue fire risk2, the use of artificial\nplants for decorative purpose should be avoided where possible. The Authorized Person\nshould advise the management to ensure that any artificial plants and soil substrate\nmaterials are non-combustible and do not emit toxic gases in case of fire."
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "8.           Greenery described in paragraph 3 above is restricted to live plants only.\nSubject to structural feasibility, plants with larger mature size are encouraged to enhance\nthe greenery provision and amenity value of the sky garden.  Reference can also be\nmade to the “Study on Green Roof Application in Hong Kong Final Report” accessible\nfrom the website of the Development Bureau (http://www.devb.gov.hk/filemanager / en\n/ content_29/Green%20roof%20study_final%20report.pdf)."
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.       A maintenance and management manual for the landscape works should\nbe made available for end-users to safeguard public hygiene and safety of the sky\ngarden.\n\nEarly Consultation"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.         The BA may impose additional requirements depending on the special\ncircumstances of individual cases. Authorized Persons proposing sky gardens in refuge\nfloors with very special design are advised to make early enquiries. FSD also welcomes\nany enquiries prior to formal submission of plans.\n\n\n\n\n\n                                                                       ( AU Choi-kai )\n                                                     Building Authority\n\nRef. : BD GP/LEG/6(II)\n\nThis PNAP is previously known as PNAP 258\nFirst issued December 2001\nThis revision September 2010 (AD/NB1) – paragraphs 1, 2, 7 and 10 amended, 3, 6\n                                     and 8 added\n\n\n\n\n\n2 Live plants that are likely to be highly flammable (such as those secreting resinous sap or having volatile\nwaxes or oils in their leaves, twigs and stems) should be used with caution."
+    }
+  ]
+}

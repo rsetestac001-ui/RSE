@@ -1,0 +1,164 @@
+{
+  "code": "APP-100",
+  "source_text": "indexed_text/PNAP/APP/APP-100.txt",
+  "source_pdf": "documents/PNAP/APP/APP-100.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department       Registered Structural Engineers and    APP-100\n                             Registered Geotechnical Engineers\n\n\n\n       Structural Plans of Glass Reinforced Polyester (GRP) Water Tanks\n\n\n            Water tanks constructed in glass reinforced polyester (abbreviated as\nGRP) are building works subject to control under the Buildings Ordinance.  This\npractice note gives guidelines on the preparation of plans showing structural details of\nthese GRP water tanks and the related test requirements.\n\n\nSpecial Aspects of GRP"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          Compared with a traditional structural material such as mild steel, the\nhigh strength and low stiffness of GRP laminates means that structural design will be\ninfluenced more strongly by stiffness than strength. Furthermore, in service conditions,\nthe long-term performance of a load-bearing GRP component can be adversely affected\nby several factors including the creep properties and the environment. Appropriate\nallowance for these factors should therefore be made in design to avoid premature\nfailure.\n\n\nPlans Submission"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 201
+        },
+        {
+          "label": "b",
+          "offset": 249
+        },
+        {
+          "label": "c",
+          "offset": 394
+        },
+        {
+          "label": "d",
+          "offset": 529
+        },
+        {
+          "label": "e",
+          "offset": 601
+        }
+      ],
+      "text": "3.           Except for small GRP water tanks where separate guidelines are given in\nparagraph 7, the following particulars are required to be included in the structural plans\nsubmitted for approval :\n\n\n      (a)      reference to design standards;\n\n      (b)      material  specifications   (e.g.  material  types,  relevant  compliance\n              standards and mechanical properties etc);\n\n      (c)      general arrangement showing  the maximum designed  capacity,  the\n               principal dimensions and thicknesses;\n\n      (d)      fabrication details of the major structural components;\n\n      (e)      fixing arrangements and details of the tank supports.\n\nDesign calculations are also required to be submitted to substantiate the structural\nadequacy and integrity of the water tank and the base support.\n\n\n                                                                                       /Quality...."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "-  2   -\n\n\nQuality Control"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 154
+        },
+        {
+          "label": "b",
+          "offset": 402
+        }
+      ],
+      "text": "4.          The following documents are required to be submitted prior to consent\napplication for the commencement of GRP water tank installation works :\n\n          (a)   test reports issued by a recognised laboratory/organization to substantiate\n               the mechanical properties of the fibre glass panel and  its ability to\n              withstand 6 times the design hydrostatic pressure; and\n\n          (b)  manufacturer’s quality control details of the production of fibre glass\n              panels and fabrication of the GRP tank.\n\nPerformance Tests"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 247
+        },
+        {
+          "label": "b",
+          "offset": 456
+        }
+      ],
+      "text": "5.           Performance tests are required to be carried out upon completion of the\nGRP water tank to satisfy the following requirements. The water tank shall be filled\nwith water up to the overflow level at ambient temperature for the testings:\n\n      (a)     Leakage  tests  - The  assembled  water  tank  should  be  tested  to\n             demonstrate that there will be no visible sign of leakage after standing\n               for at least 48 hours.\n\n      (b)      Deflection test - The assembled water tank should be tested to satisfy that\n              the deflection of the sides and bottom of the tank shall not exceed 1.0%\n              of the depth of the tank and 10mm respectively after maintaining the full\n             water load for at least 2 hours."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.         Upon satisfactory completion of the tests, the test reports should be\nsubmitted  to  the  Building  Authority appended  with  a  statement  signed by  the\nAuthorized Person/Registered Structural Engineer who prepared the plans to confirm\nthat the water tank works have been carried out to  satisfy the above-mentioned\nperformance requirements.\n\nSmall GRP Water Tank"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 299
+        },
+        {
+          "label": "b",
+          "offset": 386
+        },
+        {
+          "label": "c",
+          "offset": 475
+        }
+      ],
+      "text": "7.           For GRP water tanks with a volume capacity and the water head not\nexceeding 9m3 and 2m respectively, requirements described in paragraphs 3 to 5 above\nwould normally not be required. However, the following particulars should be included\nin the structural plans submitted for approval :\n\n      (a)      Location, principal dimensions, capacity and weight of the water tank;\n\n      (b)     Reference to design standards and material specification of the tank; and\n\n      (c)     Fixing arrangements and  details, with calculations substantiating the\n                structural adequacy of the tank supports.\n\n\n                                                                                               /8.   ....."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "-  3   -"
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "8.           For indoor GRP water tanks with a volume capacity and water head not\nexceeding 4m3 and 1.2m respectively, only item (a) in paragraph 7 above needs to be\nincluded in the structural plans submitted for approval together with calculations\nsubstantiating the structural adequacy of the floor structure supporting the water tank.\n\n\nMinor Works Relating to GRP Water Tanks"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.        Under the Minor Works Control System, certain works relating to GRP\nwater tanks in an existing building have been designated as minor works, which may be\ncarried out under the simplified requirements as an alternative to obtaining prior\napproval and consent from the Building Authority. For the list of minor works items\nand the simplified requirements, please refer to Schedule 1 of the Building (Minor\nWorks) Regulation and PNAP APP-147 respectively.\n\n\n\n\n\n                                                                        ( AU Choi-kai )\n                                                     Building Authority\n\n\n\n\n\nRef : BD GP/BREG/C/32\n\nThis PNAP is previously known as PNAP 222\nFirst issue   March 1998\nThis revision December 2010 (AD/NB2) – para. 7 amended, para. 9 added"
+    }
+  ]
+}

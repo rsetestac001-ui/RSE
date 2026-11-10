@@ -1,0 +1,168 @@
+{
+  "code": "APP-175",
+  "source_text": "indexed_text/PNAP/APP/APP-175.txt",
+  "source_pdf": "documents/PNAP/APP/APP-175.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-175\n                          Registered Geotechnical Engineers\n\n\n                         Elderly-friendly Building Design\n    Regulation 73 and Fourth Schedule of the Building (Planning) Regulations\n\nApplication\n\n          With the coming into operation of the Building (Planning) (Amendment)\nRegulation 2026 on 1 August 2026, regulation 73 and Fourth Schedule of the Building\n(Planning) Regulations (B(P)R) require a building or a residential unit in a building that\nfalls within the scope of application1 to be designed to the satisfaction of the Building\nAuthority (BA) in a manner that will facilitate the access to, and use of, the building or\nunit and its facilities by elderly persons."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        By virtue of section 39(2) of the Buildings Ordinance (BO), the mandatory\nrequirements for elderly-friendly building design do not apply to building works which\nare being carried out or consent to the commencement of which has been given as at\n1 August 2026. In general, building works may refer to foundation works of the proposed\ndevelopment."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.        As regards alteration and addition works to an existing building or part of\nan existing building falling under the scope of application, the mandatory requirements\nfor elderly-friendly building design do not apply to building works which are being\ncarried out or consent to the commencement of works has been given, or minor works\ncommenced under the Minor Works Control System2 as at 1 August 2026."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.              If there are special circumstances rendering undue difficulties in complying\nwith the requirements in existing buildings, exemption from or modification of the\nprovisions under regulation 73 and Fourth Schedule of the B(P)R may be considered by\nthe BA based on individual case merits under section 42 of the BO.\n\nElderly-friendly Building Design Requirements"
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.         The mandatory  elderly-friendly design requirements are  stipulated  in\nParts 2 and 3 of the Fourth Schedule of the B(P)R as follows:\n\n\n                                                                                               /(a) …\n\n\n\n1  Scope of application refers to residential buildings, commercial buildings, buildings with\n   residential units or commercial units. Single-household buildings of 13 m or less in height\n   above ground level, Transitional Housing, Light Public Housing, and temporary buildings or\n   contractor’s sheds referred to in Part VII of the B(P)R will be excluded.\n2  The commencement date for minor works refers to the “Date of Commencement of the Works”\n   stated on the specified form."
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n      (a)    13 building design requirements, which are applicable to areas\n            (excluding residential units) accessible to residents or guests of\n              residential units or the public of residential buildings, commercial\n             buildings, and buildings with  residential units or commercial\n              units –\n\n                 (i)   automatic door at one of the main entrances of a residential\n                  building or a building with residential unit;\n\n                 (ii)   higher illumination level at regulated route3 (such as path,\n                     staircase, ramp, lobby and corridor) in an indoor area;\n\n                  (iii)  wider regulated route in an indoor area;\n\n               (iv)   slip-resistant floor surfaces at regulated route in an indoor\n                    area;\n\n              (v)   wider door on a regulated route (applicable to indoor and\n                 outdoor areas);\n\n               (vi)  lower door threshold on a regulated route (applicable to\n                  indoor and outdoor areas);\n\n               (vii)  larger accessible lift car;\n\n                (viii) mirror-like finishes for internal surface of accessible lift car;\n\n               (ix)  lower risers and wider treads of indoor main circulation\n                     staircase;\n\n              (x)   dual-level handrails of indoor main circulation staircase;\n\n               (xi)   slip-resistant floor surfaces at regulated route in an outdoor\n                    area;\n\n               (xii) lower risers and wider treads of outdoor main circulation\n                     staircase; and\n\n                (xiii) dual-level handrails of outdoor main circulation staircase;\n                and\n\n      (b)     three  building  design  requirements, which  are  applicable  to\n              residential units in buildings –\n\n                 (i)   wider main entrance door;\n\n                 (ii)   lower threshold of main entrance door; and\n\n                  (iii)  slip-resistant floor surfaces in bathroom, kitchen and toilet.\n\n                                                          /Performance …\n\n3   It covers the route leading from lot boundary (i.e. access to a public street or a pedestrian way)\n   to building entrance and common passageways in the building where residents or guests of\n   residential units or the public may or are permitted to have access."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\nPerformance Standards"
+    },
+    {
+      "id": "p6-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           Regulations 72 and 73 of the B(P)R should be read in parallel. While the\nFourth Schedule of the B(P)R stipulates the specific provisions for elderly-friendly design\nrequirements, the design requirements specified in the Third Schedule of the B(P)R for\npersons with a disability shall also apply. For example, section 5 of the Fourth Schedule\nof the B(P)R requires provision of dual-level handrails for the main circulation staircase,\nother design requirements for handrails, such as dimension, shape and loading, under\nDivision 8 of the Third Schedule of the B(P)R shall also be complied with."
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          Performance standards on  slip-resistant  floor  surface and  mirror-like\nfinishes of accessible lift car, as accepted by the BA for compliance with regulation 73\nand Fourth Schedule of the B(P)R, are detailed in Appendices A and B respectively.\n\n\n\n\n                                                              ( HO Chun-hung )\n                                              Building Authority\n\n\n\n\n\nRef. : BD NBD1/K/BREG/1\n\nFirst issue    August 2026 (AD/NB1)"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                 (PNAP APP-175)\n\n\n                             Slip-resistant Floor Surface\n\n\n            Floor surfaces required to be slip-resistant shall be tested and classified in\naccordance with the following standards, or other equivalent standards:\n\n     (a)      Australian Standard AS 4586:2013, Slip resistance classification of\n          new pedestrian surface materials; or\n\n     (b)    German Standard DIN 51130:2014-02, Testing of floor coverings –\n            Determination of the anti-slip property – Workrooms and fields of\n               activities with slip danger – Walking method – Ramp test."
+    },
+    {
+      "id": "p2-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         Under sections 3(2) and 13 of the Fourth Schedule of the B(P)R, floor\nsurfaces of the regulated routes and wet areas shall attain the respective slip resistance\nratings under the wet pendulum slip test or the oil-wet ramp slip test specified in the table\nbelow1.\n\n               Area               Wet Pendulum    Oil-Wet Ramp\n                                                Slip Rating2        Slip Rating3\n Indoor area    regulated route                 P3             R10\n               bathroom, kitchen and            P3             R10\n                    toilet of a residential unit\n Outdoor area   regulated route                 P4             R11"
+    },
+    {
+      "id": "p3-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         The classifications generally refer to the minimum standards required for\nslip-resistant floor surfaces in different areas.  Higher standards may be adopted\ndepending on the actual site conditions and operational needs, provided that the risk of\nstumbling or tripping resulting from such higher standards has been taken into account."
+    },
+    {
+      "id": "p4-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         To maintain optimal slip resistance and enhance safety,  it is crucial to\nimplement effective drainage systems and other preventive measures.  These efforts\nensure that dry areas remain free from standing or casual water, minimising slip hazards\nand promoting a secure environment."
+    },
+    {
+      "id": "p5-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          Authorized Persons (AP) are reminded to consider the durability as well as\nthe ease of routine cleaning, maintenance and repair of the selected flooring materials to\nensure that the floor surfaces will remain slip-resistant throughout its use.\n\n(8/2026)\n\n1  The results from the wet pendulum slip test and the oil-wet ramp slip test, as detailed in the\n   classification tables, are distinct and not interchangeable.\n2  The wet pendulum slip test, which can be conducted in laboratory or on site, classifies slip\n   resistance from P1 to P5, where P5 represents the highest slip resistance rating.  For details,\n   please refer to AS 4586:2013.\n3  The oil-wet ramp slip test, which is conducted in laboratory, classifies slip resistance from R9\n   to R13, where R13 represents the highest slip resistance rating. For details, please refer to\n  AS 4586:2013 or DIN 51130:2014-02."
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Appendix B\n                                                 (PNAP APP-175)\n\n\n                   Mirror-like Finishes of Accessible Lift Car\n\n\n           According to section 9(3) of the Fourth Schedule of the B(P)R, the internal\nsurface facing the entrance of the lift car of an accessible lift shall be provided with\nmirror-like finishes in a manner that will assist wheelchair users. Such provision can be\nin form of non-breakable mirror or finishes such as mirror-finished stainless steel and\nlaminating films with a reflective surface, and shall have a clear width not less than\n850 mm and its bottom and top edges shall be not more than 300 mm and not less than\n1 800 mm above the floor of the lift car respectively."
+    },
+    {
+      "id": "p2-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          Decorative designs with non-reflective surfaces within the required area of\nthe mirror-like finishes are generally acceptable, provided that they do not compromise\nits performance on allowing visual feedback for wheelchair users when reversing\nbackwards into the lift lobby."
+    },
+    {
+      "id": "p3-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           Alternative means such as visual display and audio signal achieving the\nequivalent performance requirement may also be accepted.  The AP shall submit an\napplication for exemption from or modification of this provision under section 42 of the\nBO with justifications to the BA for consideration.\n\n\n\n\n\n(8/2026)"
+    }
+  ]
+}

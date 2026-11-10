@@ -1,0 +1,54 @@
+{
+  "code": "APP-032",
+  "source_text": "indexed_text/PNAP/APP/APP-032.txt",
+  "source_pdf": "documents/PNAP/APP/APP-032.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department    Registered Structural Engineers and          APP-32\n                        Registered Geotechnical Engineers\n\n\n      Hong Kong Airport (Control of Obstructions) Ordinance (Cap. 301)\n\n\nAirport Height Restrictions\n\n            The Hong Kong Airport (Control of Obstructions) Ordinance (Cap. 301)\nprovides for, among others, the restriction of heights of buildings in the interest of\nensuring aviation safety.  The airport height restrictions (AHRs) vary at different\nlocations of Hong Kong and these height limits are set out in a series of Airport Height\nRestriction Plans which are deposited in the Land Registry and can be purchased from\nthe Map Publications Centres of the Lands Department. For details, please refer to the\nwebsite of Civil Aviation Department at www.cad.gov.hk.\n\nExemption from AHRs"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           Temporary  exemption  from  AHRs  may  be  applied  from  the\nDirector-General of Civil Aviation (DGCA). Subject to such terms and conditions, this\nkind of temporary exemption will normally be valid for a period not exceeding two\nmonths, which may be extended for further periods of two months as DGCA thinks fit."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.                If any projects are being or to be carried out in an area which is subject to\nAHRs, authorized persons and registered structural engineers are requested to ensure\nthat the responsible registered contractor obtains the prior approval of DGCA to any\nitem of temporary plant or equipment likely to project beyond the prescribed height\nlimits  at any time during construction.   Guidelines for registered contractors are\nprovided in the Practice Note for Registered Contractors 7.\n\nThird Runway of the Hong Kong International Airport"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         To cater for the changes in airspace protection requirements necessitated\nby the third runway and the three-runway system at the Hong Kong International Airport\n(HKIA),  the Hong Kong  Airport  (Control  of  Obstructions)  (No.2) Order 1997\n(Amendment) Order 2021 which prescribes the new AHRs will come into operation on\n31 May 2022. Under the new AHRs, certain areas in the vicinity of HKIA, mainly the\nsurrounding sea or mountainous areas, will be subject to more stringent restrictions,\n\n\n\n\n\n                                                                            /while …"
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\nwhile the remaining areas constituting the majority of Hong Kong will be subject to less\nstringent AHRs. The new AHRs will not apply to any building erected in accordance\nwith plans approved by the Building Authority before 31 May 2022 and any minor\nworks and designated exempted works completed before 31 May 2022.\n\n\n\n\n\n                                                          ( YU Po-mei, Clarice )\n                                              Building Authority\n\n\n\n\n\nRef. : BD GP/LEG/33\n    BD GP/BL/TP/20 (VI)\n    BD GR/1-55/21/0\n\nThis PNAP is previously known as PNAP 88\nFirst issue    August 1982\nLast revision  July 1998\nThis revision May 2022 (AD/NB1) (General revision)"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "code": "APP-034",
+  "source_text": "indexed_text/PNAP/APP/APP-034.txt",
+  "source_pdf": "documents/PNAP/APP/APP-034.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Re gistered Structural Engineers and Registered Geotechnical Engineers     APP-34\n\n                                     Practice Note for Authorized Persons\nBuildings Department                                                    92                              and Registered Structural Engineers\n\n                               Structural Design of Bridges\n                       and Associated Highway Structures\n\n               Occasionally, a bridge or  associated highway  structure  is required  to be\nconstructed in connection with a private development, say, under the terms of the lease\nconditions. The bridge or associated highway structure may be located within the private lot,\noutside the lot boundary or partly outside the lot boundary."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The design and  construction of such  structures should be  carried out  in\naccordance with the Structures Design Manual for Highways and Railways, issued by the\nHighways Department. The plans should always be examined by the Advisory Committee on\nthe Appearance of Bridges and Associated Structures (ACABAS). As part of the centralized\nplans processing system, the Building Authority will arrange for the relevant plans to be\nexamined by ACABAS: see PNAP 107.\nWholly or Partly within a Private Lot"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 259
+        },
+        {
+          "label": "b",
+          "offset": 409
+        }
+      ],
+      "text": "3.         When a bridge or associated highway structure is built wholly or partly within a\nprivate lot or gains support from or is connected to a building resting on a private lot, the plans\nshould be processed under the Buildings Ordinance. This includes :\n\n        (a)    any bridge erected between two private buildings, if the bridge\n               gains support from either or both of the buildings; or\n\n        (b)    a bridge which gains support from a private building at one end\n             and  rests on government land  at the other, whether or not\n               separate access is available from the public street."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.            Notwithstanding the standards of the Structures Design Manual for Highways\nand Railways, structural design and construction of this type of building works should also\nsatisfy the requirements of the Building (Construction) Regulations with due observation of the\nrecommendations of the relevant Codes of Practice and Practice Notes for Authorized Persons\nand Registered Structural Engineers, issued by the Building Authority.\n\nWholly Outside a Private Lot"
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.       A bridge or associated highway  structure of the free-standing type,  built\nentirely on government land or over public highways, may have to be constructed outside a\nprivate lot. These are exempted from the Buildings Ordinance."
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          The Director of Highways is the competent authority for the control of such\nstructures. The Highways Department will be responsible for vetting plans, permitting works\nto be carried out, imposing requirements for the testing of foundations, examining material\nquality control data and liaising and corresponding with the appointed Authorized Person or\nRegistered Structural Engineer.\n\n                                                                                             /7.  In...."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "-  2  -"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 197
+        },
+        {
+          "label": "b",
+          "offset": 439
+        },
+        {
+          "label": "c",
+          "offset": 685
+        },
+        {
+          "label": "d",
+          "offset": 1009
+        },
+        {
+          "label": "e",
+          "offset": 1282
+        },
+        {
+          "label": "f",
+          "offset": 1525
+        }
+      ],
+      "text": "7.             In addition to the requirements of the Structures Design Manual for Highways\nand Railways, the Highways Department will also require the following design standards to be\nsatisfied :\n\n        (a)    Geometric Design and Layout\n\n            The geometric layout and dimensions of the structures should\n            comply with the Transport Planning & Design Manual Volume\n               2, issued by the Transport Department;\n\n        (b)    Materials and Workmanship\n\n               All  materials  for  the works and workmanship should  also\n            comply with the General Specification for Civil Engineering\n            Works, 1992 Edition (Hong Kong Government);\n\n        (c)    Retaining Walls\n\n              Retaining  walls  should  be  designed  and  constructed  in\n              accordance  with GEOGUIDE 1  (Guide  to  Retaining Wall\n              Design,  Second   Edition),   issued  by   the   Geotechnical\n              Engineering Office of the Civil Engineering Department;\n\n        (d)    Lighting\n\n            The  lighting  of  the  structures  should  comply  with  the\n              requirements  of  the  Lighting  Division  of  the  Highways\n             Department  and  the  Electrical  and  Mechanical  Services\n             Department;\n\n        (e)    Geotechnical Requirements\n\n            The geotechnical aspects should comply with the requirements\n               of  the  Geotechnical  Manual  for  Slopes,  issued  by  the\n              Geotechnical Engineering Office; and\n\n         (f)    Landscape Improvement\n\n            The adverse impact of the structures on their surroundings or\n              landscape  should  be  minimized by  introducing  appropriate\n               treatment and/or landscape planting.  Such proposals should\n            form part of the design.\n\n              Consultation  with  the  Landscape  Unit  of  the  Highways\n             Department prior to submission is welcomed.\n\n\n\n\n                                                                                      /8. Structural...."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "-  3  -"
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "8.              Structural details of bridges and highway structures to be built wholly outside a\nprivate lot, including resubmissions, should initially be submitted to the Buildings Department.\nThey should comprise 3 sets of plans, 2 sets of calculations and 2 sets of site investigation\ndocuments, for transmission to the Highways Department. When the works are completed to\nsatisfaction, the Highways Department will so certify in writing, thus concluding its technical\nand administrative involvement in the works.\n\nConcluding Observation"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          The manuals and guides mentioned above are available from the Government\nPublications Sales Centre.\n\n\n\n\n\n                                                       (Helen C P Lai YU)\n                                                           Building Authority\n\n\n\n\n\nRef. : BD GR/OP/9\n\nFirst issued February 1983\nThis revision May 1995 (AD/SE) (minor revision to para 9)\n\nIndex under :  Bridges\n            Highway Structures\n                Structural Design of Highway Structures"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "code": "ADM-11",
+  "source_text": "indexed_text/PNAP/ADM/ADM-11.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-11.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and       ADM-11\n                          Registered Geotechnical Engineers\n\n\n                         Change of Address\n\n\n            Regulation 45 of the Building (Administration) Regulations requires that\nevery authorized person, registered  structural engineer and registered geotechnical\nengineer shall in the specified form notify the Building Authority of any change in the\naddress at which he carries on business, within 14 days thereof."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         The form specified for such purpose is Form BA 24 (cf PNAP APP-60).\nAn Electronic Forms Submission System has been set up to facilitate online submission\nof the form via the website of the Buildings Department (www.bd.gov.hk). The form\nmay also be sent to the Registration Unit, Buildings Department Headquarters, North\nTower, West Kowloon Government Offices, 11 Hoi Ting Road, Yau Ma Tei, Kowloon,\nHong Kong.\n\n\n\n\n\n                                                         ( CHEUNG Tin-cheung )\n                                              Building Authority\n\n\n\n\n\nRef. : BD REG/6-35/1 Pt.1\n\nThis PNAP is previously known as PNAP 152\nFirst issue January 1992\nLast revision December 2005\nThis revision April 2019 (AD/CS) (Para. 2 amended)"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "code": "APP-106",
+  "source_text": "indexed_text/PNAP/APP/APP-106.txt",
+  "source_pdf": "documents/PNAP/APP/APP-106.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Re gistered Structural Engineers and Registered Geotechnical Engineers    APP-106\n\n                                    Practice Note for Authorized Persons\nBuildings Department                                                   231                             and Registered Structural Engineers\n\n\n\n\n                             Fire Resisting Construction\n                            Kitchens in Restaurants\n\n         A kitchen in a restaurant may be regarded as ancillary accommodation to\n the restaurant for the purpose of assessing the fire resisting construction requirements.\n Such kitchen, for the purpose of Part XV of the Building (Construction) Regulations,\n should comply with the following requirements :\n\n         (a)    The kitchen should be enclosed by walls having an FRP of not less\n               than 1 hour and any opening in the enclosure should be defended\n             by a door having an FRP of not less than 1/2 hour; and\n\n         (b)   A protected lobby should be provided between each door of the\n               kitchen and\n\n              •  any escape route from the main building; and/or\n              •   the dining area of the restaurant where the kitchen has a usable\n                     floor area exceeding 45 m2 and the door opens onto an exit\n                   route of the dining area."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            Subject to compliance of para. 17.1 of the Code of Practice for Fire\n Resisting Construction (FRC Code), hold-open device for the doors of the kitchen may be\n installed."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The requirements in para. 1 will be incorporated in the next edition of the\n FRC Code.  In the meantime, para. 6 of the Code may be taken with the benefit of the\n clarification given in this practice note.\n\n\n\n\n\n                                                                    ( CHOI Yu-leuk )\n                                                   Building Authority\n\n\n Ref. : BD GP/BREG/C/19/L (VII)\n\n First issue October 1998 (AD/D)\n\n Index under :  Kitchen attached to restaurant\n          FRC - kitchen"
+    }
+  ]
+}

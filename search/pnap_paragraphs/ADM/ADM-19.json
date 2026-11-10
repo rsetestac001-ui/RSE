@@ -1,0 +1,1456 @@
+{
+  "code": "ADM-19",
+  "source_text": "indexed_text/PNAP/ADM/ADM-19.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-19.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department    Registered Structural Engineers and       ADM-19\n                         Registered Geotechnical Engineers\n\n\n                          Building Approval Process\n\n\nIntroduction\n\n           The Buildings Department (BD) is committed to adopt a totally positive\nattitude towards building development.  Its mission is not to find faults in a building\nproposal but to facilitate building professionals in the approval process whilst ensuring\npublic safety and health.  This practice note sets out the principles adopted in the\nbuilding approval process and the services which BD provides to facilitate the process.\n\nConformity Among Different Types of Plans"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.       A project involves submissions of different types of plans. Among them,\nthe general building plans (GBP) should form the basis for the development of the\ndetailed design of other types of plans. In other words, the building layout shown on the\nGBP shall prevail over the layout shown on other types of plans.  The authorized\npersons  (AP),  registered  structural  engineers (RSE) and  registered  geotechnical\nengineers (RGE) should ensure such other types of plans prepared by them correspond\nto the latest approved GBP. Approval of such other types of plans shall not be deemed\nto be approval of the building layout shown on such plans."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.             Prior to certifying completion of the alteration and addition (A&A) works\nor applying for an occupation permit (OP)/temporary occupation permit (TOP), the AP,\nRSE and RGE should ensure that approval and consent for all the amendments are\nobtained and  the  latest amended GBP,  structural  plans, drainage plans and  site\nformation plans where applicable for the project, tally with each other.\n\nPre-submission Enquiry and Conference"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          AP, RSE and RGE may wish to settle the design principles involved at an\nearly stage so that they can proceed with confidence and avoid abortive work.  To\nfacilitate early clearance of basic design principles before formal submission of plans,\nBD will upon receipt of a written enquiry provide a determination on the matters\ninvolved in the form of a “letter of assurance” normally within 45 days. BD may hold\npre-submission conferences with AP/RSE/RGE and invite representatives of concerned\nGovernment departments to discuss and examine the issues and principles involved."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.                  It is recommended that AP/RSE/RGE should make use of this service to\nconsult BD as early as possible on the use of any new structural theory, materials or\nsystems,  sophisticated designs and unconventional  construction methods  prior  to\npreparing the detailed design.\n\n                                                                   /Processing …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\nProcessing of Plan Submissions"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           For submissions of GBP, superstructure plans and drainage plans, a\ncurtailed check system has been adopted to check on fundamental issues only."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.             In respect of GBP, BD will check issues concerning density, safety,\nhealth and environment, and major issues under the allied legislations. The items to be\nchecked are provided in Appendix A."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.           For superstructure plans1, BD will check the master framing plans, notes,\ndesign loads, design methods, material standards, design codes and fire resistance rating\nrequirements  of  structural elements.  The items  to be checked  are provided  in\nAppendix B."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.           For drainage plans, BD will check2 the disposal system, underground\ndrain layout and access for maintenance/repair as provided in Appendix C."
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "10.        As regards other types of plans, such as demolition,  site formation,\nfoundation and excavation &  lateral support works, the items to be checked are\nprovided in Appendix D."
+    },
+    {
+      "id": "p11-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "11.        To facilitate the preparation of plan submissions for various types of\nbuilding works, specific checklists and sample tables/drawings are given in Practice\nNote  for  Authorized  Persons,  Registered  Structural  Engineers  and  Registered\nGeotechnical Engineers (PNAP) ADV-33."
+    },
+    {
+      "id": "p12-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "12.         Under the curtailed check system, non-fundamental issues will not be\nchecked and will not be raised as disapproval items. These relate generally to matters\nthat do not affect the basic design of the proposed building.  It is the responsibility of\nthe AP/RSE/RGE to ensure that all such non-fundamental issues fully comply with the\nrelevant regulations and codes of practice before commencement of the works.  After\ncommencement of works, any contravention of the Buildings Ordinance (BO) and its\nsubsidiary regulations should be rectified as and when they are discovered and in any\nevent, before certification of completion of works."
+    },
+    {
+      "id": "p13-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "13.        To ensure that a high standard of self-regulation  is maintained, BD\ncarries out audit checks by examining in detail some submissions selected at random.\nBD will consider taking appropriate actions against AP/RSE/RGE who prepare plan\nsubmissions which blatantly or repeatedly contravene the requirements of the BO and its\nsubsidiary regulations.\n\n\n                                                                    /Staged …\n\n\n1  Including secondary structural elements such as curtain wall, window wall, cladding, space\n   frame,  precast  element,  canopy,  skylight,  balustrade,  external  ceiling,  grille/louvre,\n   ventilation  duct, maintenance platform and  similar secondary  structural elements not\n   affecting the overall stability of the building.\n2  Only a certain percentage of the proposed drainage works will be randomly selected for\n   checking."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\nStaged Submission of Essential Information on GBP"
+    },
+    {
+      "id": "p14-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "14.          Taking into account the design and construction process of a building\ndevelopment, AP may defer submission of plans and details to be provided in GBP as\ndetailed in Appendix A1 of PNAP ADV-33, according to three milestone stages viz for\nseeking the  first approval of GBP (Stage  I), prior to applying for consent for the\ncommencement of the superstructure works (Stage  II), and prior to applying for\nOP/TOP (Stage III). Regulation 30(3)(c) of the Building (Administration) Regulations\n(B(A)R) will be applicable to the GBP amendment plans for such deferred submission,\nunless the amendment plans constitute a major revision under regulation 30(3)(b) of the\nB(A)R.  The Building Authority (BA) may refuse to grant consent under section\n16(3)(a) of the BO or refuse to issue OP/TOP under section 21(6)(a) of the BO if the\nBA has not given the approval to all the required plans and details prescribed under\nregulation 8(1) of the B(A)R at the material time."
+    },
+    {
+      "id": "p15-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "15.        To facilitate the early approval of GBP (Stage I), BD will not check the\ninformation and  details  that are deferred items for Stages  II and  III as  listed in\nAppendix A1 of PNAP ADV-33, irrespective such items are shown in the GBP. The\napproval will only cover those items for Stage I. AP should note their duties under\nsection 4(3) of the BO and ensure that the works shown in the GBP comply with the\nBO."
+    },
+    {
+      "id": "p16-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "16.        When granting the first approval of GBP (Stage I), the BA will require,\nunder regulation 10 of the B(A)R, AP to submit a full set of GBP incorporating all\nplans and details required for Stages I and II, to seek the BA’s approval of GBP (Stage\nII) prior to applying for consent for the commencement of the superstructure works."
+    },
+    {
+      "id": "p17-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "17.       AP may seek the BA’s approval of GBP (Stage II) in any amendment\nsubmission, by indicating at the lower right-hand corner of each plan that “This set of\nplans  is submitted for Stage II Curtailed Check”. BD will carry out Stage  II\ncurtailed check from this amendment submission onwards."
+    },
+    {
+      "id": "p18-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "18",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "18.           Likewise, AP may seek the BA’s approval of GBP (Stage III) in any\namendment submission, and should ensure the BA’s approval is obtained prior to the\napplication for OP/TOP."
+    },
+    {
+      "id": "p19-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "19",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "19.          For the avoidance of doubt, the above practice of staged submissions for\ncurtailed checks will be applicable to new building developments (not A&A works) the\nfirst GBP or major revision of which is submitted after 31 March 2023."
+    },
+    {
+      "id": "p20-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "20",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "20.           Notwithstanding paragraph 15 above, AP may request BD to conduct Stage\nII curtailed check when submitting the  first GBP for special cases, such as simple\nbuildings  (e.g. single storey plant room, two-storey warehouse subject to  fast track\nprocessing in paragraph 36 below); or for buildings that require speedy completion (e.g.\n“government, institution and community” buildings and buildings that are subject to a\nshort period of Building Covenant under lease); or development projects which have\nprogressed to an advance stage that the consent for the commencement of superstructure\nworks will soon be submitted.  The BA will consider the request according to the\ncircumstances on case basis.\n\n                                                               /Enquiry …"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -\nEnquiry Service"
+    },
+    {
+      "id": "p21-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "21",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "21.        To assist AP/RSE/RGE in ensuring that design details comply with BD’s\nrequirements, BD  will  also provide an enquiry service regarding compliance  or\ninterpretation of building regulations and codes of practice throughout the  entire\ndevelopment process. BD will give an answer to these enquiries normally within four\nweeks.\n\nConcept Drawings"
+    },
+    {
+      "id": "p22-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "22",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "22.        To assist AP in demonstrating to concerned Government departments\nthat their basic design principles comply with Government and statutory requirements,\nthey are recommended to submit concept drawings for pre-submission conference when\nmaking an enquiry or formal submission of GBP. Concept drawings are coloured key\nplans summarising the basic design parameters on site coverage, plot ratio, accountable\ngross floor areas, fire safety strategy, barrier free access strategy, etc. in broad terms.\nGuidelines for concept drawings are provided in Appendix E. A set of sample concept\ndrawings is provided for reference in BD website at www.bd.gov.hk.\n\nUse of Computer for Mathematical Calculations"
+    },
+    {
+      "id": "p23-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "23",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "23.       AP adopting the use of computer for calculating floor areas of buildings\nin the preparation of GBP are required to provide BD with a digital file of the plan\nsubmission with the calculations in an accepted format capable of being verified by\nAutoCAD, MicroStation, Revit, ArchiCAD or other software accepted by BD. AP is\nrequired to submit the digital file together with the GBP in paper for referral to relevant\ndepartments under the centralised plan processing system."
+    },
+    {
+      "id": "p24-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "24",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "24.        When AutoCAD or MicroStation is used in the preparation of GBP, AP\nshould follow the guidelines in Appendix F. When Revit or ArchiCAD is used for\nBuilding Information Modelling (BIM) in the preparation of GBP, AP should follow the\nGuidelines  for Using Building  Information Modelling  in General Building Plan\nSubmission and make reference to the sample drawings and BIM models which can be\ndownloaded from BD website at www.bd.gov.hk.  Further information on the use of\nBIM is provided in PNAP ADV-34."
+    },
+    {
+      "id": "p25-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "25",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "25.         Under PNAP ADM-14, AP may make minor amendments  to  the\nsubmitted plans with BD’s prior agreement.  If the paper drawings after revision are\napprovable but they do not tally entirely with the information in the submitted digital\nfile, the plans may be approved, in the interest of time, subject to AP’s incorporation of\nsuch  revisions  to the  digital  file  for submission  to BD  in the next amendment\nsubmission involving change in area calculation. Upon the application of an OP/TOP\nor submission of a certificate for completion of A&A works, AP is required to submit\nthe digital file consolidating all approved revisions for record.\n\n\n\n\n                                                                /Consent …"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 5 -\nConsent to the Extraction of Information from BIM Model"
+    },
+    {
+      "id": "p26-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "26",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "26.              If BIM is used in the preparation of GBP, the model of the completed\nproject will be referred to the Lands Department (LandsD) and the Planning Department\n(PlanD) for their updating of 3-Dimensional (3D) spatial data and other 3D maps, and\ntheir upkeep of 3D planning and design information to facilitate planning, urban design,\nand visual and landscape assessments."
+    },
+    {
+      "id": "p27-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "27",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "27.         LandsD will extract simplified BIM data containing features including\nwalls, ceilings, floors, stairs, lift, common corridors, indoor routes, and textual attributes\nincluding the use, height, floor level, room number, dimensions, materials, etc. PlanD\nwill extract BIM geo-spatial information such as spatial information, building bulk,\nviews, site information, statutory planning restrictions, development parameters and\nfloor uses from the BIM model. The submission of BIM models from AP will be taken\nas permitting the use of the BIM models for such purposes.\n\nMinor Amendments"
+    },
+    {
+      "id": "p28-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "28",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "28.         With regard to building works for which consent has been given, the\nrequirement for prior approval and consent for all subsequent amendments may affect\nthe progress of construction."
+    },
+    {
+      "id": "p29-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "29",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "29.           Subject to a modification of regulation 33(1) of the B(A)R being granted\nby the BA under section 42(1) of the BO, prior approval and consent to the minor\namendments of building, superstructure3, drainage, foundation, pile cap, site formation,\nexcavation and lateral support works for which the first consent has already been given,\nwould not be required except for the amendments described in Appendix G."
+    },
+    {
+      "id": "p30-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "30",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "30.        AP/RSE/RGE deferring the submission of minor amendments should\nensure that such amendments comply with the building regulations, requirements of\nconcerned Government departments and the lease conditions prior to the execution of\nthe works."
+    },
+    {
+      "id": "p31-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "31",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "31.        AP/RSE/RGE  should  submit  an  application  for  modification  of\nregulation 33(1) of the B(A)R either after obtaining the first consent or simultaneously\nwith the application for the  first consent in respect of the specific type of works\n(i.e. building, building (A&A), superstructure, superstructure (A&A), drainage, drainage\n(A&A), foundation, pile cap, site formation, excavation and lateral support works). As\na condition for exemption, the minor amendments would be required to be clearly\ndocumented and deposited in the site office. Moreover, AP, RSE and RGE are required\nto ensure that approval and consent for all these amendments are obtained prior to\ncertifying completion of the building works or applying for an OP/TOP.\n\n                                                                                     /32. …\n\n3  Once the permit to an application for modification/exemption of regulation 33(1) of the\n  B(A)R for superstructure works has been granted, the permit is also applicable to all minor\n   amendments of related secondary structural element works for which the first consent to the\n  commencement  of  the  works  has  been  given.   A  separate  application   for\n   modification/exemption of regulation 33(1) of the B(A)R for the secondary structural\n   element works will not be required."
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "- 6 -"
+    },
+    {
+      "id": "p32-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "32",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "32.      A practice note covering the above guidelines on minor amendments has\nalso been issued to registered contractors.\n\nConcurrent Applications for Approval and Consent"
+    },
+    {
+      "id": "p33-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "33",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "33.        To streamline the approval process for building works, applications for\napproval of plans and consent for the commencement of the building works specified in\nthe following paragraphs may be made concurrently.\n\n(A) A&A, Drainage and Secondary Structural Element Works"
+    },
+    {
+      "id": "p34-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "34",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 188
+        },
+        {
+          "label": "b",
+          "offset": 392
+        },
+        {
+          "label": "c",
+          "offset": 618
+        },
+        {
+          "label": "d",
+          "offset": 748
+        }
+      ],
+      "text": "34.          Approval of plans and consent to the commencement of A&A, drainage,\nand secondary structural element works may be concurrently applied for  if the\nfollowing criteria are met:\n\n      (a)     The works do not involve foundation works (other than spread\n               footing with excavation depth not exceeding 4.5m), nor works\n             with significant geotechnical content;\n\n      (b)     The works do not entail precautionary works nor other safety\n             measures which are required to be completed to the satisfaction\n              of the BA prior to the commencement of the proposed works;\n\n      (c)      All the plans and documents prescribed under regulation 8 of the\n           B(A)R are submitted for approval; and\n\n      (d)      All  the  requisite  supporting  information/documents  for  the\n              consent application are submitted.  These may include  site\n              supervision plans, hoarding plans or other supporting documents\n             such as test reports or structural assessment reports required\n             under PNAP APP-117.  For curtain wall works, compliance\n                certificates and test reports as required under PNAP APP-37\n          may be submitted prior to the application for an OP/TOP.\n\n(B) Fast Track Processing for Simple A&A Works"
+    },
+    {
+      "id": "p35-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "35",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "35.          For simple A&A works (including simple drainage A&A works), where\nAP/RSE confirm that the proposed works do not involve the structure of the building\nand do not affect the fundamental issues mentioned above (or if there are only minor\nchanges and AP/RSE confirm that such changes comply with the provisions of the BO)\nand referrals to the other Government departments (except Fire Services Department)\nare not necessary, the concurrent applications for fast track approval and consent will be\nprocessed within 30 days. A sample of the AP/RSE’s certification form is attached in\nAppendix H.\n\n(C) Fast Track Processing for Two-storey Warehouse"
+    },
+    {
+      "id": "p36-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "36",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "36.           Procedures  for  fast  track processing of submissions  for building a\ntwo-storey warehouse are given in Appendix I.\n\n                                                                              /(D) …"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "- 7 -\n(D) Fast Track Processing for Repairs to Curtain Wall, Window Wall 4 and\nCladding"
+    },
+    {
+      "id": "p37-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "37",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "37.         Under the Minor Works Control System (MWCS), certain types of minor\nrepair or replacement of curtain wall, window wall and cladding5 have been designated\nas minor works and may be carried out under the simplified requirements as an\nalternative to obtaining prior approval and consent under the BO.  Reference can be\nmade to Schedule 1 of the Building (Minor Works) Regulation (B(MW)R) and PNAP\nAPP-147 regarding the  list of minor works items and the simplified requirements\nrespectively."
+    },
+    {
+      "id": "p38-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "38",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "38.              If AP/RSE seeks prior approval and consent for the repair or replacement\nworks, the concurrent applications for fast track processing of approval and consent will\nbe processed within 30 days provided that the structural system of the curtain wall,\nwindow wall or cladding will not be altered. The submission requirements are provided\nin Appendix J. AP/RSE should ensure the submission6 complies with the requirements\nin PNAP APP-16, PNAP APP-37 and PNAP APP-117.  In this regard, RSE should\nassess the existing condition and  integrity of the curtain wall, window wall and\ncladding.\n\n(E) Form BA8A"
+    },
+    {
+      "id": "p39-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "39",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 241
+        },
+        {
+          "label": "b",
+          "offset": 603
+        }
+      ],
+      "text": "39.        When submitting concurrent  applications  for approval and consent,\nAP/RSE should indicate the same in the covering  letter and submit the consent\napplication Form BA8A. The Form BA8A submission is subject to the following rules:\n\n      (a)     The   effective  date  of  application   for  consent  to  the\n           commencement of the proposed building works will be the date\n            on which the BA gives his approval of the plans of the proposed\n              building works or, where applicable, the date on which approval\n                  is deemed to have been given by the BA;\n\n      (b)     The  application  for  consent  to  the commencement  of  the\n             proposed building works will not be processed if the prescribed\n              plans and documents of the proposed building works are not\n              approved; and\n\n\n\n                                                                                               /(c) …\n\n\n4  Window wall, including glass wall and glass shop front, refers to window and wall formed\n   by structural glass elements spanning between floors.\n5  They are minor works items 1.48, 1.60, 1.61, 2.8, 2.48, 3.6 and 3.31 under Schedule 1 of the\n  B(MW)R.\n6  For replacement of individual components of the curtain wall and glass wall (e.g. glass\n   panes, sealants, setting blocks, etc.), and the cladding panels which are the same as the\n   approved  design,  structural  analysis  and  design  calculations  for  the  replacement\n   components/cladding panels and the checking on the structural adequacy of the parent\n   structure are not required."
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "- 8 -\n      (c)      In cases where the BA considers that the approval can be given\n              but not concurrently with the consent, the period of 28 days as\n               stipulated under regulation 32(3) of the B(A)R would run from\n              the date of approval.\n\nErection of Fire Damper in Ventilation System, Supporting Frame for Suspending\nAir-conditioning  Plant  or  Mechanical  Ventilation  Plant, and  Large  Metal\nVentilation Duct or Associated Supporting Frame inside Building"
+    },
+    {
+      "id": "p40-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "40",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "40.         Under the MWCS, certain types of minor building works involving\nerection of a fire damper in a ventilation system, a supporting frame for suspending an\nair-conditioning plant or mechanical ventilation plant, and a large metal ventilation duct\nor associated supporting frame7 inside an existing building have been designated as\nminor works and may be carried out under the simplified requirements as an alternative\nto obtaining prior approval and consent under the BO.  Reference can be made to\nSchedule 1 of the B(MW)R and PNAP APP-147 regarding the list of minor works items\nand the simplified requirements respectively."
+    },
+    {
+      "id": "p41-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "41",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "41.          For development  projects  or A&A  proposals,  the proposed minor\nbuilding works described in paragraph 40 above should be included in the plans for\napproval before submitting application for OP/TOP or certificate of completion of\nbuilding works respectively unless in the case of A&A proposals, it is indicated on the\nplans that such works will be carried out under the MWCS. This requirement will apply\nto development projects with consent to the commencement of superstructure works and\nA&A  proposals  with  consent  to  the  commencement  of  works  granted  after\n31 August 2021. However, APs and RSEs are encouraged to incorporate these minor\nbuilding works in their plan submissions if feasible."
+    },
+    {
+      "id": "p42-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "42",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 100
+        },
+        {
+          "label": "b",
+          "offset": 418
+        }
+      ],
+      "text": "42.         The following streamlined procedures are adopted for processing these\nplan submissions:\n\n      (a)     Only  amended  GBP   are   required   for   indicating   the\n               locations/layout  of  the  proposed  minor  building  works.\n             Reference  can  be made  to  the sample  drawings showing\n              acceptable  standards  as  given  in Appendix A4  to PNAP\n           ADV-33; and\n\n      (b)     Concurrent application for fast track processing of approval and\n              consent in respect of structural plans for the supporting frames\n            and large metal ventilation ducts or associated supporting frames\n             can be made in accordance with paragraph 39 above and BD will\n              process the application within 30 days.\n\n\n\n                                                                                     /43. …\n\n\n\n7  They are minor works items 1.46, 1.51, 2.42 and 2.46 under Schedule 1 of the B(MW)R."
+    },
+    {
+      "id": "page-9-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        9
+      ],
+      "text": "- 9 -"
+    },
+    {
+      "id": "p43-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "43",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "43.        As an alternative for development projects and A&A proposals pending\nfirst  plan  approval,  the AP/RSE may consider  incorporating  the  information  in\nparagraph 42(a) above and sample drawings for the structural details given in Appendix\nB11 to PNAP ADV-33 in the  first submission of GBP and superstructure plans\nrespectively.  Under this arrangement, the approval and consent for the subsequent\namendments  to  these works would  not  affect  the  progress  of  the  construction\nprogramme if the requirements for minor amendments under paragraphs 28 to 31 above\nare followed.\n\n\n\n\n\n                                                              ( HO Chun-hung )\n                                               Building Authority\n\n\n\n\n\nRef. : BD GR/1-125/5/1 (IV)\n    BD GP/BREG/A/3\n    BD TS/6-15/168 (III)\n    BD GR/1-125/5/0\n    BD GR/1-125/11/1 (III)\n\nThis PNAP is previously known as PNAP 272\nFirst issue    July 2002\nLast revision  October 2024\nThis revision  April 2025 (AD/NB1) (Paragraph 35 and Appendix H amended)"
+    },
+    {
+      "id": "page-10-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Appendix A\n                                                 (PNAP ADM-19)\n\n\nFundamental Issues of General Building Plans"
+    },
+    {
+      "id": "p1-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 13
+        },
+        {
+          "label": "b",
+          "offset": 333
+        },
+        {
+          "label": "v",
+          "offset": 728
+        }
+      ],
+      "text": "1.   Density\n\n     (a)     Site Parameters\n\n                 (i)    Claimed site area\n                  (ii)     Site classification\n                    (Building (Planning) Regulation 19(2) determination?)\n                  (iii)   Required private street/service lane\n                  (Deducted from site area and not built over)\n\n     (b)     Site Coverage (SC) and Plot Ratio (PR)\n\n                 (i)    Gross floor area (GFA) diagrams (accountable, non-accountable\n                 and exempted areas)\n                  (ii)   SC diagrams (accountable, non-accountable and exempted areas)\n                  (iii)   Exempted areas and non-accountable areas\n               (iv)    Dedication/Surrender in return for bonus\n              (v)    Overall PR & SC\n                Check against the permissible PR and SC, including any granted\n                  bonus SC & PR, mean street level and height of podium/building"
+    },
+    {
+      "id": "p2-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 12
+        },
+        {
+          "label": "b",
+          "offset": 321
+        },
+        {
+          "label": "v",
+          "offset": 770
+        }
+      ],
+      "text": "2.   Safety\n\n     (a)    Means of Access for Firefighting and Rescue (MOA)\n\n                 (i)    Number and disposition of fireman’s lifts/firefighting & rescue\n                    stairway (FRS)\n                  (ii)     Initial access to fireman’s lifts and FRS\n                  (iii)   Emergency vehicular access\n\n     (b)    Means of Escape (MOE)\n\n                 (i)     Single staircase building requirements\n                  (ii)  MOE table: Occupancy factor and the required/provided number\n                 and width of the exit doors and exit routes\n                  (iii)   Discharge value calculation\n               (iv)   Discharge at G/F\n                     (Directly to street, lane or to open area)\n                     (Exits at ground storey)\n              (v)     Inter-relationship between staircases\n               (vi)    Direct distance and travel distance\n                (vii)   Independent staircase serving the basement, kindergarten or child\n                    care centre\n                (viii)  Disposition of refuge floors\n               (ix)   PPE premises(Site, exit routes and staircases)\n\n                                                             - 1  -"
+    },
+    {
+      "id": "page-11-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        11
+      ],
+      "text": "(c)     Fire Resisting Construction (FRC)\n\n                 (i)   FRC table\n                   (Required/provided fire resistance rating against the compartment\n                 volume and use)\n                  (ii)    Protection of adjoining buildings\n                  (iii)   External walls of required staircases/lobbies\n               (iv)   Smoke vent disposition\n              (v)    Bridge and tunnel\n                     (Fire shutter and by-pass lobby)"
+    },
+    {
+      "id": "p3-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 28
+        },
+        {
+          "label": "b",
+          "offset": 196
+        }
+      ],
+      "text": "3.   Health and Environment\n\n     (a)     Lighting and Ventilation\n\n                 (i)    Window provided for habitable room, kitchen and office\n                  (ii)    Disposition of windows\n\n     (b)    Open space: Required/provided area and its disposition"
+    },
+    {
+      "id": "p4-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 43
+        },
+        {
+          "label": "b",
+          "offset": 250
+        },
+        {
+          "label": "c",
+          "offset": 282
+        },
+        {
+          "label": "d",
+          "offset": 317
+        },
+        {
+          "label": "e",
+          "offset": 423
+        },
+        {
+          "label": "f",
+          "offset": 476
+        },
+        {
+          "label": "g",
+          "offset": 519
+        },
+        {
+          "label": "h",
+          "offset": 552
+        },
+        {
+          "label": "i",
+          "offset": 665
+        },
+        {
+          "label": "j",
+          "offset": 779
+        }
+      ],
+      "text": "4.  Major issues under allied legislations\n\n      (a)     Barrier Free Access (BFA) Facilities\n                 (i)      Initial BFA to entrance\n                  (ii)    Accessible route to required areas\n                  (iii)   Accessible toilet\n\n      (b)     Fire certificate\n\n      (c)     Outline Zoning Plan\n\n      (d)     Vehicular run-in/out acceptable to Transport Department and Highways\n           Department\n\n      (e)     Geotechnical assessment - PNAP APP-25\n\n       (f)     Airport height restriction\n\n      (g)    Railway protection\n\n      (h)    Road works  - control under Section 22 of Roads (Works, Use and\n            Compensation), Cap 370\n\n       (i)    Sewage  tunnel works  -  control under  Section 17A  of   Buildings\n            Ordinance, Cap 123\n\n       (j)     Antiquities – prohibition of works in a proposed monument or monument\n            under Section 6 of Antiquities and Monuments Ordinance, Cap 53\n\n(Rev. 2/2016)\n\n                                                             - 2  -"
+    },
+    {
+      "id": "page-12-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        12
+      ],
+      "text": "Appendix B\n                                                 (PNAP ADM-19)\n\n\nFundamental Issues of Superstructure Plans\n\n             For superstructure plans, submissions are divided into two parts, viz. :\n\n         (i)    master framing plans in which all the requirements on materials,\n             design loadings, workmanship and the structural framing of the\n               structure are stipulated; and\n\n          (ii)    structural  detailed plans  in which  details  of every  structural\n           members of a building, including the size of members, quantity\n            and arrangement of steel bars inside the members are given; and"
+    },
+    {
+      "id": "p2-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 82
+        }
+      ],
+      "text": "2.          BD’s check on the master framing will focus on the following aspects:\n\n         (i)     Stability and framing;\n\n          (ii)    Fire Resistance Rating (FRR) requirements;\n\n          (iii)   Loading; and\n\n        (iv)    Materials."
+    },
+    {
+      "id": "p3-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         To assist RSE in making superstructure submissions, a list of the items\nappropriate to the type of structural plans which will be checked in processing master\nframing plans is enclosed at Appendix B1 for general guidance.  RSE should complete\nthe checklist and include them into Part I of the calculations (prepared in accordance\nwith PNAP ADM-8) for submission with the structural plans for approval.\n\n\n\n\n\n(Rev. 2/2016)\n\n\n\n\n                                                       - 1 -"
+    },
+    {
+      "id": "page-13",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        13
+      ],
+      "text": "Appendix B1\n                                                 (PNAP ADM-19)\n\nChecklist on Fundamental Issues of Superstructure Plans\n\n                                   Items to be checked           Remarks\nStructural Stability & Safety\n\n(1) Structural System        Beam-column/core wall/shear wall\n                                Flat Slab/Prestressed/Precast Beam-Slab\n                            Curtain Wall/Cladding/Window Wall\n                             Others:\n\n(2) Compatibility Check    Wind modelling\n                               Structural layout compatible with building\n                             plans\n                          Loading compatible with foundation plans\n\n(3) Stability Check         Comply with B(C)R 15\n                       Max. lateral deflection=     (d/H = 1/     )\n                         Anchorage system: cast-in/drill-in/through bolt\n                           Supporting structure for curtain wall/cladding/\n                       window wall\n                           Robustness of the building and in particular\n                             those adopting precast concrete construction\n\n(4) FRR Requirements      Comply with building plans’ requirements\n                       Comply with Code of Practice for Fire Safety\n                                in Buildings 2011\n\nLoading\n\n(5) Floor Loads           Comply with building plans’ requirements\n                       Comply with B(C)R 17(1) & (2)\n\n(6) Lateral Loads          Wind loads comply with HK Wind Code 2004\n                           Impact loads comply with B(C)R 17(3) & (4)\n                          Design soil pressure and surcharge loads\n                             Others:\n\n(7) Dynamic Loads        Comply with B(C)R 17(5)\n                             Others:\n\n\n\n\n\n                                                       - 2 -"
+    },
+    {
+      "id": "page-14",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        14
+      ],
+      "text": "Design Standard\n\n(8) Design Codes          Code of Practice for Structural Use of\n                            Concrete 2013\n                       Code of Practice for the Structural use of Steel\n                         2011\n                             Others:\n\n(9) Design Method         Working Stress Method\n                            Limit State Method\n                             Others:\n\n(10) Computer              Pre-acceptance programmes:\n    Programme             Others:\n\n\n\n Material Specification\n\n(11) Concrete             Not exceeding grade C45\n                          Exceeding grade C45, please specify :\n                     __________\n\n(12) Reinforcement         Grade 250/500 complying with CS2:2010\n                             Others:\n\n(13) Prestressed Tendon  Grade       complying with\n\n(14) Structural Steel     Grade       complying with\n\n(15) Aluminum         Grade       complying with\n\n(16) Glass              Type:\n                         Permissible stress =       complying\n                        with\n\n(17) Others\n\n\n\n\n\n(Rev. 2/2016)\n\n\n\n                                                       - 3 -"
+    },
+    {
+      "id": "page-15-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        15
+      ],
+      "text": "Appendix C\n                                                 (PNAP ADM-19)\n\n\n                  Fundamental Issues of Drainage Plans"
+    },
+    {
+      "id": "p1-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 24
+        },
+        {
+          "label": "b",
+          "offset": 197
+        },
+        {
+          "label": "c",
+          "offset": 273
+        },
+        {
+          "label": "d",
+          "offset": 410
+        },
+        {
+          "label": "e",
+          "offset": 482
+        }
+      ],
+      "text": "1.   Method of disposal\n\n      (a)   Public sewers (including nullah, culvert and streamcourse) available\n            for connection and acceptable to Drainage Services Department\n          (DSD);\n\n      (b)   Private sewers available for connection and acceptable to DSD;\n\n      (c)  Sewage treatment plant, septic tank and soakaway design acceptable\n            to Environmental Protection Department (EPD);\n\n      (d)   Trade/industrial effluent discharge acceptable to EPD; and\n\n      (e)   Standard details and connections of traps with replenishing function\n            for floor drains of kitchens of domestic units, toilets or pantries (PNAP\n          APP-164)."
+    },
+    {
+      "id": "p2-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 33
+        },
+        {
+          "label": "b",
+          "offset": 74
+        },
+        {
+          "label": "c",
+          "offset": 137
+        },
+        {
+          "label": "d",
+          "offset": 200
+        },
+        {
+          "label": "e",
+          "offset": 356
+        },
+        {
+          "label": "f",
+          "offset": 426
+        }
+      ],
+      "text": "2.   Layout of underground drain\n\n      (a)   Direction of flow in order;\n\n      (b)  No surface water discharging to foul water drains;\n\n      (c)  No foul water discharging to surface water drains;\n\n      (d)   Special design provisions for underground drains on newly reclaimed\n           land (Clause 2.4 of the Code of Practice for Foundations 2017);\n\n      (e)   Underground drains kept out of slopes (PNAP APP-76); and\n\n       (f)   Terminal manholes,  invert  levels and  sizes of connection pipes\n           acceptable to DSD."
+    },
+    {
+      "id": "p3-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 35
+        },
+        {
+          "label": "b",
+          "offset": 148
+        }
+      ],
+      "text": "3.   Access for maintenance/repair\n\n      (a)  Common underground drains and above-ground stacks located in\n        common areas (PNAP APP-93); and\n\n      (b)  No  water-borne  pipes embedded  in  structural  elements (PNAP\n          APP-105).\n\n\n\n\n\n                                                             - 1  -"
+    },
+    {
+      "id": "p4-page-16",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        16
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 26
+        },
+        {
+          "label": "b",
+          "offset": 80
+        },
+        {
+          "label": "c",
+          "offset": 181
+        },
+        {
+          "label": "d",
+          "offset": 316
+        },
+        {
+          "label": "i",
+          "offset": 354
+        },
+        {
+          "label": "e",
+          "offset": 558
+        }
+      ],
+      "text": "4.   Other related issues\n\n      (a)   Well construction in order (PNAP APP-4);\n\n      (b)   Drain  within a  gathering ground  acceptable  to Water  Supplies\n          Department;\n\n      (c)   Discharge proposal for sites within 200m of seaward boundaries of a\n          marine fish culture zone acceptable to EPD;\n\n      (d)   Railway protection zone:\n\n               (i)   Deep excavation  acceptable  to MTR Corporation Limited\n            (MTRCL)\n\n               (ii)   Installation of wells including bored well acceptable to MTRCL;\n               and\n\n      (e)   Condensate  disposal  system  for  air-conditioning  units (PNAP\n          APP-112).\n\n\n\n\n\n(Rev. 5/2022)\n\n\n\n\n\n                                                             - 2  -"
+    },
+    {
+      "id": "page-17-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        17
+      ],
+      "text": "Appendix D\n                                                 (PNAP ADM-19)"
+    },
+    {
+      "id": "p1-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 43
+        },
+        {
+          "label": "b",
+          "offset": 170
+        },
+        {
+          "label": "c",
+          "offset": 228
+        },
+        {
+          "label": "d",
+          "offset": 382
+        },
+        {
+          "label": "e",
+          "offset": 506
+        }
+      ],
+      "text": "1.  Fundamental Issues of Demolition Plans\n\n     (a)  Precautionary measures particularly the hoarding, covered walkways and any\n         necessary propping and shoring;\n     (b)  The codes and standards proposed to be adopted;\n     (c)  Appraisal of the building to be demolished, method statement, sequence of\n         demolition and the safe use of any powered mechanical plant;\n     (d)  Stability of the framing system during demolition and of any remaining\n          structures after demolition; and\n     (e)  Effects on all affected buildings, slopes structures, lands and services and the\n          provision of supports and protection, if necessary."
+    },
+    {
+      "id": "p2-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 122
+        },
+        {
+          "label": "b",
+          "offset": 181
+        },
+        {
+          "label": "c",
+          "offset": 258
+        },
+        {
+          "label": "d",
+          "offset": 421
+        },
+        {
+          "label": "e",
+          "offset": 623
+        },
+        {
+          "label": "f",
+          "offset": 857
+        },
+        {
+          "label": "g",
+          "offset": 984
+        }
+      ],
+      "text": "2.  Fundamental Issues of Site Formation Works (including Slope Works) and\n    Excavation and Lateral Support (ELS) Works\n\n     (a)  The codes and standards proposed to be adopted;\n     (b)  The geotechnical parameters and assumptions adopted in the design;\n     (c)  The margin of safety, including local/ regional stability of ground, stability of\n          earth retaining structures, overall stability of ELS system;\n     (d)  The structural adequacy of major structural elements, including structural\n        members of slope protection works/ earth retaining structures and structural\n         framing of ELS system;\n     (e)  The effects of the proposed works on adjoining buildings, structures, lands,\n           streets, utility services and facilities, including ground settlement/ building\n          settlement/ groundwater drawdown estimations;\n     (f)  The buildability such as the construction sequence, working space and safety\n         under temporary condition; and\n     (g)  The adequacy of precautionary measures."
+    },
+    {
+      "id": "p3-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 107
+        },
+        {
+          "label": "b",
+          "offset": 166
+        },
+        {
+          "label": "c",
+          "offset": 243
+        },
+        {
+          "label": "d",
+          "offset": 270
+        },
+        {
+          "label": "e",
+          "offset": 413
+        },
+        {
+          "label": "f",
+          "offset": 529
+        },
+        {
+          "label": "g",
+          "offset": 761
+        },
+        {
+          "label": "h",
+          "offset": 884
+        }
+      ],
+      "text": "3.  Fundamental Issues of Structural Works other than Superstructure, such as\n    Foundation and ELS Works\n\n     (a)  The codes and standards proposed to be adopted;\n     (b)  The geotechnical parameters and assumptions adopted in the design;\n     (c)  Design loadings;\n     (d)  The margins of safety, including stability of structural framing and foundation\n         system and overall stability of ELS system;\n     (e)  The structural adequacy of major structural elements of the foundation system\n        and the ELS system;\n     (f)  The effects of the proposed works on adjoining buildings, structures, lands,\n           streets, utility services and  facilities, including ground settlement/building\n         settlement/groundwater drawdown estimations;\n     (g)  The buildability such as construction sequence, working space and safety\n         under temporary condition; and\n    (h)  The adequacy of precautionary measures.\n\n\n(Rev. 2/2016)\n\n                                                       - 1  -"
+    },
+    {
+      "id": "page-18",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        18
+      ],
+      "text": "Appendix E\n                                                 (PNAP ADM-19)\n\nGuidelines for Concept Drawings\n\n1   Basic Information in Concept Drawings\n\n     (a)  Site coverage including accountable, non-accountable and exempted SC\n          areas;\n     (b) GFA including accountable, non-accountable and exempted domestic and\n        non-domestic GFA;\n     (c)  Fire safety strategy including MOE, MOA and FRC arrangements; and\n     (d)  Barrier free access including basic provision of access and facilities for\n         wheelchair-users.\n\n2  Sample Drawings\n\n    Sample concept drawings are available in BD’s website at www.bd.gov.hk for\n    reference.\n\n3   Size\n\n    A2, A3 or A4 depending on size of development.\n\n4   Colour Scheme\n\n      It is recommended that the colour schemes for designation of different types of\n   SC & GFA and barrier free access in sample concept drawings be adopted.\n\n5   Signs and Indicators\n\n      It is recommended that the signs and indicators for MOE, MOA and FRC\n    arrangements in the sample concept drawings be adopted.\n\n\n\n\n\n(Rev. 2/2016)"
+    },
+    {
+      "id": "page-19-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        19
+      ],
+      "text": "Appendix F\n                                                 (PNAP ADM-19)\n\n            Notes on Submission Drawing Standards in Electronic Format\n\nElectronic Submission for Mathematical Calculation of Areas\n\nIntroduction\n          The purpose of this supplementary note is to advise on the electronic\nformat and the pre-requisites for checking of area calculations in CAD drawing files\nelectronically."
+    },
+    {
+      "id": "p2-page-19",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        19
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        When the requirements set out in the following paragraphs are complied\nwith and clearly shown in the submitted CAD drawing files, diagrammatic breakdowns\nand details on calculation of the gross floor area, usable floor area, site coverage, plot\nratio, refuge floor area and green feature area etc. would not be required to be included\nin plan submission.  For avoidance of doubt, annotation and dimension of the areas\nconcerned are required to be indicated on plans for checking purpose.  Samples of the\ndimensioned plans are in Annex 1 for reference."
+    },
+    {
+      "id": "p3-page-19",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        19
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          For area calculations computed electronically, soft copies of the building\nfloor plans containing the area diagram layer(s) are required to facilitate verification of\nthe calculations.  For approval purpose, hard copies of the general building plans\nshowing floor area layouts, area diagrams and calculations without breakdowns are\nrequired.  Information shown in both the soft and hard copies of the plans submitted\nfor approval must be identical to each other.  Plans may be rejected if discrepancy\nbetween the two is found.  The AP should certify on each of the DVD-ROM discs with\na permanent marker signifying that information in the electronic drawing files are\nidentical  to the submitted hard copies and  that  all  files  are prepared under  his\nsupervision.  The disc should be finalised before submission, i.e. the contents of the\ndisc cannot be further changed.  His signature shall be deemed to be his assumption of\nresponsibility for the electronic plans and the calculations."
+    },
+    {
+      "id": "p4-page-19",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        19
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 299
+        },
+        {
+          "label": "b",
+          "offset": 550
+        },
+        {
+          "label": "c",
+          "offset": 688
+        },
+        {
+          "label": "d",
+          "offset": 897
+        }
+      ],
+      "text": "4.         The following minimum requirements in CAD drawing format should be\nobserved and provided for in the area calculations computed electronically.  Plans may\nbe  rejected on grounds of  insufficient information  if these requirements  are not\ncomplied with.\n4.1   Format and Software Version\n        (a)  The  submitted CAD  drawing   files  should  be  stored  in\n             non-rewritable DVD-ROM discs. Except otherwise agreed by the\n            Building Authority all other electronic submission formats are not\n             acceptable;\n        (b)  CAD  drawings  using AutoCAD  version R14  or  later  or\n            MicroStation version SE, J, V8 or later are acceptable;\n        (c)  AutoCAD   files  should  be  saved  in  “.dwg”  format  and\n            MicroStation files in “.dgn” format only.  All other compressed\n             or zipped file formats are not acceptable; and\n        (d)   Title blocks completed with drawing number showing revision\n             legends, site/project title, drawing title etc. should be inserted in\n            every drawing for identification purpose.  Each CAD file shall\n             contain one hard copy drawing only.  Typical title block sample\n                is attached in Annex 2 for reference.\n\n                                                       - 1  -"
+    },
+    {
+      "id": "page-20",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        20
+      ],
+      "text": "4.2    Referencing System\n       File Name/Drawing Number Convention\n        (a)   Each file shall contain one drawing only, default zoomed to full\n           drawing extent;\n        (b)   All information  for approval  shall be contained  in the same\n           drawing  file. The need  to cross-reference or hyper-link with\n            another CAD file to enable verification of the area calculations in\n             the DVD-ROM is not acceptable except in situation covered in (c)\n            below;\n        (c)   In situation where the layering number and the system are limited\n           due to software constraint, limited referencing system might be\n            used provided that all information and model files which compose\n             the final drawings are clearly visible and intact when files are\n           open in the computer. A clear and systematic path trial in hard\n           copy format highlighting the  list of  file(s) for area checking\n            purpose should be provided to facilitate the verification exercise.\n            All drawing files and model files are to put into the same folder to\n            ensure  coherent  path  recognition.    Cross-referencing  and\n             hyper-linking within folder should be kept to the minimum;\n        (d)  Naming and numbering of drawing files in the hard copy should\n           be identical to those in the submitted soft copy; and\n        (e)  A completed hard and soft copy of the drawing index listing all\n                file names, drawing numbers with brief description on location\n           and  contents  of  the  submitted  drawings  shall be  provided.\n           Drawings under different revision must carry a revision letter (e.g.\n       A to Z) for identification purpose.  For large and complicated\n             project  involving numerous drawing  versions/amendments,  a\n             revision legend should also be provided as well.\n\n                    e.g.    B-01_ A. DWG\n\n\n                       Drawing No.  Rev. A\n\n4.3    Layering Organization\n        (a)  CAD drawing files including floor plans, tables and calculations etc.\n              shall contain all information identical to the hard copy.  Each file shall\n           accommodate different elements such as floor layout plans, usable\n              floor area, gross floor area and dimension etc. into the relevant layers.\n          The “layering” drafting technique isolates elements of a drawing and\n             places them into separate layers for easy reference and manipulation.\n          The same principle applies to “level” in MicroStation files;\n        (b)  To facilitate checking of the area calculations, general building plans\n              shall contain GFA and other areas diagram layer(s) for verification and\n              calculations.  To  reconcile the requirements of other government\n             departs and to adopt the rules under CAD Standard for Works Projects\n         (CSWP) of Development Bureau, AP shall name the relevant layers in\n            a format specified below;\n\n\n\n                                                       - 2  -"
+    },
+    {
+      "id": "page-21",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        21
+      ],
+      "text": "Layer Name Convention\n\n Diagram A: Rules of Layer Name Convention of CSWP (abstracted)\n\n  ARC     082  4    0\n                                    Field 3 - Addition/Deduction Type\n                                    Field 2 - Building Plan Area Type (Sub-class)\n                                    Field 2 - CSWP Element Code assigned for\n                                          Building Plan Area Calculation (Class)\n                                    Field 1 - Agent Responsible Code (ARC) e.g. ADA\n\n  Field        Description          Length/Type            Coding\n   1    Agent Responsible Code   3 (alphanumeric)    See www. devb.gov.hk\n\n   2   CSWP Element Code      3 (numeric)          a) 082 for BD’s area\n         assigned for Building Plan                         calculation,\n        Area Calculation (Class)                         b) 086 for LandsD’s area\n                                                            calculation\n         Building Plan Area Type   1 (numeric)        See Diagram B\n         (Sub-class)\n   3    Addition/Deduction Type   1 (alphanumeric)    See Diagram C\n\nDiagram B\n\n Code         Building Plan Area Type\n   1     Site Coverage (SC) – Non-domestic\n   2     Site Coverage (SC) –Domestic\n   4    Gross Floor Area (GFA) –\n         Non-domestic\n   5    Gross Floor Area (GFA) – Domestic\n   9    Usable Floor Area (UFA)\n   0    Open Space (OS)\n   _    Elements common to all area type\n\nDiagram C\n\n Code  Addition/Deduction                 Remarks\n              Type\n   0    Base Area\n   4    Deduction Area       For area to be deducted from the outline of area\n                                  layers under the Buildings Ordinance.\n   5    Deduction Area       For area to be deducted from the outline of area\n                                  layers under the Lands Department requirement.\n   6    Deduction Area       For area to be deducted from the outline of area\n                                  layers under the Planning Department requirement.\n   8    Dimension\n\n\n\n\n\n                                               - 3  -"
+    },
+    {
+      "id": "page-22",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        22
+      ],
+      "text": "Diagram D: Layer Names generated from the above rules for this PNAP\n\n   Code           Description                 Remarks\n ARC08240     Non-domestic area     For outline of non-domestic GFA layer.\n               Layer\n ARC08244     Non-domestic area to   For non-domestic area to be deducted\n               be deducted from      from the outline of non-domestic area\n                 area calculations        layers under the Buildings Ordinance.\n ARC08246     Non-domestic area to  For non-domestic area to be deducted\n               be deducted from      from the outline of non-domestic area\n                 area calculations        layers under the Planning Department\n                                        requirements.\n ARC08250     Domestic area Layer   For outline of domestic GFA layer.\n\n ARC08254     Domestic area to be    For domestic area to be deducted from the\n                deducted from area     outline of domestic area layers under the\n                  calculations            Buildings Ordinance.\n\n ARC08256     Domestic area to be    For domestic area to be deducted from the\n                deducted from area     outline of domestic area layers under the\n                  calculations           Planning Department requirements.\n ARC082_8     Dimension layers      All dimensions for the floor layout plans\n                                          are automatically generated from the\n                                    computer software (not to be manually\n                                         inserted by text input construction)\n ARC08210     Area for              For outline of non-domestic site coverage\n                non-domestic site       layer.\n                coverage calculations\n ARC08214     Non-domestic site     Deduction complying with requirements\n                coverage deducted     of the Buildings Department.\n               from calculations\n ARC08216     Non-domestic site     Deduction complying with requirements\n                coverage deducted     of the Planning Department.\n               from calculations\n ARC08220     Area for domestic      For outline of domestic site coverage\n                     site coverage            layer.\n                  calculations\n ARC08224     Domestic site         Deduction complying with requirements\n                coverage deducted     of the Buildings Department.\n               from calculations\n ARC08226     Domestic site         Deduction complying with requirements\n                coverage deducted     of the Planning Department.\n               from calculations\n ARC08200     Area for open space    For outline of open space layer.\n                  calculations\n ARC08204     Area to be deducted    For area to be deducted from outline of\n               from open space        the open space under the Buildings\n                  calculations           Ordinance.\n ARC08290     Area for usable floor   For outline of usable floor area layer.\n                 area calculations\n ARC08294     Area to be deducted    For area to be deducted from outline of\n               from the usable floor   the usable floor area under the Buildings\n                 area calculations       Ordinance.\n\n                                              - 4  -"
+    },
+    {
+      "id": "page-23",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        23
+      ],
+      "text": "(c)     The layer names required by LandsD are not listed in this\n          PNAP and AP should make reference to LandsD LAO Practice\n             Note 3/2018.  AP should also refer to CSWP of Development\n              Bureau (at www.devb.gov.hk) for other layer name convention;\n        (d)     Layering organization of the file(s) in hard copy format shall\n              be submitted.   If more layering description is required in the\n               submitted general building plans, AP could lengthen the above\n                     list  with   additional  input  along   similarly  constructed\n              methodology.   All  layering  organizations must be  clearly\n              shown; and\n      Layer contents\n        (e)   CAD  file for the floor plan shall contain  all elements and\n               information that have to be shown on the drawings to facilitate\n                approval, including,  inter  alia, the area and the dimension\n                 layers.  Elements such as lighting, electric appliances and the\n                 like where approval from the Building Authority is not required\n               should not be shown in the submitted drawings.\n4.4    Presentation Style\n      Drawing Scale\n        (a)   CAD drawings should be drawn in true size (i.e. 1 drawing unit\n            = 1mm or metre) with precision rounded up to the nearest mm\n                  unit.\n      Drawing Object within area diagram\n        (b)     The  position  of  the  drawing  shall  be  close  to  World\n               Coordination 0,0 and drawing objects in area diagram shall not\n              be grouped or blocked.\n       Polyline\n        (c)      All line drawings intended for area calculations in area layer(s)\n                 shall be in closed polyline diagram (or in complex shape in\n               MicroStation files).\n      Dimension\n        (d)     All  dimensions  should  be   true  dimensions  generated\n                automatically by the software and laid in the specified layers.\n               Text  figures  or  figures  manually  inserted,  amended  or\n                constructed for calculation purpose in the CAD  file  is not\n                acceptable.\n      Decimal places of areas and volumes\n        (e)      All areas and volumes should be presented in m2 and m3 units\n                respectively and rounded up to 3 decimal places.\n      Suggested Text Font\n         (f)      Text  style  is not compulsory. Conventional  text  fonts  are\n                suggested.  Common  type  such  as  “Romans”  font   is\n             recommended  for  use  in  the  text.    For  MicroStation,\n               “Engineering” font could be adopted.\n\n\n                                                       - 5  -"
+    },
+    {
+      "id": "page-24-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        24
+      ],
+      "text": "Review"
+    },
+    {
+      "id": "p5-page-24",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        24
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            These guidelines will be refined taking into the experience gained.\nSuggestions to facilitate and/or to improve the electronic vetting procedures are always\nwelcomed.\n\n\n\n\n\n(Rev. 9/2019)\n\n\n\n                                                       - 6  -"
+    },
+    {
+      "id": "page-25",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        25
+      ],
+      "text": "Annex 1\n\nSamples for Dimensioned and Annotated GFA Diagrams\n\nThe following part diagrams shown with dimensions and annotations are for reference\nonly. They are intended to illustrate the minimum information required to facilitate\nelectronic verification of the area calculations more effectively. Illustrations shown are\nby no means exhaustive.\n\n\nSample 1    Rectangular shape GFA diagram\n\n\n\n\n\nSample 2   GFA diagram with curve(s) and annotations\n\n\n\n\n\n                                      -1-"
+    },
+    {
+      "id": "page-26",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        26
+      ],
+      "text": "Sample 3   GFA diagram (part) with dimension and annotation\n\n\n\n\n\nSample 4   GFA diagram (part) with grid line and dimension.\n\n\n\n\n\nSample 5    Overview of a sample GFA diagram with calculations\n\n\n\n\n\n(Rev. 2/2016)                                        - 2 -"
+    },
+    {
+      "id": "page-27",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        27
+      ],
+      "text": "Annex 2\n                            Sample Title Panel\n\n\n\n\n\n                                                     BD REF\n                                                   BD File Reference\n\n                                                              BIM REF                                                            BIM File Reference\n\n                                                       FSDREF                                                     FSD File Reference\n\n\n                                                              Unused Minimum Border:\n                                                          A0 – 20mm\n                                                          A1 – 20mm\n                                                          A2 – 10mm\n                                                          A3 – 10mm\n                                                          A4 – 10mm\n                                                          (PNAP ADM-10 App A)\n\n\n\n\n                                                      PROJECT\n                                                                             Site/Project Title\n                                                    DRAWING TITLE\n                                                               Drawing Title\n\n\n                                                      SCALE                                                                       Scale\n                                                    DRAWING NO                          Drawing Number (with revision)\n                                                  SOURCE                                    Original Drawing No. (if any)\n\n                                                          Company Logo (if any)\n\n\n\n\n\n                                                                     AP/RSE/RGE’s signature/and\n                                                                       stamp chop\n\n                                                                    BD’s OFFICIAL USE\n                                                            90mm(W)x150mm(H) space\n                                                                                           for BD’s approval stamp/\n                                                                                            certification of copies of\n                                                                     approved plans (PNAP\n                                                           ADM-10 App A)\n                                             1\n* Information box shown in bold letter is compulsory for BD submission.\n\n(Rev. 9/2019)"
+    },
+    {
+      "id": "page-28-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        28
+      ],
+      "text": "Appendix G\n                                                 (PNAP ADM-19)\n\n\n             List of Amendments Not Qualified as Minor Amendments\n                             for Deferring Submission"
+    },
+    {
+      "id": "p1-page-28",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        28
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 53
+        },
+        {
+          "label": "b",
+          "offset": 183
+        },
+        {
+          "label": "c",
+          "offset": 246
+        },
+        {
+          "label": "d",
+          "offset": 371
+        },
+        {
+          "label": "e",
+          "offset": 496
+        },
+        {
+          "label": "f",
+          "offset": 642
+        }
+      ],
+      "text": "1.    For building and building (A&A), an amendment:\n\n      (a)   resulting in a major revision or localised major revision as per the\n             criteria specified in PNAP APP-55;\n\n      (b)   having material effect on the fundamental issues;\n\n      (c)   involving concern on stability/deformation of slopes, retaining walls,\n           adjoining land and buildings;\n\n      (d)   involving an application for exemption or modification of the BO and\n               its subsidiary regulations;\n\n      (e)   not in compliance with the relevant Outline Zoning Plan or deviating\n          from a scheme approved by the Town Planning Board; or\n\n       (f)   involving works outside the lot boundary."
+    },
+    {
+      "id": "p2-page-28",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        28
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 65
+        },
+        {
+          "label": "b",
+          "offset": 138
+        },
+        {
+          "label": "c",
+          "offset": 204
+        }
+      ],
+      "text": "2.    For superstructure and superstructure (A&A), an amendment:\n\n      (a)   affecting the overall structural stability of the building;\n\n      (b)   having material effect on the fundamental issues; or\n\n      (c)   involving an application for exemption or modification of the BO and\n               its subsidiary regulations."
+    },
+    {
+      "id": "p3-page-28",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        28
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 53
+        },
+        {
+          "label": "b",
+          "offset": 177
+        },
+        {
+          "label": "c",
+          "offset": 274
+        },
+        {
+          "label": "d",
+          "offset": 399
+        },
+        {
+          "label": "e",
+          "offset": 524
+        },
+        {
+          "label": "f",
+          "offset": 578
+        }
+      ],
+      "text": "3.    For drainage and drainage (A&A), an amendment:\n\n      (a)   involving the revision of drainage layout as a result of a major revision\n           of the building proposal;\n\n      (b)   involving the change of disposal system or connections to public\n           sewers;\n\n      (c)   involving concern on stability/deformation of slopes, retaining walls,\n           adjoining land and buildings;\n\n      (d)   involving an application for exemption or modification of the BO and\n               its subsidiary regulations;\n\n      (e)   involving excavations deeper than 3m; or\n\n       (f)   involving works outside the lot boundary.\n\n                                                              - 1 -"
+    },
+    {
+      "id": "p4-page-29",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        29
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 36
+        },
+        {
+          "label": "b",
+          "offset": 281
+        },
+        {
+          "label": "c",
+          "offset": 705
+        },
+        {
+          "label": "d",
+          "offset": 1245
+        },
+        {
+          "label": "e",
+          "offset": 1437
+        },
+        {
+          "label": "f",
+          "offset": 1593
+        },
+        {
+          "label": "g",
+          "offset": 1721
+        },
+        {
+          "label": "h",
+          "offset": 1914
+        },
+        {
+          "label": "i",
+          "offset": 2288
+        }
+      ],
+      "text": "4.    For foundation, an amendment;\n\n      (a)   involving the change in design assumptions, construction method/\n            material, safety precautionary measures, safety tolerances, monitoring\n            measures/criteria, founding material, allowable load carrying capacity;\n\n      (b)   causing an impact on the railway structures or facilities in Area\n         Number 3 of the scheduled areas in Schedule 5 to the BO, or in other\n           railway protection areas as referred to in PNAP APP-24, that results\n            in not complying with the monitoring control limits shown on the\n             latest approved plans or the requirements set out in the guidelines\n          under PNAP APP-24;\n\n      (c)   causing an impact on the drainage and sewage tunnels in Area\n         Number 5 of the scheduled areas in Schedule 5 to the BO, or in the\n           tunnel protection zones of Drainage Services Department (DSD)\n           tunnels as referred to in PNAP APP-62, that results in not complying\n           with the monitoring control limits shown on the latest approved plans,\n           or the requirements set out in the technical notes under PNAP APP-62\n           or the technical guidelines under DSD Practice Note No. 2/2017;\n\n      (d)   involving excavation for pile caps or footing below the approved bulk\n           excavation  limit  in Area Number 1  of  the scheduled  areas  in\n          Schedule 5 to the BO;\n\n      (e)   involving steel H-piles driven to bedrock steeper than 25 degree from\n            the horizontal if any as shown on the latest approved plans;\n\n       (f)   involving piles constructed over slope of which the stability will affect\n           or be affected by the piles;\n\n      (g)   not in compliance with the approved minimum clear distance between\n            the  foundation  and  the  site  boundaries  or  adjacent  sensitive\n            buildings/features;\n\n      (h)   involving a change from Type 1 to Type 2 mechanical couplers for\n             steel reinforcing bars or vice versa, or a change in the mechanical\n           couplers which requires a further quality assurance scheme of the\n           manufacturer to be submitted prior to the application for consent to the\n         commencement of the splicing assembly works;\n\n       (i)   involving relocation of pile(s) to position(s) more than 5m from\n              its/their original location(s), as shown on the latest approved plans; or\n\n\n\n\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-30-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        30
+      ],
+      "text": "(j)   involving the following percentage increase over the number of piles\n           of the same type, as shown on the latest approved plans:\n\n               (i)  more than 5%1 for piles of the same type except large diameter\n               bored piles (LDBP); or\n\n                 (ii)  more than 15%1 for LDBP only."
+    },
+    {
+      "id": "p5-page-30",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        30
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 34
+        },
+        {
+          "label": "b",
+          "offset": 91
+        },
+        {
+          "label": "c",
+          "offset": 257
+        },
+        {
+          "label": "d",
+          "offset": 681
+        },
+        {
+          "label": "e",
+          "offset": 1221
+        },
+        {
+          "label": "f",
+          "offset": 1377
+        }
+      ],
+      "text": "5.    For pile cap, an amendment:\n\n      (a)   involving the change in design assumptions;\n\n      (b)   involving excavation for pile caps below the approved bulk excavation\n            limit in Area Number 1 of the scheduled areas in Schedule 5 to the BO;\n\n      (c)   causing an impact on the railway structures or facilities in Area\n         Number 3 of the scheduled areas in Schedule 5 to the BO, or in other\n           railway protection areas as referred to in PNAP APP-24, that results\n            in not complying with the monitoring control limits shown on the\n             latest approved plans or the requirements set out in the guidelines\n          under PNAP APP-24;\n\n      (d)   causing an impact on the drainage and sewage tunnels in Area\n         Number 5 of the scheduled areas in Schedule 5 to the BO, or in the\n           tunnel protection zones of Drainage Services Department (DSD)\n           tunnels as referred to in PNAP APP-62, that results in not complying\n           with the monitoring control limits shown on the latest approved plans,\n           or the requirements set out in the technical notes under PNAP APP-62\n           or the technical guidelines under DSD Practice Note No. 2/2017;\n\n      (e)   resulting in amendment to the latest approved/accepted excavation and\n             lateral support plans as described in paragraph 6 below; or\n\n       (f)   involving a change from Type 1 to Type 2 mechanical couplers for\n             steel reinforcing bars or vice versa, or a change in the mechanical\n           couplers which requires a further quality assurance scheme of the\n           manufacturer to be submitted prior to the application for consent to the\n         commencement of the splicing assembly works.\n\n\n\n\n\n1  When the number of pile(s) so calculated involves decimal numbers, round up to the nearest\n   whole number.  For example, if there are 15 non-LDBP shown on the latest approved plans,\n    the increase in number of non-LDBP should not be more than 1 (15x5%=0.75 and rounding\n   up to the nearest whole number, i.e. 1).   If there are 10 LDBP shown on the latest approved\n    plans, the increase in number of LDBP should not be more than 2 (10x15%=1.5 and rounding\n   up to the nearest whole number, i.e. 2).\n\n                                                              - 3 -"
+    },
+    {
+      "id": "p6-page-31",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        31
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 62
+        },
+        {
+          "label": "b",
+          "offset": 427
+        },
+        {
+          "label": "c",
+          "offset": 577
+        },
+        {
+          "label": "d",
+          "offset": 1001
+        },
+        {
+          "label": "e",
+          "offset": 1544
+        }
+      ],
+      "text": "6.    For excavation and lateral support (ELS), an amendment:\n\n      (a)   involving   the  change   in  design  assumptions,   construction\n           method/material, safety precautionary measures, safety tolerances,\n           monitoring  measures/criteria,  type/size or  installation method of\n             vertical earth retaining elements or construction sequence including\n           pre-loading arrangement of struts;\n\n      (b)   involving excavation below the approved bulk excavation limit in\n          Area Number 1 of the scheduled areas in Schedule 5 to the BO;\n\n      (c)   causing an impact on the railway structures or facilities in Area\n         Number 3 of the scheduled areas in Schedule 5 to the BO, or in other\n           railway protection areas as referred to in PNAP APP-24, that results\n            in not complying with the monitoring control limits shown on the\n             latest approved plans or the requirements set out in the guidelines\n          under PNAP APP-24;\n\n      (d)   causing an impact on the drainage and sewage tunnels in Area\n         Number 5 of the scheduled areas in Schedule 5 to the BO, or in the\n           tunnel protection zones of Drainage Services Department (DSD)\n           tunnels as referred to in PNAP APP-62, that results in not complying\n           with the monitoring control limits shown on the latest approved plans,\n           or the requirements set out in the technical notes under PNAP APP-62\n           or the technical guidelines under DSD Practice Note No. 2/2017; or\n\n      (e)   involving the change in strutting layout (horizontal and inclined) or\n           construction material of lateral support system or reduction of size of\n             structural members of the approved ELS system, except localised\n          minor changes to the horizontal or inclined arrangement of structural\n         members without reduction of the stiffness of affected struts to resolve\n            obstruction to the permanent structures."
+    },
+    {
+      "id": "p7-page-31",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        31
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 40
+        },
+        {
+          "label": "b",
+          "offset": 240
+        },
+        {
+          "label": "c",
+          "offset": 390
+        }
+      ],
+      "text": "7.    For site formation, an amendment:\n\n      (a)   involving   the  change   in  design  assumptions,   construction\n           method/material, safety precautionary measures, safety tolerances or\n           monitoring measures/criteria;\n\n      (b)   involving excavation below the approved bulk excavation limit in\n          Area Number 1 of the scheduled areas in Schedule 5 to the BO;\n\n      (c)   causing an impact on the railway structures or facilities in Area\n         Number 3 of the scheduled areas in Schedule 5 to the BO, or in other\n           railway protection areas as referred to in PNAP APP-24, that results\n            in not complying with the monitoring control limits shown on the\n             latest approved plans or the requirements set out in the guidelines\n          under PNAP APP-24;\n\n\n\n\n\n                                                              - 4 -"
+    },
+    {
+      "id": "page-32",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        32
+      ],
+      "text": "(d)   causing an impact on the drainage and sewage tunnels in Area\n         Number 5 of the scheduled areas in Schedule 5 to the BO, or in the\n           tunnel protection zones of Drainage Services Department (DSD)\n           tunnels as referred to in PNAP APP-62, that results in not complying\n           with the monitoring control limits shown on the latest approved plans,\n           or the requirements set out in the technical notes under PNAP APP-62\n           or the technical guidelines under DSD Practice Note No. 2/2017;\n\n      (e)   involving change of any site formation level shown in the latest\n          approved plans for more than 1m;\n\n       (f)   involving change of site formation level/profile adversely affecting the\n            overall stability of approved ELS system in the site or adjoining\n             structures/slopes/utilities;\n\n      (g)   involving an increase in retained height of permanent earth retaining\n            structures or reduction of such for more than 1m; or\n\n      (h)   involving a change from Type 1 to Type 2 mechanical couplers for\n             steel reinforcing bars or vice versa, or a change in the mechanical\n           couplers which requires a further quality assurance scheme of the\n           manufacturer to be submitted prior to the application for consent to the\n         commencement of the splicing assembly works.\n\n\n\n\n\n(Rev. 10/2024)\n\n\n\n\n\n                                                              - 5 -"
+    },
+    {
+      "id": "page-33-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        33
+      ],
+      "text": "Appendix H\n                                                     (PNAP ADM-19)\n\n                    Request for Fast Track Processing of Plans\n    of Alteration and Addition (A&A) Works and Certificate of Preparation of Plans\n\nTo the Building Authority,\n\n          In accordance with paragraph 35 of PNAP ADM-19, I hereby request for fast track\nprocessing of the plans submitted  for the proposed A&A works  to be  carried out  at\n___________________________________________________________________."
+    },
+    {
+      "id": "p2-page-33",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        33
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          I confirm that the A&A works as shown on the enclosed drawings (dwg. no.\n______________ to _______________) do not involve the structure of the building and do not\ninvolve changes to the latest approved plans of the affected areas in the following aspects :\n    ☐  Density - site parameter, plot ratio, site coverage\n    ☐  Fire safety - means of access, means of escape in case of fire, fire\n                resistance, compartmentation\n    ☐  Health and environment - lighting, ventilation, open space\n    ☐  Fundamental issues required under allied legislation - fire safety, OZP,\n              access for persons with a disability, airport height restrictions, railway\n              route protection\n    ☐  Method of disposal to public sewers"
+    },
+    {
+      "id": "p3-page-33",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        33
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          I also confirm that the A&A works as shown on the enclosed drawings (dwg. no.\n______________ to ______________) involve changes to the latest approved plans of the\naffected areas in the following aspects :\n    ☐  Fire safety - means of access, means of escape in case of fire, fire\n                resistance, compartmentation\n    ☐  Health and environment - lighting, ventilation, open space\n    ☐  Minor changes to structural elements of the building\n    ☐  Drainage system of the building\nand that such changes as shown on the said drawings comply with the provisions of the\nBuildings Ordinance."
+    },
+    {
+      "id": "p4-page-33",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        33
+      ],
+      "subparagraph_markers": [],
+      "text": "4.     A Form BA8A applying for your consent to the commencement and carrying out of\nthe A&A works mentioned in paragraph 1 above is enclosed.\n\n\n\n              Date                                   Signature of Authorized Person\n\n\n                                                 (Name in full)\n\n\n                                                 Signature of Registered Structural Engineer\n\n\n☐ tick the appropriate boxes                           (Name in full)\n\n(Rev. 4/2025)"
+    },
+    {
+      "id": "page-34-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        34
+      ],
+      "text": "Appendix I\n                                                 (PNAP ADM-19)\n\n                       Fast Track Processing of Proposal\n                            for Two-Storey Warehouse\n\n            The Efficiency Office (EffO) operates a One Stop Centre for receiving\nsubmissions and coordinating joint inspections for two-storey warehouse proposals on\nbehalf of relevant Government departments (including BD) and  utility companies.\nDetails of the scheme are available from EffO's website at https://www.effo.gov.hk."
+    },
+    {
+      "id": "p2-page-34",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        34
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           Submission of a proposal for building a two-storey warehouse via the\nEffO’s One Stop Centre to the BD should include all relevant plans such as GBP,\nstructural plans, drainage plans, demolition plans, site supervision plans and hoarding\nplans, and the corresponding consent application.   Alternatively, such submission\nmay be made to the BD directly."
+    },
+    {
+      "id": "p3-page-34",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        34
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 130
+        },
+        {
+          "label": "b",
+          "offset": 265
+        },
+        {
+          "label": "c",
+          "offset": 528
+        },
+        {
+          "label": "d",
+          "offset": 627
+        }
+      ],
+      "text": "3.           For  building  proposals  satisfying  the  following  criteria,  concurrent\napproval and consent may be applied for:\n\n        (a)    The proposed building is a warehouse for general storage, of not\n           more than two storeys and has no basement;\n\n        (b)   The site is a Class A, B or C site and emergency vehicular\n              access is provided in compliance with regulation 41D of the\n             Building (Planning) Regulations and the Code of Practice for\n               Fire Safety in Buildings;\n\n        (c)   No compartment in the building shall exceed 28,000m3 nor\n             10,500m2; and\n\n        (d)   The criteria as set out in PNAP ADM-19 are satisfied."
+    },
+    {
+      "id": "p4-page-34",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        34
+      ],
+      "subparagraph_markers": [],
+      "text": "4.           For proposals satisfying the criteria in paragraph 3 above and irrespective\nof whether the submission is made via the EffO’s One Stop Centre or directly to the BD,\nthe BD undertakes to process the concurrent applications for fast track approval and\nconsent within 45 days from the date of submission and to conduct inspection of the\nfoundation bearing strata within one working day upon receipt of notification.\n\n\n\n\n\n(Rev. 9/2019)"
+    },
+    {
+      "id": "page-35",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        35
+      ],
+      "text": "Appendix J\n                                                 (PNAP ADM-19)\n\n\n            Fast Track Processing for Repair Works of Curtain Wall,\n                   Window Wall1 and Cladding\n\n\n          To enable BD to process the application for fast-track approval and consent\nwithin 30 days2, the following shall be submitted concurrently:\n\n        (a)  A supervision plan for the curtain wall, window wall or cladding works,\n           where applicable, prepared by the AP, RSE and Registered General\n            Building  Contractor (RGBC)  in  accordance  with  the  Technical\n         Memorandum for Supervision Plans and the Code of Practice for Site\n             Supervision;\n\n        (b)    If tempered glass is to be installed, the RSE shall submit the following\n           documents as stipulated in PNAP APP-37-\n\n                 (i)     quality supervision plan prepared by the RSE and\n            RGBC for the quality supervision of manufacturer’s\n                    heat soak process, and\n\n                 (ii)    a copy of Quality Assurance Scheme issued by the\n                   manufacturer;\n\n        (c)    If the thermal transmittance characteristics of the replaced external wall\n             materials  regarding  insulation  is  inferior  to  the  approved  one,\n             provisional Overall Thermal Transfer Value report under PNAP APP-\n           67 and, where applicable, provisional energy efficiency report under\n        PNAP APP-1563; and\n\n        (d)    If the  repair works involve a change/upgrading of the approved\n              materials,  full  justifications  of  their  structural  adequacy,  non-\n             combustibility, fire resisting properties in compliance with the relevant\n             current Building Regulations, design standards and codes of practice.\n\n\n\n\n\n(2/2021)\n\n\n\n\n1  Window wall, including glass wall and glass shop front, refers to window and wall formed by\n   structural glass elements spanning between floors.\n2  Paragraph 31 of PNAP ADM-19 refers.\n3  Applicable to developments previously approved subject to the Building (Energy Efficiency)\n   Regulation or PNAP APP-156."
+    }
+  ]
+}

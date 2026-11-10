@@ -1,0 +1,911 @@
+{
+  "code": "APP-105",
+  "source_text": "indexed_text/PNAP/APP/APP-105.txt",
+  "source_pdf": "documents/PNAP/APP/APP-105.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department        Registered Structural Engineers and      APP-105\n                            Registered Geotechnical Engineers\n\n\n                           Water Seepage\n\n\n            Water seepage in existing buildings is often caused by defective building\nfabric or water borne pipework and is primarily a matter of building management and\nmaintenance to be resolved by the property owners and occupants.  Persistent water\nseepage problem may cause health nuisance1, accelerate the deterioration of building and\nstructural elements, and pose a risk to the structural safety of a building in the long run."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 172
+        },
+        {
+          "label": "b",
+          "offset": 513
+        }
+      ],
+      "text": "2.          The problems associated with water seepage caused by defective building\nfabric and/or embedded water-borne piping are complex and difficult to resolve because:\n\n        (a)    The party affected (usually the lower floor) is normally not the\n            one who created the problem (upper floor), therefore co-operation\n                  is usually not forthcoming.   If common areas are involved,\n              multiple ownership status of such areas further complicates the\n             problem; and\n\n        (b)      It is difficult to locate the defective areas of building fabric or\n               sections of water-borne piping for repair, as water leaks and finds\n                   its path of least resistance through cracks and ducts.\n\nPrevention of Water Seepage in New Buildings"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            Section 3 of the Building (Construction) Regulation (B(C)R) stipulates\nthat all materials used in any building works must be of a nature and quality suitable for\ntheir intended use or purpose; adequately mixed or prepared; and applied, used or fixed\nso as to perform adequately their intended functions. Section 27 of the B(C)R requires\nthat external walls must be constructed of materials that are impervious. Sections 32 and\n33 of the B(C)R require that walls that may be in contact with damp must be provided\nwith adequate protection to prevent moisture penetration; and the floor of a room with a\nwater supply must be constructed to prevent water penetration. Section 34 of the B(C)R\nrequires that the roof of a building must be designed and constructed so as to make it\nweatherproof. Authorized persons (AP), registered structural engineers (RSE), registered\ncontractors (RC) should ensure that the design and construction of their buildings or\nbuilding works, as the case may be, meet the above performance requirements and are\nstructurally safe."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         To  ensure  building  quality and compliance  with  the performance\nrequirements stipulated in the Buildings Ordinance (BO) and its subsidiary regulations,\nAP, RSE and RC should pay special attention to the choice of materials, design and\nspecification, workmanship and supervision.\n\n                                                                                                 /5. …\n\n\n1   If the seepage involves foul water."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            Roofs, external walls, curtain walls, windows, balconies, utility platforms,\nbathrooms, kitchens, plumbing and drainage pipes, car park floors and basements are\nsusceptible to water seepage if not carefully designed and closely supervised during the\ncourse of construction. AP, RSE and RC should take all necessary steps to prevent water\nseepage in these areas including specifying appropriate waterproofing materials and\nmeasures in their design, implementing close supervision during construction, and\nundertaking appropriate compliance testing on the waterproofing performance upon\ncompletion of works.\n\nEmbedment of Water-borne Pipes"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           Water seepage arising from embedded piping causes not only nuisance but\nalso deterioration to the structural member of a building. Even if such defective sections\nare accurately identified, the breaking up of structural elements for repair is costly and\ndisruptive  to  the  occupiers, which would discourage them from  co-operation  in\nconducting repair. To address the problem at source, it is necessary to design the routing\nof all water-borne piping off structural elements to facilitate the indispensable need for\nrepair and replacement of such piping during the design life of the building."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.         To ensure the long-term integrity of all structural elements and to avoid\nhealth nuisance arising from water seepage, AP/RSE is required to state explicitly in the\nstructural plans and drainage plans that no water-borne piping, other than that specified\nin paragraph 2 of the guidelines at Appendix A, will be embedded in structural elements.\nIf AP/RSE decides to embed any section of such piping in any structural elements,\nAP/RSE is required to submit details showing the routing of all water-borne pipes when\napplying for approval of drainage plans and to justify how to achieve the above objective\nof ensuring the long-term integrity of such structural elements and preventing water\nseepage arising from the embedded pipes.  Omission of such routing details, or the\njustification of such omission, as the case may be, would result in disapproval of plans\nunder Section 16(1)(i) of the BO. Section 14(4)(a) of the B(C)R is relevant."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.         To assist designers to route water-borne pipes off structural elements, the\nBuilding Authority (BA) is prepared to grant modification to permit genuine pipe ducts\ndesigned in accordance with Practice Note for Authorized Persons, Registered Structural\nEngineers and Registered Geotechnical Engineers APP-93 in new buildings to be\nexcluded from gross floor area calculation.\n\nEnhanced Design and Construction Guidelines"
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          The Buildings Department (BD) issued the “Guidelines on Prevention of\nWater Seepage in New Buildings” via a circular letter in 7 March 2005.  With the\nadvancement in building design and construction, the introduction of new construction\nmaterials and  application  of smart  building  technologies, BD has undertaken  a\ncomprehensive review of the aforementioned guidelines.  The enhanced design and\nconstruction guidelines on prevention of water seepage in new buildings are provided at\nAppendix B."
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "10.         The enhanced design and construction guidelines at Appendix B are\napplicable to  all new general building plans (GBP) or major revision of GBP for\ndevelopment projects and alterations and additions works submitted to the BA for\napproval after 31 March 2025.\n                                                                                     /11. …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\nGeneral"
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.       A practice note on the same subject has been issued to registered\ncontractors.\n\n\n\n\n\n                                                        ( YU Po-mei, Clarice )\n                                             Building Authority\n\n\n\n\n\nRef. : BD GR/1-55/173\n    BD GP/BORD/92\n    BD GP/BREG/P/9 (III)\n\nThis PNAP is previously known as PNAP 230\nFirst issue    October 1999\nLast revision December 2010\nThis revision September 2024 (AD/NB1)  (General revision and Appendix B added)"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                 (PNAP APP-105)\n\n\n                Guidelines on Embedment of Water-borne Pipes"
+    },
+    {
+      "id": "p1-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "1.    In general, embedment of water-borne pipes in structural members, other than those\n      specified in paragraph 2, would not be permitted within columns, slabs, structural\n      walls, beams, transfer plates, pile caps and footings."
+    },
+    {
+      "id": "p2-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 276
+        },
+        {
+          "label": "b",
+          "offset": 361
+        }
+      ],
+      "text": "2.    Water-borne pipes piercing through the following structural members may be\n      permitted where it is demonstrated that no adverse effect will be caused to the\n     performance of the structural members and, where the pipes are easily accessible\n      for maintenance:\n\n       (a)   Vertical pipes piercing through structural slabs, transfer plates; and\n\n      (b)   Horizontal pipes piercing through beams or structural walls.\n\n      In this regard, for the sake of easy replacement, pipe sleeves should preferably be\n      cast into the structural elements for the pipes to pass through."
+    },
+    {
+      "id": "p3-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 108
+        },
+        {
+          "label": "i",
+          "offset": 220
+        },
+        {
+          "label": "b",
+          "offset": 671
+        },
+        {
+          "label": "i",
+          "offset": 746
+        }
+      ],
+      "text": "3.    In the context of paragraph 2, no adverse effect may be assumed in the following\n      circumstances:\n\n       (a)   Vertical pipes piercing through reinforced concrete floor slabs or\n             transfer plates:\n\n                (i)    The size of a hole formed is not greater than 150mm in\n                  diameter or the minimum bar spacing of the slab in either\n                     direction, whichever is the less and no main reinforcement is\n                  severed to make way for the hole; and\n\n                (ii)    Trimming  bars  not  less  than  the  size  of  the  main\n                   reinforcement of the slab are provided around the hole.\n\n      (b)   Horizontal pipes piercing through reinforced concrete beams:\n\n                (i)    The size of a hole formed is not greater than 150mm in\n                  diameter or 1/3 the depth of the beam, whichever is the less;\n\n                (ii)   The hole is formed at the neutral axis of the beam section;\n\n                 (iii)    Vertical and horizontal trimming bars not less than 16mm in\n                  diameter are provided around the hole and at each side of the\n                beam; and\n\n              (iv)   No shear reinforcement is severed to make way for the hole.\n\n\n\n\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "(c)   Horizontal pipes piercing through structural walls:\n\n                (i)    The size of a hole formed is not greater than 150mm in\n                  diameter  or  the minimum  bar  spacing  of  the  vertical\n                   reinforcement of the wall, whichever is the less; and\n\n                (ii)    Vertical and horizontal trimming bars of size of not less than\n                    the vertical reinforcement bars of the wall are provided\n                 around the hole and at both side of the wall.\n\n\n\n\n\n(Rev. 9/2024)\n\n\n\n\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix B\n                                                 (PNAP APP-105)\n\n\n          Guidelines on Prevention of Water Seepage in New Buildings\n\n\nIntroduction\n\n             Proper design and quality construction are essential to prevent water\nseepage in buildings.  The following guidelines set out the deem-to-comply provisions\nwith the relevant performance requirements under the Building (Construction) Regulation\n(B(C)R).  Alternative design and construction that can achieve equivalent performance\nstandard or function is also acceptable.\n\nRoof1"
+    },
+    {
+      "id": "p2-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The roof of a building must be designed and constructed so as to make it\nweatherproof and adequate means must be provided to prevent ingress of water from the\nroof of a building to the adjoining floor under section 34 of the B(C)R."
+    },
+    {
+      "id": "p3-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 97
+        },
+        {
+          "label": "b",
+          "offset": 378
+        },
+        {
+          "label": "c",
+          "offset": 734
+        },
+        {
+          "label": "d",
+          "offset": 1086
+        }
+      ],
+      "text": "3.          The following criteria should be considered in the design and construction\nof roofs:\n\n        (a)    Durable and suitable waterproofing system should be used and\n              applied to the entire roof with turn up every wall at a height of at\n                least 300mm above the finished level in accordance with the\n              manufacturer’s specifications.\n\n        (b)    Continuous angle fillets should be installed to the junction between\n              the  vertical  and  horizontal  surfaces  for  application  of  the\n              waterproofing system.   Special attention should be paid to the\n                 critical  locations  such  as  joints,  upturns,  downturns  and\n               penetrations.\n\n        (c)    For accessible roofs and where access to the roofs for maintenance\n              of facilities are expected, suitable roofing materials and finishes\n             should be used to protect the waterproofing system.  Damage of\n              the waterproofing system by roof tiles due to expansion movement\n             should be avoided.\n\n        (d)   Where machinery is installed on roof, care should be taken to avoid\n            damaging the integrity of the waterproofing system and material.\n              Vibration of machinery can be reduced by properly designed\n            dampers and the waterproofing membrane should be applied to the\n              concrete plinth with plant first fixed in place.\n\n1  Roof includes any top-most slabs of a building that are exposed to weather.\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "(e)    Provision  of  waterproofing  enclosures  for   electrical  and\n             mechanical services and elimination of embedment of conduits and\n              other pipework in roof slab wherever possible will also help reduce\n              the chance of water seepage.\n\n         (f)    Adequate fall of the roof and sufficient drainage outlets should be\n             provided to avoid ponding of water.\n\n        (g)      It is advisable to devise overflow provisions discharging to the\n              drainage system to cater for accidental blockage of the rainwater\n                outlets.\n\n        (h)    Relevant compliance tests such as water flood test should be\n               carried out to ensure good workmanship and quality of works as\n              well as waterproofing performance."
+    },
+    {
+      "id": "p4-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "4.           Guidance Notes on Design and Construction of Reinforced Concrete Roof\nare at Annex 1.\n\nBalcony and Utility Platform"
+    },
+    {
+      "id": "p5-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            Balconies or utility platforms projecting from an external wall are exposed\nto weather.  The design of balconies and utility platforms as well as the waterproofing\nworks to be applied on them should follow the criteria for design, construction and testing\nof roof in paragraph 3 as appropriate.\n\nExternal Wall (including Precast Façade)"
+    },
+    {
+      "id": "p6-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "6.        An external wall of a building must be constructed of materials that are\npermanent and impervious under section 27 of B(C)R."
+    },
+    {
+      "id": "p7-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           Water tightness of external walls is achieved by using suitable materials,\nproviding adequate wall thickness, designing proper construction details, as well as\nproviding surface rendering and finishes which serve as barrier against water ingress.\nWhere external walls are exposed to severe weather conditions, more extensive surface\nwaterproofing should be employed."
+    },
+    {
+      "id": "p8-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "8.            Junction between two adjoining buildings with improper waterproofing\ndetail is vulnerable to water seepage.   Special consideration should be given to the\njunctions at top and sides to prevent ingress of water.  In cases where precast external\nwall panels are used, slotted junction detail with water bar and monolithic concrete kicker\nshould be adopted."
+    },
+    {
+      "id": "p9-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "9.         Good workmanship of concreting and placing of steel reinforcement is\nessential in enhancing water tightness of the external walls.  Proper slump, pumping and\ncompaction of concrete as well as adequate steel reinforcement could eliminate the\nformation of honeycombed concrete or cracks and crevices in the walls.  Well prepared\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "and cleaned kickers, properly treated tie holes fully grouted with waterproofing mortar,\ngood quality expansion joints with firmly fixed water bars and proper waterproofing\ntreatment at locations of pipe penetration could reduce the possibility of water seepage."
+    },
+    {
+      "id": "p10-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "10.         To avoid defective and detachment of external wall finishes, the adhesion\nbetween the external wall and the finishes can be improved by providing sufficient key\nto the substrate, specifying waterproofing additives and allowing adequate expansion\njoints."
+    },
+    {
+      "id": "p11-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "11.        Upon completion  of  the  external  finishes,  specific  tests should be\nemployed to ascertain the integrity.  Reference should also be made to the Practice Note\nfor Authorized Persons, Registered Structural Engineers and Registered Geotechnical\nEngineers (PNAP) ADV-31."
+    },
+    {
+      "id": "p12-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "12.           External precast façades form the external face of a building.  The design\nof external precast facade should meet the water tightness performance of external walls."
+    },
+    {
+      "id": "p13-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "13.          Water penetration test on a full scale mock-up precast façade panels should\nbe carried out to demonstrate their design and construction are adequate to resist water\npenetration.  Appropriate on-site water penetration test on the installed precast façade\npanels and joints should be specified and carried out to ensure water tightness and quality\nof the completed facade units.  Standard testing methods are given in paragraph 4.3 of\nthe Code of Practice for Precast Concrete Construction 2016.\n\nCurtain Wall"
+    },
+    {
+      "id": "p14-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "14.         To prevent water seepage or condensation from a curtain wall of a building,\nprovision must be made for the collection and discharge of any water seepage or\ncondensed water from the wall as required under section 29(3) of B(C)R."
+    },
+    {
+      "id": "p15-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "15.          Water penetration test on a full scale mock-up curtain wall system should\nbe carried out to demonstrate that the design and construction are adequate to resist water\npenetration.   Appropriate on-site water penetration test on the installed curtain wall\nshould be specified and carried out to ensure water tightness and quality of the completed\ncurtain wall system.  Standard testing methods are given in Annex A of the Code of\nPractice for Structural Use of Glass 2018.\n\nWindow2"
+    },
+    {
+      "id": "p16-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "16.          For windows forming part of the external wall of a building, authorized\npersons (AP) and registered structural engineers (RSE) should ensure that the windows\nare properly designed and installed to meet the performance requirements and the safety\nstandards in the B(C)R whilst registered contractors (RC) should have experienced and\nskilled supervisors and workers as well as suitably quality assurance procedures in place\nto ensure the proper installation of the windows.\n\n\n2  Relevant requirements are also applicable to window wall and glass wall.\n\n                                                              - 3 -"
+    },
+    {
+      "id": "p17-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 119
+        },
+        {
+          "label": "b",
+          "offset": 567
+        },
+        {
+          "label": "c",
+          "offset": 846
+        }
+      ],
+      "text": "17.            Particular attention should be paid to the following aspects in the design\nand installation of windows:\n\n        (a)    Special design consideration should be given to the wall openings\n              of the windows to prevent seepage problems.   Provision of\n              properly  constructed window hood  with  sufficient  fall  can\n              eliminate seepage due to ponding of water. Window hood with\n             water drip provided at the top of window opening can also reduce\n             seepage into the internal area through the window.\n\n        (b)    Proper  structural design  to strengthen the bottom corners of\n           window openings and the use of trimming reinforcement along the\n             edges and corners of the opening can avoid diagonal cracks at the\n             bottom corners of wall openings.\n\n        (c)    The window design is crucial and particular attention should be\n            drawn to the design of joints in window frames and sections,\n               materials of gasket, mastic sealant, water resistant rendering and\n              waterproof grout."
+    },
+    {
+      "id": "p18-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "18",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "18.          Oversized window opening is one of the main causes of water seepage in\nwindows.  This problem can be avoided by accurate setting out of the formwork or by\nadopting re-usable metal formwork.  The gap between the window frame and wall\nopening should be properly filled in by non-shrink waterproof grout.   Besides, care\nshould be taken to ensure that fixing of window complies with the specifications, and that\nthe fixing does not damage the concrete wall.  The wall finishes should be lapped with\nthe window frame and sealed with suitable weatherproof sealant.  Damage caused by\ntransportation of the window and improper cleaning agent for the external wall should be\navoided."
+    },
+    {
+      "id": "p19-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "19",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "19.           Quality of the window fixing work should also be safeguarded by close\nsupervision, particularly during the formation of openings in walls, installation of fixing\nlugs and cast-in anchors.  Appropriate on-site water test should be specified and carried\nout to ensure water tightness and quality of the completed windows as well as the water\ntightness performance of the joints between the windows and the external wall openings.\nStandard testing methods are given in Annex A of the Code of Practice for Structural Use\nof Glass 2018.\n\nBathroom and Toilet"
+    },
+    {
+      "id": "p20-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "20",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "20.       A bathroom or a toilet in which the wall and floor are in contact with damp\nmust be provided with adequate protection to prevent moisture and water penetration\nunder sections 32 and 33 of B(C)R.  Attention should be paid to the following aspects\nin the design and construction of bathrooms and toilets:\n\n\n\n\n\n                                                              - 4 -"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "(a)   An effective waterproofing system on the floors and walls  is\n       required.  The waterproofing membrane/material should cover\n       the entire floor and turn up every wall at a height of at least 300mm\n      above finished floor level.  For the walls surrounding the bathtub\n      and the shower tray, the waterproofing membrane/material should\n      be applied to at least 2 200mm high above finished floor level.\n      For the wall immediately adjacent to or behind a basin, sink or\n       similar  fixture,  waterproofing  membrane/material  should  be\n       applied to a height of not less than 1 100mm above finished floor\n        level or 300mm above the fixture whichever is higher.\n\n(b)    Continuous angle fillet should be installed to the junction between\n        vertical and horizontal surfaces for application of waterproofing\n       system.\n\n(c)   Where other finishing material is adopted for shower tray in lieu of\n       proprietary products,  suitable under-tray and/or waterproofing\n       underlay should be provided.\n\n(d)     Installations on wall/floor should be minimised.   If unavoidable,\n       junction of the installations should be properly sealed and care\n       should  be  taken  to  avoid  damaging  the  integrity  of  the\n       waterproofing system.\n\n(e)    Floor drains, where provided, should be sited at proper location to\n      minimise  the  fall  distance and  to  facilitate  inspection  and\n       maintenance.\n\n(f)    Proper maintenance access or inspection chamber to the area under\n       the bathtub should be provided.\n\n(g)   Where a slab is sunken for creating a trough for accommodating\n       drainage or plumbing works serving a bathroom or toilet, the\n       following additional guidelines should be followed:\n\n         (i)    The sunken slab should be constructed monolithically with\n              the floor slab of the bathroom or toilet to avoid construction\n                joint at sunken slab level.\n\n          (ii)    Waterproofing membrane/material should be applied to the\n                entire internal area of the sunken slab in addition to the floor\n            and walls of the bathroom or toilet.\n\n          (iii)   Waterproofing membrane/material for bathroom or toilet\n            and   sunken   slab   should   preferably  be   applied\n              simultaneously to form a homogenous layer.\n\n\n\n                                                   - 5 -"
+    },
+    {
+      "id": "page-11-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        11
+      ],
+      "text": "(iv)   Edges between the access panels and the floor of the\n                   bathroom or toilet should be properly sealed off to avoid\n                    water seepage to the sunken slab.\n\n               (v)    Adequate access  points with  inspection chambers (by\n                 means of readily openable access panels of appropriate size\n                  and removable sealed covers  to maintain  airtightness)\n                    should be  provided  for  the sunken  slab  to  facilitate\n                      inspection of such pipeworks and clearance of any blockage\n                       thereof.   It is advisable to apply waterproofing membrane\n                       to the removable cover also.\n\n                (vi)     It is also advisable to adopt off-site prefabrication of sunken\n                      slab together with floor slab of the bathroom or toilet\n                      finished with the drainage system and the waterproofing\n                   system for better quality control of the construction works.\n\n        (h)      It is advisable to use galvanised steel reinforcement to prevent the\n              cracking of floor slab due to corrosion."
+    },
+    {
+      "id": "p21-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "21",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "21.           Quality construction  is essential to reduce  latent defects and future\nirregularities.  Suitable waterproof sealant should be applied around the bathtub, shower\ntray and basin to the manufacturer’s specifications.  Compatible protection such as the\nuse of waterproofing cement plastering on top of the waterproofing system should be\nadopted.  During the laying of wall tiles, sufficient joint width should be allowed while\nexcessive grouting material should be avoided.   It is advisable to adopt cement base\nwaterproofing material if tile or granite is to be fixed.  In carrying out decorative works,\ncare should be taken to avoid damaging the original waterproofing system."
+    },
+    {
+      "id": "p22-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "22",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "22.           Relevant compliance tests such as water flood test should be carried out to\nensure good workmanship and quality of works as well as waterproofing performance.\nSample drawings of waterproofing works in a bathroom or a toilet are provided in\nAnnex 2 for reference.\n\nKitchen (including Open Kitchen)"
+    },
+    {
+      "id": "p23-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "23",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "23.      A kitchen including an open kitchen in which the wall and floor may be in\ncontact with damp must be provided with adequate protection to prevent moisture and\nwater penetration under sections 32 and 33 of B(C)R and suitable waterproofing system\nshould be provided.  Attention should be paid to the following aspects in the design and\nconstruction of kitchens:\n\n\n\n\n\n                                                              - 6 -"
+    },
+    {
+      "id": "page-12-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        12
+      ],
+      "text": "(a)    The waterproofing membrane/material should cover the entire\n               floor of the kitchen including the open kitchen area and turn up\n             every wall at a height of at least 300mm above finished floor level.\n             For the wall immediately adjacent to or behind a sink or a\n              countertop area, the waterproofing membrane/material should be\n              applied to a height of not less than 1 100mm above finished floor\n               level or 300mm above the countertop whichever is higher.\n\n        (b)    Continuous angle fillet should be installed to the junction between\n                vertical and horizontal surfaces for application of waterproofing\n              system.\n\n        (c)    To prevent seepage occurring at the junctions/gaps between the\n              countertop  and  the  walls,  provision  of  proper  monolithic\n              countertop with good splashback and junctions/gaps properly\n              sealed are advised to be incorporated in the design.  Proper gasket\n            and sealant should be applied to the water taps to prevent water\n              leakage.\n\n        (d)   Where a slab is sunken for creating a trough for accommodating\n              drainage works serving a kitchen/open kitchen, the guidelines for\n             sunken slab in a bathroom or a toilet as provided in paragraph 20\n            above are also applicable.\n\n        (e)      It is advisable to use galvanised steel reinforcement to prevent the\n              cracking of floor slab due to corrosion."
+    },
+    {
+      "id": "p24-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "24",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "24.           Relevant compliance tests such as water flood test for an enclosed kitchen\nshould be carried out to ensure good workmanship and quality of works as well as\nwaterproofing performance.  Sample drawings of the waterproofing works in a kitchen\nare provided in Annex 2 for reference.\n\nPlumbing and Drainage Pipes"
+    },
+    {
+      "id": "p25-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "25",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "25.           Materials for plumbing and drainage pipes should comply with the\nrelevant Ordinances and Regulations.  For plumbing pipes, durable materials capable to\nwithstand high water pressure are required.  Although there is no separate meters for\nflushing supply,  it is advisable to use independent valves/taps for flushing supply to\nindividual flats/units to facilitate future maintenance and detection of water leakage from\nthe flushing water pipeworks and water-closets."
+    },
+    {
+      "id": "p26-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "26",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "26.         The layout and routing of the plumbing and drainage pipes should be\nproperly designed and arranged to avoid unnecessary or excessive bends and joints.  No\nwater-borne piping, other than that meeting the guidelines at Appendix A of this PNAP,\nshould be embedded in structural elements.\n\n\n\n\n\n                                                              - 7 -"
+    },
+    {
+      "id": "p27-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "27",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "27.          Adequate fixing brackets and pressure reducing valves should be properly\nprovided to prevent water hammer and vibration of water pipes, which is a possible cause\nof defects and water leakage.  Provision of expansion collar and good insulation for the\npipes can help eliminate water leakage arising from excessive thermal movement of water\npipes."
+    },
+    {
+      "id": "p28-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "28",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "28.           Rust-free pipe sleeve should be provided for pipe penetration to the floor\nand wall.  Pipe sleeves should be cast with the floor slab/wall and to be properly sealed\nwith waterproof material as well as fire stop of the required fire resistance period where\napplicable.  Waterproofing membrane/material should be dressed up at pipe penetrations\nto the finished floor level of the raised platform with a minimum height of 20mm and\ndressed down to at least 50mm into the floor outlet.  The membrane should be applied\n100mm horizontally around the pipe and overlapped with the subsequent waterproofing\nmembrane/material applied to the entire wet area.  Special attention should be paid to\nthe jointing of the pipes and drains in the course of installation."
+    },
+    {
+      "id": "p29-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "29",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "29.          Licensed plumbers should be engaged for installing the water supply pipes.\nAppropriate test should be carried out to ensure water tightness of the completed\npipework.\n\nCar Park Floor"
+    },
+    {
+      "id": "p30-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "30",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 115
+        },
+        {
+          "label": "b",
+          "offset": 585
+        },
+        {
+          "label": "c",
+          "offset": 788
+        },
+        {
+          "label": "d",
+          "offset": 1082
+        },
+        {
+          "label": "e",
+          "offset": 1160
+        }
+      ],
+      "text": "30.           Attention should be paid to the following aspects in the design and\nconstruction of car park floors:\n\n        (a)    Minimising cracks in the car park floors is one of the effective ways\n               to prevent water seepage.  Crack control in design of slabs should\n             be allowed by enhancing concrete durability such as lower water\n            cement ratio, lower permeability and using waterproof cement;\n             improving the reinforcement design and incorporating adequate\n             expansion joints, in particular in the structural weak points.\n\n        (b)    The car park design should accommodate the loading imposed on\n               the  floor  taking  into  account  the  effect  of wheel  loads  as\n              concentrated dynamic loads.\n\n        (c)    As car washing/cleaning activities are usually carried out inside the\n               car park, the floor areas allocated for car washing should be\n              waterproof and provided with suitable fall and surface channels to\n              properly drain off the waste water.\n\n        (d)    Car park floors should allow adequate fall and avoid ponding.\n\n        (e)    To prevent surface water from flowing into the car park along the\n              vehicular ramps, intercepting channels should be provided at the\n              top and the bottom of the ramps.  Car park floor slabs should also\n             be designed to fall away from the ramps.\n\n\n                                                              - 8 -"
+    },
+    {
+      "id": "page-14-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        14
+      ],
+      "text": "(f)    As water seepage often occurs at the movement joints in car parks\n            where kickers cannot be effectively provided to finish off any\n              waterproofing membrane  near  the movement  joints,  suitable\n              water-stops should be provided with proper sealant on top to\n              prevent water seepage.  Location of movement joints should also\n             be avoided in low points in the floor.\n\n        (g)      It is advisable to provide proprietary floor coating on the slab\n              surface as it can give an additional barrier against the penetration\n              of water and moisture.\n\nBasement"
+    },
+    {
+      "id": "p31-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "31",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "31.           Proper waterproofing materials should be selected for the basement taking\ninto account its location and topographic characteristics."
+    },
+    {
+      "id": "p32-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "32",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 109
+        },
+        {
+          "label": "b",
+          "offset": 535
+        },
+        {
+          "label": "c",
+          "offset": 760
+        },
+        {
+          "label": "d",
+          "offset": 1022
+        },
+        {
+          "label": "e",
+          "offset": 1217
+        }
+      ],
+      "text": "32.           Attention should be paid to the following aspects in the design and\nconstruction of basements:\n\n        (a)   As basement floors and walls are usually subject to moisture and\n               sub-soil water, it is advised to design the basement (excluding pile\n               caps, thick footings and diaphragm wall panels) structurally as a\n             water retaining structure with added provision to allow for proper\n              diversion of ground and penetrating water in the event of water\n              leakage.\n\n        (b)   The sequence of construction should be carefully examined in the\n              design stage to avoid defective tanking and water seepage at\n              construction joints or locations of temporary supports.\n\n        (c)   As water seepage often occurs at the construction joints and the\n               locations of temporary supports of the basement walls, suitable\n             water stops should be provided at these locations to prevent water\n              seepage.\n\n        (d)  A cavity wall system with surface channels should be considered\n               to divert ground and penetration water to the drainage system of\n               the subject building.\n\n        (e)    The use of hardcore/filter or suitable proprietary products can help\n             reduce the build-up of water level and hydrostatic pressure."
+    },
+    {
+      "id": "p33-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "33",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "33.              If external tanking is used, it should be maintenance free since it is difficult\nto rectify a defective basement tanking after backfilling.  Thus, backfilling works should\nbe carried out only after a satisfactory water test for the tanking and extreme care should\nbe taken to avoid damaging the waterproofing system.\n\n\n\n                                                              - 9 -"
+    },
+    {
+      "id": "page-15-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        15
+      ],
+      "text": "Quality Supervision, Good Workmanship and Performance Test"
+    },
+    {
+      "id": "p34-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "34",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "34.           Quality supervision of building works is crucial to prevent water seepage\nin a building.  Quality supervision of building works should be provided by AP/RSE and\nhis technically competent persons (TCPs), as well as the authorised signatory of RC and\nhis TCPs.  The supervision personnel should closely monitor the construction activities\nduring the course of works.  Erection of formwork, installation of steel reinforcement\nand spacer, compaction and curing of concrete, application and testing of waterproofing\nsystem should be closely supervised by experienced TCP."
+    },
+    {
+      "id": "p35-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "35",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "35.           Waterproofing  system  should  be  applied  in  accordance  with  the\nmanufacturer’s specifications.  The surface of the substrates should be well prepared,\ndried and cleaned before application of the waterproofing materials.  Special attention\nshould be paid to the critical locations such as joints, upturns, downturns and penetrations.\nProper site quality supervision should be carried out to ensure good workmanship and\nquality."
+    },
+    {
+      "id": "p36-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "36",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "36.          Water test (such as water flood test) should be carried out to waterproofing\nworks.   The  procedure and  acceptance  criteria  of  the  test  should  follow  the\nmanufacturer’s specifications and recommendations.   Infra-red scanning by a specialist\nis an effective tool to assist in verifying the water tightness of the waterproofing system.\n\nApplication of Smart Building Technology"
+    },
+    {
+      "id": "p37-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "37",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "37.        AP/RSE are encouraged to adopt smart building technology in the early\ndesign stage which can help to provide a safe and healthy environment to the occupants\nof  a  building and  facilitate  effective and  automated  building management and\nmaintenance.   Monitoring surveillance system with remote sensors installed to the\nplumbing and drainage systems may help early detection of water leakage."
+    },
+    {
+      "id": "p38-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "38",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "38.           Defect detection systems integrated with artificial intelligence can assist\nin identification of source of water seepage.  For example, CCTV imaging device and\ndrones equipped with digital cameras along with artificial intelligence are commonly\nemployed for inspection of external walls and external drain pipes.  Similar systems may\nbe used in confined areas such as pipe ducts."
+    },
+    {
+      "id": "p39-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "39",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "39.         To cater for inspection or monitoring in confined areas, appropriate\ndevices (such as moisture sensors /detectors), guide rails (for the use of cable robots) and\nproperly designed access points may be required.  The Building Authority is prepared to\nfavourably consider the application for modification of regulation 23(3)(a) of Building\n(Planning) Regulations in respect of genuine and properly designed pipe ducts with\nadequate access for inspection and maintenance under PNAP APP-2.\n\n\n\n\n(9/2024)\n\n\n                                                             - 10 -"
+    },
+    {
+      "id": "page-16-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        16
+      ],
+      "text": "Annex 1 to Appendix B\n                                                 (PNAP APP-105)\n\n\n               Guidance Notes on Design and Construction of\n                          Reinforced Concrete Roof1\n\n\nGeneral Requirements"
+    },
+    {
+      "id": "p1-page-16",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        16
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 79
+        },
+        {
+          "label": "b",
+          "offset": 298
+        },
+        {
+          "label": "c",
+          "offset": 597
+        },
+        {
+          "label": "d",
+          "offset": 786
+        }
+      ],
+      "text": "1.    The design of roof structures should satisfy the following requirements:\n\n        (a)    The span to effective depth ratio of beams or slabs should comply\n             with section 7 of the Code of Practice for Structural Use of\n             Concrete 2013 (2020 Edition) (the Concrete Code).\n\n        (b)   Dead loads due to finishes, parapets and waterproofing materials,\n            and imposed loads due to maintenance work and possible ponding\n               resulting from malfunctioning of the drainage system should be\n              accurately assessed and allowed for in the design.\n\n        (c)    Concrete cover to steel reinforcements should be designed for\n             exposure condition 2 or higher if appropriate in accordance with\n              the Concrete Code.\n\n        (d)    Concrete should be water-proof concrete of strength grade not\n             lower than C35 and the slabs and beams should be constructed of\n              the same strength grade of concrete.\n\n          It is advisable to use hot-dip galvanised steel reinforcements in accordance with\n     BS EN ISO 1461 in roof structures."
+    },
+    {
+      "id": "p2-page-16",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        16
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 85
+        },
+        {
+          "label": "b",
+          "offset": 274
+        },
+        {
+          "label": "c",
+          "offset": 410
+        },
+        {
+          "label": "d",
+          "offset": 671
+        }
+      ],
+      "text": "2.    The construction of roof structures should satisfy the following requirements:\n\n        (a)    Every  endeavor  should  be  made  to  cast  roof  structures\n               monolithically. Construction joints at roof should be avoided as far\n              as possible.\n\n        (b)    Adequate bar spacers should be provided to maintain the position\n            and alignment of the steel reinforcements.\n\n        (c)    Placing and compacting of concrete should comply with relevant\n              clauses in section 10 of the Concrete Code.  Every endeavour\n             should be made to avoid steel reinforcements from being displaced\n              or depressed.\n\n        (d)    Relevant clauses for ‘Minimum periods of curing and protection’\n            and ‘Removal of formwork and falsework’ given in section 10 of\n              the Concrete Code should be complied with.\n\n1  Roof includes any top-most slabs of a building that are exposed to weather e.g. podium.  The\n   requirements in paragraphs 1 to 6 of this Annex are not applicable to roof slabs with a thickness\n   equals to or greater than 1m.\n\n                                                              - 1 -"
+    },
+    {
+      "id": "p3-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [],
+      "text": "3.    AP/RSE/RC should provide the appropriate level of supervision and inspection\n      on the construction of roof structures so as to ensure compliance with section 34\n       of the B(C)R and the approved plans.  Compliance test such as water ponding\n         test on roof  structures should be  carried out  to  verify the waterproofing\n       performance.  Supervision requirements shall be in accordance with Table 9.1 of\n       the Code of Practice for Site Supervision 2009 (2024 Edition)."
+    },
+    {
+      "id": "p4-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [],
+      "text": "4.     Every endeavor should be made to avoid embedment of pipes in roof structures,\n       especially slab elements.   If unavoidable, consideration must be given to any\n        local reduction in structural strength affected by the surface drainage system or\n      embedded service pipes and ducts.  Reference should be made to Appendix B on\n       the requirements and guidelines of embedment of water-borne pipes inside\n       reinforced concrete beams and slabs.\n\nSpecific Requirements\n\nRoof Beams"
+    },
+    {
+      "id": "p5-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 85
+        },
+        {
+          "label": "b",
+          "offset": 776
+        }
+      ],
+      "text": "5.    The structural design of roof beams should satisfy the following requirements:\n\n        (a)    For cantilevered beams at roof, top and bottom steel reinforcements\n             should be securely held in position by stirrups with the top bars\n             anchored in accordance with clause 9.4.3 of the Concrete Code, and\n            any top bar extended to resist support moments in the adjacent span\n             should also comply with the curtailment rules specified in the\n             Concrete Code.  Where support by cross beam cannot be avoided,\n              the supporting beam and the adjacent internal slabs should be\n              adequately designed and properly detailed for any internal moment,\n                torsion, shear and axial force so induced.\n\n        (b)    Roof beams should be designed for exposure condition 2 or higher\n                   if appropriate in accordance with the Concrete Code.\n\nRoof Slabs"
+    },
+    {
+      "id": "p6-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 85
+        },
+        {
+          "label": "b",
+          "offset": 151
+        },
+        {
+          "label": "c",
+          "offset": 627
+        }
+      ],
+      "text": "6.    The structural design of roof slabs should satisfy the following requirements:\n\n        (a)    The minimum structural thickness should be 150mm.\n\n        (b)    Roof  slabs  should  be  reinforced  with  high  yield   steel\n              reinforcements in both faces and in both directions.  Main steel\n               reinforcing bars should be of at least 10mm nominal diameter and\n              the bar spacing should not be greater than 150 mm, and the nominal\n               cross-sectional area of steel reinforcements should not be less than\n           0.25% of the cross-sectional area of the structural concrete.\n\n        (c)    Consideration and specific details should be provided for the\n              design and construction of cantilevered slabs/beams.  Reference\n             should be made to PNAP APP-68.\n\n\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-18-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        18
+      ],
+      "text": "(d)    In order to control the crack width of slab, the RSE is advised to\n           make reference to the sizes and spacings of steel reinforcements\n             with respect to the corresponding slab thickness, span length of\n               slabs and design superimposed dead loads (SDL) and imposed\n              loads (LL)2 as shown in the table below:\n\n\n                                      Size and spacing of Reinforcements\n\n                Thickness  Span   SDL=3kPa   SDL=3kPa  SDL=3kPa\n               (mm)    (m)    LL=2kPa    LL=5kPa   LL=7.5kPa\n                          3      T10-150     T10-150     T10-150\n                 150\n                          4      T12-150     T12-125     T12-100\n                          3      T10-150     T10-150     T10-150\n                 175                          4      T10-150     T10-125     T12-125\n                          3      T10-150     T10-150     T10-150                 200\n                          4      T10-150     T10-150     T10-125\n\n\n             Remark:\n          -  The above size and spacing of steel reinforcements are based on that the\n                   concrete strength, strength of steel reinforcements and concrete cover of slab\n                     to steel reinforcements are C35/20, Grade 500B and 35mm respectively.\n\n          -  For design parameters different from above, it is advisable to control the\n                   design maximum crack width of slab within 0.2mm with a view to enhancing\n                    the measures to prevent water seepage.\n\nMaintenance and Repair"
+    },
+    {
+      "id": "p7-page-18",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        18
+      ],
+      "subparagraph_markers": [],
+      "text": "7.    Upon the completion of construction of a roof structure, AP should coordinate with\n     RSE and RC to prepare documentation on the inspection and maintenance of the\n       roof  structure,  for  regular maintenance and  repair  to be arranged by the\n       owners/Incorporated Owners/management company.   Routine inspection and\n      maintenance works such as cleaning of clogged drain pipes and drainage channels,\n      and inspection of waterproofing system and finishes should be carried out\n       regularly and particularly before and during the rainy seasons.\n\n\n\n(9/2024)\n\n\n\n\n\n2  SDL and LL in the table are for reference only.  The RSE should assess the loads according\n   to the actual requirements and all possible ponding resulting from malfunctioning of the\n   drainage system project.\n\n                                                              - 3 -"
+    },
+    {
+      "id": "page-19",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        19
+      ],
+      "text": "Annex 2 to Appendix B\n                                             (PNAP APP-105)\n\n\nSample drawings of waterproofing works in bathroom, toilet and kitchen\n\n\n\n\n\n   Figure 1: Extent of Waterproofing Works in the Bathroom and/or Toilet\n\n\n\n\n\n                                                      - 1 -"
+    },
+    {
+      "id": "page-20",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        20
+      ],
+      "text": "Sample drawings of waterproofing works in bathroom, toilet and kitchen\n\n\n\n\n\nFigure 2: Extent of Waterproofing Works in the Kitchen (including Open Kitchen)\n\n\n\n\n\n                                                         - 2 -"
+    },
+    {
+      "id": "page-21",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        21
+      ],
+      "text": "Sample drawings of waterproofing works in bathroom, toilet and kitchen\n\n\n\n\n\nFigure 3: A Homogenous Layer of Waterproofing Coating for Bathroom and/or Toilet\n                               with Sunken Slab\n\n\n\n\n\n                                                            - 3 -"
+    },
+    {
+      "id": "page-22",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        22
+      ],
+      "text": "Sample drawings of waterproofing works in bathroom, toilet and kitchen\n\n\n\n\n\n                   Figure 4: Sunken Area under Bathtub\n\n\n\n\n\n                                                      - 4 -"
+    },
+    {
+      "id": "page-23",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        23
+      ],
+      "text": "Sample drawings of waterproofing works in bathroom, toilet and kitchen\n\n\n\n\n\n                           Figure 5: Sunken Trench/Area\n\n\n\n\n\n(9/2024)\n\n\n\n\n\n                                                              - 5 -"
+    }
+  ]
+}

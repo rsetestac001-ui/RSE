@@ -1,0 +1,74 @@
+{
+  "code": "ADM-15",
+  "source_text": "indexed_text/PNAP/ADM/ADM-15.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-15.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department     Registered Structural Engineers and      ADM-15\n                           Registered Geotechnical Engineers\n\n\n\n                   Submission of Site Formation Proposals\n\n\n                In order to facilitate and expedite the processing of a site formation\nproposal and also to delineate clear responsibilities, Buildings Department adopts a\nsystem which provides for the parallel processing of site formation details and structural\ndetails in the proposal.\n\nSplitting of submissions"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.       A proposal for site formation works may be split into two parts and\nsubmitted in two separate sets of plans :\n\n               Part A     Site formation details - These should include the\n                         layout and details of slope works and associated\n                         drainage works as well as the general layout and\n                           size of earth retaining structures, if any, as per\n                    B(A)R 8(1)(bb).\n\n               Part B      Structural  details  - These should include the\n                            structural details of earth retaining structures.\n\nPreparation and signing of plans"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The Authorized Person (AP) or the Registered Geotechnical Engineer\n(RGE) of a project will be responsible for co-ordinating the preparation and signing of\nPart A and the Registered Structural Engineer (RSE) for Part B. In this connection, you\nshould refer to the details prescribed in B(A)R 12 regarding the responsibilities and the\nscope of work for each party and Task 4 of Appendix B in PNAP APP-141.\n\nSequence of submissions"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.             Parts A  and B  of  site  formation  proposals may  be  submitted\nsimultaneously or Part A may be submitted first followed by a submission of Part B\nwhen it has been demonstrated that the soil-structure interaction can be prescribed.  It\nwill also be acceptable to submit a sufficient number of complete sets of proposals if\none set is clearly marked as Part A submission and another Part B submission.\n\nSimple submissions"
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.           For some simple site formation proposals, splitting may not be necessary\nand a single submission may be allowed. The following are some examples of simple\nsite formation proposals :-\n\n\n                                                                                                                      -"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n          •   Site  formation works  involving  simple  earth  retaining\n                structures.\n\n          •  Small scale  site formation works such as those for NT\n            exempted houses.\n\n          •  Drainage systems for slopes involving box culverts and/or\n               other drainage structures such as sand traps, catch-pits and\n             stormwater manholes, if no major earth retaining structures\n               are involved.\n\nNumber of plans and supporting information to be submitted"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.         AP/RSE/RGE should make sure enough sets of plans with essential\ninformation  are  submitted  for  the  necessary  consultation  with  the  government\ndepartments and public authorities concerned. In this connection, you are reminded of\nPNAP ADM-2, ADM-8 and APP-141.\n\n7             In circumstances where piling and similar operations are included in site\nformation  proposal,  reference  shall  also be made  to  the  details  of  monitoring\nrequirements given in PNAP APP-18 and PNAP APP-137.\n\n\n\n\n\n                                                                  ( AU Choi-kai )\n                                                 Building Authority\n\n\n\n\n\nRef. : BD GP/BOP/34\n    BD GP/BORD/75\n\nThis PNAP is previously known as PNAP 200\nFirst issue October 1996\nLast revision December 2005\nThis revision February 2012 (Para 7 added)"
+    }
+  ]
+}

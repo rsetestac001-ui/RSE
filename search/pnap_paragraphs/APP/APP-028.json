@@ -1,0 +1,82 @@
+{
+  "code": "APP-028",
+  "source_text": "indexed_text/PNAP/APP/APP-028.txt",
+  "source_pdf": "documents/PNAP/APP/APP-028.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n Persons, Registered Structural Engineers and Registered Geotechnical Engineers    APP-28\n\n                                     Practice Note for Authorized Persons\n   Buildings Department                                                   83\n                              and Registered Structural Engineers\n\n\n\n         Requirements for Qualified Supervision of Site Formation Works,\n           Excavation Works, Foundation Works on Sloping Ground, and\n             Ground Investigation Works in the Scheduled Areas\n                           Buildings Ordinance Section 17\n\n              Buildings Ordinance Section 17 explicitly empowers the Building Authority\nto require ‘qualified supervision’ of certain building works when giving his approval of\nplans or consent to the commencement of the works."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The principles used by the Building Authority in assessing the need for\nqualified supervision of building works with significant geotechnical content, including site\nformation works, excavation works, foundation works on sloping ground and ground\ninvestigation works in the Scheduled Areas, are as follows :\n\n              Category (I)    periodic inspections by a qualified geotechnical engineer\n                       who was involved in the preparation of the geotechnical\n                                content of the submission\n\n                              This  category  of  qualified  supervision  applies  to  sites\n                           where the results of stability analyses or ground movement\n                                 calculations are sensitive to variations in the geotechnical\n                              design assumptions.  According to B(A)R 8(1)(bb), (bc)\n                                   etc, the geotechnical design assumptions must be checked\n                           on site as works proceed.  This is the first duty of the\n                               geotechnical  engineer  providing  the  site  supervision.\n                           Having checked the geotechnical design assumptions, the\n                            need for modifications to the design has then to be judged\n                           by the geotechnical engineer.\n\n                       Some types of design assumptions which may be critical\n                                 for  stability,  and  which  are  often  found  by  expert\n                                inspection on site to be in error, are :\n\n                                    (a)     the geological model (eg variation in weathering\n                            may  affect  the  penetration depth  of  steel  sheet\n                                             piles); and\n\n                                  (b)    the  groundwater  regime  (eg  occurrence  of  a\n                                   perched water table may impair stability).\n\n\n                                                                   /Category (II) ...."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "-  2   -\n\n\n              Category (II)   periodic  inspections by  a  senior  qualified  geotechnical\n                              engineer who was responsible for the preparation of the\n                                geotechnical content of the submission\n\n                              This category of qualified supervision is to be imposed for\n                                     sites of high sensitivity (eg excavation sites adjoining old\n                                buildings  with  shallow  foundations).   The  personal\n                                  attention of the qualified supervisor is needed to recognise,\n                                evaluate  and communicate  concerns  to  the  authorized\n                             person and the client at a senior level.\n\n              Category (III)   full time supervision by a suitably experienced person\n\n                              This  category  of  qualified  supervision  applies  to  sites\n                           where day-to-day checks on compliance with specifications\n                              or working procedures are necessary.  It is used for works\n                           which depend  for  their  success and  safety on a high\n                               standard of workmanship and materials.\n\n                       Some  examples  are works  involving  ground  anchors,\n                            compaction  of   fill  slopes,  and  excavation  and  lateral\n                               support works involving complicated working procedures."
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "3.       A qualified supervision package may be provided using a combination of\nCategories (I), (II) and (III) above.  In any case, details of the individuals who are to carry\nout the supervision are to be submitted to the Building Authority for agreement."
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          The following provides guidance on the suitability of persons nominated for\ncompliance with qualified supervision requirements :\n\n              Category (I)      -     Registered Professional Engineer (Geotechnical) or\n                                       equivalent  from  the  firm  which  prepared  the\n                                       geotechnical content of the submission.\n\n              Category (II)     -     Registered  Professional  Engineer  (Geotechnical)\n                            who is a partner/director or equivalent of the firm\n                                 which  prepared  the  geotechnical  content  of  the\n                                     submission.\n\n              Category (III)    -      Suitably   experienced   qualified   or   graduate\n                                       engineer/geologist  or   technical  inspector/works\n                                       supervisor, depending on the type of works.\n\n\n\n\n                                                                            /5. Registration ...."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "-  3   -"
+    },
+    {
+      "id": "p5-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            Registered Professional Engineer (Geotechnical)  is not a pre-requisite for\nacceptance of persons nominated for Category (I) and Category (II) qualified supervision.\nEach case should be considered on its own merits. For sites where geotechnical problems\nare of a minor nature and the consequences of failure would be insignificant, the Building\nAuthority will normally not impose the requirement for qualified geotechnical supervision."
+    },
+    {
+      "id": "p6-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           For certain sites, geotechnical supervisory requirements have been included\nin the lease or land title document, and on application the sectional Chief Building Surveyor\nwill advise whether this is the case for a specific site.\n\n\n\n\n\n                                             (CHOI Yu-leuk)\n                                                         Building Authority\n\n\n\n\n\nRef. : BD GP/BORD/32\n\nFirst issued March 1982\nThis update December 1997 (GGE, AD/SE) - Supervision levels renamed\n\nIndex under    : BO s17         -   Requirement  for  Qualified  Supervision  of  Building\n                            Works with Geotechnical Content\n                 Supervision    -    Building Works with Geotechnical Content"
+    }
+  ]
+}

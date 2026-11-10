@@ -1,0 +1,117 @@
+{
+  "code": "APP-154",
+  "source_text": "indexed_text/PNAP/APP/APP-154.txt",
+  "source_pdf": "documents/PNAP/APP/APP-154.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department        Registered Structural Engineers and    APP-154\n                             Registered Geotechnical Engineers\n\n\n\n               Design Requirements for Columbarium Facilities\n\n\n      There has been a rapid growth in the provision of columbarium facilities in\nHong Kong in meeting the rising demand for niches. This has aroused public concern\non the standard of design and construction of such facilities. This practice note sets out\nthe design and construction requirements for columbarium facilities for the purpose of\nthe Buildings Ordinance (BO) for public reference.\n\n\nErection of New Buildings for Use as a Columbarium\n\nMeans of Escape (MOE)"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.    The MOE of a columbarium should comply with the requirements stipulated in\nPart B of the Code of Practice for Fire Safety in Buildings 2011 (FS Code). According\nto Item 5d of Table B1 of the FS Code, the occupancy factor for a columbarium is 2m2\nof usable floor area per person.  For the avoidance of doubt, except the area for\naccommodation of niches and staircases, the prescribed width of exit routes including\ncorridors of “balcony approach design” and the circulation areas such as lift lobbies etc.\nshould be included in the calculation of usable floor area of a columbarium.\n\nFire Resisting Construction (FRC)"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.    The FRC of a columbarium should comply with the requirements stipulated in\nPart C of the FS Code.   In assessing the required  fire resistance rating and  fire\ncompartment limitations, a columbarium is regarded as “Other Assembly Premises” as\nset out in Table C1 of the FS Code. Burner facilities to be provided for cremation of\nofferings are regarded as an area of special hazard which should be separated from the\nrest of the building by fire barriers as stipulated in Subsection C13 of the FS Code.\n\nMeans of Access for Firefighting and Rescue (MOA)"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.    The MOA of a columbarium should comply with the requirements stipulated in\nSection 41A, 41B, 41C and 41D of the Building (Planning) Regulations and Part D of\nthe FS Code. In the circumstances that an emergency vehicular access (EVA) will not\nbe provided or when the EVA so provided cannot meet the standards as stipulated in the\nFS Code, an application for exemption/modification should be made on Form BA16\nwith full justification. Details are set out in PNAP APP-136.\n\n\n                                                                        /Provision ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\nProvision of Sanitary Fitments"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 296
+        }
+      ],
+      "text": "5.    The provision of sanitary fitments in a columbarium should comply with the\nrequirements listed in Table 1 below.  The fitments should be provided in separate\nrooms exclusively for the use of male and female persons respectively.\n\n                                               Requirements\n\n            (i)  Assessment of population      2m2 of usable floor area per person\n              density\n\n            (ii) Male to female ratio             1: 1.5\n\n             (iii) Provision for male persons     1 watercloset fitment and 1 urinal for\n                                           every 150 persons or part thereof; 1\n                                               lavatory basin for every 300 persons or\n                                                 part thereof\n\n          (iv) Provision for female          1  watercloset  fitment  for  every  75\n             persons                        persons or part thereof; 1 lavatory basin\n                                                 for every 300 persons or part thereof\n\n            Table 1 : Provision of Sanitay Fitments in Columbaria\n\nBarrier Free Access"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.   A columbarium is required to be planned for use by persons with a disability in\naccordance with Section 72 of the Building (Planning) Regulations and the Design\nManual  : Barrier Free Access 2008 (DM 2008).  In alley between rows of niches\ncommonly seen in columbarium design, adequate space in front of each row of niches\nshould be allowed for the purposes of worship and offering sacrifices to ancestors, in\naddition to the minimum clearance required for the passageway for persons with a\ndisability and for MOE.\n\nDesign Dead Load and Imposed Load"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.    The design dead load and imposed load for a columbarium are set out in the\nCode of Practice for Dead and Imposed Loads 2011.\n\nConversion of Premises in Existing Buildings for Use as a Columbarium"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.     Conversion  of  existing premises  for use  as a columbarium would  likely\nconstitute a material change in use of the building in the context of section 25(1) of the\nBO.  The premises to be converted should comply with the design and construction\nrequirements as set out in paragraphs 2 to 7 above.  In addition, the following criteria\nshould also be observed:\n\n                                                                                                          /(i) ….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n\n\n         (i)    Columbarium facilities should only be accommodated in non-\n             domestic buildings ; and\n\n          (ii)   For columbarium  facilities to be accommodated in existing\n               industrial buildings, only conversion of the entire building to\n            columbarium use is acceptable to the Fire Services Department\n            from fire safety point of view.  Partial conversion of such a\n              building  is  considered  undesirable  as   it may  attract  an\n              excessively large number of persons who could be exposed to\n               risks which they would neither be aware of nor prepared to face.\n\n\nCompliance with Other Statutory Requirements and the Land Lease Restrictions"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.     Apart from the BO, the use and operation of a columbarium, whether in a new\ndevelopment or in premises converted from an existing building, is also subject to the\ncontrol of various other legislations on town planning, environmental hygiene, traffic\ncontrol, fire safety etc. and the land lease restrictions under the jurisdiction of the\nrespective Government departments. In addition to complying with the requirements of\nthe BO, the applicant should  also seek agreement  / approval from the  relevant\ndepartments and licensing authorities where applicable.\n\n\n\n\n\n                                                                       ( AU Choi-Kai )\n                                                     Building Authority\n\n\n\n\n\nRef. : BD GP/1-50/78/0\n\nFirst issue August 2012 (AD/NB1)"
+    }
+  ]
+}

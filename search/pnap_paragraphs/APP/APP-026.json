@@ -1,0 +1,46 @@
+{
+  "code": "APP-026",
+  "source_text": "indexed_text/PNAP/APP/APP-026.txt",
+  "source_pdf": "documents/PNAP/APP/APP-026.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n Persons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-26\n\n                                      Practice Note for Authorized Persons\n  Buildings Department                                                   81                               and Registered Structural Engineers\n\n\n                                Pouring of Concrete\n                            against Walls of Adjoining Buildings\n\n\n            The use of walls of adjoining buildings as permanent shuttering during concrete\npouring operations has resulted in the failure of portions of such walls, causing damage to\nproperty and injury to persons."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            This practice  is not acceptable unless a physical check has been made to\nconfirm the safety of the wall to be so used.  Such check should include confirmation of its\nthickness, conditions and structural capability to withstand any load imposed on it by the wet\nconcrete and tamping process."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          Where the stability of the wall is in question or cannot be verified, independent\nshuttering should be provided to prevent any load being imposed on the wall. Alternatively,\nprecautionary measures must be taken to provide adequate support and to minimize the load."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.            Unless evidence clearly indicates otherwise, total or partial failure of a wall in\nthese circumstances will be taken to indicate negligence in carrying out checks or in taking\nsatisfactory precautionary measures and will be considered as an offence under Buildings\nOrdinance section 40.\n\n\n\n\n\n                                                       (Helen C P Lai YU)\n                                                           Building Authority\n\nRef. : BD GP/BOP/3\n\nFirst issued February 1982\nThis revision May 1994 (AD/SE)\n\nIndex under :  Adjoining Buildings - pouring of Concrete against Walls of\n              Concrete - pouring against Walls of Adjoining Buildings\n             Walls - pouring of Concrete against Walls of Adjoining Buildings"
+    }
+  ]
+}

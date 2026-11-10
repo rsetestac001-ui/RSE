@@ -1,0 +1,912 @@
+{
+  "code": "APP-157",
+  "source_text": "indexed_text/PNAP/APP/APP-157.txt",
+  "source_pdf": "documents/PNAP/APP/APP-157.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-157\n                          Registered Geotechnical Engineers\n\n\n                Code of Practice for Site Supervision 2009\n\n\n            The Buildings Department (BD) has set up a Technical Committee (TC)\nto, among others, collect and consider the views and feedback from the building industry\narising from the use of the Code of Practice for Site Supervision 2009 (Supervision Code).\nTaking into account the advice of the TC, amendments were made and promulgated\nthrough circular  letters between 2015 and 2021 which were incorporated into the\nSupervision Code (2021 Edition).   Further amendments to the Supervision Code\n(2021 Edition) at Appendices A and B have been promulgated, and the Supervision Code\n(2024 Edition) incorporating all the amendments has been uploaded to BD website\nwww.bd.gov.hk:\n\n        (a)    Appendix A – December 2023\n        (b)    Appendix B – August 2024\n\nTemporary Works Providing Support to Tower Cranes"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          To enhance the control on temporary works providing support to tower\ncranes at construction sites, in addition to the requirements for temporary works stipulated\nin paragraph 4.9 of the Supervision Code (2021 Edition), the registered general building\ncontractors/registered specialist contractors are required to appoint a design engineer to\nprepare plans, construction drawings and design justifications of the temporary works,\nand an independent checking engineer to check these documents in compliance with the\nBuildings Ordinance, the regulations made thereunder and the relevant codes of practice.\nThese requirements apply to all development projects with the specified Form BA 10\nsubmitted on or after 1 November 2024.  The soft copies of relevant certification forms\nTW1, TW2 and TW3 are available in BD website1.\n\nAcademic Courses Recognised as Acceptable Qualifications"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The required professional/academic  qualifications and experience of\ntechnically competent persons (TCPs) are set out in paragraphs 8.18 to 8.24 of the\nSupervision Code (2021 Edition).  In the past years, some courses organised by both\nlocal and non-local institutes or universities have also been accepted as equivalent\nacademic qualifications under the Supervision Code (2021 Edition).  As a ready\nreference to the practitioners, a  list showing the accepted academic qualifications\ncontaining courses previously accepted by BD for TCPs’ registration/appointment\npursuant to the Supervision Code (2021 Edition) has been uploaded to BD website2  .\n\n\n                                                         /4…\n\n\n1  https://www.bd.gov.hk/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/\n   app/app157.html\n2  https://www.bd.gov.hk/en/resources/online-tools/accepted-academic-qualifications-tcps/index.html"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\nRepeal of Corresponding Recognition"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          The corresponding recognition for TCP as set out in Appendix X of the\nSupervision Code which was based on the membership of particular professional\ninstitutions was repealed via the circular letter on 8 May 2015.  The appendix is given\nin Appendix C for reference."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          Members of these professional institutions previously accepted to practise\nas TCPs may continue to practise as TCPs subject to evidence demonstrating the previous\nrecognition of their TCP qualifications being provided to BD upon the submission of the\nsupervision plans."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.       A similar practice note has been issued to registered contractors.\n\n\n\n\n                                                               ( YU Po-mei, Clarice )\n                                                 Building Authority\n\n\n\n\n\nRef. : BD GR/1-50/82/1 (V)\n\nFirst issue   May 2015\nLast revision  December 2023\nThis revision  August 2024 (AD/NB2) (General revision)"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Appendix A\n                                                                                (PNAP APP-157)\n\n\n\n\n\nAmendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n                         (December 2023)\n\n\n\n\n\n     Legends:\n         Amended\n           Deleted\n\n\n\n     (12/2023)\n\n\n\n\n                                                                                       - 1 -"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition                                          Amendments\n\n\n\n\n\n                                                            - 2 -"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition                                          Amendments\n\n\n\n\n\n                                                             - 3 -"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition                                          Amendments\n\n\n\n\n\n                                                            - 4 -"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition                                          Amendments\n\n\n\n\n\n                                                            - 5 -"
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition                                          Amendments\n\n\n\n\n\n                                                            - 6 -"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition                                          Amendments\n\n\n\n\n\n                                                            - 7 -"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition                                          Amendments\n\n\n\n\n\n                                                            - 8 -"
+    },
+    {
+      "id": "page-11",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        11
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition                                          Amendments\n\n\n\n\n\n                                                            - 9 -"
+    },
+    {
+      "id": "page-12",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        12
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n                           2021 Edition\n\n\n\n\n\n                                                        - 10 -"
+    },
+    {
+      "id": "page-13",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        13
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n                        Amendments\n\n\n\n\n\n                                                        - 11 -"
+    },
+    {
+      "id": "page-14",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        14
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n                           2021 Edition\n\n\n\n\n\n                                                        - 12 -"
+    },
+    {
+      "id": "page-15",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        15
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n                        Amendments\n\n\n\n\n\n                                                        - 13 -"
+    },
+    {
+      "id": "page-16",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        16
+      ],
+      "text": "Appendix B\n                                                                                (PNAP APP-157)\n\n\n\n\n\nAmendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n                            (August 2024)\n\n\n\n\n\n     Legends:\n     1111  Amended\n     1111  Deleted\n\n\n\n\n\n     (8/2024)\n\n\n\n\n\n                                                                                       - 1 -"
+    },
+    {
+      "id": "page-17",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        17
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                          - 2 -"
+    },
+    {
+      "id": "page-18",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        18
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                          - 3 -"
+    },
+    {
+      "id": "page-19",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        19
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                          - 4 -"
+    },
+    {
+      "id": "page-20",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        20
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                          - 5 -"
+    },
+    {
+      "id": "page-21",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        21
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                          - 6 -"
+    },
+    {
+      "id": "page-22",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        22
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                          - 7 -"
+    },
+    {
+      "id": "page-23",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        23
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                          - 8 -"
+    },
+    {
+      "id": "page-24",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        24
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                          - 9 -"
+    },
+    {
+      "id": "page-25",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        25
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 10 -"
+    },
+    {
+      "id": "page-26",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        26
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 11 -"
+    },
+    {
+      "id": "page-27",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        27
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 12 -"
+    },
+    {
+      "id": "page-28",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        28
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 13 -"
+    },
+    {
+      "id": "page-29",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        29
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 14 -"
+    },
+    {
+      "id": "page-30",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        30
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 15 -"
+    },
+    {
+      "id": "page-31",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        31
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                 -\n\n\n\n\n\n                                                                                          - 16 -"
+    },
+    {
+      "id": "page-32",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        32
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                 -\n\n\n\n\n\n                                                                                          - 17 -"
+    },
+    {
+      "id": "page-33",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        33
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                 -\n\n\n\n\n\n                                                                                         - 18 -"
+    },
+    {
+      "id": "page-34",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        34
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                 -\n\n\n\n\n\n                                                                                         - 19 -"
+    },
+    {
+      "id": "page-35",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        35
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                 -\n\n\n\n\n\n                                                                                          - 20 -"
+    },
+    {
+      "id": "page-36",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        36
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                 -\n\n\n\n\n\n                                                                                          - 21 -"
+    },
+    {
+      "id": "page-37",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        37
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                 -\n\n\n\n\n\n                                                                                          - 22 -"
+    },
+    {
+      "id": "page-38",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        38
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                 -\n\n\n\n\n\n                                                                                         - 23 -"
+    },
+    {
+      "id": "page-39",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        39
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 24 -"
+    },
+    {
+      "id": "page-40",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        40
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                    -\n\n\n\n\n\n                                                                                         - 25 -"
+    },
+    {
+      "id": "page-41",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        41
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                    -\n\n\n\n\n\n                                                                                          - 26 -"
+    },
+    {
+      "id": "page-42",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        42
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                    -\n\n\n\n\n\n                                                                                          - 27 -"
+    },
+    {
+      "id": "page-43",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        43
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 28 -"
+    },
+    {
+      "id": "page-44",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        44
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 29 -"
+    },
+    {
+      "id": "page-45",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        45
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 30 -"
+    },
+    {
+      "id": "page-46",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        46
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 31 -"
+    },
+    {
+      "id": "page-47",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        47
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                          - 32 -"
+    },
+    {
+      "id": "page-48",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        48
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 33 -"
+    },
+    {
+      "id": "page-49",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        49
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                          - 34 -"
+    },
+    {
+      "id": "page-50",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        50
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 35 -"
+    },
+    {
+      "id": "page-51",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        51
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 36 -"
+    },
+    {
+      "id": "page-52",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        52
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 37 -"
+    },
+    {
+      "id": "page-53",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        53
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 38 -"
+    },
+    {
+      "id": "page-54",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        54
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 39 -"
+    },
+    {
+      "id": "page-55",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        55
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 40 -"
+    },
+    {
+      "id": "page-56",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        56
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 41 -"
+    },
+    {
+      "id": "page-57",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        57
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 42 -"
+    },
+    {
+      "id": "page-58",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        58
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 43 -"
+    },
+    {
+      "id": "page-59",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        59
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 44 -"
+    },
+    {
+      "id": "page-60",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        60
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 45 -"
+    },
+    {
+      "id": "page-61",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        61
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                 -\n\n\n\n\n\n                                                                                         - 46 -"
+    },
+    {
+      "id": "page-62",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        62
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                 -\n\n\n\n\n\n                                                                                          - 47 -"
+    },
+    {
+      "id": "page-63",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        63
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                 -\n\n\n\n\n\n                                                                                          - 48 -"
+    },
+    {
+      "id": "page-64",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        64
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                 -\n\n\n\n\n\n                                                                                          - 49 -"
+    },
+    {
+      "id": "page-65",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        65
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                 -\n\n\n\n\n\n                                                                                          - 50 -"
+    },
+    {
+      "id": "page-66",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        66
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                 -\n\n\n\n\n\n                                                                                         - 51 -"
+    },
+    {
+      "id": "page-67",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        67
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n                                 -\n\n\n\n\n\n                                                                                          - 52 -"
+    },
+    {
+      "id": "page-68",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        68
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 53 -"
+    },
+    {
+      "id": "page-69",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        69
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 54 -"
+    },
+    {
+      "id": "page-70",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        70
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 55 -"
+    },
+    {
+      "id": "page-71",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        71
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 56 -"
+    },
+    {
+      "id": "page-72",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        72
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 57 -"
+    },
+    {
+      "id": "page-73",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        73
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 58 -"
+    },
+    {
+      "id": "page-74",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        74
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 59 -"
+    },
+    {
+      "id": "page-75",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        75
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 60 -"
+    },
+    {
+      "id": "page-76",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        76
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 61 -"
+    },
+    {
+      "id": "page-77",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        77
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 62 -"
+    },
+    {
+      "id": "page-78",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        78
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 63 -"
+    },
+    {
+      "id": "page-79",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        79
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 64 -"
+    },
+    {
+      "id": "page-80",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        80
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 65 -"
+    },
+    {
+      "id": "page-81",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        81
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 66 -"
+    },
+    {
+      "id": "page-82",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        82
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n2021 Edition (with amendments till December 2023)                               2024 Edition\n\n\n\n\n\n                                                                                         - 67 -"
+    },
+    {
+      "id": "page-83",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        83
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n                           2024 Edition\n\n\n\n\n\n                                                        - 68 -"
+    },
+    {
+      "id": "page-84",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        84
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n                            2024 Edition\n\n\n\n\n\n                                                        - 69 -"
+    },
+    {
+      "id": "page-85",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        85
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n                            2024 Edition\n\n\n\n\n\n                                                        - 70 -"
+    },
+    {
+      "id": "page-86",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        86
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n                            2024 Edition\n\n\n\n\n\n                                                        - 71 -"
+    },
+    {
+      "id": "page-87",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        87
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n                            2024 Edition\n\n\n\n\n\n                                                        - 72 -"
+    },
+    {
+      "id": "page-88",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        88
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n                            2024 Edition\n\n\n\n\n\n                                                        - 73 -"
+    },
+    {
+      "id": "page-89",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        89
+      ],
+      "text": "Amendments to the Code of Practice for Site Supervision 2009 (2021 Edition)\n\n                            2024 Edition\n\n\n\n\n\n                                                        - 74 -"
+    },
+    {
+      "id": "page-90",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        90
+      ],
+      "text": "Appendix C\n                                      (PNAP APP-157)\n\n\n            Appendix X\n\n\n\n\n\n  TCP Qualifications and Experience\n  Accepted during Transitional Period\n        before 22 December 2005\n                  or\nAccepted pursuant to the Corresponding\n     Recognition and Requirements\n Prescribed in Paragraph 8 of this Code\n\n\n\n\n\n                                     106"
+    },
+    {
+      "id": "page-91-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        91
+      ],
+      "text": "Qualifications and experience for TCP accepted during transitional period\nbefore 22 December 2005 or accepted pursuant to the corresponding recognition and\nrequirements prescribed in paragraph 8 of this Code are listed as follows:"
+    },
+    {
+      "id": "p1-page-91",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        91
+      ],
+      "subparagraph_markers": [],
+      "text": "1. A person who is a corporate member of the Hong Kong Institute of Clerks of\n   Works  (HKICW)  or  the Chartered  Institute  of Building (CIOB) may be\n   appointed as TCP of grade T3 to T1 in accordance with Tables 1 and 2 (with\n   Notes) below, provided that he has the required relevant working experience.\n\n\n                                     Table 1\n            Eligibility of Corporate Member of HKICW or CIOB as TCP T3 to T1\n    (with academic background in building surveying, building or architectural studies)\n   Type of Building Works or Street TCP T3 in TCP T3 in TCP T3 in TCP T3 to T1\n   Works                          AP’s     RSE’s    RGE’s         in\n                                  Stream    Stream    Stream   RC’s Stream\n   GIFW                           Yes      N/A      No       No\n\n    Building Works with significant       Yes      No      No       No\n    geotechnical content\n\n    Foundation Works                  Yes      No      No       No\n\n    Street Works or all Building Works,    Yes      No      No        Yes\n    (other than the above types of works\n   and Minor Works)\n\n    Class I Minor Works                Yes      No      No        Yes\n\n\n\n\n\n                                         107"
+    },
+    {
+      "id": "page-92",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        92
+      ],
+      "text": "2(a)   A person who is an associate member of the Hong Kong Institution of\n        Engineers of a relevant discipline for not less than two years may be\n        appointed as TCP of grade T3 to T1 for street works or building works.\n\n\n2(b)   A person who is an associate member of the Chartered Institute of Building\n       (ACIOB) with a duly recognized higher certificate or higher diploma of the\n         relevant prescribed qualification in Table 8.6 of this Code, and with not less\n        than five years relevant experience, may be appointed as TCP of grade T3 in\n         the RC’s stream to perform the corresponding work types specified in that\n          table.\n\n\n3(a)     During the early implementation stage of the Supervision Plan System\n         before 22 December 2005, site supervisory personnel who did not meet the\n         required academic qualifications as specified in the Technical Memorandum,\n         but had sufficient years of relevant experience as per part (a) of Table 3\n         (with  Notes)  below,  attended  top-up  training  courses  organized  by\n         Vocational Training Council (VTC) or the Construction Industry Council\n         Training Academy (CICTA) (formerly the Construction Industry Training\n         Authority (CITA)) and acquired an Equivalent Certificate would be accepted\n          to  possess  equivalent  qualifications  as  specified  in  the  Technical\n       Memorandum on a permanent basis.  He can be appointed as TCP of grade\n       T3 to T1 in the respective streams in accordance with part (a) of Table 4\n        below.\n\n\n3(b)(i)  As the industry has raised that there is shortage in the supply of TCP T1,\n         there is a need for organizing a “Technically Competent Person T1 Training\n        Course”, similar to previous top-up courses, to enhance the technical ability\n         of site supervisory personnel working in the industry but do not meet the\n         required academic qualifications as specified in the Technical Memorandum,\n        so that they can perform the duties of TCP T1. A person who has relevant\n          prior experience of not less than 5 years is eligible to attend the “Technically\n        Competent Person T1 Training Course” offered by the HK Institute of\n         Vocational  Education (HKIVE)  or  the  Construction  Industry  Council\n         Training Academy (CICTA) and upon acquiring the “TCP T1 Certificate”\n          will be accepted to possess equivalent qualifications required for a TCP T1\n       on a permanent  basis. He may be appointed as TCP of grade T1  in\n        accordance with part (b) of Table 3 (with Notes) and Table 4 below.\n\n\n3(b)(ii)  With the introduction of minor works as a type of building works different\n        from the major works in the Technical Memorandum, to  facilitate  site\n         supervisory personnel working in the industry who do not meet the required\n\n\n                                         108"
+    },
+    {
+      "id": "page-93",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        93
+      ],
+      "text": "academic qualifications as specified in the Technical Memorandum but\nwould like to continue their current role to supervise minor works only, if\nthey have relevant prior experience of not less than 5 years, they would be\neligible to attend the “Technically Competent Person T1 (Minor Works)\nTraining Course” offered by the HKIVE or the CICTA and upon acquiring\nthe “TCP T1 (Minor Works)  Certificate”  will be accepted  to possess\nequivalent qualifications required for a TCP T1 for supervision of minor\nworks only on a permanent basis.  Any such person may be appointed as\nTCP of grade T1 for supervision of minor works only in accordance with\npart (b) of Table 3 (with Notes) and Table 4 below.\n\n\n\n\n\n                                109"
+    },
+    {
+      "id": "page-94",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        94
+      ],
+      "text": "Table 3\n\n             (a) The Equivalent Certificate acquired in the top-up training course\n                      organized by VTC or CITA for TCP T3 to T1\n\n       Topping-up Training Courses to be       Certificates  Relevant    Grades of\n                   completed               Awarded    Working   TCP for\n                                                          Experience   types of\n     Module               Subject                         (counted in  works in\n       No.                                                                full)        Table 4\n\n    Module 3    Construction Supervision (I)       Equivalent\n                                                          Certificate        51        T1\n    Module 4    Construction Supervision (II)           (1)\n    Module 3    Construction Supervision (I)\n\n    Module 4    Construction Supervision (II)\n\n    Module 5.1   Specialist Works (Demolition)4    Equivalent\n                                                          Certificate        82         T24\n    Module 5.2   Specialist Works (Foundation)4         (2)\n\n    Module 5.3   Specialist Works (Site\n                Formation & Slope Repairs)4\n    Module 3    Construction Supervision (I)\n\n    Module 4    Construction Supervision (II)\n                                                   Equivalent\n    Module 6.1   Introduction to Specialist Works    Certificate       123         T35\n                                                             (3)\n    Module 6.2   Administration and Management\n             (b) The certificate acquired in the TCP T1 or TCP T1 (Minor Works)\n                    Training Course organized by HKIVE or CICTA\n      (i)           Technically Competent Person    TCP T1         56        T1\n              T1 Training Course                 Certificate\n      (ii)          Technically Competent Person    TCP T1         56      T1 (Minor\n              T1 (Minor Works) Training         (Minor                 Works)\n                Course                         Works)\n                                                          Certificate\nNotes:  1     5 years relevant working experience must have been gained within the previous 8\n              years and at least 1 year must be local site experience.\n\n           2    8 years relevant working experience must have been gained within the previous 11\n              years and at least 1 year must be local site experience.\n\n           3    12 years relevant working experience must have been gained within the previous\n            15 years and at least 1 year must be local site experience.\n\n           4   A TCP T2 can only supervise the type of specialist works (Demolition works,\n             Foundation works, or Site Formation & Slope Repair Works) when he has duly\n             completed the training module in the Module 5  series corresponding to the\n                specialist works and obtained the relevant certificate.\n\n\n\n\n\n                                            110"
+    },
+    {
+      "id": "page-95",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        95
+      ],
+      "text": "5       If a TCP T3 wishes to take up duties of any of the T2 specialist works mentioned in\n         Note 4, he must also complete the training module corresponding to the specialist\n         works and obtain the Equivalent Certificate (2).\n\n     6    5 years relevant working experience must have been gained within the previous 8\n          years and at least 1 year must be local site experience.  For GIFW, relevant\n          experience shall be confined to GI works only.\n\n\n\n                                 Table 4\n (a) Eligibility of site supervisory personnel as TCP T3 to    (b) Eligibility of site\n   T1, with Equivalent Certificate in top-up training     supervisory personnel as\n           course, organized by VTC or CITA          TCP T1 or TCP T1\n                                                   (Minor Works), with\n                                                                certificate in the training\n                                                            course, organized by\n                                       HKIVE or CICTA\n                                                                                (i) TCP T1   (ii) TCP T1\n                                                             Certificate    (Minor\n                                                           Works)\n                                                                          Certificate\nType of     TCP  TCP TCP T3 TCP T3 TCP T2  TCP T1 in   TCP T1\nBuilding     T3 in  T3 in     in       in    to T1 in    RC’s      (Minor\nWorks or     AP’s  RSE’s RGE’s  RC’s   RC’s    Stream    Works) in\nStreet Works Stream Stream Stream Stream  Stream               RC’s\n                                                             Stream\nGIFW        No   N/A   No    N/A    No       Yes       No\n\nBuilding      No   No    No    N/A    Yes      Yes       No\nWorks with\nsignificant\ngeotechnical\ncontent\n\nFoundation    No   No    N/A    N/A    Yes      Yes       No\nWorks\n\nStreet Works   Yes   Yes   N/A    Yes     Yes      Yes       No\nor all Building\nWorks (other\nthan the above\ntypes of works\nand Minor\nWorks)\n\nClass I Minor   Yes   Yes   N/A    Yes     Yes      Yes        Yes\nWorks\n\n\n\n\n\n                                        111"
+    },
+    {
+      "id": "p4-page-96",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        96
+      ],
+      "subparagraph_markers": [],
+      "text": "4.     A person who is an Affiliate (Site Supervision) of the Hong Kong Institute\n           of Architects (HKIA) may be appointed as TCP of grade T3 in accordance\n          with Table 5 below, provided that he has the required relevant working\n           experience.\n\n\n                                      Table 5\n                     Eligibility of HKIA Affiliate (Site Supervision) as TCP T3\n           with 2 years of post Affiliate experience (with academic background in\n                     architectural or building construction related studies)\n         Type of Building         TCP T3 in         TCP T3 in\n        Works or Street Works      AP’s Stream         RC’s Stream\n       GIFW                        Yes               N/A\n\n           Building Works with            Yes               N/A\n            significant geotechnical\n           content\n\n          Foundation Works              Yes               N/A\n\n\n            Street Works or all              Yes                 Yes\n           Building Works (other\n           than the above types of\n         works and Minor Works)\n\n           Class I Minor Works            Yes                 Yes"
+    },
+    {
+      "id": "p5-page-96",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        96
+      ],
+      "subparagraph_markers": [],
+      "text": "5.     A person who is a member in the building or civil engineering disciplines\n           of the Hong Kong Institute of Construction Managers (HKICM) may be\n          appointed as TCP of grades T4 to T1 in accordance with Table 6 (with\n          Notes)  below,  provided  that he  has  the  required  relevant working\n           experience.\n\n\n\n\n\n                                            112"
+    },
+    {
+      "id": "page-97-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        97
+      ],
+      "text": "Table 6\n                   Eligibility of Member of HKICM as TCP T4 to T1\n            (with academic background in building or civil engineering)\n Type of Building                      RC’s Stream\n Works or Street     Construction    Associate as    Associate as     Corporate\n     Works          Supervisor     TCP T2      TCP T3     Member as\n                  Member as                           TCP T4\n                 TCP T1\nGIFW               No         N/A         N/A         No\n\nBuilding Works            Civil            Civil         N/A            Civil\nwith significant\ngeotechnical content\n\nFoundation Works       Building        Building       N/A          Building\n                        (except for      (except for                      (except for\n                        piling works)    piling works)                      piling works)\n                         or Civil         or Civil                          or Civil\n\nStreet Works or all     Building or      N/A        Building or     Building or\nBuilding Works,           Civil                             Civil            Civil\n(other than the\nabove types of\nworks and Minor\nWorks)\n\nClass I Minor          Building or      N/A        Building or      N/A\nWorks                     Civil                             Civil\n\nNotes: The above recognition is based on the following entrance requirements for the various\nclasses of membership of HKICM:\n          (i)   Construction  Supervisor Members, who have  attained  the academic and\n           working experience requirements as stipulated in section 2.4.2 and 6.4 of\n         HKICM’s Membership Handbook (June 2005);\n           (ii)  Associates, who  have  attained  the  academic  and  working  experience\n             requirements as stipulated in section 2.3.2, 6.1.3, 6.1.4, 6.2.3 and 6.2.4 of\n         HKICM’s Membership Handbook (June 2005); and\n          (iii) Corporate Members, who have fulfilled the academic requirements and have\n           had post qualification professional experience as stipulated in section 2.2.2.1,\n              6.1.1, 6.1.2, 6.2.1 and 6.2.2 of HKICM’s Membership Handbook (June 2005).\n            (Only the degree programmes listed in section 6.1.2 and 6.2.2 of HKICM’s\n           Membership Handbook (June 2005) tally with the academic requirements in\n            paragraph 8.19(c) and Table 8.7 of this Code.)"
+    },
+    {
+      "id": "p6-page-97",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        97
+      ],
+      "subparagraph_markers": [],
+      "text": "6.     A person who is a corporate member or fellow of the Institute of Clerks of\n        Works and Construction Inspectorate (Hong Kong) (formerly Institute of\n          Clerks of Works of Great Britain Incorporated (Hong Kong Branch)) in\n           the civil/structural engineering or building/architectural studies disciplines\n        may be appointed as TCP of grade T3 in accordance with Table 7 and\n\n\n                                         113"
+    },
+    {
+      "id": "page-98",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        98
+      ],
+      "text": "Table 8 (with Notes) below, provided that he has the required relevant\n         working experience.\n\n\n                                     Table 7\n             Eligibility of Corporate Member or Fellow of the Institute of Clerks of\n           Works and Construction Inspectorate (Hong Kong) as TCP T3\n                      with 3 years of post-qualification experience\n                (with academic background in civil/structural engineering or\n                               building/architectural studies)\n         Type of Building Works or      TCP T3 in      TCP T3 in\n           Street Works                   AP’s Stream      RC’s Stream\n       GIFW                             Yes            N/A\n\n           Building Works with significant        Yes            N/A\n           geotechnical content\n\n          Foundation Works                   Yes            N/A\n\n            Street Works or all Building           Yes             Yes\n         Works (other than the above\n           types of works and Minor Works)\n\n           Class 1 Minor Works                 Yes             Yes\n\n\n\n                                     Table 8\n             Eligibility of Corporate Member or Fellow of the Institute of Clerks of\n           Works and Construction Inspectorate (Hong Kong) as TCP T3\n                       with 3 years of post-qualification experience\n                 (with academic background in civil/structural engineering)\n         Type of Building Works or Street Works          TCP T3 in\n                                                     RSE’s Stream\n       GIFW                                        N/A\n\n           Building Works with significant geotechnical content        Yes\n\n          Foundation Works                                   Yes\n\n            Street Works or all Building Works (other than the          Yes\n          above types of works and Minor Works)\n\n           Class 1 Minor Works                                 Yes\n\nNotes: The above recognition is based on the admission of corporate member or fellow of the\n        Institute of Clerks of Works and Construction Inspectorate (Hong Kong) in the\n        civil/structural or building/architectural studies disciplines by exemption through\n       associated professional institutes which is limited to the following qualifications:\n          (i)   Associate Member of the Chartered Institute of Building in the construction\n           management disciplines;\n           (ii)  Corporate Member of the Institution of Civil Engineers;\n           (iii)  Corporate Member of the Institution of Structural Engineers;\n\n\n\n                                         114"
+    },
+    {
+      "id": "page-99-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        99
+      ],
+      "text": "(iv)  Corporate Member of the Royal Institute of British Architects; and\n        (v)  Corporate Member of the Royal  Institution of Chartered Surveyors in the\n             building surveying discipline."
+    },
+    {
+      "id": "p7-page-99",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        99
+      ],
+      "subparagraph_markers": [],
+      "text": "7.       The  course  of  “Higher  Diploma  in  Construction  Engineering  and\n         Management”, offered by Department of Construction in HK Institute of\n          Vocational  Education (HKIVE),  is  recognised  to  be  an  acceptable\n          academic qualification equivalent to a higher diploma in building studies\n          under the Supervision Plan System in accordance with the Code."
+    },
+    {
+      "id": "p8-page-99",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        99
+      ],
+      "subparagraph_markers": [],
+      "text": "8.     A person who is a Technical Associate in the building surveying division\n           of the Hong Kong Institute of Surveyors (HKIS) may be appointed as TCP\n           of grade T3 in accordance with Table 9 below, provided that he has the\n           required relevant working experience.\n\n\n                                      Table 9\n            Eligibility of Technical Associate in Building Surveying Division of HKIS\n                   as TCP T3 with 3 years of post-qualification experience\n         Type of Building Works or       TCP T3 in      TCP T3 in\n           Street Works                   AP’s Stream      RC’s Stream\n       GIFW                             Yes            N/A\n\n           Building Works with significant         Yes            N/A\n           geotechnical content\n\n          Foundation Works                   Yes            N/A\n\n\n            Street Works or all Building            Yes              Yes\n         Works (other than the above types\n           of works and Minor Works)\n\n           Class I Minor Works                 Yes              Yes"
+    },
+    {
+      "id": "p9-page-99",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        99
+      ],
+      "subparagraph_markers": [],
+      "text": "9.       The course of “Higher Diploma in Urban Renewal, Building Inspection\n         and Maintenance” and “Higher Diploma in Architectural Design and\n          Technology”, offered by Department of Construction in HK Institute of\n          Vocational Education (HKIVE), are considered to be equivalent to a\n           higher diploma in building studies and architectural studies disciplines\n           respectively;  and  can  be  recognised  as  an  acceptable  academic\n            qualification fulfilling the minimum qualifications for TCP T3 for site\n           supervision, only for the streams of AP and RC, as stipulated in the\n          Technical Memorandum and under paragraph 8.20 of the Code.\n\n\n\n\n\n                                          115"
+    }
+  ]
+}

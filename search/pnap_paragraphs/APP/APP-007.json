@@ -1,0 +1,276 @@
+{
+  "code": "APP-007",
+  "source_text": "indexed_text/PNAP/APP/APP-007.txt",
+  "source_pdf": "documents/PNAP/APP/APP-007.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department        Registered Structural Engineers and      APP-7\n                             Registered Geotechnical Engineers\n\n\n\n                Application for Registration as Authorized Persons,\n        Registered Structural Engineers, Registered Geotechnical Engineers\n                       and Registered Inspectors\n\n\n            Under section 3 of the Buildings Ordinance (BO), the Building Authority\n(BA) shall keep an authorized persons’ (APs’) register, a structural engineers’ (SEs’)\nregister, a geotechnical engineers’ (GEs’) register and an inspectors’ (Insps’) register. This\npractice note sets out the registration requirements for authorized persons (AP), registered\nstructural  engineers (RSE),  registered  geotechnical  engineers (RGE) and  registered\ninspectors (RI).\n\nRequirements for Registration as AP/RSE/RGE/RI"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "b",
+          "offset": 194
+        }
+      ],
+      "text": "2.           Under section 3(7) of the BO, a person must not be included in the\nAPs’/SEs’/GEs’/Insps’ register unless:\n\n                 (a)  he has obtained the prescribed qualifications; and\n\n                (b)  he   is  recommended  by  the  respective  Registration\n                 Committee (RC)  for  inclusion. However, according  to\n                     section 3(7AA)(a) of the BO, a person may be included in\n                     the  Insps’  register  without  recommendation  by  an\n                     Inspectors Registration Committee (IRC) if the person is an\n             AP or a RSE with experience as prescribed in paragraph\n                    4(b) below.\n\nQualifications for Registration as AP/RSE/RGE/RI under Building (Administration)\nRegulation 3"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 147
+        },
+        {
+          "label": "b",
+          "offset": 465
+        }
+      ],
+      "text": "3.          The qualifications prescribed under Building (Administration) Regulation\n(B(A)R) 3 for registration as AP, RSE or RGE are as follows:\n\n                (a)  A person shall not be included in the APs’ register unless\n                  he is a registered architect (RA), a registered professional\n                    engineer (RPE)  in  the  structural  or  civil  engineering\n                      discipline or a registered professional surveyor (RPS);\n\n                (b)  A person shall not be included in the SEs’ register unless\n                  he is an RPE in the structural or the civil engineering\n                       discipline, and in the latter case unless he has such practical\n                    experience in structural engineering as may be approved by\n                     the RC; or\n\n                                                                                                /(c) ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n                (c)  A person shall not be included in the GEs’ register unless\n                  he is an RPE in the geotechnical engineering discipline;\n                  and\n\n                (d)   In addition the person should have, for a continuous period\n                    of 1 year within the 3 years preceding the date of his\n                      application, had such practical experience gained in Hong\n               Kong as the RC considers appropriate."
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 96
+        },
+        {
+          "label": "b",
+          "offset": 474
+        },
+        {
+          "label": "c",
+          "offset": 748
+        },
+        {
+          "label": "d",
+          "offset": 1243
+        }
+      ],
+      "text": "4.          The qualifications prescribed under B(A)R 3 for registration as RI are as\nfollows:\n\n                (a)  A person must not be included in the Inspectors’ register\n                    unless he  is an AP, RSE, RA, RPE  in the building,\n                       structural, civil, building services (building) or materials\n                     (building) engineering discipline or RPS in the building\n                   surveying or quantity surveying division; and\n\n               (b)   For AP or RSE, within the 7 years preceding the date of\n                     application, he must have experience gained in Hong\n               Kong as an AP, RSE, RA, RPE or RPS in any building\n                     repair and maintenance project; or\n\n                (c)   For RA, RPE in the building or structural engineering\n                     discipline or RPS in the building surveying division, he\n                   must, for a period or periods in aggregate of not less than\n                 1 year within 3 years preceding the date of application,\n                 have practical experience in building construction, repair\n                 and maintenance gained in Hong Kong that the IRC\n                    considers appropriate; or\n\n               (d)   For RPE in the  civil, building services (building) or\n                    materials (building) engineering discipline or RPS in the\n                    quantity surveying division, he must, for a period or\n                    periods in aggregate of not less than 3 years and of\n                 which at least 1 year falls within the 3 years preceding\n                    the date of  application, have  practical experience  in\n                    building construction, repair and maintenance gained in\n               Hong Kong that the IRC considers appropriate.\n\nRegistration Committees"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          Under section 3(5) of the BO, the BA is to establish 4 panels with\nsufficient members from whom he is to appoint committees to be known respectively as\nAuthorized  Persons   Registration  Committees  (APRC),   Structural  Engineers\nRegistration Committees (SERC), Geotechnical Engineers Registration Committees\n(GERC) and IRC.\n\n                                                                                               /6. ….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p6-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          The function of the RC is to assist the BA in considering applications for\ninclusion in the relevant register. The RC will examine the qualifications and experience of\nthe applicants and conduct professional interviews with the applicants.\n\nProfessional Interviews"
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          The scope of professional interviews for AP, RSE, RGE and RI is detailed\nin Appendix A.\n\nApplication for Registration as AP/RSE/RGE/RI"
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "8.             Application for registration as AP, RSE, RGE or RI should be submitted in\nthe specified form (Form BA 1) together with the prescribed application fee. In preparing\nthe application documents, applicants should make reference to the “Advisory Notes for\nCompletion of Form BA 1” which is distributed with the specified form.\n\nRetention and Restoration of Names in the Registers"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          The registration of AP, RSE, RGE or RI shall be valid for 5 years."
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.        An  application  for  retention  of name  in a  register  (i.e. renewal  of\nregistration) should be submitted in the specified form (Form BA 1A) in accordance with\nsections 3(9B) and 3(9C) of the BO. Retention applications received by the BA outside the\nspecified time limit (i.e. not earlier than 4 months and not later than 28 days prior to the\ndate of expiry of the relevant registration) under section 3(9C)(b) of the BO will not be\naccepted."
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.       A person whose name is removed from a register under section 3(11A),\n3(11B) or 3(11C) of the BO may, within 2 years beginning on the date the relevant\nregistration expires, apply for restoration of his name to the relevant register. Application\nfor restoration should also be submitted in the specified form (Form BA 1B) in accordance\nwith sections 3(12) and 3(13) of the BO.\n\n\n\n\n\n                                                                        ( AU Choi-kai )\n                                                       Building Authority\n\nRef: BD REG/RI/1-125/1\n\nThis PNAP is previously known as PNAP 43\nFirst issue :    August 1977\nLast revision :  December 2004\nThis revision :  December 2011 (AD/CS)  - Registration of RI added\n                                                    - Overall content revised"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                    (PNAP APP-7)\n\n\n              Professional Interviews for Registration as AP, RSE, RGE and RI"
+    },
+    {
+      "id": "p1-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "1.           Under section 3(5) of the BO, the BA shall establish 4 panels with sufficient\nmembers from whom he is to appoint APRC, SERC, GERC and IRC."
+    },
+    {
+      "id": "p2-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            For an APRC, at least one member of the RC at a meeting hearing an\napplication for inclusion in a register must be on the same list in the APs’ register as that on\nwhich the applicant wishes to be included;"
+    },
+    {
+      "id": "p3-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           For a SERC, at least one member of the RC at a meeting hearing an\napplication for inclusion must be a RSE;"
+    },
+    {
+      "id": "p4-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "4.           For a GERC, at least one member of the RC at a meeting hearing an\napplication for inclusion must be a RGE;"
+    },
+    {
+      "id": "p5-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "5.           For an IRC, at least one member of the RC at a meeting hearing an\napplication for inclusion should be of the same and at least another one should be of a\ndifferent professional background as the applicant."
+    },
+    {
+      "id": "p6-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "6.         An applicant must satisfy the RC on his suitability for inclusion in the\nrelevant register for which he applies. In this context, an applicant has to demonstrate that\nhe has adequate practical experience and general knowledge in his profession to meet local\nrequirements and to discharge his duties in Hong Kong. He will also be expected to have\nacquired a working knowledge of the BO and allied matters: the main criterion is a\nthorough understanding of general principles and fundamental requirements."
+    },
+    {
+      "id": "p7-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 105
+        },
+        {
+          "label": "b",
+          "offset": 208
+        },
+        {
+          "label": "c",
+          "offset": 458
+        },
+        {
+          "label": "d",
+          "offset": 692
+        }
+      ],
+      "text": "7.          The principal subjects upon which the RC is likely to test an applicant's\nknowledge include:\n\n        (a)    The objectives of the BO and Regulations and the mechanism of\n                control;\n\n        (b)    The statutory role, functions and duties of an AP, RSE, RGE or\n            RI as the case may be, and those of the BA in respect of private\n               building development, building inspection and repair in Hong\n            Kong;\n\n        (c)     Sufficient general awareness of  local conditions  to  practise\n                 efficiently and effectively in Hong Kong without having to make\n               frequent enquiries on matters of common local knowledge;\n\n        (d)    For registration as AP:\n\n        A working knowledge of the BO and Regulations, relevant codes\n              of  practice and such  allied  matters  as  the Town Planning\n             Ordinance and outline zoning plans, lease conditions and the\n\n                                                     - 1 -"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "usual requirements of other authorities relevant to an AP in Hong\n            Kong; (An applicant should therefore be familiar with all the\n              processes from the evaluation of development potential of a\n               private lot through to the issue of an occupation permit.)\n\n        (e)    For registration as RSE:\n\n        A working knowledge  of  the BO and  in  particular  those\n              Regulations and relevant codes of practice pertinent to the design\n             and supervision of structural works;\n\n         (f)    For registration as RGE:\n\n        A working knowledge  of  the BO and  in  particular  those\n               Regulations, relevant codes of practice, geotechnical standards\n             and technical guidance documents pertinent to the design and\n               supervision of geotechnical works;\n\n        (g)    For registration as RI:\n\n        A working knowledge of the BO and  in  particular those\n              Regulations, relevant codes of practice, building safety and\n              health  standards  pertinent  to  design  and  supervision  of\n              building works,  building  safety  inspection,  preparation  of\n               repairs or remedial works proposal and supervision of the\n              necessary repairs or remedial works to remedy the defects or\n               dilapidation of the building and/or to render the building safe;\n\n        (h)    The procedures for an AP, RSE, RGE or RI to follow in order to\n             meet local statutory requirements; and\n\n          (i)     Practice notes, circular letters and other advisory information\n              published by government departments which are relevant to an\n            AP, RSE, RGE or RI.\n\nReference Materials"
+    },
+    {
+      "id": "p8-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "8.       A list of legislation and publications affecting the building industry can be\nfound in Practice Note for Authorized Persons, Registered Structural Engineers and\nRegistered Geotechnical Engineers – ADV-2.\n\n\n\n\n\n(Rev. 12/2011)\n\n\n\n\n\n                                                     - 2 -"
+    }
+  ]
+}

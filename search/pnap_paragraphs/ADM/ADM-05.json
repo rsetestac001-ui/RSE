@@ -1,0 +1,62 @@
+{
+  "code": "ADM-05",
+  "source_text": "indexed_text/PNAP/ADM/ADM-05.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-05.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        ADM-5\n                          Registered Geotechnical Engineers\n\n\n                               Submissions\n                            to the Buildings Department\n\n\n          Many submissions received by the Buildings Department are subject to\nstatutory time limits. Receipt points for various types of submissions in paper format are\noutlined below:\n\n            Submissions                          Receipt Points\n  (i)  Submissions   relating   to  new   Receipt and Dispatch Counter  at  the\n      building    developments    and    office of New Buildings Divisions on 7/F,\n      alteration  and   addition  works   14 Taikoo Wan Road, Taikoo Shing,\n      (except for works in response to a   Hong Kong\n      statutory order, notice, direction or\n     an  advisory   letter   related   to\n      building or slope safety)\n\n  (ii) Other Submissions                  General Enquiry and Receipt Counter at\n                                            the Buildings Department Headquarters\n                                    on G/F, North Tower, West Kowloon\n                                    Government Offices, 11 Hoi Ting Road,\n                                Yau Ma Tei, Kowloon"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The operating hours of the above counters are:\n\n           Mondays to Fridays 8:30 am to 5:30 pm"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         To facilitate efficient working of the time-stamp machine, we would\nappreciate  your  co-operation  in  folding  your  plans  in  the manner  indicated  in\nAppendix A.\n\n\n\n\n\n                                                                                                 /4. …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.           For submissions in electronic format, please refer to Practice Note for\nAuthorized Persons, Registered  Structural Engineers and Registered Geotechnical\nEngineers (PNAP) ADM-17 and PNAP APP-60 for details.\n\n\n\n\n\n                                                             ( YU Po-mei, Clarice )\n                                                Building Authority\n\n\n\n\n\nRef. : BD GR/1-135/1\nThis PNAP is previously known as PNAP-58\nFirst issue     April 1979\nLast revision  March 2019\nThis revision May 2022 (AD/CS) (Paragraph 1 amended and paragraph 4 added)"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Appendix A\n                                                   (PNAP ADM-5)\n\n\n                               Folding of Plans\n\n\n                       Preferred way - fold plans along dotted line\n\n\n                                   Direction of fold\n\n\n\n\n\n                                                                       Step 1Front side\n\n\n\n\n\n                                   Direction of fold\n\n\n\n\n\n                                                               Step 2\n\n\n\n\n            Front side\n\n\n\n(Rev. 4/2016)"
+    }
+  ]
+}

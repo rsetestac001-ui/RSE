@@ -1,0 +1,413 @@
+{
+  "code": "APP-139",
+  "source_text": "indexed_text/PNAP/APP/APP-139.txt",
+  "source_pdf": "documents/PNAP/APP/APP-139.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-139\n                          Registered Geotechnical Engineers\n\n\n\n             Code of Practice on Wind Effects in Hong Kong\n\n\n            The Code of Practice on Wind Effects in Hong Kong 2019 (2019 Code)\nwas promulgated in September 2019.  The 2019 Code is a comprehensive code of\npractice on wind effects for building design in Hong Kong, taking into account the\nresearch on the latest development in wind engineering and technologies, and the\navailable international codes of practices on wind loading.  The Explanatory Notes to\nthe 2019 Code (EN) provide further guidance on the use of the 2019 Code with theoretical\nbackground, assumptions, sources of reference and illustrative examples.  The EN\nshould NOT be construed as a part of the Code.\n\nImplementation of 2019 Code"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The 2019 Code has been effective since the issue of the circular letter on\n30 September 2019.   Submissions of plans for foundation or superstructure works\ndesigned to the Code of Practice on Wind Effects in Hong Kong 2004 were accepted\nduring the grace period commencing on the date of the circular letter.  After the expiry\nof the extended grace period on 31 March 2021, only submissions of plans for foundation\nor superstructure works designed to the 2019 Code are accepted.  However, if the plans1\nfor foundation or superstructure works had been submitted before the expiry of the\nextended grace period and were approved by the Building Authority (BA), the subsequent\nsubmissions of plans for foundation or superstructure works might continue to adopt the\nsame code of practice on wind effects used in the original design."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           For alteration and addition proposals submitted after the grace period, the\ndesign of new structural elements and/or checking of structural adequacy of the existing\nstructure should follow the guidance given in the Practice Note for Authorized Persons,\nRegistered  Structural  Engineers  and  Registered  Geotechnical  Engineers (PNAP)\nAPP-117."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.            Notwithstanding the above arrangements, under section 16(3)(d) of the\nBuildings Ordinance, the BA may refuse to give his consent to the commencement of any\nbuilding works when a period exceeding 2 years has elapsed since the approval of the\nprescribed plans in respect of the building works.\n\n\n\n\n\n                                                                                                /5. …\n\n\n1    Including those plans for foundation or superstructure works designed with loading\n    allowance for future structures."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 394
+        },
+        {
+          "label": "b",
+          "offset": 486
+        }
+      ],
+      "text": "5.            After the promulgation of the 2019 Code, the Buildings Department (BD)\nhas set up a Technical Committee (TC) to, among others, collect and consider the views\nand feedback from the building industry arising from the use of the 2019 Code and the\nEN.  Taking into account the advice of the TC, the following amendments have been\npromulgated and uploaded to BD website www.bd.gov.hk:\n\n        (a)    Amendments to the 2019 Code in Appendix A – December 2023;\n             and\n\n        (b)   Amendments to the EN in Appendix B – December 2023.\n\nWind Tunnel Test"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.            Section 6 of the 2019 Code specifies the requirements for wind tunnel\ntesting.    If the wind tunnel test will not be carried out in accordance with these\nrequirements, submission of the wind tunnel testing methodology proposal for prior\nacceptance by BD is required. BD will provide a determination on the wind tunnel\ntesting methodology proposal normally within 45 days after receipt of the proposal.  The\nregistered structural engineer (RSE) may submit a pre-submission enquiry in accordance\nwith PNAP ADM-19 with a preliminary test proposal to settle the design principles\nbefore formal submission of the wind tunnel testing methodology proposal. BD may\nhold pre-submission conferences with the RSE and representatives of the wind tunnel test\nlaboratory to discuss and examine the principles and methodology involved.  The\nessential information to be included in the wind tunnel testing methodology proposal is\nat Appendix C."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.            Quality assurance plan should be included in the wind tunnel testing\nmethodology  proposal.     Reference  can  be  made  to  relevant   international\nstandards/manuals such as “ASCE Manuals and Reports on Engineering Practice No. 67\n- Wind Tunnel Studies of Buildings and Structures” published by the American Society\nof Civil Engineers or “Quality Assurance Manual: Wind Engineering Studies of\nBuildings” published by the Australasian Wind Engineering Society.  The essential\ninformation to be included in the quality assurance plan is at Appendix D."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.         Wind tunnel test should be witnessed by RSE or an independent engineer\nwho should not be a member of staff or employee of the wind tunnel test laboratory.  The\nindependent engineer, serving as RSE’s representative, should be a Corporate Member of\nthe Hong Kong Institution of Engineers or possess equivalent professional qualification,\nand has a minimum total relevant working experience of five years.  RSE or the\nindependent engineer should ensure that the quality assurance procedures have been\nproperly followed.\n\n\n\n\n\n                                                                                                /9. …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          The wind tunnel testing report should contain the testing procedures,\nwhole set of test readings, structural and dynamic properties of the building structure\nadopted in the wind loads calculation together with a statement signed by RSE to confirm\nthat proper supervision arrangement has been provided when conducting the wind tunnel\ntest and the raw data and results of the wind tunnel test fully meet the requirements of the\n2019 Code for the determination of wind loads for incorporation in structural submissions\nfor the particular project.\n\n\n\n\n\n                                                           ( YU Po-mei, Clarice )\n                                               Building Authority\n\n\n\n\n\nRef. : BD GR/1-50/59/0\n\nThis PNAP is previously known as PNAP 219\nFirst issue    December 2004\nThis revision  December 2023 (AD/NB2) (General revision)"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                                              (PNAP APP-139)\n\n\n\nAmendments to the Code of Practice on Wind Effects in Hong Kong 2019\n                       (December 2023)\n\n\n\n\n\n  Legends:\n       Amended\n        Deleted\n\n\n\n\n  (12/2023)\n\n\n\n\n                                                                                  - 1 -"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Amendments to the Code of Practice on Wind Effects in Hong Kong 2019 in\nDecember 2023 included:\n\n        (a)     Figures 2-1 and 2-2 – Revision on the condition required to carry out wind\n              tunnel test;\n\n        (b)    Table 4-1, Appendix A2 and Figure B3-1 – Textual refinement; and\n\n        (c)    Figure 5-2 and Appendix C1 – Elaboration on calculation of size factor.\n\n\n\n\n\n                                                                  - 2 -"
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Amendments to the Code of Practice on Wind Effects in Hong Kong 2019\n\n     Item                         Current version                                   Amendments"
+    },
+    {
+      "id": "p1-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "1.  Figure 2-1\n\n\n\n                                                                             H  ≤200m,"
+    },
+    {
+      "id": "p2-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "2.  Figure 2-2\n\n\n\n\n\n                                                                                                                                usual shape 1and no"
+    },
+    {
+      "id": "p3-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "3.  Table 4-1        (d)  Where there are significant steps in building form, i.e.  (d)  Where there are significant steps in building form,  i.e.\n                      podiums, the height rules for tower and podium in Figure      podiums, the height rules for tower and podium in Figure\n                          4.6(a) and Figure 4.6(b) should be followed.                   14.5(a) and Figure 14.5(b) should be followed.\n\n\n\n\n                                                                                                         - 3 -"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Item                         Current version                                   Amendments"
+    },
+    {
+      "id": "p4-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "4.  Figure 5-2"
+    },
+    {
+      "id": "p5-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "5. Appendix A2   Figure A2-3 can be used to determine the most and the second  Figure A2-3 can be used to determine the most and the second\n                 most obstructing buildings. The largest and the second largest  most obstructing buildings  1(i.e. the largest and the second\n                   Hd. Ze are taken as the following:                                largest Hd). Ze are taken as the following:\n\n\n\n\n\n                                                                                                         - 4 -"
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Item                         Current version                                   Amendments"
+    },
+    {
+      "id": "p6-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "6.  Figure B3-1\n\n                                                                                                 1\n\n                                                                                                                  h"
+    },
+    {
+      "id": "p7-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "7. Appendix C1\n\n\n\n\n\n                                                                                                         - 5 -"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Appendix B\n                                                                             (PNAP APP-139)\n\n\n\n           Amendments to the Explanatory Notes to\n       the Code of Practice on Wind Effects in Hong Kong 2019\n                      (December 2023)\n\n\n\n\n\nLegends:\n     Amended\n      Deleted\n\n\n\n\n(12/2023)\n\n\n                                                                               - 1 -"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Amendments to the Explanatory Notes to the Code of Practice on Wind Effects\nin Hong Kong 2019 in December 2023 included:\n\n        (a)    Clause  2.2.3 – Addition of  guidelines  for determination of fundamental\n             frequency for assessing across wind effects;\n\n        (b)    Clause 2.5 – Addition of design net pressure for hoarding and covered walkway\n               associated with construction site; and\n\n        (c)    Clause 4.3.1, Clause 6.4, Figure B-1, Appendices C2 and E3.1 – Textual\n              refinement.\n\n\n\n\n\n                                                                  - 2 -"
+    },
+    {
+      "id": "page-11-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        11
+      ],
+      "text": "Amendments to the Explanatory Notes to the Code of Practice on Wind Effects in Hong Kong 2019\n\n    Item                        Current version                                    Amendments"
+    },
+    {
+      "id": "p1-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "1. Clause     Last paragraph –                                               Last paragraph –\n    2.2.3      According  to a parametric study with selected parameters,  According  to  a  parametric  study with  selected  parameters,\n              assuming natural periods of      in both directions, for buildings  assuming natural periods of      in both directions, for buildings\n             which satisfy                      and           the along-  which  satisfy                         and              the             wind base moment is always𝐻𝐻/46larger than the across-wind base  along-wind base moment is𝐻𝐻/46always larger than the across-wind            moment in the𝐻𝐻/𝑚𝑚𝑚𝑚𝑚𝑚(𝐵𝐵,𝐷𝐷)<5,same direction,𝐻𝐻<100meven with consideration𝑁𝑁>0.5Hz,  of some  base moment in𝐻𝐻/𝑚𝑚𝑚𝑚𝑚𝑚(𝐵𝐵,𝐷𝐷)<5,the same direction,𝐻𝐻<100meven with consideration𝑁𝑁>0.5Hz,   of\n                 level of uncertainty on the period estimation. Therefore checking  some level of uncertainty on the period estimation. Therefore\n                of the across-wind base moment is not required when these  checking of the across-wind base moment is not required when\n                conditions are met.                                              these conditions are met.\n\n                                                                        For multiple towers over a common podium, the fundamental\n                                                                          frequency for estimation of across wind effects could be assessed\n                                                                  by either one of the following assumptions:\n                                                                                          (a) assuming individual tower standing alone and extended to the\n                                                                                  building base without connecting to the podium;\n\n\n\n                                                                                                    Tower\n\n\n\n\n                                                                                                   Podium\n\n\n\n\n\n                                                                                                         - 3 -"
+    },
+    {
+      "id": "page-12",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        12
+      ],
+      "text": "Item                        Current version                                    Amendments\n\n                                                                                 (b) assuming individual tower integrated with the portion of the\n                                                                podium measured from structural wall/column edge of the\n                                                                      modelled tower by not exceeding the minimum of 20m, three\n                                                                        bays of the podium structure, and the middle line between the\n                                                                      modelled tower and its nearby tower, subject to no substantial\n                                                                         openings in floor slabs of the integrated portion of the podium.\n                                                               The  effect  of those  floor openings might be considered\n                                                                                   separately; or\n                                                                                     (c) assuming individual tower integrated with the portion of the\n                                                                podium  in  conformity  with  the  recognised  engineering\n                                                                                   principles and engineering practices.\n\n                                                                                Alternatively, if an integrated computer model of the towers and\n                                                             podium was set up, the dominant fundamental frequency of the\n                                                        mode of vibration mainly aligned with the across-wind direction\n                                                                           of the respective towers obtained from the computer analysis\n                                                                      could be adopted based on engineering justification.\n\n                                                                    For cases where the tributary extent could not be clearly defined\n                                                                     based on the above-mentioned criteria (b), an integrated computer\n                                                               model with all the towers and podium might be used to obtain the\n                                                                  dominant fundamental frequency of the respective towers.\n\n\n\n\n\n                                                                                                   - 4 -"
+    },
+    {
+      "id": "page-13-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        13
+      ],
+      "text": "Item                        Current version                                    Amendments"
+    },
+    {
+      "id": "p2-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "2. Clause    End of 2nd paragraph –                                 End of 2nd paragraph –\n    2.5        For designing hoarding and covered walkway associated with  For designing hoarding and covered walkway associated with\n                construction site, contractor shed, bamboo shed, tent or marquee  construction site, contractor shed, bamboo shed, tent or marquee\n                 that are not for residential use, wind pressures of not less than 37  that are not for residential use, wind pressures of not less than 37\n               per cent of the pressures given in the Code should be used.       per cent of the pressures given in the Code should be used. In\n                                                                                       particular for hoarding and covered walkway associated with\n                                                                                construction site, the design net pressure in Table 2-1 may be used.\n\n                                                                                         Table 2-1 Design net pressure for hoarding and covered walkway\n                                                                                                associated with construction site\n                                                                                                  Height above ground     Design Net Pressure (kPa)\n                                                                                                                               level, Z(m)               (all-inclusive value)\n                                                                                       ≤ 2.5                       0.63\n                                                                                                 5                        0.70\n                                                                                                10                        0.77\n                                                                                           Notes:\n                                                                                                           (a) For intermediate values of height, linear interpolation is permitted.\n                                                                                                      (b) Cp and Ss have been included.\n                                                                                                           (c) Beneficial effect due to self-weight of steel members may be considered.\n                                                                                                      (d) Topography factor should be considered in location where local topography\n                                                                        may adversely affect wind effect."
+    },
+    {
+      "id": "p3-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "3. Clause     Last paragraph –                                               Last paragraph –\n    4.3.1      However, the accidental dominant open scenario is out of scope  However,  the  accidental dominant open  scenario  is 1not a\n                of this Code, as discussed in Appendix B1.3.                  compulsory requirement of this Code, as discussed in Appendix\n                                                                             B1.3."
+    },
+    {
+      "id": "p4-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "4. Clause     Last sentence of 2nd paragraph –                                Last sentence of 2nd paragraph –\n    6.4           If a building removal investigation is not carried out, then the   If a building removal investigation is not carried out, then the\n                 shelter benefit is limited to 80% of the along-wind value in  shelter benefit is limited to 80% of the 1loads of the Standard\n              accordance with the Code.                                 Method. The comparison should be in the form of total base\n                                                                    moments.\n\n\n\n                                                                                                         - 5 -"
+    },
+    {
+      "id": "page-14-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        14
+      ],
+      "text": "Item                        Current version                                    Amendments"
+    },
+    {
+      "id": "p5-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "5.  Figure     Top left figure –                                       Top left figure –\n   B-1"
+    },
+    {
+      "id": "p6-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "6. Appendix   2nd paragraph –                                                    2nd paragraph –\n   C2         Outlying high damping value was recorded for a 200m building  Outlying high damping value was recorded for a 1250m building\n             which was cubic.                                        which was cubic."
+    },
+    {
+      "id": "p7-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "7. Appendix  The critical torsional load cases can be obtained by the following  The critical torsional load cases can be obtained by the following\n   E3.1       procedures:                                                    procedures:\n                 1.   For  each  tower,  the  loads on  individual  towers  are  1.   For each tower, the loads on individual towers are calculated\n                     calculated following the Code as shown in Figure E-7(a),       following the Code as shown in Figure E-7(a), (b) 1, (c) and\n                      (b) and (c).                                                               (d).\n                 2.   Obtain the eight translational governed loads according to  2.   Obtain the eight translational governed loads according to\n                    Section E2.  In each subzones defined in Figure E-5, the       Section E2.   In each subzones defined in Figure E-5, the\n                      resultant  force   (Flateral-i)  can  be  calculated by  vector        resultant  force   (Flateral-i)  can  be  calculated  by  vector\n                  summation.  For example, Flateral-1 is the resultant force by      summation.  For example, Flateral-1 is the resultant force by\n                         F1-1, F2-1 and F3-1, as shown in Figure E-7(d).                          F1-1, F2-1 1, F3-1 and F4-1, as shown in Figure E-7 1(e).\n                 3.   For each Flateral-i, the maximum projecting diagonal breadth  3.   For each Flateral-i, the maximum projecting diagonal breadth\n                    Bi can be identified as shown in Figure E-7(e).                   Bi can be identified as shown in Figure E-7 1(f).\n\n\n\n\n\n                                                                                                         - 6 -"
+    },
+    {
+      "id": "page-15",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        15
+      ],
+      "text": "Appendix C\n                                                 (PNAP APP-139)\n\n Essential Information in Wind Tunnel Testing Methodology Proposal\n\n\n     Typical Items                        Essential Information\n\n        General            (a)  Name and location of wind tunnel test laboratory.\n\n                               (a)  Site location;\n                             (b)  Plan of building including geometry, elevations with\n                                  floor levels;       General                               (c)  Ratios of H/B and H/D of building and frequency       (See clause 6.1.1                         modes to be considered; and      and 6.1.2)                             (d)  Scope of the wind tunnel test, e.g. determination of\n                           wind load, acceleration, pressure for cladding/curtain\n                                wall/building elements and others.\n\n                               (a)  Scale, extent and material(s) of model;      Topographic                             (b)  Blockage ratio;      Model                               (c)  Approaching wind profiles including mean wind speed       (See clause 6.1.3,                            and turbulence intensity profile; and       6.1.5 and 6.1.6)                             (d)  Number of wind directions and their intervals.     Instrumentation\n                               (a)  Scale and extent of model;\n and                             (b)  Source of information of surrounding buildings;\n                               (c)  Material(s)  of  model  (including  proposed  and       Proximity Model                              surrounding buildings);       (See clause 6.1.3,                             (d)  Reynolds number and blockage ratio;   Modelling   6.1.4, 6.1.5 and                               (e)  Number of wind directions and their intervals;        6.1.6)                                  (f)  Matching height of peak gust pressure;\n                             (g)  Topographic multiplier; and\n                             (h)  Matching peak gust pressure of the 2019 Code.\n\n                               (a)  Method of measurement;\n                             (b)  Data   sampling   frequency   and   length,   and\n       Instrumentation          full-scale-equivalent duration;\n       (See clause 6.1.1    (c)  Number and density of pressure taps (if applicable);\n      and 6.3)               and\n                             (d)  Additional requirements (if any).\n\n                               (a)  Source of wind climate data;\n                             (b)  Directionality factors (if applicable); and        DirectionalityWind                           (c)  Analysis technique, i.e. Sector Method, Up-crossing      Climate       (See clause 6.5.2)                            Method, Storm Passage Method or other methods.\n\n\n\n\n\n                                                             - 1 -"
+    },
+    {
+      "id": "page-16",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        16
+      ],
+      "text": "Typical Items                        Essential Information\n\n\n                               (a)  Existing configuration; and       Testing                             (b)  Removal  configuration  with  applied  principle  for       Configurations                                building removal, and  total number  of  buildings/Testing       (See clause 6.4)                                building lots to be removed.             Configurations\n\n                               (a)  Theoretical background, e.g. dynamic modal analysis/\n       Theoretical           random vibration theory, pressure integration method,\n      Background            design peak cladding pressure determination and peak\n                                building acceleration assessment.\n\n      Load                 (a)  Background for determination of load combination\n      Combination             factors with proposed number of load cases; and     Post-Processing   (See clause 6.6)     (b)  Additional requirement (if any).\n      Load Distribution   (a)  Background for computation of vertical distribution of\n       (See clause 6.6)          storey wind loads.\n\n\n       Quality                               (a)  Details refer to Appendix D.       Assurance PlanQuality        Assurance\n\nRemark:  Reference clauses of the Code of Practice on Wind Effects in Hong Kong 2019 are\n        shown in brackets.\n\n\n\n\n\n(12/2023)\n\n\n\n\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-17-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        17
+      ],
+      "text": "Appendix D\n                                                 (PNAP APP-139)\n\nEssential Information in Quality Assurance Plan for Wind Tunnel Test\n\n\n       Typical Items                        Essential Information"
+    },
+    {
+      "id": "p1-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [],
+      "text": "1.  Wind Tunnel Models      (a)  Procedures  on  fabrication  and  checking  of\n                                   model(s);\n                                 (b)  Limitations of the modelling, testing and analysis\n                                   techniques and tolerances; and\n                                   (c)  Procedures including inspection and endorsement\n                              by RSE (with flowchart)."
+    },
+    {
+      "id": "p2-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [],
+      "text": "2.  Instrumentation for        (a)  Details and time intervals of calibration of device/\n    Wind Tunnel Testing          apparatus for the test; and\n                                 (b)  Checking   on   the   proper   operation   of\n                                    device/apparatus including generation of the wind\n                                       profile before commencement of and during the\n                                             test."
+    },
+    {
+      "id": "p3-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [],
+      "text": "3.  Data Analysis/             (a)  Checking of accuracy and consistency of input and\n     Reporting                    output data of the computer software by sample\n                                      calculations;\n                                 (b)  Procedures for verification of the test results and\n                                measures to minimise errors/irregularities in the\n                                           test results;\n                                   (c)  Reporting system and follow-up actions such as\n                                       re-testing for irregularities noted;\n                                 (d)  Proper recording system for all details of the test,\n                                   including photographic records of the wind tunnel\n                                           test setup, model and test apparatus; and\n                                   (e)  Procedures  on   preparation,   checking  and\n                                endorsement of test reports."
+    },
+    {
+      "id": "p4-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [],
+      "text": "4.  Supervision                (a)  Details, including names and posts, of supervisory\n                                   personnel in-charge of each stage;\n                                 (b)  Monitoring and frequency of checking during the\n                                  course of the test, analysis and reporting; and\n                                   (c)  Name of the independent engineer serving as the\n                             RSE’s representative.\n\n\n\n\n(12/2023)"
+    }
+  ]
+}

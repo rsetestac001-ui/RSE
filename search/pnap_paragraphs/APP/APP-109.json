@@ -1,0 +1,285 @@
+{
+  "code": "APP-109",
+  "source_text": "indexed_text/PNAP/APP/APP-109.txt",
+  "source_pdf": "documents/PNAP/APP/APP-109.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n                                                       APP-109Persons, Registered Structural Engineers and Registered Geotechnical Engineers\n\n                                Practice Note for Authorized Persons Buildings Department                                                234\n                          and Registered Structural Engineers\n\n\n\n\n                         Geotechnical Manual for Slopes\n                  Guidance on Interpretation and Updating\n\n\n         Government publications of interest to the building industry are promulgated\n in the list of publications in PNAP 115, among which is the Geotechnical Manual for\n Slopes."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.      The Geotechnical Manual for Slopes provides guidance on the standards of\n good practice that should be adopted for the investigation, design, construction and\n maintenance of slopes and site formation works in Hong Kong.  The first edition of\n the Manual was published in draft form in November 1979 and the second edition was\n published in May 1984."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.      Over the years since its publication, the second edition of the Manual has\n become  the consensus guidance document  in  the  areas  of  investigation, design,\n construction and maintenance of slopes and site formation works.  However, there\n have also been advances in local practice, and separate guidance documents have been\n prepared to supplement the Manual.  These have made some parts of the Manual\n obsolete and more guidance is needed on the interpretation of the Manual.   It is the\n purpose of this practice note to provide such guidance, which is given in Appendix A\n of this practice note.\n\n\n\n\n\n                                         (CHOI Yu-leuk)\n                                                    Building Authority\n\n\n\n\n\n Ref. : BD GR/GEO/11(III)\n\n First issue June 1999 (AD/SE, AD(G)/HKI)\n\n Index under : Geotechnical Manual for Slopes"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "Appendix A\n                                                    (PNAP 234)\n                                                          (APP-109)\n\n             GUIDANCE ON INTERPRETATION OF\n            GEOTECHNICAL MANUAL FOR SLOPES"
+    },
+    {
+      "id": "p1-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "1.        This Appendix provides guidance on, and clarification of, the interpretation\n           of some aspects of the Geotechnical Manual for Slopes (2nd Edition)."
+    },
+    {
+      "id": "p2-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "2.     TERMINOLOGY\n\n2.1.     The use of the term “risk” in the Geotechnical Manual for Slopes (Manual)\n            to mean  “consequence  in  the  event  of  failure”  has  led  to  some\n          misunderstanding.  For this reason, the term “risk” shall be replaced by\n          “consequence”. This is consistent with international usage. The two types\n           of consequence classification of slope failure given in Tables 5.2 and 5.3 of\n           the Manual shall be referred to as “consequence-to-life” and “economic\n          consequence” respectively.\n\n2.2.     The descriptive terms “high”, “low” and “negligible” are intended to\n            reflect the likely relative severity of the failure consequence, but these have\n           also resulted in misconceptions.  To avoid possible confusion, the three\n           categories of consequence-to-life shall be denoted as Categories 1, 2 and 3\n           respectively instead of “high”, “low” and “negligible”.  For the same\n           reason, a new system is also adopted to denote the different categories of\n         economic consequence.  The three categories of economic consequence\n            shall be denoted as Categories “A”, “B” and “C” respectively instead of\n          “high”, “low” and “negligible”.\n\n2.3.    A combined notation shall now be used to indicate both the consequence-\n             to-life and  the economic consequence  of a  feature.   For example, a\n          Category 2A feature refers to one having the second highest consequence-\n             to-life  and  the  highest  economic  consequence  in  the new  three-tier\n            classification system."
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "3.      CONSEQUENCE-TO-LIFE CATEGORIES\n\n3.1.     The recommended minimum safety factors for slopes given in Tables 5.1\n         and  5.4  of  the  Manual  are  related  to  assessed  consequence-to-life\n           categories.  Because of the change in terminologies (see section 2), these\n          Tables shall be replaced by Tables 1 and 2 in this Appendix respectively.\n         The consequence-to-life category reflects the severity in terms of loss of\n              life in the event of failure.  Table 5.2 of the Manual, which gives typical\n          examples of each consequence-to-life category, shall be replaced by Table\n         3 in this Appendix.\n\n\n\n                                                     - 1 -"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "3.2.       In determining the consequence-to-life category of a slope, the designer\n          should use his own professional judgement in assessing the “severity in\n          terms of loss of life in the event of failure” in each particular case, giving\n         due consideration  to the types of buildings and  facilities  that may be\n           threatened, and how the buildings and facilities would be affected in the\n          event of slope  failure.   In assessing the  effects of a slope  failure on\n           buildings and facilities, account should be taken of such factors as possible\n         mechanisms and scale of failure, site conditions, proximity of the buildings\n         and  facilities  to  the slope and  their  likely  density  of occupation and\n          frequency of usage in the event of failure, travel distance of the landslip\n           debris,  resistance of  the  buildings and  facilities  to  debris impact and\n           vulnerability of occupants and users.\n\n3.3.      Examples (1) and (2) of Table 3 refer to situations where the buildings or\n             facilities lie within the expected travel distance of the landslip debris, and\n          hence the severity in terms of loss of life is high, and the consequence-to-\n              life category is “1”.  No examples are given in the Table on situations\n         where the buildings or facilities are located further away from the slopes.\n          Following the consequence-to-life definition given in the Manual, where\n           the buildings or facilities lie beyond the expected travel distance of the\n           debris and the severity in terms of loss of life in the event of failure is less,\n           the consequence-to-life category may be downgraded to “2”.  Where the\n           buildings or  facilities  lie beyond the possible extreme limit of landslip\n           debris, the consequence-to-life category may be taken as “3”.  Similar\n           considerations apply to buildings and  facilities located behind the slope\n            crest with respect to the expected and the possible extreme limits of the\n           area affected by the landslip.\n\n3.4.       In consequence-to-life classification for the purposes of slope design and\n             stability assessment, bus shelters or similar sheltered public waiting areas\n            shall be regarded as occupied buildings (example 1 in Table 3)."
+    },
+    {
+      "id": "p4-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "4.     ECONOMIC CONSEQUENCE CATEGORIES\n\n4.1.      Table 5.3 of the Manual, which gives typical examples of each economic\n          consequence category, shall be replaced by Table 4 in this Appendix.\n\n4.2.      Although Table 1 recommends the minimum safety factors for slopes for\n            different economic consequences,  the  choice  of  safety  factors  against\n         economic loss is a decision which must be made by the owner upon the\n          advice of the designer.  In advising the owners, the designer should decide\n           for himself the degree of economic consequence and should balance the\n            potential economic consequence  in  the event  of a  failure  against  the\n           increased construction costs required to achieve a higher factor of safety.\n\n\n\n\n\n                                                     - 2 -"
+    },
+    {
+      "id": "p5-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "5.      SAFETY FACTORS FOR EXISTING SLOPES\n\n5.1.     The minimum safety factors recommended in Table 2 may be used for the\n             stability assessment of and design of modifications to any existing slope\n         which is associated with new works, as long as rigorous geological and\n           geotechnical investigations are conducted (which should include a thorough\n          examination of slope maintenance history, groundwater records, rainfall\n          records  and  any  slope  monitoring  records)  and  there  is  sufficient\n         knowledge of the geology, groundwater and performance history of the\n           slope. Under these conditions, Table 2 can be used for stability assessment\n           for known changes in imposed loadings, and for the design of remedial or\n           preventive works, including slope flattening, improvements to surface and\n          subsurface drainage, and the installation of support measures.\n\n5.2.     As Section 5.2.2 of the Manual indicates, the designer is able to adopt with\n          confidence a lower factor of safety for an existing slope because he has the\n           benefit  of  the performance  history and  other  information  that  is  not\n           available for the design of a new slope.  This does not imply that the\n           standards of safety deemed to be acceptable for existing slopes are lower\n           than those recommended for new slopes. Reference should be made to the\n           attached  note  (see Annex 1  of  this Appendix) on  discussion  of  the\n          philosophy of  this approach by Malone (1985).   There  will often be\n           instances, however, where  particular  circumstances  (such  as  lack  of\n          adequate groundwater and rainfall records) will lead the designer to adopt,\n           for remedial and preventive works, the standards specified for new slopes."
+    },
+    {
+      "id": "p6-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "6.      SAFETY FACTORS FOR TEMPORARY WORKS\n\n6.1.       Section 5.2.4 of the Manual shall be replaced by the following.\n\n6.2.     The safety factors required for the design of temporary works (i.e. works\n          undertaken during construction which are not part of the permanent works)\n            shall be the same as those for permanent new works (Table 1), but with\n         due regard for the conditions which are likely to exist during the life of the\n          temporary works.  In some cases, for example, the consequence-to-life\n          category during construction may be classified as “2” or “3”, compared\n          with consequence-to-life category “1” once the buildings are completed and\n          occupied."
+    },
+    {
+      "id": "p7-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "7.      RELIABILITY OF SLOPE DESIGN\n\n7.1.     The reliability of slope design is discussed in Section 5.3.6 of the Manual\n         and should be considered in deciding on the minimum safety factor to be\n          adopted.\n\n\n\n\n\n                                                     - 3 -"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "7.2.       Different design solutions, e.g. open-cuttings and cuttings with structural\n           support, have different levels of uncertainties associated with the various\n         components of investigation, design and construction.  They will have\n            different reliability indices (hence different levels of safety) even  if the\n           assessed factor of safety  is the same.   In order to have a meaningful\n          comparison of options, a higher minimum safety factor needs to be adopted\n           for the solution with a lower reliability index than the solution with a\n          higher index."
+    },
+    {
+      "id": "p8-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "8.      COMPACTION OF NEW FILL SLOPES\n\n8.1.     The design and construction of new  fill slopes are governed by sections\n          5.5.1 and 9.5 of the Manual respectively.  It should be noted that in some\n           exceptional cases, such as fill forming a large platform that will not support\n            structures, the requirement for a compacted density of 95% of maximum\n          dry density (GEO, 1996b) can be relaxed to 90% for the interior of the\n           platform.  This may be done provided that the fill at formation level and\n           the fill forming the peripheral slopes is compacted to 95% of maximum dry\n           density  for a  vertical  thickness  of  at  least 1.5 metres and 3 metres\n           respectively. Please note that Figure 9.1 of the Manual illustrates only one\n           of many configurations which can be adopted.  In any case,  it is good\n          engineering  practice  to provide adequate subsurface drainage  to avoid\n           build-up  of groundwater  pressure  at  the  rear  of  the  less permeable\n           peripheral slopes.\n\n8.2.        Fill in reclamations, or behind retaining structures and in other small areas\n           of flat land, does not generally need to meet compaction requirements for\n           slope stability reasons.   It is therefore for the designer to determine the\n          compaction requirements based on other criteria."
+    },
+    {
+      "id": "p9-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 299
+        },
+        {
+          "label": "b",
+          "offset": 370
+        }
+      ],
+      "text": "9.     TREATMENT OF EXISTING FILL SLOPES\n\n9.1.       Section 5.5.2 of the Manual defines the standard treatment of existing loose\n                fill slopes by recompaction of the surface  fill to a vertical depth of 3\n          metres. This treatment does not need to be prescribed, however, if :\n\n            (a)  a fill slope is of consequence-to-life category “3”,\n\n            (b)  the fill slope is judged to be too small to pose a significant hazard, or\n\n               (Note. The size of a fill slope which may be regarded as “too small to\n               pose a significant hazard” would depend on the distance to and the\n                type of the facilities being affected, the topography of the ground\n              below  the  slope,  the  liquefaction  potential of  the  fill body,  etc.\n                Professional judgement should be exercised in individual cases in\n               determining the size of a  fill slope which could be considered as\n                such.)\n\n\n\n\n                                                     - 4 -"
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "(c)  the fill slope has a cover of mature vegetation which is beneficial to\n                the stability of the slope, and where there is a reasonable alternative\n               engineering solution.\n\n9.2.      Reference should be made to the Report on the Slope Failures at Sau Mau\n          Ping (Government of Hong Kong, 1977) for background on the standard\n           treatment of existing fill slopes as recommended in the Manual."
+    },
+    {
+      "id": "p10-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 176
+        },
+        {
+          "label": "b",
+          "offset": 317
+        },
+        {
+          "label": "c",
+          "offset": 444
+        },
+        {
+          "label": "d",
+          "offset": 547
+        },
+        {
+          "label": "e",
+          "offset": 871
+        },
+        {
+          "label": "f",
+          "offset": 940
+        },
+        {
+          "label": "g",
+          "offset": 1134
+        }
+      ],
+      "text": "10.     SUPERSEDED CHAPTERS/SECTIONS\n\n10.1.    The following Chapters/Sections of the Manual are no longer applicable,\n          having been superseded by later publications :\n\n            (a) Chapter 1 and Section 2.3.3 are superseded by the Geological Survey\n           Maps and Memoirs and Geoguide 3 (GCO, 1988).\n\n            (b) Chapter 2 (except Section 2.3.3), Section 3.5 and 10.2 are superseded\n             by Geoguide 2 (GCO, 1987).\n\n            (c)  Section  4.6  is superseded by GEO  Publication No. 1/93 (GEO,\n              1993a).\n\n            (d) Chapter 7 (except the parts relevant to the design of remedial or\n               preventive works to existing gravity retaining walls as given in Section\n               7.3.3) is superseded by Geoguide 1 (GEO, 1993b), GCO Publication\n            No. 1/90 (GCO, 1990) and GEO Circular No. 6/96 (GEO, 1996a).\n\n            (e) Chapter 11 is superseded by Geoguide 5 (GEO, 1998).\n\n              (f)  References to BS 1377:1975 concerning Phase 1 tests described in\n            Works Branch Technical Circular 6/94 are replaced by GEO Report\n            No. 36 (GEO, 1996b).\n\n            (g) “The Hong Kong Bibliography” referred  to  in the Manual  is the\n              Bibliography on Geology and Geotechnical Engineering of Hong Kong\n              (Brand, 1984).  This has been superseded by GEO Report No. 50\n           (GEO, 1996c)."
+    },
+    {
+      "id": "p11-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 35
+        },
+        {
+          "label": "b",
+          "offset": 201
+        },
+        {
+          "label": "c",
+          "offset": 364
+        }
+      ],
+      "text": "11.      LIST OF RELATED DOCUMENTS\n\n            (a)  Geotechnical Control Office (1984).  Geotechnical Manual for Slopes.\n              (Second Edition). Geotechnical Control Office, Hong Kong, 295 p.\n\n            (b) Geotechnical  Control  Office  (1987).   Guide  to  Site  Investigation\n             (Geoguide 2). Geotechnical Control Office, Hong Kong, 359 p.\n\n            (c)  Geotechnical  Control  Office  (1988).   Guide  to Rock  and  Soil\n               Descriptions (Geoguide 3).  Geotechnical Control Office, Hong Kong,\n             186 p.\n\n\n                                                     - 5 -"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "(d) Geotechnical Control Office (1990).  Review of Design Methods for\n    Excavations (GCO  Publication No.  1/90).   Geotechnical  Control\n    Office, Hong Kong, 192 p.\n\n(e)  Geotechnical Engineering Office (1993a).  Review of Granular and\n    Geotextile  Filters (GEO  Publication  No.  1/93).    Geotechnical\n    Engineering Office, Hong Kong, 131 p.\n\n(f)  Geotechnical Engineering Office (1993b).  Guide to Retaining Wall\n    Design (Geoguide 1).  (Second Edition).  Geotechnical Engineering\n    Office, Hong Kong, 258 p.\n\n(g) Geotechnical Engineering Office (1995b).  Recommendations Arising\n    from the Review of the Risk-to-life Categorisation System of the GCO\n    (1984).  Geotechnical Engineering Office, Hong Kong, GCC Paper\n   No. 295.\n\n(h) Geotechnical Engineering Office (1996a).  Guidelines for Assessment\n    of Old Masonry Retaining Walls in Detailed Studies and for Action to\n    be Taken on Private Walls.  Geotechnical Engineering Office, Hong\n    Kong, GEO Circular No. 6/96.\n\n(i)  Geotechnical Engineering Office (1996b). Methods of Test for Soils in\n   Hong Kong for Civil Engineering Purpose (Phase 1 Tests) (GEO\n    Report No. 36). Geotechnical Engineering Office, Hong Kong, 90 p.\n\n(j)  Geotechnical  Engineering  Office  (1996c).    Bibliography  on  the\n    Geology and Geotechnical Engineering of Hong Kong to March 1996\n   (GEO Report No. 50).  Geotechnical Engineering Office, Hong Kong,\n    111 p.\n\n(k) Geotechnical Engineering Office (1997).  Control of Compaction of\n   New Fill Slopes.  Geotechnical Engineering Office, Hong Kong, GEO\n    Circular No. 5.\n\n(l)  Geotechnical Engineering Office (1998). Guide to Slope Maintenance\n    (Geoguide 5).  (Second Edition).  Geotechnical Engineering Office,\n   Hong Kong, 91 p.\n\n(m) Government of Hong Kong (1977).  Report on the Slope Failures at\n    Sau Mau Ping, August 1976. Hong Kong Government Printer, 104 p.\n    plus 8 drgs.\n\n(n) Malone, A.W. (1985).  Factor of Safety and Reliability of Design of\n    Cuttings  in Hong Kong  (Oral  Discussion).   Proceedings  of  the\n    Eleventh International Conference on Soil Mechanics and Foundation\n    Engineering, San Francisco, vol. 5, pp 2647.\n\n(o) Works Branch (1994).  Soil Testing Standard (Phase 1 Tests). Works\n    Branch Technical Circular No. 6/94.\n\n                                       - 6 -"
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Table 1  -  Recommended Minimum Factors of Safety for New Slopes for a Ten-year Return\n            Period Rainfall\n\n\n      CONSEQUENCE-TO-LIFE\n\n\n                                          Category 1      Category 2      Category 3\n\n\n ECONOMIC CONSEQUENCE\n\n\n              Category A                      1.4             1.4             1.4\n\n\n\n\n               Category B                      1.4             1.2             1.2\n\n\n\n              Category C                      1.4             1.2            >1.0\n\n\n\n\n Notes :  (1)     In addition to a minimum factor of safety of 1.4 for a ten-year return period\n                     rainfall, a slope in the consequence-to-life category 1 should have a factor\n                  of safety of at least 1.1 for the predicted worst groundwater conditions.\n\n           (2)    The factors of safety given in this Table are recommended minimum values.\n                Higher  factors of safety might be warranted  in  particular  situations  in\n                   respect of loss of life and economic loss.\n\n\n\n\n\n                                                     - 7 -"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Table 2  -  Recommended Minimum  Factors  of  Safety  for  the  Stability Assessment  of\n            Existing Slopes and for Design of Remedial or Preventive Works to Slopes for a\n           Ten-year Return Period Rainfall\n\n\n\n            Consequence-to-life              Category 1     Category 2      Category 3\n\n\n\n\n    Recommended Minimum Factor of\n      Safety Against Loss of Life for a            1.2             1.1            >1.0\n      Ten-year Return Period Rainfall\n\n\n\n    Notes:   (1)  These factors of safety are appropriate only where rigorous geological and\n                  geotechnical  studies have been  carried  out, where  the slope has been\n                  standing for a considerable time, and where the loading conditions, the\n                 groundwater regime and the basic form of the modified slope remain\n                    substantially the same as those of the existing slope.\n\n               (2)  The  factors of  safety given  in  this Table are recommended minimum\n                   values. Higher factors of safety might be warranted in particular situations\n                    in respect of loss of life and economic loss.\n\n               (3)  Should the back-analysis approach be adopted for the design of remedial or\n                  preventive works, it may be assumed that the existing slope had a minimum\n                    factor of  safety of 1.0 for the worst known loading and groundwater\n                   conditions.\n\n               (4)  For a failed or distressed slope, the causes of the failure or distress must be\n                    specifically identified and taken into account in the design of the remedial\n                works.\n\n\n\n\n\n                                                     - 8 -"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Table 3 - Typical Examples of Slope Failures in Each Consequence-to-life Category\n\n\n\n                                      CONSEQUENCE-TO-LIFE+\n\n          EXAMPLES\n                                            Category 1*   Category 2*   Category 3*\n\n\n(1) Failures  affecting  occupied  buildings\n    (e.g.       residential,       educational,\n                                commercial or industrial buildings, bus\n     shelters×#, railway platforms).\n\n(2) Failures   affecting   buildings   storing\n                                dangerous goods.\n\n(3) Failures  affecting  heavily  used  open\n    spaces and  recreational  facilities  (e.g.             \n     sitting-out   areas,   playgrounds,   car\n    parks).\n\n(4) Failures   affecting   roads   with   high\n                                         vehicular or pedestrian traffic density.\n\n(5) Failures  affecting  public  waiting  areas\n                                         (e.g. bus stops#, petrol stations).\n\n(6) Failures  affecting  country  parks  and\n                                                  lightly used open-air recreation areas.\n\n(7) Failures affecting roads with low traffic\n                                                 density.\n\n(8) Failures  affecting  storage  compounds\n                                                 (non-dangerous goods).\n\n\n×  Item added in 1995 to clarify the intention of the consequence categories.\n+  Prior to March 1996, \"Consequence-to-life\" was referred to as \"Risk-to-life\".\n*   Prior to March 1996, \"Category 1\", \"Category 2\" and \"Category 3\" were referred to as\n    \"High\", \"Low\" and \"Negligible\" respectively.\n#   In the context of this Table, bus shelters are those with a cover that shelters people\n    waiting there from direct sunlight or rainfall, while bus stops are those without such a\n    cover.\n\n\n\n\n\n                                                   - 9 -"
+    },
+    {
+      "id": "page-11",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        11
+      ],
+      "text": "Table 4 - Typical Examples of Slope Failures in Each Economic Consequence Category\n\n\n\n                                  ECONOMIC CONSEQUENCE+\n\n          EXAMPLES\n                                             Category A*   Category B*   Category C*\n\n\n(1)   Failures affecting buildings, which could\n                                   cause excessive structural damage.\n\n(2)   Failures affecting essential services#\n     which could cause loss of that service for    \n     an extended period.\n\n(3)   Failures affecting rural or urban trunk\n                                   roads or roads of strategic importance.\n\n(4)   Failures   affecting   essential   services#\n     which could cause loss of that service for\n                                           a short period.\n\n(5)   Failures affecting rural (A) or primary\n       distributor  roads  which  are  not  sole            \n      accesses.\n(6)   Failures affecting open-air car parks.                       \n(7)   Failures  affecting  rural  (B),  feeder,\n       district  distributor and  local  distributor                     \n      roads which are not sole accesses.\n(8)   Failures affecting country parks.                         \n\n\n+     Prior to March 1996, \"Economic Consequence\" was referred to as \"Economic Risk\".\n*      Prior to March 1996, \"Category A\", \"Category B\" and \"Category C\" were referred to\n       as \"High\", \"Low\" and \"Negligible\" respectively.\n#      Essential services are those that serve a  district and are with no or very inferior\n        alternatives. Examples are mass transit facilities and trunk utility services.\n\n\n\n\n\n                                                    - 10 -"
+    },
+    {
+      "id": "page-12",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        12
+      ],
+      "text": "ANNEX 1\n\n          FACTOR OF SAFETY AND RELIABILITY OF\n             DESIGN OF CUTTINGS IN HONG KONG\n             (ORAL DISCUSSION) BY MALONE (1985)\n\n          This contribution is about the stability factors of safety which are used in\nHong Kong in the design calculations for cuttings in the weathered mantle of slopes.\n\n         Most  landslides  in  cuttings  occur  during  intense  rainstorms,  hence\ngroundwater conditions assumed in stability calculations correspond to an extreme\nrainfall condition. Lower factors of safety are used when rarer rainfall conditions are\nassumed.  Factor of safety  is also tied to consequences of failure, the following\nminimum values being stipulated in the Geotechnical Manual for Slopes for the 10-\nyear return period rainfall case (Geotechnical Control Office, 1984):\n\n            1.4            high risk to life\n            1.2           low risk to life\n     > 1.0            negligible risk to life\n\n               It is understood that the value 1.4 was chosen as this value is often used for\nthe slopes of large earthfill dams.\n\n         The Geotechnical Manual for Slopes also makes some recommendations on\nthe stability calculation model to be employed and the method of measurement of the\ninput parameters for the calculation.  However,  this  falls short of the complete\nspecification that would be needed to guarantee a consistent standard of safety between\ncases with equal calculated values of factor of safety.  Alternatively, standard of safety\ncan be expressed as probability of failure, and this can, in principle, be calculated by\nregarding the parameters as random variables.   In considering the application of\nprobabilistic approaches to cutting design in Hong Kong conditions,  it is helpful to\nexamine the three principal sources of uncertainty  in the design calculation: the\nselection of trial slip surfaces, groundwater conditions and shear strength.\n\nSelection of Trial Slip Surfaces\n\n         Under Humid Subtropical climatic conditions igneous rock masses adjacent\nto the surface of slopes can weather to give a complex pattern of fresh corestones and\nmatrix  material  in various  states of decomposition.  The  simplification of such\ngeological complexity into a 2-D layered model, one surface of which represents a\nsloping “rockhead”, often results in trial slip surfaces being positioned unrealistically.\n\nSelection of Groundwater Conditions\n\n         The  phreatic  surface  corresponding  to  a  design  rainstorm  is  usually\nmodelled at a fixed head above this imaginary sloping “rockhead” surface, or above\nthe dry season phreatic surface if higher, without benefit of piezometric observations\nof storm response.\n\n           In reality a more complex hydrogeological system exists, better modelled\nas 2 or more interacting inclined aquifers (Geotechnical Control Office, 1982). Local\n                                                    - 11 -"
+    },
+    {
+      "id": "page-13",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        13
+      ],
+      "text": "geological effects like flow in natural pipes in steep slopes, or partial occlusion by\ndykes, can be important, as can local leakage from water services in steeply sloping\nurban areas. Hence design data ought to be obtained by extrapolation of measured\nseasonal and storm piezometric response within the aquifer of interest at the site of the\nproposed cutting.\n\nSelection of Shear Strength Parameters\n\n         The mass shear strength will depend on the disposition of core-stones, but\nit  is conventional to rely in design on laboratory measurements of matrix shear\nstrength. The shear strength of decomposed granite in particular will vary markedly\nwith the state of decomposition, which ought therefore to be quantitatively defined,\nbut rarely is. The consolidated undrained compression test with pore water pressure\nmeasurement is conventional, but this does not reproduce the stress path followed in\nan element of soil adjacent to a slip plane as failure is approached.\n\nExisting Slopes and More Reliable Design\n\n               It is in the analysis of existing slopes that practice in Hong Kong has come\nunder most  scrutiny, because  preventive works  are  often very  costly and very\ninconvenient.  It has been generally agreed that lower factors of safety may be adopted\nfor existing slopes, whilst maintaining the same adequately low probability of failure.\nThis can be achieved at the cost of greater reliability, as is well illustrated by the case\nhistory presented by Lambe in the First Terzaghi Oration (Lambe, 1985 fig. 21). The\nopportunity  to adopt lower  factors  of  safety  in Hong Kong has  recently been\nintroduced  for  the  analysis  of  existing  cuttings which have  withstood extreme\nrainstorms, in cases where values of the parameters in the calculation model are\nknown more reliably. Thus, for assessment of the stability of existing slopes, seasonal\nand storm piezometric response can be measured in the prototype, and storm seepage\nand runoff observed. The actual geology can be determined in inspection trenches.\nFoundations of adjacent structures can be examined, input geometry can be based on\ntopographic survey and soil densities can be measured in situ.\n\n         For design calculations which utilize this more reliable data a minimum\nfactor of safety of 1.2 is stipulated in the Geotechnical Manual for Slopes for the high\nrisk to life case.\n\nReferences\n\nGeotechnical  Control  Office  (1982).    Mid-levels  Study:  Report  on  Geology,\nHydrology and Soil Properties. Geotechnical Control Office, Hong Kong, 265 p. plus\n54 drgs.\n\nGeotechnical  Control  Office  (1984).   Geotechnical Manual  for  Slopes  (second\nedition). Geotechnical Control Office, Hong Kong, 295 p.\n\nLambe, T.W. (1985). The First Terzaghi Oration: Amuay landslides. Proceedings of\nthe 11th International Conference on Soil Mechanics and Foundation Engineering, San\nFrancisco, Golden Jubilee Volume, pp 137-158.\n\n(6/99)\n                                                    - 12 -"
+    }
+  ]
+}

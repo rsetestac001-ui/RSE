@@ -1,0 +1,36 @@
+{
+  "code": "APP-063",
+  "source_text": "indexed_text/PNAP/APP/APP-063.txt",
+  "source_pdf": "documents/PNAP/APP/APP-063.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-63\n                          Registered Geotechnical Engineers\n\n\n                              Geoguide 1\n                     Guide to Retaining Wall Design\n\n\n            The Geoguide 1 – Guide to Retaining Wall Design published by the\nGeotechnical Engineering Office recommends a standard of good practice for the design\nof permanent retaining walls in Hong Kong.   It covers common retaining walls including\nconventional reinforced concrete walls, gravity walls (such as crib walls, gabion walls\nand mass concrete walls) and cantilevered retaining walls."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The first edition of Geoguide 1 published in 1982 advocated limit state\nanalysis with global factors of safety.  The second edition published in 1993 has\nintroduced a major change in the design approach and recommends limit state analysis\nwith partial factors of safety.  This approach is more rational and can accommodate\nuncertainties in major parameters, thereby achieving more cost-effective designs in\ngeneral.  In addition, the second edition provides detailed guidance to the selection of\ngeotechnical parameters and groundwater pressures for design and to the interrelation\nbetween design and construction. A continuously updated version of the second edition\nof Geoguide 1 incorporating amendments  is available from the website of Civil\nEngineering and Development Department at www.cedd.gov.hk."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           Permanent retaining walls designed in their entirety in accordance with the\nstandards and provisions of the first edition or the second edition of Geoguide 1 will be\nacceptable to the Building Authority.  Designs based on a mixture of the guidance given\nin the two editions are not acceptable.  Design submissions must clearly state which\nedition of Geoguide 1 has been used.   It is strongly recommended that designs should\nbe based on the second edition rather than on the first edition.\n\n\n\n\n\n                                                               ( YU Tak-cheung )\n                                                Building Authority\n\n\n\nRef. : BD GP/BREG/C/8\n\nThis PNAP is previously known as PNAP 166\nFirst issue    August 1994\nLast revision  June 1995\nThis revision November 2020 (AD/NB2) (General revision)"
+    }
+  ]
+}

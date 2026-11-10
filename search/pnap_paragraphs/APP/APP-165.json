@@ -1,0 +1,94 @@
+{
+  "code": "APP-165",
+  "source_text": "indexed_text/PNAP/APP/APP-165.txt",
+  "source_pdf": "documents/PNAP/APP/APP-165.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department    Registered Structural Engineers and        APP-165\n                         Registered Geotechnical Engineers\n\n\n                        Product Certification System\n\nIntroduction\n\n              Product certification (PC) is a process in which a third party certification\nbody (CB), after undertaking the specified procedures, issues a certificate of conformity\n(CoC) (also known as product certificate) to a supplier confirming that its product satisfies\nthe requirements of a specified Product Conformity Certification Scheme (PCCS). PC can\nenhance the product quality through upstream control and ensure the consistency in\nproduction quality through continuous surveillance of production process in the factory.\nThere are various PCCSs for construction products and a list of such PCCSs is available at\nthe website of the Hong Kong Council for Testing and Certification1. CBs accredited under\nHong Kong  Certification Body  Accreditation Scheme (HKCAS)  of Hong Kong\nAccreditation Service 2 (HKAS) or  its  Multilateral Recognition Arrangement/Mutual\nRecognition Agreement partners are qualified to issue a CoC in accordance with the\nrespective PCCS.\n\nQuality Assurance of Product Certification System"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The certification process of products starts with the submission of product\ninformation to CB selected by a supplier for application for a CoC. CB will make an\nevaluation including factory audit of production and on-site selection for testing of one or\nmore samples of products representative of the production by an independent accredited\nlaboratory3. CB may issue a CoC to confirm that a product of a given supplier satisfies the\nrequirements set out in the specified PCCS."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          To ensure the continuous compliance with the conditions of certification, CB\nwill carry out periodic surveillance audit to the plant and the Quality System Management\nOffice in accordance with the respective PCCS including audit compliance test of randomly\nselected samples. A CoC is usually valid for 3 years. Re-certification audit will be carried\nout as if it is an initial certification audit upon the expiry of the CoC. In the event that the\nmanufacturer or product fails to comply with the requirements of the certification scheme\n(e.g. fails in the periodic surveillance audit), the CoC may be suspended or withdrawn by\nCB. In this connection, authorized persons (APs) should require the supplier to provide the\nrelevant  test reports of the products described in paragraph 2 above for record and\nsubmission to the Buildings Department (BD) if necessary.\n\n\n                                                                /Submission …\n\n\n1   https://www.hkctc.gov.hk/en/tcsector/ba/construction_product_cert_c.html.\n2   Particulars of these accredited CBs under HKCAS are available in\n   https://www.itc.gov.hk/en/quality/hkas/conformity_assessment_bodies/hkcas.html.\n3  The laboratory is accredited under the Hong Kong Laboratory Accreditation Scheme by Hong\n  Kong Accreditation Service or its Mutual Recognition Arrangement partners."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 ­\n\n\nSubmission of CoCs"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          To enhance the quality of buildings by means of better quality control of the\nbuilding products used, the Building Authority will accept valid CoCs of fire rated doorsets\nand non-loadbearing fire partition walls under PCCS for Passive Fire Protection Products\n(Fire Door and Non-loadbearing Fire Partition) (Issue 3)4 issued by accredited CBs as an\nalternative to the  test or assessment reports prepared by accredited  laboratories, to\ndemonstrate compliance with the Buildings Ordinance (BO)."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          Upon completion of the building works, APs/registered contractors may\nsubmit relevant CoCs together with the Certificate and Schedule of Building Materials and\nProducts (Schedule) as stipulated in Practice Note for Authorized Persons, Registered\nStructural Engineers and Registered Geotechnical Engineers (PNAP) APP-13 to certify that\nthe building products used are in compliance with the BO.  Submission of the test or\nassessment reports for these products will not be required."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.        BD will randomly select building materials/products with CoCs from the\nSchedule received for audit check so as to verify the relevance of the CoCs.  Relevant\ninformation of the CoCs will then be transferred to the Central Data Bank as stipulated under\nPNAP ADM-20.\n\nOther PCCSs"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          To promote wider adoption of PC for other building products or PCCSs, BD\nis prepared to advise scheme owners on their PCCSs regarding compliance with the BO as\nwell as keeping in view the availability of suitable PCCSs for other building products."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.       A similar practice note has been issued to registered contractors.\n\n\n\n\n\n                                                                 ( YU Tak-cheung )\n                                                  Building Authority\n\n\nRef. : BD GR/1-125/106 (X)\n\nFirst issue :  September 2021 (AD/CS)\n\n\n\n\n\n4 The Hong Kong Institute of Steel Construction is the scheme owner of the PCCS for Passive Fire\n   Protection Products."
+    }
+  ]
+}

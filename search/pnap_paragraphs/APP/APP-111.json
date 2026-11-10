@@ -1,0 +1,139 @@
+{
+  "code": "APP-111",
+  "source_text": "indexed_text/PNAP/APP/APP-111.txt",
+  "source_pdf": "documents/PNAP/APP/APP-111.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-111\n                         Registered Geotechnical Engineers\n\n\n             Design of Car Parks and Loading/Unloading Facilities\n\n\n                  Facilities for the parking of cars are often shown on plans submitted for\napproval under the Buildings Ordinance.  These plans may also be required for\nsubmission to other authorities, eg Director of Lands and Commissioner for Transport\n(C for T) to ascertain if their requirements are met."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           The Building Authority (BA) takes the view that car parks and  all\nancillary works and facilities should be properly designed to provide an acceptable\nstandard of convenience and safety to users of the car parks."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          To assist Authorized Persons (APs) in meeting the above objective, a\nset of general guidelines is given at Appendix A.  In case where full compliance with\nthe  desirable  standard  is  difficult due  to  physical  constraints  or  other  relevant\nconsiderations, the APs may use the minimum standard shown in Appendix A or may\npropose alternative acceptable standards.  In such circumstances, APs are advised to\ndemonstrate with swept paths and other design data that safety of and convenience to\nusers of the car parks will not be compromised.  Absolute minimum standard will only\nbe accepted under exceptional circumstances and with full justifications."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 141
+        },
+        {
+          "label": "b",
+          "offset": 322
+        },
+        {
+          "label": "c",
+          "offset": 456
+        }
+      ],
+      "text": "4.          When building plans showing car-parking facilities are received, the BA\nmay check the following essential aspects of the plans :\n\n          (a)     the dimensions of spaces for the parking of cars and lorries,\n                the  loading and  unloading  bays  and  the  run-ins  and\n                run-outs;\n\n         (b)    the gradients, curve radius of ramps, swept paths and the\n                turning circles at critical locations; and\n\n          (c)    any general notes shown on the plans as to whether and\n             what guidelines or standards have been observed.\n\nIn cases where compliance with the requirements is difficult due to physical constraints\nor other relevant considerations, the BA may take a flexible approach provided that\ntraffic safety is not compromised.  In this connection, APs are advised to highlight\ndeviations and provide justification for such deviations.\n\n\n\n\n\n                                                                                                 /5. ..."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.             Reference should be made to PNAP APP-2 in case a claim is made\nunder regulation 23(3)(b) of the Building (Planning) Regulations for disregarding the\nfloor space concerned from gross floor area (GFA) calculation, the BA would need to be\nsatisfied as to the design of the car parks before disregarding from GFA calculation is\nconsidered.  The BA may not take any item of deviations from the standards shown in\nAppendix A as a fundamental issue for disapproval of plans.  The BA may advise on\nsuch deviations separately and APs are expected to rectify the deviations in subsequent\nplan submissions."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.            For the avoidance of doubt, the C for T will continue to provide advice\non carparking proposals from the point of view of road safety, traffic management,\nplanning of transport infrastructure, public transport operation and regulatory functions\nof public roads.  The C for T will pay particular attention to run-ins and run-outs and\nthe adjacent layout design in private building projects.  The BA will assume the\ngeneral responsibility of ascertaining compliance with standards of car parks and\nancillary works and facilities.\n\n\n\n\n\n                                                               ( CHEUNG Tin-cheung )\n                                                   Building Authority\n\n\n\n\n\nRef. : BD GP/BOP/6 (IX)\n\nThis PNAP is previously known as PNAP 236\nFirst issue March 2000\nLast revision January 2011\nThis revision July 2019 (AD/NB1) (Appendix A amended)"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Appendix A\n                                                 (PNAP APP-111)\n\n      Guidelines on Layout of Car Parks and Loading and Unloading Spaces\n           and Geometry of Access Roads, Ramps and Driveways\n\n\nLayout of Car Parks and Loading/Unloading Spaces\n\n          The dimensions produced below incorporate current guidelines on parking\nand loading/unloading areas as stipulated in Table 11, Chapter 8 of the Hong Kong\nPlanning Standard Guidelines (HKPSG) and Transport Department’s latest requirements.\nReference can be made to the latest edition of  stall dimensions of car parks and\nloading/unloading spaces of the HKPSG posted on the Planning Department's website :\n\n       https://www.pland.gov.hk/pland_en/tech_doc/hkpsg/full/pdf/ch8.pdf\n\n              Table 1 – Car Parks and Loading/Unloading Spaces\n\nStall Dimensions for Car        Length (m)    Width (m)      Min. Clear\nParks & Loading/Unloading                             Headroom (m)\nBays\nMotorcycles                      2.4 (min. 2 m)       1                2.4\nPrivate Cars and Taxis               5             2.5               2.4\nCoaches and Buses                 12             3.5               3.8\nLight Goods Vehicles                7             3.5               3.6\nMedium/Heavy Goods Vehicles       11             3.5               4.7\nContainer Vehicles                 16             3.5               4.7\nLight Buses                        8            3                3.3\nCar-parks for Persons with a          5             3.5               2.4\nDisability\nCar Park Aisles               Parking Angle            Aisle Width (m)\n                                                 Desirable      Minimum\n(a) Private Cars, and Taxis               0o           3                      -\n   (one-way)                     30 o           3                      -\n                                45 o            3.6                    -\n                                     60o            4.2                    -\n                                70 o            4.7                    -\n                                80 o            5.3                    -\n                                90 o           6                5.5\n                                                                  (absolute min.5.0 m)\n                                90 o            7.5               6.0\n                             (two-way aisle)                 (absolute min.5.5 m)\n(b) Light Goods Vehicles            45 o           7                      -\n   (one-way)                     90 o          10                     -\n(c) Medium/Heavy Goods           45 o           8                      -\n   Vehicles (one-way)              90 o          12             10\n                                90 o          16             10\n                             (two-way aisle)\n(d) Container Vehicles              45 o          11                     -\n    (one-way)                     90 o          16                     -\n\n\n                                                       - 1 -"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "General guidelines on the design of car-parks and loading/unloading bays are as\nfollows :\n\n(i)    Run-ins for cycle and motor vehicle should be separated whenever possible.\n      Cycle parking  areas should be  located  at ground  floor near  the  entrance,\n      segregated from other vehicles parking spaces and grouped together;\n\n(ii)   Ground floor shops/workshops/offices should be readily accessible to loading and\n      unloading areas.   It is desirable that the loading and unloading activities will not\n       affect pedestrian or vehicular traffic outside or inside the developments;\n\n(iii)   Parking layout should be designed with adequate clear visibility such that the\n       conflict of a vehicle emerging from a ramp and another vehicle reversing into or\n      leaving a parking lot is minimized;\n\n(iv)  Goods vehicles are loaded and unloaded from the rear and perpendicular loading\n      bays are most commonly arranged. A space of approximately one goods vehicle\n      length should be reserved in front of the loading bay for reverse manoeuvring.\n     The hammerhead design  is recommended for loading/unloading bays.  The\n      swept path of the manoeuvre of the goods vehicles into and out of the bay should\n      be indicated on the plans.  Where there is severe constraint, a turn-table should\n      be provided;\n\n(v)   Parking layout should be designed such that a vehicle may be parked in one\n       distinct manoeuvre without reversals of the steering lock;\n\n(vi)   Appropriate traffic signs and road markings should be provided;\n\n(vii)  Swept path analysis should be conducted to check the circulation and adequacy of\n      turning areas whenever necessary;\n\n(viii)  Parking spaces for motor cycles should be grouped together and at a location\n      away from the run-in;\n\n(ix)   Where space for bicycles is provided in buildings where there is no commercial\n       element, the cycle parks should preferably be located near the  residential\n       entrance lobby, and there should be total segregation of the bicycle from other\n        vehicles; and\n\n(x)    Car-parks for persons with a disability should be designed to the standards set\n       out in the latest Design Manual Barrier Free Access, which is posted on the\n       Buildings Department’s website :\n\n       https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-\n      manuals/BFA2008_e.pdf\n\n\n\n\n\n                                                       - 2 -"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Access Roads/Driveways"
+    },
+    {
+      "id": "p2-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          For  private  access  roads  and  streets  within  the  development,  the\nrequirements specified in the Building (Private Streets and Access Roads) Regulations\nshould be followed.  Table 2 gives general guidelines on access roads and driveways:\n\n                     Table 2 - Access Roads/Driveways\n\nDriveways\nWidth for Straight Sections  Desirable Width Minimum Width   Absolute Min.\n                               (m)            (m)         Width (m)\nResidential Area  One-way          5.5               4.0          3.0 (private cars\n                                                                         only)\n              Two-way          7.3               5.5         5.0 (private  cars\n                                                                         only)\nIndustrial Area   One-way          6.0               5.5                3.5\n& Area of Mixed Two-way         10.5              7.3                6.0\nUsage\nGradient                       Desirable     Maximum        Absolute\n                                              Maximum\nStraight Ramp    For Private       1:10              1:7               1:6\n                 Cars\n                For Goods        1:10              1:8                     -\n                 Vehicles\nHelical          For Private       1:12.5             1:8                     -\n                 Cars\n                For Goods       1:12.5            1:10                     -\n                 Vehicles\nVertical          All         Vertical clearances for structures over driveway and that\nClearance       Vehicles    part of pavement within 600mm of its outer edge should\n                           be 5.1 m (min.)\nHorizontal       All         Horizontal   clearance  should  be  500  mm.       If\nClearance       Vehicles    impracticable, clearance from railing and posts for signs\n                            should not be less than 200 mm.\nWidening of Access Roads/Driveways on Bends\nWidth of Access Roads/     Permitted Radius of Curve at    Min. Widening\nDriveways                Centre Line                     Required. (m)\n6 m or less                  Less than 18 m                           1.2\n                         18 m to 24 m inclusive                    1.0\n                         Over 24 m                                0.6\nMore than 6 m               Less than 18 m                           1.0\n                         18 m to 24 m inclusive                    0.6\n                         Over 24 m                                0.3\n\nGeneral guidelines on the design of access roads/driveways are as follows:\n\n(i)    The minimum vertical clearance of 5.1m is applicable to access roads/driveways\n       intended for all types of vehicles. In case access roads/driveways are limited for\n        certain type  of  vehicles, a lowered minimum  vertical clearance could be\n       considered.\n\n\n                                                       - 3 -"
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Ramps in Multi-Storey Car Park (for Cars, Taxis and Light Goods Vehicles)"
+    },
+    {
+      "id": "p3-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "3.        Ramps in multi-storey car park should be designed with reference to the\nfollowing requirements in Table 3 :\n\n                  Table 3 - Ramps in Multi-Storey Car Park\n                              (for Private cars and Taxis)\n\nRamps in Multi-storey Car Parks (for Private cars and Taxis)\nMin. Width (between                          Straight Ramps    Helical Ramps\nkerbs)             One-way                     3.0 m             3.65 m\n                 Two-way                     6.0 m                     -\n                      (with no central kerb)      (min. 5.5 m)\nMax. Gradient        See “Gradient” in “Access Roads/Driveways”\nHorizontal Clearance  For Straight Ramps                 300 mm\nfrom structures       For Helical Ramps                 600 mm\nMinimum Curve      For Straight Ramps        5.5 m (min. inner radius at bends)\nRadius               For Helical Ramps            9.0 m (min. outer radius)\n                     (one-way)\n\nGeneral guidelines on the design of ramps are as follows :\n\n(i)   The use of two-way ramps in a multi-storey car park is not recommended;\n\n(ii)  Ramps should be designed without conflict points at both ends, e.g. no pedestrian\n      crossings and junctions at both ends of a ramp;\n\n(iii)  At the upper end of ramps, adequate clear  visibility should be provided to\n     minimize conflicts of movements of vehicles at the upper floor and the approach\n     ramp; and\n\n(iv)  The design standards for straight and helical ramps are applicable to carparks for\n      private cars and taxis and should be modified to suit other vehicle types.\n\n\n\n\n\n(Rev. 7/2019)\n\n\n\n\n                                                       - 4 -"
+    }
+  ]
+}

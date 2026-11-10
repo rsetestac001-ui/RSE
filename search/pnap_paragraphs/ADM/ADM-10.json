@@ -1,0 +1,90 @@
+{
+  "code": "ADM-10",
+  "source_text": "indexed_text/PNAP/ADM/ADM-10.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-10.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and       ADM-10\n                          Registered Geotechnical Engineers\n\n\n                        Imaging Standards for Plans\n\n            The  Buildings  Department  (BD)  has  installed  a  Building  Record\nManagement System for approved building plans in electronic format to eliminate possible\nloss of information due to deterioration of the quality of print records and for better record\narchival."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            This practice note seeks your cooperation in ensuring that the quality of\nplans submitted for approval is suitable for electronic imaging so that the images produced\nwill be clear and intelligible to all future users."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           Under some conditions, quality may improve in the imaging process.  It is\nhowever expected that some loss of quality may also occur in any reproduction process.\nTo ensure the quality of images produced, attention to particular aspects of the preparation,\namendment and handling of plans to be electronically imaged is necessary."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.           Appendix A gives some guidelines on drawing standards suitable for\nimaging. Please adopt these standards for all plans submitted for approval."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            This recommended practice does not affect consideration of the plans for\napproval. They will continue to be processed in accordance with the requirements of the\nBuildings Ordinance. Non-conformity with any of the guidelines referred to in this practice\nnote will not constitute a ground for disapproval of the plans. We would, however,\nappreciate your adoption of the recommended practice."
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "6.            For the purpose of this practice note, the term \"plans\" means building plans,\ndrainage plans, site formation plans, structural plans and the calculations referred to in\nparagraphs 8 and 9 of PNAP ADM-8.\n\n\n\n\n\n                                                                        ( AU Choi-kai )\n                                                       Building Authority\n\nRef. : BD GR/OA/l2\n    BD GR/OA/177\n\nThis PNAP is previously known as PNAP 135\nFirst issue June 1990\nLast revision December 2000\nThis revision October 2013 (AD/CS) (General revision)"
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "Appendix A\n                                                   (PNAP ADM-10)\n\n\n                              Guidelines on Drawing Standards\n\n(1)    Plan sizes\n\n     A0    1189 mm x 841 mm\n     A1    841 mm x 594 mm\n     A2    594 mm x 420 mm\n     A3    420 mm x 297 mm\n     A4    297 mm x 210 mm\n\n      The dimensions are those of the outside edges of the sheet. A border is normally\n      drawn inside the dimensions (limiting the actual drafting area).  Plan sizes larger\n       than A0 should be avoided.\n\n(2)    Borders\n\n      Unused minimum borders should be provided on all 4 sides of an original as\n       follows :\n\n          A0 - 20 mm      A1 - 20 mm\n          A2 - 10 mm      A3 - 10 mm\n          A4 - 10 mm\n\n(3)    General Standards\n\n        (a)    Centre mark should be shown at the centre of each side of the drawing\n              frame;\n\n        (b)    Matt surface is desirable, with adequate contrast between drawing matter\n             and background. The prints should therefore be of good quality;\n\n        (c)    Each plan should bear a unique drawing number.\n\n        (d)    The version of a plan should be annotated by suffix (Rev.A), (Rev.B) etc. to\n               the drawing number.\n\n        (e)    The drawing title should describe clearly the contents of the plan including\n                location and type of works.\n\n         (f)     All notes should be read from the same direction (NB: This does not include\n              dimensions);\n\n        (g)   A suitably numbered or graphic scale should be provided, corresponding to\n               the scale of the plan;\n\n\n\n\n\n                                                        - 1 -"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "(h)    At least one plan should carry a legend of all markings and symbols shown\n               or used, preferably on the right hand side of the plan;\n\n          (i)       It should be borne in mind that colours will not be identifiable on images.\n              Consequently, materials and elements of construction, in addition to being\n              coloured in the usual manner, should where necessary be identifiable by\n               other suitable means for imaging purposes e.g. usual method of hatching or\n               annotations (rc, br, ms and the like); and\n\n          (j)     Lettering and numbering should not be covered by heavy hatching, dark\n              shading or dark colouring.\n\n(4)    Space for Official Use\n\n    A minimum unused space of 90 mm wide by 150 mm high, for accommodating the\n         official stamps of approval and certification of copies of approved plans by the\n       Building Authority, should be provided on every plan at the lower right corner.\n\n(5)    Plan Index\n\n     An application for occupation permit should be accompanied by a Plan Index\n      which lists all the approved plans.  The Plan Index will be imaged and should\n        therefore be in one of the \"A\" sizes and a separate Plan Index should be prepared\n        for each category of approved plans e.g. building, structural, drainage and so on.\n\n      The contents and format of the Plan Index should be as follows :\n\n       Building Plan Index\n\n    BD DWG NO.  AP/RSE DWG. NO.   DESCRIPTION   APPROVAL DATE\n       (For BD use)\n                            B/1           G/F Plan                 2.5.2000\n                        * B/2             1/F Plan                  2.5.2000\n                            B/3             Typical Floor plan        2.5.2000\n                            #                 #                #\n                        * B/1 (Rev.A)    G/F Plan                 8.9.2000\n                        * B/3 (Rev.A)     Typical Floor Plan        8.9.2000\n\n        Structural Plan Index\n\n    BD DWG NO.  AP/RSE DWG NO.    DESCRIPTION   APPROVAL DATE\n       (For BD use)\n\n                        *  S/1             General Details           3.6.2000\n                              S/2           G/F Framing Plan         3.6.2000\n                        *  S/3             1/F Framing Plan         3.6.2000\n                            #                 #                #\n                        *  S/2 (Rev.A)     G/F Framing Plan         4.9.2000\n\n\n\n\n\n                                                        - 2 -"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Drainage Plan Index\n\n    BD DWG NO.  AP/RSE DWG NO.   DESCRIPTION    APPROVAL DATE\n       (For BD use)\n                        * D/1           Drainage Notes &          10.6.2000\n                                          Block Plan\n                           D/2           Schematic Diagram        10.6.2000\n                        * D/3            Schedules & Layouts       10.6.2000\n                            #                 #                 #\n                        * D/2 (Rev.A)    Schematic Diagram        6.9.2000\n\n     An asterisk (*) should be used to identify the latest approved plans which represent\n        the building as completed.\n\n       This procedure is in addition to the record plan system and will be reviewed in the\n        light of experience.\n\n\n\n\n\n(Rev. 10/2013)\n\n\n\n\n\n                                                        - 3 -"
+    }
+  ]
+}

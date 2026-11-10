@@ -1,0 +1,181 @@
+{
+  "code": "APP-164",
+  "source_text": "indexed_text/PNAP/APP/APP-164.txt",
+  "source_pdf": "documents/PNAP/APP/APP-164.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-164\n                          Registered Geotechnical Engineers\n\n\n        Enhanced Design Standards of Aboveground Drainage System\n\n\n             Taking into account the findings of a consultancy study, the Buildings\nDepartment has completed a comprehensive review of the Building (Standards of\nSanitary Fitments, Plumbing, Drainage Works and Latrines) Regulations (Drainage\nRegulations) with a view to, among others, enhancing the planning and design of drainage\nworks.   Whilst the legislative exercise to amend the Drainage Regulations is being\nactively pursued, it is high time to promulgate the enhanced design standards of floor\ndrain, anti-syphonage pipe, branch discharge pipe, ventilating pipe and rain water pipe of\nthe aboveground drainage system in a Practice Note for Authorized Persons (APs),\nRegistered Structural Engineers and Registered Geotechnical engineers (PNAP)."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "b",
+          "offset": 602
+        }
+      ],
+      "text": "2.         By virtue of section 28(1) of the Buildings Ordinance, I shall require the\naboveground drainage system to comply with the following:\n\n              Floor drain\n\n                 (a)   To prevent loss of water seal through evaporation for the trap\n                     of a floor drain1 of a kitchen in a domestic unit, a toilet or a\n                      pantry, used water from a lavatory basin, a bath or a shower\n                     bath should be diverted to replenish the water seal of the floor\n                      drain without causing backflow;\n\n             Anti-syphonage pipe\n\n                (b)    Adequate  cross-ventilation  should  be  provided  to  the\n                     drainage stack via connections with a main anti-syphonage\n                       pipe.  Such connections should be provided as follows:\n\n                            (i)    The connecting pipes should be sloping upwards at an\n                           angle not greater than 67.5° from the drainage stack\n                            (Figure 1 of Appendix A) with internal diameter not\n                                less than the main anti-syphonage pipe;\n\n                             (ii)    Connections should be provided at intervals not more\n                            than 5 storeys for a building more than 5 storeys and\n                          not more than 20 storeys 2 , and at intervals not\n\n\n                                                                    /more …\n\n1  The floor drain should be provided with a suitable trap complying with regulation 25 of the\n   Drainage Regulations.\n2  Irrespective of the number of storeys that the drainage stack serves.  For drainage stacks\n   solely serving podiums or basements, the connections should be provided at intervals with\n   regard to the number of storeys of the podiums or basements."
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2  -\n\n                       more than  three  storeys  for a building over 20\n                               storeys2, starting from the lowest storey with branch\n                            discharge  pipe  connected  to  the  drainage  stack\n                            (Figures 2 and 3 of Appendix A); and\n\n                             (iii)  A connection should be provided at a point below the\n                           lowest branch discharge pipe and above the bend of\n                         an  offset 3  of  the  drainage  stack  (Figure 4  of\n                        Appendix A).  No such connection  is  required\n                         between offsets which no branch discharge pipes are\n                          connected with.\n\n            Branch discharge pipe\n\n                (c)   No drainage pipe connection is permitted within a restricted\n                   zone at every offset.  The restricted zone is up to 600 mm\n                   above the bend of the offset4 for a building not more than 5\n                      storeys and 1 000 mm above the bend for a building over 5\n                       storeys;  and  within  2 500 mm  away  from  the  bend\n                      horizontally (Figure 4 of Appendix A);\n\n               (d)   At the floor where the drainage stack of a building more than\n                  3 storeys and not more than 20 storeys 5 discharges to a\n                   manhole, sanitary fitments, if any, on that floor should not be\n                    connected to the drainage stack and separate pipework should\n                   be provided  for such  sanitary  fitments  for  discharging\n                       directly to a manhole (Figure 5 of Appendix A);\n\n                (e)    At the floor where the drainage stack of a building over 20\n                      storeys5 discharges to a manhole, the sanitary fitments, if any,\n                  on that floor and the floor above should not be connected to\n                      the drainage stack and separate pipework should be provided\n                       for such sanitary fitments  for discharging  directly to a\n                  manhole (Figure 6 of Appendix A); and\n\n               Ventilating pipe\n\n                  (f)    The open end of every ventilating pipe for any drain or sewer\n                  on the roof should be not less than 3 m from a common\n                   boundary with an adjacent site, and any window, opening or\n                      fresh air intake of a building (Figure 7 of Appendix A).\n\n\n                                                          /Implementation ...\n\n3  An offset occurs when a drainage stack changes direction from vertical to horizontal.   It also\n   occurs when the drainage stack discharges into a manhole.  This requirement is not applicable\n   to the separate pipework discharging directly to a manhole as required under paragraph 2(d)\n   or (e) below.\n4  Measured from the invert of the tail of the bend.\n5  Irrespective of the number of storeys that the drainage stack serves.  For drainage stacks\n   solely serving podiums or basements, the number of storeys should be based on the number of\n   storeys of the podiums or basements."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3  -\n\nImplementation"
+    },
+    {
+      "id": "p3-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "3.        New drainage plans or major revision of drainage plans for development\nprojects and alteration and addition works submitted to the Building Authority (BA) for\napproval after 31 August 2021 should comply with this practice note.  For development\nprojects with consent to the commencement of superstructure works granted after 31\nAugust 2021, the requirements in paragraph 2(b), (c) and (f) above should be complied\nwith  and  corresponding amended  drainage  plans  should  be  timely  submitted.\nAlternatively, deferred submission  for such minor amendments may be made  in\naccordance with paragraphs 22 to 24 of PNAP ADM-19.   For other development\nprojects and alteration and addition works, APs should consider exploring the possibility\nto incorporate requirements in paragraph 2 above.  For the avoidance of doubt, this\npractice note is applicable to the erection and alteration of any aboveground drainage\nsystem to be commenced under the Minor Works Control System after 31 August 2021."
+    },
+    {
+      "id": "p4-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "4.             In respect of proposed alteration and addition works and minor works\ninvolving (i) the installation/erection of a new floor drain (of a kitchen in a domestic unit,\na toilet or a pantry), a drainage stack, an offset of an existing drainage stack, a drainage\npipe connection to the drainage stack, a sanitary fitment at the lowest or second lowest\nfloor of the drainage stack, or a ventilating pipe; or (ii) alteration of an existing ventilating\npipe at the roof, the respective requirements in paragraph 2 above are applicable.\nExamples of alteration and addition works and minor works that should comply with the\nrespective requirements in paragraph 2 above are listed in Appendix B."
+    },
+    {
+      "id": "p5-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          To enhance the environmental hygiene at the roof of a building for\noccupants’ enjoyment, in addition to the requirements in paragraph 2(f) above, APs are\nadvised to consider carrying up ventilation pipes to a height of not less than 3 m above\nthe accessible roofs."
+    },
+    {
+      "id": "p6-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "6.             In order to obviate the need for frequent maintenance such as removing\ndebris and vegetation to avoid blockage in a hopper head, APs should consider not to\nprovide hopper heads in the aboveground drainage system of their development projects."
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           According to the updated design practice of the Drainage Services\nDepartment and to cater for anticipated increase in rainfall intensity, APs are advised to\nfollow the guidelines below if rain water pipes with internal diameter not more than\n100 mm are used:\n\n\n                             Maximum horizontal roofed-over\n            Internal diameter of pipe\n                                               surface to be served\n                  40 mm                         9 m2\n                  65 mm                        33 m2\n                  80 mm                        58 m2\n                  100 mm                       106 m2\n\n\n\n\n                                                                                                /8. …"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4  -"
+    },
+    {
+      "id": "p8-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "8.         When undertaking drainage repair works and comprehensive maintenance\nworks in an existing building, APs should advise their clients to consider incorporating\nthe requirements and recommendations in this practice note, including if applicable,\nreplacing the open system with hopper heads to a closed system with the provision of\nsuitable traps in accordance with regulations 12(2), 12(3) and 25 of the Drainage\nRegulations."
+    },
+    {
+      "id": "p9-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          With reference to some overseas standards, the BA is prepared to favorably\nconsider  applications  for  modification  of  regulation  30(2)(b)(ii)  of  the  Drainage\nRegulations to permit the anti-syphonage pipe to be connected with the branch soil pipe\nor branch waste pipe at a point not more than 750 mm from the trap outlet (Figure 8 of\nAppendix A).\n\n\n\n\n                                                           ( YU Po-mei, Clarice )\n                                               Building Authority\n\n\n\n\n\nRef. : BD GP/BREG/SF/1 (VI)\n    BD GP/BREG/SF/7\n    BD GR/1-55/296\n\nFirst issue      April 2021\nLast revision   April 2023\nThis revision  November 2023 (AD/NB1)  (Paragraph  9  added  and Appendix A\n                                      amended)"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Appendix A\n                                                 (PNAP APP-164)\n\nFigure 1: Connection between drainage stack and main anti-syphonage pipe\n\n\n\n\n\nFigure 2: Ventilation of drainage stack for a building more than 5 storeys and not\nmore than 20 storeys\n\n\n\n\n\n*    Figures 1 and 2 are for illustration of the connections between the main anti-syphonage pipe\n    and the drainage stack for soil and/or waste water only without showing details such as\n     anti-syphonic valves and branch anti-syphonage pipes.\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Figure 3: Ventilation of drainage stack for a building more than 20 storeys\n\n\n\n\n\n*   For illustration of the connections between the main anti-syphonage pipe and the drainage\n     stack for soil and/or waste water only without showing details such as anti-syphonic valves\n    and branch anti-syphonage pipes.\n\n\n\n\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Figure 4: Ventilation and restricted zones for an offset of a drainage stack\n\n\n\nExample (a)\n\n\n\n\n\n Example (b)\n\n\n\n\n\n*   For illustration of the connections between the main anti-syphonage pipe and the drainage\n     stack for soil and/or waste water only without showing other details such as anti-syphonic\n     valves and branch anti-syphonage pipes.\n\n\n\n\n\n                                                              - 3 -"
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Figure 5:  Separate pipework for sanitary fitments for a building more than 3\n           storeys and not more than 20 storeys\n\n\n\n\n\n*   For illustration of the required separate pipework for discharging soil and/or waste water\n     only without showing details such as anti-syphonic valves and anti-syphonage pipes.\n\n\n\n\n\n                                                              - 4 -"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Figure 6: Separate pipework for sanitary fitments for a building more than 20 storeys\n\n\n\n\n\n*   For illustration of the required separate pipework for discharging soil and/or waste water\n     only without showing details such as anti-syphonic valves and anti-syphonage pipes. The\n    pipework for the lowest floor and the floor above can be combined provided that Drainage\n     Regulations and the relevant requirements in PNAP APP-93 and APP-164 are complied with.\n\n\n\n\n\n                                                              - 5 -"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Figure 7: Requirements for open end of a ventilating pipe\n\n\n\n\n\nFigure 8: Maximum distance between trap outlet to anti-syphonage pipe\n\n\n\n\n\n(Rev. 11/2023)\n\n                                                             - 6 -"
+    },
+    {
+      "id": "page-11",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        11
+      ],
+      "text": "Appendix B\n                                                 (PNAP APP-164)\n\n                   Application of Enhanced Design Standards\n               for Alteration and Addition Works and Minor Works\n\nExamples on the applicable requirements in paragraph 2 of this practice note in respect\nof drainage works involved in alteration and addition works and minor works:\n\n                          Examples of drainage works involved in Requirements                             alteration and addition works and minor works\n\n Paragraph 2(a)      Addition of a new floor drain in a kitchen of a domestic unit,\n                        a toilet or a pantry.\n\n Paragraph 2(b)(i)     Erection of a new drainage stack.\n and (ii)\n\n Paragraph 2(b)(i)     Erection of a new drainage stack, or\n and (iii)              Provision of a new offset when altering an existing drainage\n                            stack.\n\n Paragraph 2(c)      Erection of a new drainage stack,\n              Provision of a new offset when altering an existing drainage\n                            stack, or\n              Erection of a new drainage pipe connecting to an existing\n                         drainage stack.\n\n Paragraph 2(d)      Erection of a new drainage stack, or\n              Installation of a new sanitary fitment at the floor requiring\n                          separate pipework for discharging directly to a manhole.\n\n Paragraph 2(e)      Erection of a new drainage stack, or\n              Installation of a new sanitary fitment at the floors requiring\n                          separate pipework for discharging directly to a manhole.\n\n Paragraph 2(f)      Erection of a new ventilating pipe, or\n              Alteration, relocation or extension of the portion of an\n                           existing ventilating pipe above the roof.\n\n\n\n\n(4/2021)"
+    }
+  ]
+}

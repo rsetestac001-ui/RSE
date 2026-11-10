@@ -1,0 +1,64 @@
+{
+  "code": "ADM-04",
+  "source_text": "indexed_text/PNAP/ADM/ADM-04.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-04.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Re gistered Structural Engineers and Registered Geotechnical Engineers   ADM-4\n\n                                Practice Note for Authorized Persons\n Buildings Department                                                40                          and Registered Structural Engineers\n\n                                      Priority\n\n\n          On application, the grant of priority status for processing submissions\nfor new buildings will be considered for the following types of project:\n\n        (a)      (i)     Urgently  required  public   utility  and  institutional\n                      buildings.\n\n                    (ii)   Hong Kong Housing Society Projects.\n\n        (b)     Projects on lands owned by the Hong Kong Science and\n             Technology Parks  Corporation  (previously known  as  the\n           Hong Kong Industrial Estates Corporation).\n\n        (c)   Any project submitted for or on behalf of the Urban Renewal\n              Authority by a wholly owned subsidiary company or a joint\n              venture consortium of which the Urban Renewal Authority is\n              a partner.\n\n        (d)     Projects  that  are  likely  to  significantly  contribute  to  the\n             economic growth of Hong Kong."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           Cases  falling  within  criterion   (a)(i)  include  schools,  electricity\nsub-stations and other buildings of a similar nature where it can be shown that they are\nurgently required and  it would be in the public interest for priority to be granted.\nPositive support from relevant government departments is required for applications for\npriority under criterion listed in paragraph (1)(d).  It is possible that other high public\ninterest projects not covered by the above criteria may also merit priority for special\nreasons  but  this  will  only  be  granted  in  exceptional  circumstances  and  after\nconsultation with the government departments concerned."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            Application for priority status should accompany the first submission of\nplans to Buildings Department (BD).  Projects only involving alterations and additions\nof existing buildings will not normally be granted priority.  However, any projects\ndesigned to combat pollution  (air, noise or water), or to eliminate or reduce the\ndischarge of existing polluting waste and noxious or toxic effluents, may be accorded\npriority status."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.             Priority projects will be kept under constant review to ensure that the\nneed for priority treatment is  still appropriate.  Where a priority project does not\nproceed expeditiously, its priority status may be withdrawn.\n\n                                                                                 /5. The ..."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The grant of priority only applies to matters involving BD and will\nhave no bearing on land transactions.\n\n\n\n\n\n                                                                       ( Marco M H WU )\n                                                       Building Authority\n\n\n\n\n\nRef. : BD GP/CC/10 (II)\n\nFirst issue April 1977\nLast revision June 1991 (GBS/D)\nThis revision March 2005 (AD/NB1)  - General Revision\n\nIndex under : Priority"
+    }
+  ]
+}

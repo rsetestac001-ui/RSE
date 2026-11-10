@@ -1,0 +1,273 @@
+{
+  "code": "ADM-08",
+  "source_text": "indexed_text/PNAP/ADM/ADM-08.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-08.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        ADM-8\n                         Registered Geotechnical Engineers\n\n\n                         Structural Design Information\n\n\n           To facilitate processing of structural submissions, plans and calculations\nshould be clearly presented and organised as outlined below.\n\nStructural Plans"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.             Structural plans should be properly indexed and each drawing should bear\na drawing title and drawing number."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 101
+        },
+        {
+          "label": "b",
+          "offset": 145
+        },
+        {
+          "label": "c",
+          "offset": 286
+        },
+        {
+          "label": "d",
+          "offset": 348
+        },
+        {
+          "label": "e",
+          "offset": 423
+        },
+        {
+          "label": "f",
+          "offset": 537
+        }
+      ],
+      "text": "3.          The first drawing of the set should contain general notes and material\nspecification on:\n\n        (a)    design codes and standards;\n\n        (b)    concrete materials, including cement, aggregates, pulverised fuel\n             ash and ground granulated blast furnace slag;\n\n        (c)    reinforcement and other structural materials;\n\n        (d)    grade and characteristic strength of structural materials;\n\n        (e)    concrete  covers,  corrosion  protections  and   fire  resistance\n              requirements; and\n\n         (f)     other particulars of method of construction, workmanship and\n                testing."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          The submitted drawings should cover key plans, floor/layout plans,\nsections and elevations to show the layout, dimensions, levels and identification numbers\nof all structural frames and members."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.           Notes on design imposed loads (including allowance  for  partitions,\nscreeds, dynamic effects and the like) should be given on the corresponding floor/layout\nplans. Where there are different design imposed loads for different parts of the floor, the\nvariations should be illustrated diagrammatically."
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           For alteration and addition proposals, reinforcement/steelwork details of\nthe structural members in the existing building affected by the proposed works should be\nshown on the plans as reference. These details should be extracted from the approved\nplans of the affected structural members.\n\n\n                                                                                                 /7. …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           For foundation works and other proposals with geotechnical content\ninvolved, such as retaining wall works, excavation and lateral support works and site\nformation works, the characteristic features of the site and the environment including but\nnot limited to the locations of ground investigation boreholes, adjacent and nearby\nbuildings and structures with foundations, lands, streets, utility services, slopes, nullahs,\nretaining walls and the like, should be shown on the plans. Proposals of precautionary\nand protective measures, monitoring plan and contingency plans to be implemented\nbefore and during the course of the construction works should also be shown on the\nsubmitted plans as appropriate.  Reference may be made to the Code of Practice for\nFoundations 2017 and relevant Practice Note  for Authorized Persons, Registered\nStructural Engineers and Registered Geotechnical Engineers (PNAP) APP-18, APP-54,\nAPP-57 and ADM-15 for details.\n\nGeneral Building Plans"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          The information on design imposed loads specified on the structural plans\nshould also be shown on the general building plans.\n\nStructural Calculations"
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.             Structural calculations should be grouped into two parts, each to be\nproperly indexed. The first part (Part I structural calculations) should contain essential\ninformation on the structural design of the proposed works as specified in paragraph 10\nbelow, and is to be retained in the Buildings Department (BD) for record. The second\npart (Part II structural calculations) should contain relevant details of analysis and design\ncalculations of the structural elements as outlined in paragraph 11 below, and will be\nreturned to the authorized person (AP)/registered structural engineer (RSE) after processing\nof the structural submission."
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 76
+        },
+        {
+          "label": "b",
+          "offset": 519
+        }
+      ],
+      "text": "10.            Part I structural calculations should contain the following:\n\n        (a)    a synopsis of the structural design giving –\n\n                   (i)     a general description of the foundation and/or structural\n                    system and the basic anatomy of stability by which the\n                     applied loads are transferred to the ground; and\n\n                    (ii)    design method and assumptions, codes of practice used and\n                       limitations of stresses and deformation;\n\n        (b)     essential   information  on   the   computerised   calculations,\n              including –\n\n                   (i)     the name, version, developer’s name/identification, BD\n                      reference number and validity period of the computer\n                   program used;\n\n                    (ii)    the scope of application of the program which is accepted\n                  by BD and a list of the limitations in application;\n\n                                                                                                             /(iii) …"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n          (iii)   assumptions made and justifications on parameters used in\n               the computer model, e.g. material properties, geological\n              parameters and boundary conditions;\n\n        (iv)    input  data with computer-generated  graphics  or hand\n              sketch showing the framing and layout of the structure,\n             nodes and elements, joint fixity, etc.;\n\n        (v)   summary of salient output results, e.g. the design envelopes\n              of moment, shear and displacement of the most critical\n              cases for design and compatibility check of the applied\n               forces against the output overall reactions; and\n\n        (vi)    interpretation and application of the computer output in the\n               design;\n\n(c)     essential information on the design to resist lateral loads, e.g. wind\n        load, where applicable, including –\n\n          (i)     a general description of the load-resisting system and\n             mathematical modelling;\n\n          (ii)    diagrams illustrating the location and identification of all\n                structural frames and members in the load-resisting system;\n\n          (iii)   a summary  of  sectional  properties  of  load-resisting\n              elements;\n\n        (iv)    a summary of lateral loads applied to the building and the\n                distribution of the lateral forces on individual frames at\n             each floor level;\n\n        (v)     principal  reactions (moments,  shear  forces and  axial\n               forces) in the load-resisting elements; and\n\n        (vi)    a summary of equilibrium check on applied lateral forces\n            and calculated reactions of vertical structural members at\n              foundation and other critical levels where there is a major\n             change in structural configuration;\n\n(d)     essential information on the design to resist dead and imposed\n        loads, including –\n\n          (i)     the design data on dead and imposed loads; and\n\n          (ii)    a summary of principal reactions (moments, shear forces\n            and axial forces) in the vertical structural members at\n              foundation and all floor levels;\n\n                                                                                      /(e) …"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -\n\n        (e)     details of the design of major transfer members;\n\n         (f)     details of the design of cantilevered canopies, balconies, corbels\n             and major structural appendages; and\n\n        (g)     for foundation works and  other proposals with  geotechnical\n              content involved, the associated geological conditions extracted\n            from site investigation or ground investigation reports, the adopted\n              geological parameters, the founding stratum and the allowable\n              bearing capacity, as appropriate, together with a summary of\n              assessment on the existing nearby buildings, structures, slopes,\n               retaining walls, land, streets and services, due to the effects of the\n             works."
+    },
+    {
+      "id": "p11-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "11.            Part II structural calculations usually involves presentation of detailed\nanalysis and design of individual structural elements computed by BD’s pre-accepted\nprograms in bulk volume of computer printout.\n\nPre-submission Enquiry and Conference"
+    },
+    {
+      "id": "p12-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "12.               If the structural submission involves the use of any new structural theories,\nmaterials or structural forms, sophisticated designs or unconventional construction\nmethods, AP/RSE/registered geotechnical engineer (RGE) are advised to consult BD\nthrough  the  pre-submission  enquiry  and  conference  mechanism  specified  in\nPNAP ADM- 19 at an early stage of the design.  If the pre-submission enquiry has not\nbeen made prior to the formal submission of structural plans, the structural proposals and\nprinciples involved will be considered in parallel. In such case, one additional set of plans\nand relevant supporting documents is required to be submitted for the Technical Services\nUnit of BD to examine the structural proposals and principles involved."
+    },
+    {
+      "id": "p13-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "13.         To facilitate referral of plans to other concerned government departments,\na checklist on the documents and the number of sets of plans and design documents\nrequired to be included in the structural submission is given in Appendix A. AP/RSE are\nrequested to include the completed and signed checklist in the submission of structural\nplans.\n\nSubmission of Plans and Documents in Electronic Format"
+    },
+    {
+      "id": "p14-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "14.         With the launch of the Electronic Submission Hub (ESH), AP/RSE/RGE\nare encouraged to submit plans, forms and documents via the ESH in lieu of the\nconventional paper submission or the submission of CD/DVD. Detailed requirements of\nsubmission via the ESH are set out in PNAP ADM-17.\n\n\n\n\n                                                                             /15 …"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 5 -"
+    },
+    {
+      "id": "p15-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 655
+        },
+        {
+          "label": "b",
+          "offset": 809
+        },
+        {
+          "label": "c",
+          "offset": 927
+        },
+        {
+          "label": "d",
+          "offset": 1000
+        }
+      ],
+      "text": "15.           Before the full adoption of ESH in structural plans submission, BD will\ncontinue to accept submission of Part  II structural calculations and other types of\nstructural documents listed in Appendix B in CD/DVD. In this connection, the CD/DVD\nshould be in the form of a non-rewriteable CD-ROM in ISO 9660 format (i.e. CD format)\nor non-rewriteable DVD-ROM in ISO/IEC 13346:1995 format (i.e. DVD format) with\nthe project information, i.e. BD reference number, submission title, name of RSE/RGE\nand disc number, printed on the cover. The RSE/RGE should sign on the cover of each\nCD/DVD submitted and the electronic files contained in it should:\n\n        (a)    be in the Adobe Portable Document Format (PDF), and each\n               separate page of the documents should not be larger than A3 size;\n\n        (b)    have a  clear index  listing the content and purpose of each\n            document file in the CD/DVD;\n\n        (c)    support searching of text contained in the document; and\n\n        (d)    have resolution not less than 300 dpi for any image contained in\n               the document."
+    },
+    {
+      "id": "p16-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "16.         Once the CD/DVD is submitted,  it is not replaceable and will not be\nreturned. Any supplementary design calculations and/or other information in Part II\nstructural calculations as well as supplementary structural documents should be presented\nin the same format and submitted in a supplementary CD/DVD for BD’s retention.\n\n\n\n\n\n                                                           ( YU Po-mei, Clarice )\n                                               Building Authority\n\n\n\nRef. : BD GP/BREG/A/12 (Pt.II)\n\nThis PNAP is previously known as PNAP 121\nFirst issue    July 1986\nLast revision  July 2021\nThis revision  June 2023 (AD/NB2) (General revision)"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix A\n                                                        (PNAP ADM-8)\n\n               Checklist on Documents included in Structural Submissions\n\n\nPART 1  - GENERAL INFORMATION\n\nBD Ref. No.:                   Address of Site:                                   Lot No.:\nAuthorized Person:                               Registered Structural Engineer:\n\nType of Submission (Please tick as appropriate):\n                First Submission        Resubmission upon Disapproval       Major Revision/Amendment\n\nType of Works (Please tick as appropriate):\n         New Building            Alteration & Addition\n        Foundation\n           Ground Investigation       Driven Pile       Small Diameter Bored Pile (not exceeding 750mm)\n            Large Diameter Bored Pile (over 750mm)       Barrette      Spread Footing       Raft\n             Others\n         Earth-retaining, Excavation and Lateral Support Works\n             Retaining Wall       Sheet Piling        Piled Wall      Diaphragm Wall      Lateral Support Detail\n            Other Shoring System\n        Underground Structure\n           Basement         Pile Cap        Others\n         Superstructure\n           Main Structure        Curtain/Glass Wall       Cladding       Signboard\n             Others\n\nPART 2 - DOCUMENTS SUBMITTED (Please tick as appropriate)\n                                                                               Yes    N/A\n Plans (2 signed sets for approval)\n Design calculations (Part I, No. of Vol.    )\n                       (Part II, No. of Vol.     / CD / DVD ROM)\n Ground/site investigation report (2 sets / CD / DVD ROM)\n Appraisal report on adjacent/existing buildings (1 set / CD / DVD ROM)\n Geotechnical report\n Form BA 4 (Appointment of AP/RSE/RGE)\n Form BA 5 (Application for approval)\n Form BA 6 (Stability certificate)\n Form BA 16 (Application for exemption/modification)\n Payment is required when fees are charged according to the total number of plans submitted\n Others (Please specify):\n\n\n                                                                    - 1 ­"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "PART 3 - ADDITIONAL PLANS AND DESIGN DOCUMENTS FOR REFERRAL\n Does the proposal involve or affect the       Yes  No\n following?\n Area Number 1, 2 or 4 of the Scheduled                    Geotechnical Engineering Office\n Areas                                                      (1 set of plans and 1 set of documents)\n Area Number 3 of the Scheduled Areas or                     (a) Mass Transit Railway Corporation Limited;\n Railway Protection Areas                                  and\n                                                                 (b) Railway Division, Highways Department\n                                                             (2 sets of plans)\n Area Number 5 of the Scheduled Areas                        (a) Geotechnical Engineering Office; and\n                                                                 (b) Drainage Services Department\n                                                             (2 sets of plans and 1 set of documents)\n Designated Area of Northshore Lantau                     Geotechnical Engineering Office\n                                                             (1 set of plans and 1 set of documents)\n Slopes, retaining structures, deep                          Geotechnical Engineering Office\n excavation, disused tunnel                                  (1 set of plans and 1 set of documents)\n Culvert, nullah, stream course                                   (a) Geotechnical Engineering Office;\n                                                                 (b) Drainage Services Department; and\n                                                                     (c) Highways Department\n                                                             (3 sets of plans)\n Proposed railway routes                                Railway Development Office, Highways\n                                                      Department\n                                                             (1 set of plans)\n Chek Lap Kok Airport                                       Civil Aviation Department\n                                                             (1 set of plans)\n Structures to be erected in, over, under or                      (a) Lands Department; and\n upon a street                                                  (b) Highways Department\n                                                             (2 sets of plans)\n Highway structures                                  Highways Department\n                                                             (1 set of plans and 1 set of documents)\n Sea walls, adjacent to sea front                              Port Works Division, Civil Engineering and\n                                                    Development Department\n                                                             (1 set of plans and 1 set of documents)\n Reclamation, piers                                               (a) Marine Department; and\n                                                                 (b) Port Works Division, Civil Engineering and\n                                                       Development Department\n                                                             (2 sets of plans and 2 sets of documents)\n Public drainage                                         Drainage Services Department\n                                                             (1 set of plans)\n Water mains                                        Water Supplies Department\n                                                             (1 set of plans)\n Monument, proposed monument, graded                     Antiquities and Monuments Office\n  building, proposed graded building or site                   (1 set of plans)\n having archaeological interest\n Use of any new structural theories, materials                Technical Services Unit, Buildings Department\n or systems, sophisticated designs and                        (1 set of plans and 1 set of documents)\n unconventional construction methods\n A total of               set(s) of additional plans and               set(s) of documents for referral\nRemark : This checklist is not meant to be exhaustive and more information may be required for individual structural\n          submission.\nDate :                                    Signature :\n                                           Full name of AP/RSE  :\n(Rev. 6/2023)\n                                                                    - 2 ­"
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Appendix B\n                                                  (PNAP ADM-8)\n\n\n                 Paperless Submission of Structural Documents\n\n\n            The structural documents listed below may be submitted in CD/DVD\nformat, save for the statement signed by the RSE or RGE, as appropriate, confirming\ncompliance with the relevant acceptance criteria/standards/supervision requirements, etc.\nshould still be submitted in hard copy:\n\n        (a)    Material documents and testing reports;\n\n        (b)    Quality assurance documents such as quality assurance proposal,\n               quality assurance scheme, quality supervision plan/scheme and\n               quality assurance certificate;\n\n        (c)    Quality supervision reports and audit reports;\n\n        (d)   RGE’s Technically Competent Persons (TCPs) T5/Directorate\n                Site Supervisor (DSS) reports;\n\n        (e)    Ground investigation reports and laboratory testing reports;\n\n         (f)    Method statements/proposals for testing and construction works;\n\n        (g)    Pre-construction condition survey reports;\n\n        (h)    Appraisal reports on adjacent/existing buildings;\n\n          (i)      Initial readings of monitoring stations and subsequent monitoring\n              readings during the course of works; and\n\n          (j)     Site/works management documents such as public relations plan\n             and debris disposal and management system proposal.\n\n\n\n\n(Rev.  6/2023)"
+    }
+  ]
+}

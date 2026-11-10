@@ -1,0 +1,234 @@
+{
+  "code": "APP-116",
+  "source_text": "indexed_text/PNAP/APP/APP-116.txt",
+  "source_pdf": "documents/PNAP/APP/APP-116.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department   Registered Structural Engineers and        APP-116\n                         Registered Geotechnical Engineers\n\n\n                        Aluminium Windows\n\n\n              Section 3 of the Building (Construction) Regulation (B(C)R) stipulates\nthat all materials used in building works or street works must be of a nature and quality\nsuitable for their intended use or purposes; adequately mixed or prepared; and applied,\nused or fixed so as to perform adequately their intended functions. These requirements\napply to aluminium windows to be installed in any buildings.  This Practice Note for\nAuthorized  Persons,  Registered  Structural Engineers and  Geotechnical Engineers\n(PNAP) specifies the requirements on the design and installation of aluminium windows\nto ensure public safety and to prevent water seepage. Compliance with the design and\ninstallation requirements of aluminium windows described in paragraphs 4 to 9 below\nwill be accepted by the Building Authority (BA) as meeting the provisions of section 3 of\nthe B(C)R. Any deviations from these requirements have to be separately substantiated\nfor acceptance.\n\nStructural Submission for Windows"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           For large windows falling within the criteria stipulated in PNAP APP-37,\ntheir structural design should be submitted to the BA for approval in accordance with the\nrequirements laid down therein.  For other windows, authorized persons (AP) and\nregistered structural engineers (RSE) should ensure that they are properly designed and\ninstalled to meet the performance requirements and the safety standards in the B(C)R\nwhilst registered contractors (RC) should have experienced and skilled supervisors and\nworkers as well as suitable quality assurance procedures in place to ensure the proper\ninstallation of the windows. Standards commonly used for the design and construction\nof window, which are acceptable to the BA, are given in Appendix A to both PNAP APP-\n37 and PNAP APP-53.\n\nMinor Works Relating to Window"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           Under the Minor Works Control System, certain minor building works\nrelating to the repair and replacement of windows have been designated as minor works\nand may be carried out under simplified requirements as an alternative to obtaining prior\napproval and consent under the Buildings Ordinance. Reference can be made to Schedule\n1 of the Building (Minor Works) Regulation and PNAP APP-147 regarding the list of\nminor works items and the simplified requirements respectively.\n\n\n                                                                     /Design …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\nDesign and Installation Requirements"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         When designing windows, attention should be paid to the requirements on\nhorizontal imposed loads, protection of openings, function of protective barriers, locking\ndevices of openable sashes/sub-frames, corrosion protection, quality control of materials\nand protection against the spread of fire and smoke between floors."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.         Window members, transoms and mullions together with the glass panes\nshould be of adequate size and strength taking into consideration the location, height and\norientation of the windows. Window frames should be securely and rigidly fixed in place\nto window openings in walls. Where fixing lugs are adopted, they should be of stainless\nsteel or hot dip galvanised steel having a minimum material thickness of 1.5 mm and be\nplaced at 300 mm centres maximum. Adequate site supervision should be provided to\ncheck that all the fixing lugs are properly fixed. Where a spacing greater than 300 mm is\nproposed, the AP/RSE should satisfy that the performance of the windows including\nstructural stability and waterproofing would not be compromised."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.            All structural members of a window should have a minimum aluminium\nthickness of 2 mm and the depth of the mullion should not be less than 38 mm. Particular\nattention should be paid to the fixing details of the hinges.  All hinges and fastening\nmechanisms adopted in the installation should be able to withstand the positive and\nnegative pressures due to the design wind conditions when the window is closed and\nshould be of adequate size and strength commensurate with the size of the window."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.         To ensure the strength and rigidity of windows in general, the width of a\nside-hung sash should not exceed 700 mm and the size of a top-hung sash should not\nexceed 2.5 m2. Hinges for openable sashes/sub-frames should be adequate in holding the\nweight of the sashes/sub-frames."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          Where 4-bar hinges are adopted, reference should be made  to the\nGuidelines on Fixing of 4-bar Hinges at Appendix A."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.           For  locking devices  of openable  sashes/sub-frames,  its  design and\ninstallation requirements are given in PNAP APP-37.\n\nWindow Stay"
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "10.           Suitably designed window stay can minimise the effect of strong wind on\nthe durability of hinges and casements.\n\nCleaning"
+    },
+    {
+      "id": "p11-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "11.           Corrosive agent should not be used for the cleaning of external walls and\nwindows of buildings upon the completion of building works unless it is thoroughly\nwashed with clean water immediately after application.\n\n\n                                                       /Water Seepage …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\nWater Seepage"
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.           Besides safety consideration, water leakage from windows poses undue\nnuisance to the occupants. AP and RSE are reminded to bear this in mind when preparing\nwindow design details and RC are reminded that poor workmanship is a major cause of\nthe problem. Reference may be made to the Guidelines on Prevention of Water Seepage\nin New Buildings enclosed in the circular letter dated 7 March 2005 issued by the\nBuildings Department."
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "13.           In order to ensure the durability of windows, it is recommended that the\ntop member of a window frame should have a built-in projecting fin with a drip nose to\nprevent water ingress into the window frame/casement so as to minimise the possibility\nof corrosion due to accumulation of water. A typical section of the projecting fin is at\nAppendix B.\n\nWater Penetration Test"
+    },
+    {
+      "id": "p14-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "14.                It is advisable to perform field water penetration test on the installed\naluminium windows to ensure water tightness and quality of the completed window units.\nSome international standard testing methods are given in Annex A of the Code of Practice\nfor Structural Use of Glass 2018."
+    },
+    {
+      "id": "p15-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "15.      A similar practice note has been issued to RC.\n\n\n\n\n\n                                                                    ( YU Tak-cheung )\n                                                    Building Authority\n\n\n\nRef. : BD GP/BORD/105 (II)\n    BD GP/BREG/P/38 (II)\n\nThis PNAP is previously known as PNAP 248\nFirst issue         July 2001\nLast revision     March 2006\nThis revision     February 2021 (AD/NB1 & AD/NB2) (General Revision)"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                 (PNAP APP-116)\n\n\n                      Guidelines on Fixing of 4-bar Hinges\n\n\n              4-bar hinges shall be manufactured from stainless steel with adjustable\nfriction shoe, and all stainless steel bars of the hinge shall have a minimum thickness of\n2.5 mm.  For better corrosion resistance, stainless steel rivets/screws shall be used for\nthe fixing of hinges and aluminium rivets shall not be used as they tend to corrode.  At\nleast 3 numbers of stainless steel rivets of diameter not less than 4.8 mm or stainless\nsteel screws of diameter not less than 5 mm shall be used to fix each bottom and top\nbars of the hinge to the window frame and the openable sash."
+    },
+    {
+      "id": "p2-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         As  stainless  steel hinges and  rivets/screws  are used  in aluminium\nwindow installation, due consideration and measures should be taken to prevent contact\nbetween dissimilar metals."
+    },
+    {
+      "id": "p3-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          To provide sufficient anchorage for the stainless steel rivet or screw to\nfasten the hinge to the window frame and the openable sash, a positive mechanical\nfixing, for example by inserting a stainless steel or hot dip galvanised steel plate or\nbar/angle of not less than 3 mm thick inside the section to provide sufficient threads for\nthe screw(s) shall be adopted. A typical example of this arrangement is at Annex I.\nAs an alternative, the window sections for fixing the hinge may be thickened locally to\nnot less than 5 mm. A typical example is at Annex II.  When insertion of an extra\npiece of stainless steel or hot dip galvanised steel bar/angle inside the section or local\nthickening to 5 mm is not adopted, the thickness of aluminium sections for fixing the\n4-bar hinge shall be substantiated by calculations that  it could provide sufficient\nanchorage for the stainless steel rivet or screw."
+    },
+    {
+      "id": "p4-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          The length of the 4-bar hinge should be at least 60% of the width of the\nside hung casement window sash.\n\n\n\n\n\n(Rev. 2/2021)"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Annex I to Appendix A\n                                                (PNAP APP-116)\n\n\n\n\n          WIDTH OF WINDOW SASH\n                        700 mm          ANGLE\n                                     DETAIL A-A               ≦                    (AT LOCATION D)                                                                             WINDOW SASH\n                                                 S.S. 4-BAR HINGES\n\n                                                                                     HOLE FILLED WITH SEALANT\n                                  M5x10 S.S. SCREW\n\n                                    SEALANT\n                                                                                     HOLE FILLED WITH SEALANT\n\n\n\n\n\n                                                              S.S. PLATE/BAR\n                                              (AT LOCATIONS A, B, C)                                    WINDOW FRAME\n\n     ELEVATION                           SECTION X - X\n                               SIDE HUNG WINDOW WITH S.S. PLATE/BAR AND\n                         ALUMINIUM ANGLE INSERTED FOR FIXING SCREWS\n\n\n                  F\n\n\n\n\n\n                E\n\n              D                                         ANGLE\n\n\n\n\n\n        A                     B     C\n\n\n           LENGTH ≧ 60% OF WIDTH OF WINDOW SASH\n\nA, B, C, E, F – LOCATION FOR SCREW TO WINDOW FRAME/SASH\n             (LOCAL THICKENING BY S.S. PLATE/BAR)\n\nD – LOCATION FOR SCREW TO WINDOW SASH\n    (LOCAL THICKENING BY ANGLE)\n\n\n                                                   DETAIL A - A\n                S.S. 4-BAR HINGE\n\n\n\n\n\n  (Rev. 2/2021)"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Annex II to Appendix A\n                                              (PNAP APP-116)\n\n\n\n\n\n   ITEM         DESCRIPTION           MATERIAL\n\n       1         WINDOW SASH          ALUMINIUM\n\n       2        WINDOW FRAME          ALUMINIUM\n\n       3           BRASS PLATE              BRASS\n\n       4            4-BAR HINGE           STAINLESS STEEL\n             M5 x 16mm PAN HEAD\n       5    MACHINE SCREW, PITCH 0.8mm   STAINLESS STEEL\n\n\n\n\n                                           VIEW C mm\n\n 5\n\n\n\n      SECTION A - A                                      mm5\n\n\n\n                                                SECTION B - B\n\n\n\n\n\n                      VIEW C\n                        WINDOW FIXING\n\n\n\n\n\n(Rev. 2/2021)"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Appendix B\n                                                (PNAP APP-116)\n\n\n                 Top Member of Window Frame\n                     with Built-in Projecting Fin\n\n\n\n\n\n                     ELEVATION\n\n\n\n\n\n           S.S. 4-BAR HINGE\n\n\n\n\n                                                                             PROJECTING FIN WITH DRIP NOSE\n\n\n\n       WINDOW FRAME\n\n\n\n                                                              WINDOW SASH\n\n\n\n\n                        SECTION Y - Y\n\n\n\n\n\n(Rev. 2/2021)"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "code": "APP-040",
+  "source_text": "indexed_text/PNAP/APP/APP-040.txt",
+  "source_pdf": "documents/PNAP/APP/APP-040.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-40\n                         Registered Geotechnical Engineers\n\n\n                             Hotel Development\n\n\n              Regulation 23A of the Building (Planning) Regulations (B(P)R), which\ncame into operation on 1 November 2000, provides the Building Authority (BA) with a\ndiscretionary power to treat a hotel building or the hotel part of a building as a\nnon-domestic building for site coverage as well as plot ratio purposes and to disregard\ncertain supporting facilities together with the setting down and picking up areas for hotel\nusers from gross floor area (GFA) calculations."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            This  practice note  sets out the  factors  that the BA  will take  into\nconsideration, for the purposes of regulations 23A(2) and (3) of the B(P)R, in deciding\nwhether a hotel proposal will be accorded with the treatment detailed in the identified\nregulation.\n\nHotel Concession"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 124
+        },
+        {
+          "label": "b",
+          "offset": 256
+        },
+        {
+          "label": "c",
+          "offset": 627
+        },
+        {
+          "label": "d",
+          "offset": 862
+        }
+      ],
+      "text": "3.           For hotels to qualify for the treatment under regulation 23A of the B(P)R,\nthe BA will consider the following:\n\n        (a)    whether the site itself or the site relative to its neighbourhood is\n               suitable for hotel development;\n\n        (b)    whether basic facilities such as reception counter, storerooms for\n                linen, administration office, staff toilets for the operation of the\n               hotel and facilities ancillary to the functions of a hotel (e.g. dining,\n              entertainment and shopping facilities commensurate with hotel\n              patronage) are provided;\n\n        (c)    whether the whole building or the portion of the building intended\n               for use as a hotel is provided with a central air-conditioning (A/C)\n             system and a centralised hot water supply system1; and\n\n        (d)    whether there is evidence indicating that the hotel building or the\n               hotel part of the building when completed will be operated as a\n               licensed hotel under the Hotel and Guesthouse Accommodation\n             Ordinance (Cap. 349).\n\n\n                                                                                                 /4. …\n\n\n1   Plant rooms for central A/C system and centralised hot water supply system of reasonable\n    sizes may be disregarded under regulation 23(3)(b) of the B(P)R subject to the pre-requisites\n   and overall GFA concession cap of 10% under Practice Note for Authorized Persons,\n    Registered Structural Engineers and Registered Geotechnical Engineers APP-151."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 187
+        },
+        {
+          "label": "b",
+          "offset": 683
+        },
+        {
+          "label": "c",
+          "offset": 1086
+        },
+        {
+          "label": "d",
+          "offset": 1299
+        }
+      ],
+      "text": "4.           For the purpose of paragraph 3(a) above, when considering whether a site\nis suitable for hotel development, the BA will take into account, inter alia, the following\naspects:\n\n        (a)     the predominant nature and character of the surrounding land\n               uses. In general, a site will be taken as suitable if it is permitted\n               to be developed as a hotel under an outline zoning plan (OZP),\n                either permitted under Column 1 of the Notes for the OZP or has\n              obtained permission from the Town Planning Board through an\n               application under section 16 of the Town Planning Ordinance\n              (Cap. 131);\n\n        (b)    whether the scale of a hotel development is compatible with the\n              surrounding developments. In this respect, the BA will take into\n              account the development intensity of the proposed hotel and\n            compare   it  with  the  permitted  development  intensity  of\n              surrounding developments (under OZP,  lease  conditions  or\n             B(P)R);\n\n        (c)    whether an adequate number and width of streets are available to\n              serve the proposed hotel and to cope with the additional vehicular\n             and pedestrian traffic generated; and\n\n        (d)    whether any necessary transport, parking, loading and unloading\n                 facilities for hotel use would be provided."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            Confirmation by a hotel operator that he has been appointed to operate the\nproposed hotel building upon completion may be accepted as evidence for the purpose of\nparagraph 3(d) above."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          The BA acknowledges that requirements for the basic and ancillary\nfacilities described in paragraph 3(b) above as well as the transport facilities mentioned\nin paragraph 4(d) above may vary according to the types of hotels in terms of their size\nand the number of guest rooms.  The BA will take into consideration the special\ncircumstances of each case."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           For necessary transport, parking, loading and unloading facilities for hotel\nuse in paragraph 4(d) above, the BA will take into account the Transport Department’s\nassessment on the traffic impact, vehicle loading, unloading and parking requirements\nhaving regard to the size, location and traffic conditions of each site. For hotels having\n100 or more guest rooms, provisions in accordance with the Hong Kong Planning\nStandards and Guidelines should normally be provided in respect of parking and\nloading/unloading facilities."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.           For the purpose of disregarding any floor space used for provision of\nsupporting facilities that are unique and integral to the normal operation of the hotel under\nregulation 23A(3)(b) of the B(P)R, the BA must be satisfied that the facilities comply\nwith the following criteria:\n\n\n                                                                                               /(a) …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n        (a)     their size is reasonable, their location practical and their design\n             genuine to serve the intended purpose;\n\n        (b)    they are accessible to hotel staff only; and\n\n        (c)    abuse of use is unlikely.\n\nUnless there are strong justifications, the BA would not expect the GFA of such facilities\nto exceed 5% of the total GFA of the hotel. For the avoidance of doubt, offices for the\nadministration and management of the hotel are not considered as unique supporting\nfacilities for the purpose of regulation 23A(3)(b)(iv) of the B(P)R. Relevant supporting\nfacilities in hotel developments are set out in Appendix A."
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.            Proposals for change of use of existing buildings into hotel use will also\nbe assessed based on the above criteria for consideration under regulation 23A of the\nB(P)R.\n\nUnauthorised Change of Use"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.           Attention is drawn to the sanctions set out in regulations 23A(8) and (9)\nof the B(P)R. In this regard, the Buildings Department, with advice from the Licensing\nAuthority, has put in place a monitoring system and will take action under the aforesaid\nprovisions if any unauthorised change of use is identified.\n\nApplication"
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.         The provisions of regulation 23A of the B(P)R apply to bona fide hotels\nonly, and do not apply to “service apartments”."
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.           Hotel concessions are applicable to both new hotel projects and proposals\nfor extension of existing hotels.  For an alteration and addition proposal involving\nadditional GFA or increase in building bulk of an existing hotel, the proposal will be\nreassessed in accordance with the current regulation 23A of the B(P)R and the criteria set\nout in paragraphs 3 to 8 above.\n\n\n\n\n\n                                                                 ( YU Po-mei, Clarice )\n                                                   Building Authority\n\nRef. : BD GR/CC/278\n    BD GP/BL/P/22 (VII)\n    BD GR/1-10/18/0 (Pt.5)\n\nThis PNAP is previously known as PNAP 111\nFirst issue    February 1985\nLast revision  August 2004\nThis revision   July 2023 (AD/NB1)  (Paragraphs 8 & 9 amended, and footnote 1,\n                                     paragraph 12 and Appendix A added)"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                          (PNAP APP-40)\n\n      Provision of Back-of-House (BOH)/Front-of-House (FOH) Facilities\n                             in Hotel Developments\n\n                                                Facilities"
+    },
+    {
+      "id": "p1-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "1. BOH  facilities that are unique     (a) Linen Store1\n    and  integral  to  the  normal\n    operation of the hotel                  (b) Laundry Room\n    (may  be  disregarded  from GFA                                                 (c) Carpentry Workshop\n     calculation under B(P)R 23A)\n                                               (d) Mechanical or Electrical Workshop\n                                                 (e) Dry Goods Store2\n                                                       (f)  Food Store\n                                               (g) Beverage Store\n                                               (h) Furniture Store\n                                                         (i)  Staff Canteen\n                                                         (j)  Staff Changing Rooms\n                                               (k)  Staff Rest Room\n                                                         (l)  Staff Toilet1, 3"
+    },
+    {
+      "id": "p2-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "2. Other BOH facilities                    (a)  Administration & Management Office2\n    (accountable for GFA calculation)                                               (b) Purchasing & Receiving Office\n                                                 (c)  Security Office"
+    },
+    {
+      "id": "p3-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "3. FOH facilities                            (a) Reception Counter/Lobby1\n    (accountable for GFA calculation)                                               (b) Shopping Facilities\n                                                 (c) Dining Facilities\n                                               (d) Business Centre\n                                                 (e)  Function Rooms\n Minimum % of total required BOH & FOH Provision: 3% of total GFA of hotel\n\n1 Required for all hotels.\n2 Required for hotels with over 10 guest rooms.\n3  Staff toilet not forming part of or not solely serving the administration & management office may be\n  disregarded from GFA calculation.\n\n\n(7/2023)"
+    }
+  ]
+}

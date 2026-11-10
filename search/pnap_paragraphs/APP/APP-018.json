@@ -1,0 +1,648 @@
+{
+  "code": "APP-018",
+  "source_text": "indexed_text/PNAP/APP/APP-018.txt",
+  "source_pdf": "documents/PNAP/APP/APP-018.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department    Registered Structural Engineers and         APP-18\n                         Registered Geotechnical Engineers\n\n\n                 Code of Practice for Foundations 2017\n\n\n           The Buildings Department has set up a Technical Committee (TC) to,\namong others, collect and consider the views and feedback from the building industry\narising from the use of the Code of Practice for Foundations 2017 (the Code). Taking\ninto account the advice of the TC, amendments were made to the Code in February 2021,\nJuly 2022, August 2023 and June 20241, which have been incorporated in the Code\n(2024 Edition) promulgated in October 2024."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 133
+        }
+      ],
+      "text": "2.        On the advice of the TC, the following amendments  to the Code\n(2024 Edition) have been promulgated with immediate effect.\n\n        (a)    Appendix A – September 2025"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          Complying with the requirements of the Code will be “deemed-to-satisfy”\nthe relevant provisions of the Building (Construction) Regulation. Authorized persons\n(AP), registered structural engineers (RSE) and registered geotechnical engineers (RGE)\nshould observe the requirements stipulated in the Code as well as the latest supplementary\nguidelines and requirements in relation to foundation works stipulated in other relevant\nPractice Notes for Authorized Persons, Registered Structural Engineers and Registered\nGeotechnical Engineers issued by the Building Authority (BA) listed in Appendix B."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 309
+        }
+      ],
+      "text": "4.         AP/RSE/RGE should also observe the design, construction, administrative\nand procedural requirements relating to foundation works as listed in Appendix C. To\nfacilitate the construction progress and early submission of foundation plans, the\nfollowing streamlining arrangements have been introduced:\n\n        (a)    two-stage  pile foundation plan submissions with  details\n             given in Annex C1; and\n\n\n\n\n\n                                                                                           /(b) ...\n\n\n\n\n\n1  All previous amendments are summarised in the attached link:\n   https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals /\n  OldVersions/CoP_FC_ov.zip"
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n        (b)    deferred site-specific ground investigation for foundation\n              plan  submissions  in  non-scheduled  areas  and  Area\n           Numbers 3 and 5 of the Scheduled Areas as detailed in\n           Appendix C.\n\n\n\n\n\n                                                               ( HO Chun-hung )\n                                                Building Authority\n\n\n\n\n\nRef. : BD CS-TSSE-005-F0001-P001\n\nFirst issue    February 1980\nLast revision  September 2025\nThis revision  February 2026 (AD/NB2)    (Paragraph 4(b) and Appendix C amended)"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Appendix A\n                                                                               (PNAP APP-18)\n\n\n\nAmendments to the Code of Practice for Foundations 2017 (2024 Edition)\n                                   ( September 2025 )\n\n\n\n\n\n  Legends:\n       New/Amended\n        Deleted\n\n\n\n\n\n  (9/2025)\n\n\n\n\n\n                                                                                   - 1 -"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Amendments to the Code of Practice for Foundations 2017 (2024 Edition)\n\n Item              Current version                                    2025 Amendments"
+    },
+    {
+      "id": "p1-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "1. Clause 2.2.41    Allowable  Vertical  Bearing  Pressure  of  Shallow   Allowable Vertical Bearing Pressure of   Foundation\n                   Foundation founded on Soil                        Founded on Soil\n                  The allowable vertical bearing pressure of foundations   The allowable vertical bearing pressure of foundations\n                    founded on soils derived by bearing capacity equation may    founded on soils derived by bearing capacity equation may\n                    be taken as:                                           be taken as:\n\n                                          q u − q o                                            q u − q o                                      q a =      + q o                                    q a =      + q o                                        F                                            F\n\n                    where   qa  =  allowable vertical bearing pressure       where   qa  =  allowable vertical bearing pressure\n                                qu  =   ultimate  bearing  capacity  of  the             qu  =   ultimate  bearing  capacity  of  the\n                                         granular soil, which should be limited                      granular soil, which should be limited\n                                            to 3 000 kPa                                                   to  3  000  kPa.  For  foundations\n                                                                                                  supporting       building(s)      with\n                                                                                               basement(s) on granular soil, this limit\n                                                                                              should be increased to 4 500 kPa.\n                                qo  =   effective overburden pressure  at the             qo  =   effective overburden pressure  at the\n                                      base of the foundation, i.e. qo = γs'                    base of the foundation, i.e. qo = γs' Df ,\n                                Df , whereγs' and Df are respectively                  whereγs' and Df are respectively the\n                                          the effective unit weight and depth of                       effective unit weight and depth of the\n                                          the soil that originally exists above the                         soil that originally exists above the base\n                                      base of the foundation                                      of the foundation\n                        F  =   factor of safety not less than 3                 F  =   factor of safety not less than 3\n\n1  Revision of the maximum value of ultimate bearing capacity.\n                                                                                                       - 2 -"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Item              Current version                                    2025 Amendments"
+    },
+    {
+      "id": "p2-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "2. Clause 2.2.4      Notes:                                                   Notes:\n    Note 12\n                        (1)    q should not include any overburden pressure that  (1)    q should not include any overburden pressure that\n                      may be temporarily or permanently removed during       may be temporarily or permanently removed during\n                              the design life of the foundation.  In its derivation,          the design life of the foundation.    In the derivation\n                              the maximum effective overburden depth of subsoil          of q for shallow foundation, the depth of subsoil\n                            should not be greater than 3 m or Bf, whichever is         should not exceed 3 m or Bf, whichever  is the\n                              the lesser, and suitable adjustments should be made          smaller.   For foundations supporting building(s)\n                                to discount any voids  that may be allowed for         with basement(s) on granular  soil, the effective\n                           underground utilities.                                     depth  of  subsoil,  defined  as  the  minimum\n                                                                                  overburden depth around the basement perimeter,\n                                                                                    should not exceed 10 m or Bf, whichever is the\n                                                                                               smaller,  in  the  derivation  of  q.     Suitable\n                                                                                      adjustments should be made to discount any voids\n                                                                                                   that may be allowed for underground utilities.\n\n\n\n\n\n2  Revision of the maximum effective overburden depth of subsoil.\n                                                                                                       - 3 -"
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Item              Current version                                    2025 Amendments"
+    },
+    {
+      "id": "p3-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "3. Clause 2.3.1(4)     (4)   Young’s Modulus                                      (4)   Young’s Modulus\n    paragraph 23     …                        …\n\n                          Care should be taken in determining the Young’s         Care should be taken in determining the Young’s\n                         modulus  of  soils  by  the  use  of  empirical         modulus of soils by the use of empirical correlations\n                               correlations with the SPT N-value as  it can be          with the SPT N-value as it can be unsafe in some\n                            unsafe in some cases and over-conservative in          cases and over-conservative in others.  For shallow\n                                others.   For shallow  foundations with design          foundations    , in the absence of more accurate data,\n                            allowable  bearing  pressures  not  greater  than           the Young’s modulus Es (in MPa) of granular soils\n                        250 kPa, in the absence of more accurate data, the        may be taken as   1 times the SPT N-value.  For\n                          Young’s modulus Es (in MPa) of granular soils may             raft foundation on granular soils derived from in-situ\n                          be taken as one time the SPT N-value.                     rock weathering (e.g. saprolites and residual soils)\n                                                                                   with SPT N-value > 30, in the absence of more\n                                                                                         accurate data, the Young’s modulus Es (in MPa) may\n                                                                               be taken as 1.5 times the SPT N-value.\n\n\n\n\n\n3  Revision of the requirement for determination of Young’s modulus.\n                                                                                                       - 4 -"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Item              Current version                                    2025 Amendments"
+    },
+    {
+      "id": "p4-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "4. Clause             (2)   Testing Requirements                                  (2)   Testing Requirements\n     4.2.2(2)(c)4      …                        …\n\n                                 (c)  the Young’s modulus, Es (in MPa), of the            (c)  the Young’s modulus, Es  (in MPa), of the\n                                 bearing  strata  used  in  the  estimation  of               bearing  strata  used  in  the  estimation  of\n                                   settlement is greater than one time the SPT               settlement is greater than   1 times the SPT-N\n                                 N-value.                                                 value or 1.5 times the SPT N-value (for granular\n                                                                                                          soils derived from in-situ rock weathering (e.g.\n                                                                                                      saprolites and residual soils) with SPT N-value\n                                                                     > 30) as appropriate."
+    },
+    {
+      "id": "p5-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "5.  Table 7.2        Table 7.2      Typical Values for the Three Triggering  Table 7.2      Typical Values for the Three Triggering\n                                   Levels on Nearby Buildings, Structures                Levels on Nearby Buildings, Structures,\n                                  or Services  that are not  Sensitive  to             Land or Services that are not Sensitive to\n                                   Settlement                                             Settlement\n\n         …                        …\n\n\n\n\n\n4  Revision of the requirement for plate load test.\n                                                                                                       - 5 -"
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Item              Current version                                    2025 Amendments"
+    },
+    {
+      "id": "p6-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "6. Clause 8.10    TENSION LOADING TEST                   TENSION LOADING TEST\n    paragraph 45  …                        …\n\n                  The maximum test load should not result in the test pile or  The maximum test load should not result in the test pile or\n                     anchor being stressed beyond the yield stress.  Where the  anchor being stressed beyond the yield stress.  Where the\n                     design uplift capacity of the test pile is based on bond and  design    tension capacity of test pile is based on bond\n                         tensile stresses which are taken as 50% of the corresponding    or friction between rock/soil and concrete/grout for pile\n                      values in compression, the test load may be 1.5 times the  and is taken as not exceeding 50% of the corresponding\n                     design uplift capacity of the pile under working load.          allowable bond stress in compression, the test load may\n                                                                        be set at 1.5 times the design   tension capacity    .\n\n\n\n\n\n5  Refinement of the wording.\n                                                                                                       - 6 -"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": ""
+    },
+    {
+      "id": "page-10-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Appendix C\n                                                  (PNAP APP-18)\n\n\n       Design, Construction, Administrative and Procedural Requirements\n                           relating to Foundation Works\n\nDesign and Construction of Foundations\n\nPile Foundations\n\n        When a registered structural engineer (RSE) intends to apply a piling system\nwhich is not commonly adopted in local practice for foundation construction or not\ncomplied  with  the  requirements/conditions  set  out  in  the Code  of  Practice  for\nFoundations 2017 (the Code), the design principles involved should be settled with the\nBuilding Authority (BA) prior to the submission of foundation plans using such pile\nsystem for approval, whenever possible. This would facilitate the RSE to proceed with\nconfidence and avoid abortive work."
+    },
+    {
+      "id": "p2-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "2.      A pre-submission enquiry and conference as recommended in Practice Note\nfor Authorized Persons, Registered Structural Engineers and Registered Geotechnical\nEngineers (PNAP) ADM-19 should be made to the BA in advance."
+    },
+    {
+      "id": "p3-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          All technical details of the system should be submitted to the BA, including\nmaterial  specification, manufacturing  process, method  of  installation, method  of\nassessing pile capacity, applicability relating to ground conditions and selected examples\nof uses of the system elsewhere, if applicable. A demonstration of the performance of\nthe system is usually required."
+    },
+    {
+      "id": "p4-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 370
+        },
+        {
+          "label": "b",
+          "offset": 446
+        },
+        {
+          "label": "c",
+          "offset": 506
+        },
+        {
+          "label": "d",
+          "offset": 550
+        },
+        {
+          "label": "e",
+          "offset": 628
+        }
+      ],
+      "text": "4.           Pile sections used in socketed steel H-pile or driven steel bearing H-pile may\nrequire demonstration of the compliance with section 3 of the Building (Construction)\nRegulation (B(C)R).  The following information should be submitted to the BA for\nconsideration prior to seeking approval of foundation plans using such type of pile section\nwhenever possible:\n\n       (a)  A brief description of the manufacturing process of the piles;\n\n      (b)   Samples of pile identification and mill label;\n\n       (c)   Samples of mill certificates;\n\n      (d)   Sectional properties of the piles including tolerances checking;\n\n       (e)   Chemical and mechanical properties of the piles including\n            general  specification, maximum  carbon  equivalent  values\n         (CEV) and satisfactory test results from a laboratory accredited\n           under  the Hong Kong  Laboratory  Accreditation Scheme\n        (HOKLAS) or other laboratory accreditation bodies which have\n           reached  mutual  recognition  agreements/arrangements  with\n        HOKLAS;\n\n\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-11-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        11
+      ],
+      "text": "(f)   Welding  specification  including  welding  procedure   test\n             specifications, sample  welding  procedure  test  results and\n            electrode specification;\n\n      (g)   Pile capacity;\n\n      (h)   Pile design;\n\n        (i)    Quality assurance and quality control schemes including a brief\n            description of the manufacturing process and product inspection\n          and quality management system certificate; and\n\n        (j)    Test reports by a laboratory accredited under the HOKLAS or\n            other  laboratory  accreditation  bodies which have  reached\n           mutual recognition agreements/arrangements with HOKLAS."
+    },
+    {
+      "id": "p5-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "5.      A list of steel H-pile sections with the required information as listed in\nparagraph 4 above which had been submitted to the BA and found satisfactory is available\non  the  Buildings  Department’s  (BD)  website  (www.bd.gov.hk)  under  the\n“Deemed-to-Satisfy” page of the “Resources” section. These pile sections are considered\nto have “deemed-to-satisfy”  section 3  of  the B(C)R concerning  the design and\nconstruction of foundations. If the proposed steel H-pile section is not on the list, the BA\nmay require all information listed in paragraph 4 to be included in the foundation plans\nsubmission for consideration.\n\nTechnical Guidance Notes No. 26 and 53 issued by Geotechnical Engineering Office"
+    },
+    {
+      "id": "p6-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 793
+        },
+        {
+          "label": "b",
+          "offset": 997
+        },
+        {
+          "label": "c",
+          "offset": 1197
+        }
+      ],
+      "text": "6.        The Geotechnical Engineering Office (GEO) of the Civil Engineering and\nDevelopment Department (CEDD)  revised  the Technical Guidance Note No. 26\n(TGN 26) and Technical Guidance Note No. 53 (TGN 53) on 28 April 2025. Subject to\nthe conditions given in paragraphs 1.1, 1.2 and 5.4.2 of TGN 26 and the notes to Table 1\nof TGN 53,  if the presumed allowable vertical bearing pressure and the presumed\nallowable bond or friction between rock and concrete or grout for piles of the founding\nstratum as given in TGN 26 (marble and marble-bearing rocks) or TGN 53 (igneous\nrocks) are adopted in the design of the foundation system, the BA will impose the\nfollowing conditions under item 6 of section 17(1) of the Buildings Ordinance (BO) when\ngranting the approval of the foundation plans:\n\n       (a)   Settlement analysis of the foundation should be performed to\n            take due account of the as-constructed pile lengths/founding\n             levels and the soil-structure interaction;\n\n      (b)   Assessment of the structures supported by the foundation should\n           be carried out to confirm that the structures can tolerate the\n            settlements determined at (a) above;\n\n       (c)   Upon completion of the foundation works, a report containing\n            the analysis and assessment conducted in (a) and (b) above\n           should be submitted to the BA;\n\n\n\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-12-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        12
+      ],
+      "text": "(d)  A settlement monitoring scheme should be implemented to\n           monitor the performance of the foundations throughout the\n            construction period of the superstructure.  The monitoring\n          scheme should be submitted to the BA for agreement before the\n         commencement of pile cap/superstructure works; and\n\n       (e)  A final performance review report on the settlement behaviour\n            of the structure with consideration of settlement records in (d)\n          above should be submitted prior to the application of occupation\n            permit or the submission of Form BA14 for alteration and\n            addition works as appropriate. Occupation permit will not be\n            issued or Form BA14 will not be acknowledged until the final\n           performance review is found satisfactory by the BA.\n\nShallow Foundations"
+    },
+    {
+      "id": "p7-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "7.        Mass concrete fill is often applied for benching uneven or sloping rock\nsurface for construction of shallow foundation. However, mass concrete fill of significant\nsize (i.e. with a maximum depth greater than 1 m) placed beneath the footing or raft\nfoundations should be regarded as a structural element and designed in accordance with\nthe Code of Practice for Structural Use of Concrete 2013.\n\nRegistered Specialist Contractor for Pre-drilling, Post Construction Proof Drilling and\nProof Core-drilling Test"
+    },
+    {
+      "id": "p8-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          All pre-drilling, post construction proof drilling and proof core-drilling test\nmust be carried out by a registered specialist contractor in the Ground Investigation Field\nWorks category. The contractor who is appointed to carry out proof core-drilling test\nrequired under section 20 of the B(C)R should make declaration on its relationship with\nthe foundation contractor, including whether or not it is a holding, subsidiary, or an\nassociated company of the foundation contractor, or has financial relationship with it\ne.g. cross-directorship, or has financial interest in such foundation works.\n\nInterface Proof Drilling for Large Diameter Bored Pile"
+    },
+    {
+      "id": "p9-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "9.         For large diameter bored piles, barrettes and the like, the concrete should be\nin good contact with the bedrock at the interface and the rock should be consistently of\nthe required grade beneath the pile base. To facilitate successful proof drilling at the\ninterface, a pipe of not less than 150 mm diameter may be left in and stopped at about\n1 m above the interface. Minor imperfection observed during the interface proof drilling,\nsuch as a thin layer of sediment, segregated concrete at the interface or weathered seam\nin the rock beneath the pile base, may be considered acceptable provided that the\nRSE/registered geotechnical engineer (RGE) can demonstrate the acceptance with\njustifications and additional proof drilling, if required. As an alternative, the RSE may\ninclude in the foundation plans the proposed remedial works for rectifying any such\nimperfections. The proposals should provide details of the method statement and the\nsupervision required by the RSE.\n\n\n\n\n\n                                                              - 3 -"
+    },
+    {
+      "id": "page-13-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        13
+      ],
+      "text": "Plan Submission and Consent Application\n\nDivision of Responsibilities"
+    },
+    {
+      "id": "p10-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "10.      When geotechnical reports and supporting documents are required for\nsubmission of foundation plans or records, such reports and documents should be\nprepared and signed by the RGE. Reference should be made to PNAP APP-141.\n\nAlternative Arrangement of Two-stage Plan Submission"
+    },
+    {
+      "id": "p11-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "11.        Taking into account the design and construction process of a building\ndevelopment, RSE may choose to divide a pile foundation submission into two stages\n(i.e. Stage 1 and Stage 2). For Stage 1 submission, the plans should include the physical\nproperties of the proposed pile foundations based on the maximum pile capacity in\nvertical compression, vertical tension and lateral load.  The submission of detailed\nstructural analysis of the foundation through rigorous pile cap analysis is not required and\nhence the presumed wall and column/wall load schedule and the pile load schedule are\nnot required at this stage of submission. For Stage 2 submission1, the entire conceptual\ndesign of the foundation works covering the load path should be provided in the\nsubmission, including the pile and column/wall load schedules and structural analysis of\nthe foundation through rigorous pile cap analysis. The details of essential information to\nbe included in both stages of submission are listed in Annex C1."
+    },
+    {
+      "id": "p12-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "12.         After obtaining the BA’s approval of Stage 1 foundation plans, RSE may\napply for consent to the commencement and carrying out of pile foundation works or test\npile installation works as necessary. The consent application should be accompanied with\nthe required documents (e.g. site supervision plan) in accordance with the conditions\nimposed under item 6 in section 17(1) of the BO."
+    },
+    {
+      "id": "p13-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "13.        Since structural analysis of the foundation loads through rigorous analysis of\nthe pile caps and foundations is not required in Stage 1 submission, an amendment solely\ninvolving the numbers of piles (for pile foundations) and the layout of the foundations is\nnot considered as major revision unless the amendment affects materially the fundamental\nissues set out in Appendix D to PNAP ADM-19."
+    },
+    {
+      "id": "p14-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "14.      When adopting the alternative arrangement of two-stage pile foundation plan\nsubmission, the RSE should ensure Stage 1 foundation amendment plans and Stage 2\nfoundation plans have been submitted to the BA for approval and consent 2 before\ncertifying completion of the foundation works (Form BA14).\n\nAlternative Arrangement of Deferred Site-specific Ground Investigation (GI) for\nFoundation Plan Submissions in Non-Scheduled Areas and Area Numbers 3 and 5 of\nthe Scheduled Areas"
+    },
+    {
+      "id": "p15-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "15.        Given the general unchanging nature of geology and continuity of geological\nprofile, the existing GI information of a site may serve as a useful reference for the\nplanning and design of foundation works.  In order to facilitate early submission of\n\n1  For the avoidance of doubt, for the first submission of Stage 2 foundation plans, regulation\n   30(3)(a) of Building (Administration) Regulations is applicable.\n2   If no building works are involved in Stage 1 foundation amendment plans or Stage 2\n   foundation plans/amendment plans, there is no need to apply for consent for carrying out the\n   works.\n\n                                                              - 4 -"
+    },
+    {
+      "id": "page-14-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        14
+      ],
+      "text": "foundation plans and to shorten the foundation construction period, as well as to reduce\nthe cost for pre-drilling works, an alternative arrangement of deferred submission of\nsite-specific GI information for foundation plan submissions in non-scheduled areas and\nArea Numbers 3 and 5 of the Scheduled Areas is set out in paragraph 16 below."
+    },
+    {
+      "id": "p16-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "16.        Foundation plans for non-scheduled areas and Area Numbers 3 and 5 of the\nScheduled Areas may be submitted for the BA’s approval based on the existing GI\ninformation 3 within 20 m from the site boundary, obtained from the Geotechnical\nInformation Unit of GEO of CEDD, or from the previous development of the site. Site\nspecific GI works could be carried out after the approval of the foundation plans\naccording to the proposed borehole locations as indicated on the approved foundation\nplans.  The site-specific GI information, together with an assessment report of the\nfoundation design verifying the original design assumptions, could be submitted to the\nBA concurrent with the application for consent for commencement of the foundation\nworks.  If the assessment report is not compatible with the approved foundation plans,\nrevised foundation plans should be submitted to the BA for approval before the consent\napplication. Otherwise, the consent application will be refused under section 16(3)(ba) of\nthe BO.\n\nFoundation Works near Site Boundary"
+    },
+    {
+      "id": "p17-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "17.          Installation of pile walls and grout curtain along the site boundary would\nprovide  additional  precautionary  measures  for  safeguarding  settlement  sensitive\nstructures, roads or underground services against possible adverse effects imposed upon\nthem during the installation of the socketed steel H-piles at close proximity.  In this\nrespect, the consent for the commencement of works for those piles located within 10 m\nfrom the site boundary may not be granted unless the record plans and assessment report\nfor the installation of related pile wall and grouting works have been submitted. To\nfacilitate the processing of such consent application, the RSE may submit the Form BA8\nfor the piles together with the record plans and assessment report for the related pile walls\nand grouting works concurrently. In the case of large sites where consent application for\nthose piles may be submitted in stages, the RSE/RGE should submit an additional\nassessment report to justify the adequacy of the precautionary measures at the time of\nconsent application.\n\nConcurrent Approval and Consent"
+    },
+    {
+      "id": "p18-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "18",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "18.        Except in cases where there are imposed conditions to be met first, for\nexample, pre-construction condition survey to sensitive buildings, shoring to adjoining\nbuildings, etc, BD may grant approval of plans for foundation works and consent for the\ncommencement of such works at the same time.  If the authorized person (AP)/RSE\nwishes to take advantage of the streamlined procedures for concurrent applications for\napproval and consent, the application for consent for the commencement of works should\nnot be submitted before the 32nd day after the date of submission of the corresponding\nfoundation  plans  for  approval,  so  as  not  to  cause  unnecessary  administrative\ncomplications.\n\n\n\n\n3  Existing GI information collected from GI works conducted before or after promulgation of\n   the Code of Practice for Site Supervision may be adopted.\n\n                                                              - 5 -"
+    },
+    {
+      "id": "page-15-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        15
+      ],
+      "text": "Consent for Installation of Working Piles for Driven piles"
+    },
+    {
+      "id": "p19-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "19",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "19.        Regarding the trial piles and their load tests for steel H-piles driven to\nbedrock mentioned in Section 5.4.11 (4) of the Code, consent for the installation of\nworking piles for driven pile works may be granted without completion of proof load test\non trial piles, provided that the results of Pile Driving Analyser (PDA) with Case Pile\nWave Analysis Program (CAPWAP) analysis of the trial piles for driven pile works are\nfound satisfactory and the relevant conditions for granting consent are fulfilled. Proof\nload test on trial piles may be carried out concurrently with the working pile installation\nand the load test reports/performance review report of trial piles should be submitted\nwithin 14 days after completion of tests.\n\nInitial Stage Excavation and Lateral Support Works"
+    },
+    {
+      "id": "p20-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "20",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "20.       To minimise the idling time on construction sites, earth-retaining elements\nsuch as sheet/pipe pile walls may be installed and, if applicable, initial stage excavation\nand lateral support works4 may be carried out concurrently with the foundation works.\nOnce the earth-retaining elements have been satisfactorily installed, a consent application\nmay then be made and the corresponding supervision plan be submitted for the\ncommencement of the remaining excavation works for substructures prior to the final\ncompletion of foundation works. This would allow excavation works for substructures\nbe carried out while foundation record plans are being scrutinised and proof tests are\nbeing arranged.\n\nPile Cap and Superstructure Works"
+    },
+    {
+      "id": "p21-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "21",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 123
+        },
+        {
+          "label": "b",
+          "offset": 224
+        },
+        {
+          "label": "c",
+          "offset": 328
+        },
+        {
+          "label": "d",
+          "offset": 409
+        }
+      ],
+      "text": "21.        Consent to the commencement and carrying out of the  pile cap and\nsuperstructure works will not be given until:\n\n       (a)   the  foundation  records  have  been  submitted  and  found\n             satisfactory;\n\n      (b)   the Form BA14 certifying the completion of foundation works\n           has been submitted;\n\n       (c)   the required proof tests have been satisfactorily carried out; and\n\n      (d)    all  relevant imposed  conditions  including  material  testing\n            requirements have been complied with.\n\nForm BA14, Foundation Record Plans and Reports"
+    },
+    {
+      "id": "p22-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "22",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "22.       Upon completion of the foundation works, a Form BA14 certifying the\ncompletion of the foundation works should be submitted according to regulation 25 of\nthe Building (Administration) Regulations.  For exceptionally large sites, foundation\nworks may be suitably phased and separately considered for proof testing. BD should be\nconsulted as early as possible on such phasing arrangement. To expedite the selection of\npiles for proof tests, foundation record plans and reports may be separately submitted\nprior to the submission of the Form BA14.\n\n4  The initial stage excavation and lateral support works refers to the excavation down to bottom\n   of the first layer of struts but not exceeding 1.5 m below the existing ground level and the\n   erection of the first layer of waling and struts as shown in the approved plans.\n\n                                                              - 6 -"
+    },
+    {
+      "id": "p23-page-16",
+      "type": "numbered_paragraph",
+      "paragraph": "23",
+      "pdf_pages": [
+        16
+      ],
+      "subparagraph_markers": [],
+      "text": "23.           If sufficient information is available in the submitted record plans and\nreports, BD would within 14 days of the receipt of the Form BA14 for foundation works\ninform the AP/RSE of the representative piles identified for proof tests.  To avoid\nunnecessary delay, the AP/RSE should ensure that full information on the completed piles\nis included in the foundation record plans and reports."
+    },
+    {
+      "id": "p24-page-16",
+      "type": "numbered_paragraph",
+      "paragraph": "24",
+      "pdf_pages": [
+        16
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 182
+        },
+        {
+          "label": "b",
+          "offset": 320
+        }
+      ],
+      "text": "24.       Review of piling design with back-analyses and submission of foundation\nplans  to amend  the  pile  loading  schedule would be  required  in  the  following\ncircumstances:\n\n       (a)   the difference between the as-built pile lengths and the approved\n             tentative pile lengths by more than ± 5%; or\n\n      (b)   the difference in as-built pile lengths among piles within close\n           proximity results in significant redistribution of pile loads or\n            implies the existence of a steep bedrock profile.\n\nIf the variation is significant, additional GI may be required to justify the deviation. Such\nrequirement of additional GI will be determined by BD on a case-by-case basis.  For\nfoundation works in Area Numbers 2 and 4 of the Scheduled Areas, attention should be\ndrawn to the requirements stipulated in clause 7.8 of the Code and PNAP APP-61."
+    },
+    {
+      "id": "p25-page-16",
+      "type": "numbered_paragraph",
+      "paragraph": "25",
+      "pdf_pages": [
+        16
+      ],
+      "subparagraph_markers": [],
+      "text": "25.       The review of piling design with back-analyses and the updated pile loading\nschedule plans can be submitted together with Form BA14 certifying completion of the\npiling works and the corresponding piling record plans. BD will proceed to select piles\nfor load test and process the pile loading schedule plans concurrently, so as to speed up\nthe processing of Form BA14."
+    },
+    {
+      "id": "p26-page-16",
+      "type": "numbered_paragraph",
+      "paragraph": "26",
+      "pdf_pages": [
+        16
+      ],
+      "subparagraph_markers": [],
+      "text": "26.           If the alternative arrangement of two-stage pile foundation plan submission\nis adopted, the Form BA14 certifying completion of the foundation works will not be\nacknowledged by the BA until the Stage 1 foundation amendment plans5 (if any) and\nStage 2 foundation plans/amendment plans have been approved."
+    },
+    {
+      "id": "p27-page-16",
+      "type": "numbered_paragraph",
+      "paragraph": "27",
+      "pdf_pages": [
+        16
+      ],
+      "subparagraph_markers": [],
+      "text": "27.        For large diameter bored pile foundations, AP may submit Form BA14 to\nBD after completion of interface proof drilling at the concrete and rock interface for at\nleast 85% of the completed piles. In addition, the submission of all test result for concrete\ncubes at 28 days is not necessary if sufficient justification is available at this stage.\nProvided that other information as required in the approval of the foundation plans has\nbeen submitted and found satisfactory, BD would select representative piles for proof\ncore-drilling tests while the remaining interface proof drilling and concrete cube testing\nare still in progress.  In case there are irregularities found thereafter, BD may require\nadditional proof core-drilling tests. Form BA14 would only be acknowledged when the\nresults of all the interface proof drilling, proof core-drilling tests and required documents\nare submitted and found satisfactory.\n\n\n(Rev. 2/2026)\n\n\n5  Stage 1 foundation amendment plans may involve changes in the number of piles installed,\n   pile layout, pile founding level, etc. according to the as-built conditions.\n\n                                                              - 7 -"
+    },
+    {
+      "id": "page-17-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        17
+      ],
+      "text": "Annex C1\n                                                  (PNAP APP-18)\n\n                      Essential Information to be included in\n                 Two-stage Pile Foundation Plan Submission"
+    },
+    {
+      "id": "p1-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [],
+      "text": "1.              It is not unusual to have foundation plan amendment submissions throughout\nthe design stage of a development project due to changes of the layout of columns, walls\nand piles, as well as their loads arising from the revised building design. The extent of\nchanges in the foundation amendment plans may sometimes be so substantial that may\nconstitute a major revision and require a fresh consent application for the commencement\nand carrying out of the foundation works. To facilitate the construction process and\nreduce the number of amendment submissions due to design changes, the RSE may\nchoose to separate a pile foundation plan submission into two stages.\n\nStage 1 Submission"
+    },
+    {
+      "id": "p2-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        The plan submission at this stage should include the essential construction\ninformation (e.g. layout, structural details, materials, installation specification, schedule\nof the proposed pile foundations including their sizes and tentative founding levels) and\ndesign assumptions of the proposed pile foundation (e.g. the allowable bearing capacity\nof founding stratum, the design strength of the proposed materials and the estimated\nloading effects from adjacent and nearby buildings, structures, lands, streets, utility\nservices, slopes, nullahs and retaining walls, to the proposed foundation or vice versa).\nThe detailed structural analysis of the foundation loads through rigorous analysis of the\npile caps and foundations is not needed and can be provided at Stage 2 submission."
+    },
+    {
+      "id": "p3-page-17",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        17
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 90
+        },
+        {
+          "label": "i",
+          "offset": 111
+        },
+        {
+          "label": "b",
+          "offset": 824
+        },
+        {
+          "label": "i",
+          "offset": 861
+        }
+      ],
+      "text": "3.        The following essential information should be included in a Stage 1\nsubmission:\n\n      (a)    Plans\n\n                (i)    items (1)(a) to (1)(d), (1)(f), (1)(g), (1)(i) to (1)(l) in\n                  clause 2.7 of the Code of Practice for Foundations 2017\n                    (the Code);\n\n                 (ii)   assumed design loads from adjacent and nearby buildings,\n                    structures, lands, streets, utility services, slopes, nullahs\n                and retaining walls for structural analysis in Stage 2; and\n\n                 (iii)  assumed design loads of the proposed foundations for\n                 assessment on  the  effects on  adjacent  and  nearby\n                   buildings, structures, lands, streets, utility services, slopes,\n                    nullahs, retaining walls, etc.\n\n      (b)    Supporting Documents:\n\n                (i)    items (2) (a) and (2)(d)1 in clause 2.7 of the Code;\n\n\n1  Alternatively, the public relations plan may be submitted after approval of pile foundation\n   plans but prior to the consent application for the commencement of the pile foundation works.\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-18-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        18
+      ],
+      "text": "(ii)   design  calculations  to  justify  the  pile  load  carrying\n                  capacity based on recognized foundation engineering\n                    principles;\n\n                 (iii)  assessment on the estimated loading effects from adjacent\n                and nearby buildings, structures, lands,  streets,  utility\n                    services,  slopes,  nullahs and  retaining  walls  to  the\n                 proposed foundations; and\n\n              (iv)   assessment on the effects of the proposed foundation\n                works on adjacent and nearby buildings, structures, lands,\n                      streets, utility services, slopes, nullahs, retaining walls,\n                      etc. based on the assumed temporary loads during the\n                  course of construction.\n\nStage 2 Submission"
+    },
+    {
+      "id": "p4-page-18",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        18
+      ],
+      "subparagraph_markers": [],
+      "text": "4.        The plan submission at this stage should include the presumed column/wall\nload schedule and the pile load schedule substantiated by structural analysis of the\nfoundation loads through rigorous computer analysis of the pile caps and foundations.\nConceptual design of the foundation system with illustration of the vertical and lateral\nload paths should also be demonstrated to prove the compatibility of the superstructure\nand foundation system in the submission."
+    },
+    {
+      "id": "p5-page-18",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        18
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 90
+        },
+        {
+          "label": "i",
+          "offset": 111
+        },
+        {
+          "label": "b",
+          "offset": 353
+        },
+        {
+          "label": "i",
+          "offset": 390
+        }
+      ],
+      "text": "5.        The following essential information should be included in a Stage 2\nsubmission:\n\n      (a)    Plans\n\n                (i)    items (1)(a), (1)(e) and (1)(h) in clause 2.7 of the Code;\n                and\n\n                 (ii)   the assumed design loading schedule at pile cap level with\n                 a plan showing the column/wall layout.\n\n      (b)    Supporting Documents:\n\n                (i)    the plans approved in Stage 1 submission;\n\n                 (ii)   detailed  structural  analysis  on  the  pile  load  and\n                   compatibility checking on the pile capacity approved in\n                 Stage 1 foundation plans; and\n\n                 (iii)   compatibility checking on the assumed load approved in\n                 Stage 1 submission for the assessment on the effects of the\n                 proposed  foundation works on  adjacent and  nearby\n                   buildings, structures, lands, streets, utility services, slopes,\n                    nullahs, retaining walls, etc.\n\n\n(10/2024)\n\n                                                              - 2 -"
+    }
+  ]
+}

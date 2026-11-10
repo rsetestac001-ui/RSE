@@ -1,0 +1,193 @@
+{
+  "code": "APP-055",
+  "source_text": "indexed_text/PNAP/APP/APP-055.txt",
+  "source_pdf": "documents/PNAP/APP/APP-055.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and        APP-55\n                           Registered Geotechnical Engineers\n\n\n            Procedure for Payment of Fees on Submission of Plans\n           Regulation 42 of the Building (Administration) Regulations\n\n\n             For the purposes of regulations 29 and 33 of the Building (Administration)\nRegulations (B(A)R), the fees as set out in regulation 42 of the B(A)R are payable on the\nsubmission of plans under the Buildings Ordinance (BO). All resubmissions of plans are\nfree of charge."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           For new  buildings, which  include both permanent and temporary\nbuildings, fees payable for first submissions (including major revisions) of building plans\ncover also the submission of all associated plans, such as site formation, structural and\ndrainage plans. Such fees are charged on the basis of the gross floor area (GFA) of the\nnew building."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           For new buildings without accountable GFA and for alteration and\naddition and other works which will not result in a new building, fees for first\nsubmissions (including major revisions) are charged according to the total number of\nsubmitted plans of Al or smaller size, irrespective of whether they are for site formation,\nbuilding, structural, drainage or other works. Buildings without accountable GFA include\ntransformer stations, petrol filling stations, oil storage installations, jetties and similar\nstructures, and for the purpose of this type of buildings, minor ancillary accommodation\n(which is otherwise accountable for GFA) may be ignored."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.            Fees are chargeable upon application for approval.  When plans are\nsubmitted, a crossed cheque for the appropriate amount payable to \"The Government of\nthe Hong Kong Special Administrative Region\" or \"The Government of the HKSAR\"\nshould be enclosed. Payment by cash or post-dated cheques will not be accepted. The\nauthorized person (AP) is responsible for calculating the fee chargeable in accordance\nwith the payment form BD 24 (Appendix A), which should accompany every first\nsubmission (including major revision).  Fees paid are not refundable even though the\nsubmission is subsequently withdrawn. The payment form can be downloaded from the\nBuildings Department (BD) website."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.                If discrepancies are subsequently found in the calculation of fees, a\nsupplementary fee will be levied or a refund of any over-payment will be made, as the\ncase may be. The payment of supplementary fees should similarly be made by crossed\ncheques, each being accompanied by a payment form."
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          Where any fee payable is not enclosed with a submission of plans, or\nwhere a submitted cheque is subsequently dishonoured, the plans may be disapproved\nunder section 16(1)(f) of the BO. For any necessary supplementary fees, payment should\nbe made within 14 days of notification, failing which, the plans may be similarly\ndisapproved under section 16(1)(f) of the BO.\n\n                                                                                                 /7. …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           For certain development proposals such as non-profit making schools,\nhospitals, and similar community buildings, exemption from payment of fees would\ngenerally be favourably considered. A Form BA16 should be submitted to apply for\nexemption, stating the special circumstances surrounding the proposal together with\ndocumentary support as necessary. In such cases, it is not necessary for a cheque to be\nsubmitted when making a submission of plans."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.         When a submission is delivered at the BD receiving counter, a receipt for\nthe payment will be issued immediately to the person delivering it. For submissions by\npost or delivery service, the receipt will be sent to the AP. The receipt should be kept in\nsafe custody by the payer as evidence of payment as this will be needed in case of refund.\n\nMajor Revision"
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 385
+        },
+        {
+          "label": "b",
+          "offset": 483
+        },
+        {
+          "label": "c",
+          "offset": 602
+        },
+        {
+          "label": "d",
+          "offset": 827
+        },
+        {
+          "label": "e",
+          "offset": 1104
+        },
+        {
+          "label": "f",
+          "offset": 1286
+        },
+        {
+          "label": "g",
+          "offset": 1360
+        },
+        {
+          "label": "h",
+          "offset": 1514
+        }
+      ],
+      "text": "9.       A major revision, for the purposes of payment of fees under item 7A of\nregulation 42 of the B(A)R, is a submission that has been so extensively revised that it\nmust be fundamentally reassessed and a repeat of the centralized processing system\nnecessitated (PNAP ADM-2 refers). Examples of submissions that would constitute a\nmajor revision are listed below (not exhaustive) :\n\n        (a)    changes in disposition and/or number of blocks within a\n             development;\n\n        (b)    change in the number of storeys, in particular, within the\n            podium and number of basements;\n\n        (c)    major changes in configuration of floor plans which would\n                result  in  a  fundamental  reassessment  of  plot  ratio,  site\n              coverage, lighting and ventilation and means of escape;\n\n        (d)    change  in  the  principal  use  of  a  building  that would\n               substantially affect the construction or lead to a reassessment\n              of planning factors and/or means of escape, e.g. office to\n                residential or hotel to office;\n\n        (e)     substantial change in site area and configuration which would\n                result in a fundamental reassessment of site coverage and plot\n                 ratio;\n\n         (f)    changes that would seriously affect access to buildings;\n\n        (g)    requests for substantial modifications, exemptions or bonuses\n                that require a fundamental review of the original proposal;\n\n        (h)    ground conditions assumed in the design found to be incorrect\n              during initial excavation necessitating reassessment of the site\n              formation works (for site formation works not resulting in a\n           new building); and\n\n\n                                                                                                            /(i) …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n          (i)    major changes which would require it to be examined under\n           new or amended legislation or a new draft or approved Outline\n             Zoning Plan."
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.            In cases of doubt, please consult the relevant Chief Building Surveyor of\nthe New Buildings Division 1 who would provide an answer within seven days.  It should\nalso be noted that a new Form BA5 is legally required to be included with every\nsubmission of a major revision.\n\n\"Localized\" Major Revision"
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.         Where the major revision is \"localized\", the fee charges may be based on\nthe \"localized\" GFA, i.e. per podium, or per affected floors of the podium, on the premise\nthat part of a building is also a building. There would inevitably be other variations giving\nrise to complications in the implementation of the charging system and this could be\nconsidered on a case by case basis under section 42 of the BO.\n\nSubmission of Plans pursuant to Statutory Orders/Notices"
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.         The requirement for payment of fees is not applicable to \"proposals for\nworks\" in response to a statutory order/notices under the BO or an advisory letter on\nbuilding safety, fire safety and slope safety issues which requires the submission of plans.\n\nPayment for Plan Submissions via Electronic Submission Hub (ESH)"
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "13.         As regards electronic submissions via ESH, the AP may opt for electronic\npayment by Faster Payment System (FPS) or payment by cheque. Upon completion of\nthe plan submission via ESH, an “Acknowledgement Receipt” bearing a submission\nidentification number (Submission ID) will be issued with a link to the webpage of\nelectronic  payment.    Alternatively,  payment  by  cheque  with  a  copy  of  the\n“Acknowledgment Receipt” should be submitted to BD’s Receipt and Dispatch Counter1\nwithin 14 days upon completion of the electronic submission.\n\n\n\n\n                                                             ( YU Po-mei, Clarice )\n                                                Building Authority\n\n\nRef. : BD GP/BOP/31\n    BD GP/BREG/A/8\n\nThis PNAP is previously known as PNAP 143\nFirst issue    March 1991\nLast revision  November 2014\nThis revision  June 2024 (AD/CS) (Paragraph 13 added and paragraph 9 amended)\n\n\n1  Please refer to PNAP ADM-5 for the address and operating hours of BD’s Receipt and\n   Dispatch Counter."
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                                       (PNAP APP-55)\n\n                         Payment of Fees on Submission of Plans\n                             Building (Administration) Regulation 42\n                      (To be completed by the authorized person and must accompany all payments)\n\nPART 1 - PARTICULARS OF SUBMISSION\nBD File No.(if known) :\nSite Address :\n\n\nName & Address of Applicant :\n\n\nName of Authorized Person :\n\nPART 2 - CALCULATION FOR CHARGES (tick in appropriate box)\n       A. First submissions or major revision plans of new buildings with accountable GFA\n                 (charged on building plans submission only)\n\n  [A]         [B]                            [C]\n GFA    [A] ÷ 100m²                 Rate of Charge ($)               Tick   [B] x [C]   Tick   Minimum    Tick\n          (rounded UP                                        Box            Box   Charge ($)   Box\n                  if not a\n        whole number)\n                             Industrial     GFA ≤ 20,000m²      2,740                             10,400\n                            buildings                           GFA > 20,000m²       2,200                             547,100\n                           Non-industrial  GFA ≤ 10,000m²      4,340                             10,350\n                            buildings                           GFA > 10,000m²       3,480                             434,400\n        B. First submissions or major revision plans for new buildings without GFA or A&A/building works\n           not resulting in a new building (charged on all categories of plans)\n\n   Number of plans not larger than A1 size *            Rate of Charge ($)                    Charge ($)\n                             x                         14,200\n\nPART 3 - STATEMENT OF AUTHORIZED PERSON\nTo the Building Authority :\n                                                            Charge as per A/B **               $       The cheque no.\nfor HK$                                  as per the above           less Payment made                 $\ncalculations, being the charge/supplementary charge ** for                                                             Supplementary Charge              $\nthis submission made on                                , is attached.\n\n\n             Date                                                          Signature of Authorized Person\n\n*       Plans larger than A1 size in either dimension are regarded as multiples of A1 size.\n**      Delete whichever is inapplicable.\n\nPART 4 - CONFIRMATION OF RECEIPT OF PAYMENT (for office use only)\n\n        Receipt no.                has been issued for the payment of the amount stated in PART 3 above.\n\n\n              Date                                     Name & Signature of Collecting Officer\nBD 24 (revised November 2014)"
+    }
+  ]
+}

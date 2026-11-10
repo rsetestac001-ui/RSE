@@ -1,0 +1,189 @@
+{
+  "code": "APP-039",
+  "source_text": "indexed_text/PNAP/APP/APP-039.txt",
+  "source_pdf": "documents/PNAP/APP/APP-039.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department    Registered Structural Engineers and        APP-39\n                          Registered Geotechnical Engineers\n\n\n                 Inspection and Copying of Plans and Documents\n\n\n            Plans and other documents submitted to the Building Authority (BA) for\nthe purposes of the Buildings Ordinance (BO) are public records.  Provided that the\ncopyright owners do not specifically deny access to the plans and documents and subject\nto paragraphs 2 to 13 below, the BA may, under section 36G of the BO, upon request\nand payment of the prescribed fee, permit the public to inspect and issue to the public\ncopies of such building records.\n\nCriteria for permitting inspection and/or issue of copy of building records"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           Applications for inspection and issue of certified true copies and/or non-\ncertified copies of plans, related documents and Buildings Department (BD) Forms\nshould be made in accordance with paragraphs 6 to 13 below.  In considering these\napplications, the BA is obliged to take into account the provisions of the Personal Data\n(Privacy) Ordinance (Cap 486), the Copyright Ordinance (Cap 528) (CO), the Code on\nAccess to Information and the obligation to confidence."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         Under the obligation to confidence, the BA will not permit inspection or\nissue copies of any plans or documents of building and minor works projects, which are\nsubmitted to him for the purpose of the BO, until the subject building or works have\nbeen completed. The building records that may be inspected by or issued with copies to\nthe public are therefore confined to (i) the latest approved plans, structural calculations\nand related documents of completed building and minor works projects and (ii) the\nlatest submitted plans and details of Class  I & Class  II minor works, the  latest\nsubmitted plans or description of Class III minor works, photos and related documents\nof completed minor works under the simplified requirements."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 183
+        },
+        {
+          "label": "b",
+          "offset": 362
+        }
+      ],
+      "text": "4.         The BA may only permit inspection or issue of copies of the plans and\ndocuments for the purpose of facilitating the ascertaining by the applicant of the\nfollowing matters:\n\n        (a)   matters relating to the construction of any building or the\n             carrying out of any building works (including minor works) or\n               street works;\n\n        (b)   whether a building, building works (including minor works) or\n               street works have been completed or carried out in compliance\n            with the provisions of the BO or any other enactment; and\n\n\n\n                                                                                             /(c) ..…"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n        (c)   matters other than those stipulated in items (a) & (b) above that\n             the BA  considers  appropriate  for  the  building  records\n            concerned to be made available for inspection and issue of\n             copies in the interest of the public.\n\nThe applicant should make a declaration confirming the aforesaid matter(s)."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.           Applications for inspection or issue of copies of building records for\nmatter(s) stipulated in paragraph 4(c) above may only be considered if justified with\nrelevant special circumstances, or if  it is accompanied by an authorization from the\ncopyright owner of the plans or documents with a positive statement that he is the owner\nof the copyright.\n\nBuilding Information Centre (BIC)"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.         The BIC of BD provides services for the inspection and copying of the\nbuilding records. Applicants can obtain such services through either attending the BIC\nin person or gaining access to BD’s “Building Records Access and Viewing On-line”\n(BRAVO) system via the internet.\n\nAttending the BIC in person"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           Applicants may attend the BIC in person to inspect and obtain copies of\nbuilding records. Applications for mere inspection of plans and other documents should\nbe made in the standard form, Form BIC1. BD pledges to make the electronic records\navailable for inspection at the BIC within 3 working days upon receipt of an application.\nFor those  applicants who choose the walk-in  services  at  the BIC without  prior\nappointment, their applications will be handled on a first-come first-served basis.  If\nelectronic records are not available, paper or microfilm records, if available as the case\nmay be, will be made available for inspection by appointment. Care should be exercised\nin handling these paper and microfilm records so as to avoid damage or disturbance to\ntheir order in the file bundles. An applicant, who wishes to obtain hard copies of plans\nor documents, should immediately after he has inspected and identified the plans or\ndocuments to be copied, apply for the issue of copies through the inspection stations at\nthe BIC or using the standard form, Form BIC2."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.           Applicants are encouraged to use the ‘One-Stop Service’ by using the\nstandard form, Form BIC-3 to obtain copies of building records without having first\ninspected the records. BD staff will identify the plans or documents in the subject files\nfor copying on behalf of the applicant and inform the applicant of the result of the\napplication and fees payable in writing within 10 days.\n\n\n\n\n\n                                                                                               /9. ….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.           Applications for hard copies of occupation permits (OP) should be made in\nthe standard form, Form BIC4. In completing the form, an applicant should ensure that\ndetailed particulars of the subject building such as the lot number and address are\naccurate for the identification of the OP being requested.\n\nAccess to BRAVO system via the Internet"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.       An applicant can inspect and/or make request for issue of hard copies of\nthe building records via the BRAVO system, but the applicant should register as a User\nbefore he is allowed to do so. Application for registration as a User can be made online\nvia the BD website or by using the standard form, Form BIC5.  Upon successful\nregistration, the User account login name and assigned password will be sent to the\napplicant by registered mail."
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.       Upon payment of the prescribed fee, the applicant can inspect and/or make\nrequest for the issue of hard copies of plans and documents through the Internet.\n\nFees and Collection/Delivery of Requested Copies"
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.         Fees as prescribed in Regulation 42 of the Building (Administration)\nRegulations will be charged for the inspection and/or copying services."
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "13.          After placing order  for copying and paying the prescribed  fees, the\napplicant may collect the requested copies in person at the BIC or choose the free\ndelivery services of the BIC for delivery to a Hong Kong address (except for post office\nbox, Closed Area, Lantau Island and Outlying Islands) provided by the applicant.\n\nForms"
+    },
+    {
+      "id": "p14-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "14.        The standard application forms described above can be downloaded from\nor submitted on-line via the Electronic Forms Submission System (EFSS) on BD\nwebsite (www.bd.gov.hk).  If applicants do not wish to submit the forms via the EFSS,\nthe completed forms could be submitted either by mail, email receipt@bd.gov.hk, fax or\nin person. Enquiries on applications for inspection and/or copying services may be made\nto the BIC at telephone no. 2626 1207 or through fax (for matters related to the BRAVO\nsystem: fax no. 2625 0351, for other matters: fax no. 2625 4367).\n\n\n\n\n\n                                                                   /Copyright ……"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -\n\n\n\nCopyright issues arising from Change of Authorized Person/Registered Structural\nEngineer/Registered Geotechnical Engineer (AP/RSE/RGE)"
+    },
+    {
+      "id": "p15-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "15.         Plans of buildings are protected as copyright artistic works under the CO.\nThe concern about copyright may arise when there is a change of AP/RSE/RGE during\nthe course of works, and the new AP/RSE/RGE wishes to use the approved plans of\nbuilding works or the submitted plans and details of minor works of the resigned\nAP/RSE/RGE to build and/or to make amendments.  In such cases, the onus is on the\nnew AP/RSE/RGE to ensure that he/she has properly obtained the consent of the\ncopyright owner(s) to use the approved plans of building works or the submitted plans\nand  details  of minor works  of  the  resigned AP/RSE/RGE;  otherwise,  the new\nAP/RSE/RGE may  infringe  the  copyright.   Please note  that  the aforementioned\ncopyright issues are by no means exhaustive in covering different aspects of copyright\nissues comprehensively. There are other aspects of copyright which need to be observed\nunder the CO in order to relieve liability for copyright infringement. You should enlist\nthe expertise of your legal advisor as necessary.\n\n\n\n\n\n                                            (HUI Siu-wai )\n                                                  Building Authority\n\n\n\n\n\nRef. : BD GR/6-5/1\n\nThis PNAP is previously known as PNAP 110\nFirst issue February 1985\nLast revision December 2010\nThis revision July 2016 (AD/CS) - (Paras. 7 to 11 & 14 amended)"
+    }
+  ]
+}

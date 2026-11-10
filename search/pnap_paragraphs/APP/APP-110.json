@@ -1,0 +1,178 @@
+{
+  "code": "APP-110",
+  "source_text": "indexed_text/PNAP/APP/APP-110.txt",
+  "source_pdf": "documents/PNAP/APP/APP-110.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-110\n                         Registered Geotechnical Engineers\n\n\n                                Protective Barriers\n\n            The prime function of a protective barrier (barrier) is to prevent persons or\nobjects from passing through or toppling over onto an adjacent lower level.  Sections 36\nand 37 of the Building (Construction) Regulation (B(C)R) and regulation 3A of the\nBuilding (Planning) Regulations require barriers to be provided at the edge of a balcony,\nverandah, floor, roof, staircase, landing or projection, and at every opening placed on an\nexternal wall above ground floor of any building.   Sections 9 and 38 of the B(C)R\nprescribe the design and construction requirements of the barriers.  This practice note\nprovides guidance on compliance with these statutory requirements.\n\nDesign Requirements"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.       A barrier must be designed and constructed so as to prevent a person or\nobject from falling, rolling, sliding or slipping through the gap of the barrier, and to\nprevent a person from climbing over the barrier.   In all circumstances, a barrier should\nhave a height of not less than 1.1 m.  The lowest 150 mm of the barrier should be built\nsolid (except for staircases enclosed with walls and without open stair-well1).  Any gap\nor opening in the barrier should be so constructed as to inhibit the passage of particles\nmore than 100 mm in their smallest dimension."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 285
+        },
+        {
+          "label": "b",
+          "offset": 333
+        },
+        {
+          "label": "c",
+          "offset": 452
+        }
+      ],
+      "text": "3.          The height of a barrier should be measured from the finished floor level of\nthe surface adjoining the barrier where people could step on (adjoining floor level).  In\nthis connection, the top of a curb next to a barrier would not be regarded as an adjoining\nfloor level if:\n\n      (a)      the curb is higher than 500 mm;\n\n      (b)      for non-railing type barrier, the protruding width2 of the curb is\n                less than 75 mm; or\n\n      (c)      for railing type barrier, if the curb is less than 500 mm high:\n\n                   (i)     the top of the lowest horizontal rail should be not more\n                     than 250 mm above the adjoining floor level; or\n\n\n                                                                                                             /(ii) …\n\n\n\n1   Practice Note for Authorized Persons, Registered Structural Engineers and Registered\n   Geotechnical Engineer APP-119 is relevant.\n2  The protruding width is measured horizontally from the inner finished surface of the barrier\n    to the inner side of the finished curb.  The measurement of the protruding width excludes the\n   splayed portion of the curb steeper than 45 degrees relative to the horizontal plane."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n                   (ii)      if the railing type barrier just has vertical balustrades\n                    without the bottom rail, the curb should be not more than\n                  250 mm high with protruding width less than 75 mm.\n\n            Samples of acceptable barrier are illustrated in Appendix A."
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         As  regards  a  place  of  public  entertainment,  in  addition  to  those\nrequirements as mentioned in paragraphs 2 and 3 above, the barrier provided at the outer\nedge of any upper tier should be constructed so that any horizontal surface is inclined\ntowards the seating at an angle of 30 degrees and is concave in section; or provided in\nsuch other manner as will allow only small articles to be placed on such barrier and will\nensure that articles are not liable to fall to any tier or area below."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The structural design of barriers should comply with the requirements\nstipulated in the relevant codes of practice and the barriers should be designed to resist\nthe imposed loads as prescribed in section 9 of the B(C)R."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           For glass barriers, the design and construction involving the use of glass,\nas well as the typical clamping details for free-standing glass barriers, are stipulated in\nthe Code of Practice for Structural Use of Glass 2018.  For barriers involving the use of\ntempered glass, structural sealant and spider fixing, the requirements stipulated in\nPractice Note for Authorized Persons, Registered Structural Engineers and Registered\nGeotechnical Engineers (PNAP) APP-37 should also be followed."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           While the above requirements do not apply to an inaccessible roof or an\ninaccessible area of a building, which is intended to be only accessible to personnel for\nmaintenance or repair works, the authorized persons (AP) should still observe the Code\nof Practice on Access for External Maintenance 2021 as well as section 6 of the\nOccupational Safety and Health Regulation on safety provisions to be provided to these\nareas.\n\nPlan Submission Requirements"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 158
+        },
+        {
+          "label": "b",
+          "offset": 229
+        },
+        {
+          "label": "c",
+          "offset": 273
+        },
+        {
+          "label": "d",
+          "offset": 343
+        },
+        {
+          "label": "e",
+          "offset": 420
+        },
+        {
+          "label": "f",
+          "offset": 498
+        }
+      ],
+      "text": "8.          The following details are required to be included in the structural plans of\nbarriers for submission to the Building Authority (BA) for approval:\n\n      (a)      structural framing and details of structural elements;\n\n      (b)     anchors and support details;\n\n      (c)      design loads, design standards and codes of practice;\n\n      (d)      material specifications for structural elements and anchors;\n\n      (e)     workmanship specifications for connections and protection; and\n\n       (f)       structural calculations comprising design check on the parent\n                structure, analysis on the structural adequacy and stability of the\n             proposed structural system, element design and deflection check\n            on major load carrying members, if applicable.\n\n                                                                                                 /9. …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.         As a streamlined alternative, registered structural engineers (RSE) may\ninclude  the  typical  details,  typical  layout and  general  notes  of  barriers  in  the\nsuperstructure plans instead of making a separate submission of structural plans of\nbarriers for approval.  While the location, layout and elevation of barriers should be\nshown on the general building plans (GBP) for approval, the details as mentioned in\nparagraph 8 above should be included in the superstructure plans.  The AP and RSE of\nthe project should ensure that the works so approved are compatible with the approved\nGBP and do not contravene any provisions of the Buildings Ordinance (BO) and its\nsubsidiary regulations.  Reference can also be made to the checklist at Appendix B5 and\nthe sample drawings at Appendix B8 of PNAP ADV-33.\n\nSite Supervision"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.         The construction of barriers should be supervised by a suitably qualified\nperson to ensure that the works are carried out in accordance with the plans approved and\nthe required standards are complied with.\n\nMinor Works Relating to Barrier"
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.         Under the Minor Works Control System, certain minor building works\nrelating to erection, alteration, repair, replacement or removal of barrier are designated\nas minor works, which may be carried out under the simplified requirements as an\nalternative to obtaining prior approval and consent under the BO.  Reference can be\nmade to Schedule 1 of the Building (Minor Works) Regulation and PNAP APP-147\nregarding the list of minor works items and the simplified requirements respectively.\n\n\n\n\n\n                                                            ( HO Chun-hung )\n                                             Building Authority\n\n\n\n\n\nRef : BD GR/1-55/71/2 (III)\n\nThis PNAP is previously known as PNAP 235\nFirst issue    September 2000\nLast revision  June 2024\nThis revision  January 2026 (AD/NB2) (Paragraphs  3,  5, 6 & 11 amended and\n                                        paragraphs 8 & 9 added)"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                 (PNAP APP-110)\n\n\n\n\n\n                       Non-railing type protective barrier\n\n\n\n\n\n                         Railing type protective barrier\n\n\n\n(6/2024)"
+    }
+  ]
+}

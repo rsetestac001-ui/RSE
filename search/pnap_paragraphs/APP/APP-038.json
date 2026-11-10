@@ -1,0 +1,79 @@
+{
+  "code": "APP-038",
+  "source_text": "indexed_text/PNAP/APP/APP-038.txt",
+  "source_pdf": "documents/PNAP/APP/APP-038.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department        Registered Structural Engineers and    APP-38\n                              Registered Geotechnical Engineers\n\n\n                         Bridges over Streets and Lanes\n                        Buildings Ordinance section 31(1)\n\n\n             There are occasions when bridges may have  to be constructed over\nstreets/lanes.  A bridge may  link buildings which have integrated functions and/or\nassociated interests, or may be required by the Director of Lands under the terms of the\nlease."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 329
+        },
+        {
+          "label": "b",
+          "offset": 1956
+        }
+      ],
+      "text": "2.          Where a bridge or associated highway structure is to be constructed wholly\nor partly within a private lot or gains support from or is connected to a building\nresting on a private lot, exemption under Buildings Ordinance section 31(1) to permit the\nbridge to project over streets or lanes may be given provided that :\n\n       (a)      the Building Authority (BA) is satisfied that the bridge is\n               required for one or more of the following purposes:\n\n                    (i)      is required under the lease or approval condition of a\n                     planning permission; or consistent with the Outline\n                   Zoning Plan(s) (OZP), Outline Development Plan(s) or\n                    Layout Plan(s);\n\n                    (ii)     is  functionally  necessary  to  facilitate  the  efficient\n                     planning of the developments on both sides of the\n                         streets  or  lanes  serving  as  occupants’ movement\n                   between the buildings so as to relieve heavy pedestrian\n                          traffic at street/lane level and the proposal is acceptable\n                       to the Lands Department, the Planning Department, the\n                     Transport Department and the Highways Department;\n\n                     (iii)     is having an identified public benefit e.g. segregation\n                      of  pedestrian  and  road  traffic  to  relieve  heavy\n                       pedestrian  flow  at  street/lane  level and  facilitate\n                   commuters’ access to public transport facilities, public\n                      buildings  or  public  footbridge  network,  and  the\n                      proposal is acceptable to the Lands Department, the\n                     Planning Department, the Transport Department and\n                       the Highways Department; or\n\n                 (iv)     is having other justified special circumstances.\n\n        (b)     the bridge is for pedestrian circulation or vehicular links only.\n            Commercial activities generally are not allowed unless with\n              planning permission and  specific  justified public  benefit\n               acceptable  to  relevant government  departments, and  are\n              accountable for GFA calculation under OZP;\n                                                                                               /(c) ….."
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n                         (c)     the width and number of storeys of the bridge require full\n                                  justification commensurate with the anticipated pedestrian\n                              flow. Impact assessment studies on visual and air ventilation\n                      may be required for bridges more than 1 storey and/or clear\n                           width more than 6m; and\n\n                        (d)     the design with respect to aesthetic of the bridge and any\n                               associated highway structures which is over, under, on or\n                            immediately  next  to  public  roads  in  the  Territory,  is\n                              acceptable to the Advisory Committee on the Appearance of\n                            Bridges and Associated Structures (ACABAS).\n\n                 3.            For the purpose of paragraph 2(d) above, the authorized person (AP) should\n              submit ten sets of the design proposal which comprise the relevant materials as stipulated in\n                the  latest version of Environment, Transport and Works Bureau Technical Circular\n             (Works) (ETWB TC (W)) No. 36/2004 on “The Advisory Committee on the Appearance\n               of Bridges and Associated Structures (ACABAS)” to the secretary of the ACABAS\n                 directly. The submission should be condensed in no larger than A3 size format in a simple\n                stapled package, together with a CD-ROM or DVD-ROM containing the soft copy of the\n             documents in the submission in PDF/JPG format for record purpose.  Information to be\n               submitted should be concisely selected with a view to enabling the ACABAS to understand\n                the design and should include the following information:\n\n                         (a)    drawings showing the general arrangement of the bridge;\n\n                        (b)     the elevations of all parts to be exposed to view together with\n                                 either a  perspective  or axonometric view and  sufficient\n                             information  to  illustrate  the  form,  texture  and  colour\n                              treatment of the proposed bridge and associated structure;\n\n                         (c)    comprehensive photographs of the site (to be affixed to the\n                                plans); and\n\n                        (d)     in the case of footbridges, details of anticipated pedestrian\n                            flows (to be indicated on the plans) to justify the proposed\n                              width, design and location.\n\n                 4.          To facilitate comprehensive consideration of the design proposals submitted\n                to it, the ACABAS may require the attendance of the authorized persons and registered\n                 structural engineers at  its meeting.  The terms of reference of the ACABAS are at\n----             Appendix A. If the ACABAS does not find a design acceptable, the BA may not allow the\n              exemption under section 31(1) of the Buildings Ordinance.\n\n                 5.          Where a bridge or associated highway structure of a free-standing type is to\n             be constructed entirely on government land or over a public highway, ie wholly outside\n              a private lot, the structure is exempted from the provisions of the Buildings Ordinance.\n            The Director of Highways is the competent authority for such structures and plans should\n                therefore be submitted to the Highways Department directly.\n\n                                                                                                                    /6. ….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p6-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "6.            Maintenance responsibility of various elements of the bridges/structures\nshould be resolved with the Highways Department before construction."
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "7.            This practice note should be read in conjunction with the latest version of\nETWB TC (W) No. 36/2004 on “The Advisory Committee on the Appearance of Bridges\nand Associated Structures (ACABAS)” and ETWB TC (W) No. 10/2005 on “Planting on\nFootbridges and Flyovers” together with PNAP APP-34 (previously known as PNAP 92)\non the subject of \"Structural Design of Bridges and Associated Highway Structures\".\n\n\n\n\n\n                                          (AU Choi-kai )\n                                                       Building Authority\n\n\n\n\n\nRef. : BD GR/CC/112\n\nThis PNAP is previously known as PNAP 107\nFirst issue      :  November 1984\nLast revision  :  September 1994\nThis revision  :  April 2011 (AD/NB1) – (General Revision)"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                              (PNAP APP-38)\n\n\n                   Terms of Reference of\n         Advisory Committee on the Appearance of Bridges\n             and Associated Structures (ACABAS)\n\n\nThe terms of reference of ACABAS are :\n\n(a)     to enquire into the visual merits, general amenity value and related\n       environmental factors of all proposals for bridges and associated\n        structures  over, under, on or  adjacent  to public roads  in  the\n        Territory;\n\n(b)     to advise the Director of Highways on standards to be applied and\n       procedures to be adopted to encourage an appropriately high level of\n        aesthetic quality in the design of bridges and associated structures\n      and to promulgate general guidance on such matters;\n\n(c)     to receive and scrutinize individual proposals at the preliminary\n       design stage, to advise designers of their acceptability or otherwise\n      and to make recommendations as deemed necessary; and\n\n(d)     to  refer  proposals  to  the  Director  of Highways  where,  after\n       consideration  by  ACABAS,  disagreement   is  found  to  be\n        irreconcilable either -\n\n          (i)     in principle, because for instance a design is likely to\n                 result  in  disproportionate  damage  to  sensitive\n                 historic, scenic, ecological or other environmental\n                features; or\n\n          (ii)     in detail, because for instance the proposed layout,\n                style  or  surface  finishes  are  considered  to  be\n                inappropriate,\n\nprovided that, should the Director of Highways feel unable to arbitrate, or\nshould the Department or other body responsible for the proposals so\nrequest, such disagreement may be referred to Policy Branch for a decision."
+    }
+  ]
+}

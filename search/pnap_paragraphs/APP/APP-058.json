@@ -1,0 +1,52 @@
+{
+  "code": "APP-058",
+  "source_text": "indexed_text/PNAP/APP/APP-058.txt",
+  "source_pdf": "documents/PNAP/APP/APP-058.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department    Registered Structural Engineers and         APP-58\n                         Registered Geotechnical Engineers\n\n\n                          Testing of Drainage Works\n         Regulation 73 of the Building (Standards of Sanitary Fitments,\n             Plumbing, Drainage Works and Latrines) Regulations\n\n\n            The responsibility of assuring building works in compliance with the\nBuildings Ordinance and its subsidiary regulations and completed in accordance with the\napproved plans rests with the registered contractors (RCs) and the registered building\nprofessionals. The Building Authority (BA) assumes a monitoring role. Thus, the testing\nof drainage works under regulation 73(1) of the Building (Standards of Sanitary Fitments,\nPlumbing, Drainage Works and Latrines) Regulations should always be attended by the\nauthorized person (AP) or his representative, irrespective of whether the BA will inspect\nor test the drainage works."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        RC is required to arrange with AP for the testing and submit applications\nto the BA with a copy to AP. AP or his representative is required to witness the test and\nendorse the testing results and records. AP should prepare a certificate on completion of\ntesting of drainage works in the Appendix and submit all of the above documents to the\nBA within 7 days from the testing."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.             Practice Note for Registered Contractors 11 on the subject including\nreference on testing standard and relevant procedures has been issued to RCs.\n\n\n\n\n\n                                                           ( YU Po-mei, Clarice )\n                                               Building Authority\n\n\nRef. : BD GP/BREG/SF/2(II)\n\nThis PNAP is previously known as PNAP 157\nFirst issued   April 1993\nThis revision January 2024 (AD/NB1) (Revamped)"
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": ""
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "code": "APP-088",
+  "source_text": "indexed_text/PNAP/APP/APP-088.txt",
+  "source_pdf": "documents/PNAP/APP/APP-088.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers      APP-88\n\n                                      Practice Note for Authorized Persons\nBuildings Department                                                   205                               and Registered Structural Engineers\n\n\n                          Code of Practice on\n                        Inspection and Maintenance of Water\n                       Carrying Services Affecting Slopes\n\n              This Practice Note announces the publication of the 'Code of Practice on\nInspection and Maintenance of Water Carrying Services Affecting Slopes' by the Works\nBranch.  It is now available for sale from the Government Publications Centre."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 391
+        },
+        {
+          "label": "b",
+          "offset": 471
+        },
+        {
+          "label": "c",
+          "offset": 613
+        }
+      ],
+      "text": "2.          The Code of Practice gives guidance on the inspection and maintenance of\nburied  water-carrying  services  affecting  slopes.    It  puts  together  relevant  notes and\nguidelines to form a comprehensive document for the use of Government Departments,\nprofessionals,  contractors and  building managers.  The Code  of  Practice focuses  its\nguidelines on the following aspects :\n\n        (a)    Planning for an effective inspection and maintenance programme;\n\n        (b)    Examining  available  options  for  detecting,  inspecting  and\n               repairing buried services affecting slope; and\n\n        (c)    Recommendations for permanent measures to minimize impacts\n               of leakage from buried services on slope safety."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          Under Buildings Ordinance section 27C, the Building Authority may require\na building owner to carry out investigation and any repair work to buried water-carrying\nservices laid in or near a slope.  Authorized Persons, Registered Structural Engineers and\nRegistered Contractors should make reference to this Code of Practice when appointed in\nrespect of the design, construction and/or maintenance of buried services so to assure safety\nof slopes in their vicinity."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.            This Practice Note is to be read in conjunction with PNAP 168. A similar\npractice note has been issued to Registered Contractors.\n\n\n\n\n                                             (CHOI Yu-leuk)\n                                                         Building Authority\n\nRef. : BD GR/CC/234\n\nFirst issue November 1996 (AD/S)\n\nIndex under : Code of Practice on Inspection & Maintenance of water carrying services\n               affecting slopes.\n            Water carrying services affecting slopes."
+    }
+  ]
+}

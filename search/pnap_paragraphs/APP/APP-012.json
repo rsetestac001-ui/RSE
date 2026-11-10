@@ -1,0 +1,204 @@
+{
+  "code": "APP-012",
+  "source_text": "indexed_text/PNAP/APP/APP-012.txt",
+  "source_pdf": "documents/PNAP/APP/APP-012.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers       APP-12\n\n                                    Practice Note for Authorized Persons\nBuildings Department                                                     50                             and Registered Structural Engineers\n\n\n                 Prestressed Ground Anchors in Building Works\n\n          The use of permanent prestressed ground anchors in a project imposes a\nlong-term monitoring commitment on the maintenance parties which usually involves\nappreciable recurrent cost and, should deficiencies be revealed, remedial works may be\ndifficult and expensive. The past records show that compliance with this criterion by the\nowners is not practically viable. For these reasons, Buildings Department takes the view\nthat  the permanent ground anchors requiring long term monitoring are  short-lived\ntemporary building works and the Building Authority has the power to refuse to accept\nsuch temporary building works for incorporation into a permanent building under the\nBuildings Ordinance."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           In  the  exceptional  circumstances where permanent  prestressed ground\nanchors are considered acceptable, their provision and installation in building works\nshould be in accordance with the requirements and procedures given in Appendix A.\n\n\n\n\n\n                                                                  ( CHOI Yu-leuk )\n                                                  Building Authority\n\n\n\n\n\nRef : BD GP/GEO/5\n   BD GP/BORD/A/19\n\nFirst issue June 1978\nLast revision October 1996\nThis revision January 1999 (AD/SE & GGE/I) - Para. 2 & Appendix A amended\n\nIndex under : Ground Anchors\n              Prestressed Ground Anchors in Building Works"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "Appendix A\n                                              PNAP 50\n                                                     APP-12\n                  Prestressed Ground Anchors in Building Works\n\n              In  the  exceptional circumstances where permanent  prestressed ground\nanchors are considered acceptable, their provision and installation in building works\nshould be in accordance with the requirements given in the Model Specification for\nPrestressed Ground Anchors (GEOSPEC 1).   In conjunction with the publication of\nGEOSPEC 1, a Prior Approval System for Permanent Prestressed Ground Anchors\n(PASA), operated by the Geotechnical Engineering Office came into effect. The PASA\nconfers a level of acceptance on proprietary ground anchor systems (Approved Anchor\nSystems) and on different types of ground anchors (Approved Anchor Types) within each\nApproved Anchor System.   The  object  of  the PASA  is  to ensure  consistent and\nsatisfactory standards in the provision of ground anchors and to save time for designers,\ncontractors, suppliers and approving authorities in avoiding repetitive checking of the\ndesign  of components and  assembly  details.   The PASA  therefore  simplifies  the\nprocessing of submissions for building works incorporating ground anchors.   It must\nhowever be pointed out that the PASA does not remove any of the responsibilities of the\nauthorized persons (AP) and registered structural engineers (RSE) under the Buildings\nOrdinance. Submissions including anchor systems not under the PASA may still be made\nin the usual way.  Further details of the PASA, and definition of terms, are given in\nGEOSPEC 1."
+    },
+    {
+      "id": "p2-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "2.       A  list of the current Approved Anchor Systems and Approved Anchor\nTypes is available free from the Geotechnical Information Unit of the Civil Engineering\nLibrary.  Copies may also be obtained by writing to the Technical Secretary of the\nGeotechnical Engineering Office, Civil Engineering Department."
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 441
+        },
+        {
+          "label": "b",
+          "offset": 549
+        },
+        {
+          "label": "c",
+          "offset": 828
+        },
+        {
+          "label": "d",
+          "offset": 943
+        },
+        {
+          "label": "e",
+          "offset": 1086
+        }
+      ],
+      "text": "3.          Approved Anchor Types in the Prior Approval  list when supplied and\ninstalled  in compliance with the relevant Prior Approval Documents are considered\ntechnically acceptable to the Building Authority.  Where permanent prestressed ground\nanchors under the PASA are to be used in a private project, the RSE would normally be\nrequired to provide the following information in relation to the anchors in the submission\nfor approval :\n\n        (a)    a plan showing the location, inclination and length of the anchors\n               required;\n\n        (b)     the Anchor Class (as defined in GEOSPEC 1), design working load\n             and design free anchor length of each anchor together with supporting\n                justification   including   geotechnical   information   and   design\n               calculations;\n\n        (c)    which anchors are to be subjected to Suitability Tests and Extended\n             Acceptance Tests;\n\n        (d)     the compressive movement which must be allowed for between the\n             anchor pad and the fixed length during stressing;\n\n        (e)     details of the anchor pad provision; and\n                                                                                                        /(f)....\n                                                     - 1 -"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "(f)    arrangements for long-term monitoring, including the schedule for\n               future monitoring, provision of access and the agreement of the\n               relevant maintenance party that it is willing to undertake the required\n              long-term monitoring and maintenance."
+    },
+    {
+      "id": "p4-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "4.            In addition, the RSE will be required to submit plans and sections of the\nproposed  anchored  structure showing  site  boundaries and  geotechnical  information\ntogether with his own anchor design calculations.  The RSE will also be required to\nfurnish with the submission, plans of all adjacent buried and surface public utility services\nand adjacent buried and surface structures and to demonstrate that anchors will not cause\ndamages.  Plans and design calculations relating to other works not related to anchors\nshould be submitted in the usual manner."
+    },
+    {
+      "id": "p5-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            Prior to consent application for works in relation to the anchors, the RSE\nshould submit additional plans for approval, giving the name of the Approved Anchor\nSystem and the Approved Anchor Types adopted, the specification of any materials which\nmay need  to be  replaced,  the schedule and procedures  for  future monitoring and\nguidelines on the interpretation of future monitoring results; the name and experience of\nthe anchor  installation  contractor  to be employed should  also be  submitted.  The\ninstallation contractor must be suitably experienced in the installation of the adopted\nApproved Anchor System and should therefore be selected from the list of Nominated\nAnchor Contractors as specified in the Prior Approval Documents for the Approved\nAnchor System.  Conditions and requirements under Buildings Ordinance section 17(1)\nmay be imposed  for such  standards  of workmanship and  qualified  supervision  as\nappropriate, and consent to the anchoring works may be refused  if any of the above\ninformation is not provided to the satisfaction of the Building Authority or is in conflict\nwith the requirements of the PASA."
+    },
+    {
+      "id": "p6-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           For the purpose of checking on site the adequacy of the ground anchors,\nRSEs are advised to maintain a certified true copy of the full set of the Prior Approval\nDocuments on site prior to commencement of the approved anchor works. The RSE shall\nensure  that  the  provision,  installation,  testing and monitoring of  the anchors  is  in\naccordance with the Prior Approval Documents."
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 330
+        },
+        {
+          "label": "b",
+          "offset": 425
+        },
+        {
+          "label": "c",
+          "offset": 509
+        },
+        {
+          "label": "d",
+          "offset": 558
+        }
+      ],
+      "text": "7.            After installation of any anchor system, the RSE should submit to the\nBuildings Department (BD) an ‘as built’ location drawing showing the full length and\ndetails of each anchor installed together with the following information, which may have\nbeen shown in the approved plans or required as conditions to consent :\n\n        (a)     the name of the Approved Anchor System and Approved Anchor\n             Type;\n\n        (b)     the specification for any materials which may need to be replaced;\n\n        (c)     the design load of each anchor;\n\n        (d)    a summarized ‘as  built’ record of  total length, bond length, free\n               length, angle of inclination, descriptions of all strata encountered in\n                drilling,  quantity  of grout  injected and  pressures, used  for each\n              anchor;\n                                                                                                   /(e)....\n                                                     - 2 -"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "(e)     the dates of all stages of installation, testings and monitoring;\n\n         (f)      all anchor stressing records and test records including those for\n                  trial anchors,  Suitability Tests, Acceptance and/or Extended\n             Acceptance Tests;\n\n        (g)    a record of the monitoring results taken to date;\n\n        (h)     the schedule and procedures for future monitoring; and\n\n          (i)     guidelines on the interpretation of future monitoring results."
+    },
+    {
+      "id": "p8-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "8.           Monitoring of prestressed ground anchors  is  essential throughout  their\nservice life to ensure their continued satisfactory performance.  The requirements for\nmonitoring are given in GEOSPEC 1.  It is therefore essential that the parties responsible\nfor subsequent maintenance are consulted and their agreement obtained before prestressed\nground anchors are adopted and that they are provided with complete ‘as built’ details."
+    },
+    {
+      "id": "p9-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "9.            In accordance with GEOSPEC 1, testing of existing grease in the anchor\nheads is to be undertaken during anchor monitoring, in addition to the normal anchor\ninspections and residual load measurement. During the past few years, the Geotechnical\nEngineering Office (GEO) has received some queries on the method of determination of\nthe chloride, nitrate and sulphide ion contents in the grease.  The GEO has issued\nCorrigendum 1/98 (May) and Corrigendum 2/98 (September) to clarify the method of\nextraction of water-soluble ions and of the method of calculation of the soluble ion\ncontents.  These corrigenda are attached to the Appendix and AP/RSEs are requested to\ntake these into account when undertaking work in the monitoring of prestressed ground\nanchors."
+    },
+    {
+      "id": "p10-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "10.        In the past, submissions have sometimes proposed the provision of ground\nanchors extending outside the site boundary into public or private streets, government\nland or adjacent private land. Ground anchors can give rise to unacceptable consequences\nsuch as the obstruction of new works or new public utility services, and, in addition, their\nexistence could inhibit the development of land.  Furthermore, an undesirable situation\ncould  result should damage  to property or public  utility services be caused during\ninstallation.   Therefore only in exceptional circumstances will approval be given to\nsubmissions of any new development incorporating ground anchors outside the  site\nboundary."
+    },
+    {
+      "id": "p11-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "11.          If  it is intended to extend the ground anchors outside the site boundary into\ngovernment land, application to the Land Authority (Lands Department) for permission\nshould be made at the early stages of design. Where it is intended to extend the anchors\ninto adjacent private land, the specified Form BA5 for the site formation works should\ninclude the lot number of the adjacent private land, to indicate the acquiescence of the\nadjoining owner.\n\n\n\nThis revision January 1999 (Para. 9 added & paras. 10 & 11 re-numbered)\n\n                                                     - 3 -"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Annex to Appendix A\n                                                  PNAP 50\n                                                         APP-12\n\n\n                MODEL SPECIFICATION\n        FOR PRESTRESSED GROUND ANCHORS (GEOSPEC 1)\n\n\n                    1989 Edition (Hong Kong Government)\n\n                CORRIGENDUM No. 1/98 (May)\n\n\nTable 1                      Replace Note 3(a) with the following :\nProperties of Grease             “(a)   Weigh, accurate to 0.001g, about 5g of grease into a\n(Page 75)                              separating funnel, add 70ml of hexane and shake the\n                                    mixture until the grease is completely dissolved.”\n\n                       Add Note 3(g) at the end of the table :\n                                 “(g)   For the purpose of calculating the chloride, nitrate\n                                  and sulphide ion contents, the concentration should\n                                  be determined as parts per million by mass of the\n                                            final aqueous extract.”\n\n\n\n\n\nNotes  :       (1)    Note 3(a) is amended to specify the use of hexane as the organic\n                        solvent.  This revision is to enable more effective separation of the\n                      organic solvent from the aqueous extract in the extraction process\n                      during the grease testing.\n\n                (2)    Note 3(g)  is added to  clarify for users the intended calculation\n                   method for chloride, nitrate and sulphide ion contents.\n\n\n\n\n\n                                                     - 1 -"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "MODEL SPECIFICATION\n        FOR PRESTRESSED GROUND ANCHORS (GEOSPEC 1)\n\n\n                    1989 Edition (Hong Kong Government)\n\n              CORRIGENDUM No. 2/98 (September)\n\n\nTable 1                      Replace 3(a), 3(d) and 3(f) with the following :\nProperties of Grease             “(a)   Weigh, accurate to 0.001g, 5g±0.05g of grease into a\n(Page 75)                              separating funnel, add 70ml of hexane and shake the\n                                    mixture until the grease is completely dissolved.”\n\n                                 “(d)   Add, to the second separating funnel containing the\n                                 combined water extract, about 20 - 30 ml of hexane,\n                                       gently  swirl  the  mixture  and  again  allow  for\n                                   complete separation of the 2 layers.”\n\n                                     “(f)   Carry out a blank determination, following the same\n                                      procedures, with the same amount of reagents, as the\n                                  sample determination.  Subtract the corresponding\n                                    blank value, if any, from each of the water-soluble\n                                      ion determinations to obtain the corrected values of\n                                       these ion determinations.”\n\n\n\n\nNotes  :       (1)    Note 3(a) is amended to prescribe the acceptable tolerance in the\n                    weighing of the grease sample.\n\n                (2)    Note  3(d)  is amended  to using hexane  as  the  organic  solvent\n                     consequent to revising Note 3(a) in Corrigendum No. 1/98 (May).\n\n                (3)     Regarding Note 3(f), it is necessary and common practice to conduct\n                     a corresponding blank determination to obtain a “real” value of the\n                         target analysis determination.\n\n                (4)     Regarding Note 3(g) in Corrigendum No. 1/98 (May), the term “mass\n                       of the final aqueous extract” shall be interpreted as the mass of\n                      deionized water used for the extraction of water-soluble ions in the\n                      grease sample. The mass or the volume of organic solvent (hexane)\n                        for  dissolving  the  grease sample  shall  not be  included  in  the\n                        calculation of water-soluble ion contents.\n\n\n\n\n                                                     - 2 -"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "code": "APP-128",
+  "source_text": "indexed_text/PNAP/APP/APP-128.txt",
+  "source_pdf": "documents/PNAP/APP/APP-128.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n                                                      APP-128Persons, Registered Structural Engineers and Registered Geotechnical Engineers\n\n                               Practice Note for Authorized Persons Buildings Department                                               274\n                         and Registered Structural Engineers\n\n\n\n                       Geotechnical Design Information\n\n\n           Geotechnical design submissions involve the preparation of geotechnical\nplans and geotechnical reports.  The submissions are ever increasing in complexity\nand volume.  The employment of sophisticated geotechnical computer programs for\ndesign  is common.  To  facilitate  expeditious  processing  of  submissions,   it  is\nimportant to maintain focus on the key issues throughout the design process and to\norganize  the  geotechnical  plans,  design  reports  and  calculations  clearly  and\nsystematically.\n\nPreparing for a Geotechnical Design"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         Intensive developments in the urban areas and on hillsides have brought\nabout  various  geotechnical  stability  issues  with  public  safety  concerns.   To\nsatisfactorily address  these concerns, geotechnical designs should be  carried out\nthrough a careful process with due attention given to every aspect of the design\nelements and the uncertainties involved.  Standards and recommended good practice\nshould be followed  to ensure compliance with  the  current  safety requirements.\nReference can be made to Technical Guidance Note (TGN) No. 1 which contains a list\nof guidance documents being used by the Geotechnical Engineering Office as de facto\ngeotechnical  standards.  The TGN can be found  at  the  Civil Engineering and\nDevelopment Department website http://www.cedd.gov.hk/."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.       The geotechnical feasibility of a development project should be examined at\nthe general building plan stage and should be addressed if the site meets one or more\nof the  criteria for submission of a geotechnical assessment for compliance with\nBuilding  (Administration)  Regulations  (B(A)R)  8(1)(ba).   The  purpose  of  a\ngeotechnical assessment is to identify at an early stage any fundamental geotechnical\nconstraints that could affect the development and to adequately assess the geotechnical\nfeasibility of the project.  The criteria for submission and the essential contents of a\ngeotechnical assessment are given in PNAP 78."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.       The importance of ground investigation for a geotechnical design cannot be\noverstressed.   It is always a good practice to first formulate a preliminary geological\nmodel based on existing information obtained from a thorough desk study.  The ground\ninvestigation fieldwork should then be planned with the objective of refining and\nconfirming the geological model and the parameters to be used in the design, and\nidentifying the various uncertainties involved as far as possible.  Guidance on the\nexecution of ground investigations is given in PNAP 132.\n\n\n\n\n                                                                                    /5. ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\nGeotechnical Design, Reports and Plans"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.        Design plans are intended to define the scope of proposed works and to\ndemonstrate their feasibility and adequacy.  The proposed works shall be designed\nand constructed so that during construction and thereafter there is an adequate margin\nof safety of the works and the remainder of the site.  Furthermore, the carrying out\nof such works shall not render inadequate the margin of safety of, or impair the\nstability of, or cause damage to adjacent ground and facilities."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.         All accompanying geotechnical design reports should contain an executive\nsummary to highlight the key elements of the design and the key issues addressed,\nwhich serves as an explanatory guide to the submission.  The report must, inter alia,\ncontain a schedule  of  geotechnical  design assumptions and parameters adopted.\nClear  justifications with relevant supporting documents (e.g. ground investigation\nreports, laboratory  testing  results, groundwater monitoring  data,  etc.) should be\nprovided in the report regarding the choice of parameters and design assumptions."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.            It is a good practice to incorporate provisions for design reviews during\nconstruction  such  that  the key  design  assumptions can be  validated  or  design\nmodifications can be made if changes in design parameters are found necessary.  This\nis particularly important for sites with complex subsurface conditions, or involving\nunconventional engineering schemes.  Guidance on this aspect is given in PNAP 246."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.            It is often noted that many of the plans submitted do not comply with the\nrequirements stipulated in the related B(A)R and Building (Construction) Regulations\n(B(C)R), thus resulting in delay in subsequent processing.  The proposed works shall\nbe clearly differentiated from existing works (B(A)R 14 refers).  The plans shall be\nprepared to clearly show the mutual effects between the proposed works and the\nexisting conditions of the site.  Attention should also be given in the preparation of\nplans  to avoid some common  deficiencies such  as  inaccurate  site survey  data,\ninsufficient  safety  precautions  (e.g.  temporary  support  to  adjacent  ground  or\nprecautionary  measures   for  heavy   rainfall),  unclear  construction  sequence,\ndiscrepancies between plans and design reports and insufficient detailing.\n\nGeotechnical Requirements for Site Formation Plans and Other Types of Plans"
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.       The preparation of site formation plans and associated designs and reports\nshall adhere closely to the requirements as specified in B(A)R 8(1)(bb).  Guidance on\nsite formation filling work is provided in PNAP 55."
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "10.       Excavation and lateral support plans often contain significant geotechnical\ncontents.  The requirements for preparing the design, reports and plan are clearly\nspelt  out  in B(A)R  8(1)(bc) and PNAP 148.   Guidance on  information  to be\nsubmitted with the excavation and  lateral support plans relating to dewatering in\nbasement excavations is provided in PNAP 74.\n\n\n                                                                             /11. ….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.       Developments in Scheduled Area No. 1 (Mid-levels Scheduled Area) and\nfoundation works in Scheduled Area Nos. 2 and 4 (North West New Territories and\nMa On Shan Scheduled Areas) are subject to additional geotechnical control.  The\ngeotechnical requirements and information to be submitted for such developments are\ngiven in PNAP 85 and PNAP 161 respectively. Furthermore, the administrative\nprocedures and  general  guidance  for  developments  in  the  Designated Area  of\nNorthshore Lantau are given in PNAP 283."
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.      The design and construction of foundations in the vicinity of geotechnical\nfeatures or on sloping ground requires careful geotechnical consideration to ensure\nthat  the works  will  not  induce  adverse  effects  (e.g. damming  effects on  the\ngroundwater regime, additional loading or vibration effects onto the ground, etc.) to\nthe adjacent ground so as to be in compliance with B(C)R 23.  B(A)R 8(1)(d) spells\nout what needs to be included in a foundation plan."
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "13.      Where an existing building which provides support to the adjacent ground\nis to be demolished, due consideration should be given to ensure that the stability of\nthe  adjacent ground  is not adversely  affected.   Demolition  debris  shall not be\nstockpiled  in  the  vicinity  of any  geotechnical  features.   The  requirements  for\npreparing the plans in respect of the demolition works of such structure are provided\nin B(A)R 8(3)& (4) and PNAP 71.\n\nUse of Geotechnical Computer Programs in Submissions to BA"
+    },
+    {
+      "id": "p14-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 449
+        },
+        {
+          "label": "v",
+          "offset": 1110
+        }
+      ],
+      "text": "14.       All calculations contained in geotechnical design reports for submission to\nBA should be properly indexed and arranged in a logical sequence.  The calculations\nshould show clearly the sections analysed, the geological and hydrogeological model\nand  soil parameters used.   In the case  that the calculations are performed by a\npre-accepted geotechnical computer program (PNAP 79),  the following  essential\ninformation should be included.\n\n              (i)   The name,  version,  developer’s  name/identification, BD\n                 reference number and  validity  period  of  the  computer\n               program used;\n\n               (ii)   The scope of application of the program which is accepted by\n          BD and a list of the limitations in application;\n\n               (iii)  The justifications on the simulation of the problems by the\n                mathematical models used in the computer program;\n\n            (iv)  Assumptions made and justifications on parameters used in\n                 the  computer model  e.g.  material  properties,  boundary\n                 conditions etc;\n\n            (v)   The preparation of the input data from the ground conditions;\n\n\n\n                                                                       /(vi)….."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -\n\n\n            (vi)  Summary of salient output results e.g. factors of safety of\n                 slopes and retaining walls under critical ground conditions,\n                design envelopes of moment, shear, displacement of lateral\n                 support systems for excavations, ground displacement; and\n\n             (vii)  The interpretation and application of the computer output in\n                 the design."
+    },
+    {
+      "id": "p15-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "15.      The Registered Geotechnical Engineer (RGE) is required to complete the\nstandard proforma in Appendix A and include it in the submission.\n\n\n\n\n\n                                                                      ( H W CHEUNG )\n                                                      Building Authority\n\n\n\n\n\nRef. :   BD GR/OA/71/1\n       BD GP/BORD/75\n\nFirst issue  January 2003\nThis revision  December 2005 (AD/Sup, DH(I)/CEDD)  (Paras. 2, 11, 15 &\n                                                  Appendix A amended)\n\nIndex under : Geotechnical Design Information\n             Getotechnical Computer Programs"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Appendix A\n                                                   (PNAP 274)\n                                                         (APP-128)\n                 Geotechnical Computer Program Statement\n\n\nBD file ref. no. : ………………………………………………………………………\n\nAddress of site : ………………………………………………………………………\n\n       ………………………………………………………………………\n\nRegistered Geotechnical Engineer : …………………..……………………………...\n\nGeotechnical computer programs used :-\n\n                   Program Name                BD Ref. No.\n\n(1)†………………………………………………………………….G………………..\n\n(2)†………………………………………………………………….G………………..\n\n(3)†………………………………………………………………….G………………..\n\n\nAbove programs were used to analyse the following designs († insert the appropriate\nnumber from table in brackets) :-\n\n(      ) Earth-retaining Structures\n\n(      ) Excavation and Lateral Support Works\n\n(      ) Slope Works\n\n(      ) Others (please specify) .........................……………………...……………….…\n\n\nI confirm that I am responsible for executing the geotechnical computer programs in\nrespect of the above designs.\n\nThe information about the geotechnical computer programs  is also enclosed in\npursuance of paragraph 14 of PNAP 274.\n\n\nSignature of RGE : …………………………………… Date : ………………..………\n\n& Full name (in block letters) : …………………………………………………...…….\n\nCertificate of Registration No. : ……………………… Expiry date : ...……….………\n\n\n* Delete whichever is inapplicable\n\n(Rev. 12/2005)"
+    }
+  ]
+}

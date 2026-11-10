@@ -1,0 +1,79 @@
+{
+  "code": "APP-117",
+  "source_text": "indexed_text/PNAP/APP/APP-117.txt",
+  "source_pdf": "documents/PNAP/APP/APP-117.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers   APP-117\n\n                                Practice Note for Authorized Persons Buildings Department                                                249\n                          and Registered Structural Engineers\n\n\n                            Structural Requirements for\n                Alteration and Addition Works in Existing Buildings\n\n                Alteration and Addition (A&A) works to existing buildings involve,\n among others, the design of new structural works and/or the checking of structural\n adequacy of the existing construction. This practice note gives guidance on the structural\n aspects of A&A submissions.\n\n Condition of Existing Structural Elements"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            All  submissions  of  structural  plans  for A&A  works  should  be\n accompanied by an assessment on the structural viability of the proposal.  To satisfy\n himself/herself that a proposal  is viable in the context of structural  stability, the\n appointed authorized person (AP) or, if appropriate, the registered structural engineer\n (RSE) should inspect the condition of the existing structural elements affected by the\n works.  Wherever possible, site photographs clearly showing all affected structural\n elements should be submitted for reference and record purposes.\n\n Design of New Works"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            All new structural elements in the A&A works should be designed in\n accordance with the current Building Regulations and relevant codes of practice.  In\n submitting the structural plans for the A&A proposal, you should include, if appropriate,\n  results of any tests that you have carried out for ascertaining the structural condition of\n existing elements likely to be affected by the works and any planned remedial works, if\n required.\n\n Structural Adequacy of Existing Works"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 281
+        }
+      ],
+      "text": "4.          The structural adequacy of an existing building or part thereof, as may be\n affected by proposed A&A works may, subject to the following requirements, be\n checked according to the then prevailing Building Regulations and codes of practice to\n which they were designed:\n\n         (a)   Wind Calculations\n                In the case of A&A works involving:\n                         i. partial or total removal of existing major wind resisting walls or\n                    frames, which would result in a reduction in their stiffness by 5% or\n                  more, or\n                         ii. the extension of building dimensions which would result in an\n                     increase of 10% or more of the wind exposure areas of a building,\n                the structural adequacy of the building due to wind should be checked\n               based on the current wind code.\n                                                                                       /(b) ....."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n\n        (b)    Imposed Loads in Storage Areas\n          When  existing  floors used  for storage purposes are  affected,  their\n                structural adequacy should be checked using the minimum imposed loads\n                stipulated in the current Building (Construction) Regulations.\n\n        (c)    Shear in Flat Slabs\n          When flat slabs, which were originally designed based on working stress\n             method, are structurally altered or subject to any additional load, the\n              shearing stresses in the slabs should be checked using the Code of Practice\n               for the Structural Use of Concrete - 1987.\n\nDetails of Existing Structural Elements"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.           For the purpose of paragraph 4 above, AP/RSE should have knowledge of\nthe structural details of existing members. These details are available from the original\napproved plans.   In a case where the original approved plans are not available,\njustifications on your design by means of a comparison of the effects of new and original\nloading, bending moments and shear forces of the structural members may be accepted.\nIf necessary, opening up of the affected structural elements to ascertain the amount of\nreinforcement and concrete strength should be performed. According to paragraph 6 of\nPNAP 121, reinforcement details of the structural members in the existing building\naffected by the A&A works, when available, should be shown on drawings.\n\nFire Resistance"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.         PNAPs 202 and 231 provide guidance on the application of the codes of\npractice relating to fire safety.\n\n\n\n\n\n                                             (C M LEUNG)\n                                                   Building Authority\n\n\n\n\nRef.: BD SED/T/48\n\nFirst issue December 2000 (AD/NB2)\n\nIndex under: Structural A&A Works\n              Structural requirements\n              Alteration and Addition Works in Existing Buildings"
+    }
+  ]
+}

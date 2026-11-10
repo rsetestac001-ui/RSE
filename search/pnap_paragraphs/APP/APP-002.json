@@ -1,0 +1,607 @@
+{
+  "code": "APP-002",
+  "source_text": "indexed_text/PNAP/APP/APP-002.txt",
+  "source_pdf": "documents/PNAP/APP/APP-002.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and          APP-2\n                          Registered Geotechnical Engineers\n\n\n     Calculation of Gross Floor Area and Non-accountable Gross Floor Area\n                Building (Planning) Regulation 23(3)(a) and (b)\n\nCalculation of Gross Floor Area\n\n              Regulation 23(3)(a) of the Building (Planning) Regulations (B(P)R)\nstipulates that gross floor area (GFA) is the area contained within the outer surface of\nexternal walls of a building measured at each floor level.  Any portions of this area not\nfloored over should also be included in the GFA calculations.\n\nVoids in Buildings"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 521
+        },
+        {
+          "label": "b",
+          "offset": 580
+        },
+        {
+          "label": "c",
+          "offset": 614
+        },
+        {
+          "label": "d",
+          "offset": 798
+        },
+        {
+          "label": "e",
+          "offset": 931
+        },
+        {
+          "label": "f",
+          "offset": 1057
+        },
+        {
+          "label": "g",
+          "offset": 1137
+        }
+      ],
+      "text": "2.           However, where large voids occur, a modification of regulation 23(3)(a)\nof the B(P)R may be granted on application for voids in the following circumstances and\nsubject to compliance with the pre-requisites (for items (a) to (g)) and the overall cap on\nGFA concessions (for items (f) and (g) only) stipulated in Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers (PNAP)\nAPP-151 on Building Design to Foster a Quality and Sustainable Built Environment:\n\n        (a)     in front of cinema and theatre balconies;\n        (b)     in banking halls;\n        (c)     in shopping arcades provided that the total area of voids in the\n             shopping arcade does not exceed 10% of the total GFA of the\n             shopping arcade;\n        (d)     in single-staircase buildings in which cockloft floors for storage\n               are provided in the ground storey;\n        (e)     in auditoria, sporting halls (including squash courts), school halls\n             and religious institutions;\n         (f)     in main common entrance lobbies of non-domestic buildings; and\n        (g)     in duplex domestic flats or houses if they satisfy the criteria set\n              out in Appendix A."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.             In the case of \"split level\" designs where the difference in level between\nadjoining floors is less than 1m, the floor may be regarded as being level for the purposes\nof this regulation.  For greater differences in level, the authorized persons (AP) should\nclarify with the Buildings Department (BD) before embarking on the building project.\n\n\n                                                                                 /Facilities …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\nFacilities and Features in Buildings"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 384
+        },
+        {
+          "label": "b",
+          "offset": 416
+        },
+        {
+          "label": "c",
+          "offset": 558
+        },
+        {
+          "label": "d",
+          "offset": 757
+        },
+        {
+          "label": "e",
+          "offset": 1017
+        },
+        {
+          "label": "f",
+          "offset": 1270
+        }
+      ],
+      "text": "4.            Subject to the special circumstances of each case and compliance with the\npre-requisites (for all items except item (e)) and the overall cap on GFA concessions (for\nitems (a) to (d) only) stipulated in PNAP APP-151, the Building Authority (BA) is in\ngeneral prepared to consider favourably application for modification of regulation\n23(3)(a) of the B(P)R in respect of:\n\n        (a)    chimney shafts;\n\n        (b)     filtration plant rooms for swimming pools in hotels or for water\n               features in communal gardens/landscape area;\n\n        (c)    a room of a size not exceeding 1.2m(W) x 1.2m(D), housing\n                 satellite master antenna television equipment in accordance with\n              paragraph 33 of PNAP APP-42;\n\n        (d)    genuine and properly designed pipe-ducts/air ducts with adequate\n              access for inspection and maintenance which form part of the\n                distribution network for non-mandatory feature or non-essential\n                plant1;\n\n        (e)    genuine and properly designed pipe-ducts/air ducts with adequate\n              access for inspection and maintenance which form part of the\n                distribution network for mandatory feature or essential plant1;\n             and\n\n         (f)     plant rooms for environmentally friendly systems and features\n             such as rainwater/grey water recycling system and battery room\n               for solar panels."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.       A modification of regulation 23(3)(a) of the B(P)R may also be granted\non application for refuge floors which comply with the Code of Practice for Fire Safety\nin Buildings.\n\nCurtain Walls and Claddings"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           Under section 26 of the Building (Construction) Regulation (B(C)R),\ncurtain wall means a non-load-bearing enclosure of a building fixed on to the load-bearing\nstructure of the building.   Where a curtain wall system (including other similar\nnon load-bearing enclosure system) forms the external face of a building, the BA is\nprepared to accept2 the outer surface of the structural elements, e.g. beams, columns and\nfloor slabs, as the external wall for the purpose of measuring GFA and site coverage (SC)\nwhere:\n\n\n                                                                     /(a)…\n\n\n1  Please refer to PNAP APP-151 for examples on plant rooms that are considered mandatory/\n   essential or non-mandatory/non-essential.\n2  Not applicable to industrial buildings with small workshop units."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n        (a)    The curtain wall system itself does not form part of the structural\n             system of the parent building;\n\n        (b)   The system does not result in any additional floor area at a floor\n               level by providing a reinforced concrete dwarf perimeter wall not\n                less than 300mm high measured from the floor level;\n\n        (c)    The projection of the system from the outer surface of the\n                structural elements does not exceed 200mm for a domestic\n              building and 250mm for a non-domestic building; and\n\n        (d)   The external reflectance3 of the glass used in the system does not\n             exceed 20%.\n\nThe method of measurement of GFA and SC is illustrated in the sketches at Appendix B\nfor reference.  For the avoidance of doubt, a purpose built hotel building including the\nhotel part of a building or a hotel converted from a non-domestic building is treated as a\nnon-domestic building or non-domestic part of a building for the purpose of item (c)\nabove."
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 947
+        },
+        {
+          "label": "b",
+          "offset": 1332
+        }
+      ],
+      "text": "7.           For the provision of curtain walls to existing facades in the case of\nwholesale conversion of buildings, exemption from section 31(1) of the Buildings\nOrdinance (BO) to allow the curtain walls to project over streets will be favourably\nconsidered if low-energy absorbent type glazing/energy efficient materials with energy\nefficient design of the curtain walls that could achieve 40% in the categories of Energy\nUse (EU) and Indoor Environmental Quality (IEQ) with the BEAM Plus Certification\nconferred by the Hong Kong Green Building Council (HKGBC) are incorporated in the\nproposal.  As the pre-requisites for the granting of the exemption, the applicant in\napplying for approval of plans should submit the official letter issued by the HKGBC\nacknowledging the satisfactory completion of project registration application for BEAM\nPlus Certification and a letter by the applicant undertaking to submit to BD the following\ndocuments:\n\n        (a)    Result of the Provisional Assessment under the BEAM Plus\n               Certification  conferred  by  the HKGBC  to  demonstrate\n             achievement of 40% in the categories of EU and IEQ to be\n              submitted  prior  to  the  application  for  consent  to  the\n           commencement of the building works shown on the approved\n               plans; and\n\n        (b)    Result  of  the  Final  Assessment  under  the BEAM  Plus\n               Certification  conferred  by  the HKGBC  to  demonstrate\n             achievement of 40% in the categories of EU and IEQ within\n            6 months of the date of the BA's letter of acknowledgment of the\n           Form BA14 for the project.\n\n\n                                                                                                 /8. …\n\n\n3  “External reflectance” means the percentage of daylight reflected from any external surface\n   of the glass used in the curtain wall system."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -"
+    },
+    {
+      "id": "p8-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          The provision of curtain wall to existing balconies over a public street or\nonly at localised portion of the facades will not be accepted.   Curtain walls system\nprojecting over streets, if permitted, will not be accountable for GFA and SC under B(P)R."
+    },
+    {
+      "id": "p9-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "9.           Under section 26 of the B(C)R, cladding means a facing or architectural\ndecoration additional to the structural elements of a building.  External wall finishes of\nnominal thickness or claddings with overall thickness of not more than 90mm (75mm in\nthe case of cladding to non-structural prefabricated external walls) as the external wall\nfinishes may be disregarded for the purpose of measurement of dimensions under\nregulation 23(3) of the B(P)R.   However, no part of any wall finishes, including\ncladdings, should project beyond the  site boundaries.   For the refurbishment of\nbuildings, application for exemption from section 31(1) of the BO is required if the\ncladdings will project over streets."
+    },
+    {
+      "id": "p10-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "10.          For curtain walls and claddings as mentioned in paragraphs 7 to 9 above\nprojecting outside the lot boundary over public streets, APs are reminded to ensure that\nthe relevant lease conditions are complied with.\n\nNon-accountable Gross Floor Area"
+    },
+    {
+      "id": "p11-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 849
+        },
+        {
+          "label": "b",
+          "offset": 1004
+        }
+      ],
+      "text": "11.          Under regulation 23(3)(b) of the B(P)R, the BA may disregard from GFA\ncalculation  floor  space  occupied  solely  by  machinery  or  equipment  for   lift,\nair-conditioning, heating system or any similar service.   The phrase \"any similar\nservice\" may generally be interpreted to include fire control centre, water tanks, electrical\nswitch rooms, meter rooms, transformer rooms, generator rooms, pump rooms, telephone\nequipment rooms, cable riser duct room, CO2 rooms, hose reel closets, sewage treatment\nplant rooms and smoke extraction system.  In each case, both the premises for and the\nsize of any such feature should be justified.  To guard against possible abuse, the BA\nwill take the following into consideration when disregarding the above features from GFA\ncalculation for single-family residence or house type developments:\n\n        (a)    There should not be any duplication in the provision of services\n           when GFA exclusions are also being separately applied for; and\n\n        (b)    Only the minimum amount of GFA necessary for accommodating\n             and  maintaining  the  services  and commensurate  with  the\n             development would be allowed to be disregarded.  AP may be\n              required to demonstrate why it is not possible to consolidate the\n              provision of all related services into multi-purposes or centralised\n            rooms such that the area which is disregarded from GFA could be\n             used efficiently."
+    },
+    {
+      "id": "p12-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "12.          For plant rooms and other features that are to be disregarded from GFA\ncalculation, the enclosing walls and the associated protected lobby, if any, solely serving\nthe said rooms or features and do not serve any other function, may also be disregarded\nfrom GFA calculation.  The maximum thickness of such wall to be disregarded from\nGFA calculation should normally be not greater than 100mm.\n\n\n                                                                                     /13. …"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 5 -"
+    },
+    {
+      "id": "p13-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "13.         The granting of GFA concessions for plant room occupied solely by\nmachinery or equipment for air-conditioning or heating system is subject to compliance\nwith the pre-requisites and the overall cap on GFA concessions stipulated in PNAP\nAPP-151 on Building Design to Foster a Quality and Sustainable Built Environment."
+    },
+    {
+      "id": "p14-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "14.         The horizontal area of staircases,  lift shafts and vertical ducts should\nnormally be measured for GFA together with the floor through which they pass, except\nrefuge floors.  However, where these features solely serve floors accepted as not being\naccountable for GFA (by reason of the captioned regulation), the area of the features may\nalso be discounted.\n\nCar Parking, Loading and Unloading Areas"
+    },
+    {
+      "id": "p15-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "15.         The BA considers that areas of public and private car parks, and public\ntransport termini provided in buildings or any part thereof are spaces for parking or\nloading and unloading of motor vehicles and exercises discretion under regulation\n23(3)(b) of the B(P)R whether to disregard such areas from GFA calculation on case\nmerits, taking into account all relevant considerations which include the design of the car\npark and the effect on public interest such as impact on infrastructure, density and\nbuilding bulk."
+    },
+    {
+      "id": "p16-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "16.            In deciding on the areas of car parks that could be disregarded from GFA\ncalculation, the BA will make reference to the advice/requirements of the Commissioner\nfor Transport, requirements as stipulated in the statutory town plans and the standards set\nout in the Hong Kong Planning Standards and Guidelines (HKPSG)."
+    },
+    {
+      "id": "p17-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 270
+        }
+      ],
+      "text": "17.            In general, car parking and loading and unloading provisions on open\narea/podium roof are not GFA accountable. For other scenarios, the following additional\nfactors will also be taken into account in accordance with the guidelines detailed in\nAppendix C:\n\n        (a)    Nature – public4 or private4 as well as whether they are required to\n             be provided under lease for Government Accommodation5(GA), or\n              subsidised sale/rental flats6 as accepted by the Government to be\n             provided by the Hong Kong Housing Society (HKHS) or the Urban\n            Renewal Authority (URA);\n\n                                                                                           /(b) …\n\n4  As defined in paragraphs 1 and 2 of Appendix C.\n5  As required to be provided and to be assigned to the Financial Secretary Incorporated upon\n   completion under lease.  Unless stated otherwise, all references to “lease” in this practice\n   note shall include Government Lease or Conditions of Sale/Grant/Exchange, etc (as the case\n  may be) and “leases” shall be construed accordingly.\n6 A letter issued by the HKHS or the URA, as appropriate, should be submitted together with\n   the building plans to BD to confirm that the proposed project involves “subsidised sale/rental\n    flats as accepted by the Government and required to be provided under lease”. Besides, before\n   submitting the building plans for approval, the AP of the building project should agree with\n   the Transport Department on the car parking and/or loading and unloading provisions in\n   accordance with the HKPSG and with supporting documents such as traffic impact assessment\n   reports. The AP should submit the agreed provisions (including the respective provisions for\n   subsidised sale/rental flats, non-subsidised sale/rental flats, office, retail, etc.) upon building\n   plans submission and clearly delineate the respective provisions on the building plans."
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "- 6 -\n        (b)    Building bulk – whether the car parks are above or below ground,\n            and for the purpose of paragraph 18(c) whether there are site-specific\n               technical difficulties involved in providing underground car parks;\n\n        (c)    Environmental or visual impact – size (e.g. plot ratio and number of\n               storeys);\n\n        (d)    Environmental friendliness – electric vehicle (EV) charging-enabling;\n\n        (e)    Deep underground car parks – posing disproportionate construction\n                risk and inefficiency in the layout; and\n\n         (f)    Design – meeting the minimum standards as stated in PNAP APP-111."
+    },
+    {
+      "id": "p18-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "18",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 491
+        },
+        {
+          "label": "i",
+          "offset": 756
+        }
+      ],
+      "text": "18.       BD adopts the following principles in determining the GFA of car parking\nand loading/unloading areas under the BO:\n\n                                      Private Car       Public Car       Loading/\n                                     Parks           Parks        Unloading\n                         (% Disregarded) (% Disregarded) (% Disregarded)\n (a) Underground                100%*        100%*        100%\n (b) Aboveground                                          Ground Level\n      (i)  Not more than two floors     100%*        100%*     (GL) – 100%\n      (ii) Floors other than item (i)     50%*        50%*     Above GL –\n       above                                     50%\n (c) Aboveground                100%*        100%*        100%\n      (i)  Site constraints making\n        underground  car  parks\n         technically infeasible, or\n      (ii) Poses    no    adverse\n        environmental or visual\n        impact\n (d) Aboveground -               100%*        100%*        100%\n    required to be provided\n    under lease for and as part of\n     the GA\n (e) Aboveground -               100%*        100%*        100%\n    required to be provided\n    under lease for subsidised\n     sale/rental flats as accepted\n    by the Government, to be\n    provided by HKHS or URA\n*  Provided that the car parking spaces are EV charging-enabling except those installed with\n   automated parking system.\n\n\n                                                                                   /19. …"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "- 7 -"
+    },
+    {
+      "id": "p19-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "19",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "19.         The  principles on disregarding car parks from GFA  calculation  at\nparagraph 18(a) to (e) are applicable to all new building plans7 (including major revision)\nsubmitted to the BA for approval in accordance with the effective dates listed below:\n\n Disregarding car parks from GFA calculation             Effective date\n Paragraph 18(a) on underground Public Car Parks     On or after 1 March 2017\n Paragraph 18(b)                          On or after 1 November 2025\n Paragraph 18(c) on aboveground Public Car Parks\n Paragraph 18(d) and 18(e)                    On or after 1 August 2023\n\nThe requirements on EV charging-enabling  facilities (EV requirements) set out in\nparagraph 4 of Appendix C to this PNAP are applicable to all new building plans\n(including major revision) for new developments submitted to the BA for approval on or\nafter 1 November 2025.  Subject to section 16(3)(d) of the BO, EV requirements for the\nbuilding proposals approved by the BA prior to the implementation of this revision of\nPNAP should make reference to the “December 2023” version of this PNAP.\n\nPublic Transport Terminus (PTT)"
+    },
+    {
+      "id": "p20-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "20",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "20.         The BA would generally take into consideration the advice of the Planning\nDepartment in determining the effect of excluding PTT from GFA calculation on the\ninfrastructure, density and building bulk.  As the Planning Department has advised that\nthe town planning intention is all PTT should be GFA accountable unless otherwise\nprovided for in the relevant town plan, hence as a general rule, unless otherwise specified\nin the relevant town plan or planning approval for the site, all PTT should be accountable\nfor GFA.\n\nBicycle Parking"
+    },
+    {
+      "id": "p21-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "21",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "21.          Covered bicycle parking spaces required to be provided under lease and to\nbe designated as common areas of a development may be exempted from GFA on\napplication for exemption of regulation 23(3)(a) of the B(P)R.\n\n\n\n\n\n                                                                    ( HO Chun-hung )\n                                                   Building Authority\n\n\nRef. : BD GP/BREG/P/9 (XIV)\n\nThis PNAP is previously known as PNAP 13\nFirst issue    December 1974\nLast revision  December 2023\nThis revision  November 2025 (AD/NB1) (Paragraphs 17 to 19 and Appendix C amended)\n\n\n\n7  Not applicable to existing car parks."
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Appendix A\n                                                    (PNAP APP-2)"
+    },
+    {
+      "id": "p1-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "1. Exemption Criteria for Exclusion of Voids in Duplex Domestic Flats and Houses\n   from Gross Floor Area Calculations\n\n\n                               Duplex Flats                   Houses\n\n  UFS(1) of                       150 m2 (min.)                250m2 (min.)\n  premises\n\n % of void to UFS             10% (max.)              5% (max.)\n  of premises\n\n % of void to total     Only two levels of voids will be allowed\n  domestic GFA         for each residential tower block, subject\n                           to a maximum of 0.5%(2) of the  total         N.A.\n                       domestic GFA of the development.\n\n Headroom of void               6.5m (max.)                7.0m (max.)(3)\n\n  Location of void       Living/ dining room or entrance foyer         Living/ dining\n                                                       room or\n                                                                     entrance foyer\n\n\n\n(1)  “UFS” means any floor space other than staircases, staircase halls, lift landings, the space used in providing\n      water-closet  fitments,  urinals and  lavatory basins and the space occupied by machinery  for any  lift,\n      air-conditioning system or similar services.\n\n\n(2)  The “0.5% cap” will be applied with some flexibility for low-rise and low-density flat-type development which\n       is similar to house-type development.  Each case will be considered on individual merits.\n\n(3)   In case of sloping ceiling resulted from a pitch roof, the headroom should be measured to the mean level of the\n      underside of the portion of ceiling that is above the void area."
+    },
+    {
+      "id": "p2-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 28
+        }
+      ],
+      "text": "2.  Conditions of Exemption\n\n     (i)   The Building Authority (BA) is satisfied that the void design is compatible with\n         the type of residential development and that effective measures to prevent any\n         possible abuse are provided, such as up-stand beam design, voids fronted by\n          large glazing panels facing the exterior, no adjoining structural wall or beam, etc.\n\n     (ii)  The development after excluding the area of voids from GFA calculation will not\n         contravene the development restrictions relating to building height, GFA, etc. in\n         the relevant statutory town plan and any specific provisions or restrictions in the\n          lease conditions.\n\n\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "(iii)  To support an application for exemption of voids from GFA calculations, the\n         developer or owner is required to submit a letter of undertaking for the proposed\n         development.   It shall include an undertaking from the developer or owner to\n         the BA to designate the area of the voids as ‘voids’ in the Deed of Mutual\n        Covenant (DMC) with their locations clearly indicated.  The DMC should\n         contain binding and enforceable conditions for the control, management and\n        maintenance  of  the  features.  Where no DMC  is  to be  in  force  for a\n         development, such designation shall be incorporated into the Sales and Purchase\n        Agreement, Assignment, Tenancy Agreement or conveyance document such that\n         the future owners or tenants are aware of their rights and liabilities.\n\n    (iv)  Applications for exemption of voids from GFA calculations in duplex domestic\n           flats or houses or in the case of a development with houses and flats on the same\n            site, would be considered on the special circumstances of each case.\n\n\n\n\n\n(Rev. 7/2013)\n\n\n\n\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Appendix B\n                                                     (PNAP APP-2)\n\n              Section of Curtain Wall System installed at New Building\n\n\n\n                                                   ction of Curtain Wall System installed at New Bui\n                                           lding\n\n\n\n\n\n                                                                                                                                 S e\n\n\n\n\n            Section of Curtain Wall System installed at Existing Building\n\n\n                                                                                                             ct\n\n                                                                             System installed                                                                                                                                         a t\n\n                                                                                                                       io\n                                                                                                                                         n\n\n\n                                                                            Existing Buildingll\n                                                    of Curtain  Wa\n\n\n\n\n\n                                                                                                    Se\n\n\n\n(Rev. 11/2013)"
+    },
+    {
+      "id": "page-11-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        11
+      ],
+      "text": "Appendix C\n                                                   (PNAP APP-2)\n\n\n                Guidelines for GFA Calculations of Car Parking,\n          Loading and Unloading Areas under Regulation 23(3)(a) or\n            Disregarding of Such under Regulation 23(3)(b) of B(P)R\n\nSection A – Car Parks\n\nPublic or Private Car Parks"
+    },
+    {
+      "id": "p1-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "1.   Public car parks generally refer to carparks required under the statutory town plans\n     or by the Commissioner for Transport (C for T) and reflected under lease that serve\n     the parking needs of the general public."
+    },
+    {
+      "id": "p2-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "2.   Private car parks (also referred to as “ancillary car parks”) generally refer to those\n    intended to serve the parking needs of the occupants of the parent building and their\n    bona fide visitors.\n\nUnderground Car Parks"
+    },
+    {
+      "id": "p3-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 109
+        },
+        {
+          "label": "b",
+          "offset": 432
+        },
+        {
+          "label": "c",
+          "offset": 924
+        },
+        {
+          "label": "d",
+          "offset": 1339
+        }
+      ],
+      "text": "3.   Circumstances that may be favourably considered in accepting a car park as an\n    underground car park:\n\n     (a)      If the site abuts on only one street, the structural ceiling soffit of the car\n           park is at or below the mean level of that portion of the street on which\n            the site abuts, provided that such mean level is not more than 5m above\n            the lowest level of such portion of the street;\n\n     (b)      If the site abuts more than one street, the structural ceiling soffit of the\n            car park is at or below the level obtained by dividing the sum of the\n         mean levels of the respective portion of the streets on which the site\n            abuts by the number of such streets on which the site abuts, provided\n             that the level so obtained is not more than 5m above the mean level of\n             that portion of the lowest street on which the site abuts;\n\n     (c)      If for the purpose of providing natural lighting and ventilation to the\n           topmost car parking floor, not more than half of the height measured\n          from the structural floor to the structural ceiling soffit of the topmost\n            car parking floor protrudes above the level as determined in (a) or (b)\n           above, provided that the protruding height is not more than 2.5m; or\n\n     (d)      If there are site constraints that affect the design and location of the car\n           parking floors such as significant difference in the levels of the streets\n          on which the site abuts or existence of large platform restricting the car\n           parking design, provided that the topmost car park floor is semi-sunken\n          and follows the slope profile of the site and adjoining land, etc.\n\n                                                            /EV …\n\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-12-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        12
+      ],
+      "text": "EV Charging-enabling"
+    },
+    {
+      "id": "p4-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 223
+        },
+        {
+          "label": "b",
+          "offset": 1781
+        },
+        {
+          "label": "i",
+          "offset": 1903
+        }
+      ],
+      "text": "4.  Except for carparking spaces installed with an automated parking system, all car\n    parking  spaces  to  be  disregarded  from GFA  calculation  should  be EV\n    charging-enabling and meet the following requirements:\n\n     (a)    The EV charging-enabling facilities should comprise (i) fixed electrical\n             installations on the consumer  side  including, but not  limited  to\n           switchboards, distribution boards, electricity meter boards, cabling,\n           conduits and trunking; and (ii) EV chargers which should be designed,\n             installed, tested and commissioned in accordance with the revised\n           Technical Guidelines for Electric Vehicle Charging-enabling for Car\n           Parks  of New  Building Developments (TGNBD)  issued by  the\n          Environment and Ecology Bureau in February 2023, the circular letter\n            of “Supplement to the Technical Requirements under TGNBD” issued\n         by the Environmental Protection Department (EPD) in November 2025\n          and the Technical Guidelines on Charging  Facilities  for  Electric\n           Vehicles issued by the Electrical and Mechanical Services Department\n            in April 2015. The guidelines and circular letter can be downloaded\n          from the following websites respectively:\n\n         https://www.epd.gov.hk/epd/sites/default/files/epd/english/environ\n                mentinhk/air/prob_solutions/files/guidelines_on_enabling_eng.pdf;\n\n         https://www.epd.gov.hk/epd/sites/default/files/epd/english/environ\n               mentinhk/air/prob_solutions/files/EPD_Circular_Letter_dated_4_N\n               ov_2025_signed.pdf; and\n\n        http://www.emsd.gov.hk/filemanager/en/content_444/Charging_Fa\n                 cilities_Electric_Vehicles.pdf.\n\n     (b)    For the submission of general building plans (GBP), the following\n           information should be provided:\n\n               (i)  A carparking schedule shown on the GBP listing the provisions\n                 of car parking spaces1 and the number of car parking spaces to\n               be equipped with EV charging-enabling facilities2. A sample of\n                 the carparking schedule is provided in Annex for reference; and\n\n               (ii)  An EV charging facility report containing design information of\n                 the EV charging-enabling facilities required under paragraph 15\n                 of TGNBD  certified by a Registered Professional Engineer\n               (RPE)3 in accordance with the general and specific requirements\n                under TGNBD.\n                                                                      /The …\n\n1  With breakdown on each type of car parking space serving residential portion and/or\n   non-residential portion.\n2  With breakdown on the numbers of each type of car parking space to be equipped with medium\n   charger with output power not less than 7 kW and/or quick/fast charger with output power of\n   50 kW/100 kW or higher.\n3  Registered under the Engineers Registration Ordinance (Cap. 409) in either the Electrical or\n   Building Services discipline.\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-13-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        13
+      ],
+      "text": "The GBP together with the EV charging facility report will be referred\n            to EPD for comments through the centralised processing system, and\n            the Building Authority (BA)  will make reference  to the advice/\n           requirements of EPD in deciding on the areas of car parks that could be\n           disregarded from GFA calculation;\n\n     (c)     In case where the design information is not yet available at the plan\n           submission stage, the authorized person (AP) may defer to submit the\n       EV charging facility report at the consent stage.  The BA will impose\n           a condition upon the approval of the GBP requiring the submission of\n       EV charging  facility report before the application for consent to\n         commence superstructure works under regulation 10 of the Building\n           (Administration) Regulations;\n\n     (d)     In connection with (b) and (c) above, EPD will notify BD within\n          22 calendar days  if the submission is fundamentally acceptable or\n           unacceptable with a copy directly to AP and RPE.   If the submission\n              is fundamentally acceptable but with other comments/requirements\n         made by EPD, the AP should in consultation with RPE resolve the\n          comments/requirements prior to the application for an occupation\n           permit (OP);\n\n     (e)   Upon completion of the installation of the EV charging-enabling\n              facilities, the works completed on site and the latest design information\n             shall be certified by an RPE as required under TGNBD and the RPE’s\n             certificate shall be submitted to BD through the AP with a copy directly\n            sent to EPD.  On receiving RPE’s certificate, EPD will advise BD\n           within 10 calendar days with a copy directly sent to AP and RPE if they\n          have objection/no objection to the completed EV charging-enabling\n              facilities;\n\n     (f)     Similar to other supporting documents, EPD’s no objection to the\n          completed EV charging-enabling facilities should be submitted to BD\n             at the time of submitting application for OP; and\n\n     (g)    Meter rooms (if provided) being part of the EV charging-enabling\n              facilities are considered as essential plant rooms and will be disregarded\n          from GFA  calculation under  regulation  23(3)(b)  of  the B(P)R,\n            irrespective of whether the car parks they serve are underground or\n           aboveground.\n\nTechnical Difficulties in Providing Underground Car Parks"
+    },
+    {
+      "id": "p5-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "5.  Under paragraph 18(c)(i) of this PNAP, aboveground public and private car parks\n   may be 100% disregarded from GFA calculation if  it is proven with sufficient\n    evidence that it is technically infeasible to construct underground car parks due to\n     specific site constraints.  Examples of such site constraints include sites located\n    above major underground utilities, within Areas Number 1, 2, 3 or 4 in Schedule 5\n     to the BO or with other complex geotechnical constraints.\n\n                                                                 /No …\n\n\n                                                              - 3 -"
+    },
+    {
+      "id": "page-14-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        14
+      ],
+      "text": "No Adverse Environmental or Visual Impact"
+    },
+    {
+      "id": "p6-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "6.  Under paragraph 18(c)(ii) of this PNAP, aboveground public and private car parks\n     that will not pose adverse environmental or visual impact to its surrounding areas\n   may be 100% disregarded from GFA calculation if, for instance, they are in low-rise\n    low-density sites, such as a building development with plot ratio not exceeding 1 and\n    not more than 6 storeys (5 storeys above 1 storey car park).\n\nGFA Concession for Aboveground Car Parks"
+    },
+    {
+      "id": "p7-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "7.  Under paragraph 18(b)(i) of this PNAP, not more than two aboveground carparking\n     floors4 may be 100% disregarded from GFA calculation.   If there are specific site\n     constraints rendering it impossible to fully utilise the site for construction of the\n    aboveground carparking floors such that it is necessary to provide split levels or stack\n    up the car parking spaces in multi-levels, more than two aboveground carparking\n     floors may be 100% disregarded from GFA calculation on the condition that the total\n     floor area of the aboveground car parks would not exceed twice the site area.\n    Examples of such site constraints may include presence of a slope, retaining wall,\n     trees in the Register of Old and Valuable Trees or trees of particular value as\n    designated to be preserved, provision of government accommodation, public open\n     space, public passage, non-building area, wind corridor and reserved areas for\n    railway  facilities/public  road/underground  utilities  required  under  the  land\n     administration or planning regime."
+    },
+    {
+      "id": "p8-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "8.  Under the planning regime, where the building height (BH) of a building exceeds the\n   BH restriction permitted under the relevant statutory plan for a minor proportion, a\n     section 16 application to the Town Planning Board will be required for minor\n     relaxation of the BH restriction.   If the application for minor relaxation of BH\n     restriction is solely for accommodating two storeys of aboveground car parks, under\n    normal circumstances, the application would only require a visual appraisal, and if\n     the site is situated on major breezeways, a simple review of the air ventilation\n     impacts.\n\n\nSection B – Car Park Ancillary Areas and Loading/Unloading Areas\n\nCar Park Ancillary Areas5"
+    },
+    {
+      "id": "p9-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "9.   The percentage of GFA of the car park ancillary areas that may be disregarded under\n      regulation 23(3)(b) of the B(P)R will be determined according to the following\n      principles:\n\n\n                                                                  /Car …\n\n\n4  Irrespective of the provision of private and public car parks, if more than two floors of\n   aboveground car parks are provided, the AP should clearly indicate on plans which floors are\n   to be 100% disregarded from GFA calculation.\n5  The ancillary areas serving car parking spaces and loading/unloading areas include reasonable\n   size driveways, ramps, lift shafts and lobbies of car/passenger lifts and staircases.  Besides,\n   parking information facilities may be disregarded from GFA calculation under regulation\n   23(3)(b) of the B(P)R subject to the satisfaction of the C for T.\n\n                                                              - 4 -"
+    },
+    {
+      "id": "page-15-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        15
+      ],
+      "text": "Car Park Ancillary Areas (% Disregarded)\n       (a) Solely   serve   car  (c) Solely  serve  private  (e) Serve other scenarios\n          parks that are 100%      car parks that are 50%\n          disregarded; or           disregarded; or\n\n       (b) Solely   serve   car  (d) Solely  serve  private\n          parks and other floor      car parks that are 50%\n          spaces that are also     disregarded and other\n       100% disregarded         floor spaces  that are\n                         100% disregarded\n\n           100%                50%6              0%\n\nCriteria for Disregarding Loading/Unloading Areas from GFA Calculation"
+    },
+    {
+      "id": "p10-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "10.   Ancillary areas to loading/unloading areas, would qualify for the same level of\n     percentage disregarded from GFA calculation, provided  that they are solely\n      associated with spaces specifically earmarked for parking of motor vehicles for\n      loading/unloading purposes and are designed to the satisfaction of the BA and the\n      provision are not excessive with reference to the standards set out in the Hong Kong\n     Planning Standards and Guidelines or requirements stipulated by the C for T.\n     However, areas set aside for loading/unloading detached container boxes in a\n      container yard should be measured for GFA."
+    },
+    {
+      "id": "p11-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "11.   If ramps are provided in association with loading/unloading areas which have direct\n      access to the accommodation on the floors e.g. warehouse/godown in logistics\n      centre developments, the ramps are considered to serve the same function as lifts\n      for vertical transportation, and the area of the ramps should be accountable in full\n      for GFA."
+    },
+    {
+      "id": "p12-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "12.  For cases where run-in/out or driveway not only serves loading/unloading areas and\n      car parking spaces at such floors entitling 100% GFA concessions but also serves\n      car parking spaces at other aboveground floors entitling only 50% GFA concessions,\n      the percentage of GFA concessions of such run-in/out or driveway areas will be\n      calculated on a pro-rata apportionment basis judging on the merits of each\n      individual cases."
+    },
+    {
+      "id": "p13-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "13.  Areas for loading and unloading purposes and parking space for refuse collection\n      vehicle next to a refuse storage and material recovery chamber may be disregarded\n     from GFA calculation if vehicular access is required to be provided to the refuse\n      storage and material recovery chamber under the Building (Refuse Storage and\n      Material Recovery Chambers and Refuse Chutes) Regulations.\n\n\n\n(Rev. 11/2025)\n\n\n\n\n6  Save as provided in paragraph 12 for run-in/out or driveway disregarded from GFA calculation.\n\n                                                              - 5 -"
+    },
+    {
+      "id": "page-16",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        16
+      ],
+      "text": "Annex\n                                                                                               (PNAP APP-2)\n\n\n                                    Sample of Car Parking Schedule to be shown on GBP\n\n            Types                  No. of Car      CPS for       CPS for       CPS     CPS Not   CPS Equipped with\n                                     Parking      Government    Subsidised Sale   Equipped   Equipped   Fast / Quick Charger\n                                      Spaces     Accommodation      / Rental Flats    with 7 kW   with 7 kW  with Output Power of\n                                    (CPS)     Required under     Required     Medium    Medium      (        kW )\n                                                     Lease        under Lease     Charger    Charger\n Residential   Private Car\n Building               Accessible Carpark\n              Motorcycle\n               Light Goods Vehicle\n           Medium Goods Vehicle\n            Heavy Goods Vehicle\n            Coach (Bus)\n               Light Bus\n Non-         Private Car\n residential               Accessible Carpark\n Building\n              Motorcycle\n               Light Goods Vehicle\n           Medium Goods Vehicle\n            Heavy Goods Vehicle\n            Coach (Bus)\n               Light Bus\n\n(11/2025)"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "code": "APP-081",
+  "source_text": "indexed_text/PNAP/APP/APP-081.txt",
+  "source_pdf": "documents/PNAP/APP/APP-081.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-81\n\n                                     Practice Note for Authorized PersonsBuildings Department                                                   194\n                              and Registered Structural Engineers\n\n\n            Places of Public Entertainment (Amendment) Regulation 1996\n                   and Associated Legislative Amendments\n\n          The Places of Public Entertainment (Amendment) Regulation 1996, which\ncame into operation on 28.6.96, revises the principal Regulation by removing most of the\nsafety requirements  to  other Ordinances/Regulations.  The amended Regulation now\nfocusses on licensing procedures."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 174
+        },
+        {
+          "label": "b",
+          "offset": 513
+        },
+        {
+          "label": "c",
+          "offset": 764
+        }
+      ],
+      "text": "2.            Matters concerning the design, planning and construction of places of public\nentertainment in the principal Regulation have been transferred to the following:-\n\n        (a)    Building (Construction) (Amendment) Regulation 1996\n\n             This Regulation introduces a definition of “cinema” as\n              well  as  provisions  to  regulate  the  construction  of\n               protective barriers provided  at the outer edge of any\n             upper tier in a place of public entertainment.\n\n        (b)    Building (Planning) (Amendment) Regulation 1996\n\n             This Regulation adds a new Part VIA to regulate the\n                situation, planning, design and other matters relevant to a\n              place of public entertainment.\n\n        (c)   Code of Practice for the Provision of Means of Escape\n              in Case of Fire 1996 (MOE Code)\n\n              Part III of the Code contains requirements on means of\n              escape  for  places  of  public  entertainment.   These\n              requirements are transferred from the repealed Places of\n              Public Entertainment Regulations.  Part of the content of\n               Practice Note for Authorized Persons 54 has also been\n              incorporated in the Code."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The Places of Public Entertainment (Amendment) Regulation 1996 and\nassociated legislative amendments as mentioned in paragraphs 2(a) and (b) above and Part\nIII of the MOE Code apply to building works in accordance with Buildings Ordinance\nsection 39(2). By virtue of section 39(2), these Regulations and Part III of MOE Code do\nnot apply to building works which are being carried out or have been consented to\ncommence on or before 28.6.96.\n\n                                                                 /4.  A PNAP....."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.   A practice note for the revised MOE Code will be issued separately.\n\n\n\n\n\n                                          (CHOI Yu-leuk)\n                                                      Building Authority\n\n\n\n\n\nRef.  BD GP/LEG/2/L(V)\n     PNAP 54\n\nFirst issued (June 1996) (AD/LM)\n\nIndex under:  Cinemas\n              Places of Public Entertainment Regulations"
+    }
+  ]
+}

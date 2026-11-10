@@ -1,0 +1,199 @@
+{
+  "code": "APP-030",
+  "source_text": "indexed_text/PNAP/APP/APP-030.txt",
+  "source_pdf": "documents/PNAP/APP/APP-030.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-30\n                         Registered Geotechnical Engineers\n\n\n                           Geotechnical Control on\n                 Developments in Mid-levels Scheduled Area\n\n\n              Certain Mid-levels area has been designated as Area Number 1 of the\nScheduled Areas (Scheduled Area No. 1) in Schedule 5 to the Buildings Ordinance (BO).\nBuilding works in Scheduled Area No. 1 are subject to additional geotechnical controls\nunder the BO and its subsidiary regulations."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         As Scheduled Area No. 1 is located in the region of sloping ground, all\ngeotechnical aspects of works require input from a registered geotechnical engineer\n(RGE), in particular at the early planning stage of the building works. An RGE should\nbe appointed under the BO to undertake the following tasks involving geotechnical\nelements.\n\nGround Investigation"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         By virtue of section 41(3) of the BO, ground investigation in Scheduled\nArea No. 1 requires approval from the Building Authority (BA).  As such, ground\ninvestigation plans including laboratory testing as prescribed in regulation 8(1)(l) of the\nBuilding (Administration) Regulations (B(A)R) should be submitted to BA for approval\nand consent before the commencement of the works."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          Ground investigation should conform to standards laid down in the\nGeoguide 2 - Guide to Site Investigation, and the Geoguide 3 - Guide to Rock and Soil\nDescriptions issued by the Geotechnical Engineering Office (GEO)  of  the  Civil\nEngineering and Development Department (CEDD). As a general rule, a requirement\nwill be made under section 17(1)(6)(e) of the BO that ground investigation is adequately\nsupervised on site by a suitably experienced engineer or engineering geologist, and the\ncores recovered are carefully examined and properly logged. Reference should be made\nto Practice Note for Authorized Persons, Registered Structural Engineers and Registered\nGeotechnical Engineers (PNAP) APP-49 on site investigation and ground investigation.\n\nDemolition"
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            Demolition plans as prescribed in regulation 8(3) and (4) of the B(A)R\nmust be submitted for approval.\n\nBulk Excavation"
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "6.            Section 25 of the Building (Construction) Regulation (B(C)R) stipulates\nthat bulk excavation carried out in Scheduled Area No. 1 must be limited to a level\n(hereinafter referred to as the bulk excavation limit (BEL)) that minimises the cumulative\nadverse effect to the area. Cumulative adverse effect, in relation to Schedule Area No. 1,\nmeans the overall adverse effects on the stability of the hillside in the area due to bulk\nexcavation at 2 or more sites in the area.\n                                                                                                 /7. …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.         To assist the early planning of a development proposal, the authorized\nperson (AP) and RGE are advised to request GEO to provide a provisional determination\nof BEL as soon as they are commissioned for any building works in Scheduled Area\nNo. 1. GEO will normally issue a plan showing the tentative BEL within 10 working\ndays upon receipt of such request."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          The AP and RGE should, with the input of a registered structural engineer\n(RSE) if necessary, submit their assessment on the determination of BEL to BD for\nagreement prior to submission of the site formation, foundation, excavation and lateral\nsupport plans, or other structural plans which may be subject to the constraint of the BEL.\nThe AP/RSE/RGE should make reference to GEO Technical Guidance Notes No. 50\n(TGN 50) on Technical Requirements for Determination of Bulk Excavation Limit in the\nMid-levels Scheduled Area for the determination of BEL.  The BEL determined in\naccordance with these technical requirements is deemed to have satisfied the requirements\nof section 25 of the B(C)R. BD’s agreement on the assessment of the BEL by the AP and\nRGE will generally be issued within one month from the date of receipt of such\nassessment. BD’s agreement will be considered as the final determination of the BEL of\nthe site."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          The envelope of all bulk excavation and the BEL should be shown on the\nsite formation plans in accordance with regulation 8(1)(bb)(vii) of the B(A)R.\n\nFoundation"
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "10.           Regulation 11A of the B(A)R requires that for sites in Scheduled Area\nNo. 1, the foundation plan is to be submitted with the site formation plan.  This is to\nenable BA to give due consideration to effects on the stability of the hillside resulting\nfrom factors such as changes in groundwater levels or surcharge loading which can be\ncaused by the foundation system  itself.  Submissions not in compliance with this\nrequirement may be refused under sections 16(1)(a), (e) or (i) of the BO.\n\nPerformance Review"
+    },
+    {
+      "id": "p11-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "11.         The requirement for a performance review as defined in section 2(1) of the\nBO may be imposed  as a  condition upon  giving approval  or  consent  for  the\ncommencement of building works in Scheduled Area No. 1. However, it is not intended\nto impose the requirement for every development/redevelopment site within the area.\nWhere a performance review is required, it should demonstrate that the building works\nhave been adequately inspected and monitored in the course of construction and that the\ngeotechnical design assumptions upon which the building works have been based are\nvalid.  Otherwise, an application for an occupation permit or a temporary occupation\npermit may be refused under section 21(6)(f) of the BO.\n\nOther Geotechnical Control"
+    },
+    {
+      "id": "p12-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "12.          There may be additional geotechnical control applicable to  sites in\nScheduled Area No. 1, covering landslip debris resistance, sequence of works and\ngroundwater drainage works under sections 16(1)(q), 17(1)(6)(f) and 28A to D of the BO.\n\n\n                                                                     /Extra …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\nExtra Set of Plans"
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 156
+        },
+        {
+          "label": "b",
+          "offset": 197
+        },
+        {
+          "label": "c",
+          "offset": 284
+        },
+        {
+          "label": "d",
+          "offset": 407
+        }
+      ],
+      "text": "13.           In order to facilitate processing of development proposals in Scheduled\nArea No. 1, one extra set of the following plans should be submitted:\n\n        (a)     general building plans;\n\n        (b)     site formation plans together with relevant reports and calculations;\n\n        (c)    foundation  plans  including  pile  cap  details,  relevant  reports  and\n               calculations; and\n\n        (d)    excavation and lateral support plans.\n\nGeotechnical Information"
+    },
+    {
+      "id": "p14-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "14.         The Mid-levels Consultancy Study was summarised in the Mid-levels\nStudy: Report on Geology, Hydrology and Soil Properties (1982). The report has been\nuploaded to CEDD website www.cedd.gov.hk."
+    },
+    {
+      "id": "p15-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "15.           In addition, all factual data on geology, hydrology and soil properties\ncollected in the course of the Mid-levels Consultancy Study between 1979 and 1981 are\navailable from the Geotechnical Information Unit of the Civil Engineering Library under\nGEO according to PNAP ADM-7. These data may assist in the geotechnical appraisal of\na site.\n\nBoundary of Scheduled Area No. 1"
+    },
+    {
+      "id": "p16-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "16.      A plan showing the boundary of Scheduled Area No. 1 is on display in the\nGeotechnical Information Unit.  The plan is available for inspection in the Building\nInformation    Centre     of   BD    and    viewing     in   BD     website\nwww.bd.gov.hk/en/resources/codes-and-references/scheduled-areas/index.html.\n\n\n\n\n\n                                                                         ( YU Tak-cheung )\n                                                        Building Authority\n\n\n\nRef. : BD GR/1-50/53\n    GC 4/16/9\nThis PNAP is previously known as PNAP 85\nFirst issue     July 1982\nLast revision  December 2005\nThis revision  February 2021 (AD/NB2 & DH(I)/GEO) (General Revision)"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "code": "APP-176",
+  "source_text": "indexed_text/PNAP/APP/APP-176.txt",
+  "source_pdf": "documents/PNAP/APP/APP-176.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-176\n                          Registered Geotechnical Engineers\n\n\n                  Design Manual on Universal Accessibility\n\n\n              Regulations 72 and 73, the Third and Fourth Schedules of the Building\n(Planning) Regulations (B(P)R) set out the statutory requirements for barrier free access\nand facilities (collectively referred to as “barrier free access”) for persons with a disability\nand elderly-friendly design in private buildings. The statutory design requirements and\nrecommended best practices for  barrier free access as well as the recommended\nelderly-friendly design guidelines were incorporated in the Design Manual: Barrier Free\nAccess 2008 (first published in 2008 with the latest edition published in 2025) (DMBFA)."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           Following the Consultancy Study for Enhancement of the Accessibility of\nPhysical Environment in Hong Kong commissioned by the Labour and Welfare Bureau,\nwhich recommended the revision of the DMBFA and, where practicable, the promotion\nof  universal  design  concepts,  the  Buildings  Department (BD)  commissioned  a\nconsultancy study in 2024 to undertake a holistic review of the DMBFA, with a view to\nenhancing the design standards to align with the latest needs and international trends, and\nensuring that concepts of universal design are incorporated in a way that is feasible and\npragmatic in the local context. The DMBFA has therefore been revamped and expanded\nto incorporate universal design concepts with the objective of creating a more inclusive\nand accessible built environment.  This culminates in the formulation of the Design\nManual on Universal Accessibility (DMUA), which aims to promote an inclusive built\nenvironment that is accessible and functional for a broader spectrum of the community.\n\nApplication"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           Authorized Persons (AP) and Registered Structural Engineers (RSE)\nshould refer to regulations 72 and 73, the Third and Fourth Schedules of the B(P)R for\nthe statutory requirements for barrier free access for persons with a disability and\nelderly-friendly design in private buildings."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.           Save for the provisions already covered by regulations 72 and 73, the Third\nand Fourth Schedules of the B(P)R, the requirements under the DMUA are, at present,\nadvisory in nature. For those obligatory provisions stipulated in the DMUA that are not\nyet covered by regulations 72 and 73, the Third and Fourth Schedules of the B(P)R, the\nBD  will propose  inclusion  of such  provisions  in  the B(P)R through  legislative\namendments.  In the interim, AP/RSE are encouraged to adopt the DMUA as far as\npracticable and to provide feedback on its application to the BD.\n\n\n\n                                                           /Exemption ..."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\nExemption from or Modification of Regulations 72 and 73 of B(P)R"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.             In an application for approval of plans for a new building or for the\nalterations and additions to an existing building, barrier free access and elderly-friendly\ndesign in compliance with regulations 72 and 73, the Third and Fourth Schedules of the\nB(P)R should be clearly shown on the submitted plans in accordance with regulation 8(1)\nof the Building (Administration) Regulations."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           There may be occasions where a development proposal or an alteration\nand addition proposal cannot fully comply with the requirements stipulated under the\nregulations.  Where  it is satisfied that special circumstances exist, applications for\nexemption from, or modification of, such requirements will be considered by the Building\nAuthority (BA) on the individual merits of each case.   Examples of such special\ncircumstances  include  situations  in  which  the  physical  location  or  immediate\nsurroundings of a development site render compliance impracticable, the applicant has\nno control over the initial access or common parts of an existing building, or where\ncompliance would impose unjustifiable hardship on the applicant or any other person."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          Where alteration and addition works are proposed to an existing building\nwithout barrier free access or elderly-friendly design hence not meeting the requirements\nstipulated under the regulations, paragraph 11.6 of the DMUA  sets out  practical\nalternatives to guide alteration and addition or improvement works in existing buildings\nwhere spatial or structural constraints are present.\n\nAdvisory Committee on Barrier Free Access and Building Committee"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.             In considering applications for exemption from or modification of the\nregulations, the BA has established the Advisory Committee on Barrier Free Access\n(ACBFA) and the Building Committee (BC) to provide a forum for the deliberation of\nproposals related to barrier free access and elderly-friendly design respectively. The BA\nwill take into account the advice tendered by the ACBFA and the BC when determining\nsuch applications.\n\nTechnical Committee on Design Manual on Universal Accessibility"
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          With the revamp and expansion of the design manual to promote universal\ndesign concepts, the extant Technical Committee on Design Manual: Barrier Free Access\nwill be expanded and renamed as the Technical Committee on Design Manual on\nUniversal Accessibility to, among others, collect and consider views and feedback from\nthe building sector, the rehabilitation sector and relevant stakeholder organisations arising\nfrom their practical experience in the use of the DMUA.\n\n\n\n                                                              ( HO Chun-hung )\n                                               Building Authority\n\nRef. : BD GP/BREG/P/25 (XVIII)\n    BD GR/1-50/86 (Pt. IX)\n    BD NBD1/K/BREG/1\n\nFirst issue    September 2026 (AD/NB1)"
+    }
+  ]
+}

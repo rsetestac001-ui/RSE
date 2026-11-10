@@ -1,0 +1,177 @@
+{
+  "code": "ADV-011",
+  "source_text": "indexed_text/PNAP/ADV/ADV-011.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-011.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department       Registered Structural Engineers and    ADV-11\n                             Registered Geotechnical Engineers\n\n\n\n\n                      Suspended Working Platforms\n\n\n        A 'suspended working platform' is a scaffold or a working platform\nsuspended from a building or structure by means of lifting gear and capable of being\nraised or lowered by lifting appliances and includes all lifting appliances, lifting gear,\ncounterweights, ballast, outriggers, other supports and the whole of the mechanical and\nelectrical apparatus required in connection with the operation and safety of such a\nscaffold or working platform."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           Suspended working platforms are widely used in the construction and\nmaintenance of buildings. There have been serious and fatal accidents caused by failure\nof suspension ropes or improper maintenance of operating mechanisms."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         To strengthen the control, the Labour Department has introduced the\nFactories and Industrial Undertakings (Suspended Working Platforms) Regulation.\nThis Regulation applies to any industrial undertaking in which a suspended working\nplatform for carrying persons is used. The Regulation, except section 17 which came\ninto effect on 1 January 1996, came into operation on 1 July 1995."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.            This practice note provides general guidance on the essential safety\nprecautions for the use of suspended working platforms. Reference should also be made\nto  relevant  safety  legislation, Guidance Notes and Code  of  Practice  of Labour\nDepartment regarding paragraph 13 below.\n\nConstruction and Maintenance"
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.       A suspended working platform should be  of sound  construction,\nadequately supported and properly maintained.  Protection should be provided for\nall electrical parts, motors, cable against accidental or environmental damage."
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "6.       A suspended working platform should be of sufficient length and at least\n440 mm wide. To prevent fall or slip, its sides must be provided with suitable guard-\nrails to a height between 900 mm and 1150 mm and toe boards to a height of not less\nthan 200 mm.  The space between any toe board and the lowest guard-rail above it\nshould not exceed 700mm.  Sufficient safe means of access and egress should be\nprovided to the suspended working platform.\n\n\n\n                                                                               /Installation ....."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2  -\n\nInstallation"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          Only wire ropes should be used for the raising, lowering and suspension\nof a suspended working platform and the points of suspension should be at adequate\nhorizontal distance from the face of a building or other structure so as to prevent the\nplatform from coming into contact with such face. The counterweights on any of its\noutriggers should not be less than 3 times the weight necessary to balance the load on\nthe projecting part of the outriggers when the platform is fully loaded. In addition to the\ntwo suspension ropes, a suspended working platform should be provided  at each\nsuspension point with a safety rope having an automatic safety device for supporting\nthe platform in case of the failure of the suspension ropes or any mechanism for raising\nor lowering the platform."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          The  erection,  dismantling and  alteration  of  a  suspended working\nplatform should only be carried out under the supervision of a competent person.\n\nPersons on Suspended Working Platforms"
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.           Workers on a suspended working platform should be at least 18 years\nold and have obtained a certificate after having undergone training which is either\nrecognised by the Commissioner for Labour or provided by the manufacturer of the\nsuspended working platform or its local agent.  While being carried on a suspended\nworking platform, every person should wear a safety harness with its lanyard securely\nattached to an independent lifeline or an anchorage with fittings.\n\nTest and Examination"
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "10.       A suspended working platform should be inspected by a competent\nperson before use.  It should also be subject to a load test and thorough examination\nby a competent examiner before use or after substantial repair, re-erection, adjustment,\nfailure, collapse, or exposure to weather conditions likely to have affected its stability."
+    },
+    {
+      "id": "p11-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "11.            Periodical tests and examinations thereafter are essential to ensure that it\nis in safe working order. A copy of the most recent certificate or report in respect of\nany inspection, examination or test and examination must be displayed prominently on\nthe suspended working platform.\n\nSafe Working Load"
+    },
+    {
+      "id": "p12-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "12.         To prevent overloading, a suspended working platform should be marked\nwith its safe working load and the maximum number of persons that may be carried\nat any one time. For easy identification, each suspended working platform should bear\na marking to distinguish it from other similar platforms.\n\n\n                                                                         /Other ….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3  -\n\nOther Observations"
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 169
+        },
+        {
+          "label": "b",
+          "offset": 393
+        },
+        {
+          "label": "c",
+          "offset": 503
+        },
+        {
+          "label": "d",
+          "offset": 629
+        },
+        {
+          "label": "e",
+          "offset": 735
+        },
+        {
+          "label": "f",
+          "offset": 862
+        }
+      ],
+      "text": "13.           Further information may be obtained from the following documents, and\nthe legal requirements, Code of Practice and Guidance Notes shall be duly observed :\n\n        (a)     Factories and Industrial Undertakings Ordinance\n                  -  definition of industrial undertaking in section 2 and general duties of\n               employers and employees in sections 6A and 6B; and\n\n        (b)    Factories and Industrial Undertakings (Suspended Working Platforms)\n              Regulation.\n\n        (c)   A Guide  to  the  Factories and  Industrial Undertakings (Suspended\n            Working Platforms) Regulation.\n\n        (d)   Code of Practice for Safe Use and Operation of Suspended Working\n               Platforms.\n\n        (e)    Guidance Notes on the Inspection, Thorough Examination and Testing of\n            Suspended Working Platforms.\n\n         (f)     Safety Hints on Operation of Suspended Working Platforms.\n\n      Documents in (c) to  (f) are available in the Labour Department’s website\n       www.labour.gov.hk/eng/public/content2_8.htm.\n\n\n\n\n\n                                                                            ( AU Choi-kai )\n                                                        Building Authority\n\n\n\n\n\nRef. : L/M 18-92 BD GR/ACT/11\n\nThis PNAP is previously known as PNAP 185\nFirst issue October 1995 (AD/LM)\nThis revision February 2010 (AD/NB1) - Contents revamped"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "code": "APP-066",
+  "source_text": "indexed_text/PNAP/APP/APP-066.txt",
+  "source_pdf": "documents/PNAP/APP/APP-066.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n Persons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-66\n\n                                      Practice Note for Authorized Persons\nBuildings Department                                                   170                               and Registered Structural Engineers\n\n\n\n                      Metal Refuse Chutes at Construction Sites\n\n\n            Temporary refuse chutes, assembled from old metal barrels, have been in\ncommon use at building construction sites."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           Such installations at the external parts of buildings under construction are not\nsatisfactory.  The chutes can be a noise nuisance to residents in the neighbourhood.  In\nparticular, they are not safe.  They are subject to the effects of weather and the constant\nimpact of building debris. These conditions could affect the stability of the installations."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.             In the event of collapse, these metal chutes pose a hazard not only to the\nworkers on site, but also to any passers-by."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         You are requested to adopt other safer means of lowering and removing\nbuilding debris at construction sites.  Where refuse chutes are used, you should ensure that\nthey are properly assembled, secured and installed. You should consider using chutes made of\nother materials of sufficient strength and installing them in internal areas of the site, so as to\nreduce the noise level."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            Authorized persons and registered structural engineers have an important role\nin supervising building works and in ensuring construction site safety.  Please ensure that\nproper safety measures are in place in the sites under your control.  Please also help to bring\nhome to contractors and developers the message about safety and environmental consideration."
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "6.       A similar practice note has been issued to registered contractors.\n\n\n\n\n\n                                                           (Helen C P Lai YU)\n                                                               Building Authority\n\nRef. : BD GR/ACT/13\n\nFirst issued August 1994 (AD/D)\n\nIndex under :  Metal refuse chutes at construction sites"
+    }
+  ]
+}

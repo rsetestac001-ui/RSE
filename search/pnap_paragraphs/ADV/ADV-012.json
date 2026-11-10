@@ -1,0 +1,46 @@
+{
+  "code": "ADV-012",
+  "source_text": "indexed_text/PNAP/ADV/ADV-012.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-012.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers   ADV-12\n\n                                 Practice Note for Authorized Persons Buildings Department                                               191\n                           and Registered Structural Engineers\n\n\n                          Display of Site Information\n\n\n          To enable members of the public to bring to the attention of Authorised\nPersons/Registered Structural Engineers (AP/RSE) any undesirable or unsafe conditions\non building sites, you are requested to provide relevant information on your building site\nto facilitate contact.   It is desirable that the following information be displayed in a\nprominent position on site for public information :\n\n              a)   Address and/or lot number of the site;\n             b)   Names of AP, RSE and registered contractor;\n              c)   Contact telephone number(s)."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         While display of advertisement is not permitted on any hoarding or covered\nwalkway, there is no objection under Building (Planning) Regulation 66(4) for the\ndisplay of the basic development information such as proposed works, use, height,\nnumber of blocks and the anticipated project completion date."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         For information displayed in locations other than the hoarding and covered\nwalkway, you should ensure that such information is displayed within lot boundaries and\ndoes not interfere with the site activities."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.      A similar practice note has been issued to registered contractors.\n\n\n\n\n\n                                                                     ( Marco M H WU )\n                                                     Building Authority\n\n\n\n\nRef. : BD GP/LEG/82 (II)\n\nFirst issue February 1996\nThis revision January 2005 (AD/NB1) – general revision\n\nIndex under : Display of Site Information\n              Posting names of AP, RSE and RC on building site\n            B(P)R 66(4)"
+    }
+  ]
+}

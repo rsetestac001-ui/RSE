@@ -1,0 +1,52 @@
+{
+  "code": "ADM-09",
+  "source_text": "indexed_text/PNAP/ADM/ADM-09.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-09.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department    Registered Structural Engineers and       ADM-9\n                          Registered Geotechnical Engineers\n\n\n                        Colouring of Plans\n\n\n             Regulation 14(3) of the Building (Administration) Regulations stipulates that\none copy of every plan submitted for approval should be coloured in order to clearly\ndifferentiate existing works from proposed new works and one part of any proposed new\nworks from other parts."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          For consistency in the use of colour, the preferred colours as shown in\nAppendix A should be adopted.  For amendments to the approved works, the proposed\nworks should be coloured or otherwise identified from the approved works, with identical\ncolouring or other means, on all sets of plans submitted to the Buildings Department."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         The use of these recommended colours and the differentiation of proposed\nworks from existing / approved works on all sets of amendment plans will expedite the\nprocessing of plans and is therefore clearly in the interests of all parties.\n\n\n\n\n\n                                       (HUI Siu-wai )\n                                               Building Authority\n\n\n\n\n\nRef. : GP/BREG/A/14 (II)\n\nThis PNAP is previously known as PNAP 127\nFirst issue March 1988\nLast revision August 2006\nThis revision August 2015 (AD/NB1) (General revision and Appendix A amended)"
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "Appendix A\n                                                         (PNAP ADM-9)\n                            Preferred Colours\n\n     Material /                 Preferred        RGB Colour       Equivalent\n    Description                Colour               System 1     AutoCAD Colour\n                                                                     Index 2\nHardcore or Dry Fill         Putty                                         43\n                                                                  204,  178,  102\n       Brick           Orange Red                                      20                                                                    255,  63,  0\n\n   Concrete Slab        Witch Haze                                      61\n   (Lighter Wash)                                              223,  255,  127\n      Concrete           British Racing                                     118\n(Plain or Reinforced)       Green                                 0,  76,  38\n\n   Solid Concrete        Electric Blue                                     141\n      Blocks                                                  127,  223,  255\n  Hollow Concrete          Purple                                        191\n      Blocks                                                  191,  127,  255\nLightweight Partition    Macaroni and                                     31\n  (e.g. Plasterboard)        Cheese                           255, 191, 127\n  Plaster or Cement      Wild Willow                                     53\n     Rendering                                                204,  204,  102\n   Impermeable /       Neon Pink                                      221\nNon-absorbent Floor                                           255,  127,  223\n       or Wall\n       Glass              Electric Blue                                     131\n                                                                  127,  255,  255\n\n      Timber             Muesli                                        45\n                                                                   153,  133,  76\n    Metal Work          Heliotrope                                      201\n       or Steel                                                  223,  127,  255\n    Stone Finish         Dark Grey                                      253\n                                                                  173,  173,  173\n\n  Sanitary Fittings         Yellow                                        50\n                                                                   255,  255,  0\n\n\n1 Colours are constructed from the combination of the red, green and blue colours.\n2 Plot screening setting should be 100 (i.e. full colour intensity).\n                                    1"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Material /                 Preferred        RGB Colour       Equivalent\n    Description                Colour               System 1     AutoCAD Colour\n                                                                     Index 2\n Demolition Works /        Blue                                        160\n     Deletion of                                                          0,  63  255\n  Approved Works\n    Underline for        Venetian Red                                     242\n      Revision                                                   204,  0,  51\n\nNotes :\n\n(a)     Ducts, light-wells and lift shafts should be left uncoloured.\n\n(b)    For elevations and the larger plan areas, colouring may be in lighter washes of the\n        preferred colours in order to avoid a garish effect e.g. concreted, tiled or plastered\n        areas.\n\n(c)   A light colour wash should be used to identify phased development.\n\n(d)   A colour legend or key should be added to all sets of drawings.\n\n\n\n\n\n                                    2"
+    }
+  ]
+}

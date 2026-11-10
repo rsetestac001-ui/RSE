@@ -1,0 +1,36 @@
+{
+  "code": "APP-123",
+  "source_text": "indexed_text/PNAP/APP/APP-123.txt",
+  "source_pdf": "documents/PNAP/APP/APP-123.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers  APP-123\n\n                                Practice Note for Authorized Persons Buildings Department                                                260\n                          and Registered Structural Engineers\n\n\n\n                    Alternative Designs – Paragraph 12.3 of the\n           Code of Practice for Fire Resistance Construction 1996\n                          (FRC Code)\n\n\n              Paragraph 12.3 of the FRC Code stipulates that the external wall of a\n building at any floor should be separated from the external wall at the floor next\n below by a spandrel not less than 900 mm in height."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          Where a 900 mm vertical separation cannot be provided due to design\n constraints, a horizontal apron having a projected width of 900 mm would be accepted\n as an alternative option."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            In view of the relatively low fire risk associated with ventilated balconies,\n the Building Authority is prepared to waive the requirements in para 12.3(a) of the\n FRC Code for balconies which are open on at least two sides.  For avoidance of doubt,\n the remainder of the unit has to comply with the full requirements in the paragraph for\n fire separation.\n\n\n\n\n\n                                                                        ( C M LEUNG )\n                                                       Building Authority\n\n\n\n\n\n Ref.: BD GP/BREG/C/19/L (VII)\n\n First issue  October 2001 (AD/NB1)\n\n Index under:  Spandrel\n               Fire Separation for balcony\n              Balcony – fire separation"
+    }
+  ]
+}

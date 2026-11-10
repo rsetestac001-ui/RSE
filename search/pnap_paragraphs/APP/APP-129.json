@@ -1,0 +1,529 @@
+{
+  "code": "APP-129",
+  "source_text": "indexed_text/PNAP/APP/APP-129.txt",
+  "source_pdf": "documents/PNAP/APP/APP-129.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and       APP -129\n                          Registered Geotechnical Engineers\n\n\n                Use of Recycled Aggregates in Concrete for\n               Minor Structures and Non-structural Works\n\nIntroduction\n\n            To reduce the pressure on the demand for public filling and landfill\ncapacity, one of the means of resource conservation and waste minimisation is to recycle\nhard and inert construction and demolition materials, such as broken rock, recycled glass\ncullet and concrete, into aggregates and put them into good use.  This practice note sets\nout the technical guidelines for using recycled aggregates in concrete of strength grade\nC20 to C35.\n\nTechnical Guidelines"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The technical guidelines for concrete strength grade C20 with 100%\nrecycled aggregate is given in Appendix A, and that for concrete strength grade C25 to\nC35 with 20% recycled aggregate is given in Appendix B."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The above technical guidelines have made reference to the technical\nspecifications developed by the Standing Committee on Concrete Technology (SCCT)\nand Highways Department (HyD) which were based on internationally recognised\nstandards and results of laboratory tests done locally.  They have been promulgated via\nWorks Bureau Technical Circular No. 12/2002 (Technical Circular) for use amongst\nworks departments."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.            Concrete producers in Hong Kong are also well aware of the Technical\nCircular through their Concrete Producers Association’s meetings with SCCT when\ndeveloping the specifications.\n\nApplications"
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            Concrete of strength grade C20 with 100% recycled aggregate should only\nbe used for minor structures or non-structural works.  They may include, for example,\non-grade slabs, blinding layer, U-channels/stepped channels, bedding and haunching for\npipe works, concrete footings for posts and fences, and mass concrete fill which does not\nsustain appreciable loading."
+    },
+    {
+      "id": "p6-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 180
+        }
+      ],
+      "text": "6.            Concrete of strength grade C25 to C35 with a maximum of 20% recycled\naggregates may be used for the following applications that do not have major structural\nconcern:\n\n        (a)     concrete or reinforced concrete landscape features such as planters\n             and planter walls, fence walls, mass concrete walls and footings\n                for supporting landscape features;\n\n                                                                                          /(b) …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n        (b)    storm water manholes and sand traps; and\n\n        (c)    footways, cycle tracks, reinforced concrete infill walls and mass\n              concrete under footings or rafts."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          Where recycled aggregates are used in precast concrete paving units for\nsurfacing of pedestrian ways, service lanes and footpaths, the requirements of HyD\nincluding the guidance and particular specifications contained in the “Guidance Notes on\nDesign and Construction of Pavements with Paving Units” published by HyD1 should be\nfollowed."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.           Concrete with recycled aggregates should not be used in liquid-retaining\nstructures, pre-stressed concrete structures, transfer structures or hanger structures."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          Where concrete with recycled aggregates is used in building works,  it\nshould be clearly stated on the plan that contains general structural specifications and in\nthe Part I structural calculations.  Reference should be made to PNAP ADM-8 in this\nrespect. A statement should also be made on the plan that the proposed use of concrete\nwith recycled aggregates should strictly comply with the technical guidelines given in\nAppendices A and/or B to this practice note.  The scope of the works involving the use\nof recycled aggregates should also be indicated on the relevant structural plans."
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "10.          Other requirements governing the use of concrete in structures are also\napplicable to concrete with recycled aggregates.\n\n\n\n\n\n                                                            ( YU Po-mei, Clarice )\n                                               Building Authority\n\n\n\nRef. : BD GP/BREG/RC/4(V)\n\nThis PNAP is previously known as PNAP 275\nFirst issue    February 2003\nThis revision February 2022 (AD/NB2) (General revision)\n\n\n\n\n\n1  https://www.hyd.gov.hk/en/technical_references/technical_document/guidance_notes/pdf/\n   gn044b.pdf"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Appendix A\n                                                 (PNAP APP-129)\n\n\n                       Technical Guidelines for Concrete\n                    with 100% Recycled Coarse Aggregates\n\nScope\n\n             This set of technical guidelines is only applicable to concrete strength\ngrade C20.\n\nApplications"
+    },
+    {
+      "id": "p2-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           Concrete with 100% recycled coarse aggregates should only be used for\nminor structural or non-structural works.\n\nGeneral requirements"
+    },
+    {
+      "id": "p3-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The design, construction and quality control of concrete should comply\nwith the relevant provisions of the Code of Practice for Structural Use of Concrete 2013.\n\nRecycled coarse aggregates"
+    },
+    {
+      "id": "p4-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "4.           Recycled coarse aggregates should be produced by crushing old concrete\nand should meet the requirements in Table 1 below.\n\nFine aggregates"
+    },
+    {
+      "id": "p5-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            Fine aggregates should be within the limits of grading M specified in the\nConstruction Standard CS3:2013 (CS3).  Fine aggregate derived from recycled concrete\nshould not be used.\n\nGrading"
+    },
+    {
+      "id": "p6-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          The grading of the coarse aggregates should comply with the limits in CS3\nfor single-sized 20 mm and 10 mm aggregates.\n\nMix proportions"
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 68
+        },
+        {
+          "label": "b",
+          "offset": 117
+        },
+        {
+          "label": "c",
+          "offset": 158
+        },
+        {
+          "label": "d",
+          "offset": 211
+        }
+      ],
+      "text": "7.           Concrete should be mixed in the following proportions:\n\n        (a)    Ordinary portlandcement: 100 kg;\n\n        (b)    Fine aggregates: 180 kg;\n\n        (c)    20 mm coarse aggregates: 180 kg; and\n\n        (d)    10 mm coarse aggregates: 90 kg.\n\n                                                               /Workability…\n                                                              - 1 -"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Workability"
+    },
+    {
+      "id": "p8-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "8.           Recycled coarse aggregates should be thoroughly wetted before being used.\nThe concrete should have a slump of 75 mm when it is ready to be compacted to its final\nposition.\n\nTest cubes"
+    },
+    {
+      "id": "p9-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          The sampling rate, making, curing and testing of concrete should comply\nwith Construction Standard CS1:2010 (CS1).\n\nMinimum strength"
+    },
+    {
+      "id": "p10-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "10.         The minimum concrete cube strength should be 14 MPa and 20 MPa at 7\nand 28 days respectively.\n\nTrials"
+    },
+    {
+      "id": "p11-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "11.          Laboratory  trials should be conducted  to confirm  that  the  strength\nrequirement can be met before the mix is used in the works.  The 28-day strength of each\nof the 3 cubes in the trial should not be less than 26 MPa.\n\n Mandatory Requirements              Limits              Testing Method\n Minimum dry particle density           2000               Section 17 of CS3\n (kg/m3)\n Maximum water absorption           10%               Section 17 of CS3\n Maximum  content  of wood           0.5%            Manual sorting in\n and other material less dense                               accordance with\n than water                                  BRE Digest 433\n Maximum  content  of  other         1%\n foreign materials (e.g. metals,\n plastics, clay lumps, asphalt\n and tar, and glass)\n Maximum fines                  4%               Section 10 of CS3\n Maximum  content  of  sand         5%               Section 10 of CS3\n (<4mm) (% m/m)\n Maximum content of sulphate         1%               Section 21 of CS3\n (% m/m)\n Flakiness index                   40%               Section 11 of CS3\n 10% fines test                       100 kN             Section 16 of CS3\n Grading                            Table 3.1 of CS3\n Maximum Chloride content   Clause 5.2.3 of CS3 – 0.05%\n                          by mass of chloride ion of\n                          combined aggregate\n\nTable 1: Requirements on recycled coarse aggregates\n\n\n(Rev. 2/2022)\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Appendix B\n                                                 (PNAP APP-129)\n\n\n                       Technical Guidelines for Concrete\n                    with 20% Recycled Coarse Aggregates\n\nScope\n\n             This set of technical guidelines is only applicable to concrete strength\ngrade C25 to C35.\n\nApplications"
+    },
+    {
+      "id": "p2-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           Concrete  with 20%  recycled  coarse  aggregates may be  used  for\napplications specified in this practice note.  This type of concrete should not be used in\nliquid-retaining structures, pre-stressed concrete structures, transfer structures or hanger\nstructures.\n\nGeneral requirements"
+    },
+    {
+      "id": "p3-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The design, construction and quality control of concrete should comply\nwith the relevant provisions of the Code of Practice for Structural Use of Concrete 2013.\n\nCementitious material"
+    },
+    {
+      "id": "p4-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          Only ordinary portland cement to BS EN 197-1 should be used.\n\nCoarse aggregates"
+    },
+    {
+      "id": "p5-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "5.           Coarse aggregates should consist of 80% natural mineral aggregates as\ndefined in CS3.   Recycled coarse aggregates should be produced by crushing old\nconcrete and should meet the requirements in Table 1 below.   Tests on recycled\naggregates from a particular source should be carried out at weekly intervals to check\ncompliance with Table 1 below.\n\nFine aggregates"
+    },
+    {
+      "id": "p6-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "6.            Fine aggregate should comply with CS3.  Fine aggregate recycled from\nold concrete should not be used.\n\nGrading"
+    },
+    {
+      "id": "p7-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          The grading of the coarse aggregates should comply with the limits in CS3\nfor single-sized 20 mm and 10 mm aggregates.\n\n\n\n\n                                                                /Workability…\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Workability"
+    },
+    {
+      "id": "p8-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "8.           Recycled coarse aggregates should be thoroughly wetted before use.  The\nconcrete should have a minimum slump of 75mm when it is ready to be compacted to its\nfinal position.\n\nLaboratory mix trials and plant trials"
+    },
+    {
+      "id": "p9-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "9.           Before any concrete is produced for use in the works, laboratory trials and\nplant trials should be performed to meet the compliance criteria as specified in the Annex.\n\nConcrete batching"
+    },
+    {
+      "id": "p10-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "10.          Recycled coarse aggregates should be stored in separate stockpiles or silos\nto prevent inadvertent mixing with natural aggregates. A separate compartment should\nbe provided for recycled coarse aggregates in the batching plant.\n\nAcceptance criteria for compressive strength"
+    },
+    {
+      "id": "p11-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "11.          Concrete should be tested in accordance with CS1 for compliance with the\nspecified grade strength in accordance with the Code of Practice for Structural Use of\nConcrete 2013.\n Mandatory Requirements           Limits               Testing Method\n Minimum dry particle density          2000                Section 17 of CS3\n (kg/m3)\n Maximum water absorption         10%                Section 17 of CS3\n Maximum content of wood         0.5%              Manual sorting in\n and other material less dense                               accordance with\n than water                                  BRE Digest 433\n Maximum content of other        1%\n foreign materials (e.g. metals,\n plastics, clay lumps, asphalt\n and tar, and glass)\n Maximum fines                4%                 Section 10 of CS3\n Maximum  content  of sand        5%                 Section 10 of CS3\n (<4mm) (% m/m)\n Maximum     content     of        1%                 Section 21 of CS3\n sulphate (% m/m)\n Flakiness index                 40%                Section 11 of CS3\n 10% fines test                     100 kN               Section 16 of CS3\n Grading                         Table 3.1 of CS3\n Maximum Chloride Content  Clause  5.2.3  of CS3  –\n                        0.05% by mass of chloride\n                             ion of combined aggregate\n\nTable 1: Requirements on recycled coarse aggregates\n\n(Rev. 2/2022)\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Annex of Appendix B\n                                                 (PNAP APP-129)\n\n\n             Laboratory Mix Trials and Plant Trials for Concrete\n                    with 20% Recycled Coarse Aggregates\n\nLaboratory mix trials\n\n             Laboratory mix trials should be made in the laboratory using the proposed\nmix designs and constituents."
+    },
+    {
+      "id": "p2-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            Laboratory mix trials should be carried out in accordance with Section 11\nof CS1.  Three separate batches should be made, each of sufficient size to provide\nsamples for two slump tests and to make six 100 mm or 150 mm test cubes."
+    },
+    {
+      "id": "p3-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         Two slump tests in accordance with CS1 should be performed on separate\nspecimens from each batch of laboratory trial mix concrete."
+    },
+    {
+      "id": "p4-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "4.            Six 100 mm or 150mm test cubes should be made from each batch of\nconcrete, stored, cured and tested for compressive strength at 28 days in accordance with\nCS1.\n\nCompliance criteria"
+    },
+    {
+      "id": "p5-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 315
+        },
+        {
+          "label": "b",
+          "offset": 466
+        }
+      ],
+      "text": "5.         When test data relating to the proposed plant or plants show that the plant\nstandard deviation exceeds 5.5 MPa for 100 mm test cubes or 5 MPa for 150 mm test\ncubes, or in the absence of acceptable data, the results of tests on laboratory mix trial\nconcrete should comply with the following requirements:\n\n        (a)    The average of the six slump values should be within 20 mm or\n           25%, whichever is the greater, of the design slump value; and\n\n        (b)   The average compressive strength at 28 days of the 18 test cubes\n             should exceed the grade strength by at least 14 MPa for 100 mm\n                 test cubes or 12 MPa for 150 mm test cubes, and the compressive\n               strength of each individual test cube should exceed the grade\n               strength by at least 7 MPa for 100 mm test cubes or 6 MPa for\n            150 mm test cubes."
+    },
+    {
+      "id": "p6-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 324
+        }
+      ],
+      "text": "6.         When test data relating to the proposed plant or plants show that the plant\nstandard deviation does not exceed 5.5 MPa for 100 mm test cubes or 5 MPa for 150 mm\ntest cubes and the data are considered acceptable, the results of tests on laboratory mix\ntrial concrete should comply with the following requirements:\n\n        (a)    The average of the six slump values should be within 20 mm or\n           25%, whichever is the greater, of the design slump value; and\n\n\n                                                                                          /(b) …\n                                                              - 1 -"
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "(b)   The average compressive strength at 28 days of the 18 test cubes\n             should exceed the grade strength by at least 10 MPa for 100 mm\n                 test cubes or 8 MPa for 150 mm test cubes, and the compressive\n               strength of each individual test cube should exceed the grade\n               strength by at least 3 MPa for 100 mm test cubes or 2 MPa for\n            150 mm test cubes.\n\nPlant trials"
+    },
+    {
+      "id": "p7-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "7.             Plant trials should be made using the proposed plants and the proposed mix\ndesigns and constituents."
+    },
+    {
+      "id": "p8-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "8.         One batch of concrete of the proposed mix design should be made on each\nof three days in each proposed plant.  The batch should be at least 60% of the mixer’s\nnominal capacity.   If the concrete is batched in a central plant and mixed in a truck mixer,\nthree different truck mixers should be used."
+    },
+    {
+      "id": "p9-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "9.           Three samples of concrete should be provided from each batch  at\napproximately 1/6, 1/2 and 5/6 of the discharge from the mixer.  Each sample should be\nof sufficient size to perform a slump test and two 100 mm or 150 mm test cubes.  The\nmethod of sampling should be as stated as in CS1."
+    },
+    {
+      "id": "p10-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "10.         Each sample taken in accordance with paragraph 9 above should be tested\nto determine its slump value in accordance with CS1."
+    },
+    {
+      "id": "p11-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "11.        Two 100 mm or 150 mm test cubes should be made from each sample\ntaken in accordance with paragraph 9 above and stored, cured and tested to determine the\ncompressive strength at 28 days in accordance with CS1.\nCompliance criteria"
+    },
+    {
+      "id": "p12-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 116
+        },
+        {
+          "label": "b",
+          "offset": 266
+        },
+        {
+          "label": "c",
+          "offset": 452
+        }
+      ],
+      "text": "12.         The results of tests on concrete taken from plant trials should comply with\nthe following requirements:\n\n        (a)    The average of the nine slump values should be within 20 mm or\n           25%, whichever is the greater, of the designed slump value;\n\n        (b)   The range of the three slump values for each batch of concrete\n             should not exceed 20% of the average of the three slump values for\n                that batch;\n\n        (c)    The average compressive strength at 28 days of the 18 test cubes\n             should exceed the grade strength by at least 12 MPa for 100 mm\n                 test cubes or 10 MPa for 150 mm test cubes, and the compressive\n               strength of each individual test cube should exceed the grade\n               strength by at least 5 MPa for 100 mm test cubes or 4 MPa for\n            150 mm test cubes; and\n\n\n                                                              /(d)…\n\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "(d)   The range of the compressive strength of the six test cubes from\n             each batch of concrete should not exceed 20% of the average\n             compressive strength of the six test cubes from that batch.\n\n\n(Rev. 2/2022)\n\n\n\n\n\n                                                              - 3 -"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "code": "APP-101",
+  "source_text": "indexed_text/PNAP/APP/APP-101.txt",
+  "source_pdf": "documents/PNAP/APP/APP-101.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-101\n\n                                 Practice Note for Authorized Persons\nBuildings Department                                                    223\n                           and Registered Structural Engineers\n\n\n\n                      Podium Height Restriction under\n                         Building (Planning) Regulation 20(3)\n\n\n                Building (Planning) Regulation 20(3) restricts the full site coverage of non-\n  domestic podium to a height of 15 meters. The Building Authority (BA) has been requested,\n  from time to time, to consider applications for relaxation of the height restriction under the\n  Regulation. This practice note provides advice as to how the BA may deal with such\n  applications.\n\n  Criteria and Examples"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The BA will take into account the functional requirements, site constraints,\n  the impact on the environment, public interest and the likelihood of abuse in considering\n  applications for relaxation of the height restriction on podiums."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The following are examples of which favourable consideration may be given\n  by the BA :\n\n            •   buildings in which a public transport terminus or facility of a similar\n                nature is provided;\n            •   the increase in podium height of the proposed building would give a\n                  better aesthetic or environmental effect;\n            •   buildings of special design or use;\n            •   buildings subjected to special requirements  as to floor height under\n                 lease conditions."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          Where modification of the Regulation is given, the following general rules\n  will apply :\n\n            •  not more than 4 storeys are accommodated in a podium; and\n            •   the podium height is not more than 20 meters from the ground level.\n\n\n\n\n                                            (CHOI Yu-leuk)\n                                                       Building Authority\n  Ref : GP/BREG/P/2\n\n  First issued : April, 1998 (AD/D)\n\n  Index under : B(P)R 23(3)\n             Podium height"
+    }
+  ]
+}

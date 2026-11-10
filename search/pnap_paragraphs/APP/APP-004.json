@@ -1,0 +1,348 @@
+{
+  "code": "APP-004",
+  "source_text": "indexed_text/PNAP/APP/APP-004.txt",
+  "source_pdf": "documents/PNAP/APP/APP-004.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers    APP-4\n\n                                 Practice Note for Authorised Persons Buildings Department                                                 17\n                          and Registered Structural Engineers\n\n\n                         Water Supply and Wells\n\n             Where a development depends on a source of water supply other than\n from the waterworks, the adequacy and probable effects of the supply should be closely\n investigated before any design work is started.  Application to the Water Authority for\n the issue of a Certificate Regarding Water Supply Availability should be made early and\n such certificate should be submitted together with the first submission of building plans."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          Where the Water Authority certifies (on Form WWO 1004 or current\n equivalent) under Building (Standards of Sanitary Fitments, Plumbing, Drainage Works\n and Latrines) Regulation 10A(5) that a supply of water from the waterworks  is not\n  available, permission may be considered upon application to obtain water from a well or\n other sources.\n\n Assessment of Demand"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         Demand for flushing and potable water should be assessed with regard to\n Building (Standards of Sanitary Fitments, Plumbing, Drainage Works and Latrines)\n Regulation 10A(4).  \"Potable water\" refers to a supply of water for the purposes of\n Building (Standards of Sanitary Fitments, Plumbing, Drainage Works and Latrines)\n Regulation 10A(2).\n\n Flushing Supply"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          The quantity of flushing water required should be assessed in accordance\n with the following standards :\n\n\n                 User                            Unit               Average\n                                                        Demand\n\n  Domestic buildings                     per number of required soil      450   litres\n                                            fitment per day\n\n   Offices, factories, department stores,    per number of required soil      450   litres\n   shops, public buildings and other non-   fitment per day\n  domestic buildings of a like nature\n\n   Restaurants                            per seat per day                  13.5  litres\n\n  Cinemas                              per seat per day                   4.5  litres\n\n  Schools                               per head per day                18   litres\n\n   Hotels and boarding houses             per room per day               90   litres\n\n                                                                       /Potable Supply .."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\nPotable Supply"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.             In view of the diversity and degree of fluctuation in demand, potable\nsupply should be assessed on individual merits and should be satisfactory and sufficient in\nall respects for the purposes for which potable water is supplied. Where in doubt, the\nWater Authority should be consulted.\n\nFor Air-conditioning"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          The Water Authority has advised that neither a fresh nor a salt mains\nwater supply  will be provided  for evaporative type  air-conditioning, except where\nrequired in connection with a specific industrial process, and then only for the immediate\nneeds of that process.\n\nWells"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 178
+        },
+        {
+          "label": "b",
+          "offset": 228
+        }
+      ],
+      "text": "7.           Normally, wells may not be sunk on government land. Permission under\nBuilding (Construction) Regulation 85 to sink a well in private land will be given only\nwhere :\n\n          (a)    the well yield is adequate; and\n\n         (b)   the  water  abstraction  will  not  adversely  affect  nearby\n                services, buildings, structures or land."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 97
+        },
+        {
+          "label": "b",
+          "offset": 533
+        },
+        {
+          "label": "c",
+          "offset": 747
+        },
+        {
+          "label": "d",
+          "offset": 860
+        }
+      ],
+      "text": "8.         An application for permission to sink a well should be accompanied by the\nfollowing :\n\n          (a)   a plan, including cross-sections, showing the proposed well\n                relative to any services, buildings, structures and land within\n               the area of groundwater drawdown likely to be caused by the\n              water extraction, existing ground conditions in the area and\n             any  changes  to  such  conditions  to  result  from  the\n             development for which this well is required;\n\n         (b)   a plan showing details of the well design, including well\n              screen and  electrode  switching  devices,  if  any, and  a\n               statement of the proposed well development method;\n\n          (c)   a statement of  the proposed  rate and duration of water\n               extraction per day; and\n\n         (d)   a proposal for carrying out a well yield test."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.                If these cannot demonstrate that the nearby services, buildings, structures\nor land will not be affected, the following additional particulars prepared by a Registered\nGeotechnical Engineer shall be required :\n\n                                                                             /(a) a site….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n\n         (a)    a  site  investigation  report  specific  to  the proposed well\n               construction, with  drillhole logs embracing the  site area,\n               including measurement  of groundwater/piezometric  levels\n             and field permeability tests;\n\n        (b)    a geotechnical assessment, supported by calculations, of the\n                effect of the proposed water extraction, in both the short and\n              long term, on affected services, buildings, structures or land.\n            The assessment should include groundwater changes, ground\n            movements and stability of adjacent buildings, structures and\n              land as appropriate; and\n\n         (c)      if necessary, a detailed proposal for conducting field tests\n                either separately or in conjunction with the yield  test, to\n               verify assumptions and predictions made in (b) above."
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.          There are certain areas in the territory where, because of the geological\nconditions, it is not advisable to sink wells to extract groundwater as this is likely to cause\nexcessive settlement. The Water Authority has agreed that flushing water will normally\nbe supplied whenever possible within these areas, which at present include Yuen Long\nTown in Area Number 2 and Ma On Shan in Area Number 4 of the Scheduled Areas.\n\nWell Yield Test"
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.         Where the period of pumping is to be less than 12 hours per day, the\nmanner and method of testing described in Appendix A are approved for the purposes of\nBuilding (Standards of Sanitary Fitments, Plumbing, Drainage Works and Latrines)\nRegulation 10A(7). Where the required quantity of water cannot be obtained with less\nthan 12 hours pumping per day or where there is concern over the long-term yield of a\nwell, a more sophisticated test may be required. For such cases, approval may be sought\nfor other methods, as recommended in BS 6316:1983, to be used."
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.          Both the Buildings Department and the Geotechnical Engineering Office\nshould be notified in writing at least one week before the commencement of any well\nyield test.\n\nCertificates as to Supply of Water"
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "13.         The Certificates required to be made by authorized persons under Building\n(Administration) Regulation 25A will be accepted in the model forms suggested  at\nAppendix B (for permanent connection) and Appendix C (in accordance with Building\n(Standards of Sanitary Fitments, Plumbing, Drainage Works and Latrines) Regulation\n10A(7)).  One extra copy of reports on well yield tests should be submitted for the\nGeotechnical Information Unit of the Civil Engineering Library via the Geotechnical\nEngineering Office.\n\n                                                            /The water….."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -"
+    },
+    {
+      "id": "p14-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "14.         The water quality of potable water supply should be to the satisfaction of\nthe Building Authority. In this connection, a water sample examination report (obtainable\nfrom the Water Authority on application), or other acceptable evidence, may be required.\n\n\n\n\n\n                                                                        ( H W CHEUNG )\n                                                          Building Authority\n\n\n\n\n\nRef. : BD GR/BL/P/3\n    GC 4/16/21\n    BD GP/BORD/75\n\nFirst issue January 1975\nLast revision March 1994\nThis revision December 2005 (AD/Sup, DH(I)/CEDD)  (Paras. 9 & 10 and Annex I to\n                                                 Appendix A amended)\n\nIndex under : B(A)R 25A - Water Supply Certificate\n           B(SSF,P,DW&L)R - Water Supply\n              Flushing Water Demand, Assessment of\n            Water Supply, from Well or Other Sources\n             Well Yield Test"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Appendix A\n                                                      (PNAP 17)\n                                                              (APP-4)\n                              Well Yield Test Procedure"
+    },
+    {
+      "id": "p1-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "1.       A yield test on a well shall be carried out only during the period from\n1 December to 30 April."
+    },
+    {
+      "id": "p2-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The well yield test shall be carried out over a period of seven consecutive\ndays. The rate of pumping for the first to the sixth day shall be the proposed daily yield\naveraged over the proposed daily pumping period for the well.  This shall not be more\nthan 12 hours per day, to permit at least a 12 hour daily recovery period. (See paragraph\n5 for the pumping rate on the seventh day)."
+    },
+    {
+      "id": "p3-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The actual quantity of water pumped each day shall be measured by a\nwater meter. The quantity pumped shall not be calculated from the rated output of the\npump."
+    },
+    {
+      "id": "p4-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          The water level in the well, measured from the ground surface, shall be\nread at least 24 hours before the start of the  test, immediately before the start and\nimmediately before the end of pumping each day.  For the first and the sixth day of\npumping, the water level shall also be measured, with respect to the time when pumping\ncommences, at 1-minute intervals for the first 10 minutes, every 10 minutes from 10 to\n120 minutes and every 1½ hours thereafter for the duration of pumping."
+    },
+    {
+      "id": "p5-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "5.         An examination for suspended soil particles in the pumped water shall be\nmade on the seventh day, at the full discharge rate of the installed pump and at the\nmaximum drawdown level."
+    },
+    {
+      "id": "p6-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          The water pumped from the well shall be discharged into a proper drain or\nwater course and not into any position where it can percolate back into the well or the\naquifer.\n\nNotes\n\n(a)    This test is used only to ascertain that the quantity of water required is available,\n        to test the recharge and recovery of groundwater and to test the adequacy of the\n       well screen and filter pack to prevent excessive soil loss.\n\n(b)    The duration of pumping per day should be long enough to provide the required\n        daily well yield. Under no circumstances should it be assumed that, because the\n       required flow can be met for part of a 24-hour period, it can continue to be met\n        for a 24-hour day for 7 days per week.\n\n(c)    The test results are acceptable if the quantity of water pumped each day is not less\n       than the required daily quantity and there is adequate recovery of groundwater\n        after the pumping is stopped each day, and the pumped water is clean when\n      examined as in paragraph 5 above.\n\n(d)    Well yield test results should be recorded in the form at Annex I."
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Annex I to Appendix A\n                                                      (PNAP 17)\n                                                              (APP-4)\n\n              RECORDS OF WELL YIELD TEST"
+    },
+    {
+      "id": "p1-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "1.     Quantity of flushing/potable* water required per day =       litres."
+    },
+    {
+      "id": "p2-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "2.    Depth of well =      m. (Depth to : top of screen =   m.)\n      bottom of screen     =                    m.)"
+    },
+    {
+      "id": "p3-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "3.     Diameter of well =     mm."
+    },
+    {
+      "id": "p4-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "4.    Type of pump : surface/submersible* (Make/Model No.              )."
+    },
+    {
+      "id": "p5-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "5.     Groundwater level  at 24 hours before  test =           m.   (taken\non            )."
+    },
+    {
+      "id": "p6-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "6.    For test carried out in accordance with the procedure described in Appendix A\n        to PNAP 17.\n\n\n                                                 Quantity\n   Date                                           of water        Water level in\n                Time          Hours                                                    abstracted             well(s)\n                            pumped                                                                  (litres)\n                Start      Stop                                  Before      After\n                                                     Pumping  Pumping\n\n\n\n\n\n* Delete as appropriate.\n\n\n\n\n\n(Rev. 12/2005)"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Appendix B\n                                                      (PNAP 17)\n                                                              (APP-4)\n                             (Model Certificate)\n\n                          Certificate by an Authorized Person\n                    Regarding Connection of Water Supply\n\n                         Building (Administration) Regulations\n\n                     Regulation 25A (1)(b)(i)/(1)(c)/(2(b)(i)/(2)(c)*\n\n\nTo : The Building Authority\n\n\nBD Ref.  : _______________________________     Date : ______________________\n\nAddress  : _______________________________\n\n         _______________________________\n\n         _______________________________\n\nLot No. : _______________________________\n\n\n\n Connection of (Flushing/Potable)* Water Supply from (Well/Source other than Well)*\n\n         I hereby certify that a permanent connection to the above building of a supply of\nwater from (a well/other source  (state source)* has been made in accordance with\nRegulation 10A(1)/(2)* of the Building (Standards of Sanitary Fitments, Plumbing,\nDrainage Works and Latrines) Regulations.\n\n\n\n\n\n                          Signed __________________________________________\n                                              Authorized Person\n\n            Full Name in block letter __________________________________________\n\n      Certificate of Registration No. ________________ Expiry date _______________\n\n* State as appropriate."
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Appendix C\n                                                        (PNAP 17)\n                                                                 (APP-4)\n\n                                 (Model Certificate)\n\n                             Well Yield Test Certificate\n\n\n              Building (Standards of Sanitary Fitments, Plumbing, Drainage Works\n                           and Latrines) Regulation 10A(7)(c)\n\n\nTo : The Building Authority\n\n\nBD Ref. : _______________________________     Date : ____________________\n\nAddress : _______________________________\n\n         _______________________________\n\n         _______________________________\n\nLot No. : _______________________________\n\n\n\n\n             I hereby certify that a Well Yield Test has been carried out in accordance\nwith the approved well plan and the standard procedure described in Appendix A of\nPractice Note for Authorized Persons and Registered Structural Engineers No. 17 (or\nstate other approved alternative method)* and that the results shown in Annex  I\nattached are a true record.\n\n\n\n\n\n                             Signed __________________________________________\n                                                 Authorized Person\n\n               Full Name in block letter __________________________________________\n\n          Certificate of Registration No. ________________ Expiry date _______________\n\n* State as appropriate."
+    }
+  ]
+}

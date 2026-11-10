@@ -1,0 +1,46 @@
+{
+  "code": "ADV-026",
+  "source_text": "indexed_text/PNAP/ADV/ADV-026.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-026.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers   ADV-26\n\n                                  Practice Note for Authorized Persons\n Buildings Department                                                287                            and Registered Structural Engineers\n\n\n\n          Ventilation of Common Corridors and Lift Lobbies in Buildings\n\n         The outbreak of Severe Acute Respiratory Syndrome in Hong Kong has\naroused public concern for a clean and healthy living environment. We believe good\nventilation in buildings would contribute to a clean and health environment. Other than\nthe prescribed requirements for natural ventilation under the building regulations in\nrespect of rooms used for habitation or for the purposes of office or as kitchens, we are of\nthe view that ventilation to common corridor and lift lobbies, including entrance lobbies\nshould be promoted to enhance environmental hygiene."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        Authorized  persons (APs)  are  therefore recommended  to  consider  the\nprovision of ventilation to common corridors and lift lobbies, including entrance lobbies\nat the building design stage. Where design constraints rendered the provision of natural\nventilation not feasible, mechanical ventilation should be provided to help achieve a better\nindoor environment."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.       APs may wish to make reference to the following good practices when\ndesigning mechanical ventilation in the captioned areas:\n\n            a)   The ventilation system should be capable of providing sufficient\n                 fresh air taking into account the anticipated population;\n\n           b)    Intake and exhaust points should be properly designed  to\n                prevent  contamination  of  fresh   air  supply  and  avoid\n                  short-circuiting;\n\n            c)   The ventilation system and  its associated ductworks, where\n                provided, should be conveniently accessible for maintenance;"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.       The Buildings Department is examining the need for improvement in building\ndesign in the context of environmental hygiene. The recommendations in this practice\nnote will be kept under review and will be refined as and when appropriate.\n\n\n\n\n                                                              ( Marco M H WU )\n                                                Building Authority\nRef : BD GP/BREG/P/18 (V)\n\nFirst issue January 2004 (AD/NB1)\n\nIndex under  :    Common Corridors\n                     Lift Lobbies\n                    Ventilation"
+    }
+  ]
+}

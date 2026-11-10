@@ -1,0 +1,553 @@
+{
+  "code": "APP-142",
+  "source_text": "indexed_text/PNAP/APP/APP-142.txt",
+  "source_pdf": "documents/PNAP/APP/APP-142.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-142\n                         Registered Geotechnical Engineers\n\n\n            Code of Practice for Structural Use of Concrete 2013\n\n\n            The Buildings Department (BD) has set up a Technical Committee (TC)\nto, among others, collect and consider the views and feedback from the building industry\narising from the use of the Code of Practice for Structural Use of Concrete 2013 (Concrete\nCode 2013). The current Concrete Code 2013 (2020 Edition), which was promulgated in\nDecember 2020, incorporated the amendments made and promulgated through circular\nletters dated 13 June 2017 and 24 November 2020. Taking into account the advice of the\nTC, the following amendments to the Concrete Code 2013 (2020 Edition) have been\npromulgated and uploaded to BD website www.bd.gov.hk:\n\n        (a)    Appendix A – February 2022;\n\n        (b)    Appendix B – June 2023; and\n\n        (c)    Appendix C – April 2024.\n\n\n\n\n\n                                                           ( YU Po-mei, Clarice )\n                                               Building Authority\n\n\n\n\n\nRef.: BD GR/1-50/76\n\n\nThis PNAP is previously known as PNAP 296\nFirst issue    June 2007\nLast revision  June 2023\nThis revision  April 2024 (AD/NB2) (Paragraph 1 amended, and Appendix C added)"
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "Appendix A\n                                                                                       (PNAP APP-142)\n\n\n\n\nAmendments to the Code of Practice for Structural Use of Concrete 2013 (2020 Edition)\n                                             ( February 2022 )\n\n\n\n\n\n            Legends:\n               Amended\n                   Deleted\n\n\n\n             (6/2023)\n\n\n\n\n\n                                                                                                   - 1 -"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Amendments to the Code of Practice for Structural Use of Concrete 2013\n(2020 Edition) in February 2022 included:\n\n        (a)    clause 6.2.3 and Figure 6.18b – addition of design requirements for plain\n              concrete linings;\n\n        (b)    clause 10.3.4.2 and Table 10.2 – revision of the requirements on the use of\n            100 mm and 150 mm concrete cubes;\n\n        (c)    clause 11.7.5.4 and Table 11.2 – addition of general guidelines on\n             monitoring early compressive strength of insitu concrete by maturity\n             method; and\n\n        (d)   Annex A – addition of ASTM C1074-19ε1 corresponding to the new\n              clause 11.7.5.4.\n\n\n\n\n\n                                                              - 2 ­"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Amendments to the Code of Practice for Structural Use of Concrete 2013 (2020 Edition)\n\n    Item                        Current version                                    Amendments"
+    },
+    {
+      "id": "p1-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "1.  Contents     6.2.2   Walls                                                 6.2.2   Walls\n                                                                                 6.2.3    Plain concrete linings"
+    },
+    {
+      "id": "p2-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "2. LIST OF    Table 11.1 – Objects of production and construction control   Table 11.1 – Objects of production and construction control\n   TABLES1   Table 12.1 – Design flexural tensile stresses for class 2  Table 11.2 – Correction factor applied to the estimated insitu\n                         members: serviceability limit state: cracking                  concrete compressive strength\n                                                                        Table 12.1 – Design flexural tensile stresses for class 2 members:\n                                                                                                  serviceability limit state: cracking"
+    },
+    {
+      "id": "p3-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "3. LIST OF     Figure 6.18a - Geometry of the Circular Section              Figure 6.18a - Geometry of the Circular Section\n   FIGURES2  Figure 6.19   - Critical section for shear check in a pile cap    Figure 6.18b - Interaction Curve for Design of Plain Concrete\n                                                                                       Lining\n                                                                           Figure 6.19   - Critical section for shear check in a pile cap"
+    },
+    {
+      "id": "p4-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "4. Clause         -                                                                6.2.3    Plain concrete linings\n    6.2.3 and                                                                       6.2.3.1  General\n   Figure                                                                     Plain concrete is suitable for use in structural members with high\n   6.18b                                                                          axial loads and relatively low bending moments.  The following\n                                                                                            criteria can generally be applied to the use of plain concrete lining\n                                                                                    in tunnels or caverns:\n                                                                                            (a)   the lining curvature  is adequate to accommodate axial\n                                                                                              distribution of external loads;\n                                                                                       (b)   the plain concrete lining is constructed in relatively good\n                                                                                  rock geology and is always in compression under all load\n                                                                                   combinations;\n                                                                                            (c)   the effect of imperfection of the concrete lining has been\n                                                                                    considered by means of rigorous structural analysis of the\n                                                                                          plain concrete lining; and\n\n\n   1 Addition of Table 11.2 corresponding to the new clause 11.7.5.4.\n   2 Addition of Figure 6.18b corresponding to the new clause 6.2.3.\n                                                                                                         - 3 ­"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Item                        Current version                                    Amendments\n                                                                                  (d)   an arch section can be formed by plain concrete  in\n                                                                               conjunction with a reinforced concrete invert provided the\n                                                                                   junction  between  the  plain  and  reinforced  concrete\n                                                                                               satisfies  the design  requirements  specified  in  clause\n                                                                                           6.2.3.2.\n\n                                                                               6.2.3.2  Design of plain concrete lining\n                                                                                      (a)  Maximum axial load for plain concrete lining\n                                                                  The design ultimate capacity of axial load per unit length,\n                                                                                   nLT and design maximum ultimate bending moment per\n                                                                                       unit length, mLT (=nLT ex) shall be evaluated using the\n                                                                                        interaction curve as shown in Figure 6.18b.\n\n                                                                                                            (i)  The first section (Point 1 to Point 2) of the interaction\n                                                                                 curve as shown in Figure 6.18b, the highest axial\n                                                                                              force, is applicable when the eccentricity of the thrust\n                                                                                        force is less than or equal to 0.1h.  The ultimate\n                                                                                      capacity is calculated using a rectangular stress block\n                                                                                 over the whole section;\n                                                                                For    ex ≤ 0.1h\n                                                                                          nLT ≤ 0.32hfcu                            6.63a\n\n                                                                                                               (ii) The second  section (Point 2  to Point 3) of  the\n                                                                                            interaction diagram is based on a rectangular stress\n                                                                                 block approach and  is applicable for  eccentricity\n                                                                            between 0.1h and 0.3h.  The stress block is acting\n                                                                                 over part of the section, and reduces as the eccentricity\n                                                                                            increases.\n                                                                                For     0.1h < ex ≤ 0.3h\n                                                                                          nLT ≤ 0.4 (h-2 ex )fcu                     6.63b\n                                                                               where:\n\n\n                                                                                                  - 4 -"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Item                        Current version                                    Amendments\n                                                                                    ex  is the resultant eccentricity of load at right\n                                                                                       angles to the plan of the lining.\n\n                                                                                                                 (iii) Cracking restriction limits the use of the strength\n                                                                                   design method to a maximum eccentricity of 0.3h.\n                                                                     The third section (Point 3 to Point 4) of the interaction\n                                                                                 curve is a straight line down to the point nLT = 0,\n                                                                          mLT = 0, as shown in Figure 6.18b.\n\n\n                                                                                                                 Point 2\n\n\n\n\n\n                                                                                                                        Point 3\n\n\n\n\n\n                                                                                   Point 4\n\n                                                                          Figure 6.18b – Interaction Curve for Design of Plain\n                                                                        Concrete Lining\n\n                                                                                                  - 5 -"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Item                        Current version                                    Amendments\n                                                                                       (b)   Shear strength\n                                                                      The design shear  stress  in  the  plain concrete  lining\n                                                                                      subjected to shear and axial compression without shear\n                                                                                    reinforcement can be calculated in accordance with clause\n                                                                                                6.1.2.5(k).\n\n                                                                      The design shear resistance of plain concrete lining can be\n                                                                             checked in accordance with clause 6.2.2.3(r)."
+    },
+    {
+      "id": "p5-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "5. Clause       10.3.4.2 Concrete Cube Tests During Construction            10.3.4.2 Concrete Cube Tests During Construction\n    10.3.4.2(a)                   (a) Concrete Cubes                                                (a) Concrete Cubes\n                The compressive strength of concrete shall be determined    The compressive strength of concrete shall be determined by\n                 by testing 100 mm or 150 mm cubes 28 days after mixing.      testing 100 mm 1cubes, or 150 mm cubes  if the maximum\n            A representative sample shall be taken from fresh concrete     aggregate size of concrete exceeds 20 mm, 28 days after mixing.\n                      to make test cubes and each sample shall be taken from a   A representative sample shall be taken from fresh concrete to\n                     single batch.  The rate of sampling shall be at least that    make test cubes and each sample shall be taken from a single\n                     specified in Table 10.1 and at least one sample shall be      batch.  The rate of sampling shall be at least that specified in\n                   taken from each grade of concrete produced on any one     Table 10.1 and at least one sample shall be taken from each\n                    day.                                                      grade of concrete produced on any one day.\n\n\n\n\n\n                                                                                                         - 6 -"
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Item                        Current version                                    Amendments"
+    },
+    {
+      "id": "p6-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "6.  Table 10.2\n\n                        Specified    Compliance      Column A          Column B            Specified    Compliance        Column A            Column B\n                    Grade        Criteria                                             Grade        Criteria                                                 Average of 4     Any individual test                                Average of 4 consecutive    Any individual test                       Strength                                                                 Strength                                                     consecutive test       result shall not be                                            test results shall exceed    result shall not be less\n                                                         results shall exceed        less than the                                          the specified grade        than the specified\n                                                    the specified grade      specified grade                                         strength by at least      grade strength minus\n                                                    strength by at least      strength minus                                                                                                                     100 mm Cubes          100 mm Cubes\n                                             150 mm   100 mm   150 mm   100 mm                                      (150 mm Cubes)         (150 mm Cubes )\n                                            Cubes    Cubes    Cubes     Cubes\n                                                                               C20 and    C1                    7 MPa                 2 MPa\n                  C20 and    C1             5 MPa    7 MPa    3 MPa     2 MPa       above                                  (5 MPa)                   (3 MPa)\n                     above                           C2             3 MPa    5 MPa    3 MPa     2 MPa                                                                                     C2                    5 MPa                 2 MPa\n                   Below     C1 or C2        2 MPa    3 MPa    2 MPa     2 MPa                                                (3 MPa)                   (3 MPa)\n                  C20                                                                                    Below     C1 or C2               3 MPa                 2 MPa\n                Table 10.2 - Compressive Strength Compliance Criteria        C20                                   (2 MPa)                   (2 MPa)\n                                                                       Table 10.2 - Compressive Strength Compliance Criteria"
+    },
+    {
+      "id": "p7-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 312
+        }
+      ],
+      "text": "7. Clause                       (i)  Before 40  test  results are  available, where there  is   (i)  Before 40 test results are available, where there is sufficient\n    10.3.4.2(b)        sufficient  previous  production  data  using  similar       previous production data using similar materials from the same\n     (i)                materials from the same plant under similar supervision       plant under similar supervision to establish that the standard\n                       to establish that the standard deviation of 40 test results       deviation of 40 test results is less than 15.5 MPa1 (5 MPa for\n                           is less than 5 MPa for 150 mm test cubes or 5.5 MPa for      150 mm cubes), compliance requirement C2 may be adopted;\n                  100 mm test cubes, compliance requirement C2 may be       otherwise compliance requirement C1 shall be adopted.\n                     adopted; otherwise compliance requirement C1 shall be\n                     adopted."
+    },
+    {
+      "id": "p8-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "8. Clause          (ii) Where the calculated standard deviation of a set of 40   (ii) Where  the  calculated standard  deviation  of a  set  of 40\n    10.3.4.2(b)       consecutive test results of concrete judged by compliance       consecutive  test results of concrete judged by compliance\n     (ii)              requirement C2  of Table 10.2  exceeds 5 MPa  for      requirement C2 of Table 10.2 exceeds 15.5 MPa1 (5 MPa for\n                  150 mm test cubes or 5.5 MPa for 100 mm test cubes,      150 mm cubes), compliance requirement for checking the test\n                    compliance requirement for checking the  test results        results shall be changed from C2 to C1 on the 35th day after\n                        shall be changed from C2 to C1 on the 35th day after      making the last pair of test cubes in the set of 40.\n                  making the last pair of test cubes in the set of 40.\n\n\n                                                                                                         - 7 -"
+    },
+    {
+      "id": "page-9-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Item                        Current version                                    Amendments"
+    },
+    {
+      "id": "p9-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "9. Clause          (iii) Where the calculated standard deviation of 40 previous   (iii) Where  the  calculated  standard  deviation  of 40  previous\n    10.3.4.2(b)       consecutive test results is less than 5 MPa for 150 mm       consecutive test results is less than 15.5 MPa1 (5 MPa for\n     (iii)                 test cubes or 5.5 MPa for 100 mm test cubes, compliance      150 mm cubes), compliance requirement shall be changed\n                     requirement shall be changed from C1 to C2 on the 35th      from C1 to C2 on the 35th day after making the last pair of test\n                   day after making the last pair of test cubes in the set of      cubes in the set of 40.\n                      40."
+    },
+    {
+      "id": "p10-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "10. Clause        (iv) For concrete grade not exceeding C60, the calculated  (iv) For concrete grade not exceeding C60, the calculated standard\n    10.3.4.2(b)       standard deviation exceeds 8 MPa for 150 mm test cubes       deviation exceeds 18.5 MPa1 (8 MPa for 150 mm cubes); or\n    (iv)               or 8.5 MPa for 100 mm test cubes; or"
+    },
+    {
+      "id": "p11-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "11. Clause        (vi) The average of the latest 40 cube test results exceeds the  (vi) The average of the latest 40 cube test results exceeds the grade\n    10.3.4.2(b)       grade strength by at least 10 MPa for 150 mm test cubes       strength by at least 112 MPa1 (10 MPa for 150 mm cubes) and\n    (vi)               or 12 MPa for 100 mm test cubes and all individual test        all individual test results exceeds the grade strength by at least\n                        results exceeds the grade strength by at least 4 MPa for      15 MPa1 (4 MPa for 150 mm cubes); or\n                  150 mm test cubes or 5 MPa for 100 mm test cubes; or"
+    },
+    {
+      "id": "p12-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "12. Clause                                             -                                11.7.5.4 Monitoring early compressive strength of insitu concrete\n    11.7.5.4                                                           by maturity method\n   and                                                                      After  concrete  casting,  the  development  of  insitu  concrete\n   Table 11.2                                                           compressive strength at early age can be monitored by the maturity\n                                                                      method.  The maturity method can be used for estimating insitu\n                                                                             concrete  compressive  strength  through  measurement  of  the\n                                                                           temperature-time history of concrete of ages up to 14 days after\n                                                                                     casting, for the purpose of determining the concrete strength for\n                                                                                     striking of formwork and falsework1 in lieu of the minimum periods\n                                                                                 specified in clause 10.3.8.2.  In formulating a proposal adopting\n                                                                                the maturity method, reference should be made to the acceptable\n                                                                             standard in Annex A.  The proposal should cover the following:\n\n\n\n                                                                                                         - 8 -"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Item                        Current version                                    Amendments\n                                                                                   (a) choice of an appropriate maturity function and determination of\n                                                                           maturity function constants;\n                                                                              (b) apparatuses and their calibration;\n                                                                                   (c) procedure for developing strength-maturity relationship;\n                                                                              (d) procedure for estimating insitu concrete strength;\n                                                                                   (e) validation of insitu concrete strength;\n                                                                                            (f) re-calibration and re-validation; and\n                                                                              (g) quality assurance and supervision.\n\n                                                           The concrete mix used in the structure should be the same as that\n                                                                  used to derive the strength-maturity relationship.\n\n                                                                Taking into account the different conditions between cast insitu\n                                                                        concrete and concrete cubes under various curing temperatures in\n                                                                          the calibration process, a correction factor as shown in Table 11.2\n                                                                    should be applied to the estimated insitu concrete compressive\n                                                                               strength.\n\n                                                                               ≤ 48 hours     > 48 hours\n                                                          Type of concrete mix     after concrete    after concrete\n                                                                                                       casting          casting\n\n                                                                     Concrete mix containing\n                                                                                                            0.7               0.8                                                                         pfa or ggbs\n                                                                    Other concrete mix                                                                                                            0.8               0.8\n                                                              Table 11.2 – Correction factor applied to the estimated insitu\n                                                                   concrete compressive strength\n\n\n                                                                                                  - 9 -"
+    },
+    {
+      "id": "page-11-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        11
+      ],
+      "text": "Item                        Current version                                    Amendments\n\n                                                                                       1 Due to the rapid rate of concrete strength development within 24 hours after concrete\n                                                                                                                 casting, the maturity method is not suitable for use in justifying minimum periods before\n                                                                                                                 striking formwork and falsework of less than 24 hours."
+    },
+    {
+      "id": "p13-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "13. Annex A3    BS EN 13263-1:2005  Silica   fume    for    concrete.   BS EN 13263-1:2005  Silica fume for concrete. Definitions,\n               +A1:2009              Definitions,   requirements   and    +A1:2009              requirements and conformity criteria\n                                      conformity criteria\n                                               ASTM C1074-19ε1      Standard   Practice   for   Estimating\n                                                                                                Concrete  Strength by  the  Maturity\n                                                                                   Method\n\n\n\n\n\n   3 Addition of ASTM C1074-19ε1 corresponding to the new clause 11.7.5.4.\n                                                                                                         - 10 ­"
+    },
+    {
+      "id": "page-12",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        12
+      ],
+      "text": "Appendix B\n                                                                                       (PNAP APP-142)\n\n\n\n\nAmendments to the Code of Practice for Structural Use of Concrete 2013 (2020 Edition)\n                                                ( June 2023 )\n\n\n\n\n\n            Legends:\n               Amended\n                   Deleted\n\n\n\n\n             (6/2023)\n\n\n\n\n\n                                                                                                   - 1 ­"
+    },
+    {
+      "id": "page-13",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        13
+      ],
+      "text": "Amendments to the Code of Practice for Structural Use of Concrete 2013\n(2020 Edition) in June 2023 included:\n\n        (a)    Clause 3.2.8.3 and Annex A – Addition of referenced standard ISO\n             15835-2 for the test method on mechanical coupler; and\n\n        (b)    Clause 9.9.1.3(b) and Figure 9.6a – Addition of alternative arrangement\n               for links/ties for beam.\n\n\n\n\n\n                                                             - 2 ­"
+    },
+    {
+      "id": "page-14-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        14
+      ],
+      "text": "Amendments to the Code of Practice for Structural Use of Concrete 2013 (2020 Edition)\n\n    Item                         Current version                                     Amendments"
+    },
+    {
+      "id": "p1-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "1.  List of       Figure 9.6 - Typical corbel detailing......                        Figure 9.6 - Typical corbel detailing......\n    Figures      Figure 9.7 - Typical confinement in beam......                   Figure 9.6a  - Alternative arrangement for links/ties for beam\n                                                                             Figure 9.7 - Typical confinement in beam......"
+    },
+    {
+      "id": "p2-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "2. Clause        3.2.8.3  Performance of type 1 mechanical couplers             3.2.8.3  Performance of type 1 mechanical couplers\n    3.2.8.31             Type 1 mechanical coupler satisfying the following          Type 1 mechanical coupler  satisfying  the following\n                               criteria may be used as an alternative to tension or              criteria may be used as an alternative to tension or\n                        compression laps:                                          compression laps:\n                              (a) when a  representative gauge  length assembly             (a)  when  a  representative  gauge  length  assembly\n                            comprising reinforcement of the diameter, grade               comprising reinforcement of the diameter, grade and\n                          and profile to be used, and a coupler of the precise                  profile to be used, and a coupler of the precise type\n                             type to be used, is tested in tension the permanent                  to be used,  is  tested  in tension the permanent\n                              elongation after loading to 0.6fy should not exceed                elongation after loading to 0.6fy should not exceed\n                              0.1 mm; and ……                                               0.1 mm1; and ……\n\n                                                                                                    1           Reference may be made to clause 5.4, excluding\n                                                                                            sub-clause 5.4.4, of ISO 15835-2 for the test method."
+    },
+    {
+      "id": "p3-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "3. Clause        (b) Anchorage                                                    (b)  Anchorage\n    9.9.1.3(b)2       Links should be adequately anchored by means of hooks       Links should be adequately anchored by means of hooks with\n                    with bend not less than 135° in accordance with clause 8.5.      bend  not  less than 135°  in accordance with  clause 8.5.\n                   Anchorage by means of welded cross bars is not permitted.        Alternatively, links/ties should be adequately anchored by\n                 Where ……                                          means of hooks bent through an angle of not less than 135° at\n                                                                          one end and 90° at the other end, and should be alternated end\n                                                                                            for end  along  the  longitudinal  bars  (see  Figure  9.6a).\n                                                                         Anchorage by means of welded cross bars is not permitted.\n                                                                   Where ……\n\n\n  1 Addition of referenced standard ISO 15835-2 for the test method on mechanical coupler.\n   2 Addition of alternative arrangement for links/ties for beam.\n                                                                                                         - 3 ­"
+    },
+    {
+      "id": "page-15-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        15
+      ],
+      "text": "Item                         Current version                                     Amendments"
+    },
+    {
+      "id": "p4-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "4.  Figure 9.6a\n\n\n\n\n\n                                                                                         Links/ties with alternated end for      Single link/tie\n                                                                         end along the longitudinal bars\n                                                                                Figure 9.6a - Alternative arrangement for links/ties for beam"
+    },
+    {
+      "id": "p5-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "5. Annex A    AC 133:2008        Acceptance  Criteria  for Mechanical   AC 133:2008        Acceptance   Criteria   for  Mechanical\n                                    Connector   Systems    for    Steel                       Connector Systems for Steel Reinforcing\n                                      Reinforcing Bars                                           Bars\n\n            BS EN 197-1:2011   Cement.  Composition,  specifications   ISO 15835-2:2018    Steels for the reinforcement of concrete –\n                                  and conformity  criteria for common                        Reinforcement couplers  for mechanical\n                                   cements                                                           splices of bars – Part 2: Test methods\n\n                                                        BS EN 197-1:2011   Cement. Composition, specifications and\n                                                                                                conformity criteria for common cements\n\n\n\n\n\n                                                                                                         - 4 ­"
+    },
+    {
+      "id": "page-16",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        16
+      ],
+      "text": "Appendix C\n                                                                                       (PNAP APP-142)\n\n\n\n\n\nAmendments to the Code of Practice for Structural Use of Concrete 2013 (2020 Edition)\n                                                ( April 2024 )\n\n\n\n\n\n            Legends:\n               Amended\n                   Deleted\n\n\n\n\n             (4/2024)\n\n\n\n\n                                                                                         - 1 -"
+    },
+    {
+      "id": "page-17",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        17
+      ],
+      "text": "Amendments to the Code of Practice for Structural Use of Concrete 2013\n(2020 Edition) in April 2024 included:\n\n        (a)    Clause 3.2.8.3 and Figure 3.9a – addition of maximum allowable permanent\n              elongation for mechanical couplers longer than 100 mm;\n\n        (b)    Clauses 6.1.2.1, clause 6.9 and Figures 6.21 to 6.25 – addition of provisions for\n                strut-and-tie system;\n\n        (c)    Figure 9.5(g), (h) and (i) – addition of column transverse reinforcement details;\n\n        (d)    Clause 11.7.1 – addition of mix proportion for concrete of strength not\n             exceeding 20 N/mm2 for minor  structural and non-structural works and\n                clarification of the limitation on the volume of concrete for exceptional project;\n\n        (e)    Equation 12.2 – rectification of typo in equation; and\n\n         (f)    Annex A – update of version of standard BS 8500 Parts 1 & 2 and addition of\n              standard BS EN 206:2013.\n\n\n\n\n\n                                                           - 2 ­"
+    },
+    {
+      "id": "page-18-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        18
+      ],
+      "text": "Amendments to the Code of Practice for Structural Use of Concrete 2013 (2020 Edition)\n\n    Item                         Current version                                     Amendments"
+    },
+    {
+      "id": "p1-page-18",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        18
+      ],
+      "subparagraph_markers": [],
+      "text": "1.  Contents     6.8 BEAM-COLUMN JOINTS                                6.8 BEAM-COLUMN JOINTS\n                       6.8.1    General principles and requirements                    6.8.1    General principles and requirements\n                                                                                6.9 STRUT-AND-TIE SYSTEM\n                                                                                         6.9.1    General\n                                                                                         6.9.2    Modelling and analysis\n                                                                                         6.9.3    Design"
+    },
+    {
+      "id": "p2-page-18",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        18
+      ],
+      "subparagraph_markers": [],
+      "text": "2.  List of       Table 11.1  - Objects of production and construction control     Table 11.1  - Objects of production and construction control\n   Tables       Table 11.2  - Correction factor applied to the estimated insitu    Table 11.1a - Mix proportions for concrete for minor structural\n                              concrete compressive strength                              and non-structural works\n                                                                          Table 11.2  - Correction factor applied to the estimated insitu\n                                                                                            concrete compressive strength"
+    },
+    {
+      "id": "p3-page-18",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        18
+      ],
+      "subparagraph_markers": [],
+      "text": "3.  List of       Figure 3.9   - Short-term design stress-strain curve for           Figure 3.9   - Short-term design stress-strain curve for\n    Figures                   reinforcement                                                reinforcement\n                Figure 3.10 - Short-term design stress-strain curve for           Figure 3.9a - Maximum allowable permanent elongation for\n                               prestressing tendons                                           type 1 mechanical couplers\n                                                                             Figure 3.10 - Short-term design stress-strain curve for prestressing\n                                                                                        tendons"
+    },
+    {
+      "id": "p4-page-18",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        18
+      ],
+      "subparagraph_markers": [],
+      "text": "4.  List of       Figure 6.20 - Effective joint widths                            Figure 6.20 - Effective joint widths\n    Figures      Figure 7.1   - Assumptions made in calculating curvatures       Figure 6.21 - Nodal condition\n                                                                             Figure 6.22 - Static equilibrium of a strut-and-tie model\n                                                                             Figure 6.23 - Load distribution area and loaded area for\n                                                                                         determining the confinement modification factor\n                                                                             Figure 6.24 - Classification of nodes\n                                                                             Figure 6.25 - Anchorage of tie reinforcements\n                                                                             Figure 7.1   - Assumptions made in calculating curvatures\n\n\n\n\n                                                                                                         - 3 -"
+    },
+    {
+      "id": "page-19-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        19
+      ],
+      "text": "Item                         Current version                                     Amendments"
+    },
+    {
+      "id": "p5-page-19",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        19
+      ],
+      "subparagraph_markers": [],
+      "text": "5. Clause 1.5   1.5  SYMBOLS                                              1.5  SYMBOLS\n                F    design ultimate load (e.g. 1.4Gk + 1.6Qk)            F    design ultimate load (e.g. 1.4Gk + 1.6Qk)\n                               fcu    characteristic compressive strength of concrete                 Ftie   design resistance of non-prestressed ties\n                                                                                                                      fcb    design ultimate bearing strength based on the weaker\n                                                                                            of the two bearing surfaces\n                                                                                                                           fce    design compressive strength of the concrete in a strut\n                                                                                            or a nodal zone\n                                                                                                                       fcu    characteristic compressive strength of concrete"
+    },
+    {
+      "id": "p6-page-19",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        19
+      ],
+      "subparagraph_markers": [],
+      "text": "6. Clause        3.2.8.3  Performance of type 1 mechanical couplers             3.2.8.3  Performance of type 1 mechanical couplers\n    3.2.8.31             Type 1 mechanical coupler satisfying the following          Type 1 mechanical coupler  satisfying  the following\n                               criteria may be used as an alternative to tension or              criteria may be used as an alternative to tension or\n                        compression laps:                                          compression laps:\n                              (a) when a  representative gauge  length assembly             (a)  when  a  representative  gauge  length  assembly\n                            comprising reinforcement of the diameter, grade               comprising reinforcement of the diameter, grade and\n                          and profile to be used, and a coupler of the precise                  profile to be used, and a coupler of the precise type\n                             type to be used, is tested in tension the permanent                  to be used,  is  tested  in tension the permanent\n                              elongation after loading to 0.6fy should not exceed                elongation after loading to 0.6fy should not exceed\n                              0.1 mm1; and ……                                              0.1 mm1; _\n                                                                                                 (b)  For couplers longer than 100 mm, the permanent\n                                                                                              elongation greater than 0.1 mm may be accepted as\n                                                                                             per Figure 3.9a  subject  to crack width  control\n                                                                                           requirements in clauses 7.2.1, 9.4.1 and 12.3.4; and\n                                                                                                      (c)  the coupler bar……\n\n\n\n\n\n   1 Addition of maximum allowable permanent elongation for mechanical couplers longer than 100 mm.\n                                                                                                         - 4 ­"
+    },
+    {
+      "id": "page-20-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        20
+      ],
+      "text": "Item                         Current version                                     Amendments\n\n\n\n\n\n                                                            Key\n                                              X   length of the mechanical coupler, in mm\n                                              Y   permanent elongation after loading to 0.6fy, in mm\n\n                                                                                Figure 3.9a – Maximum allowable permanent elongation for\n                                                                                                 type 1 mechanical couplers"
+    },
+    {
+      "id": "p7-page-20",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        20
+      ],
+      "subparagraph_markers": [],
+      "text": "7. Clause        6.1.2.1  General                                                 6.1.2.1  General\n    6.1.2.1                  (a)   Design limitations                                              (a) Design limitations\n                             This sub-clause deals with the design of beams               This sub-clause deals with the design of beams of\n                                of normal proportions.  Deep beams (see clause              normal  proportions.   Deep beams  (see  clause\n                                   5.2.1.1(a)) are not considered.  For the design                 5.2.1.1(a)) are not considered.   For the design of\n                                of deep beams, reference should be made to              deep beams, reference should be made to specialist\n                                   specialist literature.                                                  literature or strut-and-tie system in clause 6.9."
+    },
+    {
+      "id": "p8-page-20",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        20
+      ],
+      "subparagraph_markers": [],
+      "text": "8. Clause 6.92                                                                  6.9    STRUT-AND-TIE SYSTEM\n                                                                                    6.9.1   General\n                                                                                     Non-flexural components, e.g. locations near supports and\n                                                                                      concentrated loads, of reinforced concrete structures can be\n\n   2 Additional of provisions for strut-and-tie system.\n                                                                                                         - 5 -"
+    },
+    {
+      "id": "page-21",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        21
+      ],
+      "text": "Item                         Current version                                     Amendments\n                                                                              designed using strut-and-tie model. A strut-and-tie model\n                                                                                                        is an  idealized  pin-jointed  truss, comprising  concrete\n                                                                           compression struts, reinforcement tension ties, and concrete\n                                                                                 nodes.\n\n                                                                              6.9.2   Modelling and analysis\n                                                                   The angle between the axis of a strut and the axis of a tie\n                                                                                        (θ) shall not be less than 25° nor exceed 60°.   The\n                                                                         boundary forces and the internal forces can be determined\n                                                                            based on the static equilibrium and the truss analysis.\n\n                                                                   The dimensions of nodes shall be determined based on the\n                                                                              nodal condition shown in Figure 6.21 by using the static\n                                                                                  equilibrium corresponding to shear failure and plastic stress\n                                                                                              state (see Figure 6.22).\n\n\n\n\n\n                                                                                         Figure 6.21 – Nodal condition\n\n\n\n\n\n                                                                                                  - 6 -"
+    },
+    {
+      "id": "page-22",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        22
+      ],
+      "text": "Item                         Current version                                     Amendments\n\n\n\n\n\n                                                                             Figure 6.22 – Static equilibrium of a strut-and-tie model\n\n                                                                              6.9.3   Design\n                                                                                6.9.3.1 Design compressive strength of strut\n                                                                          Design compressive strength of concrete in strut fce should\n                                                                         be calculated from:\n\n                                                                                                                           fce = 0.32mfcu                                  6.74\n\n                                                                       where\n                                              m     is 𝐴𝐴2the confinement modification factor taken as\n                                                                    A1    is                                                                                                              area,                                                                                                                                               𝐴𝐴1loaded≤ 2,                                                   ට\n                                                                    A2    is load distribution area (see Figure 6.23).\n\n\n\n\n\n                                                                                                  - 7 -"
+    },
+    {
+      "id": "page-23",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        23
+      ],
+      "text": "Item                         Current version                                     Amendments\n\n\n\n\n\n                                                                                                               Side view\n                                                                                Plan view\n\n                                                                             Figure 6.23 – Load distribution area and loaded area for\n                                                                                determining the confinement modification factor\n\n                                                                                6.9.3.2 Design compressive strength of nodes\n                                                                          Design compressive strength of concrete at a nodal zone fce\n                                                                              should be calculated as follows:\n\n                                                                                                                      fce = 0.45mfcu   for node bounded by struts,         6.75\n                                                                                                bearing areas or both (C-C-C\n                                                                                   Node)\n                                                                                                                      fce = 0.4mfcu    for node anchoring one tie          6.76\n                                                                                    (C-C-T Node)\n                                                                                                                      fce = 0.32mfcu   for node anchoring two or more tie  6.77\n                                                                                         (C-T-T Node)\n\n                                                                                        Classification of nodes is illustrated in Figure 6.24.\n\n\n\n                                                                                                  - 8 -"
+    },
+    {
+      "id": "page-24",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        24
+      ],
+      "text": "Item                         Current version                                     Amendments\n\n\n\n\n\n                                                                                                                  (i) C-C-C Node       (ii) C-C-T Node      (iii) C-T-T Node\n\n                                                                                            Figure 6.24 Classification of nodes\n\n                                                                                6.9.3.3 Design compressive strength of bearing\n                                                                          Design ultimate bearing strength based on the weaker of the\n                                                                     two bearing surfaces fcb should be calculated as follows:\n\n                                                                                                                  fcb = 0.27mfcu   for dry bearing on concrete         6.78\n                                                                                                                  fcb = 0.40mfcu   for bedded bearing on concrete     6.79\n                                                                                                                  fcb = 0.80mfcu   for contact face of a steel bearing   6.80\n                                                                                                          plate cast into a member or\n                                                                                                     support, with each dimension not\n                                                                                            exceeding 40% of the\n                                                                                              corresponding concrete\n                                                                                             dimension.\n\n                                                         An intermediate value of bearing stress between dry and\n                                                                        bedded bearings may be used for flexible bedding.\n\n                                                                                6.9.3.4 Ties\n                                                                                              (a) Design resistance of ties\n                                                                              Design  resistance of non-prestressed  ties  shall be\n                                                                                          calculated as follows:\n\n                                                                                                                       Ftie = 0.87fy As                              6.81\n                                                                                                  - 9 -"
+    },
+    {
+      "id": "page-25",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        25
+      ],
+      "text": "Item                         Current version                                     Amendments\n\n                                                                                         (b) Arrangement of ties\n                                                                      The reinforcing bars in a tie shall be evenly distributed\n                                                                                        across the nodal depth such that the centroid axis of the\n                                                                                          reinforcing bars coincides with the axis of the tie in the\n                                                                                                 strut-and-tie model.\n\n                                                                                              (c) Anchorage of ties\n                                                                      The reinforcing bars in a tie shall be properly anchored\n                                                                                             to transfer the tension force into the node through\n                                                                                  adequate anchorage of longitudinal reinforcement in\n                                                                                 accordance with clause 8.4.  The anchorage begins at\n                                                                                         the location where the edge of strut meets the bearing\n                                                                                        surface (see Figure 6.25).  For straight bars, they shall\n                                                                             be extended beyond the node.\n\n\n\n\n\n                                                                                                 - 10 -"
+    },
+    {
+      "id": "page-26",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        26
+      ],
+      "text": "Item                         Current version                                     Amendments\n\n\n\n\n\n                                                                                  Figure 6.25 – Anchorage of tie reinforcements\n\n                                                                                6.9.3.5 Minimum reinforcement\n                                                         An orthogonal grid of reinforcing bars shall be placed evenly\n                                                                                    across each face of the section.  The minimum percentage\n                                                                                   of reinforcement is 0.25%.\n\n\n\n\n\n                                                                                                 - 11 -"
+    },
+    {
+      "id": "page-27-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        27
+      ],
+      "text": "Item                         Current version                                     Amendments"
+    },
+    {
+      "id": "p9-page-27",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        27
+      ],
+      "subparagraph_markers": [],
+      "text": "9.  Figure 9.53\n                                                                                                        Link passing around the\n                                                                                                                          longitudinal   bars   and\n                                                                                                            having an included angle\n                                                                                                                      of not more than 135o.\n\n                                                                                      > 150\n\n\n                                                                                 g)\n\n\n\n                                                                                                  Link anchored by hooks with\n                                                                                               bend not less than 135o.\n\n\n                                                                                  > 150\n\n\n\n\n\n                                                                                h)\n\n\n\n\n\n   3 Addition of column transverse reinforcement details.\n                                                                                                         - 12 -"
+    },
+    {
+      "id": "page-28-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        28
+      ],
+      "text": "Item                         Current version                                     Amendments\n\n                                                                        Link should be adequately                                                                                                               Link anchored by                                                                          anchored  by  means  of                                                                                                              hooks with bend                                                                       hooks  bent  through  an                                                                                                                           not less than 135o                                                                              angle of not less than 135o\n\n\n                                                                                                        ≤ 150\n\n\n\n\n\n                                                                                                             i)                                                                                             ≤ 150\n                                                                                       Figure 9.5 – Column transverse reinforcement"
+    },
+    {
+      "id": "p10-page-28",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        28
+      ],
+      "subparagraph_markers": [],
+      "text": "10. Clause        (c) Anchorage                                                        (c) Anchorage\n    9.9.2.2(c)4      Links and ties should be adequately anchored by means of     Links and ties should be adequately anchored by means of hooks\n                  hooks with bend not less than 135o in accordance with clause     with bend not less than 135o in accordance with clause 9.5.2 (see\n                     9.5.2 (see Figure 9.5b, c, d & e).  Where ……                 Figure 9.5b, c, d, _e, g, h & i).  Where ……"
+    },
+    {
+      "id": "p11-page-28",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        28
+      ],
+      "subparagraph_markers": [],
+      "text": "11. Clause       Structural concrete for  all works should be obtained from  Structural concrete_ should be obtained from concrete suppliers\n    11.7.15      concrete suppliers who are certified under the Quality Scheme  who are certified under the Quality Scheme for the Production and\n                  for the Production and Supply of Concrete (QSPSC) or similar  Supply of Concrete (QSPSC) or similar equivalent, except for those\n                  equivalent, except for those located at remote areas (such as  located at remote areas (such as outlying islands) or where the total\n\n   4 Addition of Figures 9.5(g), (h) and (i)\n   5 Addition of mix proportions for concrete of strength not exceeding 20N/mm2 for minor structural and non-structural works and clarification of the limitation\n   on the volume of concrete for exceptional project.\n                                                                                                         - 13 ­"
+    },
+    {
+      "id": "page-29",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        29
+      ],
+      "text": "Item                         Current version                                     Amendments\n            outlying islands) or where the volume of concrete involved is  volume of concrete per building project involved is less than 50 m3 .\n             less than 50 m3.  Even for these “exceptional” projects, the  Even for these “exceptional” projects, the structural concrete should\n             structural concrete should be obtained from a supplier operating  be obtained from a supplier operating an approved quality system.\n           an approved quality system.\n                                                                      Concrete with strength not exceeding 20 N/mm2 may be made using\n                                                            mix proportions, batching by weight, selected from Table 11.1a for\n                                                                  minor structural and non-structural works such as on-grade slabs,\n                                                                           blinding   layer,  U-channels/stepped  channels,  bedding  and\n                                                                    haunching for pipe works, concrete footings for posts and fences,\n                                                                 and mass concrete fill which does not sustain appreciable loading.\n\n                                                                                          Weight of aggregate\n                                                                                          Maximum                                                                                                         per bag of cement\n                                                                       Concrete                                               free water/                                                                                          Material             kg                                                                            Strength                                       cement                                                                                       45 kg bag   50 kg bag                                                                                                                                                      ratio\n                                                                                                         of cement   of cement\n                                                                                       Fine                                                                                          145        160                                                                                       aggregate\n                                                                10 N/mm2\n                                                                          20 mm coarse                                                                                          185        205                                                                                       aggregate\n                                                                                       Fine                                                                                          120        130                                                                                       aggregate\n                                                                15 N/mm2                                            0.65\n                                                                          20 mm coarse                                                                                          165        180                                                                                       aggregate\n                                                                                       Fine                                                                                          95        105                                                                                       aggregate\n                                                                20 N/mm2\n                                                                          20 mm coarse                                                                                          145        160                                                                                       aggregate\n                                                                        Note: Cement shall be ordinary Portland cement.\n\n                                                                                                 - 14 -"
+    },
+    {
+      "id": "page-30-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        30
+      ],
+      "text": "Item                         Current version                                     Amendments\n\n                                                                              Table 11.1a – Mix proportions for concrete for minor structural\n                                                                                       and non-structural works"
+    },
+    {
+      "id": "p12-page-30",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        30
+      ],
+      "subparagraph_markers": [],
+      "text": "12. Equation\n    12.26                          70000𝜆𝜆1                      𝑓𝑓𝑝𝑝𝑝𝑝𝐴𝐴𝑝𝑝𝑝𝑝                                 70000𝜆𝜆1                      𝑓𝑓𝑝𝑝𝑝𝑝𝐴𝐴𝑝𝑝𝑝𝑝                                  𝑓𝑓𝑝𝑝𝑝𝑝 = 𝑓𝑓𝑝𝑝𝑝𝑝 +       ቆ1 − 0.7𝜆𝜆2     ቇ             12.2       𝑓𝑓𝑝𝑝𝑝𝑝 = 𝑓𝑓𝑝𝑝𝑝𝑝 +       ቆ1 − 0.7𝜆𝜆2     ቇ                12.2                                                                                    𝑙𝑙                               𝑓𝑓𝑐𝑐𝑝𝑝𝑏𝑏𝑑𝑑                                                                                                        𝑙𝑙                               𝑓𝑓𝑐𝑐𝑝𝑝𝑏𝑏𝑑𝑑13. Annex A    BS 8500-1:2006ൗ𝑑𝑑    Concrete.   Complementary   British   BS 8500-1:2015ൗ𝑑𝑑    Concrete.   Complementary   British\n                                     Standard to BS EN 206-1. Method of                        Standard to BS EN 206-1. Method of\n                                        specifying  and  guidance   for  the                          specifying  and  guidance   for  the\n                                           specifier                                                            specifier\n\n            BS 8500-2:2006      Concrete.   Complementary   British   BS 8500-2:2015      Concrete.   Complementary   British\n                                     Standard    to   BS  EN    206-1.                        Standard    to   BS  EN    206-1.\n                                         Specification for constituent materials                           Specification for constituent materials\n                                  and concrete                                            and concrete\n\n                                                        BS EN 206:2013     Concrete – Specification, performance,\n                                                                                                   production and conformity\n\n\n\n\n\n   6 Rectification of typo in equation.\n                                                                                                         - 15 -"
+    }
+  ]
+}

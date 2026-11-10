@@ -1,0 +1,97 @@
+{
+  "code": "APP-005",
+  "source_text": "indexed_text/PNAP/APP/APP-005.txt",
+  "source_pdf": "documents/PNAP/APP/APP-005.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department    Registered Structural Engineers and         APP-5\n                          Registered Geotechnical Engineers\n\n\n                                 Height of Storeys\n                 Regulations 3(3) & 24 of Building (Planning) Regulations\n\n\n              This  practice note  clarifies the measurement of storey heights under\nregulations 3(3) and 24 of the Building (Planning) Regulations (B(P)R) as well as  the\ndesign requirements on storey height and transfer plate.\n\nHeight of Building"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.                  It is an established practice of the Buildings Department (BD) to measure\nstorey heights, in terms of regulation 24 of the B(P)R, between structural members\nregardless of finishes such as false ceilings, screeding, plastering and flooring. The same\nprinciple applies in measuring the clear height of balconies in terms of regulation 3(3) of\nthe B(P)R."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.             In the case of peripheral beams in walls, it may be difficult to adhere to the\nrequired minimum height of 2.3 metres (m) to the underside. Accordingly, where beams\nproject internally from the face of external walls, a height of 2 m is permissible. Similarly,\nthe regulation should not inhibit provision of beams over doorways.  These may be\nprovided at the required door height."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.           Although the minimum height applies generally to any part of building\nused as an office or for habitation,  it is recognised that the minimum clear height in\nstaircases is 2 m and that beams across narrow corridors (where a doorway could have\nbeen provided) need only be at the appropriate door height. This is the \"notional doorway\"\nsituation."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The minimum height of rooms for habitation or office for health\nreason is 2.5 m. A range of storey height for domestic buildings may be accepted by BD\nfor the purpose of regulation 23(3)(a) of the B(P)R provided that the proposed height of\nstoreys does not exceed the following maximum heights:\n\n                            Flat                 House\n\n                Topmost floor – 4 m*\n                                                       4.5 m\n                    Typical floor – 3.5 m\n\n   * Where the topmost floor consists of duplex or triplex units, the maximum height of\n       topmost floor can only be applied to only one storey of the duplex or triplex units.\n\n                                                                              /Transfer ..."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\nTransfer Plate"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 230
+        },
+        {
+          "label": "b",
+          "offset": 453
+        },
+        {
+          "label": "c",
+          "offset": 641
+        }
+      ],
+      "text": "6.         To allow  for  flexibility  in designing  transfer  plates  for supporting\nbuilding blocks, a transfer plate which satisfies the following design parameters would\nnormally not be accountable for gross floor area (GFA):\n\n           (a)  For domestic blocks1 of not more than 40 storeys, the thickness of\n               the transfer plate should not be greater than the storey height of\n               the typical floor of the building blocks;\n\n          (b)  For domestic blocks1 of more than 40 storeys and non-domestic\n              blocks, the thickness of the transfer plate should not be greater\n              than 4.5 m; and\n\n           (c)  The total area of the transfer plate should not be more than twice\n                that of the total GFA of the lowest floor of building blocks atop."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           While the building services zone within a transfer plate would not be\nregarded as part of the transfer plate in measuring the thickness of the transfer plate,\nconvenient and safe means of access should be provided for maintenance and repair of\nthese building services.\n\n\n\n\n\n                              (CHEUNG Tin-cheung)\n                                               Building Authority\n\n\n\n\n\nRef. : BD GP/BREG/P/14\n\nThis PNAP is previously known as PNAP-27\nFirst issue February 1976\nLast revision May 1994\nThis revision May 2019 (AD/NB1) (Generally Revamped)\n\n\n\n\n\n1 Where multiple domestic blocks sit on same transfer plate, the lowest domestic block\n   is referred."
+    }
+  ]
+}

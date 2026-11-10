@@ -1,0 +1,110 @@
+{
+  "code": "ADV-034",
+  "source_text": "indexed_text/PNAP/ADV/ADV-034.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-034.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        ADV-34\n                          Registered Geotechnical Engineers\n\n\n                    Building Information Modelling (BIM)\n\n\n            The use of Building Information Modelling (BIM) is a relatively new and\ninnovative approach to building design and construction.  The Buildings Department\n(BD) encourages authorized persons (AP), registered structural engineers (RSE) and\nregistered geotechnical engineers (RGE) to consider adopting BIM in their building\nprojects under the Buildings Ordinance (BO).  This practice note provides general\nguidelines on using BIM  to prepare  statutory plan submissions  to  facilitate plan\nprocessing by BD.\n\nBIM Submissions"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           There  is  a wide  range  of  applications  of BIM on new  building\ndevelopments and alteration and addition works which are considered useful to facilitate\nBD in processing plan submissions. Some examples of BIM applications are given in\nAppendix A."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         When BIM is used in the preparation of general building plans, AP\nshould refer to Practice Note for Authorized Persons, Registered Structural Engineers\nand Registered Geotechnical Engineers ADM-19, follow the “Guidelines for using\nBuilding Information Modelling in General Building Plans Submission” and make\nreference to the sample drawings and BIM models promulgated by BD which can be\ndownloaded from BD website at www.bd.gov.hk."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         When BIM  is  used  in  the  preparation  of  other  statutory  plans,\nAP/RSE/RGE should follow the “Guidelines for using Building Information Modelling\nin Statutory Plan Submissions (other than General Building Plan)” and make reference\nto the sample drawings, BIM objects/models and templates jointly promulgated by the\nConstruction Industry Council (CIC) and BD which can be downloaded from BD\nwebsite at www.bd.gov.hk."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          Where applicable, AP/RSE/RGE should also make reference to the user\nguides and other relevant BIM standards that have been developed and published by\nCIC from time  to  time.   All such information  is  available  in CIC website  at\nwww.bim.cic.hk/en/resources/publications.\n\n\n\n\n\n                                                                     /Using …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\nUsing BIM to Prepare Statutory Plan Submissions"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.         When BIM is used to prepare statutory plan submissions, the information\ncontained in the BIM  files should be identical to the information shown on the\nprescribed plans. Post-manual editing to the drawings generated from the models of the\nBIM files for statutory plan submissions should be minimised."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           While BD will process the approval of plans under the BO based on the\ninformation presented on the prescribed plans in paper format or 2-dimensional portable\ndocument format, the information contained in the BIM files will be used for checking\nagainst the contents of the plans to facilitate scrutiny of the plans in accordance with the\nrequirements of the BO.  In case of any discrepancy between the plans and BIM files\nsubmitted, the plans shall prevail."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.         To keep pace with the development of BIM in the building industry, BD\nwill, from time to time, review the extent of BIM application with a view to exploring\ndifferent means to facilitate the processing of plan submissions.\n\n\n\n\n\n                                                                ( YU Po-mei, Clarice )\n                                                   Building Authority\n\n\n\n\n\nRef. : BD GR/1-125/11/1\n\nFirst issue    September 2016 (AD/NB2)\nThis revision May 2023 (AD/CS) (Generally revamped)"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Appendix A\n                                                        (PNAP ADV-34)\n\n          Examples of Application of Building Information Modelling (BIM)\n                          to Facilitate Processing Plan Submissions\n\n     Types of Plan              Building Information to be Illustrated by BIM1\n      Submissions                           BIM                   Real-time Simulation\n General Building Plans    innovative building design,        sequence and phasing\n                                irregular/twisted building form;         of various stages2 of\n                    projecting features on external        new building\n                               wall;                                development;\n                    relationship between site         sequence and phasing\n                                  profiles/street levels and proposed       of A&A works.\n                               building;\n                    area demarcations and calculations;\n                    arrangement of means of escape\n                          and compartmentation;\n                    compatibility between different\n                              types of plans;\n                    spatial arrangement of building;\n                    relationship between existing\n                              building and proposed alteration\n                          and addition (A&A) works.\n\n Drainage Plans        complex drainage systems and/or     sequence and phasing\n                             connections;                           of various stages2 of\n                    relationship between proposed        new building\n                           underground drainage works and       development;\n                             foundation works/site formation      sequence and phasing\n                            works, etc;                             of A&A works.\n                    compatibility between different\n                              types of plans.\n\n Superstructure Plans      material and grade of different      sequence and phasing\n                                 structural elements;                     of various stages2 of\n                    fire resistance rating and concrete     new building\n                            cover of different structural            development;\n                             elements;                   sequence and phasing\n                   complex steel structures and/or          of A&A works.\n                             connections;\n\n\n1  In addition to the BIM files, AP/RSE/RGE may supplement the submission with a real-time simulation\n  video file in Windows Media Video (wmv) or Audio Video Interleave (avi) format that is supported by\n  Windows Media Player 11 or above to enhance illustration of the proposals.\n2  Relevant stages of new building development may include demolition, foundation, ELS, site formation,\n  sub-structure and superstructure construction, as the case may be.\n\n                                                                   - 1  -"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Types of Plan              Building Information to be Illustrated by BIM1\n     Submissions                          BIM                   Real-time Simulation\n                   arrangement of transfer structures\n                         and illustration of load path;\n                  basement structures supporting\n                            adjoining ground and/or existing\n                            geotechnical features;\n                   assembly sequence, structural\n                          arrangement and/or connection of\n                             façade/glass wall/curtain\n                             wall/cladding works, etc;\n                   compatibility between different\n                            types of plans;\n                   relationship between existing\n                               structures and proposed A&A\n                          works;\n                  working space, temporary supports\n                         and strengthening in A&A works.\n\nFoundation Plans        type and arrangement of          sequence and phasing\n                             foundation, top level and toe level       of various stages2 of\n                             of foundation, level of bearing        new buildingExcavation and Lateral\n                            stratum and allowable bearing          development;Support (ELS) Plans\n                             capacity of foundation;          top-down construction.\n                   relationship between proposed\n                             foundations, sub-structures, ELS\n                        works and geological ground\n                                 profiles, adjoining existing\n                             foundations, geotechnical features,\n                               sensitive structures, etc;\n                   compatibility between different\n                            types of plans.\n\nSite Formation Plans      relationship between site profiles,    sequence and phasing\n                             geological ground profiles,              of various stages2 of\n                          proposed works, adjoining existing    new building\n                             foundations, geotechnical features,      development.\n                               sensitive structures, etc.\n\nDemolition Plans        complicated demolition sequence;   sequence and phasing\n                   final stage of partial demolished         of works, method\n                                structures.                             statements and\n                                                              temporary\n                                                                   precautionary\n                                                                 measures.\n\n\n(Rev. 5/2023)\n\n\n\n                                                                  - 2  -"
+    }
+  ]
+}

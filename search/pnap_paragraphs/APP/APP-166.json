@@ -1,0 +1,140 @@
+{
+  "code": "APP-166",
+  "source_text": "indexed_text/PNAP/APP/APP-166.txt",
+  "source_pdf": "documents/PNAP/APP/APP-166.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-166\n                         Registered Geotechnical Engineers\n\n\n                         Metal Grille and Louvre\n\n\n               Grilles and louvres are commonly used within or affixed to the exterior of\na building. For the avoidance of doubt and the purposes of this practice note, grille refers\nto a grating or openwork barrier, usually of metal, used to cover, conceal, decorate or\nprotect an opening whereas louvre refers to an assembly of sloping, overlapping blades\nor slats which may be fixed or adjustable and designed to admit air and/or light in varying\ndegrees and to exclude rain, and usually are used in doors, windows, and the intake and\ndischarge of mechanical ventilation systems.\n\nStructural Submissions"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 153
+        },
+        {
+          "label": "b",
+          "offset": 211
+        },
+        {
+          "label": "c",
+          "offset": 315
+        }
+      ],
+      "text": "2.             In general, metal grilles/louvres may be used at different locations1 and\nwould perform several different functions as categorised below:\n\n        (a)    Type 1 – serving as an external cladding;\n\n        (b)   Type 2 – forming wholly or partly as an external wall of\n             a building; and/or\n\n        (c)    Type 3 – serving as a protective barrier."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           Requirements on the structural submission for metal grilles/louvres 2\naccording to their function(s) as listed in paragraph 2 above are given in the table below:\n\n Type               Structural Submission               Design Reference\n   1    Required if any part to be installed above 6m from  Appendices B6 and B9\n          the adjoining ground level or adjoining floor3.       to PNAP ADV-33\n\n   2    Required if –                                  Appendices B7 and B10\n        the structural span exceeding 6m; or            to PNAP ADV-33\n        to be located where the design wind pressure\n                  is 2.86 kPa or above as well as having a\n                structural opening with an area exceeding 6m2\n              or the least dimension exceeding 1.8m4.\n\n                                                                                      /3 …\n\n1  Structural submission for metal grilles or louvres is not required if they are serving as a facing\n   or an architectural decoration affixed to the interior structural elements of a building.\n2  For other construction materials such as concrete or glass, the design requirements stipulated\n   in the relevant codes of practice should be followed.\n3  Reference should be made to paragraph 4 of PNAP APP-16 on Cladding.\n4  Reference should be made to paragraphs 4 to 7 of PNAP APP-37 on Curtain Wall, Window and\n  Window Wall, including the responsibilities of authorized person and registered structural\n   engineer where structural details are not required to be submitted for approval."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n   3     Required under all circumstances, except for those  Paragraph 5 of PNAP\n          also performing  the  function  of Type 2 and  APP-110\n         meeting the respective criteria where structural\n         submission is not required as specified above.\n\n\nPlan Submission Requirements"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 171
+        },
+        {
+          "label": "b",
+          "offset": 242
+        },
+        {
+          "label": "c",
+          "offset": 286
+        },
+        {
+          "label": "d",
+          "offset": 356
+        },
+        {
+          "label": "e",
+          "offset": 433
+        },
+        {
+          "label": "f",
+          "offset": 511
+        }
+      ],
+      "text": "4.          The following details are required to be included in the structural plans of\nmetal grilles/louvres for submission to the Building Authority (BA) for approval:\n\n      (a)      structural framing and details of structural elements;\n\n      (b)     anchors and support details;\n\n      (c)      design loads, design standards and codes of practice;\n\n      (d)      material specifications for structural elements and anchors;\n\n      (e)     workmanship specifications for connections and protection; and\n\n       (f)       structural calculations comprising design check on the parent\n                structure, analysis on the structural adequacy and stability of the\n             proposed structural system, element design and deflection check\n            on major load carrying members, if applicable."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.         As a streamlined alternative, registered structural engineers (RSE) may\ninclude the typical details, typical layout and general notes of metal grilles/louvres in the\nsuperstructure plans instead of making a separate submission of structural plans of metal\ngrilles/louvres  for  approval.   While  the  location,  layout and  elevation  of metal\ngrilles/louvres should be shown on the general building plans (GBP) for approval, the\ndetails as mentioned in paragraph 4 above should be included in the superstructure plans.\nThe authorized person (AP) and RSE of the project should ensure that the works so\napproved are compatible with the approved GBP and do not contravene any provisions\nof the BO and its subsidiary regulations. Reference can also be made to the checklist at\nAppendix B7 and the sample drawings at Appendix B10 of PNAP ADV-33."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          Where the structural details of the metal grilles/louvres are not required to\nbe submitted for approval in accordance with the above guidelines, the AP and RSE\nshould ensure that the design, fabrication and installation of these elements will achieve\nthe required safety standard.\n\nDesignated Exempted Works and Minor Works relating to Grille or Louvre"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           According to item 27 in Part 2 of Schedule 2 of the Building (Minor\nWorks) Regulation (B(MW)R), the erection, alteration, repair or removal of any metal\nwindow security grille, or metal wind guard for an opening on an external wall of a\nbuilding meeting the description of building works under the B(MW)R is designated\nexempted works.\n\n                                                                                      /8 …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "8.           While there are no specific minor works (MW) items relating to grille or\nlouvre under the B(MW)R, if the grilles or louvres form part of an external cladding,\nserve as part or whole of a window/window wall or form part of a protective barrier, they\nmay be erected under the relevant MW items5 . Reference can be made to Schedule 1 of\nthe B(MW)R and PNAP APP-147 regarding the list of MW items and the simplified\nrequirements respectively.\n\n\n\n\n\n                                                             ( HO Chun-hung )\n                                              Building Authority\n\n\n\n\n\nRef. : BD GR/1-55/306\n\nFirst issue    December 2021\nThis revision January 2026  (AD/NB2) (Paragraphs 4 & 5 added and paragraph 7\n                                   amended)\n\n\n\n\n\n5  They are MW item 3.31 for external cladding, MW items 2.8 and 3.6 for window/window wall,\n   and MW item 1.6 for protective barrier."
+    }
+  ]
+}

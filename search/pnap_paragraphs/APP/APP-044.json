@@ -1,0 +1,56 @@
+{
+  "code": "APP-044",
+  "source_text": "indexed_text/PNAP/APP/APP-044.txt",
+  "source_pdf": "documents/PNAP/APP/APP-044.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized    APP-44\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers\n\n                            PRACTICE NOTE FOR AUTHORIZED PERSONS\nBUILDINGS ORDINANCE OFFICE                         AND REGISTERED STRUCTURAL ENGINEERS  118\n\n\n                                Streets in relation to Site Area\n                         Building (Planning) Regulation 23(2)(a)\n\n          When developing large areas of land  it  is often necessary to provide new\nstreets, and in some circumstances it is realized that this can have an inhibiting effect upon\nplanning considerations.   This particularly applies when the new  streets will enclose or\notherwise isolate areas of land so that the original site is divided into several separate sites."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.             In most such cases each new  site  is  usually developed  separately  to  its\nmaximum potential, and if any open space amenity areas or parks are provided these tend to be\nfragmented throughout the whole development project.  If a developer did wish to provide one\nlarge open park, on an island site, the plot ratio potential would thereby be `lost', and this\nimportant factor can sometimes be a deterrent to what might be better planning."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           There are, in the Buildings Ordinance, at present no explicit provisions which\npermit a `transfer' of plot ratio potential, such as in the park situation referred to above, and if\nsuch an arrangement was permitted there could often be inherent problems related to the\ninability under the Buildings Ordinance to prevent the park being subsequently developed with\nbuildings, causing an excess of building mass in the neighbourhood and an overloading of the\ninfrastructure."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.             In some cases, however, sites may be subject to effective planning controls in\naddition to the Buildings Ordinance, particularly in relation to enforceable lease control\ndrawings, Master Layout Plans, and conditional permissions under Town Planning Ordinance\nsection 16. Where these controls do exist, and a park is proposed on one site, consideration\nmay be given to the special circumstances of generally improved planning in respect of any\napplication submitted on Form 29 and possibly a higher plot ratio allowed on another site\nwithin a large development  project, and consequential adjustments of other  regulations,\nprovided this does not significantly impair specific planning requirements."
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          Where such a higher plot  ratio  is allowed, with or without consequential\nadjustments, any subsequent change in the control drawings, Master Layout Plans, or Town\nPlanning permission would naturally be opposed  if this would negate the benefits of any\npermission granted on Form 30.\n\n\n                                                      (A.G. Eason)\n                                                           Building Authority\nRef. : BLD(B) GP/BREG/P/11\n\nFirst issued February 1986\nThis update January 1990 (GBS/D)\n\nIndex under : B(P)R 23(2)(a) - Streets in relation to Site Area\n                Site Area\n                Streets in relation to Site Area"
+    }
+  ]
+}

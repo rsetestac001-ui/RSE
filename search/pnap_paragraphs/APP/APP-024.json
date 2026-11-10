@@ -1,0 +1,424 @@
+{
+  "code": "APP-024",
+  "source_text": "indexed_text/PNAP/APP/APP-024.txt",
+  "source_pdf": "documents/PNAP/APP/APP-024.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department    Registered Structural Engineers and        APP-24\n                          Registered Geotechnical Engineers\n\n\n               Railway Protection under Railways Ordinance,\n Mass Transit Railway (Land Resumption and Related Provisions) Ordinance and\n            Area Number 3 of the Scheduled Areas in Schedule 5\n                             to the Buildings Ordinance\n\n\n           As a result of the merger of the Mass Transit Railway Corporation and the\nKowloon-Canton Railway Corporation (KCRC) on 2 December 2007,  the MTR\nCorporation Limited (MTRCL) becomes the operator of all the railway lines in the\nterritory. The existing railway lines in operation are listed in Appendix A."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         To safeguard the safety and  stability of the railway structures and\nfacilities1, railway protection areas have been delineated and shown on relevant plans and\na set of building/engineering guidelines has been specified. A copy of the plans showing\nthe railway protection areas is available for viewing in MTRCL’s office by appointment\nvia email (RPNotify@mtr.com.hk).  Relevant information are available at MTRCL’s\nwebsite2."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.         As a general guide, the boundary of the railway protection areas is about\n30 m outside the outer surface of the railway structures and facilities or the railway\nfence/wall, or from the nearest rail if there is no railway fence/wall, but it may encompass\nthe whole of any lot where any part thereof lies within the 30 m distance. At the railway\nstations, the area enclosed by the boundary may be more extensive."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          The railway protection areas of some of the railway lines are designated\nas Area Number 3 of the scheduled areas in Schedule 5 to the Buildings Ordinance (BO).\nSuch protection areas are delineated and shown edged black on the plans as listed out in\nthe Schedule, which will be updated from time to time as and when necessary. A copy\nof these plans has been deposited in the Land Registry and is available for viewing in the\nBuilding Information Centre of the Buildings Department (BD) or BD’s website3 as\ndetailed in Practice Note for Authorized Persons, Registered Structural Engineers and\nRegistered Geotechnical Engineers (PNAP) APP-39.\n\n\n\n\n\n                                                                                                 /5. …\n\n1  The common types of railway structures and facilities comprise station structures, viaducts,\n   tunnels, platforms,  ventilation  shafts, overhead  line masts,  tracks,  ancillary  buildings,\n   underground cooling water mains or other utilities, etc.\n2  https://www.mtr.com.hk/en/corporate/operations/protection_boundary.html\n3  https://www.bd.gov.hk/en/resources/codes-and-references/scheduled-areas/index.html"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The guidelines at Appendices B and C apply to  all building works\n(including ground investigation works and underground drainage works) to be carried out\nin the railway protection areas. Ground investigation works and underground drainage\nworks in Area Number 3 of the scheduled areas are subject to additional control as stated\nin paragraphs 13 and 14 below. While the guidelines are not applicable to the part of the\nlot that lies outside the railway protection areas, authorized persons (AP)/registered\nstructural engineers (RSE)/registered geotechnical engineers (RGE) should ensure that\nbuilding works outside the railway protection areas will not cause any adverse effects or\ndamage to or render inadequate the factor of safety of any railway structures or facilities.\n\nBuilding Works"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.            Plans submitted to BD for proposed building works within the railway\nprotection areas will be circulated to MTRCL for their comment under the centralised\nprocessing arrangements.  Section 27 of the Railways Ordinance (RO) (Cap. 519) or\nsection 15 of the Mass Transit Railway (Land Resumption and Related Provisions)\nOrdinance (MTR(LR&RP)O) (Cap. 276) will be invoked to require the incorporation of\nany necessary measures to protect the railway lines."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          AP, RSE and RGE are required to monitor and assess the impact of any\nmovement, vibration and/or other effects induced by the building works on the railway\nstructures and facilities. A monitoring plan with particulars solely for monitoring the\nrailway structures and facilities should be included in the plans submitted to the Building\nAuthority (BA) for approval in respect of site formation works, foundation works,\nexcavation and lateral support works and other types of building works which would\ncause ground movement/vibration affecting the railway structures and facilities. Apart\nfrom obtaining consent for commencement of works from the BA, AP, RSE and RGE are\nrequired to inform MTRCL directly the commencement of any building works within the\nrailway protection areas, and send a copy of the monitoring records to MTRCL at\nbi-weekly intervals or at a frequency to be agreed by MTRCL during the whole process\nof the building works concerned. MTRCL will also plan an appropriate monitoring\nprogramme and will alert the parties concerned if any adverse situation of the railway\nstructures and facilities becomes apparent."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.             In addition to the monitoring of railway structures and facilities, AP, RSE\nand RGE should maintain regular contact with MTRCL and keep MTRCL informed of\nthe records of any necessary monitoring within and in the vicinity of the building site (e.g.\nmonitoring of piezometric change, ground movement) as necessary."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          The Director of Buildings may in writing, under the provisions of section\n12 of the MTR(LR&RP)O authorise an employee of MTRCL to enter any building site\nwithin the railway protection areas for the purpose of monitoring the construction works.\nAlternatively, the Secretary for Transport and Logistics may issue such notice under the\nprovisions of section 24 of the RO.\n\n\n\n                                                     /Communication …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\nCommunication and Announcement Mechanism for Private Construction Works\nwithin Railway Protection Areas"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.         BD, the Electrical and Mechanical Services Department (EMSD) and\nMTRCL have established a communication and announcement mechanism for private\nconstruction sites within railway protection areas."
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.          During  the  construction  of  a  private development  project,  if any\nmonitoring checkpoint within railway protection areas records a reading reaching the\npre-set limit for suspension of construction works set by BD or MTRCL, or in any other\ncircumstances where BD, EMSD or MTRCL considers the safety of railway structures,\nfacilities or operations has been so affected that warrants suspension of construction\nworks4, the three parties will notify each other immediately. A joint press release by BD\nand EMSD will be issued within 48 hours upon the suspension of works requested by\nBD, EMSD or MTRCL, or voluntarily initiated by AP/RSE of the development project.\nMTRCL will also issue a separate press release."
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.          For announcement of resumption of the suspended works, a joint press\nrelease by BD and EMSD will be issued within 48 hours after AP/RSE’s application for\nresumption of suspended works5 has been agreed by BD, EMSD and MTRCL.\n\nGround Investigation Works and Underground Drainage Works"
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "13.         The practice of monitoring building works being carried out above railway\nstructures has proved very effective and a number of potentially dangerous ground\ninvestigation operations have been  identified.   Particularly dangerous are ground\ninvestigation works where carelessness may result in the drill bit breaking through an\nunderground railway tunnel with the possibility of striking a train."
+    },
+    {
+      "id": "p14-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "14.         Ground investigation works within Area Number 3 of the scheduled areas\nrequire prior approval and consent from the BA. Plans prescribed under regulation 8(1)(l)\nof the Building (Administration) Regulations should be submitted and the proposals\nshould follow the guidelines at Appendix B.  Application for concurrent processing of\napproval and consent in respect of ground investigation works should follow PNAP\nADM-16. Apart from those underground drainage works which may be carried out under\nthe simplified requirements of the Minor Works Control System (MWCS) as mentioned\nin paragraph 16 below, underground drainage works in any building to be carried out in\nArea Number 3 of the scheduled areas are not exempted from application for approval\nand consent to commence works and are subject to the full provisions of the BO."
+    },
+    {
+      "id": "p15-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "15.           Proposals for ground investigation works or underground drainage works\nin or for any existing buildings to be carried out within railway protection areas other than\nthose designated as Area Number 3 of the scheduled areas should be forwarded to\nMTRCL for comment prior to commencement of the proposed works.\n\n                                                              /Minor …\n\n4  In  principle,  all works  that would  induce  adverse  impact on  the  affected  railway\n    structures/facilities should be suspended once the pre-set “Action” limit is reached. The extent\n   of works to be suspended may be predetermined and specified in the prescribed plans for the\n  BA’s approval.\n5   Partial resumption of the suspended works may be allowed if there are sufficient justifications\n   to ensure the safety of the railway structures, facilities and operations."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -\nMinor Works"
+    },
+    {
+      "id": "p16-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "16.         Upon  receipt  of  minor  works (MW)  submission  for  notice  of\ncommencement of Class I and Class II MW involving spread footing, excavation or\nunderground drainage works within Area Number 3 of the scheduled areas to be carried\nout under the simplified requirements of the MWCS, BD would forward a copy of the\nMW submission to MTRCL. MTRCL would then convey their comments to the\nprescribed building professionals (PBP)/prescribed registered contractors (PRC) directly.\nPBP/PRC should inform MTRCL and obtain their agreement before commencement of\nthe MW. Section 27 of the RO or section 15 of the MTR(LR&RP)O will be invoked in\ncase the proposed MW would be incompatible with any works for the construction,\nmaintenance or improvement of the railway and facilities or with the operation thereof.\n\nGuidelines for Registered Contractors"
+    },
+    {
+      "id": "p17-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "17.       A similar practice note has been issued to registered contractors.\n\n\n\n\n\n                                                               ( YU Po-mei, Clarice )\n                                                 Building Authority\n\n\n\n\n\nRef.: BD GP/BORD/67 (XI)\n    BD RAIL/29/78 (X)\n\nThis PNAP is previously known as PNAP 77\nFirst issue     April 1981\nLast revision  September 2020\nThis revision December 2022 (AD/NB2) (General revision)"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Appendix A\n                                                (PNAP APP-24)\n\n\n                        List of Railway Lines in Operation\n\n                           1.    Airport Express\n\n                           2.    Disneyland Resort Line\n\n                           3.    East Rail Line\n\n                           4.   High Speed Rail\n\n                           5.    Island Line\n\n                           6.   Kwun Tong Line\n\n                           7.    Light Rail\n\n                           8.    South Island Line\n\n                           9.   Tseung Kwan O Line\n\n                        10.  Tsuen Wan Line\n\n                        11.  Tuen Ma Line\n\n                        12.  Tung Chung Line\n\n\n\n\n\n(12/2022)"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix B\n                                                  (PNAP APP-24)\n\n\n                  Guidelines on Carrying Out Building Works\n                     Within Railway Protection Areas\n\nA.    General\n\n       All proposals for building and engineering works including utilities works within\n       the railway protection areas should be subject to special scrutiny of BD and other\n       relevant government departments in consultation with MTRCL prior to giving\n       approval to any plans and/or consent for the commencement and carrying out of\n      such works.  Every proposal should be assessed individually on its impact on\n       existing railway and related structures and facilities including all plants and\n        fixtures necessary for the safe operation of the railway and subject to satisfactory\n      compliance with the following technical requirements.\n\nB.     Design, Planning and Construction of Building Works within Railway\n       Protection Areas\n\n        (a)  Ground investigation works\n\n          Ground investigation proposals should include the following:\n\n                 (i)   Details  of  the  exploration  and  locations  of  the  proposed\n                   exploration  holes,   trial   pits,  trenches,   field   testing  or\n                  instrumentations relative to any railway structures and facilities\n                 whether inside or outside the lot;\n\n                 (ii)  Proposed depth of boreholes/drillholes, pits or trenches;\n\n                  (iii) A method statement for sinking boreholes/drillholes, excavating\n                        trial pits and trenches including back-filling, conducting field\n                    testing or installing instrumentation;\n\n               (iv) A   method   statement    for   checking    verticality   of\n                   boreholes/drillholes located within a distance of 10 m on plan of\n                any point of the underground railway structures and facilities,\n                 should boreholes/drillholes be sunk to a depth of 3 m from the\n                   highest point of the railway structures and facilities; and\n\n              (v)  A  method   statement   for   controlling   the   depth   of\n                   boreholes/drillholes to be sunk within a distance of 3 m on plan\n                  of any point of the underground railway structures and facilities.\n\n           Each proposal will also be judged against the requirements as specified in\n            item (b) below.\n\n\n                                                                                       /(b) …\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "(b)   Site formation, foundation and excavation works\n\n          Where site formation, foundation or excavation works, etc. are proposed\n            above, beneath or adjacent to railway structures and facilities, the following\n            requirements should be complied with:\n\n                 (i)   Unless prior special agreement of MTRCL has been obtained,\n               no pile, foundation, borehole/drillhole, well, soil nail, horizontal\n                    drain, rock bolt/dowel or other geotechnical installation should\n                be driven, constructed or installed within a distance of 3 m from\n                any point of the underground railway structures and facilities;\n\n                 (ii)   Unless prior special agreement of MTRCL has been obtained,\n                    piling works will not be permitted within 3 m on plan from the\n                  railway fence or wall along the railway structures and facilities,\n                  or 7 m on plan from the centreline of the nearest track when\n                   there is no railway fence or wall;\n\n                  (iii) Any part of an anchor, if allowed, should be more than 3 m away\n                from any part of a railway structure/facility, and the centroid of\n                   the fixed length of the anchor should be more than twice the\n                   fixed length away from any railway structures and facilities; and\n\n               (iv)  The vertical or horizontal pressure change on any underground\n                    structures and facilities due to the works, including excavation,\n                       filling, ground improvement, dewatering and field testing (such\n                   as plate loading test, pressure-meter test and packer test), and\n                due to the addition or reduction of loads transmitted from\n                  foundations (including any loads arising during construction),\n                 should not exceed 20 kPa1.\n\n        (c)   Demolition works\n\n          Where demolition and removal works for any structure which includes\n             scaffolding, advertising signs, container offices and buildings are proposed\n           above or adjacent to above-ground railway structures such as entrances,\n            vent  shafts, power  distribution  substations,  traction  substations, plant\n            rooms, overhead railway structures and at-grade railway tracks, effective\n           measures to protect the railway structures and facilities should be provided.\n\n        (d)  Building openings adjacent to railway ventilation facilities\n\n           There are certain restraints on the design of and making alteration to\n             properties in close proximity to railway ventilation facilities to minimise the\n              possibility of contamination by fire or smoke. In this connection, AP/RSE\n             are advised that any opening such as an openable or fixed window,\n\n                                                                /doorway …\n\n\n1  This 20kPa limit is set for avoiding any adverse effects on underground railway structures and\n   facilities. This limit may be reviewed on a case-by-case basis, subject to MTRCL’s and BD’s\n   acceptance when engineering approach is adopted.\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "doorway, building ventilation system intake or exhaust and the like in any\n      building should be located not closer than 5 m to the ventilation opening of\n     any railway ventilation facilities, irrespective of whether such ventilation\n       facilities are free-standing or accommodated in a building. This distance\n    may be reduced to 2.5 m, if the exhaust air from the railway ventilation\n       facilities is directed away from and is not likely to affect the opening by\n      natural convection.\n\n(e)   Scaffolding, advertising signs and projections\n\n      Erection of  scaffolding, working platforms,  advertising signs or any\n      projections at a level above the railway tracks should not be allowed within\n     a distance of 6 m on plan of any point of the railway tracks, without the\n     agreement of MTRCL. When such works are permitted to be carried out\n      within the 6 m limit, effective measures to protect the railway structures and\n       facilities should be provided.  According to individual circumstances, it\n    may be necessary for such works to be conducted outside the railway\n      operation hours.  All protective works should comply with the relevant\n     ordinances and their subsidiary regulations.\n\n(f)   Vertical greening systems\n\n    Any vertical greening systems should be located not closer than 5 m to the\n      ventilation opening of any railway ventilation facilities.\n\n(g)   Protection of open section railways from fallen objects\n\n     During the carrying out of the construction works, proper protection of the\n      railway tracks from fallen objects must be provided at all times by the\n      erection and maintenance of suitable hoardings, covered walkways and\n      gantry, and catch platform. Reference should be made to PNAP APP-102.\n    AP/RSE should take into consideration the risk of falling objects on the\n      railway track and adopt mitigation measures as appropriate.\n\n(h)  Flood protection\n\n     For a building that adjoins or is integrated with the railway structures and\n       facilities, its drainage system should be designed to prevent any possible\n      flooding arising from blockage of drains, bursting of water pipe, etc. from\n      entering the railway structures and facilities.\n\n     For construction sites adjacent to and/or adjoining railway structures and\n       facilities, an effective site drainage system should be provided to prevent\n     any foul and/or storm water from entering the railway structures and\n       facilities. Such flood protection measures should be agreed with MTRCL.\n\n\n\n\n\n                                                                                                  /(i) …\n\n                                                   - 3 -"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "(i)   Marine works\n\n         Any reclamation, dredging, laying of submarine pipes or other engineering\n           works to be carried out in proximity to the railway immersed tunnel and\n            marine structures should be submitted for approval in consultation with\n         MTRCL.\n\n          (j)  Sinking of wells\n\n            Sinking of wells within railway protection areas is building works subject\n              to the control of the BO including section 14(1) thereof. Before the carrying\n            out of the works, the approval of plans and consent for the commencement\n             of such works should be obtained from the BA.\n\nC.    Requirements  for Monitoring the  Effects on Railway Structures and\n        Facilities Arising from Building Works within Railway Protection Areas\n\n     AP/RSE/RGE may use one of the following approaches to monitor the effects on\n       railway structures and facilities arising from the proposed building works of a\n        specific site.  AP/RSE/RGE should take into full consideration not only the\n       affected railway structures and facilities, but also the proposed building works,\n       construction  sequence,  site  conditions,  geological  profiles,  precautionary\n      measures and other related factors in choosing which approach to be adopted. In\n       addition, AP/RSE/RGE should carefully predict the “Alert, Alarm, Action” levels\n        in order to minimise further changes during the construction stage which might\n       bring about unnecessary public concerns and construction hindrance.\n\n        (a)   Empirical approach\n\n             Different railway structures and facilities will have different tolerance in\n           accommodating movements, vibration and/or other effects. In the absence\n             of an engineering analysis agreed by MTRCL, the effect of building works\n           on railway structures and  facilities should not exceed the following\n             empirical limits2:\n\n                 (i)    Differential movement resulting from the works should not\n                 produce  angular  distortion  in any  railway  structures and\n                      facilities including the plinth or track in excess of 1 in 1 000 in\n                any plane or a total movement in any railway structures and\n                      facilities including the plinth or track exceeding 20 mm in any\n                   plane;\n\n                 (ii)  The induced  level  difference between  rails of a  track  in\n                  perpendicular plane resulting from the works should not exceed\n               5 mm;\n\n                                                                                                             /(iii) …\n\n\n2 A set of more stringent values may need to be adopted if the empirical limits are considered\n   insufficient to ensure the structural integrity, stability, serviceability and/or functionality of\n   the railway structures and facilities as well as the operational safety of railway (e.g. railway\n   structures with previous settlement records).\n\n                                                              - 4 -"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "(iii)  The maximum peak particle velocities (ppv) induced to any\n                  railway structures resulting from blasting (where permitted) and\n                from driving or withdrawing of piles or any similar operation\n                which can induce prolonged  vibration should  not exceed\n               25 mm/sec and 15 mm/sec respectively, when measured with a\n                  vibrograph;\n\n               (iv)  Vibration measured on  the overhead power  line mast, or\n                   signalling and telecommunication furniture of railway should\n                  not exceed the ppv of 10 mm/sec and the vibration amplitudes\n                 should not exceed 80 µm; and\n\n              (v)  While  the  requirements  for  controlling  vibrations  and\n                   settlements as specified in PNAP APP-137 should be followed,\n                   the “Alert”, “Alarm” and “Action” levels should be taken as\n                 approximately 50%, 75% and 100% respectively for movement,\n                and 60%, 80% and 100% respectively for vibration of such\n                  empirical limits. Hence, the levels to be adopted should be as\n                   follows:\n\n                   Criterion                Alert      Alarm      Action\n        Angular distortion in any plane       1:2 000       1:1 350       1:1 000\n         Total movement in any plane       10 mm      15 mm      20 mm\n         Level difference between rails of     2.5 mm       3.8 mm      5 mm\n         a track in perpendicular plane\n        ppv induced to any     blasting   15 mm/sec   20 mm/sec   25 mm/sec\n         railway structures                             prolonged   9 mm/sec   12 mm/sec   15 mm/sec\n                                  vibration\n         Vibration measured     ppv      6 mm/sec    8 mm/sec   10 mm/sec\n        on the overhead                                  vibration     48 µm      64 µm      80 µm        power line mast, or                              amplitude          signalling and\n         telecommunication\n          furniture of railway\n\n        (b)  Engineering approach\n\n         RSE/RGE may adopt engineering approach to establish a set of site-specific\n               limits3. RSE/RGE should include in the submission of plans a proposal of\n             preventive and mitigation measures to be implemented prior to and during\n             the works, and a detailed and comprehensive assessment on the effects of\n             the proposed works with respect to the integrity, stability, serviceability and\n             functionality of  the railway  structures and  facilities, as well  as  the\n\n                                                                          /operational …\n\n3  Subject to MTRCL’s and BD’s acceptance on a case-by-case basis, the engineering approach\n  may also be adopted for the assessment of any adverse effect on railway structures and\n    facilities.\n\n                                                              - 5 -"
+    },
+    {
+      "id": "page-11",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        11
+      ],
+      "text": "operational safety of the railway. Guidelines on the engineering approach\n             are given in Appendix C of this PNAP.\n\n          To facilitate early clearance of the basic design principles for adopting the\n            engineering approach before formal submission of plans, RSE/RGE should\n          make use of the pre-submission enquiry service  for obtaining BD’s\n            determination on the matters. BD may hold pre-submission conferences\n            with AP/RSE/RGE and invite representatives of government departments\n           and MTRCL to discuss and examine the issues and principles involved.\n\nD.    Other Requirements\n\n        (a)  Maintenance of road lamp standards\n\n         When road lighting tower maintenance vehicles are to be used to service\n            road lamp standards adjacent to railway tracks, the working equipment\n            should not be positioned closer to the railway tracks than the nearest part of\n             the road lamp standard where the height of the lamp standard is greater than\n             the height of the tracks.  If the working equipment is to be operated at a\n              level higher than 1 m above railway tracks and closer than 6 m from the\n            railway tracks, effective measures subject to the agreement of MTRCL\n            should be provided.  According to individual circumstances,  it may be\n            necessary for such works to be conducted outside the railway operation\n             hours.\n\n       (b)   Fire services/police vehicles\n\n          The operation of fire services/police vehicles adjacent to the railway tracks\n             or vent shafts under emergency situations should be in accordance with the\n           emergency  procedure  agreed  between MTRCL  and  the  respective\n             organisation.\n\n        (c)   Tree planting works\n\n            For tree planting works within railway protection areas, the respective\n             planting proposal should be sent to MTRCL for comment. The tree planting\n            proposal should provide an estimation of the sizes (including height and\n            spread width at maturity) of the proposed trees where possible. The tree\n             planting locations should be agreed by MTRCL such that collapse of tree\n             trunk or branches would not affect the railway operation, including the\n             supporting facilities (e.g. power supply, signalling system).  In addition,\n              trees should not be planted at a distance less than 2 m away from the nearest\n                rail of the unfenced railway section.\n\n\n\n\n\n                                                                                       /(d) …\n\n                                                              - 6 -"
+    },
+    {
+      "id": "page-12",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        12
+      ],
+      "text": "(d)  Operation of stationary lifting appliance and working equipment\n\n                 (i)   Where stationary lifting appliance (e.g. tower crane, hoist) are\n                   erected  adjacent  to  railway  tracks  and/or  above  ground\n                    structures and facilities; or mobile plant/lifting appliance (e.g.\n                   excavator, mobile crane, piling rigs) operating within 6 m on\n                  plan of railway structures and facilities with any part of the\n                  appliance higher than the railway track level; effective measures\n                    to  protect  the railway  structures and  facilities should be\n                  provided. All protective works should be subject to agreement\n                  of MTRCL. MTRCL may impose conditions on the operation\n                and  positioning  of  the  appliance and equipment  if  it  is\n                  considered that such operation and positioning may endanger\n                   the safe operation of the railway.\n\n                 (ii)  The arc in which the jib of lifting appliance swings should not\n                 encroach within 6 m of the railway tracks and/or above ground\n                    structures and facilities on plan except with the agreement of\n            MTRCL.  According to individual circumstances,  it may be\n                  necessary for such works to be conducted outside the railway\n                  operation hours.\n\n        (e)   Storage of materials\n\n         No materials, dangerous goods or other inflammable, containers, huts, etc.\n            should be  stored/placed/erected  within 6 m on  plan  of  the  railway\n              structures/tracks and ventilation openings without agreement of MTRCL.\n            Storage of dangerous goods or other inflammable materials should comply\n            with the relevant ordinances and their subsidiary regulations.\n\n         (f)   Utility works\n\n                 (i)    Utility trenches/pits which require excavation within the railway\n                   protection areas should not be carried out without the approval\n                  of the relevant government departments in consultation with\n            MTRCL.\n\n                 (ii)  When cables, ducts and pipes, etc. are to cross above or below\n                  railway overhead structures and facilities, the utility undertaking\n                 should submit to MTRCL details of the cables, ducts, pipes and\n                   the method of construction and seek agreement of MTRCL prior\n                    to the commencement of works. When utility works are to be\n                   carried out across the at-grade railway tracks, agreement from\n           MTRCL has to be sought before commencement of works.\n\n\n\n\n\n(Rev. 12/2022)\n\n\n\n                                                              - 7 -"
+    },
+    {
+      "id": "page-13-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        13
+      ],
+      "text": "Appendix C\n                                                  (PNAP APP-24)\n\n\n        Guidelines1 on Engineering Approach for Movement Control and\n    Assessment of the Effects on Railway Structures/Facilities and Operations\n\nObjective"
+    },
+    {
+      "id": "p1-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "1.   To control the effects induced to existing railway structures and facilities due to the\n     proposed building works to within a set of control limits determined by engineering\n     assessment and analysis.\n\nInformation Required for Adoption of Engineering Approach"
+    },
+    {
+      "id": "p2-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 104
+        },
+        {
+          "label": "b",
+          "offset": 206
+        },
+        {
+          "label": "c",
+          "offset": 339
+        },
+        {
+          "label": "d",
+          "offset": 472
+        },
+        {
+          "label": "e",
+          "offset": 730
+        }
+      ],
+      "text": "2.   The following information is required for conducting the engineering assessment\n     and analysis:\n\n      (a)  The existing ground and groundwater conditions, soil/rock parameters,\n              etc.;\n\n      (b)   As-built information, design assumptions and calculations of the affected\n           railway structures and facilities;\n\n      (c)   Historical movement records of the affected railway structures/facilities\n           obtained from MTRCL, if available;\n\n      (d)   Details of the proposed preventive and mitigation measures (e.g. ground\n          improvement works, temporary supporting works) together with a\n           discussion on their effectiveness, method of verification and limitations;\n          and\n\n      (e)  A structural appraisal report on the existing conditions of the affected\n           railway structures and facilities.\n\nPrecautionary and Preventive Measures"
+    },
+    {
+      "id": "p3-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 334
+        }
+      ],
+      "text": "3.   The engineering approach should be formulated to explore a combination of\n      different feasible precautionary and preventive measures to arrive at an optimal\n      design of the proposed building works for the most effective control of movements\n      of the railway structures and facilities. Examples include the following:\n\n      (a)   Re-planning of the proposed building works (e.g. alternative foundation\n          scheme, setback of foundations and/or excavation works);\n\n\n                                                                                           /(b) …\n\n\n1  The guidelines apply to ground/building movements.  RSE/RGE may follow the same\n   principles for assessment of any adverse effect on railway structures and facilities and devise\n   the necessary monitoring system.\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-14-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        14
+      ],
+      "text": "(b)  Ground improvement works (e.g. pre-grouting, post-grouting);\n\n      (c)   Enhanced  construction  methods  and  sequence   (e.g.  pre-boring,\n            pre-grouting, use of permanent casings for replacement type  piles,\n            limiting the number of drilling/pilling rigs operating concurrently in\n           close proximity, site specific control of air flushing pressure and drilling\n             rate and time during piling operations);\n\n      (d)  Enhanced excavation and  lateral support system  (e.g.  pre-loading,\n            additional  layers  of  strut/waling,  carrying  out  excavation  and\n           de-propping works zone by zone);\n\n      (e)   Providing sufficient observation and re-charge wells for monitoring and\n           maintaining the groundwater level; or\n\n       (f)   Provisions for enhancing water cut-off (e.g. vertical piled wall found at\n           deeper level, toe grouting).\n\nGround Movement Analysis"
+    },
+    {
+      "id": "p4-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "4.  A detailed ground movement analysis2 for each type and stage of the proposed\n     works with justifications of soil parameters and design assumptions adopted should\n     be submitted together with the prescribed plans.\n\nStructural Assessment on Railway Structures and Facilities"
+    },
+    {
+      "id": "p5-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "5.   As  different  railway  structures/facilities  have  different  tolerance  limits  in\n     accommodating movements, the acceptable level of movements may be different\n      for individual railway structures/facilities and the assessment should be considered\n     on a case-by-case basis."
+    },
+    {
+      "id": "p6-page-14",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        14
+      ],
+      "subparagraph_markers": [],
+      "text": "6.   The structural integrity, stability and functionality of railway structures/facilities\n      affected should be assessed for each critical stage of the proposed building works\n     based on the estimated values of ground movements and the ultimate and\n      serviceability limits of the affected railway structures/facilities in accordance with\n      recognised engineering principles and/or by making reference to item C(a)(v) of\n     Appendix B if applicable.\n\n\n\n\n\n                                                            /Formulation …\n\n2  The detailed ground movement analysis which also considers the effects on railway structures\n  and  facilities can be carried out using mathematics models and computer methods for\n   estimation and assessment purposes. If the ground movement induced by the site work cannot\n  be  predicted by  using  well  recognised  mathematics  models  or  computer  methods,\n  AP/RSE/RGE can estimate the ground movement by experience based on similar nature of\n  ground conditions and/or proposed construction methods, or by using conventional techniques\n   (e.g. trial installation on site) to estimate a certain degree of ground movement which will then\n  be submitted to MTRCL and BD for acceptance.\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-15-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        15
+      ],
+      "text": "Formulation of “Alert, Alarm, Action (AAA)” Trigger Values for Ground/Building\nMovement"
+    },
+    {
+      "id": "p7-page-15",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        15
+      ],
+      "subparagraph_markers": [],
+      "text": "7.   The combined effects of ground/building movement due to different types of the\n      construction works to be carried out concurrently within a construction site (e.g.\n      piling and excavation works being carried out concurrently) and the cumulative\n      effects at different critical stages of the construction works (e.g. vertical piled wall\n       installation, staged excavation and strutting installation in basement construction)\n     should be assessed. For effective monitoring and control of movements and/or any\n      other effects during the works, the construction process should be divided into a\n     number of critical stages taking due consideration of the construction sequence and\n     procedures such that the estimated movement in each critical stage should not be\n      less than 10% or more than 50% of the estimated total movement of the particular\n      construction works.\n\n      In addition, the AAA trigger values for each critical stage of works should be set\n     according to the criteria below based on the results of ground movement analysis\n     and structural assessment:\n\n     “Alert”  –  50% of the estimated movement for a particular critical stage of\n                works plus the total estimated movement for the previous critical\n                    stage(s)\n    “Alarm” –   Except the  last  critical stage of works, 100% of the estimated\n               movement for a particular critical stage of works plus the total\n                  estimated movement for the previous critical stage(s).  For the last\n                      critical stage of works, it should be taken as the mean value of the\n                  “Alert” and “Action” levels\n    “Action” –  100% of the estimated  total movement upon completion of  all\n                   building works concerned\n\n\n\n\n\n                                                                                                /8. …\n\n\n                                                              - 3 -"
+    },
+    {
+      "id": "p8-page-16",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        16
+      ],
+      "subparagraph_markers": [],
+      "text": "8.  A breakdown of the AAA trigger values for each critical stage of the proposed\n      building works (typical example for movement as shown in the table below) should\n     be shown on the monitoring plan included in the prescribed plans submitted to the\n   BA for approval under the BO and agreement by MTRCL.\n\n   Critical    Type of    Estimated                                           Alert           Alarm           Action   Stage     Works   Movement^\n              Grouting        a\n     1                                    0.5(a+b)            a+b\n             Sheet Piling      b\n             Foundation     2                       c          a+b+0.5c           a+b+c             (Zone 1)\n             Foundation                                                                    a+b+c+d+e+f     3                    d        a+b+c+0.5d        a+b+c+d             (Zone 2)\n            ELS     4                       e       a+b+c+d+0.5e      a+b+c+d+e             (Stages 1-3)\n            ELS     5                              f      a+b+c+d+e+0.5f   a+b+c+d+e+0.75f             (Stages 4-6)\n     ^   Each estimated movement should be not less than 10% and not more than 50% of the\n          estimated total movement upon completion of all building works concerned.\n\nMonitoring and Evaluation"
+    },
+    {
+      "id": "p9-page-16",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        16
+      ],
+      "subparagraph_markers": [],
+      "text": "9.   The initial readings of all monitoring checkpoints should be measured by an\n     independent qualified survey team. A report with photographs showing the\n      installation of these monitoring checkpoints with a summary of the initial readings\n     should be submitted to BD and MTRCL prior to the commencement of the building\n     works concerned. The movement readings should be verified by the independent\n      qualified survey team and submitted to BD and MTRCL according to the\n      requirements and intervals as specified in BD’s approval letter upon approval of\n      plans."
+    },
+    {
+      "id": "p10-page-16",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        16
+      ],
+      "subparagraph_markers": [],
+      "text": "10.  The assessment on railway structures and facilities should be regularly reviewed to\n      take into consideration of the actual movements recorded and, if necessary, an\n     updated analysis should be conducted.  Consent to the commencement of the\n      building works concerned may be given by the BA on a stage-by-stage basis subject\n      to satisfactory review results. RSE/RGE should conduct the necessary review\n     promptly to facilitate timely consent application such that the staged consents\n     would be obtained from the BA without impeding site progress.\n\nEngineering Appraisal of Railway Equipment"
+    },
+    {
+      "id": "p11-page-16",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        16
+      ],
+      "subparagraph_markers": [],
+      "text": "11.  AP/RSE/RGE should submit to MTRCL for agreement an engineering appraisal\n      report to assess the anticipated impact on all existing railway equipment (e.g. track\n     works, power supply equipment, signalling equipment) within the affected zone to\n      ensure the safe operation of the railway.\n\n\n\n(12/2022)\n\n                                                              - 4 -"
+    }
+  ]
+}

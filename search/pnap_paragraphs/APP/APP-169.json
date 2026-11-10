@@ -1,0 +1,439 @@
+{
+  "code": "APP-169",
+  "source_text": "indexed_text/PNAP/APP/APP-169.txt",
+  "source_pdf": "documents/PNAP/APP/APP-169.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-169\n                          Registered Geotechnical Engineers\n\n\n               Strength Tests for Structural Fixings in Concrete\n\n\n            In  giving  approval  of  plans  involving  drilled-in  anchors  or  grouted\nbolts/dowels/reinforcing steel bars (the structural fixings), the Building Authority may\nimpose a condition under item 6 of section 17(1) of the Buildings Ordinance for the\ncarrying out of strength tests on a representative number of the structural fixings.\nCorresponding method statement on the strength tests is required to be submitted to the\nBuildings Department (BD) for agreement. Some commonly accepted method statements\nspecifying the testing requirements, apparatus setup, testing procedures, acceptance\ncriteria and presentation of results are provided in Appendices A to C:\n\n           Appendix A - Strength  test  for  drilled-in  anchors  used  for\n                            cantilevered structure/hanger/curtain wall remedial\n                         works;\n\n           Appendix B - Strength test for drilled-in anchors used for works\n                            other  than  cantilevered  structure/hanger/curtain\n                          wall remedial works; and\n\n           Appendix C - Strength test for cementitious or polymer based\n                          grouted bolts/dowels/reinforcing bars works or steel\n                   T  bolts with  cast-in channels used  for  curtain\n                           wall/cladding works."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        To streamline the submission process, where the tests are to be carried out in\naccordance with the pre-accepted method statement given in Appendix A, B or C, RSE\nmay quote the relevant Appendix in the submitted plans for approval and submission of\nthe method statement will not be required.  If an alternative method statement other than\nthat specified in the Appendix A, B or C is proposed, RSE is required to submit the\nproposed method statement of the test to BD for agreement.\n\n\n\n\n\n                                                             ( YU Po-mei, Clarice )\n                                                Building Authority\n\n\nRef. : BD GR/1-50/99\n\nFirst issue    October 2023 (AD/NB2)"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "Appendix A\n                                                 (PNAP APP-169)\n\n\n                 Strength Test for Drilled-in Anchors used for\n         Cantilevered Structure/Hanger/Curtain Wall Remedial Works\n\n\n          The tensile and/or shear recommended load(s) of each type of drilled-in\nanchors as specified by the anchor manufacturer should be verified by means of proof\nload test."
+    },
+    {
+      "id": "p2-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 34
+        },
+        {
+          "label": "b",
+          "offset": 177
+        },
+        {
+          "label": "c",
+          "offset": 369
+        }
+      ],
+      "text": "2.           Testing requirements\n\n      (a)    Sampling rate should be at least 5% or 5 numbers, whichever is\n            more, of each type and size of the anchors installed;\n\n      (b)    Each representative anchor should be tested for tensile load by\n              tensile proof load test and/or shear load by shear proof load test\n             as appropriate; and\n\n      (c)    Test load should not be less than 1.5 times the recommended load\n             of the anchor as specified by the anchor manufacturer."
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 65
+        },
+        {
+          "label": "b",
+          "offset": 241
+        },
+        {
+          "label": "c",
+          "offset": 527
+        },
+        {
+          "label": "d",
+          "offset": 793
+        }
+      ],
+      "text": "3.          Apparatus setup\n\n            Tensile proof load test\n\n      (a)   An axial tensile force is applied to the test anchor by means of a\n            loading frame acting through an attachment suitable to the test\n            anchor;\n\n      (b)   The supports of the loading frame are located on the base material\n              in equal distance and at least 8A from the axis of the test anchor\n          (A is the hole diameter of the test anchor or 1/4 of the embedded\n              length, whichever is the greater);\n\n      (c)    The loading frame is aligned to ensure axial application of the\n             applied tensile force concentrically to the test anchor with suitable\n            load measuring device is used and capable of measuring to an\n            accuracy of 2%; and\n\n      (d)    Suitable measuring equipment  is fixed to the base material,\n            independent of the loading frame, at least 12A from the axis of\n             the  test  anchor  and  capable  of  measuring  the  relative\n            displacement between the head of the test anchor and the base\n             material to an accuracy of 0.02mm.\n\n\n                                                                    /Shear ...\n\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Shear proof load test\n\n(e)   A shear force is applied to the test anchor by means of a loading\n      frame acting through a  steel block to the  test anchor with\n       requirements on the steel block as follows: -\n\n         (i)    The steel block has a diameter equal to 5d and a thickness\n              equal to d + 0.8mm, where d is the outside diameter of the\n               part of the test anchor that projects from the surface of the\n             base material;\n\n          (ii)   The steel block has a clearance hole located in the centre\n               for the test anchor with diameter as tabulated below:\n\n               Nominal diameter of test                                                         10, 12, 14, 16,                  anchor, dnom                 6, 8                         27, 30                                                         18, 20, 22, 24              (mm)\n                Diameter of clearance\n                  hole in the steel block      dnom + 1    dnom + 2         dnom + 3\n              (mm)\n\n          (iii)   The steel block is made of quenched steel with hardness\n              not worse than HV700 or equivalent and have radiused\n             edges (0.4mm) where in contact with the test anchor.\n\n(f)    The steel block is located over the test anchor and directly on the\n       surface of the base material without any interfacing.  Before\n       tightening the test anchor, the steel block is positioned so that the\n       clearance of the projecting part of the test anchor in the bush\n      allowed movement of the plate when the load is applied;\n\n(g)    Loading frame is aligned to ensure application of shear force\n        parallel with the surface of the base material by a suitable rod or\n        bar.  A   sheet   of   low    friction   material   such   as\n       polytetrafluoroethylene (PTFE), not exceeding 2mm in thickness,\n         is inserted between the base material and the rig. Suitable load\n      measuring device is used and capable of measuring to an accuracy\n       of 2%;\n\n(h)   The reaction to the load is located at a distance of at least 8A (A\n         is the hole diameter of the test anchor or 1/4 of the embedded\n       length, whichever is the greater) either side of the test anchor,\n      measured at right angles to the direction of loading; and\n\n(i)    The  measuring  instrument  is  fixed  to  the  base  material,\n       independent of the loading frame, at least 6A from the axis of the\n        test anchor and capable of measuring the movement of the steel\n       block parallel to the direction of the applied force to an accuracy\n       of 0.02mm.\n\n\n                                                                                          /4. …\n\n                                                     - 2 -"
+    },
+    {
+      "id": "p4-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 32
+        },
+        {
+          "label": "b",
+          "offset": 217
+        },
+        {
+          "label": "c",
+          "offset": 684
+        },
+        {
+          "label": "d",
+          "offset": 954
+        },
+        {
+          "label": "e",
+          "offset": 1395
+        },
+        {
+          "label": "f",
+          "offset": 1592
+        },
+        {
+          "label": "g",
+          "offset": 1712
+        }
+      ],
+      "text": "4.           Testing procedures\n\n      (a)     Prior to the test, visual inspection is carried out for the test anchor\n           and  its  surrounding  area  for  abnormality/irregularity/defect/\n             crack;\n\n      (b)   An initial force not exceeding 1% of the test load is applied to\n             take up any slack in the apparatus and attachment. For case of\n             shear proof load test, prior to application of the initial force, the\n               test anchor is only hand-tightened and while the initial force is\n            maintained, the test anchor is tightened to the manufacturer’s\n          recommended torque, with the initial force released afterwards;\n\n      (c)    The test anchor is loaded to the test load either continuously at a\n              rate of between 9N/(mm2s) and 11N/(mm2s) or incrementally by\n               at least 10 equal increments and the readings of the load and\n            displacement are taken;\n\n      (d)   The applied load is maintained at the maximum test load for at\n               least one hour, and the readings of load and displacement are\n            taken at the beginning and end of this period to establish whether\n             the tested anchor is subject to creep and relaxation of load under\n               this maximum test load. The reading should only be taken when\n                   it has become completely stable;\n\n      (e)    The  applied  load  is  then  gradually  released  in  at  least 5\n            decrements for incremental load case or at constant rate for\n            continuous load case, to zero;\n\n       (f)    The displacement after removal of all loads  (i.e. recovery of\n            deformation) is recorded; and\n\n      (g)   The tested anchor and its surrounding area are inspected and any\n             signs of separation, plastic deformation or deleterious effect are\n             recorded."
+    },
+    {
+      "id": "p5-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 32
+        },
+        {
+          "label": "b",
+          "offset": 190
+        }
+      ],
+      "text": "5.          Acceptance criteria\n\n      (a)    The tested anchor and its surrounding area should not have any\n             signs of separation, plastic deformation or deleterious effect; and\n\n      (b)    Recovery of the deformation after removal of all loads should be\n               at least 80% of the total deformation at the maximum test load."
+    },
+    {
+      "id": "p6-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 37
+        }
+      ],
+      "text": "6.           Presentation of results\n\n      (a)    Each test is reported individually by plotting a graph of the force\n             applied to the test anchor against displacement;\n\n\n                                                                                           /(b) …\n\n\n                                                              - 3 -"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "(b)    Description of the behaviour of the testing assembly throughout\n             the test is required to be provided. The behaviours may include,\n            but not limited to, the following:\n\n                 (i)   movement of test anchor by slipping in its pre-drilled hole;\n\n                 (ii)   onset of cracking in the base material;\n\n                  (iii)  rupture  of  base  material,  differentiating between  the\n                    characteristic mode of failure in which a roughly conical\n                 block of material surrounding the test anchor is pulled away\n                and splitting of the material through the plane of the test\n                  anchor;\n\n               (iv)  tensile/shear fracture of the test anchor; and\n\n              (v)   deformation of the component parts of the test anchor, e.g.\n                  thread stripping.\n\n      (c)   When failure occurs before attaining the maximum test load or\n             specified holding period, the failure load or holding time and the\n             nature of failure should be recorded.\n\n\n\n\n(10/2023)\n\n\n\n\n\n                                                              - 4 -"
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix B\n                                                 (PNAP APP-169)\n\n\n         Strength Test for Drilled-in Anchors used for Works other than\n         Cantilevered Structure/Hanger/Curtain Wall Remedial Works\n\n\n          The tensile and/or shear recommended load(s) of each type of drilled-in\nanchors as specified by the anchor manufacturer should be verified by means of proof\nload test."
+    },
+    {
+      "id": "p2-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 34
+        },
+        {
+          "label": "b",
+          "offset": 177
+        },
+        {
+          "label": "c",
+          "offset": 369
+        }
+      ],
+      "text": "2.           Testing requirements\n\n      (a)    Sampling rate should be at least 1% or 5 numbers, whichever is\n            more, of each type and size of the anchors installed;\n\n      (b)    Each representative anchor should be tested for tensile load by\n              tensile proof load test and/or shear load by shear proof load test\n             as appropriate; and\n\n      (c)    Test load should not be less than 1.5 times the recommended load\n             of the anchor as specified by the anchor manufacturer."
+    },
+    {
+      "id": "p3-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 65
+        },
+        {
+          "label": "b",
+          "offset": 241
+        },
+        {
+          "label": "c",
+          "offset": 531
+        },
+        {
+          "label": "d",
+          "offset": 827
+        }
+      ],
+      "text": "3.          Apparatus setup\n\n            Tensile proof load test\n\n      (a)   An axial tensile force is applied to the test anchor by means of a\n            loading frame acting through an attachment suitable to the test\n            anchor;\n\n      (b)   The supports of the loading frame are located on the base material\n              in equal distance and at least 8A from the axis of the test anchor\n          (A is the hole diameter of the test anchor or 1/4 of the embedded\n              length, whichever is the greater); and\n\n      (c)    The loading frame is aligned to ensure axial application of the\n             applied tensile force concentrically to the test anchor with suitable\n            load measuring device is used and capable of measuring to an\n            accuracy of 2%.\n\n           Shear proof load test\n\n      (d)   A shear force is applied to the test anchor by means of a loading\n           frame acting through a  steel block to the  test anchor with\n            requirements on the steel block as follows: -\n\n\n\n                                                                                                            /(i) …\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "(i)    The steel block has a diameter equal to 5d and a thickness\n                   equal to d + 0.8mm, where d is the outside diameter of the\n                     part of the test anchor that projects from the surface of the\n                   base material;\n\n\n                 (ii)   The steel block has a clearance hole located in the centre\n                     for the test anchor with diameter as tabulated below:\n\n                     Nominal diameter of test                                                                10, 12, 14, 16,                         anchor, dnom                  6, 8                         27, 30                                                                18, 20, 22, 24                   (mm)\n                       Diameter of clearance\n                        hole in the steel block       dnom + 1    dnom + 2         dnom + 3\n                   (mm)\n\n                  (iii)   The steel block is made of quenched steel with hardness\n                   not worse than HV700 or equivalent and have radiused\n                  edges (0.4mm) where in contact with the test anchor.\n\n      (e)    The steel block is located over the test anchor and directly on the\n             surface of the base material without any interfacing. Before\n             tightening the test anchor, the steel block is positioned so that the\n             clearance of the projecting part of the test anchor in the bush\n            allowed movement of the plate when the load is applied;\n\n       (f)    Loading frame is aligned to ensure application of shear force\n              parallel with the surface of the base material by a suitable rod or\n              bar.  A   sheet   of   low    friction   material   such   as\n             polytetrafluoroethylene (PTFE), not exceeding 2mm in thickness,\n                is inserted between the base material and the rig. Suitable load\n           measuring device is used and capable of measuring to an accuracy\n             of 2%; and\n\n      (g)   The reaction to the load is located at a distance of at least 8A (A\n                is the hole diameter of the test anchor or 1/4 of the embedded\n              length, whichever is the greater) either side of the test anchor,\n           measured at right angles to the direction of loading."
+    },
+    {
+      "id": "p4-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 32
+        },
+        {
+          "label": "b",
+          "offset": 217
+        }
+      ],
+      "text": "4.           Testing procedures\n\n      (a)     Prior to the test, visual inspection is carried out for the test anchor\n           and  its  surrounding  area  for  abnormality/irregularity/defect/\n             crack;\n\n      (b)   An initial force not exceeding 1% of the test load is applied to\n             take up any slack in the apparatus and attachment. For case of\n             shear proof load test, prior to application of the initial force, the\n               test anchor is only hand-tightened and while the initial force is\n            maintained, the test anchor is tightened to the manufacturer’s\n          recommended torque, with the initial force released afterwards;\n\n                                                                                               /(c) …\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "(c)    The test anchor is loaded at a constant rate to the maximum test\n            load and maintained for at least 2 minutes;\n\n      (d)   The applied load is then gradually released at a constant rate; and\n\n      (e)    The tested anchor and its surrounding area are inspected and any\n             signs of separation, plastic deformation or deleterious effect are\n             recorded."
+    },
+    {
+      "id": "p5-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 32
+        }
+      ],
+      "text": "5.          Acceptance criteria\n\n      (a)    The tested anchor and its surrounding area should not have any\n             signs of separation, plastic deformation or deleterious effect."
+    },
+    {
+      "id": "p6-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 37
+        },
+        {
+          "label": "v",
+          "offset": 802
+        },
+        {
+          "label": "b",
+          "offset": 919
+        }
+      ],
+      "text": "6.           Presentation of results\n\n      (a)    Description of the behaviour of the testing assembly throughout\n             the test is required to be provided. The behaviours may include,\n            but not limited to, the following:\n\n                 (i)   movement of test anchor by slipping in its pre-drilled hole;\n\n                 (ii)   onset of cracking in the base material;\n\n                  (iii)  rupture  of  base  material,  differentiating between  the\n                    characteristic mode of failure in which a roughly conical\n                 block of material surrounding the test anchor is pulled away\n                and splitting of the material through the plane of the test\n                  anchor;\n\n               (iv)  tensile/shear fracture of the test anchor; and\n\n              (v)   deformation of the component parts of the test anchor, e.g.\n                  thread stripping.\n\n      (b)   When failure occurs before attaining the maximum test load or\n             specified holding period, the failure load or holding time and the\n             nature of failure should be recorded.\n\n\n\n\n\n(10/2023)\n\n\n\n\n\n                                                              - 3 -"
+    },
+    {
+      "id": "page-9-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Appendix C\n                                                 (PNAP APP-169)\n\n\n           Strength Test for Cementitious or Polymer Based Grouted\n                    Bolts/Dowels/Reinforcing Bars Works or\n    Steel T Bolts with Cast-in Channels used for Curtain Wall/Cladding Works\n\n\n          The tensile and/or shear recommended load(s) of each type of grouted\nbolts/dowels/reinforcing  bars/T  bolts  with  cast-in  channels  as  specified by  the\nmanufacturer should be verified by means of proof load test."
+    },
+    {
+      "id": "p2-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 34
+        },
+        {
+          "label": "b",
+          "offset": 334
+        },
+        {
+          "label": "c",
+          "offset": 570
+        }
+      ],
+      "text": "2.           Testing requirements\n\n      (a)    Sampling rate should be at least 1% or 5 numbers, whichever is\n            more,  of  each  type,  size and embedment  of  the  grouted\n             bolts/dowels/reinforcing bars installed or each type and size of the\n            assemblies of T bolts with cast-in channels (Assembly);\n\n      (b)    Each  representative  grouted  bolt/dowel/reinforcing  bar  or\n           Assembly should be tested for tensile load by tensile proof load\n               test and/or shear load by shear proof load test as appropriate; and\n\n      (c)    Test load should not be less than 1.5 times the recommended load\n             as specified by the manufacturer."
+    },
+    {
+      "id": "p3-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 65
+        },
+        {
+          "label": "b",
+          "offset": 339
+        },
+        {
+          "label": "c",
+          "offset": 823
+        }
+      ],
+      "text": "3.          Apparatus setup\n\n            Tensile proof load test\n\n      (a)   An  axial  tensile  force   is  applied  to  the   test  grouted\n             bolt/dowel/reinforcing bar/Assembly by means of a loading\n           frame  acting  through  an  attachment  suitable  to  the  test\n             bolt/dowel/reinforcing bar/Assembly;\n\n      (b)   The supports of the loading frame are located on the base material\n              in equal distance and at least 8A from the axis of the test grouted\n             bolt/dowel/reinforcing bar (A is the maximum diameter of the test\n            grouted bolt/dowel/reinforcing bar or 1/4 of the embedded length,\n            whichever is the greater) or 2hef from the axis of the test Assembly\n                (hef is the effective embedment depth of the cast-in channels); and\n\n      (c)    The loading frame is aligned to ensure axial application of the\n             applied  tensile  force  concentrically  to  the   test  grouted\n             bolt/dowel/reinforcing   bar/Assembly   with   suitable   load\n           measuring device is used and capable of measuring to an accuracy\n             of 2%.\n\n\n                                                                    /Shear …\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Shear proof load test\n\n(d)  A shear force is applied to the test grouted bolt/dowel/reinforcing\n      bar/Assembly by means of a loading frame acting through a steel\n       block to the test grouted bolt/dowel/reinforcing bar/Assembly\n       with requirements on the steel block as follows: -\n\n         (i)    The steel block has a diameter equal to 5d and a thickness\n              equal to d + 0.8mm, where d is the outside diameter of the\n               part of the test grouted bolt/dowel/reinforcing bar/T bolt\n                that projects from the surface of the base material;\n\n          (ii)   The steel block has a clearance hole located in the centre\n               for the test grouted bolt/dowel/reinforcing bar/T bolt with\n              diameter as tabulated below:\n\n               Nominal diameter of test\n                  grouted                                                         10, 12, 14, 16,                   bolt/dowel/reinforcing      6, 8                         27, 30                                                         18, 20, 22, 24                  bar/T bolt, dnom\n              (mm)\n                Diameter of clearance\n                  hole in the steel block      dnom + 1    dnom + 2         dnom + 3\n              (mm)\n\n          (iii)   The steel block is made of quenched steel with hardness\n              not worse than HV700 or equivalent and have radiused\n             edges  (0.4mm)  where   in  contact  with  the   test\n              bolt/dowel/reinforcing bar/T bolt.\n\n(e)    The   steel   block   is   located   over   the   test   grouted\n       bolt/dowel/reinforcing bar/Assembly and directly on the surface\n       of the base material without any interfacing. The steel block is\n       positioned so that the clearance of the projecting part of the test\n       grouted bolt/dowel/reinforcing bar/Assembly in the bush allowed\n      movement of the plate when the load is applied;\n\n(f)    Loading frame is aligned to ensure application of shear force\n        parallel with the surface of the base material by a suitable rod or\n        bar.  A   sheet   of   low    friction   material   such   as\n       polytetrafluoroethylene (PTFE), not exceeding 2mm in thickness,\n         is inserted between the base material and the rig. Suitable load\n      measuring device is used and capable of measuring to an accuracy\n       of 2%; and\n\n(g)   The reaction to the load is located at a distance of at least 8A (A\n         is the hole diameter of the test grouted bolt/dowel/reinforcing bar\n       or 1/4 of the embedded length, whichever is the greater) or 2hef\n         (hef is the effective embedment depth of the cast-in channel) either\n       side of the test grouted bolt/dowel/reinforcing bar/Assembly,\n      measured at right angles to the direction of loading.\n\n\n                                                                                          /4. …\n\n                                                     - 2 -"
+    },
+    {
+      "id": "p4-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 32
+        },
+        {
+          "label": "b",
+          "offset": 250
+        },
+        {
+          "label": "c",
+          "offset": 392
+        },
+        {
+          "label": "d",
+          "offset": 582
+        },
+        {
+          "label": "e",
+          "offset": 663
+        }
+      ],
+      "text": "4.           Testing procedures\n\n      (a)     Prior to the test, visual inspection is carried out for the test grouted\n             bolt/dowel/reinforcing bar/Assembly and its surrounding area for\n             abnormality/irregularity/defect/crack;\n\n      (b)   An initial force not exceeding 1% of the test load is applied to\n             take up any slack in the apparatus and attachment;\n\n      (c)    The test grouted bolt/dowel/reinforcing bar/Assembly is loaded\n               at a constant rate to the maximum test load and maintained for at\n               least 2 minutes;\n\n      (d)   The applied load is then gradually released at a constant rate; and\n\n      (e)    The tested grouted bolt/dowel/reinforcing bar/Assembly and its\n            surrounding area are inspected and any signs of separation, plastic\n            deformation or deleterious effect are recorded."
+    },
+    {
+      "id": "p5-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 32
+        }
+      ],
+      "text": "5.          Acceptance criteria\n\n      (a)    The  tested  grouted  bolts/dowels/reinforcing  bars/Assemblies\n            should not show any signs of separation, plastic deformation or\n             deleterious effect."
+    },
+    {
+      "id": "p6-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 37
+        },
+        {
+          "label": "v",
+          "offset": 990
+        }
+      ],
+      "text": "6.           Presentation of results\n\n      (a)    Description of the behaviour of the testing assembly throughout\n             the test is required to be provided. The behaviours may include,\n            but not limited to, the following:\n\n                 (i)   movement of test grouted bolt/dowel/reinforcing bar by\n                   slipping in its pre-drilled hole;\n\n                 (ii)   onset of cracking in the base material;\n\n                  (iii)  rupture  of  base  material,  differentiating between  the\n                    characteristic mode of failure in which a roughly conical\n                 block of material surrounding the test grouted bolt/dowel/\n                   reinforcing bar/Assembly is pulled away and splitting of the\n                   material through the plane of the test grouted bolt/dowel/\n                   reinforcing bar/Assembly;\n\n               (iv)  tensile/shear fracture of the test bolt/dowel/reinforcing bar/\n                Assembly;\n\n              (v)   deformation of the test grouted bolt/dowel/reinforcing bar\n                  or the component parts of the test Assembly; and\n\n               (vi)  failure or rebar/anchor legs attached to the cast-in channel.\n\n                                                                                           /(b) …\n\n\n                                                              - 3 -"
+    },
+    {
+      "id": "page-12",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        12
+      ],
+      "text": "(b)   When failure occurs before attaining the maximum test load or\n             specified holding period, the failure load or holding time and the\n             nature of failure should be recorded.\n\n\n\n\n\n(10/2023)\n\n\n\n\n\n                                                              - 4 -"
+    }
+  ]
+}

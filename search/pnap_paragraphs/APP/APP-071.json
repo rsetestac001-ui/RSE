@@ -1,0 +1,39 @@
+{
+  "code": "APP-071",
+  "source_text": "indexed_text/PNAP/APP/APP-071.txt",
+  "source_pdf": "documents/PNAP/APP/APP-071.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-71\n\n                                     Practice Note for Authorized Persons\nBuildings Department                                                   177                              and Registered Structural Engineers\n\n\n\n                       Underground Cavern Development\n\n\n               In 1988, Government commissioned a study on a number of potential uses of\nunderground space (SPUN) : container port back-up facilities in the form of a container freight\nstation and tractor and  trailer park,  oil and gas storage, sewage treatment works, refuse\ntransfer station, warehousing, commercial, government, institution and community space. The\nstudy confirmed that the use of underground caverns is a viable alternative to construction\nabove ground and could confer significant environmental benefit."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 188
+        },
+        {
+          "label": "b",
+          "offset": 437
+        },
+        {
+          "label": "c",
+          "offset": 638
+        }
+      ],
+      "text": "2.           With the experience from the study and from  local construction of deep\nbasements,  tunnels and  caverns, we have  developed some  initial  guidance on  cavern\nconstruction :\n\n        (a)    Geoguide  4, \"Guide  to Cavern Engineering\",  published  in\n            March 1992, offers a recommended standard of good practice\n               for the civil engineering aspects of rock cavern applications in\n           Hong Kong.\n\n        (b)    Chapter  11  of  the Hong Kong  Planning  Standards  and\n              Guidelines  provides  planning  standards  and  guidelines  for\n             underground rock cavern development.\n\n        (c)    \"Guide to Fire Safety Design for Caverns 1994\", published in\n                 late 1994, gives design guidelines on fire safety in underground\n               caverns.\n\n\n\n\n\n                                                             (Helen C P Lai YU)\n                                                                 Building Authority\n\n\nRef. : BD GR/CC/172\n\nFirst issued April 1995 (AD/SE, GGE)\n\nIndex under : Underground caverns\n             Underground construction"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "code": "APP-133",
+  "source_text": "indexed_text/PNAP/APP/APP-133.txt",
+  "source_pdf": "documents/PNAP/APP/APP-133.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n                                                       APP-133Persons, Registered Structural Engineers and Registered Geotechnical Engineers\n\n                                    Practice Note for Authorized Persons\n Buildings Department                                                282                             and Registered Structural Engineers\n\n\n                      Cast Iron Pipes for Drainage Works\n\n           Cast iron (C.I.) pipes in some existing buildings have presented premature\n rusting, leakage and corroded metal fixing supports.  This  is unsatisfactory from\n public  safety,  health and environmental hygiene  point  of view.  The following\n guidelines are provided for authorised persons in specifying the quality and choice of\n C.I. pipes in their projects:\n\n        (a)   All pipes and  fittings  shall be in accordance with the relevant British\n           Standards Specifications or other equivalent standards.  (For example, BS\n            416:Part 1 or BS EN877 for C.I. pipes for above-ground drains; BS 437 or\n         BS 4622 for underground system and above-ground drains larger than\n        150mm diameter.)\n\n       (b)  The pipes and fittings should be suitably coated internally and externally to\n            prevent corrosion. When cold applied bitumen-based coating is proposed,\n            the coating material should comply with BS 3416 or other equivalent\n             international standards.   External coating should contain anti-corrosion\n             inhibitors, normally used on metallic structures;\n\n        (c)  The C.I. pipes should be in a state to permit the application of additional\n            external finishing coatings; and\n\n       (d)   Corrosion-resistant fixings such as stainless steel brackets and connections\n            or similar corrosion-resistant fixing supports should be used. The fixings\n           should be properly anchored into solid wall."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.        For approval of drainage plans  after 1 November 2004, the Building\n Authority will require, under section 28(1) of the Buildings Ordinance, C.I. pipes to\n comply with the above requirements. Such pipes will also need to be included in the\n Schedule of Building Materials and Products under Practice Note  to Authorized\n Persons and Registered Structural Engineers 53 when applying for occupation permit.\n\n\n\n\n\n                                                                       ( Marco M H WU )\n                                                       Building Authority\n Ref : BD GP/BREG/SF/1 (III)\n\n First issue November 2003 (AD/NB1)\n\n Index under : Cast iron drainage pipes\n              Drainage works – cast iron pipes"
+    }
+  ]
+}

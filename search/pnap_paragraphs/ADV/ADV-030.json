@@ -1,0 +1,26 @@
+{
+  "code": "ADV-030",
+  "source_text": "indexed_text/PNAP/ADV/ADV-030.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-030.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers   ADV-30\n\n                               Practice Note for Authorized Persons Buildings Department                                               301\n                         and Registered Structural Engineers\n\n\n\n                       Provision of mechanical ventilation\n                  under Building (Planning) Regulation 34\n\n\n      Every room used or intended to be used for the purpose of an office shall be\nprovided with adequate means of lighting and ventilation in accordance with Building\n(Planning) Regulations (B(P)R) 30 and 31. Pursuant to B(P)R 34(a), where, owing to\nthe position, level or unsuitable surroundings of any room used or intended to be used\nfor the purpose of an office, the provisions of B(P)R 31 cannot be complied with, in\nrespect of such room, to the satisfaction of the Building Authority, there shall be\nprovided a mechanical means of ventilation which shall be capable of supplying fresh\nair to all parts of such room at a rate of not less than 5 changes of air per hour."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.       It  is a common practice of the industry  to engage professional or other\npersonnel in the related field for the design and installation of air-conditioning and\nventilation systems in building.  In this connection, when a large scale or complex\nventilation system comprising a centralized plant and a ducted system serving multiple\nrooms or floors is to be installed for the purpose of complying with the requirements\nunder B(P)R34(a), it is advisable to engage a Registered Professional Engineer in the\nBuilding  Services  Discipline  to  provide  engineering  advice on  the  design and\ninstallation of such system.\n\n\n\n\n\n                                                                      ( H W CHEUNG )\n                                                      Building Authority\n\n\n\n\nRef. : BD GP/BREG/P/18(VI)\n    BD GP/BORD/106(II)\n\nFirst issue January 2007 (AD/Sup)\n\nIndex under : RPE(BS)\n             B(P)R34"
+    }
+  ]
+}

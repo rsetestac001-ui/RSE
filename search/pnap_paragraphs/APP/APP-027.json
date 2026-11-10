@@ -1,0 +1,229 @@
+{
+  "code": "APP-027",
+  "source_text": "indexed_text/PNAP/APP/APP-027.txt",
+  "source_pdf": "documents/PNAP/APP/APP-027.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department       Registered Structural Engineers and      APP-27\n                            Registered Geotechnical Engineers\n\n\n                         Gas Water Heaters\n                Regulation 35A of Building (Planning) Regulations\n\n\n              Regulation 35A of the Building (Planning) Regulations requires suitable\nprovision for the installation of a room-sealed gas water heater in every bathroom in a\nbuilding.   This practice note specifies the arrangements considered generally to be\nacceptable."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.             In some instances, other arrangements may be accepted. Each case will be\ncarefully considered on its merits and in the light of any special circumstances presented\nfor consideration.\n\nSize of the Aperture"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 40
+        },
+        {
+          "label": "b",
+          "offset": 95
+        }
+      ],
+      "text": "3.       A standard aperture should be:\n\n      (a)     320 mm wide by 420 mm high normally; or\n\n      (b)     240 mm by 240 mm when the bathroom is of such a size that only\n             a shower could be fitted."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 71
+        },
+        {
+          "label": "b",
+          "offset": 195
+        }
+      ],
+      "text": "4.            Non-standard apertures may be constructed provided that:\n\n      (a)      the size  is to suit a specific water heater flue installed before\n             completion of building; and\n\n      (b)        if necessary, the aperture may be enlarged later to the appropriate\n              standard size (the provision for which can be clearly discernible)\n              without cutting reinforcing bars, re-positioning services or the like.\n\nLocation"
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 53
+        }
+      ],
+      "text": "5.          The general requirements are as follows:\n\n      (a)    An aperture should be located in the clear face of an external wall,\n              except that in buildings served by a permanently open and well\n               ventilated balcony approach, apertures may be placed so as to vent\n               into such balconies;\n\n\n                                                                                             /(b) …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "− 2 −\n\n\n\n      (b)    As for the internal face of the wall, there should be an unobstructed\n              area around  the  aperture.  The minimum dimensions  are  as\n              follows:\n               50 mm above\n              100 mm to each side\n              150 mm below\n\n      (c)     The base of the aperture should be not less than 200 mm above\n               floor level;\n\n      (d)     The aperture should be not less than 300 mm from any corner or\n            from any  other opening  into  the  building  (e.g. an openable\n            window, a vent, an air-conditioner opening or another aperture);\n\n      (e)     The aperture should be in a wall which has a clear space of not less\n              than 1 500 mm between it and any facing wall or other part of a\n               building, or site boundary.  However,  if the boundary abuts a\n                 street, an aperture may be provided in any wall abutting that street;\n\n       (f)    An aperture should not be positioned directly below any fixed\n               clothes drying racks.  Flue terminal guards (supplied/designed by\n              the appliance manufacturers) should be fitted at aperture locations\n                   if  selected  water  heating  appliances  do  not  incorporate  an\n              overheating protector;\n\n      (g)     The water heater, when fitted, should not cause obstruction or\n             inconvenience  to the normal use of the room in which  it  is\n                installed,  and  should  be  readily  accessible by  the  user  for\n               operation, inspection and maintenance; and\n\n      (h)     The length of the hot water pipes from the water heater should\n            comply with the requirements of regulation 19 of Waterworks\n              Regulations (Cap. 102A)."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 81
+        },
+        {
+          "label": "b",
+          "offset": 201
+        }
+      ],
+      "text": "6.           For apertures facing into an enclosed space (such as a light well):\n\n      (a)     The entire enclosed space should contain no obstruction to restrict\n             a vertical flow of air;\n\n      (b)     The enclosed space should be ventilated to the external air below\n              the lowest aperture so as to maintain the air flow. The area of the\n              vents providing this ventilation should be not less than 0.05 m2 for\n             each aperture which faces into the enclosed space. No vent may\n             have any internal dimension less than 200 mm; and\n\n                                                                                                  /(c) …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "− 3 −\n\n\n\n      (c)     The minimum plan dimension of the enclosed space in relation to\n                   its height should be ­\n              not less than 3 m       -      not more than 10 storeys high\n              not less than 4 m       -      between 11 - 19 storeys high\n              not less than 5 m       -     20 or more storeys high"
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 53
+        },
+        {
+          "label": "b",
+          "offset": 154
+        },
+        {
+          "label": "c",
+          "offset": 336
+        }
+      ],
+      "text": "7.           For apertures facing into a re-entrant:\n\n      (a)     The minimum plan width of the re-entrant should be not less than\n              1.5 m;\n\n      (b)     At each storey, any obstruction (e.g. tie beam) at the open end of a\n               re-entrant may not reduce the vertical open area by more than 20%;\n            and\n\n      (c)     The entire re-entrant should contain no obstruction to restrict a\n                vertical flow of air."
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 109
+        },
+        {
+          "label": "b",
+          "offset": 508
+        },
+        {
+          "label": "c",
+          "offset": 1034
+        }
+      ],
+      "text": "8.           For installation of gas water heaters in a confined cavity such as\nthat within a false ceiling:\n\n      (a)     The gas water heater should be readily accessible by the user for\n               operation,  inspection  and  maintenance.   Quick  release  type\n             removal panel  for access  to  the gas water  heater  inside  the\n              confined cavity (e.g. within a false ceiling) without the necessity of\n              using hand tools is considered acceptable for that purpose.\n\n      (b)    Means of ventilation to the cavity in which the gas water heater is\n                installed should be provided.  Installation of adequate louver-type\n               ventilation  panels  is  considered  acceptable  for  that  purpose\n             provided that it is a non-adjustable purpose-made louver designed\n               to allow the passage of air at all times. Moreover, such means of\n               ventilation should not be located in a position where it is likely to\n             be easily blocked.\n\n      (c)      Manufacturer’s    installation,   operation   and   maintenance\n              requirements should be followed."
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          With respect to the location of the standard aperture for water heater, please\nrefer to Appendix A.\n\nSealing"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.        When a gas water heater is not fitted at the time of construction, a standard\naperture must be provided. There is no objection to it being sealed. However, any such\nsealing should be of easily removable materials such as plain concrete, brickwork or\nblockwork. Moreover, any aperture so sealed should be clearly discernible (e.g. by means\nof recessing) from the inside of the building.\n                                                                       /Reference …"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "− 4 −\n\n\nReference"
+    },
+    {
+      "id": "p11-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "11.           Reference should be made to the Code of Practice GU03 – Installation\nRequirements for Domestic Gas Water Heaters (Rated Heat Input Up To 70kW) published\nby the Electrical and Mechanical Services Department.\n\nExemption"
+    },
+    {
+      "id": "p12-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 255
+        },
+        {
+          "label": "b",
+          "offset": 405
+        },
+        {
+          "label": "c",
+          "offset": 1152
+        }
+      ],
+      "text": "12.            In support of the application for exemption, the Authorized Person should\nprovide justifications (e.g. design constraint prohibiting the provision of flue aperture) and\nsubmit a letter from the developer or owner undertaking the following:\n\n      (a)     Supply of gas as defined under Gas Safety Ordinance (Cap 51)\n             should not be provided to the domestic part of the building;\n\n      (b)      Effective measures should be incorporated in the Deed of Mutual\n            Covenant (DMC) to restrict the installation of gas supply to the\n             domestic part of the building and delivery of liquefied petroleum\n             gas (LPG) cylinders1 to domestic units of the building. Where no\n        DMC is to be in force for the development, the developer or owner\n             should undertake to carry out such measures and provide such\n               obligation in the Sales and Purchase Agreement and Assignment,\n            and the relevant information in the tenancy agreement such that the\n               future owners and tenants are aware of their liabilities and the\n                restrictions respectively; and\n\n      (c)      Electric water heaters and electric/induction cookers should be\n                installed in all domestic units prior to the application of occupation\n              permit (OP).\n\n\n\n\n\n                                                                       ( CHEUNG Tin-cheung )\n                                                         Building Authority\n\nRef. : BD GR/PU/1\n   BD GR/1-50/70 (II)\n\nFirst issue   May 1983\nLast revision May 2014\nThis revision September 2019 (AD/NB1)   (Paras. 2 and 11 amended and para. 12\n                                        added)\n\n\n1    Excluding disposable LPG cylinder (i.e. cartridge) for the portable cassette cookers bearing GU mark\n     granted by Electrical and Mechanical Services Department."
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Appendix A\n                                                        (PNAP APP-27)\n\n\n                    ACCEPTABLE LOCATION OF\n              ROOM-SEALED WATER HEATER TERMINAL\n\n\n                         INTERNAL VIEW\n\n\n\n\n\n              Ceiling\n\n\n\n             M\n                                                   Dimension        Minimum\n                                K     Unobstructed     100 mm\n                        Q       N        Area         150 mm\n                                Q                      50 mm\n                    K               P     Height Above     200 mm         L    K\n                                                                        floor\n                                    L x M   Standard size   420 x 320 mm\n                                                                                     or\n                                                                  240 x 240 mm\n               N                                              Non standard        to suit\n                              P\n                                                * Unobstructed area shaded\n\n\n\n\n             Floor\n\n\n\n\n\n(Rev. 12/2010)"
+    }
+  ]
+}

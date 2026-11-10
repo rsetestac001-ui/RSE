@@ -1,0 +1,92 @@
+{
+  "code": "APP-025",
+  "source_text": "indexed_text/PNAP/APP/APP-025.txt",
+  "source_pdf": "documents/PNAP/APP/APP-025.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department       Registered Structural Engineers and      APP-25\n                            Registered Geotechnical Engineers\n\n\n                Requirements for a Geotechnical Assessment\n                    at General Building Plan Submission Stage\n          Regulation 8(1)(ba) of Building (Administration) Regulations\n\n              Regulation  8(1)(ba)  of  the  Building  (Administration)  Regulations\nempowers the Building Authority to require a geotechnical assessment of the adequacy\nof a site for proposed building work at general building plan submission stage.  This\nprovision will assist authorized persons to identify at an early stage any fundamental\ngeotechnical constraints that could arise on certain sites and ensure that the geotechnical\nfeasibility of the proposed building works is adequately assessed and reflected in the\ngeneral building plans.\n\nCriteria for Submission of Geotechnical Assessment"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 128
+        }
+      ],
+      "text": "2.       A general building plan submission meeting the following criteria should\nbe accompanied by a geotechnical assessment :\n\n          (a)  New building (including alteration and addition (A&A) works\n               resulting in a new building) proposal :\n\n                   (i)   where the maximum gradient across a site from boundary to\n                 boundary or, for a large site, across any 50 m long strip, is\n                     greater than 15°;\n\n                    (ii)  where a slope inclined at more than 30° and greater than\n                    7.5 m high (including the height of any retaining wall at its\n                    toe or crest) exists on the site or within 7.5 m of the site;\n\n                    (iii)  where there is to be an excavation with a face longer than\n                 10 m and either :\n\n                     (1)   the excavation is to be deeper than 7.5 m at any point\n                             at any stage; or\n\n                     (2)   the excavation will be below a plane projecting down\n                             at 45° from the toe of any retaining wall; or\n\n                     (3)   the excavation is to be made below HKPD minus 1 m\n                     on reclaimed coastal land.\n\n                 (iv)  where a retaining wall greater than 6 m high (retained\n                    height) exists on the site or a 6 m or longer portion of such a\n                   wall exists within 6 m of the site; or\n                                                                   /where….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2  -\n\n               (v)  where special geological conditions exist, such as previous\n                     landslides, debris flows, threatening boulders and potential\n                      rockfalls.\n\n         (b)  A&A works not resulting in a new building where the proposed\n            works may have  significant impact on  existing geotechnical\n               features  (such  as  slopes and  retaining  walls) and  adjacent\n              foundations,  or  involve  excavation  works  under  paragraph\n                 2(a)(iii) above.\n\nContents of Geotechnical Assessment"
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 70
+        },
+        {
+          "label": "b",
+          "offset": 188
+        },
+        {
+          "label": "c",
+          "offset": 462
+        },
+        {
+          "label": "d",
+          "offset": 654
+        },
+        {
+          "label": "e",
+          "offset": 827
+        },
+        {
+          "label": "f",
+          "offset": 1132
+        }
+      ],
+      "text": "3.          The essential contents of a geotechnical assessment are :\n\n          (a)   an outline of the topography, geology and presumed groundwater\n              conditions of the site;\n\n         (b)   a general description of the proposed works and discussion of\n          how  the  existing  geotechnical  features  (such  as  slopes and\n               retaining  walls) and  adjacent  foundations  will  affect  or be\n               affected by such works;\n\n          (c)   a  discussion  to demonstrate  the  feasibility  of  the proposed\n             development, including descriptions of construction methods and\n             sequence of works;\n\n          (d)  schematic plans and sections of the proposed  site formation\n            works and foundation works, taking the above discussion into\n              account;\n\n          (e)   a plan showing the scope and extent of the proposed ground\n               investigation  specifying,  by  reference  to  section  15.3  of\n         GEOGUIDE 2   : Guide  to  Site  Investigation,  the  level  of\n             independent site supervision of the works to be undertaken; and\n\n           (f)   descriptions of intended investigations of the stability of existing\n              slopes and retaining walls and any preventive or remedial works\n                that may be needed.\n\n\n\n\n\n                                                        /Refusal……"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3  -\n\nRefusal of Plans"
+    },
+    {
+      "id": "p4-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         Any general building plan submission meeting the criteria stipulated in\nparagraph 2 above but not accompanied by a geotechnical assessment may be rejected\nunder section 16(1)(a) of the Buildings Ordinance.\n\n\n\n\n\n                                                                          ( HUI Siu-wai )\n                                                      Building Authority\n\n\n\n\nRef. : BD GR/1-150/10\n\nThis PNAP is previously known as PNAP 78\nFirst issue April 1981\nLast revision October 1991\nThis revision April 2015 (AD/NB1) (Para. 2 amended)"
+    }
+  ]
+}

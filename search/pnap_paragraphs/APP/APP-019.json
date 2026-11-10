@@ -1,0 +1,209 @@
+{
+  "code": "APP-019",
+  "source_text": "indexed_text/PNAP/APP/APP-019.txt",
+  "source_pdf": "documents/PNAP/APP/APP-019.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and        APP-19\n                           Registered Geotechnical Engineers\n\n\n              Projections in relation to Site Coverage and Plot Ratio\n                    Building (Planning) Regulations 20 & 21\n\n\n              In accordance with regulation 2 of the Building (Planning) Regulations\n(B(P)R), site coverage (SC) means the area of a site that is covered by the buildings\nerected thereon.  Hence all components of a building, including all projections, should\nbe accountable for SC.  SC is also a measure to control the building bulk.\n\nMinor projecting features"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.             In the case of plot ratio (PR), the definition of gross floor area (GFA) uses\nthe term “external wall”.  Clearly “wall” does not just mean concrete or brick material,\nand windows and parapet railings should obviously also be included.  For projections\nfrom a building, it is accepted that if the projections are not at a floor level, or potential\nfloor level, and do not dominate the face of a building, measurement as accountable GFA\nis not required."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 187
+        },
+        {
+          "label": "b",
+          "offset": 465
+        },
+        {
+          "label": "c",
+          "offset": 665
+        },
+        {
+          "label": "d",
+          "offset": 815
+        },
+        {
+          "label": "e",
+          "offset": 950
+        },
+        {
+          "label": "f",
+          "offset": 1043
+        }
+      ],
+      "text": "3.                 It follows from the above that the following projections from the face of a\nbuilding, having no significant impact on building bulk, need not be counted for SC and\nPR:\n\n      (a)      pitched roof eaves and flat roof overhangs complying with the\n               projection and clear height limits in regulation 7(1) of the B(P)R\n              (provided they are not contained within parapet walls as part of\n             an accessible flat roof);\n\n      (b)     individual air-conditioner boxes and platforms of reasonable\n               size and projecting not more than 750 mm, which have a built-in\n             system for condensate disposal;\n\n      (c)      air-conditioner platforms complying with Appendices B and C\n              of the Code of Practice on Access for External Maintenance;\n\n      (d)     individual projections / window hoods complying with B(P)R\n            and porches having projection not exceeding 2 m;\n\n      (e)    window cills and window surrounds projecting not more than\n            100 mm;\n\n       (f)      string courses, fins and architectural mouldings complying\n             with the projection and clear height limits in regulation 7(1) of\n              the B(P)R (but not structural beams and columns);\n\n                                                                                           /(g) …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n      (g)    window flower boxes projecting not more than 500 mm and\n            complying  with  the  design  requirements  as  illustrated  in\n            Diagram 1 in Appendix A;\n\n      (h)     external drainage pipes and  gutters complying with  the\n               projection and clear height limits in regulation 7(2) of the B(P)R;\n\n        (i)     sunshades solely used for the purpose of energy conservation\n               projecting not more than 1.5m from the external wall complying\n             with the criteria set out in Practice Note for Authorized Persons,\n              Registered Structural Engineers and Registered Geotechnical\n             Engineers (PNAP) APP-67 and PNAP APP-156;\n\n        (j)      reflectors projecting not more than 1.5 m from the external walls,\n               subject   to   submission   of   quantitative   assessment   of\n             environmental  benefits  to  the Building Authority (BA)  for\n              consideration in case they project over 0.5 m from the external\n               walls;\n\n      (k)     canopies projecting not more than 3.5 m over an entrance to a\n               building;\n\n        (l)      drying  racks and  supporting frames  for  light  fittings,\n            antennas  or  transceivers  for  public  telecommunications\n              services complying with the projection and clear height limits in\n               regulation 7(3) of the B(P)R;\n\n     (m)     retractable awnings for external wall openings complying with\n              the projection and clear height limits in regulation 7(4) of the\n            B(P)R and applicable positional, projection and clear height\n              requirements under minor works item 2.43 in Schedule 1 of the\n              Building (Minor Works) Regulation; and\n\n      (n)     metal supporting frames for growing of plants (including\n                vertical  frame  for  climbing  and/or  weeping  plants  and\n             panel/modular planters) projecting not more than 300 mm from\n              the external walls within lot boundary. A sample is provided in\n            Diagram 2 in Appendix A."
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.                 It is emphasised that, notwithstanding paragraph 3 above, if any of the\nlisted features is so exaggerated, excessive in scale, or defeats the provisions of the\nBuildings Ordinance (BO) (for example, a structural beam doubling as a flower box) or\nis provided or designed in an unusual way, that feature will be counted for SC and, if\nappropriate, also for PR.\n\nProjecting windows"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.                 It follows from the above that all other projections must be included in SC\nand PR calculations.  However projecting windows will not be regarded as GFA and will\nbe accepted as not counting for SC and PR, if they satisfy all the following criteria within\nthe storey from which they project:\n                                                                                               /(a) …"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n      (a)      the projecting window  is from living room, dining room or\n            bedroom of domestic accommodation only;\n\n      (b)     only one such projecting window is allowed per room and  it\n             should be located on one external wall only;\n\n      (c)      the elevational area1 of the projecting window does not exceed\n          50% of the area1 of the external wall where the projecting window\n                  is located;\n\n      (d)      the extent of the projection is not more than 100 mm from the\n              outer face of the main external wall;\n\n      (e)      the base is not less than 500 mm above finished floor level;\n\n       (f)      the window complies fully with regulation 3A of the B(P)R.  For\n              the purposes  of  this  requirement,  the  height  of 1 100 mm\n               protective barrier will be measured from floor level and any part\n              of the window within this dimension should be fixed or otherwise\n               suitably  protected  in  line  with  paragraph  (2)  of  the  said\n              Regulation; and\n\n      (g)      the projecting windows will not form a piecemeal addition to\n               existing buildings.\n\nCovered areas under large projecting / overhanging features"
+    },
+    {
+      "id": "p6-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 654
+        },
+        {
+          "label": "b",
+          "offset": 840
+        }
+      ],
+      "text": "6.           For innovative building designs (excluding shopfront overhead, signboard\nand the like), the BA has been taking a pragmatic approach on the acceptance of different\nprojecting/overhanging features.  Save for the areas covered by projecting features\nwhich provide a weather-protected shelter capable of functional use, it is accepted that\nwhere there is no objection from the relevant government departments and the clear\nheight of the projecting feature is more than 7.5 m above the covered areas, the covered\nareas satisfying the following criteria will not be regarded as GFA and thus are not\nrequired to be included in the GFA calculation:\n\n      (a)     The ratio of horizontal width of the covered area to the clear\n              height of the projecting features above the covered area is not\n                less than 1:8\n\n      (b)     Access to the covered area is not possible and abuse is unlikely."
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "7.           For the covered area under special design of projecting/overhanging\nfeatures which do not satisfy the requirements in paragraph 6 above, such as twisted\nbuilding form, inclined external wall design, etc., justifications should be provided with\nthe merits of the design for consideration of GFA exemption (please also see PNAP\nAPP- 2).\n                                                               /Air-conditioner …\n\n1  For the avoidance of doubt, while the thickness of the enclosures of the window should be\n   included in the elevation area of the window, the thickness of the enclosure walls and slabs\n   (floor and ceiling) of the room where the projecting window is located should be discounted\n   for the purpose of calculating the area of the external wall."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -\nAir-conditioner boxes / platforms projecting over street"
+    },
+    {
+      "id": "p8-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "8.           Except those complying with Part II of the B(P)R, no projections will\nnormally be allowed over streets unless they can be justified in the public interest.  In\nthis context the projection of individual air-conditioner boxes / platforms not exceeding\n750 mm and window hoods not exceeding 500 mm may be permitted, provided they are\nat a height of not less than 2.5 m above ground (please also see PNAP APP-42).  For\nproposals relating to wholesale conversion of industrial buildings and other similar\nalteration and addition works, application for exemption from section 31(1) of the BO\nand / or modification of regulations 20 and 21 of the B(P)R for the erection of individual\nair-conditioner boxes / platforms with a projection of more than 750 mm from the external\nwalls with or without projection over a street will be favourably considered only if there\nis sufficient justification to demonstrate that there are difficulties in placing the air-\nconditioners inside the premises due to the design and layout constraints in the existing\nbuilding.  As a condition for the granting of the exemption / modification, Grade 1 room\nair-conditioners as specified in the Code of Practice on Energy Labeling of Products\nissued by the Electrical and Mechanical Services Department should be installed upon\ncompletion of the proposed works.\n\nProjecting greenery at common parts of building"
+    },
+    {
+      "id": "p9-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 363
+        }
+      ],
+      "text": "9.          To encourage the provision and proper maintenance of greenery at building\nexterior while controlling the impact on building bulk, the BA will consider favourably\non application for exemption from PR and SC calculations of the following projecting\nfeatures within lot boundary and located in and only accessible from the common parts\nof the building2:\n\n       (a)      Planters (with or without vertical frames for climbing and/or\n            weeping plants) projecting not more than 600mm from the\n               external walls as illustrated in Diagram 3 in Appendix A.  The\n               planters should comply with the relevant safety provisions under\n              the Code of Practice on Access for External Maintenance and be\n             provided with an automatic irrigation system and an adequate\n              drainage system. The granting of GFA concession for such\n               planters is NOT subject to compliance with the pre-requisites and\n              the overall cap on GFA concessions stipulated in PNAP APP-151.\n\n\n                                                                                           /(b) …\n\n\n\n\n2  Undertaking letter should be submitted by the developer or owner to designate the features as\n  common parts in the Deed of Mutual Covenant (DMC) with details of the use and location\n   clearly indicated. Such DMC should contain binding and enforceable terms and conditions\n   included for the control, management and maintenance of the facilities where applicable, of\n   such features. Where no DMC is to be in force for a development, such designation should be\n   incorporated into the Sales and Purchase Agreement, Assignment, Tenancy Agreement or\n   conveyancing document such that the future owners or tenants are aware of their rights and\n    liabilities (if applicable). The letter of undertaking should be registered in the Land Registry\n   before applying for the occupation permit."
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 5 -\n       (b)     Maintenance walkway  projecting  from  the  external  walls\n              providing maintenance access to the planters in paragraph 9(a)\n            above  3 or metal supporting frames for growing of plants in\n             paragraph 3(n) above as illustrated in Diagram 4 in Appendix A.\n           The maintenance walkway should satisfy the following criteria:\n\n                   (i)   There is a minimum 150mm drop in level from the area\n                 which leads to the maintenance walkway;\n\n                   (ii)   Relevant safety provisions under the Code of Practice on\n                  Access for External Maintenance are complied with;\n\n                    (iii)  The width of the maintenance walkway should be not less\n                   than 400mm and not more than 600mm; and\n\n                (iv)  The granting of GFA concession  for  the maintenance\n                walkway is subject to compliance with the pre-requisites\n                 and the overall cap on GFA concessions stipulated in PNAP\n                 APP-151.\n\nDrainage provisions for cantilevered reinforced concrete structures"
+    },
+    {
+      "id": "p10-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "10.       PNAP APP-68 has given guidance on the safe design and construction of\ncantilevered reinforced concrete structures.   For projects incorporating cantilevered\nreinforced concrete  structures, means  to prevent  the accumulation of water and\ncorresponding surface water drainage provisions for such structures conforming to the\nrecommendations of paragraph 4 in Appendix A of PNAP APP-68 should be shown on\nthe general building plans and drainage plans respectively for approval.\n\n\n\n\n\n                                                               ( HO Chun-hung )\n                                                Building Authority\n\n\n\nRef. : BD GP/BREG/P/2 (V)\n\nThis PNAP is previously known as PNAP 68\nFirst issue    March 1980\nLast revision  September 2023\nThis revision June 2025 (AD/NB1) (Paragraph 3(c) and (k) amended)\n\n\n\n\n3   It should be noted that if the overall projection of the maintenance walkway and planter\n   exceeds 750mm, they will be regarded as causing obstruction to prescribed windows."
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix A\n                                    (PNAP APP-19)\n\nWindow flower box design requirements\n\n\n\n\n\n               Diagram 1\n\n\n                                  - 1 -"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Sample of metal supporting frames for growing of plants\n\n\n\n\n\n                      Diagram 2\n\n\n\n\n\n                                                 - 2 -"
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Sample of projecting planters\n\n\n\n\n\n        Diagram 3\n\n\n\n\n\n                        - 3 -"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Sample of metal supporting frames for growing of plants\n        and projecting planters with maintenance walkway\n\n\n\n\n\n                             Diagram 4\n\n\n\n\n\n(Rev. 9/2023)\n\n\n\n\n\n                                                              - 4 -"
+    }
+  ]
+}

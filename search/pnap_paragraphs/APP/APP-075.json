@@ -1,0 +1,56 @@
+{
+  "code": "APP-075",
+  "source_text": "indexed_text/PNAP/APP/APP-075.txt",
+  "source_pdf": "documents/PNAP/APP/APP-075.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-75\n\n                                     Practice Note for Authorized Persons\nBuildings Department                                                   182\n                              and Registered Structural Engineers\n\n\n                    Building (Planning) Regulations 41A, 41B and 41C\n              Means of Access for Firefighting and Rescue in Buildings\n\n\n              Building (Planning)(Amendment) Regulation 1995 amends the requirements on\nmeans of access for firefighting and rescue in buildings.\n\nRevised Requirements"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            Regulation 41B is revised to ensure that fireman's lifts shall be so designed and\nlocated that, in the event of a fire, firemen can have safe and unobstructed access to lifts and to\nthe floors served by the lifts."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            Regulation 41C  is also revised to allow firemen to make better use of  all\nfacilities in a Firefighting and Rescue Stairway (FRS) in case of fire. In future, only fireman's\nlifts are to be installed in a FRS and the access stairway in a FRS shall serve all floors of a\nbuilding.\n\nApplication"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "4.          The Amendment Regulation applies to building works in accordance with\nBuildings Ordinance section 39. By virtue of section 39(2), the Regulation does not apply to\nbuilding works which are being carried out or have been consented to commence on or before\n22 May 1995.\n\nCode of Practice"
+    },
+    {
+      "id": "p5-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The Code of Practice for Means of Access for Firefighting and Rescue has been\nrevised in the light of the Amendment Regulation. The revised Code is available for sale at the\nGovernment Publications Sales Centre.\n\n\n\n\n                                                          (Helen C P Lai YU)\n                                                              Building Authority\nRef : BD GP/BREG/P/31\n\nFirst issued : May 1995 (AD/LM)\n\nIndex under :  Building (Planning) Regulation 41A, 41B & 41C\n           Means of Access for Firefighting and Rescue in Buildings"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "code": "APP-015",
+  "source_text": "indexed_text/PNAP/APP/APP-015.txt",
+  "source_pdf": "documents/PNAP/APP/APP-015.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Re gistered Structural Engineers and Registered Geotechnical Engineers   APP-15\n\n                                 Practice Note for Authorised Persons Buildings Department                                                 55\n                          and Registered Structural Engineers\n\n\n                                           Site Formation\n                      Temporary or Permanent Filling Work\n\n               Authorized persons (APs), registered  structural engineers (RSEs) and\n registered geotechnical engineers (RGEs) should be aware of the potentially disastrous\n consequences of flowslides of loosely placed, unretained earth fill. Regrettably, examples\n of inadequate compaction are still found on or adjacent to construction sites."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          Where in the opinion of the Building Authority (BA) the failure of a fill\n slope arising from private building works could endanger the public, the BA will require\n the AP/RGE to submit for approval suitable drawings of the  filling work.  These\n drawings should specify the standards laid down in Appendix A attached.  The RGE\n appointed shall give periodic supervision and make such inspections as may be necessary\n to ensure that the filling works are being carried out in general accordance with the\n provisions of the Ordinance and regulations and with the plans approved by the BA, and\n the supervision plan prepared in compliance with the technical memorandum issued under\n section 39A of BO, and qualified supervision imposed under BO s.17(1)(6)(e) as set out\n in PNAP 83."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.             Prior to filling work, the AP/RGE should give notice to the BA of the date\n of commencement of the work."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 483
+        },
+        {
+          "label": "b",
+          "offset": 751
+        }
+      ],
+      "text": "4.           During construction, the AP/RGE should submit monthly reports to BD\n giving records of tests on compaction of fill slopes together with a covering assessment\n on the adequacy of compaction. The RGE should ensure that the soil at test location of\n the in-situ density test shall be of the same type and source to the material used for\n maximum dry density determination. The reports should be signed by the RGE.  The\n contents of the covering assessment should include :\n\n           (a)   a summary of the results of in situ density tests, laboratory\n              compaction  tests  and  relative  compaction  of  the  fill,\n                 highlighting areas of non-compliance with the specified\n              compaction standards; and\n\n           (b)    details of any corrective measures taken to rectify areas of\n                inadequate compaction.\n\n Records of compaction tests in accordance with Appendix A should also be kept on site\n for inspection by the  officers of the Buildings Department (BD) and Geotechnical\n Engineering Office (GEO).\n\n\n                                                                                 /5. Where…."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          Where there is reason to believe that the placed fill may be loose, the BA\nwill  arrange  for  field  checks  to  be  carried  out,  initially by GCO  probes, and\nsupplemented by observations of fill materials in trial pits if an appreciable cobble and\nboulder content in the fill is suspected.  The AP/RGE will be required to arrange for\nlabourers to carry out the GCO probes and trial pit excavation."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.                If loose fill is detected, the AP/RGE must arrange for the in situ density\ntests of the loose layer to be carried out in the presence of officers of BD and GEO.\nWhere extensive loose fill is found which could pose a significant threat if not rectified,\nthe BA will issue a Cease Works Order under Buildings Ordinance section 23 or 24A."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 192
+        },
+        {
+          "label": "b",
+          "offset": 337
+        }
+      ],
+      "text": "7.         Upon completion of the filling work and prior to submitting certificate of\ncompletion of  site formation works and seeking an occupation permit, the AP/RGE\nshould submit to the BD:\n\n          (a)    \"as-built\"  plans and  sections of  the work showing  its\n                relationship to existing and proposed buildings; and\n\n         (b)   complete records of in situ density tests and laboratory\n             compaction tests and relative compaction of the fill, all to\n             be in accordance with Appendix A."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.                If  structural works  are  involved,  the RSE  is  to  sign  the  structural\ncalculations and structural assessment reports. The RSE is also to certify completion of\nthe structural works."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          The  issue  of an  occupation permit  will normally be  refused under\nBuildings Ordinance section 21(6)(a) if temporary fills have not been removed from site\nor  if permanent  fills, the failure of which would endanger the public, have not been\nformed in compliance with Appendix A.\n\n\n\n\n\n                                                                              ( H W CHEUNG )\n                                                              Building Authority\n\nRef.: BD GP/GEO/3\n    BD GP/BORD/75\n\nFirst issue December 1981\nLast revision June 1994\nThis revision December 2005 (AD/Sup, DH(I)/CEDD) (Paras.1, 2, 3, 4, 6, 7 and\n                                                 Appendix A amended,\n                                                          para. 8 added)\nIndex under :  Filling work\n                Site formation"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Appendix A\n                                                      (PNAP 55)\n                                                             (APP-15)\n\n                             Standards for Filling Work\n\n\n(1)    The in situ field dry densities of compacted materials forming the peripheral\n       portion of an earth  fill slope shall be not less than 95% of the maximum dry\n        density described in item (2) below.\n\n(2)    The maximum dry density and optimum moisture contents shall be determined in\n       accordance with the standard given in Geospec 3 – Model Specification for Soil\n       Testing. Each soil type shall be tested when first used and thereafter at the same\n       time as every set of field density tests are obtained.  Records shall be kept,\n        identifying on drawings the soil type, plan location and elevation reference to\n        Principal Datum of each test together with the maximum dry density and optimum\n       moisture contents.  Graphs of dry density vs moisture contents, laboratory test\n       record sheets and a complete soil description are to be kept in a companion folder.\n\n(3)    The in situ field density and moisture contents shall be determined in accordance\n       with the standard given in Geospec 3 in determination of the relative compaction\n       achieved. The number of determinations for each batch of fill material shall be as\n        stated in Table 1 below.  Records shall be kept, identifying on drawings the soil\n        type, plan location and elevation reference  to Principal Datum of each  test\n        together with dry density of soil tested, moisture contents and relative compaction\n       achieved (%). The field sheets, calculation sheets and a complete soil description\n       are to be kept in a companion folder. When only a small amount of fill (depth\n        less than 1 m and total volume less than 300 m3) is proposed, the frequency of in\n         situ density testing may be reduced if the in situ density tests are supplemented by\n        the results of penetration tests.\n\n(4)    The relative compaction of fill material shall be determined in accordance with the\n       standard given in Geospec 3.  As a general principle,  it  is essential that the\n     maximum dry density determination was carried out on same batch of soil type\n      and source corresponding to the test location of the in-situ density test.\n\n(5)   When the tests in (2) and (3) above are to be carried out, only laboratories\n        accredited under the Hong Kong Laboratory Accreditation Scheme (HOKLAS)\n        for the relevant tests shall be employed.\n\n\n\n\n                                                                            /Table 1\n\n\n\n\n\n                                                        - 1 -"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Table 1\n\nNumber of Determinations for Moisture Content and Relative Compaction Achieved\n\n\n                            Size of area of           No. of determinations\n      Description                                         fill in batch *                 per batch *\n\n Area of fill in             0 - 100 m²                      3\n excavations for\n structures, pits and\n trenches and\n on formations\n                        100 – 500 m²        2 for each 100 m² or part thereof\n\n                        Exceeding 500 m²      1 for each 100 m² or part thereof\n\n Other areas of fill           0 - 1 ha          4 for each 1000 m² or part thereof\n\n                          1 - 10 ha          3 for each 1000 m² or part thereof\n\n                         Exceeding 10 ha       2 for each 1000 m² or part thereof\n\n            *   A batch of fill material is any quantity of fill material\n                      of  the  same  type  and  has  similar  properties\n                      throughout.\n\n\n\n\n\n(Rev. 12/2005)\n\n\n\n\n\n                                                        - 2 -"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "code": "ADV-017",
+  "source_text": "indexed_text/PNAP/ADV/ADV-017.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-017.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers     ADV-17\n\n                                     Practice Note for Authorized Persons\n  Buildings Department                                                   228\n                              and Registered Structural Engineers\n\n\n\n\n                        Noise Annoyance Prevention\n                Design of Pump Room and Ventilation System\n\n\n          Pump rooms and ventilation systems in a building  if not properly\ndesigned may cause noise annoyance to residents of the same or a nearby building.\nThis practice note sets out guidelines regarding design measures to be adopted and\ninstalled to prevent possible noise problem.\n\nDesign of Pump Room"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 342
+        },
+        {
+          "label": "b",
+          "offset": 426
+        }
+      ],
+      "text": "2.            Preference should be given to separating pump rooms from residential\nflats by using non-sensitive areas like stairwells or switch rooms as buffer.   In\naddition, both air-borne and structure-borne noise transmission should be carefully\nconsidered  in the design.  The following guidelines are announced  for general\nreference:-\n\n       (a)     Minimizing air-borne noise\n-\n\n\n\n        -\n\n\n\n        -\n\n\n\n        -\n\n\n\n      (b)     Minimizing structure-borne noise\n\n\n        -\n\n\n\n\n                                                                                 /- Isolate"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n\n        z    Isolate pipes and hangers with spring or rubber  isolator  (refer  to\n            Appendix A). Pipes passing through building walls should be provided\n             with rubber sleeve and gasket.\n                -\n\n\n\nDesign of Ventilation System"
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 435
+        },
+        {
+          "label": "b",
+          "offset": 485
+        }
+      ],
+      "text": "3.                 It is good design practice to achieve a noise level of 5dB(A) below the\nrelevant acceptable noise  levels promulgated  in paragraph 2  of  the \"Technical\nMemorandum for the Assessment of Noise from Places other than Domestic Premises,\nPublic Places or Construction Sites\" issued under the Noise Control Ordinance. In the\ndesign of  ventilation system, building professionals are advised  to consider the\nfollowing:-\n\n       (a)     For all systems\n-\n\n\n            -\n\n\n\n\n      (b)     For systems located near noise sensitive receivers (such as\n               residential premises and school)\n\n\n        -\n\n\n        -\n\n\n\n\n        -\n\n\n\nReference"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.            Technical guidance could be found in the booklet A Practical Guide for\nthe Reduction of Industrial Noise or other noise control pamphlets produced by the\nEnvironmental Protection Department.\n\n\n\n                                                                                                                      -"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p5-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "5.            Reference may also be made to the Noise Control Ordinance and the\nTechnical Memorandum issued under the Ordinance which stipulate the maximum\nallowable noise levels generated from pump rooms and ventilation systems (and those\nassociated with air conditioning systems).\n\n\n\n\n\n                                 (CHOI Yu-leuk)\n                                       Building Authority\n\n\n\n\n\nRef. : GR/ACT/11(II)\n\nFirst issue September 1998 (AD/D)\n\nIndex under : Noise annoyance prevention\n             Design of pump room\n             Design of ventilation system\n             Noise Control Ordinance"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -\n\n\n\n\n\n                       Partial\n\n\n\n\n\n                                                                         -"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 5 -\n\n\n\n\n\n                          Acoustic\n\n\n\n\n\n                                                                         -"
+    }
+  ]
+}

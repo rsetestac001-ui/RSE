@@ -1,0 +1,145 @@
+{
+  "code": "APP-045",
+  "source_text": "indexed_text/PNAP/APP/APP-045.txt",
+  "source_pdf": "documents/PNAP/APP/APP-045.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-45\n                          Registered Geotechnical Engineers\n\n\n                     Testing of Reinforcement for Concrete\n\n\n              Section 17(1)6 of the Buildings Ordinance (BO) empowers the Building\nAuthority to impose requirements for testing of steel reinforcing bars (rebars) when\napproving structural plans or granting consent to the commencement of building works.\nThe purpose of such testing is to verify the specified properties of steel rebars delivered\nto site and/or the prefabrication factory.  These verification tests are additional to the\nroutine testing carried out by the manufacturer at the rolling mill. Authorized persons\n(AP) and registered structural engineers (RSE) should ensure that specimens are selected\nat random from every batch of steel rebars delivered to site and/or the prefabrication\nfactory. Buildings Department (BD) adopts Construction Standard CS2:20121 (CS2) as\nan acceptable standard for compliance with such requirements.\n\nConstruction Standard CS2:2012"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          Under CS2, rebars include straight bars, coil and decoiled products except\ncold worked rebars.  It provides material specifications for grade 250 (for rebars up to 12\nmm diameter), grade 500B and grade 500C rebars, including requirements on mass per\nmetre, chemical composition, mechanical properties and bond property.  CS2 also\nspecifies requirements for certification of Quality Assured (QA) Stockists and QA Coil\nProcessors, and the purchaser’s testing.\n\nVerification Tests"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The verification tests imposed under section 17(1)6 of the BO should be\nthe purchaser’s tests referred to in CS2 and should be performed by a laboratory\naccredited by Hong Kong Accreditation Service under the Hong Kong Laboratory\nAccreditation Scheme (HOKLAS)."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 70
+        },
+        {
+          "label": "b",
+          "offset": 180
+        },
+        {
+          "label": "c",
+          "offset": 389
+        }
+      ],
+      "text": "4.          The test report should include the following information:\n\n        (a)    Classification and certification by QA Stockists for Class 1 and\n             Class 2 rebars;\n\n        (b)    Full  description  of  test specimens  including name  of  steel\n              manufacturer, country of origin, grade and size as stated by the\n             person submitting them for testing;\n\n        (c)    Sketch of pattern of deformation and mill marks;\n                                                                                           /(d) ...\n\n\n\n1  Available   in  Civil  Engineering  and  Development  Department  (CEDD)  website\n   (www.cedd.gov.hk) under the “Standards, BIM Objects, Specifications, Handbooks, Tender\n   Price and Cost Indices” page of “Publications” section."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2  -\n\n        (d)    Identification of the batch and date of delivery to the site/the\n               prefabrication factory to which the test specimens relate;\n\n        (e)    Measured mass per metre; and\n\n         (f)    Results  of chemical composition  (product  analysis),  tensile\n               properties, bend performance and bond property tests if required.\n\nCoils and Decoiled Products"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.         Amendment No. 2/2018 to CS22 and Technical Note No. 5 on CS22 issued\non 26 September 2018 cover the technical, inspection and testing requirements on coils\nand decoiled products, requirements on all coil processors to be QA Coil Processors,\nrecognition of off-site steel rebar prefabrication yards approved under Technical Circular\n(Works) No. 10/2018 3 (Approved Yards) as QA Coil Processors, and transitional\narrangement for the required delivery information/documentation of coils and decoiled\nproducts.\n\nOff-site Prefabricated Rebar Products"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.            Technical Circular (Works) No. 10/2018 promulgates, among others, the\nquality assurance requirements for admission and retention in the List of Approved Steel\nReinforcing Bar Prefabrication Yards 4 maintained by CEDD and engagement of an\nIndependent Audit Team (IAT) by CEDD to monitor and audit the quality management\nsystem (QMS) of the Approved Yard as well as providing quality supervision for\ncentralised batch sampling and testing of rebars for public works projects and housing\nprojects in accordance with CS2."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.             Prefabricated rebar products from Approved Yards within their approved\nscope (such as cutting and bending rebars, fabrication of reinforcement cages and\nthreading  of  rebars/coupling  with  reinforcement  connectors)  are  considered  as\nconforming to the Code of Practice for Structural Use of Concrete 2013 (2020 Edition),\nprovided that qualified supervision to the rebar prefabrication works is carried out in\naccordance with the provisions of the BO and its subsidiary regulations.\n\n\n\n\n\n                                                                      /Qualified ...\n\n\n2  Both available in CEDD website (www.cedd.gov.hk) under the “Standing Committee on\n   Concrete Technology Publications” page of “Publications” section.\n3  Available in the Development Bureau website (www.devb.gov.hk) under the “Technical\n   Circulars” page of “Publication and Press Releases” section.\n4  The  list with the approved scope for the Approved Yards available in CEDD website\n   (www.cedd.gov.hk) under the “Off-site Prefabricated Steel Reinforcing Bar Products” of\n   “Public Services & Forms” section."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3  -\n\nQualified Supervision of Sampling and Testing of Rebars"
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "8.           Approval of structural plans involving reinforced concrete construction\nwill be imposed with a condition under item 6 in section 17(1) of the BO to specify that\nqualified site supervision is to be provided by the RSE and the registered general building\ncontractor (RGBC)/registered specialist contractor (RSC), including, inter alia, sampling\nand testing of rebars."
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.           Batch sampling of rebars conducted in accordance with the QMS of the\nApproved Yard and witnessed by the IAT is accepted as satisfying the requirement of\nqualified  site supervision in respect of sampling of rebar in accordance with the\npurchaser’s testing requirement stipulated in Section 5 of CS2. To ensure compliance\nwith CS2, RSE and RGBC/RSC opting for this streamlined arrangement should check\nthe Approved Yard’s sampling records and IAT’s witness records, and the test reports of\nrebars certified by a HOKLAS accredited laboratory covering their particular project\nwhich are kept by the Approved Yard. Upon delivery of the prefabricated rebar products\nto the project site, a copy of the sampling records, witness records and test reports of the\nproducts should be kept on site for inspection by representatives of BD.  The list of\nprefabricated rebar products used in the project site, together with a statement signed by\nthe RSE to confirm the rebars in compliance with the BO and its subsidiary regulations,\nshould be submitted to BD within 21 days of delivery of the prefabricated rebar products\nto the project site."
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.            Alternatively, RSE and RGBC/RSC may make their own arrangements\nwith the Approved Yards on the supervision of the sampling of rebars, delivery of\nsamples to their appointed HOKLAS accredited laboratory, and testing of samples in\naccordance with CS2 by their appointed quality control supervisor and quality control\ncoordinator respectively.\n\nGuidelines for Registered Contractors"
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.       A similar practice note has been issued to registered contractors.\n\n\n\n\n\n                                                          ( YU Po-mei, Clarice )\n                                              Building Authority\n\n\nRef. : BD GP/BREG/C/3 (Pt. 5)\n     SE/A/103 (Pt. III)\n\nThis PNAP is previously known as PNAP 122\nFirst issued   December 1986\nLast revision  April 2019\nThis revision May 2023 (AD/NB2) (Paragraphs 1, 4, 6, 7 & 9 amended, and paragraph\n                              11 added)"
+    }
+  ]
+}

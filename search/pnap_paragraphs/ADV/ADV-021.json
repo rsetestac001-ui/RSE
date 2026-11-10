@@ -1,0 +1,410 @@
+{
+  "code": "ADV-021",
+  "source_text": "indexed_text/PNAP/ADV/ADV-021.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-021.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n                                                       ADV-21Persons, Registered Structural Engineers and Registered Geotechnical Engineers\n\n                                Practice Note for Authorized Persons Buildings Department                                               252\n                          and Registered Structural Engineers\n\n\n                     Management Framework for\n                    Disposal of Dredged/Excavated Sediment\n\nIntroduction\n\n              This practice note is issued to provide information on the management\nframework  for dredged/excavated sediment  disposal under  the Dumping  at Sea\nOrdinance, Cap. 466 (DASO).   It states the requirements for justifying the need for\ndredging and  provides  guidance  for  the  authorized  persons/registered  structural\nengineers/registered  geotechnical  engineers  (AP/RSE/RGE)  on how  to  obtain\ninformation on the sediment, which can then be used for supporting the permit\napplication by the contractors and/or other parties responsible for the disposal.  It also\ndescribes the classification of sediment into three categories based on their contaminant\nlevels, outlines the procedures for assessing sediment quality and explains the marine\ndisposal arrangements for the different sediment categories."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            This practice note applies to all private projects which involve the marine\ndisposal of dredged/excavated sediment and whose dredging/excavation work for which\nmud dredging/excavation proposals have not yet been agreed by the Marine  Fill\nCommittee (MFC). For previously approved dredged/excavated sediment disposal\nproposals, re-testing of sediment in accordance with this practice note will be required,\nunless waived by the Director of Environmental Protection (DEP), if the time lapse\nbetween commencement of sampling and commencement of construction works is more\nthan three years. Examples of projects include reclamation, construction of marinas and\ndeep excavation for basement construction where the excavated sediment is of such\nquantity that marine disposal has to be adopted.\n\nRationale for Dredging"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The allocation of sediment disposal space at sea will not be considered\nuntil the need for removal of the sediment has been satisfactorily demonstrated. The\nrationale for sediment removal must therefore be provided to the Secretary of MFC for\nagreement, as early as possible, preferably at the Environmental Impact Assessment\nStage, if one is conducted. Volumes of Category L sediment (see Appendix A) below\n50,000 m3 are exempted from this requirement."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 101
+        },
+        {
+          "label": "b",
+          "offset": 217
+        }
+      ],
+      "text": "4.           Dredging  of sediment  will be allowed without  justification  in  the\nfollowing cases:\n\n          (a)   emergency   dredging   for   safety   reasons   or   averting\n              environmental hazards;\n\n         (b)   maintenance/deepening  of  the  harbour  fairways,  berths,\n              anchorages, navigation channels or approaches; and\n\n                                                                                                 / (c) ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n         (c)   maintenance (but not construction) of watercourses, rivers,\n             stream courses, drainage channels or outfalls."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.             In  all other cases, AP/RSE/RGE should plan  their projects on the\nassumption of keeping the mud in place. Time for consolidation of mud, with treatment\nif necessary, and consequential programme  constraints should be allowed for  in\nprogramming. Additional time required for consolidation of mud left in place will not be\naccepted as justification for mud dredging. MFC will scrutinise applications for\nexemption  taking  into account  factors  including  the  practicality  of performance\nspecifications, completeness of risk management strategies, and comprehensiveness of\noption assessments including consideration of new technology. Where cost is considered,\nthe estimation must include a fair and complete estimate of  all cost components,\nincluding the actual cost of mud disposal (obtainable from MFC Secretariat) and\nnecessary dredging and transportation, disposal management, monitoring and other\nassociated activities.\n\nClassification of Sediment"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.         DEP, as the Authority under the DASO, will classify sediments based on\ntheir contaminant levels with reference to the Chemical Exceedance Levels (CEL) laid\ndown in Appendix A.\n\nDetermination of Sediment Quality"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 259
+        },
+        {
+          "label": "b",
+          "offset": 375
+        }
+      ],
+      "text": "7.            Guidelines on the  initial data assessment, the sampling and  testing\nprocedures, the biological test criteria, and the submission requirements are set out in\nAppendix B. DEP may waive the sediment sampling and testing requirements in cases\nof:\n\n         (a)   emergency  dredging  for  reasons  of  safety  or  averting\n             environmental hazards; and\n         (b)   for small scale dredging works of maintenance nature and\n              involving dredging volumes of less than 5,000 m3 in situ.\n\nPreviously obtained data or known history of the sediment in the vicinity should be\nsubmitted to DEP for consideration of the most appropriate arrangements for handling\nthese materials."
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.         Upon agreement of the rationale for sediment removal by the Secretary of\nMFC, the AP/RSE/RGE must, in consultation with DEP, assess whether the existing\ndata can conclusively demonstrate that the sediment is suitable for open sea disposal.  If\nno such conclusion can be drawn, the AP/RSE/RGE must submit proposals for sampling\nand chemical testing of the sediment to DEP for approval. The proposals shall be copied\nto the Secretary of MFC, together with details of the anticipated disposal requirements."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.         Upon completion of the sampling and chemical testing, the AP/RSE/RGE\nshall submit a Preliminary Sediment Quality Report (PSQR) to DEP and copy to the\n\n                                                                                / Secretary ….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n\nSecretary of MFC. This report shall include the sampling details, the chemical testing\nresults, quality control records, proposed classification and delineation of sediment\naccording to Appendix A, and the information and/or records as specified by DEP in his\napproval of sediment sampling and testing plan."
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.              If Category M sediment and/or certain Category H sediment are found in\nthe sediment, the AP/RSE/RGE will be required to carry out a biological screening in\naccordance with Section 3 of Appendix B, and submit a formal Sediment Quality Report\n(SQR) to DEP for approval. This must be done at least 3 months prior to the dredging\ncontract being tendered or at least 2 months prior to the works order for maintenance\ndredging being issued. In cases where biological screening is not required, subject to the\napproval of DEP, the PSQR will be deemed to be the formal SQR."
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.         At the time of approval of the SQR, DEP will specify the period beyond\nwhich the reliability of the SQR data must be reviewed. This period starts on the actual\ndate of commencement of sampling and will be not less than three years.  The\nAP/RSE/RGE shall obtain DEP's prior agreement to the review methodology and\nsampling locations. Depending on the review finding, further sampling and testing to\nupdate the data of the SQR may be required."
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.         The AP/RSE/RGE must schedule the preparation of the SQR or  its\nsubsequent review in such a way that the SQR will still be reliable for a reasonable period\nof time after the award of the contract, to allow the contractor to apply for a dumping\npermit.  The AP/RSE/RGE must also include a particular specification clause in the\ncontract to draw the contractor's attention to the requirement that the SQR must still be\nreliable at the time of applying for a dumping permit under the DASO. The clause should\nalso state the expiry date of the reliability period of the current SQR and that it is the\ncontractor's responsibility for carrying out, at his own expense, any work required to\nextend the reliability period of the SQR should he fail to apply for a dumping permit\nbefore the expiry date.\n\nAllocation of Sediment Disposal Site"
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "13.      MFC will determine the most appropriate open sea or confined marine\ndisposal site on the basis of the chemical and biological test results and formally allocate\ndisposal space in accordance with the flow chart in Appendix C.  For projects with\ndisposal requirements of less than 50,000 m3 Category L sediment, the allocation of\ndisposal space has been delegated to DEP.  The AP/RSE/RGE may request the\nSecretariat of MFC to provisionally indicate an appropriate marine disposal site or sites\nafter the rationale for sediment removal has been agreed. An estimate of the volume and\nquality of sediment to be dredged, supported by available ground investigation and\ntesting data, should be provided to the Secretary of MFC at the time of submission of the\nrequest. The contract document must include the disposal requirements from MFC &\nDEP, and relevant guidelines given under Notes (1) to (6) in Appendix C."
+    },
+    {
+      "id": "p14-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "14.      For private projects allocated with marine disposal space, there will be a\ncharge per cubic metre as measured in situ at the dredging site and as certified by the\nAP/RSE/RGE.\n                                                                                                / 15 ….."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -"
+    },
+    {
+      "id": "p15-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "15.         The MFC Secretariat maintains a database on  fill requirements and\nsurplus materials of civil engineering projects in Hong Kong to facilitate the planning and\nmanagement of fill and disposal resources. The AP/RSE/RGE of private developments\nshall ensure that details of any  fill requirements or disposal requirements, and the\nsubsequent updates, are sent to the MFC Secretariat using the form downloaded from\nhttp://www.cedd.gov.hk/eng/services/fillmanagement/fm_fmd_essbe.htm   preferably\nvia electronic transfer, copied to Buildings Department.\n\nApplication for Marine Dumping Permit"
+    },
+    {
+      "id": "p16-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "16.       DEP controls dumping at sea by means of DASO permits which are\nissued to contractors or other parties responsible for the disposal of dredged/excavated\nsediment.  The contractor who will be undertaking the works must make a formal\napplication to DEP for a dumping permit, and if the permit is granted, it will be the\ncontractor's responsibility to ensure that the permit conditions are met to DEP's\nsatisfaction."
+    },
+    {
+      "id": "p17-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "17.        Any queries regarding this practice note should be directed to the MFC\nSecretariat (Tel. no.: 2762 5598) or the Territorial Control Office  of EPD (Tel. no.:\n2835 1287).\n\n\n\n\n\n                                                                       ( H W CHEUNG )\n                                                       Building Authority\n\n\n\n\nRef: BD GR/1-10/1/0\n\nFirst issue May 2001\nLast revision January 2003\nThis revision April 2007 (AD/NB1, DEP) (Paragraphs 2, 15 and 17 updated )\n\nIndex under:  Disposal of Dredged/Excavated Sediment\n             Dredged/Excavated Sediment – Disposal of"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Appendix A\n                                                    (PNAP 252)\n                                                           (ADV-21)\n          Sediment Quality Criteria for the Classification of Sediment\n\n                                 Lower Chemical    Upper Chemical\n Contaminants                       Exceedance Level   Exceedance Level\n                                    (LCEL)          (UCEL)\n Metals (mg/kg dry wt.)\n Cadmium (Cd)                                 1.5                 4\n Chromium (Cr)                             80                160\n Copper (Cu)                               65                110\n Mercury (Hg)                                  0.5                 1\n Nickel (Ni)*                               40                 40\n Lead (Pb)                                  75                110\n Silver (Ag)                                 1                  2\n Zinc (Zn)                                 200                270\n Metalloid (mg/kg dry wt.)\n Arsenic (As)                               12                 42\n Organic-PAHs (µg/kg dry wt.)\n Low Molecular Weight PAHs                 550               3160\n High Molecular Weight PAHs                1700               9600\n Organic-non-PAHs (µg/kg dry wt.)\n Total PCBs                                23                180\n Organometallics (µg TBT/L in\n Interstitial water)\n Tributyltin*                                  0.15                0.15\n* The contaminant level is considered to have exceeded the UCEL if it is greater than\n  the value shown.\n\nThe sediment is classified into 3 categories based on its contaminant levels:\n\nCategory L:  Sediment with all contaminant levels not exceeding the Lower Chemical\n            Exceedance Level (LCEL). The material must be dredged, transported\n            and disposed of in a manner which minimizes the loss of contaminants\n               either into solution or by resuspension.\nCategory M: Sediment with any one or more contaminant levels exceeding the Lower\n            Chemical Exceedance Level (LCEL) and none exceeding the Upper\n            Chemical Exceedance Level (UCEL). The material must be dredged and\n              transported  with  care, and must  be  effectively  isolated from  the\n             environment upon  final  disposal  unless  appropriate  biological  tests\n             demonstrate  that  the  material  will  not adversely  affect  the marine\n             environment.\nCategory H:  Sediment with any one or more contaminant levels exceeding the Upper\n            Chemical Exceedance Level (UCEL). The material must be dredged and\n              transported with great care, and must be effectively isolated from the\n             environment upon final disposal.\n(Rev. 1/2003)"
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix B\n                                                    (PNAP 252)\n                                                            (ADV-21)\n                      Guidelines for Sediment Assessment\n\n     The purpose of these guidelines is to set out the requirements for assessing,\nsampling, testing and categorising the sediment. The sampling and testing procedures\nare  critical  to  the accurate evaluation of  the sediment contamination, and  close\nsupervision by the AP/RSE/RGE is therefore necessary. All project departments or the\nAP/RSE/RGE must comply with  these requirements when  notifying Director of\nEnvironmental Protection (DEP) and Marine Fill Committee (MFC) of an intention to\ndredge/excavate and dispose of the sediment.\n\n     The sampling and testing procedures and the subsequent submission of a Sediment\nQuality Report normally require 8 months to complete.\n\n   A  list of accredited  laboratories capable of carrying out  biological  testing\nstipulated under these guidelines is kept and updated by DEP."
+    },
+    {
+      "id": "p1-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 424
+        },
+        {
+          "label": "i",
+          "offset": 684
+        },
+        {
+          "label": "v",
+          "offset": 1085
+        }
+      ],
+      "text": "1.   TIER 1 - Review of Existing Information for Site Contamination Assessment\n\n     The purpose of Tier I screening is to review available information to determine\n     whether the sediment belongs to Category L material suitable for open sea disposal.\n        If the AP/RSE/RGE considers that there is insufficient information to arrive at\n     such a conclusion, the AP/RSE/RGE may proceed directly to Tier II screening.\n\n      (a)  Submission requirements\n\n         The AP/RSE/RGE shall submit a formal proposal to DEP and copy to the\n           Secretary of MFC in the Civil Engineering and Development Department.\n         The proposal should contain the following information:\n\n               (i)    project name;\n\n               (ii)   plan  showing  detailed  location  and  boundary  of  the\n                dredging/excavation site;\n\n               (iii)  estimated volume of dredged/excavated sediment requiring\n                  disposal;\n\n             (iv)   timetable  for  dredging/excavation  operation  and  the\n                corresponding disposal space required;\n\n            (v)   previous dredging/excavation history of the site;\n\n             (vi)  previous use of the site; and\n\n             (vii)  other available site specific information (e.g. sediment grain\n                   size,  total organic carbon (TOC), geotechnical data and\n                previous testing results).\n\n                                                   - 1 -"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "(b) Necessity to proceed to Tier II - chemical screening\n\n       DEP will examine the submission and advise whether:\n\n               (i)    the information is sufficient to conclude that the sediment is\n                  suitable for open sea disposal and the submission can be\n                accepted as a formal Sediment Quality Report; or\n\n               (ii)   Tier II - chemical screening is required."
+    },
+    {
+      "id": "p2-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 249
+        },
+        {
+          "label": "i",
+          "offset": 472
+        },
+        {
+          "label": "v",
+          "offset": 946
+        }
+      ],
+      "text": "2.   TIER II - Chemical Screening\n\n      Tier II screening is designed to categorise the sediment based on its chemical\n      contaminant levels, and to determine whether the sediment is suitable for open sea\n      disposal without further testing.\n\n      (a)  Submission requirements\n\n         The AP/RSE/RGE shall submit for approval a test proposal to DEP and copy\n            to the Secretary of MFC.  The proposal should contain the following\n           information:\n\n               (i)    project name;\n\n               (ii)   plan  showing  detailed  location  and  boundary  of  the\n                dredging/excavation site;\n\n               (iii)  estimated volume of dredged/excavated sediment requiring\n                  disposal;\n\n             (iv)   the anticipated timetable for taking the sample, carrying out\n                 the tests, and producing the Sediment Quality Report for\n                chemical & biological screening;\n\n            (v)   a plan showing the area to be dredged, the locations to be\n               sampled and their Hong Kong metric grid coordinates;\n\n                 In general, the following sampling arrangement should be\n                adopted:\n\n               Expected           Recommended Sampling\n                contamination level    Arrangement\n            Low                 200 x 200 m grid, surface sample\n                                        only\n               High                 100 x 100 m grid, vertical profile\n                                           of samples\n               Very high             50 x 50 m grid, vertical profile of\n                   (e.g. near outfalls,      samples\n                 or nullahs)\n\n                                                   - 2 -"
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "When  biological  screening  is  anticipated,  samples  of\n      reference sediment should also be taken. Reference sediment\n      required for the test may be collected from reference sites in\n     Hong Kong waters designated by DEP from time to time.\n      Alternative reference sites may be used.  However, these\n       alternative sites should be outside the influence of previous\n      disposal operations but close enough to reflect similar natural\n      environmental characteristics (e.g. grain size and TOC) of\n       potential disposal sites. The AP/RSE/RGE should furnish\n      information on these alternative  sites to show that their\n      sediments are clean and are of similar natural characteristics\n       to that of the disposal sites.\n\n(vi)   a schedule of the types of samples to be taken (e.g. grab\n      samples, gravity coring, piston samples, vibrocores, etc.)\n      with their locations and depths;\n\n     Where vertical profiles of samples are to be taken, samples\n      should be continuous, and the top level of the sub-samples\n      should be the seabed, 0.9m down, 1.9m down, 2.9m down,\n     and then every 3m to the bottom of the dredged layers.\n\n     The size of samples collected should be adequate for this tier\n      of chemical testing as well as the next tier of biological\n       testing described in subsequent sections.\n\n      Parameters to be tested         Sample size*\n\n       Metals and metalloid              0.5 litre\n       Organic                          0.5 litre\n       Biological response              6 litres\n\n     * Quantity to be confirmed by  testing laboratory.  The\n        quantity of reference sediment to be collected needs to be\n        separately  worked  out  for  each  case,  especially   if\n        biological dilution tests are anticipated.\n\n(vii)  a schedule of tests to be carried out on the samples.\n\n      Unless otherwise specified, all samples shall be tested for all\n      the contaminants (except Tributytin (TBT)) stated in Table 1\n        - Analytical Methodology  at the end of  this Appendix.\n      Analysis   for   other   contaminants,   such   as  TBT,\n      Dichloro-diphenyl-trichloroethane     (DDT),      other\n      organo-chlorine compounds, and other hazardous chemicals\n     which arise from specific industrial discharge or spillage,\n     may also be required by DEP in areas where contamination\n\n\n                                     - 3 -"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "by such compounds is suspected. The composite samples for\n            biological testing should also be tested for moisture content,\n           grain size (% <63µm), TOC and ammonia (as mgN/L) and\n             salinity in porewater.\n\n(b)  Sampling and testing requirements\n\n       (i)   Sampling practice and sample storage\n\n           All sampling bottles should be labelled with the station\n         number, sample length, diameter and depth, sampling date\n          and time, together with a full description of the sample.\n\n         The recommended types of sampling bottle and pretreatment\n          methods are:\n\n          Parameters  Sampling bottle         Pretreatment\n            to be tested                        Procedure#\n           Metals and   High density         USEPA\n            metalloid     polyethylene bottles*    SW-846+\n                                                Chapter 3\n           Organic     Wide mouth Borosilicate USEPA SW-846\n                            glass bottles with Teflon  Chapter 4\n                            lined lid\n            Biological   Wide mouth Borosilicate USEPA SW-846\n           response      glass bottles with Teflon  Chapter 3 or\n                            lined lid or high density   Chapter 4 as\n                          polyethylene bottles *     appropriate.\n\n         *  Heavy duty plastic bags may be used for the storage of\n              sediment  sample  for  testing  metals,  metalloid  and\n                biological response.\n\n         #   Other equivalent methods may be used subject to the\n              approval of DEP.\n\n     +  Test   methods    for    evaluating    solid    waste:\n               physical/chemical  methods,  SW-846,  3rd  edition,\n              United States Environmental Protection Agency.\n\n         The samples should be kept at 4ºC in the dark and should not\n          be frozen. All samples should be promptly analysed.  If this\n              is impractical, the recommended maximum holding time is:\n\n          Sample type           Maximum holding time\n\n           Chemical test              2 weeks\n            Biological test             8 weeks\n\n        (ii)  Analytical methodologies for chemical screening\n\n                                           - 4 -"
+    },
+    {
+      "id": "page-10-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        10
+      ],
+      "text": "The analytical method used for detecting each contaminant\n                should be in accordance with the methodology described in\n                Table 1  -  Analytical Methodology  at  the end  of  this\n               Appendix.\n\n       (c)  Quality assurance/quality control (QA/QC) requirements\n\n           All  tests must be conducted by laboratories accredited by Hong Kong\n          Laboratory  Accreditation Scheme (HOKLAS)  or,  in case  of overseas\n            laboratories, by equivalent national accreditation for these tests.\n\n       (d) Necessity to proceed to Tier III - biological screening\n\n          There is no need to proceed to Tier III for Category L sediment. However,\n           the AP/RSE/RGE must proceed to Tier III for further analysis of Category M\n          and certain Category H sediment. For the latter, Tier III screening is only\n           required  if one or more contaminant levels exceed 10 times the Lower\n          Chemical Exceedence Level (LCEL)."
+    },
+    {
+      "id": "p3-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 184
+        },
+        {
+          "label": "i",
+          "offset": 408
+        }
+      ],
+      "text": "3.   TIER III - Biological Screening\n\n     The purpose of Tier III screening is to identify the most appropriate disposal option\n      for Category M and certain Category H sediments.\n\n      (a)   Submission requirements\n\n          The AP/RSE/RGE shall submit for approval a test proposal to DEP and\n          copy to the Secretary of MFC. The proposal should contain the following\n            information:\n\n                (i)   the number of biological tests;\n\n                (ii)  the arrangement for preparing the composite samples; and\n\n                 (iii) the test species and test conditions.\n\n            In general, all biological tests should be conducted on composite samples.\n          Composite sample is prepared by mixing up to 5 samples of the same\n            category (M or H) which are continuous in vertical or horizontal profile.\n\n           Sediment classified as Category M shall be subjected to the following three\n             toxicity tests (to be considered as one set) on each composite sample:\n\n                    a 10-day burrowing amphipod toxicity test ; and\n\n                    a 20-day burrowing polychaete toxicity test; and\n\n                    a 48-96 hour larvae (bivalve or echinoderm) toxicity test.\n\n\n                                                   - 5 -"
+    },
+    {
+      "id": "page-11",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        11
+      ],
+      "text": "Sediment classified as Category H and with one or more contaminant levels\n      exceeding 10 times LCEL shall also be subjected to the above three toxicity\n       tests but in a diluted manner (dilution test). The samples shall be prepared\n      prior to toxicity testing as follows:\n\n      Sediment characteristics      Preparation method\n\n      Category H sediment          Sample to be mixed with 9 portions of\n    (> 10 x LCEL)                reference sediment\n\n      Category M sediment or        Additional set of sample (after dilution\n      Category H sediment (> 10 x   for Cat. H sediment) to be purged# for\n     LCEL) suspected of ammonia   ammonia removal (for amphipod test\n       contamination                   only).\n\n\n     #       If the ammonia concentration in the overlying water of the test system\n                is ≥ 20 mg/L, purging of sediment is required. This is performed by\n            replacing the overlying water at a rate of 6 volume replacements/24 h\n             for 24 hours, and repeated once only  if the ammonia level  still\n            exceeds 20 mg/L.\n\n(b)  Testing requirements\n\n    The test endpoints and decision criteria are summarized in Table 2 at the end\n     of this Appendix. The sediment is deemed to have failed the biological test if\n        it fails in any one of the three toxicity tests.\n\n    Only ecologically relevant species should be used for carrying out the\n     biological screening tests. The species to be used for each type of test can be\n     selected from the following:\n\n      Test Types     Species                 Reference Test Conditions*\n     10-day         Ampelisca abdita        U.S.EPA(1994)/PSEP(1995)\n     burrowing                      Leptocheirus plumulosus  U.S.EPA(1994)\n     amphipod\n       toxicity test     Eohaustorius estuarius    U.S.EPA(1994)/PSEP(1995)\n     20-day         Neanthes               PSEP(1995)\n     burrowing      arenaceodentata\n      polychaete\n       toxicity test\n     48-96 hour      Bivalve:\n      larvae           Mytilus spp.            PSEP(1995)\n      (bivalve or                      Crassostrea gigas        PSEP(1995)\n     echinoderm)\n       toxicity test     Echinoderm :\n                     Dendraster excentricus   PSEP(1995)\n                      Strongylocentrotus spp.   PSEP(1995)\n\n                                           - 6 -"
+    },
+    {
+      "id": "page-12-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        12
+      ],
+      "text": "*U.S.EPA (U.S. Environmental Protection Agency) 1994.  Methods for\n           assessing the toxicity of sediment-associated contaminants with estuarine and\n          marine  amphipods.    Office  of  Research  and  Development.  U.S.\n          Environmental Protection Agency, Cincinnati, OH. EPA/600/R94/025.\n\n        PSEP (Puget Sound Estuary Program) 1995. Recommended guidelines for\n          conducting laboratory bioassays on Puget Sound sediments.\n\n        (c) Quality assurance/quality control (QA/QC) requirements\n\n           All biological tests must be conducted by laboratories with appropriate\n            accreditation.\n\n         The biological test shall include appropriate quality assurance/quality control\n          such as:\n\n               (i)   Negative Control\n\n               (ii)   Positive Control"
+    },
+    {
+      "id": "p4-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "i",
+          "offset": 401
+        }
+      ],
+      "text": "4.   Reporting Requirement after Completion of Chemical & Biological Screening\n\n     Submission requirements\n\n    Upon completion of each stage of screening (chemical and biological), the\n    AP/RSE/RGE shall submit to DEP and copy to the Secretary of MFC a report on\n      the results covering all tests conducted so far.  The report should include the\n      following information where appropriate:\n\n        (i)   plans showing the delineation of each of the 3 categories of\n           dredged/excavated  material  and  the  corresponding  types  of\n            disposal required based on the chemical and biological screening\n             results, and\n\n        (ii)   the following information :\n\n         −   Name and location of the testing laboratory\n\n         −    Location of samples and source of reference sediments,\n              method of collection, handling, preservation and storage,\n                 dates and times of sample collection and receipt at the testing\n                 laboratory\n\n               (For chemical screening)\n\n             −   Dates of analysis\n\n             −   Analytical methods and detection limits\n\n\n                                                   - 7 -"
+    },
+    {
+      "id": "page-13",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        13
+      ],
+      "text": "−   Tabulated sample results with units, including reporting\n    basis (e.g., wet, dry, TOC normalized)\n\n−  QA/QC results\n\n−   Explanations  for  all  departures from  the  standard\n    protocols and discussion of possible effects on the data\n\n(For biological screening)\n\n−   Test species information such as the source, size, history\n    and age of test organisms\n\n−   Source of control seawater and control sediment used,\n    including any pretreatment\n\n−   Preparation procedures for test sediment sample and test\n    organisms\n\n−   Test conditions for each test including any deviation\n    from standard procedures and discussion of possible\n     effects on the data\n\n−  Water quality measurement during testing\n\n−  QA/QC results\n\n−   Effect  measurements,  end  point  results  and  their\n     statistical significance\n\n\n\n\n\n                             - 8 -"
+    },
+    {
+      "id": "page-14",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        14
+      ],
+      "text": "Table 1 - Analytical Methodology\n\n                                               Determination\n                        Preparation Method                       Reporting\nParameters                                  Method\n                   US EPA Method                           Limit\n                                  US EPA Method\nMetals\n(mg/kg dry wt.)\nCadmium (Cd)               3050B        6020A or 7000A or        0.2\n                                            7131A\nChromium (Cr)               3050B         6010C or 7000A or       8\n                                                 7190\nCopper (Cu)                 3050B         6010C or 7000A or       7\n                                                 7210\nMercury (Hg)                7471A             7471A             0.05\n Nickel (Ni)                  3050B         6010C or 7000A or       4\n                                                 7520\nLead (Pb)                   3050B         6010C or 7000A or       8\n                                                 7420\n Silver (Ag)                  3050B        6020A or 7000A or        0.1\n                                                 7761\n Zinc (Zn)                   3050B         6010C or 7000A or       20\n                                                 7950\n Metalloid\n(mg/kg dry wt.)\n Arsenic (As)                 3050B        6020A or 7000A or       1\n                                            7061A\nOrganic-PAHs\n (µg/kg dry wt.)\nLow Molecular Weight   3550B or 3540C and    8260B or 8270C        55\nPAHs+                    3630C\nHigh Molecular Weight   3550B or 3540C and    8260B or 8270C       170\nPAHs++                   3630C\n\nOrganic-non-PAHs\n (µg/kg dry wt.)\n Total PCBs+++        3550B or 3540C and         8082             3\n                          3665A\n Organometallics\n (µg TBT/L in interstitial\n water)\n Tributyltin             Krone et al. (1989)* -  Krone et al. (1989)* -     0.015\n                      GC/MS          GC/MS\n                    UNEP/IOC/IAEA**  UNEP/IOC/IAEA**\n\nFootnotes:  (i)  The reporting limits shown in this table are the most stringent limits\n               which will be specified by DEP. AP/RSE/RGE should consult DEP on\n                 the required limits in the preparation of proposals for sampling and\n                chemical testing of the sediment.\n\n\n                                                   - 9 -"
+    },
+    {
+      "id": "page-15",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        15
+      ],
+      "text": "(ii)  Other equivalent methods may be used subject to the approval of DEP.\n\n\n +  Low molecular weight PAHs include acenaphthene, acenaphthylene,\n       anthracene, fluorene, naphthalene, and phenanthrene\n\n\n ++ High   molecular   weight  PAHs   include   benzo[a]anthracene,\n       benzo[a]pyrene,  chrysene,  dibenzo[a,h]anthracene,  fluoranthene,\n       pyrene,         benzo[b]fluoranthene,         benzo[k]fluoranthene,\n       indeno[1,2,3-c,d]pyrene and benzo[g,h,i]perylene\n\n\n +++ The reporting limit is for individual PCB congeners.  Total PCBs\n       include 2,4' diCB, 2,2',5 triCB, 2,4,4' triCB, 2,2',3,5' tetraCB,\n       2,2',5,5' tetraCB, 2,3',4,4' tetraCB, 3,3',4,4' tetraCB, 2,2',4,5,5'\n      pentaCB,  2,3,3',4,4'  pentaCB,  2,3',4,4',5  pentaCB,  3,3',4,4',5\n      pentaCB,    2,2',3,3',4,4'   hexaCB,    2,2',3,4,4',5'   hexaCB,\n       2,2',4,4',5,5'  hexaCB,  3,3',4,4',5,5'  hexaCB,  2,2',3,3',4,4',5\n      heptaCB, 2,2',3,4,4',5,5' heptaCB, 2,2',3,4',5,5',6 heptaCB (ref: the\n      \"summation\" column of Table 9.3 of Evaluation of Dredged Material\n      Proposed for Discharge in Waters of the U.S. - Testing Manual (The\n       Inland Testing Manual) published by USEPA).\n\n\n  *   Krone et al. (1989), A method for analysis of butyltin species and\n      measurement of butyltins in sediment and English Sole livers from\n      Puget Sound, Marine  Environmental  Research 27  (1989)  1-18.\n        Interstitial water to be obtained by centrifuging the sediment and\n       collecting the overlying water.\n\n\n**   UNEP/ICO/IAEA refers to IAEA's Marine Environment Laboratory\n       reference methods. These methods are available free of charge from\n     UNEP/Water or Marine Environmental Studies Laboratory at IAEA's\n      Marine Environment Laboratory.  Interstitial water to be obtained by\n       centrifuging the sediment and collecting the overlying water.\n\n\n\n\n\n                                     - 10 -"
+    },
+    {
+      "id": "page-16",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        16
+      ],
+      "text": "Table 2 - Test Endpoints and Decision Criteria for Tier III Biological Screening\n\n\n Toxicity test        Endpoints measured  Failure criteria\n\n\n 10-day amphipod     Survival           Mean  survival  in  test  sediment  is\n                                                   significantly different (p ≤ 0.05)1 from\n                                    mean survival in reference sediment\n                                    and mean survival in  test sediment\n                    < 80% of mean survival in reference\n                                             sediment.\n\n 20-day polychaete    Dry Weight2        Mean dry weight in test sediment is\n worm                                            significantly different (p ≤ 0.05)1 from\n                                    mean dry weight in reference sediment\n                                    and mean dry weight in test sediment\n                    < 90%  of  mean  dry  weight  in\n                                              reference sediment.\n\n 48-96 hour larvae     Normality Survival3   Mean  normality  survival   in   test\n (bivalve or                                sediment   is   significantly   different\n echinoderm)                                  (p ≤ 0.05)1  from  mean  normality\n                                                survival  in  reference sediment and\n                                    mean  normality   survival   in   test\n                                      sediment< 80%  of mean normality\n                                                survival in reference sediment.\n\n\n1    Statistically  significant  differences  should  be  determined  using  appropriate\n    two-sample comparisons (e.g. t-tests) at a probability of p≤0.05.\n\n\n2   Dry weight means total dry weight after deducting dead and missing worms.\n\n\n3   Normality survival integrates the normality and survival end points, and measures\n     survival of only the normal larvae relative to the starting number.\n\n\n\n\n\n(Rev. 4/2007)\n\n\n\n\n                                                  - 11 -"
+    },
+    {
+      "id": "page-17",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        17
+      ],
+      "text": "Appendix C\n                                        (PNAP 252)\n                                               (ADV-21)\n\n\n\nManagement Framework for Dredged/Excavated Sediment\n\n\n\n\n\n                            Manage\n                      ment Framework\n                          for Dredged/Exca\n\n\n\n\n\n                           vated S\n                     ediment\n\n\n\n\n\n                              - 1 -"
+    },
+    {
+      "id": "page-18",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        18
+      ],
+      "text": "Notes\n\n\n(1)  Most open sea disposal sites are multi-user facilities and as a consequence their\n     management involves a flexibility to accommodate varying and unpredictable\n      circumstances. Contract documents should include provisions to allow the same\n     degree of flexibility should  it be necessary to divert from one disposal site to\n     another during the construction period of a contract.\n\n(2)   Dedicated Sites will be monitored to confirm that there is no adverse impact.\n\n(3)  For sediment requiring Type 2 or Type 3 disposal, contract documents should state\n      the allocation conditions of MFC and DEP. At present, East Sha Chau mud pits\n      are designated for confined marine disposal.\n\n(4)    If any sediment suitable for Type 3 disposal (Category H sediment failing the\n      biological dilution test) is identified,  it is the responsibility of the AP/RSE, in\n      consultation with DEP, to identify and agree with him/her, the most appropriate\n      treatment and/or disposal arrangement. Such a proposal is likely to be very site\n     and project specific and therefore cannot be prescribed.  This will not preclude\n      treatment of this sediment to render it suitable for confined marine disposal.\n\n(5)  The allocation of disposal space may carry a requirement for the project proponent\n      to arrange for chemical analysis of the sediment sampled from 5% of the vessels\n      en-route to the disposal site. For Category M and certain Category H sediment, the\n     chemical  tests will be augmented by biological  tests.  Vessel sampling will\n     normally entail mixing five samples to form a composite sample from the vessel\n     and undertaking laboratory tests on this composite sample.  All marine disposal\n       sites will be monitored under the general direction of the Civil Engineering and\n     Development Department. However, exceptionally large allocations might require\n     some additional disposal site monitoring. These will be stipulated at the time of\n      allocation.\n\n(6)   Trailer suction hopper dredgers disposing of sediment at East Sha Chau must use\n      a down-a-pipe disposal method, the design of which must be approved in advance\n     by DCE. The dredging contractor must provide equipment for such disposal.\n\n\n\n\n\n(Rev. 1/2003)\n\n\n                                                   - 2 -"
+    }
+  ]
+}

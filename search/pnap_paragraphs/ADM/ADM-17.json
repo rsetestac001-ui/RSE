@@ -1,0 +1,471 @@
+{
+  "code": "ADM-17",
+  "source_text": "indexed_text/PNAP/ADM/ADM-17.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-17.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and       ADM-17\n                          Registered Geotechnical Engineers\n\n\n           Submission of Plans and Documents in Electronic Format\n\nIntroduction\n\n            The Electronic Transactions Ordinance (ETO) (Cap. 553) was enacted to\nfacilitate the use of electronic transactions for commercial and other purposes.  It gives\nelectronic records and digital signatures used in electronic transactions the same legal\nstatus as that of their paper-based counterparts."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The ETO provides that if a rule of law requires information to be given in\nwriting, an electronic record satisfies such requirement if the information is accessible so\nas to be usable for subsequent reference (section 5 of the ETO).  In addition, if the\nsignature of a person is required on the information, a digital signature of the person\nsatisfies such requirement if the digital signature is supported by a recognised certificate\nand is generated within the validity of that certificate (section 6 of the ETO)."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           These provisions of the ETO for legal recognition of electronic records\nand digital signatures in relation to rules of law and admissibility of electronic records as\nevidence in court have come into operation since 7 April 2000.  Further details on the\nETO are available at the website of the Digital Policy Office (www.digitalpolicy.gov.hk).\nAs far as these provisions as applicable to the submissions made under the Buildings\nOrdinance (BO) are concerned, the Buildings Department (BD) has made the following\narrangements.\n\nInformation Systems Designated for Receiving Electronic Submissions"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 153
+        },
+        {
+          "label": "b",
+          "offset": 331
+        },
+        {
+          "label": "c",
+          "offset": 448
+        },
+        {
+          "label": "d",
+          "offset": 618
+        }
+      ],
+      "text": "4.        BD has set up the following information systems to receive electronic\nsubmissions including plans, documents and specified forms under the BO:\n\n        (a)    Electronic  Submission  Hub  (ESH)   at  ESH   website\n               https://esh.bd.gov.hk  for  receiving  and  processing  of  plan\n              submissions;\n\n        (b)    e-Counter at receipt@bd.gov.hk for receiving submissions of\n               size not exceeding 25 MB;\n\n        (c)    Electronic Forms Submission System (EFSS) at BD website\n            www.bd.gov.hk for receiving submissions of certain specified\n              forms; and\n\n        (d)     Registration  and  Minor  Works  Management  System\n         (RMWMS) at BD website https://rmwms.bd.gov.hk for receiving\n             and processing submissions of certain specified forms and related\n              supporting documents.\n                                                         /Implementation …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\nImplementation"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The e-Counter and EFSS are already in operation.  ESH  is being\nimplemented in three stages as shown in Appendix A. Stage 1, Stage 2 and Stage 3 of\nESH were launched on 30 June 2022, 31 March 2023 and 30 June 2024 respectively.\nRMWMS was launched on 29 May 2026.\n\nFormat, Manner and Procedure"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.             Electronic submissions under the BO submitted in accordance with\nparagraphs 8 to 17 below will be considered to be submitted to the corresponding\ndesignated information systems of BD for the purpose of receiving electronic records, as\nmentioned in section 19(2) of the ETO. The identity of the person making an electronic\nsubmission should be authenticated by a digital certificate issued by the Postmaster\nGeneral or other certification authorities recognised by the Commissioner for Digital\nPolicy under the ETO. Detailed information on such digital certificate and its application\nprocedures are available at BD website."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.          The format, manner and procedure for the acceptance of electronic\ninformation has been published in a gazette by virtue of the ETO.  Failure to observe the\nrequired format, manner and procedure and the requirements of the respective systems\nwill invalidate the submission.  Detailed requirements of the designated information\nsystems of BD as referred to in the above gazette are provided in paragraphs 8 to 17 below.\n\nRequirements of ESH"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.        ESH is a web-based platform operating 24 hours a day and 7 days a week\nall year round, excluding scheduled maintenance and unexpected downtime. Authorized\npersons (AP), registered structural engineers (RSE) and registered geotechnical engineers\n(RGE) may make an electronic submission via ESH online with a valid digital certificate1\nor “iAM Smart”2."
+    },
+    {
+      "id": "p9-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "9.         By using ESH to make electronic submissions or applications, users are\ndeemed to have agreed and accepted ESH as their designated information system for the\npurpose of section 19(2)(a)(i) of the ETO for receiving electronic records from BD."
+    },
+    {
+      "id": "p10-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "10.           Unlike a submission in hard copy form, which may require multiple\ncopies, only one set of documents is required for a submission in electronic format.\nNotwithstanding  this,  under  regulation  11(2)  of  the  Building  (Administration)\nRegulations (B(A)R), if a plan or a related document is submitted (whether or not in hard\ncopy form) to the Building Authority (BA) for approval, the BA may require the\nsubmission of additional copies in hard copy form.  Furthermore, the BA reserves the\nright to reply in hard copy form when necessary or appropriate."
+    },
+    {
+      "id": "p11-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "11.         The plans and documents submitted via ESH should meet the requirements\nin Appendix B. Each submission of plans should be accompanied with an electronic plan\nindex. The guidelines on electronic plan index are set out in Appendix C.\n\n                                                                             /12 …\n\n\n1  The digital certificate should be a personal digital certificate.\n2  Details of “iAM Smart” are available at the website www.iamsmart.gov.hk."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -"
+    },
+    {
+      "id": "p12-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "12.         The detailed system requirements, terms and conditions and Users’\nManual for ESH are available at ESH website."
+    },
+    {
+      "id": "p13-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "13.         AP, RSE, RGE and registered contractors are reminded that necessary\nequipment and provisions should be in place to enable electronic records be supplied to\nthe concerned parties, kept on site, and produced to the BA under regulations 36 and 40\nof the B(A)R."
+    },
+    {
+      "id": "p14-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "14.         To promote green environment and facilitate effective preparation3 and\nprocessing of submissions, BD encourages paperless electronic submission via ESH as\nan alternative to the conventional paper submission. To this end, after a submission is\nmade via ESH, all the subsequent amendment submissions and associated documents\nshould continue to be made via ESH so as to facilitate easy tracking, recording and\nprocessing of the submissions.\n\nRequirements of e-Counter"
+    },
+    {
+      "id": "p15-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 255
+        },
+        {
+          "label": "b",
+          "offset": 467
+        },
+        {
+          "label": "c",
+          "offset": 1242
+        }
+      ],
+      "text": "15.         The submissions made via e-Counter should not involve voluminous\ndocuments, customised programme or large size drawings. The electronic records should\nbe sent as attachments in a digitally signed email and in the manner and format as follows:\n\n        (a)     electronic records of specified forms should be in Portable\n           Document Format (PDF) with the digital signatures applied at the\n               specified locations of the specified forms;\n\n        (b)    other electronic records should either be:\n\n                   (i)     in PDF, and each page of the documents should not be\n                       larger than A3 size, and each document should be signed\n                    with a digital signature; or\n\n                   (ii)    in Tag Image File Format (TIFF) or in Joint Photographic\n                    Experts Group (JPEG), the respective lengths of the two\n                     adjacent  sides of the image of each document  in a\n                      resolution  of  200  dpi  should  not  be  greater  than\n                  3 300 pixels x 2 340 pixels, 24-bit colour depth for\n                  document in colour, and each document should be signed\n                    with a digital signature; and\n\n        (c)     total size of the email including the attachments and digital\n               signatures should not exceed 25 MB.\n\n\n\n                                                                /Requirements …\n\n\n3 An e-Workspace  is available in ESH for the preparation of electronic submissions or\n   applications.  Collaborators of a project team may prepare, contribute and/or upload the\n   relevant plans/documents for digital signature by the project owner, the AP/RSE/RGE or the\n   registered contractors for an electronic submission.  The plans/documents prepared in\n   e-Workspace will be deleted after the submission is made via ESH."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -\n\nRequirements of EFSS"
+    },
+    {
+      "id": "p16-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "16.           Certain specified forms and their attachments may be submitted online via\nEFSS as detailed under Practice Note for Authorized Persons, Registered Structural\nEngineers and Registered Geotechnical Engineers (PNAP) APP-60.  The forms and\nattachments should be signed with digital signatures.  Total size of the specified forms\nincluding the attachments and digital signatures should not exceed 25 MB. The templates\nof specified forms are also available for downloading from BD website for submission as\nan attachment to an email, by hand or by post.  Users are encouraged to type in the\nrequired information using a computer so that the information can be automatically stored\nin the two-dimensional barcode (i.e. QR code) on the form, for subsequent processing by\nBD.\n\nRequirements of RMWMS"
+    },
+    {
+      "id": "p17-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "17.      RMWMS is a web-based platform developed to receive and process\ncertain  specified forms and  the  related  supporting documents  as  detailed under\nPNAP APP-60.  The forms and attachments can be digitally signed using digital\ncertificate issued by the Hongkong Post or Digi-Sign Certification Services Limited\n(“Digi-Sign”), or via the “iAM Smart”2 platform. The file size of each form should not\nexceed 25 MB.\n\nComputation of Statutory Time Period"
+    },
+    {
+      "id": "p18-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "18",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "18.          For computation of the statutory time period specified under the BO and\nthe relevant regulations, there is no difference between paper submissions and electronic\nsubmissions via ESH. The time shall start to count on the next day regardless if it is a\npublic holiday or a gale warning day or black rainstorm warning day after the day of\nreceipt of a submission."
+    },
+    {
+      "id": "p19-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "19",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "19.          For the avoidance of doubt, when a submission is made at night on\nSaturday, say 23:59 via ESH, the statutory time shall start to count on the next day\ni.e. Sunday. When a submission is made at mid-night on Sunday, say 00:00 via ESH, the\nstatutory time shall start to count on the next day, i.e. Monday, regardless if it is a public\nholiday or a gale warning day or black rainstorm warning day.\n\nElectronic Submission of Form BA10  - Notification before Commencement of\nBuilding Works or Street Works"
+    },
+    {
+      "id": "p20-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "20",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "20.         Form BA10 signed with a digital signature and submitted via ESH will be\nchecked automatically under the system. To streamline the development process, BD is\nprepared to favourably consider an application for modification of regulation 20(1) of the\nB(A)R to allow notification of appointment of registered contractor and commencement\nof building works or street works to be not less than 1 day prior to commencement of\nworks if the specified Form BA10 is submitted via ESH. AP/RSE/RGE may consider\napplying for the above modification concurrently with the application for consent to\ncommencement of works.\n\n\n                                                                             /21 …"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "- 5 -"
+    },
+    {
+      "id": "p21-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "21",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "21.        When granting such modification under regulation 20(1) of the B(A)R, a\ncondition  will be imposed  to  require  the submission  of Form BA10  via ESH.\nAP/RSE/RGE/registered contractors are reminded of regulation 20(2) and (3) of the\nB(A)R regarding notification to the BA of the appointment of technically competent\npersons, provision of related information and a supervision plan not less than 7 days\nbefore commencement of works.\n\nFuture Enhancement"
+    },
+    {
+      "id": "p22-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "22",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "22.       BD will keep in view feedback received from the use of the above systems\nand continue to enhance their functions and usability in light of experience.\n\n\n\n\n\n                                                             ( HO Chun-hung )\n                                              Building Authority\n\n\n\n\n\nRef.: BD TS/6-15/6\n\nThis PNAP is previously known as PNAP 240\nFirst issue   May 2000\nLast revision  December 2024\nThis revision May 2026 (AD/CS)  (Paragraphs 3, 4, 5 & 6 amended, and paragraph 17\n                                 added)"
+    },
+    {
+      "id": "page-6-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix A\n                                                 (PNAP ADM-17)\n\n\n           Implementation of the Electronic Submission Hub (ESH)\n\nStage 1"
+    },
+    {
+      "id": "p1-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "1.          In the first stage of ESH, the types of plans and related documents that can be\nsubmitted via ESH cover structural plan submissions for building works above ground\nnot requiring cross-departmental referral. Submissions for alteration and addition (A&A)\nworks are excluded.\n\nStage 2"
+    },
+    {
+      "id": "p2-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 195
+        },
+        {
+          "label": "b",
+          "offset": 246
+        },
+        {
+          "label": "c",
+          "offset": 277
+        },
+        {
+          "label": "d",
+          "offset": 306
+        },
+        {
+          "label": "e",
+          "offset": 357
+        },
+        {
+          "label": "f",
+          "offset": 398
+        },
+        {
+          "label": "g",
+          "offset": 430
+        },
+        {
+          "label": "h",
+          "offset": 469
+        }
+      ],
+      "text": "2.          In the second stage of ESH, the types of plans and related documents that can\nbe submitted via ESH cover plan submissions for the works below. Submissions for A&A\nworks are excluded.\n\n      (a)   hoarding, covered walkway and gantry;\n\n      (b)   demolition works;\n\n      (c)   drainage works;\n\n      (d)   excavation and lateral support works;\n\n      (e)   ground investigation works;\n\n       (f)   foundation works;\n\n      (g)   site formation works; and\n\n      (h)    all structural works.\n\nStage 3"
+    },
+    {
+      "id": "p3-page-6",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        6
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          In the third stage of ESH, all types of plans including general building plans\nand plans for A&A works, as well as related applications will be covered and can be\nsubmitted via ESH.\n\n\n\n\n\n(Rev. 6/2024)"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Appendix B\n                                                 (PNAP ADM-17)\n\n                 Requirements of Plans and Documents\n            Submitted via the Electronic Submission Hub (ESH)"
+    },
+    {
+      "id": "p1-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 96
+        },
+        {
+          "label": "i",
+          "offset": 126
+        },
+        {
+          "label": "v",
+          "offset": 587
+        }
+      ],
+      "text": "1.        Plans  and  documents  submitted  via ESH  should  meet  the  following\nrequirements:\n\n     (a)   Prescribed plans:\n\n             (i)     the file should be in Portable Document Format (PDF) without\n                  security restrictions;\n\n             (ii)    one file should only contain one drawing with a file name not\n                exceeding 50 alphanumeric characters;\n\n              (iii)   each file size should not be larger than 25 MB;\n\n           (iv)   each file should be signed with a digital signature using the\n                 signing tool provided in ESH;\n\n           (v)    paper size of the drawing should follow that specified in PNAP\n            ADM-10 and in landscape orientation;\n\n           (vi)   a minimum unused space of 90 mm wide by 150 mm high, for\n              accommodating the system generated stamps to indicate the\n                plan has been digitally signed by AP, RSE and/or RGE, and the\n                    official stamps of approval and  certification  of copies of\n               approved plans by the Building Authority, should be provided\n                    at the lower right corner on every plan in accordance with PNAP\n             ADM-10;\n\n            (vii)   native PDF  file  created from computer software such  as\n              Computer Aided Design (CAD) and Building Information\n               Modelling (BIM), is highly recommended; otherwise, if the file\n                     is generated by scanning paper documents,  it should have a\n             minimum resolution of 300 dpi and 24-bit colour depth; and\n\n            (viii)  the  file should not contain multiple  layers or  post-edited\n               comments, mark-up or annotation to ensure the file could be\n               viewed and printed without loss of information under any\n                 circumstances.\n\n\n\n\n\n                                                              - 1 ­"
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "(b)   Other prescribed documents:\n\n             (i)     the file format should be in single layer PDF without security\n                    restrictions;\n\n              (ii)    the file name should not exceeding 50 alphanumeric characters;\n\n              (iii)   each file size should not be larger than 500 MB;\n\n           (iv)   each file should be signed with a digital signature using the\n                 signing tool provided in ESH; and\n\n           (v)    a minimum unused space of 100 mm wide by 65 mm high, for\n              accommodating the system generated stamps to indicate the\n              document has been digitally signed by AP, RSE and/or RGE,\n                should be provided at the lower right corner on the front page of\n                every document."
+    },
+    {
+      "id": "p2-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "2.     ESH also enables submission of files in CAD and BIM format of file size not\nlarger than 500 MB each as supplementary information.  Further information and\nrequirements are set out in PNAP ADM-19 and ADV-34.\n\n\n\n\n\n(Rev. 3/2023)\n\n\n\n\n\n                                                              - 2 ­"
+    },
+    {
+      "id": "page-9-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Appendix C\n                                                      (PNAP ADM-17)\n\n               Guidelines on Electronic Plan Index for Plan Submissions\n                        via the Electronic Submission Hub (ESH)"
+    },
+    {
+      "id": "p1-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "1.        Each submission of plans via ESH should be accompanied with an electronic plan\nindex, which should be completed online. In the plan index, each entry of plan submission is\nrequired to be identified with a unique description comprising drawing title, drawing number,\nrevision number of the plan. Each drawing title, drawing number and revision number should\nnot exceed 50 alphanumeric characters."
+    },
+    {
+      "id": "p2-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 202
+        },
+        {
+          "label": "b",
+          "offset": 288
+        },
+        {
+          "label": "c",
+          "offset": 383
+        },
+        {
+          "label": "d",
+          "offset": 485
+        }
+      ],
+      "text": "2.      ESH may compile electronic plan index automatically by detecting the required\ninformation on the plan if the information (case sensitive) is presented in the title block on the\nplan as follows:\n\n     (a)    The drawing title should be located under a caption of “Drawing Title:”;\n     (b)   The drawing number should be located under a caption of “Drawing\n         Number:”;\n     (c)    The revision number should be located under a caption of “Revision\n         Number:”; and\n     (d)   The information in (a), (b) and (c) above should be presented in separate\n          rows and in machine readable text format."
+    },
+    {
+      "id": "p3-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "3.       An example of the title block is given in Diagram 1 for illustration. An example of\nelectronic plan index automatically compiled by ESH is given below:\n\n                                    Electronic Plan Index\n           File Name1        Page   Drawing  Revision  Drawing Title    Uploaded\n                                Size1  Number  Number                     Date1\n\n  SSB201_GN_TypD.pdf      A0    SS/B2/01         -     General Notes and 31 May 2022\n                                                                 Typical Details    10:11\n\n  SSB202-A _GF-RF.pdf       A0    SS/B2/02    A    G/F to R/F       31 May 2022\n                                                         Framing Plan      10:12\n\n  SSB203-A _A-A.pdf        A0    SS/B2/03    A     Section A-A      31 May 2022\n                                                                              10:12\n\n  SSB204-E_RC_B&S.pdf     A0    SS/B2/04     E     R.C. Details of    31 May 2022\n                                                   Beams & Slabs    10:12\n\n  SSB205-E_RC _W&C.pdf    A0    SS/B2/05     E     R.C. Details of    31 May 2022\n                                                              Walls & Columns  10:12\n\n  SSB206-E_RC _SS&WT.pdf   A0    SS/B2/06     E     R.C. Details of    31 May 2022\n                                                                     Staircases &      10:12\n                                                           Water Tank\n\n\nNote1  File name, page size and uploaded date of a plan would be compiled in the plan index by\n     ESH automatically notwithstanding that the information is not listed in the title block.\n\n                                                                  - 1 ­"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Unused minimum\n                                                                 border on 4 sides:\n\n                                              A0 – 20 mm\n                                              A1 – 20 mm\n                                              A2 – 10 mm\n                                              A3 – 10 mm\n                                              A4 – 10 mm\n\n\n                                          Drawing Title:\n                                          G/F to R/F Framing Plan\n\n\n                                          Drawing Number:\n                                             SS/B2/02\n                                             Revision Number:\n                                   A\n\n                                                        90 mm (W) x 150 mm (H)\n                                                               space for accommodating\n                                                                    the   system   generated\n                                                            stamps to indicate the plan\n                                                               has been  digitally signed\n                                                        by AP, RSE and/or RGE\n                                                          and the official stamps of\n                                                                approval and certification\n                                                                   of copies of the approved\n                                                                  plans  by  the  Building\n                                                                Authority\n\n\n\n            Diagram 1 – Sample Title Block for Electronic Plan\n\n\n\n(5/2022)\n\n\n                                                              - 2 ­"
+    }
+  ]
+}

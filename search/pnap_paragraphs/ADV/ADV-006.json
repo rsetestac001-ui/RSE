@@ -1,0 +1,47 @@
+{
+  "code": "ADV-006",
+  "source_text": "indexed_text/PNAP/ADV/ADV-006.txt",
+  "source_pdf": "documents/PNAP/ADV/ADV-006.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department    Registered Structural Engineers and        ADV-6\n                          Registered Geotechnical Engineers\n\n\n                       Lightning Protection for Buildings\n\n\n          To reduce physical damages and life hazards caused by lightning strikes,\nAuthorized Persons are requested to consider incorporating lightning protection systems\ninto the design of new buildings. The need for lightning protection and selection of\nadequate protection measures may be based on a risk assessment conducted in accordance\nwith relevant national/international standards such as British Standard BS EN 62305,\nAustralian/New Zealand Standard AS/NZS 1768 and  International  Electrotechnical\nCommission Standard IEC 62305. These standards also advise on the design, construction\nand maintenance of lightning protection systems."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 87
+        },
+        {
+          "label": "b",
+          "offset": 125
+        },
+        {
+          "label": "c",
+          "offset": 181
+        },
+        {
+          "label": "d",
+          "offset": 388
+        },
+        {
+          "label": "e",
+          "offset": 449
+        }
+      ],
+      "text": "2.        As a general rule, lightning protection is required for buildings which are:\n\n       (a)    very tall or isolated;\n\n      (b)    serving exhibition or assembly functions;\n\n       (c)    used for caring or education functions (e.g. schools, hospitals,\n              child care centres, residential care homes for elderly persons or\n             persons with disabilities, etc.);\n\n      (d)     for public utilities1 or public services; and\n\n       (e)     in open areas such as outdoor swimming pools and sports\n                fields.\n\n\n\n\n                             (CHEUNG Tin-cheung)\n                                              Building Authority\n\nRef. : BD GP/BORD/72\n\nThis PNAP is previously known as PNAP 156\nFirst issue March 1993\nLast revision December 2006 (AD/Sup)\nThis revision September 2017 (AD/NB1) (Revamped)\n\n\n\n\n1  Include exposed support for electric lines, for which regulation 11 of the Electricity Supply\n  Regulations (Cap. 406A) is applicable."
+    }
+  ]
+}

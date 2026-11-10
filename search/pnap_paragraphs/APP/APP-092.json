@@ -1,0 +1,26 @@
+{
+  "code": "APP-092",
+  "source_text": "indexed_text/PNAP/APP/APP-092.txt",
+  "source_pdf": "documents/PNAP/APP/APP-092.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers          APP-92\n\n                                   Practice Note for Authorized Persons\nBuildings Department                            and Registered Structural Engineers           210\n\n\n\n\n                     Amendments and Clarification to\n                    Code of Practice for the Provision of\n                   Means of Escape in Case of Fire 1996\n\n\n\n             This practice note is to announce the following amendments to paragraph\n14(3)(b) of the Code of Practice for the Provision of Means of Escape in Case of Fire 1996\nin order  to  clarify  the  interpretation  relating  to  travel  distance  involving ‘dead-end’\nsituation :\n\n           The original paragraph 14(3)(b) should be deleted and substituted by -\n\n           “Where the direction of travel from an exit door of a room to a staircase or a\n                point of discharge to a street or to an open area at ground level complying\n              with paragraph 8.2, as the case may be, is possible in one direction only\n                   (i.e. dead-end), no point of a room should be more than 18m (i.e. the sum\n               of direct distance and travel distance) from an exit or from a point, from\n             which travel in different directions to 2 or more exits is available.  In the\n                  latter case, the maximum distance to one of the exits should not exceed the\n                 limitations on direct distance and travel distance stipulated in paragraph\n              14.”"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          The above amendments would be incorporated in the next reprint of the\nCode.\n\n\n\n\n\n                                              (CHOI Yu-leuk)\n                                                           Building Authority\n\n\n\n\nRef. : BD GP/LEG/6/A (VII)\n\nFirst issued  : August 1997 (AD/LM)\n\nIndex under : Code of Practice for, Means of Escape"
+    }
+  ]
+}

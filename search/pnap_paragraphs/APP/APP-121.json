@@ -1,0 +1,36 @@
+{
+  "code": "APP-121",
+  "source_text": "indexed_text/PNAP/APP/APP-121.txt",
+  "source_pdf": "documents/PNAP/APP/APP-121.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "R e-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers  APP-121\n\n                               Practice Note for Authorized Persons Buildings Department                                               257\n                         and Registered Structural Engineers\n\n\n\n                   Amendment to Code of Practice\n              for Provision of Means of Escape in Case of Fire 1996\n                      (MOE Code)\n\n\n             Paragraph 14.5(e)  of MOE Code  stipulates  that a  vision panel  is\nrequired in a room, other than a toilet, from which the only exit route is through\nanother room."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.         To provide greater flexibility in design, the requirement for a vision\npanel may be substituted by alternative provisions, such as a fire alarm system audible\nin the room, which may serve to alert persons in the inner room of any danger from\nfire or smoke."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.           For avoidance of doubt, paragraph 14(5) does not apply to habitable\nroom with means of escape through living/dinning room or kitchen in domestic flats.\n\n\n\n\n\n                                                                       ( C M LEUNG )\n                                                      Building Authority\n\n\n\n\n\nRef. : BD GP/LEG/6/A (VII)\n\nFirst issue June 2001 (AD/NB1)\n\nIndex under : Inner Room\n        MOE Code\n              Vision Panel"
+    }
+  ]
+}

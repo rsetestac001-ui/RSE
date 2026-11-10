@@ -1,0 +1,730 @@
+{
+  "code": "APP-029",
+  "source_text": "indexed_text/PNAP/APP/APP-029.txt",
+  "source_pdf": "documents/PNAP/APP/APP-029.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department         Registered Structural Engineers and     APP-29\n                              Registered Geotechnical Engineers\n\n\n                           Lift and Escalator Installations\n\nBuilding Works Requirements\n\n           The  design  and  construction  of  buildings  and  building  works\naccommodating lift and escalator installations are governed by regulation 9A of the\nBuilding (Construction) Regulations which specifies performance requirements in broad\nterms.   Detailed  technical  standards  for meeting  the  aforesaid requirements  are\npromulgated in the Code of Practice for the Design and Construction of Buildings and\nBuilding Works for the Installation and Safe Use of Lifts and Escalators 2011 (the 2011\nLift Code) issued by the Building Authority (BA)."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.           Other standards may be accepted if proven to the satisfaction of the BA\nas being capable of achieving equivalent performance.   If other standards are to be\napplied, it will speed up the processing of plans if the full background to such standards\nand their suitability for local conditions are clearly explained.\n\nAdequacy of Fixing Details"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 760
+        },
+        {
+          "label": "b",
+          "offset": 805
+        },
+        {
+          "label": "c",
+          "offset": 841
+        }
+      ],
+      "text": "3.            Buildings with  lift and escalator  installations  shall be designed and\nconstructed so as  to provide adequate  structural  strength  for the safe  operation,\nmaintenance and inspection of the  lifts and escalators.  In this regard, Authorized\nPersons and Registered Structural Engineers are reminded to pay particular attention to\nthe relevant fixing details, including their layout, specification of structural materials,\nanchor and load distribution; and to ensure that the machine and pulley rooms as well as\nliftwells are so constructed to withstand the loads and forces to which they will\nnormally be subjected.  Typical examples of such fixing details include those between\nthe supporting building structure and the following components:\n\n        (a)    guide rail mounting bracket;\n\n        (b)      lift machine; and\n\n        (c)     deflector sheave (pulley) bracket.\n\nAmendments to the 2011 Lift Code"
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 150
+        }
+      ],
+      "text": "4.          To enhance the safe operation, maintenance and inspection of lifts, the\nfollowing amendments to the 2011 Lift Code have been promulgated:\n\n        (a)    Appendix A – August 2015; and\n                                                                                           /(b) …"
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "-  2   ­\n\n        (b)   Appendix B – September 2019 (applicable to all new building plans\n              or major revision of building plans for development proposals or\n                alteration and addition works submitted to the BA for approval on or\n                 after 1 December 2019)\n\nElectrical, Mechanical and Operational Requirements"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.           Requirements for the electrical, mechanical and operational aspects of\nlifts and  escalators  are  laid down  in  the Code  of  Practice on  the Design and\nConstruction of Lifts and Escalators and the Code of Practice for Lift Works and\nEscalator Works issued by the Director of Electrical and Mechanical Services (DEMS)\nunder the Lifts and Escalators Ordinance (LEO) (Cap. 618).\n\nWorks required by the DEMS in connection with an Application for Permission to\nPut Lifts or Escalators into Service"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.           Authorized Persons are reminded to ensure that all essential building and\nlift/escalators works as well as works associated with the lift or escalator installations\ncollectively referred  to as the associated works are completed before submitting\napplication to the DEMS under the LEO for permission to put the lifts or escalators into\nservice. A list of the associated works often found incomplete for a lift installation\nduring compliance inspections is at Appendix C and that for an escalator installation is\nat Appendix D.\n\nInformation on Work Safety"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.        A list of relevant codes of practice, guidance notes and guidelines is at\nAppendix E.\n\n\n\n\n\n                                                         ( CHEUNG Tin-cheung )\n                                                Building Authority\n\n\n\n\nRef. :   BD GP/LEG/41\n      BD GP/BREG/L/4\n      BD GP/LEG/15 (XIV)\n\nThis PNAP is previously known as PNAP 84\nFirst issue   May 1982\nLast revision  August 2015\nThis revision  September 2019 (AD/NB1) (Generally revamped)"
+    },
+    {
+      "id": "page-3",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Appendix A\n                                                                                              (PNAP APP-29)\n\n\n\n\n        Amendments to the Code of Practice for Building Works for Lifts and Escalators 2011\n\n                                         (August 20151)\n\n\n\n\n     Legends\n\n\n          Amended\n\n             Deleted\n\n\n\n\n\n1 Applicable to alteration works to existing liftwell inspection and emergency doors."
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Item                            2011 Version                                           Amendments"
+    },
+    {
+      "id": "p1-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "1.  Paragraph    Inspection doors, emergency doors and inspection traps shall be    Inspection traps shall be provided with a key-operated lock, capable\n    3.2.7        provided with a key-operated lock, capable of being reclosed and  of being reclosed and relocked without a key.\n                 relocked without a key."
+    },
+    {
+      "id": "p2-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "2.  Paragraph    Inspection and emergency doors shall be capable of being opened   Inspection and emergency doors shall    :\n    3.2.8        from inside the well without a key even when locked.\n                                                                                        (a) be  equipped  with  dual  key-operated  locks  requiring  the\n                                                                              simultaneous operation of two designated keys for opening from\n                                                                                    the outside and capable of being reclosed and relocked without a\n                                                                                key;\n                                                                                    (b) be capable of being opened from inside the well without a key\n                                                                         even when locked; and\n                                                                                        (c) except for doors in the form of lift landing doors, bear on its\n                                                                                   outside face a prominent figure-type warning sign of size not less\n                                                                               than 100 mm high and immediately above or next to the keyholes\n                                                                                  of such doors as shown below­\n\n\n\n\n\n                                                                                         - 2 -"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Item                            2011 Version                                           Amendments"
+    },
+    {
+      "id": "p3-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "3.  Paragraph                                                  To add paragraph 3.2.9 after paragraph 3.2.8\n    3.2\n                                                                          3.29  Where the design and disposition of liftwell inspection and\n                                                                         emergency doors can reduce the likelihood of inadvertent\n                                                                                               entry, paragraph 3.2.8(a) is not applicable and a single locking\n                                                                                  device operated by a designated key is acceptable.  Typical\n                                                                           examples are:\n\n                                                                                                (a)  lift landing doors serving as the liftwell inspection and\n                                                                            emergency doors; or\n                                                                                           (b)  liftwell inspection and emergency doors with their sills\n                                                                                    being 1 m or more above the adjoining floor.\n\n\n\n\n\n(8/2015)\n\n\n                                                                                         - 3 -"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix B\n                                                                                            (PNAP APP-29)\n\n\n\n\n      Amendments to the Code of Practice for Building Works for Lifts and Escalators 2011\n\n\n                                    (September 2019)\n\n\n\n\nLegends\n\n\n      Amended\n\n        Deleted"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Item                            2011 Version                                           Amendments"
+    },
+    {
+      "id": "p1-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "1.  Paragraph    bear on its outside face a notice in English and Chinese in letters   bear on  its outside face a notice  in English and Chinese incised or\n    3.2.3(b)     and characters not less than 25mm high as follows-                embossed, made of durable materials, in letters and characters not less than\n                                                       25mm high as follows-"
+    },
+    {
+      "id": "p2-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "2.  Paragraph   Openings shall be made at the top of a well, with a minimum area  Openings shall be made at the top of a well, with a minimum area of 1% of\n    3.3.2         of 1% of the area of the horizontal cross section of the well,   the area of the horizontal cross section of the well, ventilating to the open\n                   ventilating to the open air either directly or via ducting or the   air either directly or via ducting or the machine or pulley room, provided\n               machine or pulley rooms, provided that in no case the ventilation   that in no case the ventilation openings shall be less than 0.3m2 net free area\n                openings shall be less than 0.15m2 net free area.                      for each well.  When a common well is accommodating four, five or six\n                                                                                                                    lifts, minimum vent areas of 0.4m2, 0.5m2 or 0.6m2 shall respectively be\n                                                                                   provided.  To prevent objects from falling through the ventilation openings\n                                                                                           situated over the well, ferrules which project at least 50mm above the slab\n                                                                                    or finished floor shall be provided."
+    },
+    {
+      "id": "p3-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "3.  Paragraph    3.7.1  In the lower part of a well there shall be a partition between  To amend paragraph 3.7.1 and delete 3.7.2\n    3.7                  the moving parts (car or counterweight) of different lifts or\n                          services lifts. This partition shall extend at least from the     In a lift well, there shall be a suitable partition of adequate strength (e.g.\n                          floor of the pit to a height of 2.5m above the floor of the   solid block wall, wire mesh screen, etc.) between the moving parts (car or\n                               pit, and across the whole depth of the well.                  counterweight) of different lifts or services lifts to prevent trapping hazards.\n                                                                               This partition shall extend from the floor of the lift pit through the full\n                                                                                     height of the well, and across the whole depth of the well.   If the partition\n                                                                                                         is so provided to separate each lift by wall, ventilation openings shall be\n                                                                               provided for each well in accordance with paragraph 3.3.2.\n\n                   3.7.2   If the horizontal distance between the edge of a car roof\n                     and a moving part (car or counterweight) of an adjacent lift\n                         or service lift is less than 300mm, the partition required in\n                       paragraph 3.7.1 shall be extended through the full height of\n                         the well"
+    },
+    {
+      "id": "p4-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "4.  Paragraph   An access door shall be provided to the pit if the pit depth exceeds  An access door leading to a stair in accordance with paragraph 3.12.4 shall\n    3.8.2        1.6m and if the layout of the building so permits.                 be provided to the pit if the pit depth exceeds 2m.   It shall be imperforate\n                                                                         and shall not open towards the interior of the liftwell.   It shall be provided\n\n                                                                                            - 2 -"
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Item                            2011 Version                                           Amendments\n                                                                               with a key-operated lock, capable of being reclosed or relocked without a\n                                                                                       key, and opened from inside of the liftwell without a key even when locked.\n                                                                  Where the pit depth exceeds 1.6m but not more than 2m, such access door\n                                                                                             shall also be provided   if the layout of the building so permits."
+    },
+    {
+      "id": "p5-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "5.  Paragraph    bear on its outside face a notice in English and Chinese in letters     bear on  its outside face a notice  in English and Chinese incised or\n    3.8.3(b)     and characters not less than 25mm high as follows-                embossed, made of durable materials, in letters and characters not less than\n                                                       25mm high as follows-"
+    },
+    {
+      "id": "p6-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "6.  Paragraph                                                       To add paragraph 3.8.5 after paragraph 3.8.4\n    3.8\n                                                                                        3.8.5  One or more permanent anchorages shall be provided adjacent to\n                                                                                              the lift landing door at the lowest landing floor for anchoring of the\n                                                                                                                    fall arresting devices by each worker before going down to the lift\n                                                                                                                     pit.  To limit the distance of any fall, the anchorage points shall be\n                                                                                             located at a height between 1.5 and 1.8m above floor finished level\n                                                                                            of the landing floor and a position which is readily accessible by the\n                                                                                         worker.  Subject to the provision of lift pit access door meeting the\n                                                                                         requirements under paragraph  3.8.3,  these anchorages  are  not\n                                                                                                 required."
+    },
+    {
+      "id": "p7-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "7.  Paragraph   On the outside of a well at each landing level, as near as practical  On the outside of a well at each landing level, as near as practical to the\n    3.10.3        to the landing door or, where there are two or more adjoining lifts,   landing door or, where there are two or more adjoining lifts, the landing\n                  the landing door of one in every two lifts, there shall be displayed   door of one in every two lifts, there shall be displayed a notice in English\n                 a notice in English and Chinese in letters and characters not less   and Chinese incised or embossed, made of durable materials, in letters and\n                 than 15mm high as follows-                                         characters not less than 15mm high as follows-"
+    },
+    {
+      "id": "p8-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "8.  Paragraph    Access for persons to machine or pulley rooms shall be effected   Access for persons to and egress from machine or pulley rooms shall be\n    3.12.2         entirely by way of stairs if the difference in levels so requires. If it   provided by way of stairs if the difference in levels is greater than 0.6m.   If\n                      is impractical to install stairs, then ladders may be used provided   the level difference does not exceed 0.6m, then ladders may be used\n                    that the following conditions are satisfied –                        provided that the following conditions are satisfied –\n\n\n\n                                                                                            - 3 -"
+    },
+    {
+      "id": "page-9-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Item                            2011 Version                                           Amendments\n\n                    (a) the ladder shall be permanently fixed;                                                                                               (a)  the ladder shall be permanently fixed; and\n                   (b) if greater than 2m in height the ladder shall be fitted with                                                                                           (b)   adjacent to the top end of the ladder, there shall be a platform with\n                       safety hoops or other suitable fall arrest system; and                                                                                                    railings and one or more hand holds within easy reach.\n                    (c) adjacent to the top end of the ladder, there shall be a platform\n                    with railings and one or more hand holds within easy reach."
+    },
+    {
+      "id": "p9-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "9.  Paragraph                                                       To add paragraph 3.12.4 after paragraph 3.12.3\n    3.12\n                                                                                     3.12.4  For the purpose of paragraph 3.12.2, the stairs shall –\n\n                                                                                                        (a)  have a width of not less than 900mm;\n                                                                                                   (b)  be constructed with treads (with anti-slippery surface) not less\n                                                                                              than 225mm in width and with risers not exceeding 175mm in\n                                                                                                      height;\n                                                                                                        (c)  have  not more  than 16  steps  in any  flight  without  the\n                                                                                                   introduction of a landing;\n                                                                                                   (d)  be provided on both sides with properly fixed handrails; and\n                                                                                                        (e)  be provided at the outer edges with protective barriers of not\n                                                                                                           less than 1.1m in height."
+    },
+    {
+      "id": "p10-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "10. Paragraph    bear on its outside face a notice in English and Chinese in letters   bear on  its outside face a notice  in English and Chinese incised or\n    3.15.3(b)    and characters not less than 25mm high as follows:                embossed, made of durable materials, in letters and characters not less than\n                                                       25mm high as follows:\n\n\n\n\n\n                                                                                            - 4 -"
+    },
+    {
+      "id": "page-10-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Item                            2011 Version                                           Amendments"
+    },
+    {
+      "id": "p11-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "11. Paragraph   Handling of equipment in machine rooms                   To amend the heading and change paragraph 3.17 to paragraphs 3.17.1\n    3.17                                                           and add paragraph 3.17.2)\n             One or more metal supports or hooks with safe working load\n                   notice, as appropriate, shall be provided in a machine room ceiling   Handling of equipment in machine rooms and liftwells\n                  or on beams, conveniently positioned to permit hoisting of heavy\n                equipment during erection and, if need be, its replacement.           3.17.1 One or more metal supports or hooks with safe working load notice,\n                                                                                            as appropriate, shall be provided in a machine room ceiling or on\n                                                                                   beams,  conveniently  positioned  to  permit  hoisting  of  heavy\n                                                                                  equipment during erection and, if need be, its replacement.\n\n                                                                                     3.17.2 One or more metal supports or hooks with safe working load notice,\n                                                                                            as  appropriate,  shall  also be provided  at the  ceiling  soffit of\n                                                                                                             liftwells,  conveniently  positioned  to  permit  hoisting  of heavy\n                                                                                  equipment during erection and, if need be, replacement of lift car or\n                                                                                        suspension rope/device."
+    },
+    {
+      "id": "p12-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "12. Paragraph   On the outside of a well as near as practical to every landing door,  On the outside of a well as near as practical to every landing door, there\n    4.10.2         there shall be displayed a notice in English and Chinese in letters    shall be displayed a notice in English and Chinese incised or embossed,\n                and characters not less than 25mm high as follows-              made of durable materials, in letters and characters not less than 25mm\n                                                                                high as follows­"
+    },
+    {
+      "id": "p13-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "13. Paragraph    bear on its outside face a notice in English and Chinese in letters   bear on  its outside face a notice  in English and Chinese incised or\n    4.11.7(e)     and characters not less than 25mm high as follows-                embossed, made of durable materials, in letters and characters not less than\n                                                       25mm high as follows­"
+    },
+    {
+      "id": "p14-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "14. Paragraph    Access doors or inspection traps to separate machine rooms or   Access doors or inspection traps to separate machine rooms or separate\n    5.1.5         separate driving and return stations shall bear on their outside face   driving and return stations shall bear on their outside face a notice in\n                 a notice in Chinese and English in letters and characters not less   Chinese and English incised or embossed, made of durable materials, in\n                 than 25mm as follows-                                                      letters and characters not less than 25mm as follows­\n\n\n\n(9/2019)\n\n                                                                                            - 5 -"
+    },
+    {
+      "id": "page-11-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        11
+      ],
+      "text": "Appendix C\n                                                 (PNAP APP-29)\n\n          List of Associated Works Often Found Incomplete by DEMS\n                             for a Lift Installation\nUpon an Application for Permission to Put the Lift into Service Was Submitted\n                            (the list is not exhaustive)"
+    },
+    {
+      "id": "p1-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "1.   Permanent doors to machine and pulley room opening outwards, fitted with\n      self-closing devices and proper locking devices. Permanent warning notices on\n      the outside face of the door."
+    },
+    {
+      "id": "p2-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "2.    Clear and safe access to machine and pulley rooms."
+    },
+    {
+      "id": "p3-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "3.   Adequate railings of suitable height to machine platforms. Appropriate steps or\n      stairways where there was a level difference."
+    },
+    {
+      "id": "p4-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "4.    Liftwells, and machine and  pulley rooms  completely  enclosed and  all\n     unnecessary holes sealed up."
+    },
+    {
+      "id": "p5-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "5.   Permanent and adequate lighting for liftwells, machine and/or pulley rooms\n     and/or machine platforms."
+    },
+    {
+      "id": "p6-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "6.    Protective guards to ventilating fans.  Cross-ventilation through the machine\n     room. Wind guards to ventilation louvers, or ventilation louvers designed with\n      equivalent function as wind guards."
+    },
+    {
+      "id": "p7-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "7.    Provision of adequate electricity supply by permanent cables."
+    },
+    {
+      "id": "p8-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "8.    Proper isolation switch with permanent identification label for each lift, easily\n      accessible from an entrance of the machine room."
+    },
+    {
+      "id": "p9-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "9.  MCB and proper isolation switches with permanent identification labels for\n      lighting and/or socket outlets of lift cars, wells or pits, machine and/or pulley\n     rooms."
+    },
+    {
+      "id": "p10-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "10.  Unnecessary holes in lift wells, machine and pulley rooms filled up."
+    },
+    {
+      "id": "p11-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "11.   Surplus/protruded iron bars inside liftwells all removed."
+    },
+    {
+      "id": "p12-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "12.   Inspection doors, emergency doors and inspection traps, where required, with\n     proper locking devices and clear and safe access."
+    },
+    {
+      "id": "p13-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "13.  Required partition between lift ways in common liftwells."
+    },
+    {
+      "id": "p14-page-11",
+      "type": "numbered_paragraph",
+      "paragraph": "14",
+      "pdf_pages": [
+        11
+      ],
+      "subparagraph_markers": [],
+      "text": "14.   Lift pits completely enclosed and waterproofed.\n\n\n                                                 - 1 ­"
+    },
+    {
+      "id": "p15-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "15",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "15.  Cat ladders with suitable hand holds for access to pits."
+    },
+    {
+      "id": "p16-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "16",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "16.  Supporting frames and reinforced wire mesh provided to the liftwell top vents"
+    },
+    {
+      "id": "p17-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "17",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "17.  Permanent and adequate lighting installations in  lift lobbies. (If decoration,\n        false ceilings, etc are to be installed in the lift lobby after permission to use the\n          lift has been granted, such decoration/false ceiling shall not affect or obstruct\n       the permanent illumination of the lift lobby.)"
+    },
+    {
+      "id": "p18-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "18",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "18.   Ventilation of liftwells directed to open air either directly or via ducting/the\n       machine/pulley room."
+    },
+    {
+      "id": "p19-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "19",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "19.  Permanent and adequate lighting in liftwells and lift pits."
+    },
+    {
+      "id": "p20-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "20",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "20.  Debris and unrelated materials in liftwells, machine and pulley rooms cleared."
+    },
+    {
+      "id": "p21-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "21",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "21.  Earth bonding for metallic parts in machine rooms."
+    },
+    {
+      "id": "p22-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "22",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "22.  Associated works (except those purely for decoration purposes) surrounding\n       the landing entrances."
+    },
+    {
+      "id": "p23-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "23",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "23.   All necessary instructions and notices in both Chinese and English in the lift\n       cars and on the landings."
+    },
+    {
+      "id": "p24-page-12",
+      "type": "numbered_paragraph",
+      "paragraph": "24",
+      "pdf_pages": [
+        12
+      ],
+      "subparagraph_markers": [],
+      "text": "24.  The maximum permissible load in both Chinese and English indicated on the\n        lifting beams or hooks.\n\n\n\n\n\n(Rev. 9/2019)\n\n\n\n                                                   - 2 ­"
+    },
+    {
+      "id": "page-13-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        13
+      ],
+      "text": "Appendix D\n                                                  (PNAP APP-29)\n\n           List of Associated Works Often Found Incomplete by DEMS\n                           for an Escalator Installation\nUpon an Application for Permission to Put the Escalator into Service Was Submitted\n                              (the list is not exhaustive)"
+    },
+    {
+      "id": "p1-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "1.   Permanent  machine room  doors  fitted  with  self-closing  devices,  with\n      permanent warning notices and proper locking devices."
+    },
+    {
+      "id": "p2-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "2.   Clear and safe access to machine rooms."
+    },
+    {
+      "id": "p3-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "3.   Unnecessary holes in machine rooms filled up."
+    },
+    {
+      "id": "p4-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "4.   Provision of adequate electricity supply by permanent cables."
+    },
+    {
+      "id": "p5-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "5.  MCB and proper isolation switches with permanent identification labels for\n       lighting and socket outlets for each escalator."
+    },
+    {
+      "id": "p6-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "6.   Proper protective guards where the clearance between the balustrade exterior\n       paneling and any adjacent guard rail/wall at each landing exceeds 100 mm."
+    },
+    {
+      "id": "p7-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "7.   Permanent obstruction guards properly installed at floor intersections, building\n       obstacles and on criss-cross escalators."
+    },
+    {
+      "id": "p8-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "8.   Adequate clearance between the outer edges of the handrails and the adjacent\n       walls, criss-cross escalators or other building obstacles."
+    },
+    {
+      "id": "p9-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "9.   Clear height above the steps and the required unrestricted area of not less than\n       2.3 m."
+    },
+    {
+      "id": "p10-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "10.  The required unrestricted area for accommodating passengers at both landings."
+    },
+    {
+      "id": "p11-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "11.  Permanent and adequate lighting around the escalator including both landings.\n         (If decoration, false ceilings, etc are to be installed around the escalator after\n       permission to use the escalator has been granted, such decoration/false ceiling\n        shall not affect or obstruct the permanent illumination around the escalator\n       including both landings.)"
+    },
+    {
+      "id": "p12-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "12.  The part of wellway, building obstacles or external wall of adjacent criss-cross\n       escalator facing handrail forming a smooth continuous vertical surface."
+    },
+    {
+      "id": "p13-page-13",
+      "type": "numbered_paragraph",
+      "paragraph": "13",
+      "pdf_pages": [
+        13
+      ],
+      "subparagraph_markers": [],
+      "text": "13.  The underside of false ceiling at floor intersections or bottom deck of adjacent\n        criss-cross escalator forming a smooth continuous flat surface.\n\n\n\n\n\n(12/2011)\n\n                                                   - 1 ­"
+    },
+    {
+      "id": "page-14",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        14
+      ],
+      "text": "Appendix E\n                                                  (PNAP APP-29)\n\n\n           Reference on Work Safety related to Lifts and Escalators\n\n\n          (a)  Code of Practice for Safety at Work (Lift and Escalator)\n               (http://www.labour.gov.hk/eng/public/os/B/lift.pdf);\n\n         (b)   Guidance Notes on Classification and Use of Safety Belts and their\n            Anchorage Systems\n               (http://www.labour.gov.hk/eng/public/os/C/belt.pdf);\n\n          (c)   Guidelines on Safety of  Lift Shaft Works: Volume 2 – During  Lift\n                Installation Stage until Issue of Occupation Permit and Handing Over to\n             Developer\n              (http://cic.hk/cic_data/pdf/about_cic/publications/eng/V10_6_e_V00_2012\n              0106_.pdf)\n\n         (d)   Guidelines on Safety of Lift Shaft Works: Volume 3 – Throughout the\n             Occupation Stage of Building\n              (http://www.cic.hk/cic_data/pdf/about_cic/publications/eng/Guidelines_L\n             iftShaftWorks_Volume3_e.pdf)\n\n\n\n\n\n(9/2019)"
+    }
+  ]
+}

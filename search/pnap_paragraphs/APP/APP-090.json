@@ -1,0 +1,113 @@
+{
+  "code": "APP-090",
+  "source_text": "indexed_text/PNAP/APP/APP-090.txt",
+  "source_pdf": "documents/PNAP/APP/APP-090.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers      APP-90\n\n                                 Practice Note for Authorized Persons\nBuildings Department                                                     208\n                           and Registered Structural Engineers\n\n\n\n                          Buildings Ordinance section 18(6)\n                           Authority to Enter Buildings\n\nGeneral\n\n             Section 18(1) of the Buildings Ordinance authorizes the erection of shoring\nwhich is necessary for specified purposes and section 18(6) of the Buildings Ordinance\nempowers the Building Authority to authorize entry to buildings in connection with such\nshoring."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          This practice note describes the application and authorization procedures and\nemphasizes the rights of those affected by the shoring.\n\nApplication"
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          Before making an application to the Building Authority for an authorisation\nunder  section 18 of  the Buildings Ordinance Authorised Person/Registered  Structural\nEngineer should ensure that there is no other way of providing precautionary measures than\nto erect shoring inside the adjacent buildings, and also that he has failed in obtaining the\nconsent from the owners and occupants of the adjacent buildings for such shoring work\ndespite having taken all reasonable steps."
+    },
+    {
+      "id": "p4-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 142
+        },
+        {
+          "label": "b",
+          "offset": 183
+        },
+        {
+          "label": "c",
+          "offset": 298
+        },
+        {
+          "label": "d",
+          "offset": 381
+        },
+        {
+          "label": "e",
+          "offset": 455
+        },
+        {
+          "label": "f",
+          "offset": 674
+        },
+        {
+          "label": "g",
+          "offset": 807
+        }
+      ],
+      "text": "4.          Applications for authorization should be made in writing to the Building\nAuthority and should contain the following information :\n\n               (a)   Name of applicant;\n\n              (b)    HKID/Passport/Business  Registration  Certificate Number  of\n                     applicant;\n\n               (c)     Full address and lot number of the building to be entered;\n\n              (d)    Purpose(s) for which the authorization is required;\n\n               (e)     Justification to demonstrate that the erection of shoring inside\n                     the  adjacent  building(s)   is  the  only  possible  means  of\n                    precautionary measures;\n\n                (f)   Name of any agent to be authorized under section 18(6)(b) of\n                     the Buildings Ordinance; and\n\n              (g)     Registration  certificate number  if  applicant  or  agent  is  a\n                     registered contractor.\n\n\n                                                                                          / Authorization ...."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\n\n\n\nAuthorization"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.         Having been satisfied that there is no alternative way of providing support to\nthe adjacent buildings the Building Authority will issue the written authorisation, normally\nwithin 2 weeks of receipt of an application containing all the necessary information. A\ncopy of the authorisation shall be posted in a conspicuous position on the building to which\nit relates.\n\nDamage and Claims for Compensation"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.               It should be noted that sections 18(4) and 18(5) of the Buildings Ordinance\ncontain provisions for the repair of any damage caused by or resulting from the erection,\nmaintenance or dismantling of the shoring and for the occupier or any other person to be\ncompensated for any loss or damage.  Section 18A of the Buildings Ordinance allows any\noccupier or other person who has suffered such loss or damage to apply to the Lands\nTribunal to hear and determine any dispute relating to compensation. I expect that all these\nstatutory provisions are followed where appropriate and the rights of all persons affected\nare respected."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.       PNAP 71 contains information relating to shoring for demolition works.\n\n\n\n\n\n                                        (CHOI Yu-leuk)\n                                                    Building Authority\n\n\n\n\n\nRef. : BD GP/BORD/76\n\nFirst issued June 1997 (AD/D)\n\nIndex under : Authority to Enter Buildings\n              Buildings Ordinance section 18(6)\n             Shoring"
+    }
+  ]
+}

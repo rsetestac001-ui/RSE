@@ -1,0 +1,103 @@
+{
+  "code": "APP-114",
+  "source_text": "indexed_text/PNAP/APP/APP-114.txt",
+  "source_pdf": "documents/PNAP/APP/APP-114.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers  APP-114\n\n                                 Practice Note for Authorized PersonsBuildings Department                                                 245                           and Registered Structural Engineers\n\n\n                         Waste Minimization\n               Provision of Fitments and Fittings in New Buildings\n\n                    It has been suggested, arising from reports of sanitary fitments and\nother  fixtures/fittings  in new  buildings  being  discarded  upon  occupation,  that\nrequirements for the provision of such fitments and fittings prior to completion of new\nbuildings should not be insisted upon to reduce waste."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 472
+        },
+        {
+          "label": "b",
+          "offset": 657
+        },
+        {
+          "label": "c",
+          "offset": 794
+        }
+      ],
+      "text": "2.       A  working  group  (WG)  comprising  government   officials  and\nrepresentatives of the building industry has studied the issue. A survey has indicated\nthat the problem of carting away of sanitary  fitments/fittings required under the\nbuilding regulations in newly completed private buildings is not significant.  The WG\nhas also identified the following concerns  if the requisite fitments/fittings are not\nprovided at the time of completion of a new building :\n\n         (a)     construction waste generated from fitting out works carried out\n            by  individual  contractors  while  a  new  building   is  under\n              occupation;\n\n        (b)    chaotic condition arising from individual owners engaging their\n           own contractor for the fitting out works; and\n\n         (c)     the practicality of testing plumbing and drainage system without\n               fitments for compliance with regulation."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 640
+        },
+        {
+          "label": "b",
+          "offset": 1108
+        }
+      ],
+      "text": "3.          The WG is of the view that the basic sanitary fitments required under\nthe building regulations should be installed prior to the issue of an occupation permit.\nThe WG, however, has also recommended that modification of the relevant building\nregulation be considered to permit certain sanitary fitments be not installed at the time\nof issuing an occupation permit on merits of individual case.  The Building Authority\nhas accepted the recommendation and will favourably consider giving a modification\nof Building (Standards of Sanitary Fitments, Plumbing, Drainage Works and Latrines)\nRegulations in the following circumstances :\n\n         (a)    premises such  as  restaurants and  hotels  for which extensive\n              renovation and fitting out of the required sanitary fitting by a\n               restaurant or hotel operator will only be carried out after the\n               issue of the occupation permit and in the process any sanitary\n                  fitting installed prior to the issue of an occupation permit would\n             be dismantled in the course of such renovation work;\n\n        (b)    a  developer  has  offered  to  provide  fittings  to  individual\n               purchaser’s choices.\n                                                                      /4….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 297
+        },
+        {
+          "label": "b",
+          "offset": 454
+        },
+        {
+          "label": "c",
+          "offset": 756
+        },
+        {
+          "label": "d",
+          "offset": 1019
+        }
+      ],
+      "text": "4.        AP wishing to take advantage of the circumstances set out in para 3\nshould provide details on the extent of the sanitary fitments and fittings to be installed\nafter the issue of the occupation permit in the application for modification together\nwith an undertaking to the effect that :-\n\n          (a)   the outstanding fitments and fittings will be installed prior to the\n               actual occupation of the relevant part of the premises;\n\n         (b)   the  outstanding  fitments  and  fittings  will  be  installed  in\n             accordance with the provisions of the Building (Standards of\n              Sanitary  Fitments, Plumbing, Drainage Works and  Latrines)\n              Regulations and the requirements of the Water Authority;\n\n          (c)   the outstanding fitments and fittings will be installed under his\n              supervision by the registered general building contractor who will\n            employ a licenced plumber for the carrying out of the plumbing\n             works; and\n\n         (d)   Water Authority will be notified via the submission of standard\n            form WW046 available in the office of Water Authority for the\n                installation of the outstanding plumbing fittings."
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          The survey also shows that some doors, floor finishes and partitions are\ntaken out and are replaced by owners of new flats.  You may therefore wish to offer\nmore choices of colour schemes, door types and floor finish patterns for potential\npurchasers of buildings.\n\n\n\n\n\n                                         (C M LEUNG)\n                                               Building Authority\n\n\n\n\nRef. : BD GP/BREG/RC/2\n    BD GP/BREG/SF/1 (II)\n\nFirst issued July 2000\nThis revision December 2000 (AD/NB1) (para 4 amended)\n\nIndex under : Sanitary Fitments\n                Fittings and Fixtures"
+    }
+  ]
+}

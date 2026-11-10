@@ -1,0 +1,179 @@
+{
+  "code": "APP-072",
+  "source_text": "indexed_text/PNAP/APP/APP-072.txt",
+  "source_pdf": "documents/PNAP/APP/APP-072.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Re gistered Structural Engineers and Registered Geotechnical Engineers   APP-72\n                                Practice Note for Authorized PersonsBuildings Department                                                 178\n                          and Registered Structural Engineers\n\n\n                                  Control of Blasting\n\n               Blasting in private building works is subject to control under the Buildings\nOrdinance (Cap 123) and Dangerous Goods Ordinance (Cap 295).\n\nBuildings Ordinance"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "2.            Authorized persons/registered structural engineers/registered geotechnical\nengineers (APs/RSEs/RGEs)  responsible  for any  building works  or  street works\ninvolving blasting should ensure that any blasting carried out will not adversely affect\nservices, slopes, retaining walls, buildings and structures through ground vibrations or\nother effects. In the design and execution of blasting works, the APs/RSEs/RGEs should\nalso  ensure  that  adequate and  necessary  preventive,  protective and  precautionary\nmeasures are provided to prevent the works from causing injury to workers and the\npublic,  significant  disruption  to  traffic, undue  vibration and movement  to  existing\nstructures and services, or undue nuisance to the public."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 769
+        },
+        {
+          "label": "b",
+          "offset": 814
+        },
+        {
+          "label": "c",
+          "offset": 874
+        },
+        {
+          "label": "d",
+          "offset": 955
+        },
+        {
+          "label": "e",
+          "offset": 1001
+        },
+        {
+          "label": "f",
+          "offset": 1059
+        },
+        {
+          "label": "g",
+          "offset": 1199
+        },
+        {
+          "label": "h",
+          "offset": 1309
+        }
+      ],
+      "text": "3.          The geotechnical assessment submitted at the general building plan stage\nshould identify if there is a need to carry out blasting for rock excavation and discuss its\nfeasibility.   If blasting is to be carried out as part of the site formation, excavation or\nfoundation works, a blasting assessment prepared by a competent person and signed by\nthe responsible RGE and/or RSE as appropriate should be submitted together with the\nrelevant  site formation, excavation and  lateral support, or foundation plans.  Such\ncompetent person should have at least 4 years of relevant experience in design and\nsupervision of blasting works.  The required contents of a blasting assessment are\nspecified in Appendix A and the following should be indicated on the plans :\n\n         (a)    proposed areas of blasting;\n\n        (b)    geology, ground and groundwater conditions;\n\n         (c)     locations of sensitive receivers [see item (a) of Appendix A];\n\n        (d)     details of control criteria;\n\n         (e)     instrumentation and monitoring details;\n\n          (f)     specific precautionary measures such as road closure, evacuation\n               plan, restricted hours of blasting, etc;\n\n        (g)    requirements for submission of regular reports and other related\n              documents; and\n\n        (h)    a note stating that the plan should be read in conjunction with the\n                blasting assessment.\n                                                                                                      /If ….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "-  2  -\n\n\n\nIf the need for blasting  is identified after the general building plan stage, the same\nrequirements as aforesaid for the preparation of a blasting assessment and its submission,\ntogether with any relevant revised plans, are applicable."
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.        The curricula  vitae of the competent person who prepared the  blasting\nassessment should be included  in the submission.   Generally, supervision by such\ncompetent person will be required to verify the assumptions in the blasting assessment\nduring construction relating to blasting.\n\nSupervision Requirements for Blasting Works"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.        The paragraphs below set out the supervision requirements that may be\nimposed under section 17 of the Buildings Ordinance (BO) as conditions for qualified\nsupervision of blasting works.  This is in addition to the site supervision required under\nthe Technical Memorandum for Supervision Plans 2005 and relevant provisions of the\nBO."
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.        For  the  supervision  of  the  blasting  works,  a  competent  supervisor\nindependent of the registered contractor should be appointed to assist the technically\ncompetent person grade T5 (TCP T5) in the RGE/RSE’s stream in the supervision of the\nblasting works.  This competent supervisor should have at least 4 years of relevant\nexperience in design and supervision of blasting works. Where necessary, the Building\nAuthority (BA) may impose a higher qualification/experience requirement taking into\naccount the scale and complexity of the proposed blasting works and the risk involved.\nThe competent person described in para. 3 above who meets the above necessary\nqualification/experience requirement can also be the competent supervisor for assisting\nthe TCP 5 in the supervision of the blasting works.  As an alternative to having a\ncompetent supervisor, if a person holds the qualification and experience of both the TCP\nT5 and the competent supervisor , he can take up the overall supervision of blasting\nworks by himself. The curricula vitae of the proposed supervision personnel should be\nsubmitted to the BA for acceptance prior to commencement of the blasting works."
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "7.        The RGE/RSE should include particular items related to the blasting works in\nthe check lists of Specific Tasks for the TCPs, as required in the Code of Practice for Site\nSupervision 2005. Typical items related to blasting works are listed in Appendix B.\n\nDemolition Works"
+    },
+    {
+      "id": "p8-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          Blasting normally would not be adopted in the demolition of private building\nworks due to its wide implications on the surroundings which, in general, are of high\ndensity developments.  In the exceptional circumstances where explosives are to be used\nin demolition works, a blasting assessment, prepared by a competent person who should\nhave at least 4 years of relevant experience in the design and supervision of blasting\nworks and signed by the responsible RSE and RGE as appropriate, should be submitted\nwith the relevant demolition plans. The requirements given in the Code of Practice for\n\n                                                                   /Demolition ….."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "-  3  -\n\n\nDemolition of Buildings issued by the Buildings Department should be followed.  In the\nconsideration for the protection of properties and the inhabitants that may be affected by\nthe proposed blasting, and in conducting the blasting assessment to examine the effects on\nstructures to be demolished and its surroundings as mentioned in the Code, the relevant\nitems specified in Appendix A should be covered.\n\nDangerous Goods Ordinance"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.           Dangerous Goods (General) Regulation 46 stipulates that no person shall\ncarry out any blasting without the permission of the Authority, i.e. the Commissioner of\nMines who is the Director of Civil Engineering and Development.  Where blasting is\nrequired,  the  registered  contractor  has  to  apply  for  a  blasting  permit from  the\nCommissioner of Mines, who may impose conditions requiring the registered contractor\nto take effective preventive, protective and precautionary measures against the adverse\neffects of blasting, e.g. flyrock, vibrations and air-overpressure, to adopt suitable blasting\ndesigns and techniques,  to comply with the control  criteria, and  to undertake the\nmonitoring shown in the approved plans.\n\nRailway Structures and Operations"
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.           Guidelines for assessing the  effects of blasting on the structures and\noperations of the Mass Transit Railway Corporation Limited and the Kowloon-Canton\nRailway Corporation are given in Practice Notes for Authorized Persons and Registered\nStructural Engineers 77 and 279 respectively.  The \"General Specification for Civil\nEngineering Works (Hong Kong Government)\" also specifies technical standards on\nblasting. This document  is available for purchase from either the Publications Sales\nSection of the Information Services Department or the online Government Bookstore at\nhttp://bookstore.esdlife.com.\n\n\n\n\n\n                                                                           ( CHEUNG Hau-wai )\n                                                              Building Authority\n\n\nRef. : BD GP/BREG/C/29 II\n\nFirst issue June 1995 (AD/LM and GGE/I)\nThis revision April 2007 (AD/Support and DH(I)GEO/CEDD) –\n                         (General  revision  to  include RGE  and  site  supervision\n                          requirement and Appendix B added)\n\nIndex under :  Blasting\n              Control of Blasting"
+    },
+    {
+      "id": "page-4",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        4
+      ],
+      "text": "Appendix A\n                                                         (PNAP 178)\n                                                                 (APP-72)\n\n                           Contents of a Blasting Assessment\n\n\n(a)     Site plans clearly indicating the proposed areas of blasting and locations of all sensitive\n        receivers including  streets, structures, foundations, railways, public  utilities, water\n       mains, drains, sewers, gas mains and other services, geotechnical features such as\n        slopes, retaining walls, boulders, tunnels, caverns,  etc.  that may be damaged or\n        destabilized by the proposed blasting works.\n\n(b)   A report containing the results of a study, including on the topography, geology,\n       ground, groundwater and surface water conditions, and the physical site constraints,\n        sensitive receivers and site history.\n\n(c)   A report containing examination of the conditions of the sensitive receivers on and\n       adjacent to the site.\n\n(d)   A report containing an assessment of the effects of blasting works to demonstrate that\n        the proposed blasting would not cause any injury to persons or damage to property and\n        sensitive receivers.\n\n(e)     Proposals of preventive measures to be carried out on sensitive receivers, if considered\n       necessary.\n\n(f)   A list of the action limits to be specified for the implementation of blasting works,\n       including blasting vibration limits and air-overpressure limits, etc. to ensure that the\n        blasting works to be carried out would not cause any injury to persons, damage to\n        sensitive receivers, significant disruption to traffic or undue nuisance to the public.\n      The limits proposed should take into account the existing conditions of all sensitive\n        receivers.  The source of the limits and documentary evidence of consultation and\n       agreement, where appropriate, with the key stakeholders (e.g. owners or maintenance\n        agents) of the sensitive receivers should be provided.\n\n(g)   An outline of the blast design to demonstrate that the blasting works could be safely\n        carried out and the proposed limits and any other constraints could be satisfied.\n\n(h)   A document setting out the safety management system to be employed, and the\n      working procedures and sequences, where appropriate, for all blasting works.\n\n(i)     Particulars of site inspections, surveys and monitoring to be carried out to check and\n      measure the effects of blasting, including plans showing the locations of the monitoring\n        stations, the performance criteria and the action limits.\n\n(j)     Proposals  of  protective and  precautionary measures  to be  taken,  including any\n       evacuation and closure of public areas (such as roads and other facilities) and warnings\n       needed to protect sensitive receivers and safety of the public and workers.\n\n\n\n\n                                                              - 1 -"
+    },
+    {
+      "id": "page-5",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        5
+      ],
+      "text": "(k)    Proposals of the arrangement for delivery of explosives to the site to demonstrate the\n        practicability of completing the blasting works and the rock excavation needed within\n        the construction period.\n\n(l)      If an on-site explosive store is considered necessary, a report containing an assessment\n       of its feasibility and proposed arrangement.\n\n\n\n\n\n(Rev. 4/2007)\n\n\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix B\n                                                         (PNAP 178)\n                                                                (APP-72)\n                       Typical Items Related to Blasting Works for\n               the Check List of Specific Tasks for the RSE/RGE’s TCPs\n\n\nSpecific Tasks for TCP T5 (with the support of the competent supervisor)\n\n(a)    Carry out checking of the registered contractor’s blasting method statement.\n\n(b)    Check (including both document and site checks) and satisfy, for each blast, that the\n        registered contractor’s blast design and precautionary measures comply with the plans\n       approved by the Building Authority and the blasting permit requirements.\n\n(c)     Verify on site that the ground conditions and geology are as stated or assumed in the\n        blasting assessment, and that the provisions in the method statement and the preventive,\n        protective and precautionary measures are adequate for the conditions as encountered\n      on site.\n\n(d)    Ensure that the preventive measures, if required, have been properly carried out prior\n        to commencement of the blasting works.\n\n(e)    Ensure that protective and precautionary measures have been properly executed prior to\n       each blast.\n\n(f)     Regularly monitor the conditions of all sensitive receivers and carry out reviews before\n      and after each blast.\n\n(g)    Prepare regular reports with records of the condition of the site, sensitive receivers,\n       adjacent grounds, structures and services etc. after each phase of blasting operation and\n       completion of related works.\n\n\nSpecific Tasks for TCP T3\n\n(a)     Inspect the construction of preventive works, if required, for the sensitive receivers.\n\n(b)     Inspect the provision and installation of  all necessary protective and precautionary\n       measures prior to each blast, in accordance with the blast design.\n\n(c)    Monitor the site operations and working methods to ensure that they meet the safety\n       requirements set out in the blasting permit.\n\n(d)     Inspect the conditions of all sensitive receivers before and after each blast.\n\n(e)    Carry out and ensure the quality of monitoring for the sensitive receivers before and\n       during blasting.\n\n\n(4/2007)"
+    }
+  ]
+}

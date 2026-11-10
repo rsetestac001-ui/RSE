@@ -1,0 +1,422 @@
+{
+  "code": "ADM-23",
+  "source_text": "indexed_text/PNAP/ADM/ADM-23.txt",
+  "source_pdf": "documents/PNAP/ADM/ADM-23.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department    Registered Structural Engineers and       ADM-23\n                         Registered Geotechnical Engineers\n\n\n     Self-certification System for Plan Submission of Simple Structural Works\n\n\nIntroduction\n\n               In consideration of the Government’s commitment to streamline the\ndevelopment process while upholding building safety in compliance with the Buildings\nOrdinance (BO), the Buildings Department (BD) introduces a self-certification system\nwith fast track processing procedures for plan submissions of some structural works\nwhich are relatively simple in nature and pose less risk for construction (hereinafter\nreferred  as  “simple  structural  works”).   This  practice  note  sets  out  the  scope,\nrequirements and procedures of the self-certification system.\n\nScope of Simple Structural Works"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 204
+        },
+        {
+          "label": "b",
+          "offset": 237
+        },
+        {
+          "label": "c",
+          "offset": 270
+        },
+        {
+          "label": "d",
+          "offset": 303
+        },
+        {
+          "label": "e",
+          "offset": 340
+        }
+      ],
+      "text": "2.           According to the extent and complexity of building works, construction\nmethods, technical requirements and risk levels, simple structural works are categorised\ninto five categories as below:\n\n      (a)     Category A Works;\n\n      (b)     Category B Works;\n\n      (c)     Category C Works;\n\n      (d)     Category D Works; and\n\n      (e)     Category E Works."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          The general descriptions of Category A to E Works and their eligibility\ncriteria are listed in Appendix A. Simple structural works meeting the eligibility criteria\ncan be processed on a  fast track basis by relying on the self-certification of the\nregistered structural engineer1 (RSE) who prepares the plans for approval. For Category\nC to E Works, a separate independent checking engineer (ICE)  is required to be\nappointed for checking and certifying the plans.  Works not meeting the eligibility\ncriteria in Appendix A will not be qualified for fast track processing.\n\n                                                                /Self-certification…\n\n\n1  RSE appointed by the developer/owner of the project as indicated in the Form BA4\n   submitted to the Building Authority (BA).  For cladding, curtain wall, window, window\n   wall and precast concrete works mentioned in PNAP APP-16, APP-37 and APP-143, he/she\n   can be a separate RSE appointed to prepare the design and supervise the carrying out of\n   such works."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2 -\nSelf-certification of Simple Structural Works"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.        RSE and ICE (if applicable), in addition to specified Forms BA5 and\nBA6 2 , should complete  the  checklists 3 as provided  in Appendices B1 and B2\nrespectively and a certificate as provided in Appendix C for certifying that the relevant\nstructural  plans  and  design  calculations  meet  the  eligibility  criteria  given  in\nAppendix A, the proposed structural works are compatible with the supporting structure\nand comply with the provisions of the BO and allied regulations. The structural plans\nand design calculations should be clearly presented and organised as outlined in PNAP\nADM-8.  They should be signed by RSE and ICE (as applicable) with a standard\nstatement in accordance with Appendix D.\n\nAppointment and Requirements of ICE"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.          ICE should also be a registered structural engineer whose name is on the\nstructural engineers’ register kept under section 3(3) of the BO. To ensure impartiality\nand independency, ICE should be appointed by the developer/owner of the project and\nshould have no conflict of interest with RSE and all relevant personnel/parties of the\nproject in carrying out the duties. Notification of appointment of ICE and declaration of\nno conflict of interest by ICE should be submitted to BD in a standard form (see\nAppendix E) on or before the date of submission of plans for fast-track processing.\n\nDuties and Responsibilities of ICE"
+    },
+    {
+      "id": "p6-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "6.          ICE should carry out fundamental check on the plans for Category C to E\nWorks according to the checklist at Appendix B2. ICE should advise RSE whether the\nworks are in compliance with the criteria of simple structural works as specified in\nAppendix A and thus eligible for self-certification for fast track processing.  After the\nfundamental check by ICE,  the  plans, design  calculations and  the  checklists of\nAppendix B1 and Appendix B2 are to be submitted by RSE to BD.\n\nPlan Processing"
+    },
+    {
+      "id": "p7-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 492
+        },
+        {
+          "label": "b",
+          "offset": 623
+        }
+      ],
+      "text": "7.        On the basis that the submission only involves simple structural works\nthat have been certified by RSE (for all Category A to E Works) and ICE (for Category\nC, D and E Works) for complying with the provisions of the BO and allied regulations,\nthe curtailed check performed by BD would focus on the completeness of the submitted\ndocuments, verification of registration status and the correctness/appropriateness of the\nfollowing structural information shown on the plan submissions:\n\n      (a)      compatibility between  the simple  structural works and  the\n              supporting structures (as appropriate);\n\n      (b)      provision of fire resistance to structural elements;\n\n                                                                     /(c)…\n\n2   For alteration and addition works.\n3  RSE should complete the checklist for all categories of works as provided in Appendix B1.\n    In addition, ICE should complete the checklist for Category C to E Works as provided in\n   Appendix B2."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "- 3 -\n\n      (c)      design loads;\n\n      (d)      design codes and standards;\n\n      (e)      specifications for materials and workmanship;\n\n       (f)       testing requirements and  criteria on materials and  structural\n                fixings; and\n\n      (g)      provision of corrosion resistance to structural elements."
+    },
+    {
+      "id": "p8-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "8",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "8.          The processing time for plan submissions of simple structural works\nunder the self-certification system will be as follows:\n\n      Type of submission                       Processing time (Days)\n                                     Submission via     Submission other than\n                                       Electronic Submission         via ESH\n                                Hub (ESH)\n        First submission/                    20                  40\n       resubmission/\n      major revision\n     Amendment including Type II          10                  20\n     Works applied for fast track\n      consent application"
+    },
+    {
+      "id": "p9-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "9",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "9.          Once  a  submission  of  simple  structural  works  has  adopted  the\nself-certification system  for  fast-track processing,  its subsequent resubmissions or\namendment submissions should also adopt the same procedures for self-certification.\nAs BD relies on the checking and certification by RSE/ICE in processing the plan\nsubmissions, if the subsequent resubmission/amendment submission is not submitted\nunder the self-certification system, BD may consider it as a normal submission which\nwill be processed under the normal time frame in accordance with regulation 30 of the\nBuilding (Administration) Regulations."
+    },
+    {
+      "id": "p10-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "10",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "10.          Notwithstanding the above, in case that the first submission of simple\nstructural works has not adopted the self-certification arrangement, RSE and ICE may\nstill  adopt  the  self-certification  arrangement  in  the  subsequent  resubmissions/\namendment submissions.\n\nConcurrent Applications for Approval and Consent"
+    },
+    {
+      "id": "p11-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "11",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "11.          Concurrent applications for approval and consent for Category A, B, C,\nD or E Works may be processed provided that approval of the corresponding building\nplans have been given. The requirements under PNAP ADM-19 should be followed\nand all requisite supporting information/documents for consent application should be\nsubmitted and found satisfactory before granting of the consent.\n\n\n                                                           /Audit…"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "- 4 -\nAudit Checks of Plan Submissions"
+    },
+    {
+      "id": "p12-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "12",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "12.        To maintain a high quality standard of self-certification and prevent\nabuse, BD will carry out audit checks on the fundamental issues of the submissions by\nrandom selection. The results of audit checks will be conveyed to RSE and ICE.  If\nthere is any misrepresentation of material facts in any plans/certification or misconduct\nin carrying out duties under the BO, appropriate action will be taken in accordance with\nthe BO.\n\n\n\n\n\n                                                              ( HO Chun-hung )\n                                               Building Authority\n\n\n\n\n\nRef. : BD NBD2/K/BREG/1\n    BD GR/1-125/5/1 (IV)\n\n\nFirst issue    June 2025 (AD/NB2)"
+    },
+    {
+      "id": "page-5-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Appendix A\n                                                     (PNAP ADM-23)\n\n\n       Eligibility Criteria for Fast Track Processing of Structural Plan Submissions\n              for Simple Structural Works Under Self-certification System"
+    },
+    {
+      "id": "p1-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 78
+        },
+        {
+          "label": "b",
+          "offset": 400
+        },
+        {
+          "label": "c",
+          "offset": 547
+        },
+        {
+          "label": "d",
+          "offset": 607
+        }
+      ],
+      "text": "1.     General eligibility criteria for Category A to E Works are as follows:\n\n        (a)   only involving conventional construction materials (such as reinforced concrete,\n             precast reinforced concrete,  structural  glass,  structural  steel,  stainless  steel,\n              structural aluminium, stone and other materials in the Buildings Department’s\n             Central Data Bank);\n\n        (b)   not affecting the overall structural stability of the building for which the simple\n              structural works are attached to;\n\n        (c)   not involving any prestressed structure; and\n\n        (d)   not involving any retaining structure."
+    },
+    {
+      "id": "p2-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "2.     Specific eligibility criteria for Category A to E Works are as follows:\n\n         (I)   Simple structural works relying on self-certification by RSE\n\n            (A)   Category A Works\n\n                      (a) Simple structural works in a new building development that are of the\n                    same nature, scale and complexity as a minor works (MW) item1; and\n\n                     (b) MW in an existing building, plans of which are submitted by RSE for\n                       seeking the Building Authority’s (BA) approval and consent, instead\n                        of adopting the simplified requirements under the Minor Works\n                       Control System (MWCS).\n\n            (B)   Category B Works\n\n                 Simple structural works in a new building development involving the\n                     erection of the following elements including their anchors and support\n                       details, which do not  fall within Category A Works and are neither\n                 exempted works nor designated exempted works:\n\n                      (a)  Metal/glass cladding, false ceiling2, louvre and grille3\n\n\n                                                                                /(i)…\n\n\n1 MW items are specified in Schedule 1 of the Building (Minor Works) Regulation (B(MW)R).\n2  False ceiling that is subject to wind load and suspended underneath a structure e.g. balcony, transfer\n   plate or open frame structure.\n3  Louvre and grille that are subject to wind load and attached to the exterior of a building or suspended\n   underneath a structure, e.g. balcony, transfer plate or open frame structure.\n\n                                                                  - 1 -"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "(i)   the highest point of any part of the works is not more than 100m\n                          above the adjoining ground of the building; and\n\n                                 (ii)   the least dimension of a rectangle inscribing any individual\n                             panel does not exceed 2m; and the area of any individual panel\n                           does not exceed 6m2.\n\n                     (b) Metal supporting frame and modular units4 for the growing of plants\n                           that are fixed to an external wall of a building\n\n                                (i)    criterion in item (a)(i) above is met;\n\n                                 (ii)  each modular unit is of a size not exceeding 0.75m in height and\n                             width;\n\n                                 (iii)  projection of each modular unit from the plane of fixing points\n                           does not exceed 0.2m; and\n\n                            (iv)  the system is a proprietary system.\n\n                      (c)  Metal/glass canopy\n\n                                (i)    criteria in item (a)(i) and (ii) above are met; and\n\n                                 (ii)  no  part  of  the canopy  projects more  than 2m from  the\n                           column/wall/beam.\n\n                     (d) Metal supporting frame for suspending a building service installation5\n                       (BSI) inside a building, of which the imposed load due to the BSI on\n                         the supporting frame is not more than 2 kPa and the weight of\n                         individual BSI is not more than 2000 kg.\n\n                      (e) Metal supporting frame for glass reinforced polyester (GRP) water\n                       tanks/BSI on-grade or on a slab inside a building, of which the\n                     imposed load due to the GRP water tank/BSI on the supporting frame\n                              is not more than 20 kPa and the weight of individual GRP water\n                       tank/BSI is not more than 9000 kg.\n\n                         (f)  Maintenance platform and its supporting metal frame sitting on or\n                      suspending underneath a slab inside a building, of which the designed\n                     imposed load on the supporting frame is not greater than 2 kPa.\n\n         (II)  Simple structural works relying on self-certification by RSE with checking and\n              certification by ICE\n\n            (C)   Category C Works\n\n\n                                                                          /(a)…\n\n\n4  See Circular Letter titled “Submission of Vertical Greening Plans” issued by the BA on 14 February 2019.\n5  As defined under Section 1 Part 1 of Schedule 1 to the B(MW)R.\n\n                                                                  - 2 -"
+    },
+    {
+      "id": "page-7",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        7
+      ],
+      "text": "(a) Stone cladding works including their anchors and support details in a\n                  new building development and the works do not fall within Category\n              A Works:\n\n                                (i)   the highest point of any part of the works is not more than 100m\n                          above the adjoining ground of the building; and\n\n                                 (ii)  the least dimension of a rectangle inscribing any individual panel\n                           does not exceed 2m; and the area of any individual panel does\n                             not exceed 6m2.\n\n            (D)   Category D Works6\n\n                      (a)  Single  storey  refuse  room/plant  room/covered  walkway  and\n                        associated structural works7 in a new building development\n\n                                (i)   no structural element of the structure has a span of more than\n                        8m;\n\n                                 (ii)   the height of the structure is not be more than 5m; and\n\n                                 (iii)  the structure has no basement.\n\n                     (b) Detached or semi-detached single-family house not exceeding three\n                         storeys and associated structural works7\n\n                                (i)   no structural element of the structure has a span of more than\n                        8m;\n\n                                 (ii)   the height of each storey is not more than 4.5 m; and\n\n                                 (iii)  the structure has no basement.\n\n             (E)   Category E Works\n\n                  Shallow foundation8 supporting Category D Works\n\n                      (a)  the allowable pressure of the foundation is not more than 300 kPa or\n                    150 kPa (if the foundation is located below ground water table);\n\n                     (b) the foundation is not founded on soft clay or mud;\n\n                      (c)  the foundation is not founded at more than 3m below existing ground\n                           level;\n\n                                                                        /(d)…\n\n6  Category D Works may rest on a podium floor, shallow foundation or pile cap supported by a pile\n   foundation directly.\n7  Associated  structural works  include  curtain  wall,  skylight,  precast  element,  external  steel\n   maintenance platform, external metal staircase, external cat-ladder (other than Designated Exempted\n  Works item 28) or similar structures that meet the general eligibility criteria in paragraph 1.\n8  Shallow foundation includes, but not limited to spread footing, pad footing, strip footing and raft\n   foundation.\n\n                                                                  - 3 -"
+    },
+    {
+      "id": "page-8",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        8
+      ],
+      "text": "(d)  it does not involve any foundation works in Area Numbers 1, 3 and 5\n                        of Schedule Areas in Schedule 5 of the BO;\n\n                      (e)  the overall gradient of the area bounded by lines 10m away from the\n                         location of the footing in the downhill direction is not more than\n                    15 degrees;\n\n                         (f)  there is no slope steeper than 15 degrees within the area mentioned in\n                       item (e) above; and\n\n                     (g)  there is no retaining wall or terrace wall higher than 1.5m, or below a\n                           line drawn down from the base of the footing that is 45 degrees to the\n                          horizontal, within the area mentioned in item (e) above.\n\n\n\n\n\n(6/2025)\n\n\n\n\n\n                                                                  - 4 -"
+    },
+    {
+      "id": "page-9",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Appendix B1\n                                                                 (PNAP ADM-23)\n\n                         Checklist for Registered Structural Engineer (RSE)\n      For Fundamental Checking of Simple Structural Works under Self-Certification SystemΔ\n\nSubmission Title:                                                                 Category [A,B,C,D,E ]# Works\n\n Part                                             Comments/Observations\n        1.1 STRUCTURAL SYSTEM\n                                                                                              S/U/NA^ #       [Complete this box for superstructure works]\n        For Category A Works, please specify the equivalent Minor Works item(s): MW No.\n        Descriptions of structural system and load path:    <<Example in Explanatory Notes 1>>\n       _______________________________________________________________________________________\n                                                                       @         Y/N/NA% #       [Complete this box for shallow foundation (i.e. spread/pad/strip footing/raft foundation/others)]\n         Spread/pad/strip# footing/raft foundation/ others# found on soil/rock# stratum of:\n     □ Category            of Table 2.1 of Code of Practice (CoP) for Foundations 2017¤ (Foundation\n              Code) with bearing capacity          kPa (w/o wind) and          kPa (w/ wind); OR  SAFETY   □ Others:  <<Description of founding material>> and with allowable bearing capacity        kPa\n AND          (w/o wind) and          kPa (w/ wind) based on equation in Section 2.2.4 of Foundation Code\n               with F.O.S ≥ 3 to be verified with plate load tests.\n\n        1.2  COMPATIBILITY CHECK\n         Structural layout compatible with analysis model.                                            Y/N/NA% #\n\n       Loading compatible with the assumed design load of parent structures.                             Y/N/NA% #     SERVICEABILITY\n         Structural layout compatible with building plans.                                            Y/N/NA% #\n\n        1.3  STABILITY, STRUCTURAL ADEQUACY AND SERVICEABLITY CHECK\n       The maximum flexural and shear stresses of major structures fulfill the requirements of the relevant design  Y/N/NA% #    STABILITY,\n        standards/CoP.\n\n        Robustness of the building/structure found satisfactory                                        Y/N/NA% #\n\n       Max. lateral deflection =     mm < allowable:     mm                                  Y/N/NA% #\n\n                                                                                                                                                                 #    STRUCTURAL   Anchorage system: cast-in/drill-in/through bolt# with F.O.S. ≥ 3                                  Y/N/NA%\n 1:\n         Stability check of the footing found satisfactory@                                            Y/N/NA% #\n  PART           Design ground water level:     mPD  (Depth below ground level =      m)\n             Sliding: F.O.S. =      ≥ 1.5$\n             Uplift: F.O.S. =      ≥ 1.5$\n           Overturning F.O.S. =      ≥ 1.5$ due to wind and ground water; and\n                               ≥ 2 due to loads other than wind and ground water.#\n        Maximum bearing pressure =       kPa   Minimum bearing pressure =       kPa\n\n         Serviceability check of the footing found satisfactory@                                        Y/N/NA% #\n          Max. settlement of the footing =      mm; differential settlement of the footing =     mm\n\n\n                                                        << Signature on this page >>\n                                                                            - 1 -"
+    },
+    {
+      "id": "page-10",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        10
+      ],
+      "text": "1.4  FIRE RESISTANCE RATING (FRR) REQUIREMENTS\n     FRR of structural elements has been provided to comply with the CoP for Fire Safety in Buildings 2011¤ or  Y/N/NA% #\n       <<other means with BD reference >>.\n\n       2.1 FLOOR LOADS\n       Floor uses comply with building plan                                                    Y/N/NA% #\n   □ Dead load (unit weight for concrete/steel/glass/aluminum#) =         kN/m3                       S/U/NA^ #\n   □ Superimposed dead load =         kPa (or shown in drawing no                  )\n   □ Imposed load =         kPa for   <<floor use>>   (or shown in drawing no               )\n   □ Hydrostatic load for water tank (designed for water height =     m) (or shown in drawing no.           )\n   □ Soil load (designed for soil height =        m) (or shown in drawing no                  )\n   □ Others:                           =         kPa (or shown in drawing no                 )\n       2.2 LATERAL LOADS\n     Wind load shown on plan.                                                            Y/N/NA% #\n      [The design wind parameters should be provided for both orthogonal wind directions]                    S/U/NA^ #LOADING\n2:  B =          D =\n     Wind reference pressure Qo,z=          kPa    for H/He=        m\n     Wind directionality factor, Sθ:=              Topography factor, St =PART       Force coefficient Cf: =                         Size and dynamic factor Sq,h=\n      Net pressure coefficient Cp =                   Size factor Ss =\n\n       Other lateral imposed load shown on plan.                                                 Y/N/NA% #\n\n       Soil pressure     :                                Imposed/Surcharge loads :                          S/U/NA^#\n       Hydrostatic       :                                   Others:\n\n        Sufficient load combinations considered for checking footing stability.                             Y/N/NA% #\n\n       2.3 OTHER RELEVANT LOADS\n   □                                                                                          S/U/NA^#\n\n       3.1  DESIGN CODES AND STANDARDS ADOPTED¤\n                                                                                                  S/U/NA^#\n   □ CoP on Wind Effects in Hong Kong 2019 □ CoP for Dead and Imposed Loads 2011\n   □ CoP for Structural Use of Concrete 2013 □ BS8118:Part1:1991 Structural Use of Aluminium\n   □ CoP for the Structural Use of Steel 2011  □ SCI Publication P291 Structural Design of Stainless Steel\n   □ CoP for Foundations 2017       □ PNAP\n   □ CoP for Structural Use of Glass 2018   □ Others:STANDARD\n       3.2 COMPUTER PROGRAMME\n                                                                                                  S/U/NA^#\n   □ SAP2000 ver       (BD ref:                 ) □ Prokon ver.         (BD ref:                 )\n   □ ETABS ver.        (BD ref:                 ) □ SAFE ver.          (BD ref:                 )MATERIAL  □ SADS ver.         (BD ref:                 ) □ Other:            (BD ref:                 )\nAND       3.3 MATERIAL SPECIFICATIONS\n   □ Concrete grade          complying with CS1 and CS3;                                    Y/N/NA% #\n   □ Reinforcement grade          of Class 1/2/3# complying with CS2;DESIGN   □ Structural steel grade         complying with                      ;\n3:\n   □ Aluminum grade        complying with                      ;\n   □ Stainless steel grade          complying with                      ;PART   □ Glass type: annealed/heat strengthened/tempered# glass complying with                               ;\n   □ Type of cast-in/drill-in/through bolt# adopted:         (BD ref:            ). Strictly in compliance with\n           the manufacturer recommendation, which was shown on plan.\n   □ Others:__________________\n\n\n                                                        << Signature on this page >>\n                                                                          - 2 -"
+    },
+    {
+      "id": "page-11",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        11
+      ],
+      "text": "3.4  DURABILITY AND WORKMANSHIP REQUIREMENTS\n         Corrosion resistance provision to structural elements and found satisfactory.                         Y/N/NA% #\n          Pull out test and test load for drill-in anchor/rebar complying with PNAP APP-169.                    Y/N/NA% #\n        Type 1/2# mechanical coupler adopted (BD ref:                    );                                  Y/N/NA% #\n          Test frequency and standard complying with CoP for Structural Use of Concrete 2013.\n        Welding test involved and test frequency and standard complying with CoP for the Structural Use of Steel  Y/N/NA% #\n         2011.\n          Others:                                                                                  S/U/NA^ #\n\n          4.1  ADJACENT/ADJOINING STRUCTURESΩ AND PRECAUTIONS\n        With adjacent/adjoining structures ( □ Yes □ No )\n            If yes, assessment has been conducted and it is confirmed that the proposed works have no adverse effect on  Y/N/NA%#\n          the adjacent/adjoining structures.   ADJACENT/\n ON     4.2 CONSTRUCTION SEQUENCE AND SAFETY UNDER TEMPORARY CONDITION\n                                                                                                                                                                   #            STRUCTURES  Construction sequence shown on plan and in safe manner.                                      Y/N/NA%\n\n          4.3 GROUND SETTLEMENTS AND GROUND WATER DRAW DOWN  EFFECTS                                                                                                                                                             #         Monitoring plan provided.                                                            Y/N/NA% 4:           ADJOINING  Alert/Alarm/Action triggering levels fulfilling Foundation Code¤ and PNAP APP-24.\n PART      Sufficient monitoring checkpoints provided.\n Other comments:\n\n\nChecked by Registered Structural Engineer (for Category [A, B, C, D, E]# Works)\n\nAny false certification or declaration may be subject to legal and/or disciplinary action. ##\n\nDate:\n                                                             Signature of Registered Structural Engineer*\n\n                                                           (Name in full) *\n                Certificate of Registration Number*:\n                 Date of Expiry of Registration*:\n\nΔ See Annex for “Explanatory Notes for RSE/ICE to Complete the Checklists for Fundamental Checking of Simple Structural Works\n   under Self-certification System”.\n^  S = Satisfactory U = Unsatisfactory NA = Not Applicable\n% Y = Yes N = No NA = Not Applicable\n#   Delete where not applicable\n@  Information to be provided for Category A Works involving footing works or Category E Works only.\n$  Where the design is based on the highest possible groundwater table, the factor of safety could be adjusted to 1.1 as per Section\n    2.5.4 of Foundation Code.\n## Any person making a false declaration or misrepresenting a material fact shall be guilty of a criminal offence and subject to\n   prosecution and/or disciplinary action.\n*   In accordance with the registration record.\n¤  Unless otherwise specified, latest edition of the CoP/standards listed in Appendix A of PNAP APP-53 should be adopted for\n   checking the simple structural works.\nΩ  Unless otherwise specified, assessment on the structural adequacy of the existing building or building elements that may be\n    affected by the simple structural works should be checked in accordance with the requirements under PNAP APP-117.\n□ Tick as appropriate\n\n(6/2025)\n\n                                                                             - 3 -"
+    },
+    {
+      "id": "page-12",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        12
+      ],
+      "text": "Appendix B2\n                                                               (PNAP ADM-23)\n\n                       Checklist for Independent Checking Engineer (ICE)\n     For Fundamental Checking of Simple Structural Works under Self-Certification SystemΔ\n\nSubmission Title:                                                                Category [C, D, E]# Works\n\n                  Particulars                                       Observations                    *S/U/NA\n            (1)   Fulfillment of eligibility criteria  Category____________  works  and  the  type  of  works\n                   for self-certification               involved:       <<e.g. covered walkway and  associated\n FOR                                                    structural works.    For details, see Appendix A of PNAP\n                                    ADM-23>>\n     ELIGIBILITY                       SELF-CERTIFICATION\n            (2)   Structural stability, adequacy and □ The maximum flexural, shear stresses of major structures\n                   serviceability                      and  the  maximum  vertical  and  lateral  deflection\n                                                           /settlement# fulfill the requirements of the relevant design\n                                                    standards/CoP        SAFETY                   □ Robustness of the building/structure found satisfactory\n    AND    STABILITY,       (3)   Compatibility  between  simple □ Structural layout compatible with analysis model\n                   structural   works   and    the □ Loads compatible with the assumed design loads of parent\n                 supporting     structures     (as       structures\n                  appropriate)          □ Bearing pressure within allowable bearing capacity\n\n            (4)   Fire   resistance   rating  (FRR)  FRR requirements    STRUCTURAL            requirements    for    structural □ Not required □ 60/60/60# □ 120/120/120#                  SERVICEABILITY         elements           □ 240/240/240#\n\n            (5)   Floor loads          □ Dead load    □ Superimposed dead load\n                      □ Imposed load  □ Soil load\n                      □ Upthrust load\n                      □ Others: _______________________________________\n\n            (6)   Lateral loads         □ Wind load\n                      □ Soil load   □ Hydrostatic      LOADING                   □ Imposed/Surcharge\n                      □ Others:________________________________________\n\n            (7)  Load combinations       □ Sufficient load combinations considered for checking\n                                                                 stability of foundation\n            (8)  Design codes and standards   □ CoP for Dead and Imposed loads 2011\n                      □ CoP on Wind Effects in Hong Kong 2019\n                      □ CoP for Structural Use of Concrete 2013\n                      □ CoP for Structural Use of Steel 2011\n                      □ CoP for Foundations 2017    MATERIAL                    □ BS 8118-1:1991 Structural Use of Aluminium\n AND                    □ CoP for Structural Use of Glass 2018                      □ SCI Publication P291 Structural Design of Stainless Steel          STANDARD\n                      □                                                       Others: _______________________________________\n   DESIGN       (9)   Specifications for materials and                                                Acceptable                                                       and compliance with PNAP APP-53.\n               workmanship\n\n\n                                                         << Signature on this page >>\n                                                                            - 1 -"
+    },
+    {
+      "id": "page-13",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        13
+      ],
+      "text": "(10)  Testing     requirements     for   Materials:\n                     structural materials and fixings  □ Concrete  □ Reinforcement  □ Steel\n                      □ Glass    □ Aluminium    □ Stainless Steel\n                      □ Others: _______________________________________\n\n                                                         Structural Fixings:\n                      □ Drilled-in Anchors   □ Type 1/2# Coupler\n                      □ Grouted Bolts/Dowels/Rebars\n                      □ Others: _______________________________________\n\n             (11) Corrosion     resistance    and □ Concrete:  □ Cover\n                   protection to structural elements         □ Others: _________________________\n                      □ Steel:   □ Hot-dipped galvanizing\n                              □ Others: _________________________\n                      □ Aluminum: □ Anodizing\n                              □ Others: _________________________\n                      □ Other materials: ________________________________\n\n             (12) Precautionary    measures    to  Adequate precautionary measures have been provided\n                   adjacent/adjoining structure\n\n  ON             (13) Construction sequence and safety  Method statement and  construction sequence have been\n                 under temporary conditions        developed with consideration of the site constraints and are\n                                                  provided accordingly     EFFECTS       STRUCTURES\n             (14) Ground settlements and ground  Monitoring system and monitoring plan have been considered\n                 water drawdown                 and provided                             ADJACENT/ADJOINING\n\n (15) Other Observations:\n\n\n\nChecked by Independent Checking Engineer (for Category [C, D, E]# Works)\n\nAny false certification or declaration may be subject to legal and/or disciplinary actions. ##\n\nDate:\n                                                            Signature of Independent Checking Engineer$\n\n                                                          (Name in full) $\n                Certificate of Registration Number$:\n                 Date of Expiry of Registration$:\n\n\nΔ See Annex for “Explanatory Notes for RSE/ICE to Complete the Checklists for Fundamental Checking of Simple Structural Works\n   under Self-certification System”.\n*  S = Satisfactory U = Unsatisfactory NA = Not Applicable.\n#   Delete where not applicable\n$   In accordance with the registration record.\n## Any person making a false declaration or misrepresenting a material fact shall be guilty of a criminal offence and subject to\n   prosecution and/or disciplinary action.\n□  Tick as appropriate\n\n\n(6/2025)\n\n\n                                                                             - 2 -"
+    },
+    {
+      "id": "page-14",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        14
+      ],
+      "text": "Annex to Appendices B1 and B2\n                                                     (PNAP ADM-23)\n\n\n Explanatory Notes for RSE/ICE to Complete the Checklists for Fundamental Checking\n               of Simple Structural Works under Self-certification System\n\n\nThese explanatory notes provide guidance for RSE and ICE to complete the checklists for\nfundamental checking of the respective categories of simple structural works under the\nself-certification system so as to ensure that the structural plans are in compliance with the\nrelevant statutory requirements and the latest design standards.\n\n\nPart 1     Structural Stability, Serviceability and Safety\n\n1.1    Structural System\n\n     To facilitate fundamental checking of the structural system for the proposed simple\n        structural works, RSE and ICE are required to provide a succinct description of the\n        structural system on the checklists which should include the structural form and\n       supporting system of the proposed works and the load path of the proposed works in\n        transferring the loads to parent supporting structures or foundations.  It is essential to\n       specify the equivalent Minor Works Item number under the Minor Works Control\n      System on the checklist for Category A Works to enable fundamental checking of the\n      proposed works.\n\n      Examples for completing the checklist:\n\n         (I)  For Category A/B/C Works\n\n            (1) The aluminium cladding/stone cladding/louvre/grille/vertical greening is fixed\n                 to a projected steel frame by stainless steel fasteners. The projected steel frame\n                   is in turn fixed to reinforced concrete (r.c.) beams/columns/wall by drilled-in\n              anchor bolts.\n\n             Load path:\n            Wind load/dead load → aluminium cladding/stone cladding/louvre/grille/\n                 stainless  steel modules  for  vertical greening (secondary  steel and main\n             members) → stainless steel fasteners/brackets → projected steel frame (main\n            beam  to  steel  post and  the base  plate) →  drilled-in anchor  bolts →\n                    r.c. beams/columns/wall.\n\n            (2) The aluminium ceiling is fixed to a braced steel frame by stainless steel\n                 fasteners. The steel frame is in turn hung underneath r.c. beams and fixed to\n                    r.c. wall/column by drilled-in anchor bolts.\n\n             Load path:\n            Wind load/dead load → aluminium ceiling (secondary steel beams and main\n              beams/hanger posts) → stainless steel fasteners → drilled-in anchor bolts →\n                    r.c. beams/walls/columns.\n\n                                                                        /(3)…\n                                                                  - 1 -"
+    },
+    {
+      "id": "page-15",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        15
+      ],
+      "text": "(3) A vertical steel member (dia. 273 x 12.7mm CHS) as flag pole is fixed on\n                    r.c. spread footing with drilled-in anchor bolts.\n\n             Load path:\n            Wind load/dead load → flag pole (vertical steel member and base plate) →\n                 drilled-in anchor bolts → r.c. spread footing.\n\n         (II) For Category D Works\n\n            (1) An r.c. beam-column/core wall/shear wall# structure with maximum horizontal\n              span of 8m supported by r.c. spread footing (footing approved/to be submitted\n              under separate submissions#)\n\n             Load path (vertical):\n            Dead load/imposed load →   r.c. slab → r.c. secondary steel beams/main\n             beams → r.c. columns/walls → r.c. spread footing.\n\n             Load path (lateral):\n            Wind load → external wall → main beams/column/wall (frame action) →\n                    r.c. spread footing.\n\n         (III) For Category A/E Works involving shallow foundation works\n\n            (1) The shallow foundation founded on Category 4(a)/4(b)/4(c)# non-cohesive soil\n               with  allowable  bearing  capacity  of  250/150/50# kPa  (w/o  wind) and\n               312.5/187.5/62.5# kPa(w/ wind).\n\n            (2) The shallow foundation founded on Category 5(a)/5(b)/5(c)# cohesive soil with\n               allowable  bearing  capacity  of  300/150/80#  kPa  (w/o  wind)  and\n               375/187.5/100# kPa(w/ wind).\n\n            (3) The shallow foundation founded on Category 1(a)/1(b)/1(c)/1(d)# rock with\n               allowable   bearing   capacity   of   10000/7500/5000/3000#   kPa   and\n              12500/9375/6250/3750# kPa(w/ wind).\n\n            (4) The shallow foundation founded on fill with soil parameters, effective cohesion\n                of soil, c' = 0 and angle of shearing resistance, Φ'= 30o with allowable bearing\n                capacity of 300 kPa and 375 kPa(w/ wind) based on equation in Section 2.2.4\n                of the Code of Practice for Foundations 2017* with F.O.S =3.\n\n1.2    Compatibility Check\n\n     To scrutinise the design calculation for ensuring that the loads induced by the proposed\n       simple structural works do not have adverse effect on the parent supporting structures,\n     RSE and ICE (if applicable) should check whether the structural layout is compatible\n       with the building plans and analysis model, as well as the induced loading is compatible\n       with the assumed design load on the parent supporting structures or foundations in\n       accordance with the design assumptions.\n\n\n                                                                                            /1.3 …\n\n                                                                  - 2 -"
+    },
+    {
+      "id": "page-16",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        16
+      ],
+      "text": "1.3    Stability, Structural Adequacy and Serviceability Check\n\n     To ensure that the structures or structural works can safely sustain the combination of\n       the dead loads, imposed loads and wind loads, and can safely transmit the loads to the\n       ground, the structures or structural works must be designed with the adequate factors of\n       safety against instability. RSE and ICE (if applicable) should ensure that the major\n        structural elements of the proposed simple structural works have been checked in\n      compliance with the design codes accepted by the Buildings Department (BD) and their\n       deflections and/or vibrations are within the serviceability limit.\n\n1.4    Fire Resistance Rating Requirements\n\n     To ensure that the design of the proposed simple structural works is in compliance with\n       the fire safety requirements specified in the Code of Practice for Fire Safety in Buildings\n      2011*, RSE and ICE (if applicable) should provide adequate cover to reinforcing bars\n       of r.c. structural elements in accordance with the Code of Practice for Structural Use of\n       Concrete 2013*. Similarly, accepted fire protection system to the structural steel works\n       should be provided in accordance with the Code of Practice for the Structural Use of\n       Steel 2011*.\n\nPart 2    Loading\n\n2.1    Floor Loads\n\n     RSE and ICE (if applicable) should ensure that the dead, superimposed dead load\n        (e.g. finishes) and imposed loads adopted in the design of proposed simple structural\n      works conform to the approved building plans and the Code of Practice for Dead and\n      Imposed Loads 2011*.\n\n2.2    Lateral Loads\n\n     RSE and ICE (if applicable) should ensure that the design wind load with the parameters\n       adopted e.g. the wind pressures and wind design parameters are in compliance with the\n      Code of Practice on Wind Effects in Hong Kong 2019*; the design soil load with the\n        soil pressures and soil parameters adopted are in compliance with the Geoguides or other\n       relevant Code of Practice; the design horizontal imposed load on protective barrier is in\n      compliance with the Code of Practice for Dead and Imposed Loads 2011* and the floor\n      usage as shown in the approved building plans, etc.\n\n2.3   Other Relevant Loads\n\n     RSE and ICE (if applicable) should consider all other anticipated loads (e.g., soil load,\n       thermal load, dynamic load, temporary load and so on) in design of the proposed simple\n        structural works.\n\nPART 3   Design and Material Standards\n\n3.1    Design Codes and Standards Adopted\n\n     RSE and ICE (if applicable) should ensure that the design of the proposed simple\n        structural works is in accordance with the acceptable design codes and standards.\n\n                                                                                            /3.2 …\n                                                                  - 3 -"
+    },
+    {
+      "id": "page-17",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        17
+      ],
+      "text": "3.2   Computer Programme\n\n     RSE and ICE (if applicable) should ensure that the computer programmes used for the\n        structural analysis modelling are in the BD’s pre-accepted list stipulated in PNAP\n     ADM-6.\n\n3.3    Material Specifications\n\n     RSE and ICE (if applicable) should ensure that the materials (their properties such as\n        characteristic strength, elastic modulus, density) adopted in the design of the proposed\n       simple structural works comply with the relevant standards and codes of practice.\n\n3.4    Durability and Workmanship Requirements\n\n     RSE  and ICE  (if  applicable)  should  ensure  that  the  thickness  of  protective\n       coating/concrete cover has sufficient durability characteristics to resist corrosion and\n       weathering and fulfils the design life requirement, and performance tests are adequately\n       provided to prove the workmanship of the proposed simple structural works.\n\n\nPART 4   Effects on Adjacent/Adjoining Structure\n\n4.1    Adjacent/Adjoining Structures and Precautions\n\n     RSE and ICE (if applicable) should check if adequate precautionary measures have been\n       provided to ensure that no adverse effects will pose on the adjacent/adjoining structures.\n\n4.2    Construction Sequence and Safety under Temporary Condition\n\n     RSE and ICE (if applicable) should check if the method statement and construction\n      sequence for the proposed structural works have taken into account the site constraints\n      and different site activities to ensure that the works are carried out in a safe manner. For\n      example, adequate number of steel props should be temporarily provided for slab\n       opening/demolition/removal works and the affected area should be barricaded.\n\n4.3   Ground Settlements and Ground Water Drawdown\n\n     RSE and ICE  (if applicable) should check  if a monitoring system with suitable\n       instrumentation is to be implemented for the foundation works under Category A or E\n      Works.   Adequate number  of monitoring  checkpoints  with  Alert/Alarm/Action\n       triggering levels should be provided to safeguard the adjoining sensitive structures and\n         facilities.\n\n\n#  Delete as appropriate\n*  Unless otherwise specified, the latest edition of the codes of practice/standards listed in Appendix A\n   of PNAP APP-53 should be adopted for checking the simple structural works.\n\n(6/2025)\n\n\n\n\n                                                                  - 4 -"
+    },
+    {
+      "id": "page-18-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        18
+      ],
+      "text": "Appendix C\n                                                     (PNAP ADM-23)\n\n\n               Request for Fast-Track Processing of Plan Submission\n              for Simple Structural Works under Self-certification System\n    (To be completed in duplicate@, complete in BLOCK LETTERS and tick the appropriate boxes)\n\n\nTo the Building Authority\n\nPart A (To be certified by Registered Structural Engineer for Category A to E Works)"
+    },
+    {
+      "id": "p1-page-18",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        18
+      ],
+      "subparagraph_markers": [],
+      "text": "1.             In accordance with PNAP ADM-23, I hereby request for fast-track processing of\nthe plans submitted as per the attached drawing list for the proposed simple structural works,\nwith nature as below and to be carried out at             (address of the site)\n\nNature of Simple Structural Works\n New Building Works\n  Category A Works - Minor Works items specified in Schedule 1 of Building (Minor\n    Works) Regulation (B(MW)R)\n  Category B Works\n   Metal/Glass* cladding/false ceiling/louvre/grille*\n   Metal supporting frame and modular units for the growing of plants that are fixed to an\n       external wall of a building\n   Metal/Glass* canopy\n   Metal supporting frame for suspending a building service installation1 (BSI) inside a\n       building\n   Metal supporting frame for glass reinforced polyester (GRP) water tanks/BSI on grade\n       or on a slab inside a building*; and\n   Maintenance platform and its supporting frame sitting on or suspending underneath a\n       slab inside a building\n  Category C Works - Stone cladding\n\n  Category D Works\n   Single-storey refuse room/plant room/covered walkway* and associated structural\n      works2\n   Detached or semi-detached single-family house not exceeding three storeys and\n       associated structural works2\n\n\n1  As defined under Section 1 Part 1 of Schedule 1 to the B(MW)R.\n2  Associated  structural works  include  curtain  wall,  skylight,  precast  element,  external  steel\n   maintenance platform, external metal staircase, external cat-ladder (other than Designated Exempted\n  Works item 28) or similar structures that meet the general eligibility criteria in paragraph 1 of\n   Appendix A of PNAP ADM-23.\n\n                                                                  - 1 -"
+    },
+    {
+      "id": "page-19-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        19
+      ],
+      "text": "Nature of Simple Structural Works (continued)\n  Category E Works - Shallow foundation supporting Category D Works\n      (i.e. spread/pad/strip* footing/raft foundation/others*)\n\n  Alteration and Addition Works\n  Category A Works - Minor Works items (MW) specified in Schedule 1 of B(MW)R.  The\n    works shown on plan for approval solely involve MW."
+    },
+    {
+      "id": "p2-page-19",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        19
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 123
+        },
+        {
+          "label": "b",
+          "offset": 309
+        },
+        {
+          "label": "c",
+          "offset": 451
+        },
+        {
+          "label": "d",
+          "offset": 587
+        }
+      ],
+      "text": "2.                I certify that the plans mentioned in paragraph 1, duly signed by me, fulfil the\nfollowing requirements:\n\n      (a)     The building works shown on the above-mentioned plans meet the eligibility\n                 criteria of simple structural works as specified in Appendix A of PNAP ADM-23;\n\n      (b)     The building works shown on the above-mentioned plans are structurally\n             compatible with the supporting structures;\n\n      (c)     The structural plans and calculations are clearly presented and organised as\n               specified in PNAP ADM-8; and\n\n      (d)     The structural plans and calculations comply in all respects with the provisions\n              of the Buildings Ordinance and allied regulations.\n\n3*.      A Form BA8A applying for consent to the commencement and carrying out of\nthe works mentioned in paragraph 1 above is enclosed.\n\n\n\n\nAny false certification or declaration may be subject to legal and/or disciplinary action.##\n\n\nDate:\n                                            Signature of Registered Structural Engineer#\n\n\n                                             (Name in full) #\n\n      Certificate of Registration Number. #:  RSE/\n          Date of Expiry of Registration#:\n\n\n\n\n\n                                                                  - 2 -"
+    },
+    {
+      "id": "page-20",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        20
+      ],
+      "text": "Part B* (To be certified by Independent Checking Engineer for Categories C, D and E\nWorks)\n\n4*.              I certify that the plans relating to the above building works as per the attached\ndrawing list submitted by (name of the registered structural engineer in part A) mentioned in\nPart A, duly signed by me, fulfil the following requirements:\n\n          (a)  The building works shown on the above-mentioned plans meet the eligibility\n                 criteria of simple structural works as specified in Appendix A of PNAP ADM-23;\n\n         (b)  The building works shown on the above-mentioned plans are structurally\n             compatible with the supporting structures;\n\n          (c)  The structural plans and calculations are clearly presented and organised as\n               specified in PNAP ADM-8; and\n\n         (d)  The structural plans and calculations comply in all respects with the provisions\n              of the Buildings Ordinance and allied regulations.\n\n\nAny false certification or declaration may be subject to legal and/or disciplinary action. ##\n\n\nDate:\n                                            Signature of Independent Checking Engineer#\n\n                                             (Name in full) #\n\n       Certificate of Registration Number#:   RSE/\n          Date of Expiry of Registration#:\n\n\n\n\n\n@ One copy for Owner and one copy for Authorized Person\n*  Delete where inapplicable\n#  In accordance with the registration record.\n## Any person making a false declaration or misrepresenting a material fact shall be guilty of a criminal\n   offence and subject to prosecution and/or disciplinary action.\n\n\n\n\n\n(6/2025)\n\n\n\n                                                                  - 3 -"
+    },
+    {
+      "id": "page-21",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        21
+      ],
+      "text": "Appendix D\n                                                 (PNAP ADM-23)\n\n\nA. Standard Statement to be Shown on Plans and Design Calculations for All\n   Simple Structural Works\n\n\n                Plans and Design  Calculations  Self-certified by\n                 Registered Structural Engineer\n              The works shown on  these  plans  are  Simple\n                 Structural Works and meet the eligibility criteria as\n                     listed in PNAP ADM-23 for self-certification by the\n                  Registered  Structural Engineer.   These  plans and\n                 design calculations are found in compliance in  all\n                   respects with the provisions of the Buildings Ordinance\n                and the regulations made thereafter.\n\n\n\n\n\n                    << Signature of RSE >>\n\n          ………………………………………………\n\n                        <<Name of RSE>>\n\n                             Registered Structural Engineer\n\n                           <<Registration No RSE XX/XX>>\n\n\n\n\n\n                                                             - 1 -"
+    },
+    {
+      "id": "page-22",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        22
+      ],
+      "text": "B. Additional Statement to be Shown on Plans and Design Calculations for\n    Categories C, D and E Simple Structural Works\n\n\n                 Plans  and  Design  Calculations  Checked  and\n                  Certified by Independent Checking Engineer\n              The works shown on  these  plans  are  Simple\n                  Structural Works and meet the eligibility criteria as\n                      listed in PNAP ADM-23 for checking and certification\n                by the Independent Checking Engineer.  These plans\n                and design calculations have been checked by me on the\n                 fundamental issues in accordance with PNAP ADM-19\n                and are found in compliance in all respects with the\n                   provisions  of  the  Buildings  Ordinance  and  the\n                   regulations made thereafter.\n\n\n\n\n                              <<Signature of ICE>>\n\n            ………………………………………………\n\n                        <<Name of ICE>>\n\n                            Independent Checking Engineer\n\n                            <<Registration No RSE XX/XX>>\n\n\n\n\n\n(6/2025)\n\n\n\n\n                                                              - 2 -"
+    },
+    {
+      "id": "page-23",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        23
+      ],
+      "text": "Appendix E\n                                                     (PNAP ADM-23)\n\n\n              Notice of Appointment of Independent Checking Engineer\n\nTo:  The Building Authority\n\nPart A   Notice of Appointment\n(To be completed by the person intending to carry out the works)\n\nI. Details of Works\n (a) Address of Site:\n\n\n (b) Lot Number with Details of Any Section of the Lot\n\n\n (c) Name of the Owner (Surname first)\n\n\n (d) Address of the Owner\n\n\n (e) Name of Duly Authorized Agent of the Owner (if any)\n\n\n (f) Address of Duly Authorized Agent of the Owner (if any)\n\n\n\nII. Details of Independent Checking Engineer\n\n          In accordance with the provision of paragraph 5 of Practice Notice for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers (PNAP)\nADM-23, I/we give you notice that I/we have appointed the following person as Independent\nChecking Engineer (ICE) to carry out independent fundamental checking on the plans and\ndesign calculations for the simple structural works as specified in PNAP ADM-23.\n\n Chinese Name#:                                      (Surname First)\n\n English Name#:                                      (Surname First)\n\n Correspondence Address#\n\n\n Contact Tel. No.                         Fax No.\n\n\n\n                                                                  - 1 -"
+    },
+    {
+      "id": "page-24",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        24
+      ],
+      "text": "III. Details of the Person Intending to Carry out the Works\n Chinese Name:                                       (Surname First)\n\n English Name:                                       (Surname First)\n\n Correspondence Address\n\n\n\n Contact Tel. No.                         Fax No.\n\n\n Identification\n HKID No./Business Registration\n\n\n\n\n Date:\n                                                       Signature of Person\n                                                Intending to Carry out the Works\n\n                                             (Name in full)\n\n\nPart B   Confirmation of Appointment\n(To be filled by the appointed Independent Checking Engineer)\n\n Chinese Name#:                                      (Surname First)\n\n English Name#:                                      (Surname First)\n\n Certificate of Registration Number#       Date of Expiry of Registration# (dd/mm/yyyy)\n RSE                         /\n Correspondence Address#\n\n\n\n            I confirm that I have been appointed as the Independent Checking Engineer to carry\nout independent fundamental checking on the plans and calculations for the simple structural\nworks at the above site as specified in PNAP ADM-23 and undertake to perform duties for\nensuring the works shown on the plans prepared by the registered structural engineer (RSE) are\nin compliance in all respects with the provisions of the Buildings Ordinance and the regulations\nmade thereafter.\n\n\n\n\n\n                                                                  - 2 -"
+    },
+    {
+      "id": "page-25",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        25
+      ],
+      "text": "Part C   Declaration of Conflict of Interest\n\nI declare that:\n\n     (a)    I am independent  of  the RSE,  registered  geotechnical  engineer (RGE) and\n           registered contractor (RC) of the captioned site where the building works (including\n          the simple structural works for self-certification) are proposed; and the RSE, RGE or\n      RC and  I, including our employing companies, have no holding,  subsidiary,\n          consultant/sub-consultant,     consultant/contractor,     contractor/sub-contractor,\n         employer/employee relationship or any other kind of relationship;\n\n     (b)    I do not receive any payment, commission, advantage or benefit of any kind, whether\n           directly or indirectly, from the RSE, RGE or RC of the captioned site where the\n          building works (including the simple structural works for self-certification) are\n         proposed; and\n\n     (c)    I have no actual, potential or perceived conflict of interest with the RSE, RGE or RC\n          of the captioned site where the building works (including the simple structural works\n           for self-certification) are proposed, and I undertake to declare so as soon as I become\n         aware of such a conflict.\n\n Any false certification or declaration may be subject to legal and/or disciplinary action. ##\n\n\n Date:\n                                          Signature of Independent Checking Engineer#\n\n                                            (Name in full) #\n\n\n\n\n#  In accordance with the registration record.\n## Any person making a false declaration or misrepresenting a material fact shall be guilty of a criminal\n   offence and subject to prosecution and/or disciplinary action.\n\n\n\n\n\n(6/2025)\n\n\n\n\n\n                                                                  - 3 -"
+    }
+  ]
+}

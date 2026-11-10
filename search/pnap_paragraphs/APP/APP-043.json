@@ -1,0 +1,146 @@
+{
+  "code": "APP-043",
+  "source_text": "indexed_text/PNAP/APP/APP-043.txt",
+  "source_pdf": "documents/PNAP/APP/APP-043.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n Persons, Registered Structural Engineers and Registered Geotechnical Engineers    APP-43\n\n                               Practice Note for Authorized Persons\nBuildings Department                                                    117                         and Registered Structural Engineers\n\n\n          Licensing of Child Care Centres, Kindergartens and Restaurants\n\n         When applications are made to the licensing authorities in respect of child\ncare centres, kindergartens and restaurants, the plans are referred to the Buildings\nDepartment (BD)  for comments on  structural  safety and means  of  escape. The\nguidelines within BD may be of interest to authorized persons (APs) advising clients.\n\nChild Care Centres and Kindergartens"
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "b",
+          "offset": 618
+        },
+        {
+          "label": "c",
+          "offset": 1271
+        },
+        {
+          "label": "d",
+          "offset": 1318
+        },
+        {
+          "label": "e",
+          "offset": 1371
+        },
+        {
+          "label": "g",
+          "offset": 1888
+        }
+      ],
+      "text": "2.            Child care centres and kindergartens may not be located above G/F level\nin a non-purpose  built building unless  certain conditions are  fulfilled. Where the\npremises is located above G/F, the following guidelines apply:\n\n                 Location                               Conditions\nAcceptable   (a)  in  composite  buildings  with  (1)  Premises   shall  conform   to\nwith              not more than two commercial       general standards of the Code\nconditions         floors above G/F                     of   Practice   for  Means  of\n                                                   Escape.\n               (b)  in  composite  buildings  with\n                   three  or  more  commercial  (2)  Child care centre is subject to\n                   floors where  the  child  care       the 12m and 24m maximum\n                  centre  or  kindergarten  itself       height rule under Child Care\n                 occupies one or more  entire      Centre Regulation 19.\n                commercial  floors  and  not\n              more  than two  floors above  (3)  Kindergarten  is subject to the\n              G/F remain commercial          24m  maximum  height  rule\n                                                  under Education Regulation 7.\n               (c)  in institutional buildings\n\n               (d)  in high-rise domestic buildings\n\n               (e)  in     wholly     commercial  (4)  In addition  to conditions  (1),\n                  buildings                               (2) &  (3),  two  independent\n                                             means of escape are provided\n                 (f)  in  composite  buildings  with       for  the  exclusive use  of  the\n                   three  or  more  commercial       occupants  of  the  centre  or\n                   floors above G/F other than       kindergarten.\n                   (b)\n               (g)  in  single  staircase  buildings  (5)  In addition  to conditions  (1),\n                  other than (h) and (i)                   (2), & (3), two extra staircases\n                                                must  be  provided   to   the\n                                                    premises to be licensed and the\n                                                          single  staircase  serving  the\n                                               whole building must be sealed\n                                                            off therefrom.\n                                                                    /Acceptable ...."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2  -\n\n\n                 Location                               Conditions\nAcceptable   (h)  in    single-family   domestic  Unconditional\nwithout           buildings not exceeding three\nconditions       main storeys\n\n                  (i)  in New Territories \"exempted\"\n                  buildings\n\n\nUnless applications comply with these guidelines, intended “change in use” under\nBuildings Ordinance section 25 will be prohibited."
+    },
+    {
+      "id": "p3-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "3.            Child Care  Centres  or  kindergartens  should  not be  located  in an\nindustrial building.  They are considered  incompatible uses both from a fire-fighting\nand town planning point of view.\n\nRestaurants\n\n(a)    Certification"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.         When  commissioned   for   projects   involving   restaurant   licence\napplications, authorized persons (APs) and Registered Structural Engineers (RSEs) may\nbe required to certify direct to the licensing authority that certain categories of building\nsafety requirements imposed by the Buildings Department have been fully complied\nwith.  Under such circumstances, APs and RSEs have an important role to play in\nsupervising the works and ensuring the safety of restaurant patrons and employees.\nCertificates and structural justifications submitted direct to the licensing authorities are\naudited by BD and appropriate action will be taken in cases involving negligence and/or\nmisconduct.\n\n(b)    Unauthorized Building Works"
+    },
+    {
+      "id": "p5-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "5.        BD  also  advises  the  licensing  authorities  of  the  existence  of any\nunauthorized building works (UBW) which constitute a risk to the safety of restaurant\npatrons and employees.  In such cases, the licensing authorities are advised to reject the\nlicence applications until the UBWs are removed or rectified.  If building works which\nare not exempted under section 41 of the Buildings Ordinance are proposed, the\nattention of the building owners should be drawn  to the contents of PNAP 125\nregarding the consequences of carrying out such works without having first obtained the\napproval and consent of the Building Authority.\n\n\n\n\n\n                                                                              /(c) Discharge ...."
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "-  3   -\n\n\n            (c)    Discharge Value"
+    },
+    {
+      "id": "p6-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "d",
+          "offset": 707
+        }
+      ],
+      "text": "6.          Commercial buildings are often designed as shops or offices and later\n         changed to restaurant use.   In these cases, any surplus discharge capacity of the\n           staircases in a building may have been utilised by other existing restaurants established\n            after the issue of the occupation permit.  These circumstances can render a proposed\n           additional  restaurant unacceptable  in terms  of  the permitted discharge value.   In\n          preparing plans for alteration and addition,  it should be noted therefore that existing\n           restaurants should be taken into consideration when calculating discharge values of the\n           staircases and exit routes.\n\n           (d)    Structural Assessment"
+    },
+    {
+      "id": "p7-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "7",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "7.            Floors proposed for restaurant use should be checked to demonstrate\n          adequate structural capacity to safely sustain the loads caused by the floor slab self-\n          weight,  finishes,  permanent  partitions,  any  other  permanent  construction,  any\n          equipment/plant proposed and the minimum imposed load  in accordance with the\n          Building (Construction) Regulations.  Supporting structural calculations should contain\n           relevant particulars of  all proposed equipment/plant and permanent construction as\n-----        listed in Appendix A.\n\n\n\n\n\n                                                  (CHOI Yu-leuk)\n                                                                Building Authority\n\n\n\n\n\n          Ref. : BD GP/LIC/3\n\n           First issued December 1985\n          This revision August 1996 (AD/S)\n\n          Index under : Child Care Centres - licensing of\n                        Kindergartens - licensing of\n                        Licensing - Child Care Centres, Kindergartens and Restaurants\n                   Means of Escape in relation to Uses on Upper Floors\n                        Restaurants - licensing of\n                     Uses on Upper Floors - B(P)R 41(1)"
+    },
+    {
+      "id": "page-4-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        4
+      ],
+      "text": "PNAP 117\n                                                       Appendix A\n                                                  APP-43\n\n\n\n\n     Required Particulars of Equipment/Plant and Permanent Construction\n\n\n\n             Equipment/plant and permanent construction commonly proposed for\nrestaurants are :\n\n        (a)     raised screeds in kitchens, stages and lavatories etc.\n\n        (b)   new brickwalls or solid partitions\n\n        (c)     fish tanks\n\n        (d)     large kitchen equipment, walk-in freezers etc.\n\n        (e)     large centralized air-conditioning units."
+    },
+    {
+      "id": "p2-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "2.          With reference to raised screeds in item (a) above, the authorized person\nor registered structural engineer should either confirm that the screed was laid under his\nsupervision or he should carry out a core test in respect of the material, type, density\nand thickness to ensure compatibility with any supporting calculation."
+    },
+    {
+      "id": "p3-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "3.          With regard to the items (b) to (e) above, the type, size, thickness and\ndensity  of  the  constructional  materials  and  the  manufacturer’s  catalogue  and\nspecification  of  the  plant and  equipment  should  be  clearly  given,  in  order  to\ndemonstrate the correct specific/operating weight used in the checking calculation."
+    }
+  ]
+}

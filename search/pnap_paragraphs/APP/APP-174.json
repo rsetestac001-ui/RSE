@@ -1,0 +1,198 @@
+{
+  "code": "APP-174",
+  "source_text": "indexed_text/PNAP/APP/APP-174.txt",
+  "source_pdf": "documents/PNAP/APP/APP-174.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-174\n                          Registered Geotechnical Engineers\n\n\n          Code of Practice for Precast Concrete Construction 2016\n\n\n            The Buildings Department (BD) has set up a Technical Committee (TC)\nto, among others, collect and consider the views and feedback from the building industry\narising from the use of the Code of Practice for Precast Concrete Construction 2016\n(The Code). Taking into account the advice of the TC, the following amendments to The\nCode have been promulgated and uploaded to BD website www.bd.gov.hk:\n\n      (a)    Appendix A – November 2020; and\n\n     (b)   Appendix B – June 2026.\n\n\n\n\n\n                                                              ( HO Chun-hung )\n                                              Building Authority\n\n\n\n\n\nRef. : BD GR/1-50/79 (VI)\n\nFirst issue     June 2026 (AD/NB2)"
+    },
+    {
+      "id": "page-2",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        2
+      ],
+      "text": "Appendix A\n                                                                                  (PNAP APP-174)\n\n\n\n\n\n Amendments to the Code of Practice for Precast Concrete Construction 2016\n                                        ( November 2020 )\n\n\n\n\nLegends:\n     Amended\n       Deleted\n\n\n\n\n\n(11/2020)\n\n\n\n\n\n                                                                                          - 1 -"
+    },
+    {
+      "id": "page-3-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        3
+      ],
+      "text": "Amendments to the Code of Practice for Precast Concrete Construction 2016\n\n\n      Item                           Current version                                    Amendments"
+    },
+    {
+      "id": "p1-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "1.  Clause 2.4.3     In respect of concrete cover requirements for protection against  In respect of concrete cover requirements for protection against\n    paragraph 2       fire, the Code of Practice for Fire Safety in Buildings should be   fire, the Code of Practice for Fire Safety in Buildings should be\n                     followed,  whereas  for  protection  against  corrosion,  the  followed,  whereas  for  protection  against  corrosion,  the\n                    requirements under the Building (Construction) Regulations  requirements under the  Code of Practice for Structural Use of\n                    should be adopted.                                          Concrete 2013 should be adopted."
+    },
+    {
+      "id": "p2-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "2.  Clause 2.4.4.1   General                                                    General\n                To achieve durability, connections should be properly filled with  To achieve durability, connections should be properly filled with\n                       suitable material to prevent corrosion, cracking or spalling of  suitable material to prevent corrosion, cracking,  spalling of\n                      concrete.                                                      concrete or water seepage."
+    },
+    {
+      "id": "p3-page-3",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        3
+      ],
+      "subparagraph_markers": [],
+      "text": "3.  Clause 2.6.1     General                                                    General\n                   For the requirements on the use of materials, the Building  For the requirements on the use of materials, the Building\n                     (Construction) Regulations should be followed.  The material  (Construction)  Regulations  and  the Code  of  Practice  for\n                      properties used for design should be obtained from the Code of  Structural Use of Concrete 2013 should be followed.  The\n                      Practice for Structural Use of Concrete.                          material properties used for design should be obtained from the\n                                                                   Code of Practice for Structural Use of Concrete 2013.\n\n\n\n\n\n                                                                                                       - 2 -"
+    },
+    {
+      "id": "p4-page-4",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        4
+      ],
+      "subparagraph_markers": [],
+      "text": "4.  Clause 2.6.2.1    Alkali-silica reaction                                                Alkali-silica reaction\n                   Aggregates containing silica minerals are susceptible to attack  Aggregates containing silica minerals are susceptible to attack\n                  by alkalis (Na2O and K2O) from the cement or other sources.  by alkalis (Na2O and K2O) from the cement or other sources.\n                       Alkali-silica reaction causes cracking and reduces the strength of  Alkali-silica reaction causes cracking and reduces the strength of\n                      concrete.                                                         concrete.\n\n                      Effective means of reducing the risk of alkali aggregate reaction  Effective means of reducing the risk of alkali aggregate reaction\n                      include:                                                          include:\n                   •  control on the amount of cement used in the concrete mix;     •  control on the amount of cement used in the concrete mix;\n                   •  use of a low alkali cement;                                •  use of a low alkali cement;\n                   •  use of an appropriate cement replacement such as pulverised  •  use of an appropriate cement replacement such as pulverised\n                       fuel ash (pfa); and                                                  fuel ash (pfa);\n                   •  the reactive  alkali content of concrete expressed as the  •  the reactive  alkali content of concrete expressed as the\n                     equivalent sodium oxide per cubic metre should not exceed   equivalent sodium oxide per cubic metre should not exceed\n                     3.0 kg.                                                          3.0 kg  ;\n                                                                             •  seeking expert advice before alkali reactive aggregates are\n                 The concrete supplier should submit to the authorized person or   used;\n                      registered structural engineer a mix design and Hong Kong  •  use of non-reactive aggregate in accordance with CS1; or\n                    Laboratory Accreditation Scheme (HOKLAS) endorsed  test                                                                             •  reducing the access of moisture, i.e. restricting the amount of                        certificates giving calculations and test results demonstrating                                                                                water ingress from the environment.                        that the mix complies with the above limitation on reactive alkali\n                      content.\n                                                                    The concrete supplier should submit to the authorized person or\n                                                                                          registered structural engineer a mix design and Hong Kong\n                                                                                Laboratory Accreditation Scheme (HOKLAS) endorsed  test\n                                                                                                 certificates giving calculations and test results demonstrating\n                                                                                               that the mix complies with the above limitation on reactive alkali\n                                                                                         content.\n\n\n\n\n\n                                                                                                       - 3 -"
+    },
+    {
+      "id": "p5-page-5",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        5
+      ],
+      "subparagraph_markers": [],
+      "text": "5.  Footnote of\n    Figure A6\n    under\n    Appendix A\n\n                                                                         Note : The connection detail is extracted from a technical paper\n                                                                                                   in the Journal of Southeast University (Natural Science\n                                                                                              Edition) (東南大學學報(自然科學版) published in May\n                                                                                      2013. Permission to reproduce the diagram showing the\n                                                                                        connection detail is granted by the author of the paper.\n\n\n\n\n\n                                                                                                       - 4 -"
+    },
+    {
+      "id": "page-6",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Appendix B\n                                                                                  (PNAP APP-174)\n\n\n\n\n\n Amendments to the Code of Practice for Precast Concrete Construction 2016\n                                           ( June 2026 )\n\n\n\n\nLegends:\n     New/Amended\n       Deleted\n\n\n\n\n(6/2026)\n\n\n\n\n\n                                                                                          - 1 -"
+    },
+    {
+      "id": "page-7-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        7
+      ],
+      "text": "Amendments to the Code of Practice for Precast Concrete Construction 2016\n\nItem              Current version                                   2026 Amendments"
+    },
+    {
+      "id": "p1-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "1",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "1.  LIST OF         Table 2.7 ­     Values   of   tan   αf   for   concrete    Table 2.7 ­      Values   of   tan   αf   for   concrete\n   TABLES                        connections                                              connections\n                    Table 2.8 ­     Design   ultimate   horizontal   shear    Table 2.7a ­      Testing   procedures   with   specific\n                                          stresses at interface                                       requirements  for  completed  panel\n                                                                                                              joints and window joints\n                                                                          Table 2.8 ­      Design   ultimate   horizontal   shear\n                                                                                                           stresses at interface"
+    },
+    {
+      "id": "p2-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "2.  LIST OF         Figure 2.5 –    Schematic arrangement of allowance for   Figure 2.5a –    Load distribution area and loaded area\n   FIGURES                       bearing                                                        for   determining   the   confinement\n                                                                                                modification factor                     Figure 2.6 –    Back-up materials and bond breakers in\n                              movement joints                         Figure 2.5 –     Schematic arrangement of allowance\n                                                                                                         for bearing\n                                                                             Figure 2.6 –     Back-up materials and bond breakers\n                                                                                                        in movement joints"
+    },
+    {
+      "id": "p3-page-7",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        7
+      ],
+      "subparagraph_markers": [],
+      "text": "3.  Clause 1.3      For the purposes of this Code of Practice, the following  For the purposes of this Code of Practice, the following\n   SYMBOLS     symbols apply:                                      symbols apply:\n                  Gk     characteristic dead load                      Gk     characteristic dead load\n                  Qk     characteristic imposed load                   Qk     characteristic imposed load\n                              fcu      characteristic strength of concrete                         fcu      characteristic strength of concrete\n                              fy       characteristic strength of reinforcement                 fy       characteristic strength of reinforcement\n                   Other symbols are defined in the text where they occur.        fcb     design ultimate bearing strength based on the\n                                                                            weaker of the two bearing surfaces\n                                                                         Other symbols are defined in the text where they occur.\n\n\n                                                                                                        - 2 -"
+    },
+    {
+      "id": "page-8-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        8
+      ],
+      "text": "Item              Current version                                   2026 Amendments"
+    },
+    {
+      "id": "p4-page-8",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        8
+      ],
+      "subparagraph_markers": [],
+      "text": "4.  Clause 2.7.9.4   2.7.9.4 Design ultimate bearing stress                     2.7.9.4 Design ultimate bearing stress\n                 The design ultimate bearing stress is based on the weaker  The design ultimate bearing  strength based on the weaker\n                     of the two bearing surfaces and is calculated as follows:    of the two bearing surfaces, fcb  should be calculated as\n                                                                                 follows:\n                   •       0.4fcu for dry bearing on the concrete;\n                                                                                                                 fcb = 0.27mfcu for dry bearing on concrete\n                   •       0.6fcu for bedded bearing on concrete; or\n                                                                                                                 fcb = 0.40mfcu for bedded bearing on concrete\n                   •       0.8fcu for contact face of a steel bearing plate cast\n                              into a member or support, with each dimension not       fcb = 0.80mfcu for contact face of a steel bearing plate\n                          exceeding 40%  of  the corresponding  concrete            cast  into  a member  or  support,  with  each\n                           dimension.                                            dimension   not   exceeding  40%   of   the\n                                                                                    corresponding concrete dimension.\n              An intermediate value of bearing stress between dry and\n                  bedded bearings may be used for flexible bedding.           where\n                                            m     is the confinement modification factor taken as\n\n                                                                      ≤ 2,                                                                                                                                          𝐴𝐴2                                                                                                                                          𝐴𝐴1                                                                 A1    isටloaded area,\n                                                                 A2    is load distribution area (see Figure 2.5a).\n                                                      An intermediate value of bearing stress between dry and\n                                                                     bedded bearings may be used for flexible bedding.\n\n\n\n\n\n                                                                                                  - 3 -"
+    },
+    {
+      "id": "page-9-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        9
+      ],
+      "text": "Item              Current version                                   2026 Amendments\n\n\n\n\n\n                                                                                   Plan View                 Side View\n\n                                                                               Figure 2.5a –  Load distribution area and loaded area for\n                                                                                             determining  the confinement modification\n                                                                                                         factor"
+    },
+    {
+      "id": "p5-page-9",
+      "type": "numbered_paragraph",
+      "paragraph": "5",
+      "pdf_pages": [
+        9
+      ],
+      "subparagraph_markers": [],
+      "text": "5.  Clause 2.8.2.8   2.8.2.8 Testing                                              2.8.2.8 Testing\n\n                      Precast panels often include cast in window frames, and  Precast panels often include cast in window frames, and\n                      the window assemblies are commonly subjected to tests for  the window assemblies are commonly subjected to tests for\n                      the infiltration of air and water. To test the potential joint   dampness  or  leakage.  To  test  the  potential  joint\n                    performance, consideration may be given to incorporating  performance, consideration may be given to incorporating\n                    panel to panel joints in the window test assembly.          panel to panel joints in the window test assembly.\n\n                 The  most  effective   test,  as   it  encompasses   site    On-site field test of the completed joints between precast\n                   workmanship, and also can encompass a large number of  panels and in-situ elements, completed panels and installed\n                         joints, is inspection of the completed panel joints for damp  windows for dampness or leakage is considered the most\n                     or leakage after heavy rain at site.                              realistic and  effective performance  test  to ensure the\n                                                                                  water-tightness of the completed panel joints and window\n                      In the absence of heavy rain, specific joints can be tested   joints, and such test is widely adopted in the construction\n                  by spraying them with water. The hose should deliver  industry.\n                    water as a spray, not a solid jet, and the water should be\n                      directed horizontally, not upward (see clause 4.3.1 for  The testing procedures should follow AAMA 501.2 as per\n                      water-tightness testing of façade panels).                  Table 2.7a.\n\n                                                                                                  - 4 -"
+    },
+    {
+      "id": "page-10-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        10
+      ],
+      "text": "Item              Current version                                   2026 Amendments\n                                                                           Table 2.7a – Testing    procedures    with     specific\n                                                                                         requirements for completed panel joints and\n                                                                        window joints\n                                                                          Item             Requirements\n                                                                              Testing samples  100%\n                                                                               Pressure  at  the  205 to 240kPa\n                                                                             nozzle\n                                                                 Hose diameter   19mm\n                                                                            Duration        5 mins in every 1.5m joint length by\n                                                                                             slowly moving nozzle over the test\n                                                                                                      section\n                                                                             Distance      of 305mm +/- 25mm\n                                                                             nozzle from test\n                                                                                   section\n                                                                                   Failure criterion  Dampness  or  leakage  appears on\n                                                                                                                interior surfaces during the test or\n                                                                                                 within two hours after completion of\n                                                                                                     the test\n                                                                                 Failed  to  meet  Remedy  all such failed  joints and\n                                                                                  the requirements   retest  all remedied  joints  until  all\n                                                                                                               joints meet the specified criteria."
+    },
+    {
+      "id": "p6-page-10",
+      "type": "numbered_paragraph",
+      "paragraph": "6",
+      "pdf_pages": [
+        10
+      ],
+      "subparagraph_markers": [],
+      "text": "6.  Annex A                                              A1 REFERENCED STANDARDS\n   REFERENCES                                            AAMA 501.1     Standard  Test Method  for  Water\n                                                                                                    Penetration  of  Windows,  Curtain\n                                                                                        Walls and Doors Using Dynamic\n                                                                                                 Pressure\n                                            AAMA 501.2     Quality  Assurance and  Diagnostic\n                                                                                     Water  Leakage  Field  Check  of\n                                                                                                            Installed Storefronts, Curtain Walls\n                                                                                      and Sloped Glazing Systems\n\n\n                                                                                                  - 5 -"
+    },
+    {
+      "id": "page-11",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        11
+      ],
+      "text": "Item              Current version                                   2026 Amendments\n                                            AAMA 501.3     Field  Check  of  Water  and  Air\n                                                                                     Leakage Through Installed Exterior\n                                                                                 Windows, Curtain Walls, and Doors\n                                                                                  by Uniform Air Pressure Difference\n                                                ASTM C719-14   Standard Test Method for Adhesion\n                                                                                      and Cohesion of Elastomeric Joint\n                                                                                                   Sealants  Under  Cyclic Movement\n                                                                              (Hockman Cycle)\n                                                ASTM C794-15   Standard    Test    Method     for\n                                                                                              Adhesion-in-Peel   of   Elastomeric\n                                                                                                          Joint Sealants\n                                                ASTM           Standard      Specification       for\n                                                                    C920-14a         Elastomeric Joint Sealants\n                                                ASTM           Standard    Test    Method     for\n                                                                   C1087-00        Determining Compatibility of Liquid-\n                                                                           (2006)           Applied  Sealants with Accessories\n                                                                                Used in Structural Glazing Systems\n                                                ASTM           Standard    Test    Method     for\n                                                                       E283-04(2012)   Determining Rate  of  Air Leakage\n                                                                                    Through Exterior Windows, Curtain\n                                                                                                Walls, and Doors Under Specified\n                                                                                                 Pressure  Differences  Across  the\n                                                                                    Specimen\n                                                ASTM E330-14   Standard Test Method for Structural\n                                                                                         Performance of Exterior Windows,\n                                                                                            Doors, Skylights and Curtain Walls\n                                                                                  by  Uniform  Static  Air  Pressure\n                                                                                                 Difference\n\n\n\n                                                                                                  - 6 -"
+    },
+    {
+      "id": "page-12",
+      "type": "unstructured_page",
+      "pdf_pages": [
+        12
+      ],
+      "text": "Item              Current version                                   2026 Amendments\n                                                ASTM           Standard  Test Method  for  Water\n                                                                       E331-00(2016)    Penetration  of  Exterior  Windows,\n                                                                                                      Skylights, Doors, and Curtain Walls\n                                                                                  by  Uniform  Static  Air  Pressure\n                                                                                                 Difference\n                                                ASTM           Standard  Test Method  for  Water\n                                                                       E547-00(2016)    Penetration  of  Exterior  Windows,\n                                                                                                      Skylights, Doors, and Curtain Walls\n                                                                                  by   Cyclic   Static  Air   Pressure\n                                                                                                 Difference\n                                                         ANSI            Glazing Materials Used in Buildings\n                                                                       Z97.1-2009      – Safety Performance Specifications\n                                                                                      and Methods of Test\n                                                       BS 6213:2000+  Selection of Construction Sealants –\n                                                                   A1:2010         Guide\n\n\n\n\n\n                                                                                                  - 7 -"
+    }
+  ]
+}

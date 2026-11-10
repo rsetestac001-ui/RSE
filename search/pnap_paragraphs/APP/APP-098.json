@@ -1,0 +1,76 @@
+{
+  "code": "APP-098",
+  "source_text": "indexed_text/PNAP/APP/APP-098.txt",
+  "source_pdf": "documents/PNAP/APP/APP-098.pdf",
+  "extraction": "heuristic; verify against PDF",
+  "sections": [
+    {
+      "id": "page-1-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        1
+      ],
+      "text": "Practice Note for Authorized Persons,\n Buildings Department       Registered Structural Engineers and     APP-98\n                             Registered Geotechnical Engineers\n\n\n\n                         Lighting and Ventilation for Bathrooms\n                      and Lavatories in Domestic Buildings\n\n\n           To promote the cause of environmental protection, the argument has often\nbeen made that flexibility should be allowed in administering Regulation 36 of the\nBuilding (Planning) Regulations (B(P)R) in relation to the provision of windows for\nbathrooms and lavatories in domestic buildings. The Building Authority (BA) takes a\nsympathetic view on this argument having regard to advances in ventilation technology\nand the need for greater freedom in the design of buildings."
+    },
+    {
+      "id": "p2-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "2",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 213
+        },
+        {
+          "label": "b",
+          "offset": 291
+        },
+        {
+          "label": "c",
+          "offset": 345
+        }
+      ],
+      "text": "2.          The BA  will  give  favourable  consideration  to an  application  for\nmodification of Regulation 36 of the B(P)R in respect of internal bathrooms and\nlavatories where the following criteria are met :\n\n        (a)    The room is part of a unit of accommodation for domestic use;\n\n        (b)    The room is of a reasonable size; and\n\n        (c)    The modification to be granted is unlikely to result in standards of\n              public health and safety being compromised."
+    },
+    {
+      "id": "p3-page-1",
+      "type": "numbered_paragraph",
+      "paragraph": "3",
+      "pdf_pages": [
+        1
+      ],
+      "subparagraph_markers": [
+        {
+          "label": "a",
+          "offset": 124
+        },
+        {
+          "label": "b",
+          "offset": 509
+        }
+      ],
+      "text": "3.         Upon the granting of a modification of Regulation 36 of the B(P)R, the BA\nwill impose the following conditions :\n\n        (a)    a  system  of  artificial  lighting  and  mechanical  ventilation\n             producing 5 air changes per hour is in operation at any time when\n               the room is in use. The change of air shall be with the outside of\n               the building and to achieve this, the use of ventilation ducting\n             provided with access for cleaning is acceptable;\n\n        (b)     there  is  additional permanent  ventilation  to  the ‘open  air’\n             complying with Regulation 2 of the B(P)R, to the ‘external air’\n             complying with Regulation 31 of the B(P)R or with another room\n            which is provided with a window meeting the area requirement\n               for the combined rooms. The permanent ventilation may be in\n               the form of a ventilation duct with access for cleaning or an\n               aperture in a wall or in a door, which should be suitably located\n            and permanently open  or  protected with  lourves having a\n           minimum size of 1/20 of the floor area of the room;\n\n\n\n                                                                               /(c)….."
+    },
+    {
+      "id": "page-2-intro",
+      "type": "unstructured",
+      "pdf_pages": [
+        2
+      ],
+      "text": "- 2  -\n\n\n        (c)     unless demountable or replaceable ventilation duct is used, at\n                least one access door or panel of minimum size 150 mm x 225mm\n                (for ventilation duct of size 150 mm x 150 mm or above), or 100\n        mm x 225 mm (for ventilation duct of size under 150 mm x 150\n          mm) shall be provided for every 4 metres of the ventilation duct\n                 at easily accessible location and at any change of direction,\n              adjacent to turning vanes or adjacent to dampers;\n\n        (d)    the requirements of Regulation 35A of the B(P)R and Practice\n            Note for Authorized Persons, Registered Structural Engineers\n            and Registered Geotechnical Engineers APP-27 on water heating\n               are compiled with, where applicable; and\n\n        (e)    each individual unit provided with internal bathrooms / lavatories\n             should have its own artificial lighting and mechanical ventilation\n             system and ventilation ducting required under items (a) and (b)\n              above.    If a communal mechanical  ventilation system and\n               ventilation ducting are provided to serve more than one unit,\n              proper management1 should be in place to ensure that the systems\n               are well maintained and in effective working order.\n\nIn order to maintain the ventilation ducting in hygienic condition, the ducting should\npreferably be inspected and cleaned annually.\n\nApplication"
+    },
+    {
+      "id": "p4-page-2",
+      "type": "numbered_paragraph",
+      "paragraph": "4",
+      "pdf_pages": [
+        2
+      ],
+      "subparagraph_markers": [],
+      "text": "4.           For the avoidance of doubt, this practice note is applicable to bathrooms\nand  lavatories  in both new and existing domestic buildings  for exemption from\ncomplying with the statutory requirements.\n\n\n\n\n\n                                                                       ( AU Choi-kai )\n                                                    Building Authority\n\n\nRef.  : GP/BREG/P/18 (VI)\n\nThis PNAP is previously known as PNAP 219\nFirst issue    December 1997\nLast revision  February 2010\nThis revision  June 2013 (AD/NB1) (Generally revamped)\n\n\n\n\n1   The BA would normally accept that a building would have proper management if the maintenance of\n    the system and ventilation ducting is to be managed by a property management company upon the\n    occupation of the new building or completion of the alteration and addition works of the existing\n     building."
+    }
+  ]
+}
