@@ -1,0 +1,6018 @@
+{
+  "warning": "Candidate labels are unverified. Candidate recall is diagnostic, NOT validated search accuracy. Web comparison requires independent evidence review.",
+  "cases": 100,
+  "candidate_recall_at_10": 0.2333,
+  "candidate_labels": 60,
+  "results": [
+    {
+      "id": "Q001",
+      "query": "scheduled area ground investigation",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [
+        "APP-030"
+      ],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "code": "APP-030",
+          "source": "PNAP/APP/APP-030.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 56
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 320
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 40
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 319
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 39
+        },
+        {
+          "code": "APP-141",
+          "source": "PNAP/APP/APP-141.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 310
+        }
+      ]
+    },
+    {
+      "id": "Q002",
+      "query": "site formation submission",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "APP-015",
+        "APP-025"
+      ],
+      "top10": [
+        {
+          "code": "ADM-15",
+          "source": "PNAP/ADM/ADM-15.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-140",
+          "source": "PNAP/APP/APP-140.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-055",
+          "source": "PNAP/APP/APP-055.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-017",
+          "source": "PNAP/APP/APP-017.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APSEC-DF-2021-08-13",
+          "source": "APSEC/2021/APSEC-DF-2021-08-13.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "APSEC-DF-2018-01-19",
+          "source": "APSEC/2018/APSEC-DF-2018-01-19.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "APP-055",
+          "source": "PNAP/APP/APP-055.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "ADM-01",
+          "source": "PNAP/ADM/ADM-01.txt",
+          "pdf_page": 3
+        }
+      ]
+    },
+    {
+      "id": "Q003",
+      "query": "excavation lateral support",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "APP-057"
+      ],
+      "top10": [
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 65
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 66
+        },
+        {
+          "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
+          "pdf_page": 119
+        },
+        {
+          "code": "GEOGUIDES-9689efc0-eg1_198209",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9689efc0-eg1_198209.txt",
+          "pdf_page": 65
+        },
+        {
+          "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
+          "pdf_page": 79
+        },
+        {
+          "code": "ADV-033",
+          "source": "PNAP/ADV/ADV-033.txt",
+          "pdf_page": 78
+        },
+        {
+          "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
+          "pdf_page": 120
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 25
+        }
+      ]
+    },
+    {
+      "id": "Q004",
+      "query": "foundation bored pile",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2023-02-10",
+          "source": "APSEC/2023/APSEC-DF-2023-02-10.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APSEC-DF-2023-05-05",
+          "source": "APSEC/2023/APSEC-DF-2023-05-05.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 17
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "APSEC-DF-2026-02-06",
+          "source": "APSEC/2026/APSEC-DF-2026-02-06.txt",
+          "pdf_page": 9
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 9
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "APP-061",
+          "source": "PNAP/APP/APP-061.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "TGN-63b6631e-TGN-53_Issue-2",
+          "source": "GEO/TGN/TGN-63b6631e-TGN-53_Issue-2.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 331
+        }
+      ]
+    },
+    {
+      "id": "Q005",
+      "query": "wind effects",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 21
+        },
+        {
+          "code": "HKIE-wind-2004",
+          "source": "HKIE/HKIE-wind-2004.txt",
+          "pdf_page": 43
+        },
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 28
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "ExplanatoryNotesWindEffects2019e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "APSEC-DF-2024-11-22",
+          "source": "APSEC/2024/APSEC-DF-2024-11-22.txt",
+          "pdf_page": 21
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 49
+        },
+        {
+          "code": "HKIE-wind-2004",
+          "source": "HKIE/HKIE-wind-2004.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 8
+        }
+      ]
+    },
+    {
+      "id": "Q006",
+      "query": "retaining wall",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 213
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 98
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 245
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 258
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 102
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 62
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 76
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 70
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 241
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 169
+        }
+      ]
+    },
+    {
+      "id": "Q007",
+      "query": "ground investigation",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "code": "GEOGUIDES-a8cb062b-eg2_198709",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
+          "pdf_page": 252
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 69
+        },
+        {
+          "code": "GEOGUIDES-a8cb062b-eg2_198709",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
+          "pdf_page": 72
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 36
+        },
+        {
+          "code": "GEOGUIDES-a8cb062b-eg2_198709",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
+          "pdf_page": 41
+        },
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "GEOGUIDES-a8217871-eg4_20180102",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8217871-eg4_20180102.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 53
+        }
+      ]
+    },
+    {
+      "id": "Q008",
+      "query": "consent commencement",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2024-05-03",
+          "source": "APSEC/2024/APSEC-DF-2024-05-03.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APSEC-DF-2022-08-12",
+          "source": "APSEC/2022/APSEC-DF-2022-08-12.txt",
+          "pdf_page": 22
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "APSEC-DF-2024-02-23",
+          "source": "APSEC/2024/APSEC-DF-2024-02-23.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-097",
+          "source": "PNAP/APP/APP-097.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APP-083",
+          "source": "PNAP/APP/APP-083.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "ADM-19",
+          "source": "PNAP/ADM/ADM-19.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "APSEC-DF-2024-02-23",
+          "source": "APSEC/2024/APSEC-DF-2024-02-23.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "APP-060",
+          "source": "PNAP/APP/APP-060.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "APSEC-DF-2023-05-05",
+          "source": "APSEC/2023/APSEC-DF-2023-05-05.txt",
+          "pdf_page": 12
+        }
+      ]
+    },
+    {
+      "id": "Q009",
+      "query": "slope stability",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "GEOGUIDES-99ad5800-eg6_2022.10.27",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-99ad5800-eg6_2022.10.27.txt",
+          "pdf_page": 83
+        },
+        {
+          "code": "GEOGUIDES-f6b5cdc5-eg6_200212",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-f6b5cdc5-eg6_200212.txt",
+          "pdf_page": 89
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 36
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 99
+        },
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 47
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 86
+        },
+        {
+          "code": "GEOGUIDES-464b0845-eg7_200803",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 49
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 107
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 25
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 131
+        }
+      ]
+    },
+    {
+      "id": "Q010",
+      "query": "concrete design",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "HKIE-precast-2003",
+          "source": "HKIE/HKIE-precast-2003.txt",
+          "pdf_page": 73
+        },
+        {
+          "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 234
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 37
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 197
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 194
+        },
+        {
+          "code": "HKIE-precast-2003",
+          "source": "HKIE/HKIE-precast-2003.txt",
+          "pdf_page": 72
+        },
+        {
+          "code": "CoP_SUC2013e",
+          "source": "BD_CODES/concrete/CoP_SUC2013e.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "HKIE-concrete-2004",
+          "source": "HKIE/HKIE-concrete-2004.txt",
+          "pdf_page": 149
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 44
+        },
+        {
+          "code": "HKIE-precast-2003",
+          "source": "HKIE/HKIE-precast-2003.txt",
+          "pdf_page": 16
+        }
+      ]
+    },
+    {
+      "id": "Q011",
+      "query": "scheduled area ground investigation design",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [
+        "APP-030"
+      ],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "code": "APP-030",
+          "source": "PNAP/APP/APP-030.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 56
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 320
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 40
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 319
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 39
+        },
+        {
+          "code": "APP-141",
+          "source": "PNAP/APP/APP-141.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 310
+        }
+      ]
+    },
+    {
+      "id": "Q012",
+      "query": "site formation submission design",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "APP-015",
+        "APP-025"
+      ],
+      "top10": [
+        {
+          "code": "ADM-15",
+          "source": "PNAP/ADM/ADM-15.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-017",
+          "source": "PNAP/APP/APP-017.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APSEC-DF-2018-01-19",
+          "source": "APSEC/2018/APSEC-DF-2018-01-19.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "APP-055",
+          "source": "PNAP/APP/APP-055.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-140",
+          "source": "PNAP/APP/APP-140.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "ADM-01",
+          "source": "PNAP/ADM/ADM-01.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APSEC-DF-2021-08-13",
+          "source": "APSEC/2021/APSEC-DF-2021-08-13.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
+          "pdf_page": 79
+        },
+        {
+          "code": "APP-028",
+          "source": "PNAP/APP/APP-028.txt",
+          "pdf_page": 1
+        }
+      ]
+    },
+    {
+      "id": "Q013",
+      "query": "excavation lateral support design",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "APP-057"
+      ],
+      "top10": [
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
+          "pdf_page": 79
+        },
+        {
+          "code": "APSEC-DF-2025-05-09",
+          "source": "APSEC/2025/APSEC-DF-2025-05-09.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 65
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 25
+        },
+        {
+          "code": "ADV-033",
+          "source": "PNAP/ADV/ADV-033.txt",
+          "pdf_page": 78
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 27
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 98
+        }
+      ]
+    },
+    {
+      "id": "Q014",
+      "query": "foundation bored pile design",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2023-02-10",
+          "source": "APSEC/2023/APSEC-DF-2023-02-10.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APSEC-DF-2023-05-05",
+          "source": "APSEC/2023/APSEC-DF-2023-05-05.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 17
+        },
+        {
+          "code": "APP-061",
+          "source": "PNAP/APP/APP-061.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 331
+        },
+        {
+          "code": "ADM-08",
+          "source": "PNAP/ADM/ADM-08.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "APSEC-DF-2026-02-06",
+          "source": "APSEC/2026/APSEC-DF-2026-02-06.txt",
+          "pdf_page": 9
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 9
+        },
+        {
+          "code": "TGN-63b6631e-TGN-53_Issue-2",
+          "source": "GEO/TGN/TGN-63b6631e-TGN-53_Issue-2.txt",
+          "pdf_page": 5
+        }
+      ]
+    },
+    {
+      "id": "Q015",
+      "query": "wind effects design",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2024-11-22",
+          "source": "APSEC/2024/APSEC-DF-2024-11-22.txt",
+          "pdf_page": 21
+        },
+        {
+          "code": "HKIE-wind-2004",
+          "source": "HKIE/HKIE-wind-2004.txt",
+          "pdf_page": 43
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "ExplanatoryNotesWindEffects2019e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "EMSUOS2011e",
+          "source": "BD_CODES/steel/EMSUOS2011e.txt",
+          "pdf_page": 141
+        },
+        {
+          "code": "APP-139",
+          "source": "PNAP/APP/APP-139.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "HKIE-wind-2004",
+          "source": "HKIE/HKIE-wind-2004.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "SUOS2011",
+          "source": "BD_CODES/steel/SUOS2011.txt",
+          "pdf_page": 68
+        },
+        {
+          "code": "ExplanatoryNotesWindEffects2019e_Amend2023e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e_Amend2023e.txt",
+          "pdf_page": 2
+        }
+      ]
+    },
+    {
+      "id": "Q016",
+      "query": "retaining wall design",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 98
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 102
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 64
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 245
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 258
+        },
+        {
+          "code": "APP-054",
+          "source": "PNAP/APP/APP-054.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 76
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 18
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 16
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 56
+        }
+      ]
+    },
+    {
+      "id": "Q017",
+      "query": "ground investigation design",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "GEOGUIDES-a8cb062b-eg2_198709",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
+          "pdf_page": 252
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 52
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 53
+        },
+        {
+          "code": "GEO_PUBLICATIONS-799868bb-ep1_2007",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-799868bb-ep1_2007.txt",
+          "pdf_page": 31
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEOGUIDES-a8217871-eg4_20180102",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8217871-eg4_20180102.txt",
+          "pdf_page": 45
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 36
+        },
+        {
+          "code": "GEOGUIDES-a8cb062b-eg2_198709",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
+          "pdf_page": 41
+        },
+        {
+          "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 25
+        }
+      ]
+    },
+    {
+      "id": "Q018",
+      "query": "consent commencement design",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2024-05-03",
+          "source": "APSEC/2024/APSEC-DF-2024-05-03.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "APSEC-DF-2022-08-12",
+          "source": "APSEC/2022/APSEC-DF-2022-08-12.txt",
+          "pdf_page": 22
+        },
+        {
+          "code": "APSEC-DF-2024-02-23",
+          "source": "APSEC/2024/APSEC-DF-2024-02-23.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APSEC-DF-2021-05-21",
+          "source": "APSEC/2021/APSEC-DF-2021-05-21.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "APP-097",
+          "source": "PNAP/APP/APP-097.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APP-021",
+          "source": "PNAP/APP/APP-021.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "APP-083",
+          "source": "PNAP/APP/APP-083.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APSEC-DF-2023-05-05",
+          "source": "APSEC/2023/APSEC-DF-2023-05-05.txt",
+          "pdf_page": 12
+        },
+        {
+          "code": "ADM-19",
+          "source": "PNAP/ADM/ADM-19.txt",
+          "pdf_page": 6
+        }
+      ]
+    },
+    {
+      "id": "Q019",
+      "query": "slope stability design",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "GEOGUIDES-99ad5800-eg6_2022.10.27",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-99ad5800-eg6_2022.10.27.txt",
+          "pdf_page": 83
+        },
+        {
+          "code": "GEOGUIDES-f6b5cdc5-eg6_200212",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-f6b5cdc5-eg6_200212.txt",
+          "pdf_page": 89
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 86
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 49
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 36
+        },
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 47
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 25
+        },
+        {
+          "code": "TGN-1d94fc38-TGN-55",
+          "source": "GEO/TGN/TGN-1d94fc38-TGN-55.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 131
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 66
+        }
+      ]
+    },
+    {
+      "id": "Q020",
+      "query": "concrete design design",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "HKIE-precast-2003",
+          "source": "HKIE/HKIE-precast-2003.txt",
+          "pdf_page": 73
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 194
+        },
+        {
+          "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 234
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 197
+        },
+        {
+          "code": "HKIE-concrete-2004",
+          "source": "HKIE/HKIE-concrete-2004.txt",
+          "pdf_page": 149
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 37
+        },
+        {
+          "code": "APSEC-DF-2022-11-25",
+          "source": "APSEC/2022/APSEC-DF-2022-11-25.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "HKIE-concrete-2004",
+          "source": "HKIE/HKIE-concrete-2004.txt",
+          "pdf_page": 152
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 9
+        }
+      ]
+    },
+    {
+      "id": "Q021",
+      "query": "scheduled area ground investigation guidance",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [
+        "APP-030"
+      ],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 320
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 40
+        },
+        {
+          "code": "TGN-909e082c-TGN-1_N",
+          "source": "GEO/TGN/TGN-909e082c-TGN-1_N.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "code": "APP-030",
+          "source": "PNAP/APP/APP-030.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 56
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 319
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 39
+        },
+        {
+          "code": "APP-061",
+          "source": "PNAP/APP/APP-061.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APP-141",
+          "source": "PNAP/APP/APP-141.txt",
+          "pdf_page": 3
+        }
+      ]
+    },
+    {
+      "id": "Q022",
+      "query": "site formation submission guidance",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "APP-015",
+        "APP-025"
+      ],
+      "top10": [
+        {
+          "code": "ADM-15",
+          "source": "PNAP/ADM/ADM-15.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-128",
+          "source": "PNAP/APP/APP-128.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-140",
+          "source": "PNAP/APP/APP-140.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-055",
+          "source": "PNAP/APP/APP-055.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-017",
+          "source": "PNAP/APP/APP-017.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APSEC-DF-2021-08-13",
+          "source": "APSEC/2021/APSEC-DF-2021-08-13.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "APSEC-DF-2018-01-19",
+          "source": "APSEC/2018/APSEC-DF-2018-01-19.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "APP-055",
+          "source": "PNAP/APP/APP-055.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 2
+        }
+      ]
+    },
+    {
+      "id": "Q023",
+      "query": "excavation lateral support guidance",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [
+        "APP-057"
+      ],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APP-057",
+          "source": "PNAP/APP/APP-057.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "GEOGUIDES-464b0845-eg7_200803",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 65
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 25
+        },
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 64
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 27
+        },
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 98
+        },
+        {
+          "code": "APP-057",
+          "source": "PNAP/APP/APP-057.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 7
+        }
+      ]
+    },
+    {
+      "id": "Q024",
+      "query": "foundation bored pile guidance",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 17
+        },
+        {
+          "code": "APSEC-DF-2023-02-10",
+          "source": "APSEC/2023/APSEC-DF-2023-02-10.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "TGN-63b6631e-TGN-53_Issue-2",
+          "source": "GEO/TGN/TGN-63b6631e-TGN-53_Issue-2.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "TGN-9a5b8258-TGN-26_1B",
+          "source": "GEO/TGN/TGN-9a5b8258-TGN-26_1B.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "APSEC-DF-2023-05-05",
+          "source": "APSEC/2023/APSEC-DF-2023-05-05.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 106
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 111
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 10
+        },
+        {
+          "code": "TGN-e624a0e0-TGN-49_1B",
+          "source": "GEO/TGN/TGN-e624a0e0-TGN-49_1B.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "TGN-e624a0e0-TGN-49_1B",
+          "source": "GEO/TGN/TGN-e624a0e0-TGN-49_1B.txt",
+          "pdf_page": 14
+        }
+      ]
+    },
+    {
+      "id": "Q025",
+      "query": "wind effects guidance",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APP-139",
+          "source": "PNAP/APP/APP-139.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "SUOS2011",
+          "source": "BD_CODES/steel/SUOS2011.txt",
+          "pdf_page": 24
+        },
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 11
+        },
+        {
+          "code": "ExplanatoryNotesWindEffects2019e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+          "pdf_page": 9
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 56
+        },
+        {
+          "code": "EMSUOS2011e",
+          "source": "BD_CODES/steel/EMSUOS2011e.txt",
+          "pdf_page": 141
+        },
+        {
+          "code": "ExplanatoryNotesWindEffects2019e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+          "pdf_page": 16
+        },
+        {
+          "code": "ExplanatoryNotesWindEffects2019e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "SUOS2011",
+          "source": "BD_CODES/steel/SUOS2011.txt",
+          "pdf_page": 45
+        }
+      ]
+    },
+    {
+      "id": "Q026",
+      "query": "retaining wall guidance",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 49
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 98
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 101
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 106
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 102
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 84
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 62
+        },
+        {
+          "code": "GEOGUIDES-464b0845-eg7_200803",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 51
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 88
+        },
+        {
+          "code": "APP-054",
+          "source": "PNAP/APP/APP-054.txt",
+          "pdf_page": 1
+        }
+      ]
+    },
+    {
+      "id": "Q027",
+      "query": "ground investigation guidance",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 25
+        },
+        {
+          "code": "GEOGUIDES-464b0845-eg7_200803",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 28
+        },
+        {
+          "code": "GEO_PUBLICATIONS-799868bb-ep1_2007",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-799868bb-ep1_2007.txt",
+          "pdf_page": 41
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 25
+        },
+        {
+          "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "GEOGUIDES-99ad5800-eg6_2022.10.27",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-99ad5800-eg6_2022.10.27.txt",
+          "pdf_page": 43
+        },
+        {
+          "code": "GEOGUIDES-f6b5cdc5-eg6_200212",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-f6b5cdc5-eg6_200212.txt",
+          "pdf_page": 48
+        },
+        {
+          "code": "TGN-909e082c-TGN-1_N",
+          "source": "GEO/TGN/TGN-909e082c-TGN-1_N.txt",
+          "pdf_page": 4
+        }
+      ]
+    },
+    {
+      "id": "Q028",
+      "query": "consent commencement guidance",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2024-05-03",
+          "source": "APSEC/2024/APSEC-DF-2024-05-03.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APSEC-DF-2022-08-12",
+          "source": "APSEC/2022/APSEC-DF-2022-08-12.txt",
+          "pdf_page": 22
+        },
+        {
+          "code": "APP-153",
+          "source": "PNAP/APP/APP-153.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2026-08-14",
+          "source": "APSEC/2026/APSEC-DF-2026-08-14.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "APSEC-DF-2024-02-23",
+          "source": "APSEC/2024/APSEC-DF-2024-02-23.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-097",
+          "source": "PNAP/APP/APP-097.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APP-083",
+          "source": "PNAP/APP/APP-083.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "ADM-19",
+          "source": "PNAP/ADM/ADM-19.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "APSEC-DF-2024-02-23",
+          "source": "APSEC/2024/APSEC-DF-2024-02-23.txt",
+          "pdf_page": 14
+        }
+      ]
+    },
+    {
+      "id": "Q029",
+      "query": "slope stability guidance",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "GEOGUIDES-464b0845-eg7_200803",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 49
+        },
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 59
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 50
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 25
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 12
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 94
+        },
+        {
+          "code": "GEOGUIDES-464b0845-eg7_200803",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 60
+        },
+        {
+          "code": "TGN-1d94fc38-TGN-55",
+          "source": "GEO/TGN/TGN-1d94fc38-TGN-55.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 72
+        },
+        {
+          "code": "TGN-38f02732-TGN-10_4",
+          "source": "GEO/TGN/TGN-38f02732-TGN-10_4.txt",
+          "pdf_page": 5
+        }
+      ]
+    },
+    {
+      "id": "Q030",
+      "query": "concrete design guidance",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APP-129",
+          "source": "PNAP/APP/APP-129.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 100
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 104
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 88
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 92
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 101
+        },
+        {
+          "code": "APP-142",
+          "source": "PNAP/APP/APP-142.txt",
+          "pdf_page": 30
+        },
+        {
+          "code": "CoP_SUC2013e_amendment202404",
+          "source": "BD_CODES/concrete/CoP_SUC2013e_amendment202404.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 106
+        },
+        {
+          "code": "GEO_PUBLICATIONS-e2f79d67-ep1_2011",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-e2f79d67-ep1_2011.txt",
+          "pdf_page": 65
+        }
+      ]
+    },
+    {
+      "id": "Q031",
+      "query": "scheduled area ground investigation code",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [
+        "APP-030"
+      ],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 56
+        },
+        {
+          "code": "APP-030",
+          "source": "PNAP/APP/APP-030.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 320
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 40
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 319
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 39
+        },
+        {
+          "code": "APP-061",
+          "source": "PNAP/APP/APP-061.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "TGN-909e082c-TGN-1_N",
+          "source": "GEO/TGN/TGN-909e082c-TGN-1_N.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "APP-141",
+          "source": "PNAP/APP/APP-141.txt",
+          "pdf_page": 3
+        }
+      ]
+    },
+    {
+      "id": "Q032",
+      "query": "site formation submission code",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "APP-015",
+        "APP-025"
+      ],
+      "top10": [
+        {
+          "code": "ADM-15",
+          "source": "PNAP/ADM/ADM-15.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-140",
+          "source": "PNAP/APP/APP-140.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APSEC-DF-2025-11-21",
+          "source": "APSEC/2025/APSEC-DF-2025-11-21.txt",
+          "pdf_page": 10
+        },
+        {
+          "code": "APP-055",
+          "source": "PNAP/APP/APP-055.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-017",
+          "source": "PNAP/APP/APP-017.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APSEC-DF-2023-02-10",
+          "source": "APSEC/2023/APSEC-DF-2023-02-10.txt",
+          "pdf_page": 21
+        },
+        {
+          "code": "APSEC-DF-2021-08-13",
+          "source": "APSEC/2021/APSEC-DF-2021-08-13.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "APSEC-DF-2018-01-19",
+          "source": "APSEC/2018/APSEC-DF-2018-01-19.txt",
+          "pdf_page": 4
+        }
+      ]
+    },
+    {
+      "id": "Q033",
+      "query": "excavation lateral support code",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "APP-057"
+      ],
+      "top10": [
+        {
+          "code": "APSEC-DF-2025-05-09",
+          "source": "APSEC/2025/APSEC-DF-2025-05-09.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 65
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 66
+        },
+        {
+          "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
+          "pdf_page": 119
+        },
+        {
+          "code": "GEOGUIDES-9689efc0-eg1_198209",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9689efc0-eg1_198209.txt",
+          "pdf_page": 65
+        },
+        {
+          "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
+          "pdf_page": 79
+        },
+        {
+          "code": "APSEC-DF-2023-08-04",
+          "source": "APSEC/2023/APSEC-DF-2023-08-04.txt",
+          "pdf_page": 13
+        }
+      ]
+    },
+    {
+      "id": "Q034",
+      "query": "foundation bored pile code",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2023-02-10",
+          "source": "APSEC/2023/APSEC-DF-2023-02-10.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 9
+        },
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 95
+        },
+        {
+          "code": "APSEC-DF-2023-05-05",
+          "source": "APSEC/2023/APSEC-DF-2023-05-05.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 17
+        },
+        {
+          "code": "APP-061",
+          "source": "PNAP/APP/APP-061.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 72
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 93
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 70
+        }
+      ]
+    },
+    {
+      "id": "Q035",
+      "query": "wind effects code",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "HKIE-wind-2004",
+          "source": "HKIE/HKIE-wind-2004.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-139",
+          "source": "PNAP/APP/APP-139.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2024-11-22",
+          "source": "APSEC/2024/APSEC-DF-2024-11-22.txt",
+          "pdf_page": 21
+        },
+        {
+          "code": "ExplanatoryNotesWindEffects2019e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+          "pdf_page": 9
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 49
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 66
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 67
+        }
+      ]
+    },
+    {
+      "id": "Q036",
+      "query": "retaining wall code",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 47
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 213
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 98
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 245
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 258
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 102
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 62
+        },
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 86
+        }
+      ]
+    },
+    {
+      "id": "Q037",
+      "query": "ground investigation code",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 34
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 53
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 58
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 51
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 52
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 38
+        }
+      ]
+    },
+    {
+      "id": "Q038",
+      "query": "consent commencement code",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APP-153",
+          "source": "PNAP/APP/APP-153.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APP-083",
+          "source": "PNAP/APP/APP-083.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "APSEC-DF-2024-05-03",
+          "source": "APSEC/2024/APSEC-DF-2024-05-03.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APSEC-DF-2022-08-12",
+          "source": "APSEC/2022/APSEC-DF-2022-08-12.txt",
+          "pdf_page": 22
+        },
+        {
+          "code": "APSEC-DF-2025-02-14",
+          "source": "APSEC/2025/APSEC-DF-2025-02-14.txt",
+          "pdf_page": 11
+        },
+        {
+          "code": "APP-021",
+          "source": "PNAP/APP/APP-021.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "APSEC-DF-2026-08-14",
+          "source": "APSEC/2026/APSEC-DF-2026-08-14.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APSEC-DF-2024-02-23",
+          "source": "APSEC/2024/APSEC-DF-2024-02-23.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-097",
+          "source": "PNAP/APP/APP-097.txt",
+          "pdf_page": 3
+        }
+      ]
+    },
+    {
+      "id": "Q039",
+      "query": "slope stability code",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 49
+        },
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 30
+        },
+        {
+          "code": "HKIE-demolition-2004",
+          "source": "HKIE/HKIE-demolition-2004.txt",
+          "pdf_page": 96
+        },
+        {
+          "code": "GEOGUIDES-99ad5800-eg6_2022.10.27",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-99ad5800-eg6_2022.10.27.txt",
+          "pdf_page": 83
+        },
+        {
+          "code": "GEOGUIDES-f6b5cdc5-eg6_200212",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-f6b5cdc5-eg6_200212.txt",
+          "pdf_page": 89
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 36
+        },
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 59
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 47
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 99
+        },
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 47
+        }
+      ]
+    },
+    {
+      "id": "Q040",
+      "query": "concrete design code",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "CoP_SUC2013e",
+          "source": "BD_CODES/concrete/CoP_SUC2013e.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "APSEC-DF-2022-11-25",
+          "source": "APSEC/2022/APSEC-DF-2022-11-25.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-053",
+          "source": "PNAP/APP/APP-053.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-174",
+          "source": "PNAP/APP/APP-174.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "HKIE-precast-2003",
+          "source": "HKIE/HKIE-precast-2003.txt",
+          "pdf_page": 72
+        },
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 22
+        },
+        {
+          "code": "APSEC-DF-2026-05-08",
+          "source": "APSEC/2026/APSEC-DF-2026-05-08.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "HKIE-concrete-2004",
+          "source": "HKIE/HKIE-concrete-2004.txt",
+          "pdf_page": 12
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 2
+        }
+      ]
+    },
+    {
+      "id": "Q041",
+      "query": "scheduled area ground investigation technical",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [
+        "APP-030"
+      ],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 320
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 40
+        },
+        {
+          "code": "TGN-909e082c-TGN-1_N",
+          "source": "GEO/TGN/TGN-909e082c-TGN-1_N.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "TGN-e262044d-TGN-50",
+          "source": "GEO/TGN/TGN-e262044d-TGN-50.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "code": "APP-030",
+          "source": "PNAP/APP/APP-030.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2019-01-18",
+          "source": "APSEC/2019/APSEC-DF-2019-01-18.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 56
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 319
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 39
+        }
+      ]
+    },
+    {
+      "id": "Q042",
+      "query": "site formation submission technical",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "APP-015",
+        "APP-025"
+      ],
+      "top10": [
+        {
+          "code": "ADM-15",
+          "source": "PNAP/ADM/ADM-15.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2018-01-19",
+          "source": "APSEC/2018/APSEC-DF-2018-01-19.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-030",
+          "source": "PNAP/APP/APP-030.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-140",
+          "source": "PNAP/APP/APP-140.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-141",
+          "source": "PNAP/APP/APP-141.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-135",
+          "source": "PNAP/APP/APP-135.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-055",
+          "source": "PNAP/APP/APP-055.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-017",
+          "source": "PNAP/APP/APP-017.txt",
+          "pdf_page": 2
+        }
+      ]
+    },
+    {
+      "id": "Q043",
+      "query": "excavation lateral support technical",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [
+        "APP-057"
+      ],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2025-05-09",
+          "source": "APSEC/2025/APSEC-DF-2025-05-09.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "ADM-19",
+          "source": "PNAP/ADM/ADM-19.txt",
+          "pdf_page": 31
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "APP-057",
+          "source": "PNAP/APP/APP-057.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "TGN-e624a0e0-TGN-49_1B",
+          "source": "GEO/TGN/TGN-e624a0e0-TGN-49_1B.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "TGN-909e082c-TGN-1_N",
+          "source": "GEO/TGN/TGN-909e082c-TGN-1_N.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 65
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 66
+        }
+      ]
+    },
+    {
+      "id": "Q044",
+      "query": "foundation bored pile technical",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 17
+        },
+        {
+          "code": "APSEC-DF-2023-02-10",
+          "source": "APSEC/2023/APSEC-DF-2023-02-10.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "TGN-63b6631e-TGN-53_Issue-2",
+          "source": "GEO/TGN/TGN-63b6631e-TGN-53_Issue-2.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "TGN-9a5b8258-TGN-26_1B",
+          "source": "GEO/TGN/TGN-9a5b8258-TGN-26_1B.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "TGN-e624a0e0-TGN-49_1B",
+          "source": "GEO/TGN/TGN-e624a0e0-TGN-49_1B.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 10
+        },
+        {
+          "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 326
+        },
+        {
+          "code": "TGN-e624a0e0-TGN-49_1B",
+          "source": "GEO/TGN/TGN-e624a0e0-TGN-49_1B.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 333
+        },
+        {
+          "code": "APSEC-DF-2023-05-05",
+          "source": "APSEC/2023/APSEC-DF-2023-05-05.txt",
+          "pdf_page": 13
+        }
+      ]
+    },
+    {
+      "id": "Q045",
+      "query": "wind effects technical",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "HKIE-wind-2004",
+          "source": "HKIE/HKIE-wind-2004.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-053",
+          "source": "PNAP/APP/APP-053.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "SUOS2011",
+          "source": "BD_CODES/steel/SUOS2011.txt",
+          "pdf_page": 24
+        },
+        {
+          "code": "APSEC-DF-2019-11-22",
+          "source": "APSEC/2019/APSEC-DF-2019-11-22.txt",
+          "pdf_page": 26
+        },
+        {
+          "code": "APSEC-DF-2020-05-29",
+          "source": "APSEC/2020/APSEC-DF-2020-05-29.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 21
+        },
+        {
+          "code": "APSEC-DF-2024-11-22",
+          "source": "APSEC/2024/APSEC-DF-2024-11-22.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "HKIE-wind-2004",
+          "source": "HKIE/HKIE-wind-2004.txt",
+          "pdf_page": 43
+        },
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 28
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 6
+        }
+      ]
+    },
+    {
+      "id": "Q046",
+      "query": "retaining wall technical",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "ADV-008",
+          "source": "PNAP/ADV/ADV-008.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 50
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 70
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 62
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 58
+        },
+        {
+          "code": "TGN-34e69b36-TGN15_1B",
+          "source": "GEO/TGN/TGN-34e69b36-TGN15_1B.txt",
+          "pdf_page": 11
+        },
+        {
+          "code": "GEOGUIDES-464b0845-eg7_200803",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 51
+        },
+        {
+          "code": "TGN-8aebec84-TGN-52_1B",
+          "source": "GEO/TGN/TGN-8aebec84-TGN-52_1B.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "GEOGUIDES-99ad5800-eg6_2022.10.27",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-99ad5800-eg6_2022.10.27.txt",
+          "pdf_page": 16
+        },
+        {
+          "code": "TGN-d82d89b0-TGN41",
+          "source": "GEO/TGN/TGN-d82d89b0-TGN41.txt",
+          "pdf_page": 2
+        }
+      ]
+    },
+    {
+      "id": "Q047",
+      "query": "ground investigation technical",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 70
+        },
+        {
+          "code": "GEOGUIDES-a8cb062b-eg2_198709",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
+          "pdf_page": 73
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 69
+        },
+        {
+          "code": "GEOGUIDES-a8cb062b-eg2_198709",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
+          "pdf_page": 72
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 320
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 40
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 57
+        },
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 37
+        }
+      ]
+    },
+    {
+      "id": "Q048",
+      "query": "consent commencement technical",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2024-05-03",
+          "source": "APSEC/2024/APSEC-DF-2024-05-03.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APSEC-DF-2022-08-12",
+          "source": "APSEC/2022/APSEC-DF-2022-08-12.txt",
+          "pdf_page": 22
+        },
+        {
+          "code": "APSEC-DF-2021-03-19",
+          "source": "APSEC/2021/APSEC-DF-2021-03-19.txt",
+          "pdf_page": 9
+        },
+        {
+          "code": "APSEC-DF-2026-08-14",
+          "source": "APSEC/2026/APSEC-DF-2026-08-14.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "APSEC-DF-2018-05-25",
+          "source": "APSEC/2018/APSEC-DF-2018-05-25.txt",
+          "pdf_page": 18
+        },
+        {
+          "code": "ADM-19",
+          "source": "PNAP/ADM/ADM-19.txt",
+          "pdf_page": 32
+        },
+        {
+          "code": "APSEC-DF-2024-02-23",
+          "source": "APSEC/2024/APSEC-DF-2024-02-23.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-097",
+          "source": "PNAP/APP/APP-097.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APSEC-DF-2019-01-18",
+          "source": "APSEC/2019/APSEC-DF-2019-01-18.txt",
+          "pdf_page": 2
+        }
+      ]
+    },
+    {
+      "id": "Q049",
+      "query": "slope stability technical",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "TGN-78279c05-TGN28_1",
+          "source": "GEO/TGN/TGN-78279c05-TGN28_1.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "TGN-59063995-TGN4",
+          "source": "GEO/TGN/TGN-59063995-TGN4.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 72
+        },
+        {
+          "code": "TGN-e3b9859c-TGN6",
+          "source": "GEO/TGN/TGN-e3b9859c-TGN6.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 50
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "TGN-59063995-TGN4",
+          "source": "GEO/TGN/TGN-59063995-TGN4.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "TGN-a900b938-TGN11",
+          "source": "GEO/TGN/TGN-a900b938-TGN11.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "TGN-1d94fc38-TGN-55",
+          "source": "GEO/TGN/TGN-1d94fc38-TGN-55.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "TGN-e262044d-TGN-50",
+          "source": "GEO/TGN/TGN-e262044d-TGN-50.txt",
+          "pdf_page": 1
+        }
+      ]
+    },
+    {
+      "id": "Q050",
+      "query": "concrete design technical",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APP-129",
+          "source": "PNAP/APP/APP-129.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEOGUIDES-a8217871-eg4_20180102",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8217871-eg4_20180102.txt",
+          "pdf_page": 119
+        },
+        {
+          "code": "APP-053",
+          "source": "PNAP/APP/APP-053.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "TGN-d82d89b0-TGN41",
+          "source": "GEO/TGN/TGN-d82d89b0-TGN41.txt",
+          "pdf_page": 25
+        },
+        {
+          "code": "APP-129",
+          "source": "PNAP/APP/APP-129.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-129",
+          "source": "PNAP/APP/APP-129.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APP-129",
+          "source": "PNAP/APP/APP-129.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "APP-053",
+          "source": "PNAP/APP/APP-053.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "TGN-933ab3ee-TGN42",
+          "source": "GEO/TGN/TGN-933ab3ee-TGN42.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2024-11-22",
+          "source": "APSEC/2024/APSEC-DF-2024-11-22.txt",
+          "pdf_page": 13
+        }
+      ]
+    },
+    {
+      "id": "Q051",
+      "query": "scheduled area ground investigation",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [
+        "APP-030"
+      ],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "code": "APP-030",
+          "source": "PNAP/APP/APP-030.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 56
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 320
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 40
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 319
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 39
+        },
+        {
+          "code": "APP-141",
+          "source": "PNAP/APP/APP-141.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 310
+        }
+      ]
+    },
+    {
+      "id": "Q052",
+      "query": "site formation submission",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "APP-015",
+        "APP-025"
+      ],
+      "top10": [
+        {
+          "code": "ADM-15",
+          "source": "PNAP/ADM/ADM-15.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-140",
+          "source": "PNAP/APP/APP-140.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-055",
+          "source": "PNAP/APP/APP-055.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-017",
+          "source": "PNAP/APP/APP-017.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APSEC-DF-2021-08-13",
+          "source": "APSEC/2021/APSEC-DF-2021-08-13.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "APSEC-DF-2018-01-19",
+          "source": "APSEC/2018/APSEC-DF-2018-01-19.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "APP-055",
+          "source": "PNAP/APP/APP-055.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "ADM-01",
+          "source": "PNAP/ADM/ADM-01.txt",
+          "pdf_page": 3
+        }
+      ]
+    },
+    {
+      "id": "Q053",
+      "query": "excavation lateral support",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "APP-057"
+      ],
+      "top10": [
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 65
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 66
+        },
+        {
+          "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
+          "pdf_page": 119
+        },
+        {
+          "code": "GEOGUIDES-9689efc0-eg1_198209",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9689efc0-eg1_198209.txt",
+          "pdf_page": 65
+        },
+        {
+          "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
+          "pdf_page": 79
+        },
+        {
+          "code": "ADV-033",
+          "source": "PNAP/ADV/ADV-033.txt",
+          "pdf_page": 78
+        },
+        {
+          "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
+          "pdf_page": 120
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 25
+        }
+      ]
+    },
+    {
+      "id": "Q054",
+      "query": "foundation bored pile",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2023-02-10",
+          "source": "APSEC/2023/APSEC-DF-2023-02-10.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APSEC-DF-2023-05-05",
+          "source": "APSEC/2023/APSEC-DF-2023-05-05.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 17
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "APSEC-DF-2026-02-06",
+          "source": "APSEC/2026/APSEC-DF-2026-02-06.txt",
+          "pdf_page": 9
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 9
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "APP-061",
+          "source": "PNAP/APP/APP-061.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "TGN-63b6631e-TGN-53_Issue-2",
+          "source": "GEO/TGN/TGN-63b6631e-TGN-53_Issue-2.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 331
+        }
+      ]
+    },
+    {
+      "id": "Q055",
+      "query": "wind effects",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 21
+        },
+        {
+          "code": "HKIE-wind-2004",
+          "source": "HKIE/HKIE-wind-2004.txt",
+          "pdf_page": 43
+        },
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 28
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "ExplanatoryNotesWindEffects2019e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "APSEC-DF-2024-11-22",
+          "source": "APSEC/2024/APSEC-DF-2024-11-22.txt",
+          "pdf_page": 21
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 49
+        },
+        {
+          "code": "HKIE-wind-2004",
+          "source": "HKIE/HKIE-wind-2004.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 8
+        }
+      ]
+    },
+    {
+      "id": "Q056",
+      "query": "retaining wall",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 213
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 98
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 245
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 258
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 102
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 62
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 76
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 70
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 241
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 169
+        }
+      ]
+    },
+    {
+      "id": "Q057",
+      "query": "ground investigation",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "code": "GEOGUIDES-a8cb062b-eg2_198709",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
+          "pdf_page": 252
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 69
+        },
+        {
+          "code": "GEOGUIDES-a8cb062b-eg2_198709",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
+          "pdf_page": 72
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 36
+        },
+        {
+          "code": "GEOGUIDES-a8cb062b-eg2_198709",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
+          "pdf_page": 41
+        },
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "GEOGUIDES-a8217871-eg4_20180102",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8217871-eg4_20180102.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 53
+        }
+      ]
+    },
+    {
+      "id": "Q058",
+      "query": "consent commencement",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2024-05-03",
+          "source": "APSEC/2024/APSEC-DF-2024-05-03.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APSEC-DF-2022-08-12",
+          "source": "APSEC/2022/APSEC-DF-2022-08-12.txt",
+          "pdf_page": 22
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "APSEC-DF-2024-02-23",
+          "source": "APSEC/2024/APSEC-DF-2024-02-23.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-097",
+          "source": "PNAP/APP/APP-097.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APP-083",
+          "source": "PNAP/APP/APP-083.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "ADM-19",
+          "source": "PNAP/ADM/ADM-19.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "APSEC-DF-2024-02-23",
+          "source": "APSEC/2024/APSEC-DF-2024-02-23.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "APP-060",
+          "source": "PNAP/APP/APP-060.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "APSEC-DF-2023-05-05",
+          "source": "APSEC/2023/APSEC-DF-2023-05-05.txt",
+          "pdf_page": 12
+        }
+      ]
+    },
+    {
+      "id": "Q059",
+      "query": "slope stability",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "GEOGUIDES-99ad5800-eg6_2022.10.27",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-99ad5800-eg6_2022.10.27.txt",
+          "pdf_page": 83
+        },
+        {
+          "code": "GEOGUIDES-f6b5cdc5-eg6_200212",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-f6b5cdc5-eg6_200212.txt",
+          "pdf_page": 89
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 36
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 99
+        },
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 47
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 86
+        },
+        {
+          "code": "GEOGUIDES-464b0845-eg7_200803",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 49
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 107
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 25
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 131
+        }
+      ]
+    },
+    {
+      "id": "Q060",
+      "query": "concrete design",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "HKIE-precast-2003",
+          "source": "HKIE/HKIE-precast-2003.txt",
+          "pdf_page": 73
+        },
+        {
+          "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 234
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 37
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 197
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 194
+        },
+        {
+          "code": "HKIE-precast-2003",
+          "source": "HKIE/HKIE-precast-2003.txt",
+          "pdf_page": 72
+        },
+        {
+          "code": "CoP_SUC2013e",
+          "source": "BD_CODES/concrete/CoP_SUC2013e.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "HKIE-concrete-2004",
+          "source": "HKIE/HKIE-concrete-2004.txt",
+          "pdf_page": 149
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 44
+        },
+        {
+          "code": "HKIE-precast-2003",
+          "source": "HKIE/HKIE-precast-2003.txt",
+          "pdf_page": 16
+        }
+      ]
+    },
+    {
+      "id": "Q061",
+      "query": "scheduled area ground investigation requirements",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [
+        "APP-030"
+      ],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 319
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 39
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 320
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 40
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 56
+        },
+        {
+          "code": "APP-030",
+          "source": "PNAP/APP/APP-030.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "TGN-909e082c-TGN-1_N",
+          "source": "GEO/TGN/TGN-909e082c-TGN-1_N.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "TGN-e262044d-TGN-50",
+          "source": "GEO/TGN/TGN-e262044d-TGN-50.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 41
+        }
+      ]
+    },
+    {
+      "id": "Q062",
+      "query": "site formation submission requirements",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "APP-015",
+        "APP-025"
+      ],
+      "top10": [
+        {
+          "code": "ADM-15",
+          "source": "PNAP/ADM/ADM-15.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-017",
+          "source": "PNAP/APP/APP-017.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
+          "pdf_page": 79
+        },
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APSEC-DF-2021-08-13",
+          "source": "APSEC/2021/APSEC-DF-2021-08-13.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "APP-128",
+          "source": "PNAP/APP/APP-128.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-079",
+          "source": "PNAP/APP/APP-079.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APP-140",
+          "source": "PNAP/APP/APP-140.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-028",
+          "source": "PNAP/APP/APP-028.txt",
+          "pdf_page": 1
+        }
+      ]
+    },
+    {
+      "id": "Q063",
+      "query": "excavation lateral support requirements",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [
+        "APP-057"
+      ],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
+          "pdf_page": 79
+        },
+        {
+          "code": "ADV-033",
+          "source": "PNAP/ADV/ADV-033.txt",
+          "pdf_page": 78
+        },
+        {
+          "code": "APP-057",
+          "source": "PNAP/APP/APP-057.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "APP-057",
+          "source": "PNAP/APP/APP-057.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2025-05-09",
+          "source": "APSEC/2025/APSEC-DF-2025-05-09.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "APP-057",
+          "source": "PNAP/APP/APP-057.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "ADM-19",
+          "source": "PNAP/ADM/ADM-19.txt",
+          "pdf_page": 31
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 15
+        }
+      ]
+    },
+    {
+      "id": "Q064",
+      "query": "foundation bored pile requirements",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2023-02-10",
+          "source": "APSEC/2023/APSEC-DF-2023-02-10.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 17
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 9
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 46
+        },
+        {
+          "code": "APSEC-DF-2023-05-05",
+          "source": "APSEC/2023/APSEC-DF-2023-05-05.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-061",
+          "source": "PNAP/APP/APP-061.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 16
+        },
+        {
+          "code": "APSEC-DF-2026-02-06",
+          "source": "APSEC/2026/APSEC-DF-2026-02-06.txt",
+          "pdf_page": 9
+        }
+      ]
+    },
+    {
+      "id": "Q065",
+      "query": "wind effects requirements",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "ExplanatoryNotesWindEffects2019e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "HKIE-wind-2004",
+          "source": "HKIE/HKIE-wind-2004.txt",
+          "pdf_page": 43
+        },
+        {
+          "code": "APSEC-DF-2019-11-22",
+          "source": "APSEC/2019/APSEC-DF-2019-11-22.txt",
+          "pdf_page": 26
+        },
+        {
+          "code": "ExplanatoryNotesWindEffects2019e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+          "pdf_page": 33
+        },
+        {
+          "code": "APP-126",
+          "source": "PNAP/APP/APP-126.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 9
+        },
+        {
+          "code": "APSEC-DF-2024-05-03",
+          "source": "APSEC/2024/APSEC-DF-2024-05-03.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "ExplanatoryNotesWindEffects2019e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+          "pdf_page": 9
+        }
+      ]
+    },
+    {
+      "id": "Q066",
+      "query": "retaining wall requirements",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APP-054",
+          "source": "PNAP/APP/APP-054.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 18
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 16
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 118
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 124
+        },
+        {
+          "code": "APP-054",
+          "source": "PNAP/APP/APP-054.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 131
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 86
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 37
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 21
+        }
+      ]
+    },
+    {
+      "id": "Q067",
+      "query": "ground investigation requirements",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 52
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 69
+        },
+        {
+          "code": "GEOGUIDES-a8cb062b-eg2_198709",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
+          "pdf_page": 72
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 51
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 77
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 318
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 38
+        }
+      ]
+    },
+    {
+      "id": "Q068",
+      "query": "consent commencement requirements",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2024-02-23",
+          "source": "APSEC/2024/APSEC-DF-2024-02-23.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "ADM-19",
+          "source": "PNAP/ADM/ADM-19.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "APSEC-DF-2024-05-03",
+          "source": "APSEC/2024/APSEC-DF-2024-05-03.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-083",
+          "source": "PNAP/APP/APP-083.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-175",
+          "source": "PNAP/APP/APP-175.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2022-08-12",
+          "source": "APSEC/2022/APSEC-DF-2022-08-12.txt",
+          "pdf_page": 22
+        },
+        {
+          "code": "APSEC-DF-2021-05-21",
+          "source": "APSEC/2021/APSEC-DF-2021-05-21.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "APP-126",
+          "source": "PNAP/APP/APP-126.txt",
+          "pdf_page": 31
+        },
+        {
+          "code": "ADM-19",
+          "source": "PNAP/ADM/ADM-19.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-021",
+          "source": "PNAP/APP/APP-021.txt",
+          "pdf_page": 6
+        }
+      ]
+    },
+    {
+      "id": "Q069",
+      "query": "slope stability requirements",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 131
+        },
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 47
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 87
+        },
+        {
+          "code": "APP-079",
+          "source": "PNAP/APP/APP-079.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 90
+        },
+        {
+          "code": "GEOGUIDES-464b0845-eg7_200803",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 97
+        },
+        {
+          "code": "GEOGUIDES-464b0845-eg7_200803",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 50
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 132
+        },
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 30
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 86
+        }
+      ]
+    },
+    {
+      "id": "Q070",
+      "query": "concrete design requirements",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APP-174",
+          "source": "PNAP/APP/APP-174.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APP-105",
+          "source": "PNAP/APP/APP-105.txt",
+          "pdf_page": 16
+        },
+        {
+          "code": "APP-142",
+          "source": "PNAP/APP/APP-142.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "GEOGUIDES-a8217871-eg4_20180102",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8217871-eg4_20180102.txt",
+          "pdf_page": 119
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 194
+        },
+        {
+          "code": "HKIE-concrete-2004",
+          "source": "HKIE/HKIE-concrete-2004.txt",
+          "pdf_page": 147
+        },
+        {
+          "code": "APSEC-DF-2024-11-22",
+          "source": "APSEC/2024/APSEC-DF-2024-11-22.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "SUOS2011e_Amend202604",
+          "source": "BD_CODES/steel/SUOS2011e_Amend202604.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-168",
+          "source": "PNAP/APP/APP-168.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "HKIE-concrete-2004",
+          "source": "HKIE/HKIE-concrete-2004.txt",
+          "pdf_page": 149
+        }
+      ]
+    },
+    {
+      "id": "Q071",
+      "query": "scheduled area ground investigation design",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [
+        "APP-030"
+      ],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "code": "APP-030",
+          "source": "PNAP/APP/APP-030.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 56
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 320
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 40
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 319
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 39
+        },
+        {
+          "code": "APP-141",
+          "source": "PNAP/APP/APP-141.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 310
+        }
+      ]
+    },
+    {
+      "id": "Q072",
+      "query": "site formation submission design",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "APP-015",
+        "APP-025"
+      ],
+      "top10": [
+        {
+          "code": "ADM-15",
+          "source": "PNAP/ADM/ADM-15.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-017",
+          "source": "PNAP/APP/APP-017.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APSEC-DF-2018-01-19",
+          "source": "APSEC/2018/APSEC-DF-2018-01-19.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "APP-055",
+          "source": "PNAP/APP/APP-055.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-140",
+          "source": "PNAP/APP/APP-140.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "ADM-01",
+          "source": "PNAP/ADM/ADM-01.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APSEC-DF-2021-08-13",
+          "source": "APSEC/2021/APSEC-DF-2021-08-13.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
+          "pdf_page": 79
+        },
+        {
+          "code": "APP-028",
+          "source": "PNAP/APP/APP-028.txt",
+          "pdf_page": 1
+        }
+      ]
+    },
+    {
+      "id": "Q073",
+      "query": "excavation lateral support design",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "APP-057"
+      ],
+      "top10": [
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
+          "pdf_page": 79
+        },
+        {
+          "code": "APSEC-DF-2025-05-09",
+          "source": "APSEC/2025/APSEC-DF-2025-05-09.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 65
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 25
+        },
+        {
+          "code": "ADV-033",
+          "source": "PNAP/ADV/ADV-033.txt",
+          "pdf_page": 78
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 27
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 98
+        }
+      ]
+    },
+    {
+      "id": "Q074",
+      "query": "foundation bored pile design",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2023-02-10",
+          "source": "APSEC/2023/APSEC-DF-2023-02-10.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APSEC-DF-2023-05-05",
+          "source": "APSEC/2023/APSEC-DF-2023-05-05.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 17
+        },
+        {
+          "code": "APP-061",
+          "source": "PNAP/APP/APP-061.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 331
+        },
+        {
+          "code": "ADM-08",
+          "source": "PNAP/ADM/ADM-08.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "APSEC-DF-2026-02-06",
+          "source": "APSEC/2026/APSEC-DF-2026-02-06.txt",
+          "pdf_page": 9
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 9
+        },
+        {
+          "code": "TGN-63b6631e-TGN-53_Issue-2",
+          "source": "GEO/TGN/TGN-63b6631e-TGN-53_Issue-2.txt",
+          "pdf_page": 5
+        }
+      ]
+    },
+    {
+      "id": "Q075",
+      "query": "wind effects design",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2024-11-22",
+          "source": "APSEC/2024/APSEC-DF-2024-11-22.txt",
+          "pdf_page": 21
+        },
+        {
+          "code": "HKIE-wind-2004",
+          "source": "HKIE/HKIE-wind-2004.txt",
+          "pdf_page": 43
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "ExplanatoryNotesWindEffects2019e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "EMSUOS2011e",
+          "source": "BD_CODES/steel/EMSUOS2011e.txt",
+          "pdf_page": 141
+        },
+        {
+          "code": "APP-139",
+          "source": "PNAP/APP/APP-139.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "HKIE-wind-2004",
+          "source": "HKIE/HKIE-wind-2004.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "SUOS2011",
+          "source": "BD_CODES/steel/SUOS2011.txt",
+          "pdf_page": 68
+        },
+        {
+          "code": "ExplanatoryNotesWindEffects2019e_Amend2023e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e_Amend2023e.txt",
+          "pdf_page": 2
+        }
+      ]
+    },
+    {
+      "id": "Q076",
+      "query": "retaining wall design",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 98
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 102
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 64
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 245
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 258
+        },
+        {
+          "code": "APP-054",
+          "source": "PNAP/APP/APP-054.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 76
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 18
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 16
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 56
+        }
+      ]
+    },
+    {
+      "id": "Q077",
+      "query": "ground investigation design",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "GEOGUIDES-a8cb062b-eg2_198709",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
+          "pdf_page": 252
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 52
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 53
+        },
+        {
+          "code": "GEO_PUBLICATIONS-799868bb-ep1_2007",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-799868bb-ep1_2007.txt",
+          "pdf_page": 31
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEOGUIDES-a8217871-eg4_20180102",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8217871-eg4_20180102.txt",
+          "pdf_page": 45
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 36
+        },
+        {
+          "code": "GEOGUIDES-a8cb062b-eg2_198709",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
+          "pdf_page": 41
+        },
+        {
+          "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 25
+        }
+      ]
+    },
+    {
+      "id": "Q078",
+      "query": "consent commencement design",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2024-05-03",
+          "source": "APSEC/2024/APSEC-DF-2024-05-03.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "APSEC-DF-2022-08-12",
+          "source": "APSEC/2022/APSEC-DF-2022-08-12.txt",
+          "pdf_page": 22
+        },
+        {
+          "code": "APSEC-DF-2024-02-23",
+          "source": "APSEC/2024/APSEC-DF-2024-02-23.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APSEC-DF-2021-05-21",
+          "source": "APSEC/2021/APSEC-DF-2021-05-21.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "APP-097",
+          "source": "PNAP/APP/APP-097.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APP-021",
+          "source": "PNAP/APP/APP-021.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "APP-083",
+          "source": "PNAP/APP/APP-083.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APSEC-DF-2023-05-05",
+          "source": "APSEC/2023/APSEC-DF-2023-05-05.txt",
+          "pdf_page": 12
+        },
+        {
+          "code": "ADM-19",
+          "source": "PNAP/ADM/ADM-19.txt",
+          "pdf_page": 6
+        }
+      ]
+    },
+    {
+      "id": "Q079",
+      "query": "slope stability design",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "GEOGUIDES-99ad5800-eg6_2022.10.27",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-99ad5800-eg6_2022.10.27.txt",
+          "pdf_page": 83
+        },
+        {
+          "code": "GEOGUIDES-f6b5cdc5-eg6_200212",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-f6b5cdc5-eg6_200212.txt",
+          "pdf_page": 89
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 86
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 49
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 36
+        },
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 47
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 25
+        },
+        {
+          "code": "TGN-1d94fc38-TGN-55",
+          "source": "GEO/TGN/TGN-1d94fc38-TGN-55.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 131
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 66
+        }
+      ]
+    },
+    {
+      "id": "Q080",
+      "query": "concrete design design",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "HKIE-precast-2003",
+          "source": "HKIE/HKIE-precast-2003.txt",
+          "pdf_page": 73
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 194
+        },
+        {
+          "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 234
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 197
+        },
+        {
+          "code": "HKIE-concrete-2004",
+          "source": "HKIE/HKIE-concrete-2004.txt",
+          "pdf_page": 149
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 37
+        },
+        {
+          "code": "APSEC-DF-2022-11-25",
+          "source": "APSEC/2022/APSEC-DF-2022-11-25.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "HKIE-concrete-2004",
+          "source": "HKIE/HKIE-concrete-2004.txt",
+          "pdf_page": 152
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 9
+        }
+      ]
+    },
+    {
+      "id": "Q081",
+      "query": "scheduled area ground investigation guidance",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [
+        "APP-030"
+      ],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 320
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 40
+        },
+        {
+          "code": "TGN-909e082c-TGN-1_N",
+          "source": "GEO/TGN/TGN-909e082c-TGN-1_N.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "code": "APP-030",
+          "source": "PNAP/APP/APP-030.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 56
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 319
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 39
+        },
+        {
+          "code": "APP-061",
+          "source": "PNAP/APP/APP-061.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APP-141",
+          "source": "PNAP/APP/APP-141.txt",
+          "pdf_page": 3
+        }
+      ]
+    },
+    {
+      "id": "Q082",
+      "query": "site formation submission guidance",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "APP-015",
+        "APP-025"
+      ],
+      "top10": [
+        {
+          "code": "ADM-15",
+          "source": "PNAP/ADM/ADM-15.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-128",
+          "source": "PNAP/APP/APP-128.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-140",
+          "source": "PNAP/APP/APP-140.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-055",
+          "source": "PNAP/APP/APP-055.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-017",
+          "source": "PNAP/APP/APP-017.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APSEC-DF-2021-08-13",
+          "source": "APSEC/2021/APSEC-DF-2021-08-13.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "APSEC-DF-2018-01-19",
+          "source": "APSEC/2018/APSEC-DF-2018-01-19.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "APP-055",
+          "source": "PNAP/APP/APP-055.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 2
+        }
+      ]
+    },
+    {
+      "id": "Q083",
+      "query": "excavation lateral support guidance",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [
+        "APP-057"
+      ],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APP-057",
+          "source": "PNAP/APP/APP-057.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "GEOGUIDES-464b0845-eg7_200803",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 65
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 25
+        },
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 64
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 27
+        },
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 98
+        },
+        {
+          "code": "APP-057",
+          "source": "PNAP/APP/APP-057.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 7
+        }
+      ]
+    },
+    {
+      "id": "Q084",
+      "query": "foundation bored pile guidance",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 17
+        },
+        {
+          "code": "APSEC-DF-2023-02-10",
+          "source": "APSEC/2023/APSEC-DF-2023-02-10.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "TGN-63b6631e-TGN-53_Issue-2",
+          "source": "GEO/TGN/TGN-63b6631e-TGN-53_Issue-2.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "TGN-9a5b8258-TGN-26_1B",
+          "source": "GEO/TGN/TGN-9a5b8258-TGN-26_1B.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "APSEC-DF-2023-05-05",
+          "source": "APSEC/2023/APSEC-DF-2023-05-05.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 106
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 111
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 10
+        },
+        {
+          "code": "TGN-e624a0e0-TGN-49_1B",
+          "source": "GEO/TGN/TGN-e624a0e0-TGN-49_1B.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "TGN-e624a0e0-TGN-49_1B",
+          "source": "GEO/TGN/TGN-e624a0e0-TGN-49_1B.txt",
+          "pdf_page": 14
+        }
+      ]
+    },
+    {
+      "id": "Q085",
+      "query": "wind effects guidance",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APP-139",
+          "source": "PNAP/APP/APP-139.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "SUOS2011",
+          "source": "BD_CODES/steel/SUOS2011.txt",
+          "pdf_page": 24
+        },
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 11
+        },
+        {
+          "code": "ExplanatoryNotesWindEffects2019e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+          "pdf_page": 9
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 56
+        },
+        {
+          "code": "EMSUOS2011e",
+          "source": "BD_CODES/steel/EMSUOS2011e.txt",
+          "pdf_page": 141
+        },
+        {
+          "code": "ExplanatoryNotesWindEffects2019e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+          "pdf_page": 16
+        },
+        {
+          "code": "ExplanatoryNotesWindEffects2019e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "SUOS2011",
+          "source": "BD_CODES/steel/SUOS2011.txt",
+          "pdf_page": 45
+        }
+      ]
+    },
+    {
+      "id": "Q086",
+      "query": "retaining wall guidance",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 49
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 98
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 101
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 106
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 102
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 84
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 62
+        },
+        {
+          "code": "GEOGUIDES-464b0845-eg7_200803",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 51
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 88
+        },
+        {
+          "code": "APP-054",
+          "source": "PNAP/APP/APP-054.txt",
+          "pdf_page": 1
+        }
+      ]
+    },
+    {
+      "id": "Q087",
+      "query": "ground investigation guidance",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 25
+        },
+        {
+          "code": "GEOGUIDES-464b0845-eg7_200803",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 28
+        },
+        {
+          "code": "GEO_PUBLICATIONS-799868bb-ep1_2007",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-799868bb-ep1_2007.txt",
+          "pdf_page": 41
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 25
+        },
+        {
+          "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "GEOGUIDES-99ad5800-eg6_2022.10.27",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-99ad5800-eg6_2022.10.27.txt",
+          "pdf_page": 43
+        },
+        {
+          "code": "GEOGUIDES-f6b5cdc5-eg6_200212",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-f6b5cdc5-eg6_200212.txt",
+          "pdf_page": 48
+        },
+        {
+          "code": "TGN-909e082c-TGN-1_N",
+          "source": "GEO/TGN/TGN-909e082c-TGN-1_N.txt",
+          "pdf_page": 4
+        }
+      ]
+    },
+    {
+      "id": "Q088",
+      "query": "consent commencement guidance",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2024-05-03",
+          "source": "APSEC/2024/APSEC-DF-2024-05-03.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APSEC-DF-2022-08-12",
+          "source": "APSEC/2022/APSEC-DF-2022-08-12.txt",
+          "pdf_page": 22
+        },
+        {
+          "code": "APP-153",
+          "source": "PNAP/APP/APP-153.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2026-08-14",
+          "source": "APSEC/2026/APSEC-DF-2026-08-14.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "APSEC-DF-2024-02-23",
+          "source": "APSEC/2024/APSEC-DF-2024-02-23.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-097",
+          "source": "PNAP/APP/APP-097.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APP-083",
+          "source": "PNAP/APP/APP-083.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "ADM-19",
+          "source": "PNAP/ADM/ADM-19.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "APSEC-DF-2024-02-23",
+          "source": "APSEC/2024/APSEC-DF-2024-02-23.txt",
+          "pdf_page": 14
+        }
+      ]
+    },
+    {
+      "id": "Q089",
+      "query": "slope stability guidance",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "GEOGUIDES-464b0845-eg7_200803",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 49
+        },
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 59
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 50
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 25
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 12
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 94
+        },
+        {
+          "code": "GEOGUIDES-464b0845-eg7_200803",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 60
+        },
+        {
+          "code": "TGN-1d94fc38-TGN-55",
+          "source": "GEO/TGN/TGN-1d94fc38-TGN-55.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 72
+        },
+        {
+          "code": "TGN-38f02732-TGN-10_4",
+          "source": "GEO/TGN/TGN-38f02732-TGN-10_4.txt",
+          "pdf_page": 5
+        }
+      ]
+    },
+    {
+      "id": "Q090",
+      "query": "concrete design guidance",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APP-129",
+          "source": "PNAP/APP/APP-129.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 100
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 104
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 88
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 92
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 101
+        },
+        {
+          "code": "APP-142",
+          "source": "PNAP/APP/APP-142.txt",
+          "pdf_page": 30
+        },
+        {
+          "code": "CoP_SUC2013e_amendment202404",
+          "source": "BD_CODES/concrete/CoP_SUC2013e_amendment202404.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 106
+        },
+        {
+          "code": "GEO_PUBLICATIONS-e2f79d67-ep1_2011",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-e2f79d67-ep1_2011.txt",
+          "pdf_page": 65
+        }
+      ]
+    },
+    {
+      "id": "Q091",
+      "query": "scheduled area ground investigation code",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [
+        "APP-030"
+      ],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 56
+        },
+        {
+          "code": "APP-030",
+          "source": "PNAP/APP/APP-030.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 320
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 40
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 319
+        },
+        {
+          "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 39
+        },
+        {
+          "code": "APP-061",
+          "source": "PNAP/APP/APP-061.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "TGN-909e082c-TGN-1_N",
+          "source": "GEO/TGN/TGN-909e082c-TGN-1_N.txt",
+          "pdf_page": 4
+        },
+        {
+          "code": "APP-141",
+          "source": "PNAP/APP/APP-141.txt",
+          "pdf_page": 3
+        }
+      ]
+    },
+    {
+      "id": "Q092",
+      "query": "site formation submission code",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "APP-015",
+        "APP-025"
+      ],
+      "top10": [
+        {
+          "code": "ADM-15",
+          "source": "PNAP/ADM/ADM-15.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-140",
+          "source": "PNAP/APP/APP-140.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APSEC-DF-2025-11-21",
+          "source": "APSEC/2025/APSEC-DF-2025-11-21.txt",
+          "pdf_page": 10
+        },
+        {
+          "code": "APP-055",
+          "source": "PNAP/APP/APP-055.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-017",
+          "source": "PNAP/APP/APP-017.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APSEC-DF-2023-02-10",
+          "source": "APSEC/2023/APSEC-DF-2023-02-10.txt",
+          "pdf_page": 21
+        },
+        {
+          "code": "APSEC-DF-2021-08-13",
+          "source": "APSEC/2021/APSEC-DF-2021-08-13.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "APSEC-DF-2018-01-19",
+          "source": "APSEC/2018/APSEC-DF-2018-01-19.txt",
+          "pdf_page": 4
+        }
+      ]
+    },
+    {
+      "id": "Q093",
+      "query": "excavation lateral support code",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "APP-057"
+      ],
+      "top10": [
+        {
+          "code": "APSEC-DF-2025-05-09",
+          "source": "APSEC/2025/APSEC-DF-2025-05-09.txt",
+          "pdf_page": 5
+        },
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-158",
+          "source": "PNAP/APP/APP-158.txt",
+          "pdf_page": 7
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 65
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 66
+        },
+        {
+          "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
+          "pdf_page": 119
+        },
+        {
+          "code": "GEOGUIDES-9689efc0-eg1_198209",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9689efc0-eg1_198209.txt",
+          "pdf_page": 65
+        },
+        {
+          "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
+          "pdf_page": 79
+        },
+        {
+          "code": "APSEC-DF-2023-08-04",
+          "source": "APSEC/2023/APSEC-DF-2023-08-04.txt",
+          "pdf_page": 13
+        }
+      ]
+    },
+    {
+      "id": "Q094",
+      "query": "foundation bored pile code",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APSEC-DF-2023-02-10",
+          "source": "APSEC/2023/APSEC-DF-2023-02-10.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 9
+        },
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 95
+        },
+        {
+          "code": "APSEC-DF-2023-05-05",
+          "source": "APSEC/2023/APSEC-DF-2023-05-05.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APSEC-DF-2024-08-09",
+          "source": "APSEC/2024/APSEC-DF-2024-08-09.txt",
+          "pdf_page": 17
+        },
+        {
+          "code": "APP-061",
+          "source": "PNAP/APP/APP-061.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 72
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 93
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 70
+        }
+      ]
+    },
+    {
+      "id": "Q095",
+      "query": "wind effects code",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "HKIE-wind-2004",
+          "source": "HKIE/HKIE-wind-2004.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-139",
+          "source": "PNAP/APP/APP-139.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APSEC-DF-2024-11-22",
+          "source": "APSEC/2024/APSEC-DF-2024-11-22.txt",
+          "pdf_page": 21
+        },
+        {
+          "code": "ExplanatoryNotesWindEffects2019e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+          "pdf_page": 9
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 49
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 66
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 67
+        }
+      ]
+    },
+    {
+      "id": "Q096",
+      "query": "retaining wall code",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 47
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 213
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 98
+        },
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 245
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 258
+        },
+        {
+          "code": "GEOGUIDES-a50716d7-eg1_199310",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 102
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1d6227c8-ep1_2009",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 62
+        },
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 86
+        }
+      ]
+    },
+    {
+      "id": "Q097",
+      "query": "ground investigation code",
+      "review_status": "candidate_unverified",
+      "candidate_hits": [],
+      "candidate_misses": [
+        "ADM-16"
+      ],
+      "top10": [
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 34
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 53
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 58
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 51
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 52
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 38
+        }
+      ]
+    },
+    {
+      "id": "Q098",
+      "query": "consent commencement code",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "APP-153",
+          "source": "PNAP/APP/APP-153.txt",
+          "pdf_page": 1
+        },
+        {
+          "code": "APP-083",
+          "source": "PNAP/APP/APP-083.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 14
+        },
+        {
+          "code": "APSEC-DF-2024-05-03",
+          "source": "APSEC/2024/APSEC-DF-2024-05-03.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APSEC-DF-2022-08-12",
+          "source": "APSEC/2022/APSEC-DF-2022-08-12.txt",
+          "pdf_page": 22
+        },
+        {
+          "code": "APSEC-DF-2025-02-14",
+          "source": "APSEC/2025/APSEC-DF-2025-02-14.txt",
+          "pdf_page": 11
+        },
+        {
+          "code": "APP-021",
+          "source": "PNAP/APP/APP-021.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "APSEC-DF-2026-08-14",
+          "source": "APSEC/2026/APSEC-DF-2026-08-14.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "APSEC-DF-2024-02-23",
+          "source": "APSEC/2024/APSEC-DF-2024-02-23.txt",
+          "pdf_page": 13
+        },
+        {
+          "code": "APP-097",
+          "source": "PNAP/APP/APP-097.txt",
+          "pdf_page": 3
+        }
+      ]
+    },
+    {
+      "id": "Q099",
+      "query": "slope stability code",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 49
+        },
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 30
+        },
+        {
+          "code": "HKIE-demolition-2004",
+          "source": "HKIE/HKIE-demolition-2004.txt",
+          "pdf_page": 96
+        },
+        {
+          "code": "GEOGUIDES-99ad5800-eg6_2022.10.27",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-99ad5800-eg6_2022.10.27.txt",
+          "pdf_page": 83
+        },
+        {
+          "code": "GEOGUIDES-f6b5cdc5-eg6_200212",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-f6b5cdc5-eg6_200212.txt",
+          "pdf_page": 89
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 36
+        },
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 59
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 47
+        },
+        {
+          "code": "GEOGUIDES-9fcf2c53-eg5_2023.11",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 99
+        },
+        {
+          "code": "GEOGUIDES-bcf11b2f-eg7_2023.11.21",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 47
+        }
+      ]
+    },
+    {
+      "id": "Q100",
+      "query": "concrete design code",
+      "review_status": "discovery_only",
+      "candidate_hits": [],
+      "candidate_misses": [],
+      "top10": [
+        {
+          "code": "CoP_SUC2013e",
+          "source": "BD_CODES/concrete/CoP_SUC2013e.txt",
+          "pdf_page": 15
+        },
+        {
+          "code": "APSEC-DF-2022-11-25",
+          "source": "APSEC/2022/APSEC-DF-2022-11-25.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "APP-053",
+          "source": "PNAP/APP/APP-053.txt",
+          "pdf_page": 2
+        },
+        {
+          "code": "APP-174",
+          "source": "PNAP/APP/APP-174.txt",
+          "pdf_page": 3
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 8
+        },
+        {
+          "code": "HKIE-precast-2003",
+          "source": "HKIE/HKIE-precast-2003.txt",
+          "pdf_page": 72
+        },
+        {
+          "code": "HKIE-foundations-2004",
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 22
+        },
+        {
+          "code": "APSEC-DF-2026-05-08",
+          "source": "APSEC/2026/APSEC-DF-2026-05-08.txt",
+          "pdf_page": 6
+        },
+        {
+          "code": "HKIE-concrete-2004",
+          "source": "HKIE/HKIE-concrete-2004.txt",
+          "pdf_page": 12
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 2
+        }
+      ]
+    }
+  ]
+}

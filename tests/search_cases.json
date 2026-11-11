@@ -1,0 +1,802 @@
+[
+  {
+    "id": "Q001",
+    "query": "scheduled area ground investigation",
+    "expected_codes": [
+      "ADM-16",
+      "APP-030"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q002",
+    "query": "site formation submission",
+    "expected_codes": [
+      "APP-015",
+      "APP-025"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "GEO"
+  },
+  {
+    "id": "Q003",
+    "query": "excavation lateral support",
+    "expected_codes": [
+      "APP-057"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q004",
+    "query": "foundation bored pile",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q005",
+    "query": "wind effects",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q006",
+    "query": "retaining wall",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q007",
+    "query": "ground investigation",
+    "expected_codes": [
+      "ADM-16"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q008",
+    "query": "consent commencement",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q009",
+    "query": "slope stability",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q010",
+    "query": "concrete design",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q011",
+    "query": "scheduled area ground investigation design",
+    "expected_codes": [
+      "ADM-16",
+      "APP-030"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q012",
+    "query": "site formation submission design",
+    "expected_codes": [
+      "APP-015",
+      "APP-025"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q013",
+    "query": "excavation lateral support design",
+    "expected_codes": [
+      "APP-057"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q014",
+    "query": "foundation bored pile design",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q015",
+    "query": "wind effects design",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q016",
+    "query": "retaining wall design",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q017",
+    "query": "ground investigation design",
+    "expected_codes": [
+      "ADM-16"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q018",
+    "query": "consent commencement design",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q019",
+    "query": "slope stability design",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q020",
+    "query": "concrete design design",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q021",
+    "query": "scheduled area ground investigation guidance",
+    "expected_codes": [
+      "ADM-16",
+      "APP-030"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q022",
+    "query": "site formation submission guidance",
+    "expected_codes": [
+      "APP-015",
+      "APP-025"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "GEO"
+  },
+  {
+    "id": "Q023",
+    "query": "excavation lateral support guidance",
+    "expected_codes": [
+      "APP-057"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q024",
+    "query": "foundation bored pile guidance",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q025",
+    "query": "wind effects guidance",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q026",
+    "query": "retaining wall guidance",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q027",
+    "query": "ground investigation guidance",
+    "expected_codes": [
+      "ADM-16"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q028",
+    "query": "consent commencement guidance",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q029",
+    "query": "slope stability guidance",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q030",
+    "query": "concrete design guidance",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q031",
+    "query": "scheduled area ground investigation code",
+    "expected_codes": [
+      "ADM-16",
+      "APP-030"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q032",
+    "query": "site formation submission code",
+    "expected_codes": [
+      "APP-015",
+      "APP-025"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q033",
+    "query": "excavation lateral support code",
+    "expected_codes": [
+      "APP-057"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q034",
+    "query": "foundation bored pile code",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q035",
+    "query": "wind effects code",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q036",
+    "query": "retaining wall code",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q037",
+    "query": "ground investigation code",
+    "expected_codes": [
+      "ADM-16"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q038",
+    "query": "consent commencement code",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q039",
+    "query": "slope stability code",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q040",
+    "query": "concrete design code",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q041",
+    "query": "scheduled area ground investigation technical",
+    "expected_codes": [
+      "ADM-16",
+      "APP-030"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q042",
+    "query": "site formation submission technical",
+    "expected_codes": [
+      "APP-015",
+      "APP-025"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "GEO"
+  },
+  {
+    "id": "Q043",
+    "query": "excavation lateral support technical",
+    "expected_codes": [
+      "APP-057"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q044",
+    "query": "foundation bored pile technical",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q045",
+    "query": "wind effects technical",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q046",
+    "query": "retaining wall technical",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q047",
+    "query": "ground investigation technical",
+    "expected_codes": [
+      "ADM-16"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q048",
+    "query": "consent commencement technical",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q049",
+    "query": "slope stability technical",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q050",
+    "query": "concrete design technical",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q051",
+    "query": "scheduled area ground investigation",
+    "expected_codes": [
+      "ADM-16",
+      "APP-030"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q052",
+    "query": "site formation submission",
+    "expected_codes": [
+      "APP-015",
+      "APP-025"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q053",
+    "query": "excavation lateral support",
+    "expected_codes": [
+      "APP-057"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q054",
+    "query": "foundation bored pile",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q055",
+    "query": "wind effects",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q056",
+    "query": "retaining wall",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q057",
+    "query": "ground investigation",
+    "expected_codes": [
+      "ADM-16"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q058",
+    "query": "consent commencement",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q059",
+    "query": "slope stability",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q060",
+    "query": "concrete design",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q061",
+    "query": "scheduled area ground investigation requirements",
+    "expected_codes": [
+      "ADM-16",
+      "APP-030"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q062",
+    "query": "site formation submission requirements",
+    "expected_codes": [
+      "APP-015",
+      "APP-025"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "GEO"
+  },
+  {
+    "id": "Q063",
+    "query": "excavation lateral support requirements",
+    "expected_codes": [
+      "APP-057"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q064",
+    "query": "foundation bored pile requirements",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q065",
+    "query": "wind effects requirements",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q066",
+    "query": "retaining wall requirements",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q067",
+    "query": "ground investigation requirements",
+    "expected_codes": [
+      "ADM-16"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q068",
+    "query": "consent commencement requirements",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q069",
+    "query": "slope stability requirements",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q070",
+    "query": "concrete design requirements",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q071",
+    "query": "scheduled area ground investigation design",
+    "expected_codes": [
+      "ADM-16",
+      "APP-030"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q072",
+    "query": "site formation submission design",
+    "expected_codes": [
+      "APP-015",
+      "APP-025"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q073",
+    "query": "excavation lateral support design",
+    "expected_codes": [
+      "APP-057"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q074",
+    "query": "foundation bored pile design",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q075",
+    "query": "wind effects design",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q076",
+    "query": "retaining wall design",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q077",
+    "query": "ground investigation design",
+    "expected_codes": [
+      "ADM-16"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q078",
+    "query": "consent commencement design",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q079",
+    "query": "slope stability design",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q080",
+    "query": "concrete design design",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q081",
+    "query": "scheduled area ground investigation guidance",
+    "expected_codes": [
+      "ADM-16",
+      "APP-030"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q082",
+    "query": "site formation submission guidance",
+    "expected_codes": [
+      "APP-015",
+      "APP-025"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "GEO"
+  },
+  {
+    "id": "Q083",
+    "query": "excavation lateral support guidance",
+    "expected_codes": [
+      "APP-057"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q084",
+    "query": "foundation bored pile guidance",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q085",
+    "query": "wind effects guidance",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q086",
+    "query": "retaining wall guidance",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q087",
+    "query": "ground investigation guidance",
+    "expected_codes": [
+      "ADM-16"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q088",
+    "query": "consent commencement guidance",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q089",
+    "query": "slope stability guidance",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q090",
+    "query": "concrete design guidance",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q091",
+    "query": "scheduled area ground investigation code",
+    "expected_codes": [
+      "ADM-16",
+      "APP-030"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q092",
+    "query": "site formation submission code",
+    "expected_codes": [
+      "APP-015",
+      "APP-025"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q093",
+    "query": "excavation lateral support code",
+    "expected_codes": [
+      "APP-057"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q094",
+    "query": "foundation bored pile code",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q095",
+    "query": "wind effects code",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q096",
+    "query": "retaining wall code",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  },
+  {
+    "id": "Q097",
+    "query": "ground investigation code",
+    "expected_codes": [
+      "ADM-16"
+    ],
+    "review_status": "candidate_unverified",
+    "category": "PNAP"
+  },
+  {
+    "id": "Q098",
+    "query": "consent commencement code",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "GEO"
+  },
+  {
+    "id": "Q099",
+    "query": "slope stability code",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "HKIE"
+  },
+  {
+    "id": "Q100",
+    "query": "concrete design code",
+    "expected_codes": [],
+    "review_status": "discovery_only",
+    "category": "BD_CODE"
+  }
+]

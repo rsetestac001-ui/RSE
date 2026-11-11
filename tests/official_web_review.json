@@ -1,0 +1,126 @@
+{
+  "checked_on": "2026-11-11",
+  "method": "Official BD/CEDD/HKIE search discovery and source reading at topic level; mapped to all original repeated cases. Not 100 independent searches or independent engineer adjudication. Direct SHA-256 verification is in search/official_source_check.json and search/official_legislation_check.json.",
+  "searches": [
+    {
+      "query": "site.bd.gov.hk \"ADM-16\" \"Ground Investigation\"",
+      "official_urls": [
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADM/ADM016.pdf"
+      ],
+      "topics": [
+        "scheduled_area_gi"
+      ]
+    },
+    {
+      "query": "site.bd.gov.hk \"APP-25\" \"Geotechnical\"",
+      "official_urls": [
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP025.pdf",
+        "https://www.bd.gov.hk/en/resources/codes-and-references/practice-notes-and-circular-letters/index_pnap.html"
+      ],
+      "topics": [
+        "site_formation",
+        "slope_stability"
+      ]
+    },
+    {
+      "query": "site.bd.gov.hk \"APP-57\" \"July 2026\"",
+      "official_urls": [
+        "https://www.bd.gov.hk/en/resources/corner-for-rbp-rc/index.html",
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP057.pdf"
+      ],
+      "topics": [
+        "excavation_lateral_support"
+      ]
+    },
+    {
+      "query": "site.bd.gov.hk \"APP-49\" \"Site Investigation\"",
+      "official_urls": [
+        "https://www.bd.gov.hk/en/resources/codes-and-references/practice-notes-and-circular-letters/index_pnap.html",
+        "https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP049.pdf"
+      ],
+      "topics": [
+        "ground_investigation"
+      ]
+    },
+    {
+      "query": "site.bd.gov.hk \"Code of Practice for Foundations 2017\" \"2024\"",
+      "official_urls": [
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/FoundationCode2017.pdf",
+        "https://www.bd.gov.hk/en/resources/codes-and-references/codes-and-design-manuals/index.html"
+      ],
+      "topics": [
+        "bored_pile"
+      ]
+    },
+    {
+      "query": "site.bd.gov.hk \"Code of Practice on Wind Effects\" \"2019\"",
+      "official_urls": [
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/circular/CL_WC2019e.pdf"
+      ],
+      "topics": [
+        "wind"
+      ]
+    },
+    {
+      "query": "site.hkie.org.hk \"Handbook\" \"Foundations\" \"2017\"",
+      "official_urls": [
+        "https://hkie.org.hk/st/resources/technical-publications/"
+      ],
+      "topics": [
+        "bored_pile",
+        "wind",
+        "concrete"
+      ]
+    },
+    {
+      "query": "site.cedd.gov.hk \"Geoguide 1\" \"2020\"",
+      "official_urls": [
+        "https://www.cedd.gov.hk/eng/publications/geo/geoguides/geo-g1/index.html",
+        "https://www.cedd.gov.hk/eng/publications/geo/geoguides/index.html"
+      ],
+      "topics": [
+        "retaining_wall",
+        "ground_investigation"
+      ]
+    },
+    {
+      "query": "site.cedd.gov.hk \"slope stability\" \"Geotechnical Manual\"",
+      "official_urls": [
+        "https://www.cedd.gov.hk/eng/publications/geo/geo-gms/index.html"
+      ],
+      "topics": [
+        "slope_stability"
+      ]
+    },
+    {
+      "query": "site.bd.gov.hk \"APP-15\" \"Filling\"",
+      "official_urls": [
+        "https://www.bd.gov.hk/en/resources/codes-and-references/practice-notes-and-circular-letters/index_pnap.html"
+      ],
+      "topics": [
+        "site_formation"
+      ]
+    },
+    {
+      "query": "site.bd.gov.hk \"Code of Practice for Structural Use of Concrete 2013\" \"2020 Edition\"",
+      "official_urls": [
+        "https://www.bd.gov.hk/en/resources/codes-and-references/codes-and-design-manuals/",
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/circular/CL_COPSUC2013_2020e.pdf"
+      ],
+      "topics": [
+        "concrete"
+      ]
+    },
+    {
+      "query": "site.bd.gov.hk \"renewal of consent\"",
+      "official_urls": [
+        "https://www.bd.gov.hk/en/resources/forms/form_nbw.html",
+        "https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP060.pdf"
+      ],
+      "topics": [
+        "consent"
+      ],
+      "note": "Forms confirm statutory references, not deadline substance. Exact English statutes verified independently against current DOJ archive."
+    }
+  ]
+}

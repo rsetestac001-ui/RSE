@@ -1,0 +1,66 @@
+{
+  "checked_at": "2026-11-11T04:11:48.811639+00:00",
+  "official_url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_en.zip",
+  "method": "Compare exact XML member SHA-256 with official archive; no PDF page numbers.",
+  "results": [
+    {
+      "chapter": "123",
+      "language": "en",
+      "version_date": "2026-03-01",
+      "source": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+      "archive_member": "cap_123_en_c/cap_123_20260301000000_en_c.xml",
+      "pdf_page": null,
+      "status": "byte_identical",
+      "official_sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+      "repository_sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b"
+    },
+    {
+      "chapter": "123A",
+      "language": "en",
+      "version_date": "2024-06-30",
+      "source": "legislation/raw/cap123A/en/cap_123A_20240630000000_en_c.xml",
+      "archive_member": "cap_123A_en_c/cap_123A_20240630000000_en_c.xml",
+      "pdf_page": null,
+      "status": "byte_identical",
+      "official_sha256": "5771573b06136e07b8ae6089ce698688f3d10bcd2b49e6a2bc79daddd58fb6f9",
+      "repository_sha256": "5771573b06136e07b8ae6089ce698688f3d10bcd2b49e6a2bc79daddd58fb6f9"
+    },
+    {
+      "chapter": "123C",
+      "language": "en",
+      "version_date": "2021-05-13",
+      "source": "legislation/raw/cap123C/en/cap_123C_20210513000000_en_c.xml",
+      "archive_member": "cap_123C_en_c/cap_123C_20210513000000_en_c.xml",
+      "pdf_page": null,
+      "status": "byte_identical",
+      "official_sha256": "5785982adec017e9f95fecf183dd7f5a95861bdab777f1171630a8ca354c3c85",
+      "repository_sha256": "5785982adec017e9f95fecf183dd7f5a95861bdab777f1171630a8ca354c3c85"
+    },
+    {
+      "chapter": "123F",
+      "language": "en",
+      "version_date": "2026-09-17",
+      "source": "legislation/raw/cap123F/en/cap_123F_20260917000000_en_c.xml",
+      "archive_member": "cap_123F_en_c/cap_123F_20260917000000_en_c.xml",
+      "pdf_page": null,
+      "status": "byte_identical",
+      "official_sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7",
+      "repository_sha256": "d8175b6bdb874f88d1967da7d73b427a160b932d4123e67f29e7725b2d76b6f7"
+    },
+    {
+      "chapter": "123Q",
+      "language": "en",
+      "version_date": "2021-06-24",
+      "source": "legislation/raw/cap123Q/en/cap_123Q_20210624000000_en_c.xml",
+      "archive_member": "cap_123Q_en_c/cap_123Q_20210624000000_en_c.xml",
+      "pdf_page": null,
+      "status": "byte_identical",
+      "official_sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec",
+      "repository_sha256": "1911a81e1fd8d489cc574af7bd554b8452289771fd6e210273981a9ab0a2ccec"
+    }
+  ],
+  "last_modified": "Wed, 21 Oct 2026 13:00:04 GMT",
+  "summary": {
+    "byte_identical": 5
+  }
+}

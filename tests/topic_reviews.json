@@ -1,0 +1,493 @@
+{
+  "method": "AI source review of ten repeated topic families; labels specify relevant reference targets, not exhaustive relevance judgments or independently validated answers. Each original row retains its ID and is evaluated separately.",
+  "topics": [
+    {
+      "topic_id": "scheduled_area_gi",
+      "base_query": "scheduled area ground investigation",
+      "case_positions_modulo_10": 1,
+      "review_status": "source_reviewed_not_answer_gold",
+      "original_label_assessment": "supported_with_scope",
+      "evidence": [
+        {
+          "code": "ADM-16",
+          "source": "PNAP/ADM/ADM-16.txt",
+          "pdf_pages": [
+            1
+          ],
+          "section": "paras 1-3",
+          "scope_note": "GI in Scheduled Areas: approval and consent; concurrent consent application after day 32, with supervision plan and covering letter."
+        },
+        {
+          "code": "APP-030",
+          "source": "PNAP/APP/APP-030.txt",
+          "pdf_pages": [
+            1
+          ],
+          "section": "paras 2-4",
+          "scope_note": "Scheduled Area No. 1 only; RGE, GI approval and consent, Geoguides 2/3 and APP-49. Not all Scheduled Areas."
+        }
+      ],
+      "review_note": "APP-30 applies to Area No. 1; do not generalize its special controls to every Scheduled Area.",
+      "official_search_checked_on": "2026-11-11",
+      "suggested_reproduction_queries": [
+        "site.bd.gov.hk scheduled area ground investigation",
+        "site.cedd.gov.hk scheduled area ground investigation"
+      ]
+    },
+    {
+      "topic_id": "site_formation",
+      "base_query": "site formation submission",
+      "case_positions_modulo_10": 2,
+      "review_status": "source_reviewed_not_answer_gold",
+      "original_label_assessment": "partially_relevant",
+      "evidence": [
+        {
+          "code": "ADM-15",
+          "source": "PNAP/ADM/ADM-15.txt",
+          "pdf_pages": [
+            1,
+            2
+          ],
+          "section": "paras 2-7",
+          "scope_note": "Part A site formation and Part B structural details; signing, sequencing and simple proposals."
+        },
+        {
+          "code": "APP-015",
+          "source": "PNAP/APP/APP-015.txt",
+          "pdf_pages": [
+            1,
+            3
+          ],
+          "section": "para 2; Appendix A(1)-(5)",
+          "scope_note": "Fill works where failure could endanger public; >=95% compaction in peripheral portion; small fill testing reduction requires depth <1 m AND volume <300 m3 with penetration tests."
+        },
+        {
+          "code": "APP-025",
+          "source": "PNAP/APP/APP-025.txt",
+          "pdf_pages": [
+            1,
+            2
+          ],
+          "section": "paras 2-3",
+          "scope_note": "GBP geotechnical assessment criteria, not a universal SF trigger: >15 degrees; slope >30 degrees AND >7.5 m high on/within7.5m; excavation face >10m AND alternative depth/45degree/HKPD conditions."
+        },
+        {
+          "code": "APP-056",
+          "source": "PNAP/APP/APP-056.txt",
+          "pdf_pages": [
+            1,
+            2
+          ],
+          "section": "paras 1-5",
+          "scope_note": "NT exempted building-associated SF exemption only: all criteria, boundary gradient <=15 degrees; 10m surrounding area <15; slope/wall conditions; constructed slope/wall maximum1.5m and slope <=30 degrees."
+        }
+      ],
+      "review_note": "Original APP-15/APP-25 pair is insufficient to establish a general SF submission trigger; separate GBP assessment, NT exemption, ELS and statutory provisions.",
+      "official_search_checked_on": "2026-11-11",
+      "suggested_reproduction_queries": [
+        "site.bd.gov.hk site formation submission",
+        "site.cedd.gov.hk site formation submission"
+      ]
+    },
+    {
+      "topic_id": "excavation_lateral_support",
+      "base_query": "excavation lateral support",
+      "case_positions_modulo_10": 3,
+      "review_status": "source_reviewed_not_answer_gold",
+      "original_label_assessment": "supported_with_scope",
+      "evidence": [
+        {
+          "code": "APP-057",
+          "source": "PNAP/APP/APP-057.txt",
+          "pdf_pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "section": "paras 3-10; Appendix A",
+          "scope_note": "July2026: depth >2.5m AND length >5m AND liable to affect specified assets within45degree influence zone; slope >30degrees, water main >=75mm. RGE supporting documents for depth >4.5m. Initial ELS <=1.5m plus first struts. GFM/PFM cannot mix."
+        },
+        {
+          "code": "GEO_PUBLICATIONS-1145bf9c-ep1_2023",
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_pages": [
+            1,
+            2
+          ],
+          "section": "title; APP-57 paras 8 and Appendix A",
+          "scope_note": "GEO Publication1/2023: referenced by APP-57; read BD modifications (surcharge1.5 vs1.3; SLS forces factor1.4)."
+        }
+      ],
+      "review_note": "APP-57 is correct; category HKIE in old cases was arbitrary. Check2026 update and BD overrides to GEO guidance.",
+      "official_search_checked_on": "2026-11-11",
+      "suggested_reproduction_queries": [
+        "site.bd.gov.hk excavation lateral support",
+        "site.cedd.gov.hk excavation lateral support"
+      ]
+    },
+    {
+      "topic_id": "bored_pile",
+      "base_query": "foundation bored pile",
+      "case_positions_modulo_10": 4,
+      "review_status": "source_reviewed_not_answer_gold",
+      "original_label_assessment": "missing_expected_labels",
+      "evidence": [
+        {
+          "code": "FoundationCode2017",
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_pages": [
+            60,
+            76,
+            77,
+            78
+          ],
+          "section": "5.1.3,5.4.6,5.4.7",
+          "scope_note": "2024Edition with Sep2025 amendments: small diameter <=750mm; large >750mm. Bellout <=1.65D, slope <=30degrees from vertical; bellout+socket resistance length <=min(D,3m), exclude750mm above bellout. CFA Nav<=40,Nb<=200 are formula caps, not blanket soil exclusion."
+        },
+        {
+          "code": "APP-018",
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_pages": [
+            1,
+            2,
+            10,
+            11,
+            12
+          ],
+          "section": "paras 1-4; Appendix C1-9",
+          "scope_note": "Feb2026 PNAP; uncommon/noncompliant piling systems require early BA design-principle discussion, not automatic Technical Section referral for every CFA pile."
+        },
+        {
+          "code": "HKIE-foundations-2017",
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_pages": [
+            1,
+            2,
+            3
+          ],
+          "section": "title/publication/disclaimer",
+          "scope_note": "HKIE June2019 handbook for2017Code; explanatory opinion, not automatic incorporation of2024edition or later amendments."
+        }
+      ],
+      "review_note": "Original expected_codes was empty; primary code/PNAP and explanatory handbook have different roles.",
+      "official_search_checked_on": "2026-11-11",
+      "suggested_reproduction_queries": [
+        "site.bd.gov.hk foundation bored pile",
+        "site.cedd.gov.hk foundation bored pile"
+      ]
+    },
+    {
+      "topic_id": "wind",
+      "base_query": "wind effects",
+      "case_positions_modulo_10": 5,
+      "review_status": "source_reviewed_not_answer_gold",
+      "original_label_assessment": "missing_expected_labels",
+      "evidence": [
+        {
+          "code": "WindEffects2019e",
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_pages": [
+            4,
+            11,
+            15
+          ],
+          "section": "foreword;1.1;2.1",
+          "scope_note": "2019Code: Standard Method typical buildings up to200m, with additional wind-tunnel triggers; height alone is not sufficient."
+        },
+        {
+          "code": "WindEffects2019e_Amend2023e",
+          "source": "BD_CODES/wind/WindEffects2019e_Amend2023e.txt",
+          "pdf_pages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "section": "December2023 amendments",
+          "scope_note": "Read revised flowcharts and figure/table changes; figures must be inspected visually."
+        },
+        {
+          "code": "ExplanatoryNotesWindEffects2019e",
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+          "pdf_pages": [
+            1,
+            3,
+            5
+          ],
+          "section": "title and contents",
+          "scope_note": "BD explanatory notes; read with their December2023 amendments."
+        },
+        {
+          "code": "HKIE-wind-2019",
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_pages": [
+            1
+          ],
+          "section": "title",
+          "scope_note": "HKIE2019-basis practical guide; do not silently use2004 handbook for2019Code."
+        }
+      ],
+      "review_note": "Original expected_codes was empty; older handbook ranking does not establish applicability.",
+      "official_search_checked_on": "2026-11-11",
+      "suggested_reproduction_queries": [
+        "site.bd.gov.hk wind effects",
+        "site.hkie.org.hk wind effects"
+      ]
+    },
+    {
+      "topic_id": "retaining_wall",
+      "base_query": "retaining wall",
+      "case_positions_modulo_10": 6,
+      "review_status": "source_reviewed_not_answer_gold",
+      "original_label_assessment": "missing_expected_labels",
+      "evidence": [
+        {
+          "code": "GEOGUIDES-8f0263d7-eg1_20200601",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_pages": [
+            2,
+            3
+          ],
+          "section": "title",
+          "scope_note": "Geoguide1 continuously updated2020version; technical guidance."
+        },
+        {
+          "code": "APP-054",
+          "source": "PNAP/APP/APP-054.txt",
+          "pdf_pages": [
+            1,
+            2,
+            4
+          ],
+          "section": "paras2-11;Appendix A",
+          "scope_note": "Design/drainage/filter/backfill; wall demolition submission and specific minor works route; not a blanket prior-approval requirement for all maintenance."
+        },
+        {
+          "code": "APP-063",
+          "source": "PNAP/APP/APP-063.txt",
+          "pdf_pages": [
+            1
+          ],
+          "section": "paras1-3",
+          "scope_note": "Entire first or second edition design accepted under this PNAP; mixing editions not accepted; second edition strongly recommended. Historical must not be automatically labelled legally prohibited."
+        }
+      ],
+      "review_note": "Original expected_codes was empty. Version preference must retain explicit first-edition acceptance and prohibit mixed-edition design.",
+      "official_search_checked_on": "2026-11-11",
+      "suggested_reproduction_queries": [
+        "site.bd.gov.hk retaining wall",
+        "site.cedd.gov.hk retaining wall"
+      ]
+    },
+    {
+      "topic_id": "ground_investigation",
+      "base_query": "ground investigation",
+      "case_positions_modulo_10": 7,
+      "review_status": "source_reviewed_not_answer_gold",
+      "original_label_assessment": "partially_relevant",
+      "evidence": [
+        {
+          "code": "APP-049",
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_pages": [
+            1,
+            2,
+            3
+          ],
+          "section": "paras1-8",
+          "scope_note": "September2025: SI broader than GI; TGN1/Geoguides2/3 and FoundationCode; GIFW by RSC(GIFW); accredited lab tests; digital PDF+AGS; cores retained until satisfactory completion acknowledged."
+        },
+        {
+          "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_pages": [
+            2,
+            3
+          ],
+          "section": "title; referred by APP-49 para3",
+          "scope_note": "Geoguide2 current continuous version2017; consult applicable TGN/amendments."
+        }
+      ],
+      "review_note": "ADM-16 is scoped to Scheduled Areas and cannot be the sole gold label for general GI.",
+      "official_search_checked_on": "2026-11-11",
+      "suggested_reproduction_queries": [
+        "site.bd.gov.hk ground investigation",
+        "site.cedd.gov.hk ground investigation"
+      ]
+    },
+    {
+      "topic_id": "consent",
+      "base_query": "consent commencement",
+      "case_positions_modulo_10": 8,
+      "review_status": "source_reviewed_not_answer_gold",
+      "original_label_assessment": "missing_expected_labels",
+      "evidence": [
+        {
+          "code": "APP-060",
+          "source": "PNAP/APP/APP-060.txt",
+          "pdf_pages": [
+            2
+          ],
+          "section": "forms BA8,BA8A,BA9,BA10",
+          "scope_note": "Forms and statutory references only; APP-60 alone is not the deadline authority."
+        }
+      ],
+      "review_note": "Read Cap123s14/s20 and Cap123Aregs20/31/32/34. Cap123s20: not started within3months OR suspended for such period => deemed revoked; BA may renew. XML has no PDF pages. Live e-legislation page was inaccessible; independent official DOJ data archive comparison is recorded separately.",
+      "official_search_checked_on": "2026-11-11",
+      "statutory_evidence": [
+        {
+          "source": "legislation/provisions/cap123/en/s14.json",
+          "chapter": "123",
+          "provision": "s14",
+          "pdf_page": null
+        },
+        {
+          "source": "legislation/provisions/cap123/en/s20.json",
+          "chapter": "123",
+          "provision": "s20",
+          "pdf_page": null
+        },
+        {
+          "source": "legislation/provisions/cap123A/en/s31.json",
+          "chapter": "123A",
+          "provision": "s31",
+          "pdf_page": null
+        },
+        {
+          "source": "legislation/provisions/cap123A/en/s32.json",
+          "chapter": "123A",
+          "provision": "s32",
+          "pdf_page": null
+        },
+        {
+          "source": "legislation/provisions/cap123A/en/s34.json",
+          "chapter": "123A",
+          "provision": "s34",
+          "pdf_page": null
+        }
+      ],
+      "suggested_reproduction_queries": [
+        "site.bd.gov.hk consent commencement",
+        "site.hkie.org.hk consent commencement"
+      ]
+    },
+    {
+      "topic_id": "slope_stability",
+      "base_query": "slope stability",
+      "case_positions_modulo_10": 9,
+      "review_status": "source_reviewed_not_answer_gold",
+      "original_label_assessment": "missing_expected_labels",
+      "evidence": [
+        {
+          "code": "GEO_MANUALS-6d6cfcc9-egms",
+          "source": "GEO/GEO_MANUALS/GEO_MANUALS-6d6cfcc9-egms.txt",
+          "pdf_pages": [
+            1,
+            2,
+            72
+          ],
+          "section": "title; chapter5 slope stability and later TGN updates",
+          "scope_note": "1984 second edition reprinted2011; apply later TGN updates. Added after audit found missing source. 303physicalPDFpages;287OCRpages, all unverified transcription. Review numerical provisions against PDF and laterTGN updates."
+        },
+        {
+          "code": "APP-025",
+          "source": "PNAP/APP/APP-025.txt",
+          "pdf_pages": [
+            1,
+            2
+          ],
+          "section": "para2",
+          "scope_note": "GBP assessment triggers only, not all slope stability design standards."
+        },
+        {
+          "code": "APP-056",
+          "source": "PNAP/APP/APP-056.txt",
+          "pdf_pages": [
+            1,
+            2
+          ],
+          "section": "paras3-5",
+          "scope_note": "NT exemption scope only, not general slope design permission."
+        }
+      ],
+      "review_note": "Official CEDD Geotechnical Manual for Slopes catalogue located. GMS itself absent from original collection; TGNs30/39/40/41/43 updates and relevant TGN1 must be checked. Mark source gap; do not count related Geoguide hits as full coverage. Original gap has now been repaired by adding the official GMS source; later TGN provisions still require case-specific review.",
+      "official_search_checked_on": "2026-11-11",
+      "known_source_gap": {
+        "title": "Geotechnical Manual for Slopes",
+        "official_catalogue": "https://www.cedd.gov.hk/eng/publications/geo/geo-gms/index.html",
+        "official_pdf": "https://www.cedd.gov.hk/filemanager/eng/content_91/egms.pdf",
+        "status": "fixed_archived_indexed_287_ocr_pages_official_bytes_verified"
+      },
+      "suggested_reproduction_queries": [
+        "site.bd.gov.hk slope stability",
+        "site.cedd.gov.hk slope stability"
+      ]
+    },
+    {
+      "topic_id": "concrete",
+      "base_query": "concrete design",
+      "case_positions_modulo_10": 10,
+      "review_status": "source_reviewed_not_answer_gold",
+      "original_label_assessment": "missing_expected_labels",
+      "evidence": [
+        {
+          "code": "CoP_SUC2013e",
+          "source": "BD_CODES/concrete/CoP_SUC2013e.txt",
+          "pdf_pages": [
+            2,
+            3
+          ],
+          "section": "title/foreword",
+          "scope_note": "2013Code2020Edition, with2022/2023/2024amendments; deemed-to-satisfy but not itself a statute."
+        },
+        {
+          "code": "CoP_SUC2013e_amendment202202",
+          "source": "BD_CODES/concrete/CoP_SUC2013e_amendment202202.txt",
+          "pdf_pages": [
+            1
+          ],
+          "section": "title",
+          "scope_note": "February2022amendments, read with mainCode."
+        },
+        {
+          "code": "CoP_SUC2013e_amendment202306",
+          "source": "BD_CODES/concrete/CoP_SUC2013e_amendment202306.txt",
+          "pdf_pages": [
+            1
+          ],
+          "section": "title",
+          "scope_note": "June2023amendments, read with mainCode."
+        },
+        {
+          "code": "CoP_SUC2013e_amendment202404",
+          "source": "BD_CODES/concrete/CoP_SUC2013e_amendment202404.txt",
+          "pdf_pages": [
+            1
+          ],
+          "section": "title",
+          "scope_note": "April2024amendments, read with mainCode."
+        },
+        {
+          "code": "HKIE-concrete-2013",
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_pages": [
+            1,
+            2
+          ],
+          "section": "title/foreword",
+          "scope_note": "HKIE March2022 handbook foreword refers to2020edition. Cannot assume subsequent code amendments are incorporated."
+        }
+      ],
+      "review_note": "Original expected_codes was empty. PNAP APP-68 is cantilever-specific; APP-167 addresses early-age quality, not a general RC design code.",
+      "official_search_checked_on": "2026-11-11",
+      "suggested_reproduction_queries": [
+        "site.bd.gov.hk concrete design",
+        "site.hkie.org.hk concrete design"
+      ]
+    }
+  ]
+}
