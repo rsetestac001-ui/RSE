@@ -46,3 +46,7 @@ APP-56 的新界豁免建築相關 SF 豁免條件、APP-25 的 GBP 階段岩土
 ## GEO guidance retrieval
 
 岩土問題須查閱 `geo/manifest.json`、`geo/search_audit.json` 及官方目錄保存的狀態註記，再讀 `documents/GEO/` 或 `indexed_text/GEO/` 原文。涵蓋 Geoguides、GCO/GEO Publications 及 TGN；GEO Reports、Geospecs 等其他系列不在此下載範圍。目錄可能同時提供原版、整合修訂版及 amendments，必須核對版本、取代／取消及交叉引用（包括 TGN master list、TGN 1 及相關 PNAP）；不可把歷史版本或已取消 TGN 當作現行指引。須區分技術指引與法例，列文件編號／版本、段落及 PDF 實體頁碼。空白或掃描頁、公式及圖表須回看 PDF，全文未抽出不代表沒有規定。
+
+## HKIE and BD explanatory publications
+
+結構設計問題須按主題查 `explanatory/catalog.json`、`explanatory/manifest.json` 及 `explanatory/search_audit.json`，讀 HKIE 手冊（`documents/HKIE/`、`indexed_text/HKIE/`）及 BD 解說（沿用 `documents/BD_CODES/`）原文。必須標明出版者、手冊對應的 Code 年份／版次及 PDF 實體頁碼；舊手冊不能自動視為適用於現行 Code。HKIE 手冊中的分析、設計例子與 BD Code／法例／PNAP 要求須分清，不能互相替代；同時核對 Code 修訂。掃描頁 OCR 是未經人工核證的轉錄，數值、公式、表格及圖須回看 PDF。此目錄涵蓋已核對的公開手冊及 BD steel/wind 解說，並非聲稱 HKIE／BD 所有解說文件已齊全。
