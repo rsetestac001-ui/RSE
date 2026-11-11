@@ -73,22 +73,28 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests beautifulsoup4 'PyMuPDF>=1.24,<2'
-      - name: Build shared index and verify handbook and PNAP retrieval
-        run: |
-          python scripts/build_index.py
-          python scripts/build_search.py build
-          python scripts/build_retrieval.py
-          python scripts/verify_bd_codes.py
-          python scripts/explanatory.py verify
-      - name: Save verified searchable text and audit
+      - name: Rebuild and publish indexes from current main
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git config pack.window 0
           git config pack.depth 0
-          git add indexed_text index_manifest.json explanatory/search_audit.json codes/search_audit.json search/pnap_fts.sqlite3 search/search_audit.json search/document_catalog.json search/topics
-          if ! git diff --cached --quiet; then
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/build_index.py
+            python scripts/build_search.py build
+            python scripts/build_retrieval.py
+            python scripts/verify_bd_codes.py
+            python scripts/explanatory.py verify
+            git add indexed_text index_manifest.json explanatory/search_audit.json codes/search_audit.json search/pnap_fts.sqlite3 search/search_audit.json search/document_catalog.json search/topics
+            if git diff --cached --quiet; then
+              exit 0
+            fi
             git commit -m 'Index HKIE and BD explanations with verified page retrieval'
-            git pull --rebase origin main
-            git push origin HEAD:main
-          fi
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+          done
+          echo 'Index publication failed after three rebuilt attempts' >&2
+          exit 1
