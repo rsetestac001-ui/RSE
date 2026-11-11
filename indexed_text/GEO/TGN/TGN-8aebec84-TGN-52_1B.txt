@@ -1,0 +1,467 @@
+
+
+===== PDF PAGE 1 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 52 (TGN 52)
+  Enhanced Technical Guidance on Design of Rigid Debris-resisting
+  Barriers
+
+
+    Issue No.: 1       Revision: B       Date: 23.12.2023  Page: 1 of 10
+
+
+1.        SCOPE
+
+1.1           This Technical Guidance Note (TGN) supplements and updates relevant guidance given
+               in GEO Report No. 270 (Kwan, 2012) and GEO TGN No. 47 (GEO, 2023d) on
+              geotechnical stability, structural integrity and detailing of deflector design of rigid debris-
+                resisting barriers.
+
+1.2        Any feedback on this TGN should be directed to the Chief Geotechnical Engineer/
+              Landslip Preventive Measures 2 of the Geotechnical Engineering Office (GEO).
+
+
+2.        TECHNICAL POLICY
+
+2.1         The technical recommendations promulgated  in  this TGN were agreed by GEO
+              Geotechnical Control Conference on 24 December 2020.
+
+
+3.        RELATED DOCUMENTS
+
+3.1       GEO (2023a). Supplementary Technical Guidance on Design of Rigid Debris-resisting
+              Barriers (GEO TGN 33). Geotechnical Engineering Office, Hong Kong, 1 p.
+
+3.2       GEO (2023b). Detailing of Rigid Debris-resisting Barriers (GEO TGN 35). Geotechnical
+             Engineering Office, Hong Kong, 8 p.
+
+3.3       GEO (2023c). Assessment of Landslide Debris Impact Velocity for Design of Debris-
+                resisting Barriers (GEO TGN 44). Geotechnical Engineering Office, Hong Kong, 4 p.
+
+3.4       GEO (2023d). Updates of Design Guidance of Rigid Debris-resisting Barriers (GEO
+         TGN 47). Geotechnical Engineering Office, Hong Kong, 4 p.
+
+3.5         Kwan, J.S.H. (2012). Supplementary Technical Guidance on Design of Rigid Debris-
+                resisting Barriers (GEO Report No. 270). Geotechnical Engineering Office, Hong Kong,
+            88 p.
+
+3.6          Lo, D.O.K. (2000). Review of Natural Terrain Landslide Debris-resisting Barrier Design
+          (GEO Report No. 104). Geotechnical Engineering Office, Hong Kong, 91 p.
+
+3.7         Wong, L.A., Lam, H.W.K., Lam, C. & Kwan, J.S.H. (2022).  Technical Development
+           Work on Design of Rigid Debris-resisting Barriers (GEO Report No. 358). Geotechnical
+             Engineering Office, Hong Kong, 397 p.
+
+
+===== PDF PAGE 2 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 52 (TGN 52)
+  Enhanced Technical Guidance on Design of Rigid Debris-resisting
+  Barriers
+
+
+    Issue No.: 1       Revision: B       Date: 23.12.2023  Page: 2 of 10
+
+
+4.       BACKGROUND
+
+4.1       GEO Report No. 104 (Lo, 2000) sets out the geotechnical parameters and considerations
+               for the design of rigid debris-resisting barriers based on a review of the literature and
+                state of the knowledge as of the late 1990s. In 2012, GEO Report No. 270 (Kwan, 2012)
+            was published, which supplements and updates the relevant design guidance provided by
+           Lo (2000), based on a review of state-of-the-art literature in the early 2010s.  The
+             recommendations given in GEO Report No. 270 (Kwan, 2012) were promulgated in
+         GEO TGN No. 33 (GEO, 2023a).
+
+4.2          Based on a desk study review and  site inspection of selected  barriers, technical
+             recommendations on proper detailing of rigid debris-resisting barriers were promulgated
+               in GEO TGN No. 35 (GEO, 2023b).  Subsequently, Professor O. Hungr conducted a
+             ‘walk through’ exercise and provided technical advice to improve design practice from
+               the perspective of value engineering. The prevailing design guidelines were updated
+             based on his advice as promulgated in GEO TGN No. 47 (GEO, 2023d).
+
+4.3           Since then, GEO has conducted a series of technical development work, with a view to
+                further optimising the design of rigid debris-resisting barriers. The work included large-
+               scale experimental studies, numerical analyses as well as analytical studies, covering
+              geotechnical stability, structural integrity and detailing of deflector design for rigid
+                debris-resisting barriers.
+
+4.4           This TGN stipulates the technical recommendations pertaining to the enhancement of
+                rigid debris-resisting barrier design.  It supplements and updates the relevant guidance
+              given in GEO Report No. 270 (Kwan, 2012) and GEO TGN No. 47 (GEO, 2023d).
+
+
+5.        TECHNICAL RECOMMENDATIONS
+
+5.1       DESIGN APPROACH
+
+5.1.1         Impacts of debris-resisting barriers by landslide debris are rare events in Hong Kong.  It
+                  is more cost-effective to adopt a performance-based approach in the design of rigid
+                debris-resisting barriers.  In line with this, localised or minor damages that can be
+               repaired after a landslide event are generally tolerable as long as the rigid barrier would
+              not collapse or fail to satisfy the performance criteria in retaining the design volume of
+               landslide debris.
+
+
+===== PDF PAGE 3 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 52 (TGN 52)
+  Enhanced Technical Guidance on Design of Rigid Debris-resisting
+  Barriers
+
+
+    Issue No.: 1       Revision: B       Date: 23.12.2023  Page: 3 of 10
+
+
+5.2       DYNAMIC SOIL DEBRIS IMPACT FORCE
+
+5.2.1        Based on the results of large-scale flume tests and numerical analyses (Section 1 in Wong
+                 et al (2022)), prediction of dynamic soil debris impact force (F) should follow Equation
+               (1) and the dynamic soil debris pressure coefficient () of 1.5 should be adopted:-
+
+                  F = α ρ 𝑣2 h 𝑤sin𝛽 …….……..………..……………. (1)
+
+            where     F = dynamic soil debris impact force (in N)
+                    α = dynamic soil debris pressure coefficient
+                      ρ = debris density (in kg/m3)
+                     𝑣 = debris velocity (in m/s)
+                     h = debris flow thickness (in m)
+               𝑤 = debris flow width (in m)
+                  𝛽 = angle between impact face of barrier and debris motion direction.
+
+5.2.2        The dynamic  soil debris impact force should be used in the pseudo-static force
+              equilibrium analyses for both geotechnical stability and structural integrity based on the
+               multiple-surge load model shown in Figure 1.  For design events involving both soil
+               debris and boulders, the geotechnical stability of the barriers under boulder impacts
+              should be assessed separately based on the displacement approach (see Section 5.3) while
+               for structural integrity check, the multiple-surge load model in Figure 2.1 of GEO Report
+            No. 270 (Kwan, 2012) should still be followed as appropriate.
+
+5.2.3        The adoption of dynamic soil debris pressure coefficient () of 1.5 supersedes the
+               relevant guidance given in Section 4.2 of GEO Report No. 270 (Kwan, 2012) and Section
+              5.2 of GEO TGN No. 47 (GEO, 2023d).
+
+
+===== PDF PAGE 4 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 52 (TGN 52)
+  Enhanced Technical Guidance on Design of Rigid Debris-resisting
+  Barriers
+
+
+    Issue No.: 1       Revision: B       Date: 23.12.2023  Page: 4 of 10
+
+
+
+
+
+    Notes:        (1)    Design calculations for scenario (b) should be carried out for debris impacts at different
+                           levels coresponding to the depth of the debris accumulated in preceding surges.
+
+                   (2)    Debris retaining height, Hret, shall be estimated using the retention capacity of the
+                             barrier.  Hret is not necessary the height of barrier wall. Normally, the height of the
+                           barrier wall could be greater than Hret to provide freeboard and safety margin of debris
+                          retention volume.
+
+                   (3)    Reference should be made to GEO TGN No. 44 (GEO, 2023c) for the assessment of
+                          debris impact velocity and impact load thickness (HDeb).
+
+
+Figure 1   Multiple Surge Load Model for Geotechnical Stability and Structural Integrity Assessment
+          under Soil Debris Impact
+
+
+===== PDF PAGE 5 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 52 (TGN 52)
+  Enhanced Technical Guidance on Design of Rigid Debris-resisting
+  Barriers
+
+
+    Issue No.: 1       Revision: B       Date: 23.12.2023  Page: 5 of 10
+
+
+5.3       DISPLACEMENT  APPROACH  FOR  GEOTECHNICAL  STABILITY
+         ASSESSMENT OF BOULDER IMPACT
+
+5.3.1         Boulder impact loads are highly transient and of high magnitude.  Adopting boulder
+             impact loads to assess geotechnical stability of rigid debris-resisting barriers based on
+               pseudo-static force equilibrium analyses may yield an overly-conservative solution.
+               Instead, the geotechnical stability of a rigid debris-resisting barrier under boulder impacts
+              could be assessed based on the displacement approach, in terms of translational and
+                rotational movements.
+
+5.3.2          In general, displacement check of translational and rotational movements of a rigid
+                debris-resisting barrier is not required for normal design scenarios. Based on a series of
+                sensitivity analyses, if a rigid barrier has a mass that satisfies the requirement set out in
+             Table 1 for different ranges of boulder impact velocity considered, the resulting
+                translational and rotational movements of the barrier are deemed to be insignificant and
+                further checking of geotechnical stability (i.e. estimation of translational and rotational
+            movements) due to boulder impact is not required.  If a cushion layer is installed to a
+                rigid debris-resisting barrier, the mass of such cushion layer can be taken as part of the
+            mass of the barrier for the displacement check.
+
+                Boulder Impact                                 v ≤ 8 m/s     8 m/s < v ≤ 10 m/s   10 m/s < v ≤ 12 m/s
+                  Velocity (v)
+
+              Mass of Rigid     > 20 times of     > 25 times of       > 30 times of
+                      Barrier        mass of boulder    mass of boulder      mass of boulder
+
+
+             Table 1 – Mass of rigid barrier where displacement check is not required
+
+5.3.3        Under special circumstances when displacement check of translational and rotational
+            movements is considered necessary (e.g. the mass of the rigid barrier does not satisfy the
+              requirement in Table 1), supplementary guidelines given in Annex TGN 52 A can be
+              followed to assess the movements.
+
+5.3.4       As a good practice, rigid debris-resisting barriers should be founded on a levelled and
+             competent ground, and the ground in front of the barrier should be well protected against
+              erosion as necessary.
+
+5.3.5       As an alternative to the displacement check, designers may consider adopting measures
+             such as baffles, boulder straining structures, cushioning materials, etc. to deal with the
+              boulder impact, taking into account cost-effectiveness, constructability and maintenance
+              requirement, etc.
+
+
+===== PDF PAGE 6 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 52 (TGN 52)
+  Enhanced Technical Guidance on Design of Rigid Debris-resisting
+  Barriers
+
+
+    Issue No.: 1       Revision: B       Date: 23.12.2023  Page: 6 of 10
+
+
+5.4       STRUCTURAL  INTEGRITY  ASSESSMENT  OF  BARRIERS  UNDER
+         BOULDER IMPACT
+
+5.4.1         For design events involving both soil debris and boulders, assessment of impact load
+               arising from boulders of 1 m diameter or below is generally not required in the structural
+              design of a rigid barrier.  This approach is based on consideration of the transient and
+               localised nature of boulder impact, the probable benefits of 3-dimensional effects of
+                typical barriers with wing walls, built-in conservatism in the dynamic soil debris impact
+             model, as well as the low probability of simultaneous occurrence of the peak dynamic
+                 soil debris and boulder impact loads.
+
+5.4.2        Under special circumstances if boulder impact loads are required to be considered in the
+                structural design, the flexural response of barriers due to boulder impact can be assessed
+             based on Enhanced Flexural Stiffness Method given in Annex TGN 52 B.
+
+5.4.3          Alternatively, designers may consider adopting measures such as baffles, boulder
+               straining structures, cushioning materials, etc. to deal with the boulder impact, taking
+               into account cost-effectiveness, constructability and maintenance requirement, etc.
+
+
+5.5       ASSESSMENT OF RUN-UP HEIGHT OF LANDSLIDE DEBRIS
+
+5.5.1        Based on experimental results (Section 8 in Wong et al (2022)), the prediction of run-up
+              height of landslide debris should be assessed following the Energy Model (Kwan, 2012).
+              This supersedes the relevant guidance given in Section 6.2 of GEO Report No. 270
+            (Kwan, 2012).
+
+
+5.6       DEFLECTOR TO PREVENT SPILLAGE OF LANDSLIDE DEBRIS
+
+5.6.1            If the predicted run-up height does not exceed the height of the wall stem, spillage of
+               landslide debris is generally not a concern.
+
+5.6.2        The provision of a crest deflector to prevent spillage of landslide debris is generally not
+              necessary and should be considered as a last resort if the barrier is situated in close
+              proximity to downstream facilities where there is a safety concern when spillage of
+               landslide debris occurs.  As an alternative, other precautionary measures such as
+              provision of freeboard may also be considered to prevent spillage of debris.
+
+5.6.3          Deflectors can be horizontal or inclined up to 45° to the horizontal.  In general, the
+              required horizontal projected length of the deflector should be, at least, half of maximum
+               debris flow depth at the barrier location calculated by debris mobility analysis (Section 9
+               in Wong et al (2022)). This supersedes the relevant guidance given in Section 6.3 of
+         GEO Report No. 270 (Kwan, 2012). Guidance on detailing and selection of the shape
+             and form of a deflector is given in Section 9 in Wong et al (2022).
+
+
+===== PDF PAGE 7 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 52 (TGN 52)
+  Enhanced Technical Guidance on Design of Rigid Debris-resisting
+  Barriers
+
+
+    Issue No.: 1       Revision: B       Date: 23.12.2023  Page: 7 of 10
+
+
+6        ANNEXES
+
+6.1       TGN 52 A - Supplementary Guidelines on Displacement Approach for Geotechnical
+                Stability Assessment of Boulder Impact
+
+6.2       TGN 52 B - Supplementary Guidelines on Enhanced Flexural Stiffness Method for
+               Structural Integrity Assessment of Boulder Impact
+
+
+
+
+
+                                                                            ( Raymond W M Cheung )
+                                                 Head, Geotechnical Engineering Office
+
+
+===== PDF PAGE 8 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 52 (TGN 52)
+  Enhanced Technical Guidance on Design of Rigid Debris-resisting
+  Barriers
+
+
+    Issue No.: 1       Revision: B       Date: 23.12.2023  Page: 8 of 10
+
+
+Annex TGN 52 A - Supplementary Guidelines on Displacement Approach for Geotechnical
+Stability Assessment of Boulder Impact
+
+1.           Under the displacement approach for geotechnical stability assessment of boulder impact
+                set out in Section 5.3 of this TGN, Equations (A1) and (A2) below may be used to assess
+               the translational and rotational movements.  The derivation (with assumptions) and
+                verification of the equations are given in Section 3 in Wong et al (2022).  Worked
+             examples are also given in Section 2 in Wong et al (2022).
+
+
+               Translational Movement
+
+                                  𝐾𝐸2
+                        ∆ =          …….…….….…..….……………. (A1)
+                         (𝑀𝑔−𝑢𝐴) tan 𝛿′
+
+            where    ∆   =  translational movement of barrier (in m)
+                  𝐾𝐸2  =  kinetic energy gained by barrier (in J) (see Appendix B of Section
+                             2 in Wong et al (2022))
+             𝑀   = mass of barrier (in kg)
+                  𝑔   =  gravity (9.81 m/s2)
+                   𝑢   = water uplift pressure acting on barrier’s base (in N/m2)
+                 𝐴   =  contact area between barrier’s base and ground surface (in m2)
+                           𝛿′   =  effective interface friction angle between concrete and ground
+                                   surface (in degrees)
+
+
+              Rotational Movement
+
+                                    𝐾𝐸2
+                                             ∆𝐶.𝐺. = 𝑀𝑔…….…….….…..….….…..…………. (A2)
+
+            where     ∆𝐶.𝐺.  =  rise of barrier’s centre of gravity (in m)
+                  𝐾𝐸2  =  kinetic energy gained by barrier (in J) (see Appendix C of Section
+                             2 in Wong et al (2022))
+             𝑀   = mass of barrier (in kg)
+                  𝑔   =  gravity (9.81 m/s2)
+
+
+
+
+
+                                            ANNEX TGN 52 A (1/2)
+
+
+===== PDF PAGE 9 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 52 (TGN 52)
+  Enhanced Technical Guidance on Design of Rigid Debris-resisting
+  Barriers
+
+
+    Issue No.: 1       Revision: B       Date: 23.12.2023  Page: 9 of 10
+
+
+
+
+
+                                                    Note: Rise of barrier’s centre of gravity (C.G.) can
+                                                      be converted to rotational angle () (Section 2
+                                                                  in Wong et al (2022)).
+
+
+
+Figure A1 Translational (Left) and Rotational (Right) Movements of a Rigid Debris-resisting Barrier
+           subject to Boulder Impact
+
+
+
+
+
+                                            ANNEX TGN 52 A (2/2)
+
+
+===== PDF PAGE 10 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 52 (TGN 52)
+  Enhanced Technical Guidance on Design of Rigid Debris-resisting
+  Barriers
+
+
+    Issue No.: 1       Revision: B       Date: 23.12.2023  Page: 10 of 10
+
+
+Annex TGN 52 B  - Supplementary Guidelines on Enhanced Flexural Stiffness Method for
+Structural Integrity Assessment of Boulder Impact
+
+1.           For assessing the flexural response of a rigid barrier under boulder impact, the boulder
+             impact load at the crest of the barrier can be assessed based on the Enhanced Flexural
+                Stiffness Method (EFSM) (see Section 3.1 of Section 4 in Wong et al (2022)) below:-
+
+                               + COR 2                  𝐹𝑏= √λ (1      ) 𝑣0√mk…….……..………..……………. (B1)                                   1 + λ
+
+            where     𝐹𝑏  =   boulder impact force at the barrier’s crest (in N)
+               COR  =    coefficient of restitution
+             =    ratio between the participating mass of barrier and mass of
+                                   boulder (Note: Participating mass of barrier can be based on (a)
+                                     the width of a barrier or width of a single bay of the barrier where
+                                      appropriate, e.g. distance between movement joints, if any (Kwan,
+                                2012) and (b) the top 0.24 portion of wall stem.)
+                           v0   =   impact velocity of boulder (in m/s)
+               m   =   mass of boulder (in kg)
+                         k   =    flexural stiffness of barrier (in N/m) (See Appendix A of Section 5
+                                       in Wong et al (2022))
+
+2.          The EFSM has been validated by a series of large-scale impact tests (Sections 5 & 6 in
+          Wong et al (2022)). Based on the experimental results, COR of 0.3 is recommended.
+
+3.           For scenarios of boulder impact at the mid-height of a barrier or below, the induced
+             bending moment at the base of a wall stem can be reduced by 30% as compared to that
+               for boulder impact at the barrier’s crest (Section 6 in Wong et al (2022)).
+
+4.           Based on parametric studies using the validated Two Degree-of-Freedom Lumped Mass
+            Model (Section 7 in Wong et al (2022)), if a minimum 500 mm thick rockfill gabion
+              cushion is adopted, the flexural response (i.e. bending moment at the bottom of wall stem)
+              of a rigid debris-resisting barrier calculated based on the EFSM can be reduced by 35%.
+          No reduction of flexural response should be allowed if the thickness of the rockfill gabion
+              cushion is less than 500 mm.
+
+5.          The boulder impact force derived from the EFSM is applicable to the structural integrity
+             check of the wall stem of a barrier only, but not for the design of its foundations or tie-
+              backs, if any.  If a barrier is provided with foundations or tie-backs, designers should
+              adopt other appropriate design approaches or conduct appropriate dynamic analyses for
+               the design of these foundations or tie-backs.
+
+
+                                            ANNEX TGN 52 B (1/1)

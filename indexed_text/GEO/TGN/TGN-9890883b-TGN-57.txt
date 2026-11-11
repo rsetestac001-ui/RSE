@@ -1,0 +1,728 @@
+
+
+===== PDF PAGE 1 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 57 (TGN 57)
+  Foundation Design of Flexible Debris-resisting Barriers
+
+
+    Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 1 of 13
+
+
+
+1.        SCOPE
+
+1.1           This Technical Guidance Note (TGN) stipulates the recommendations on the foundation
+              design of flexible debris-resisting barriers.
+
+1.2        Any  feedback  on  this TGN  should  be  directed  to  the  Chief  Geotechnical
+              Engineer/Landslip Preventive Measures 2 of the Geotechnical Engineering Office
+            (GEO).
+
+
+2.        TECHNICAL POLICY
+
+2.1         The technical recommendations promulgated  in  this TGN were agreed by GEO
+              Geotechnical Control Conference on 16 October 2024.
+
+
+3.        RELATED DOCUMENTS
+
+3.1       BAFU (2018).  Principles for the Quality Assessment of Rockfall Protection Kits and
+                their Foundations – Practice Manual.  Federal Office for the Environment (BAFU),
+              Switzerland, 42 p.
+
+3.2         BSI (2008).   Steel wire ropes – Safety – Part 2:  Definitions, designation and
+                classification (BS EN 12385-2:2002+A1:2008). The British Standards Institution, U.K.,
+            53 p.
+
+3.3         BSI (2009). Steel wire and wire products – Non-ferrous metallic coatings on steel wire
+            – Part 2: Zinc or zine alloy coatings (BS EN 10244-2:2009).  The British Standards
+                 Institution, U.K., 18 p.
+
+3.4         BSI (2011). Geotechnical investigation and testing – Field testing – Part 3: Standard
+              penetration test (BS EN ISO 22476-3:2005+A1:2011). The British Standards Institution,
+              U.K., 14 p.
+
+3.5         BSI (2018).  Code of Practice for Grouted Anchors (BS 8081:2015+A2:2018). The
+                British Standards Institution, U.K., 116 p.
+
+3.6       GEO (2023). Guide to Soil Nail Design and Construction (Geoguide 7). Continuously
+            Updated E-version released on 21 November 2023. Geotechnical Engineering Office,
+           Hong Kong, 90 p.
+
+3.7       GEO (2019). Detailing of Flexible Debris-resisting Barriers (GEO Technical Guidance
+             Note No. 48). Geotechnical Engineering Office, Hong Kong, 9 p.
+
+3.8       GEO (2024a). Design of Flexible Debris-resisting Barriers using Force Approach (GEO
+              Technical Guidance Note No. 55). Geotechnical Engineering Office, Hong Kong, 6 p.
+
+
+===== PDF PAGE 2 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 57 (TGN 57)
+  Foundation Design of Flexible Debris-resisting Barriers
+
+
+    Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 2 of 13
+
+
+
+3.9       GEO (2024b).  Design of Flexible Debris-resisting Barriers using Force Approach
+          (GEO Technical Guidance Note No. 56). Geotechnical Engineering Office, Hong Kong,
+            4 p.
+
+3.10      HKSARG (2023).  General Specification for Civil Engineering Works (Continuously
+            Updated Version incorporating Amendments). Hong Kong S.A.R. Government.
+
+3.11        Kwan, J.S.H. & Cheung, R.W.M. (2012).  Suggestions on Design Approaches for
+               Flexible  Debris-resisting  Barriers  (Discussion  Note DN 1/2012).   Geotechnical
+              Engineering Office, Hong Kong, 90 p.
+
+3.12        Wong, E.K.L. (2024). Final Review of Foundation Design for Flexible Debris-resisting
+              Barriers (Technical Note No. TN 3/2024). Geotechnical Engineering Office, Hong Kong,
+            14 p.
+
+3.13        Wong, E.K.L. & Lam, H.W.K. (2020). Preliminary Review of Foundation Design for
+               Flexible Debris-resisting Barriers (Technical Note No. TN 4/2020).  Geotechnical
+              Engineering Office, Hong Kong, 57 p.
+
+3.14        Wong, E.K.L. & Lam, H.W.K. (2021). Supplementary Review of Foundation Design for
+               Flexible Debris-resisting Barriers (Technical Note No. TN 2/2021).   Geotechnical
+              Engineering Office, Hong Kong, 40 p.
+
+3.15        Wong, E.K.L., Sze, E.H.Y. & Chung, P.W.K. (2022).  Study of Energy Transfer and
+               Stress Wave Propagation during SPT using Energy Measurements, High Speed Camera
+            and Particle Image Velocimetry (Special Project Report No. SPR 2/2022). Geotechnical
+              Engineering Office, Hong Kong, 31 p.
+
+
+4.       BACKGROUND
+
+4.1          Guidance on the design of flexible debris-resisting barriers using the Force Approach
+             and Energy Approach is given in GEO TGN No. 55 (GEO, 2024a) and GEO TGN No. 56
+           (GEO, 2024b) respectively.
+
+4.2           Aspects of foundation design for flexible barriers were reviewed in Wong & Lam (2020),
+          Wong & Lam (2021) and Wong (2024), including failure mechanisms, design loads,
+              capacity of foundation elements, factors of safety and durability.
+
+4.3          Following  the  technical development work above  involving numerical  analyses,
+               landslide studies and back analyses of impact cases on flexible barriers, this TGN makes
+             recommendations on the foundation design of flexible debris-resisting barriers.
+
+
+===== PDF PAGE 3 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 57 (TGN 57)
+  Foundation Design of Flexible Debris-resisting Barriers
+
+
+    Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 3 of 13
+
+
+
+5.        TECHNICAL RECOMMENDATIONS
+
+5.1          Foundation Load
+
+5.1.1         For flexible barriers designed using the Force Approach, all feasible load cases should
+             be considered. The most critical combination of the impact velocity, debris geometry
+             and impact location should be used to derive the foundation loads.  Reasonable
+             assumptions as to the width and depth of the debris should be made with regard to
+               findings of the Natural Terrain Hazard Study and the Design Event concerned.
+
+5.1.2         For flexible barriers designed using the Energy Approach, it is in general conservative
+               to adopt design foundation loads based on the measured peak cable forces during
+                full-scale rockfall tests. (Wong & Lam, 2020). The manufacturer’s specifications on the
+              values of foundation loads on the basis of full-scale rockfall tests should in general be
+              followed.
+
+5.1.3          In the absence of foundation loads specified by the flexible barrier manufacturer, the
+              foundation loads for upslope anchors and side/lateral anchors should be taken as the
+              corresponding peak cable loads measured during full-scale rockfall tests.
+
+5.1.4        The foundation compressive load in post base anchors should be calculated from the total
+             measured peak forces in the cables acting at the post top, resolved in the direction of the
+             compressive anchors.
+
+5.1.5        The foundation shear load in post base anchors typically arises from the deflection of the
+             bottom cables upon debris impact. The shear load may be calculated from the maximum
+             measured peak forces in the bottom cables connected to the post base and the deflection
+              angles of the cable during a full-scale rockfall test at maximum elongation of the barrier
+               net (Figure 1).
+
+                   If the deflection angles are not known, a reasonable assumption may be made following
+         BAFU (2018) in which the post foundation shear force is taken as the measured bottom
+              cable force (S = Fb).
+
+
+===== PDF PAGE 4 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 57 (TGN 57)
+  Foundation Design of Flexible Debris-resisting Barriers
+
+
+    Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 4 of 13
+
+
+
+
+
+                                                        Post base plate
+
+                                                         Post
+
+                                                          S ≈ Fb (sin 1 + sin 2)
+
+                                  1                     2              Bottom cable
+                                       Shear force S
+              Measured bottom
+                 cable force Fb
+
+                             Edge panel     Impacted (central) panel
+
+
+              Figure 1.   Deflection angle of bottom cables at maximum net elongation during
+                             full-scale rockfall test
+
+5.1.6        The impact of debris on the posts of flexible barriers and the drag force exerted on the
+               posts as debris flows around the posts should be taken into account when deriving the
+              foundation loads. The forces may be calculated from Equation (1).
+
+                                 F = ½ Cd v2 A                                       (1)
+
+            where   F  =   force on post due to debris impact
+                     Cd  =   drag coefficient, taken as 2.0
+             =   mass density of debris, taken to be 2200 kg/m3 as a minimum
+                       v   =   debris velocity
+                 A  =   projected area of obstruction normal to flow
+
+5.1.7        The static pressure of debris that has stopped and deposited behind the barrier should be
+              considered when deriving the foundation loads. The static pressure may be determined
+              using a coefficient of lateral earth pressure of 1.0.
+
+5.1.8      A load factor of 1.0 is appropriate for foundation loads to be sustained by flexible
+                debris-resisting barriers.
+
+5.2          Design of Wire Rope Anchors
+
+5.2.1        The tensile capacity of wire ropes used in anchors should be calculated from Equation (2).
+
+                                              FRd = Fmin / 1.5                                       (2)
+
+            where     Fmin =  minimum breaking force of wire rope
+
+
+===== PDF PAGE 5 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 57 (TGN 57)
+  Foundation Design of Flexible Debris-resisting Barriers
+
+
+    Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 5 of 13
+
+
+
+            The minimum breaking force should be determined in accordance with BS EN 12385-2
+              (BSI, 2008) or from the manufacturer’s declared breaking force as supported by tensile
+                  tests.
+
+5.2.2        The ultimate bond strength between the grout sleeve and wire ropes may be taken as
+            2 MPa, with a minimum grout compressive strength 30 MPa. A factor of safety of 2.0
+              should be applied to derive the allowable pull-out resistance.
+
+5.2.3        The pull-out resistance provided by the bond between the grout sleeve and the ground
+           may be determined using the effective stress approach as recommended for soil nails in
+            Geoguide 7 (GEO, 2023).
+
+               Alternatively, designers may use well-established empirical methods to determine the
+              design pull-out resistance. Due consideration should be given to the similarity of ground
+               conditions and installation and grouting methods relevant to the empirical relationships
+              adopted. For example, BS 8081 (BSI, 2018) gives a correlation between the ultimate
+            bond strength between the grout sleeve and weathered granites with blow counts from
+               the standard penetration  test (SPT).   If such an empirical correlation  is used for
+              preliminary design of anchors, site specific SPT should be carried out to determine a
+            blow count which is representative of the ground condition along the length of the anchor.
+            The SPT blow count should be adjusted to a reference energy ratio of 60% following
+          BS EN ISO 22476-3 (BSI, 2011). Wong et al. (2022) documented the range of typical
+             energy efficiency of SPT equipment used in Hong Kong.
+
+           Bond resistance is not mobilised uniformly along the length of an anchor. The total pull-
+              out resistance does not increase linearly with anchor length. An appropriate efficiency
+                factor should be applied to the ultimate bond strength.
+
+            The maximum allowable pull-out resistance provided by the soil-grout bond should not
+             exceed the rock-grout bond strength of 0.35 MPa for partially weathered rock mass of
+        PW 90/100 or better rock zone as stated in Geoguide 7. For wire rope anchors socketed
+               into rock, the guidance in Geoguide 7 should be followed for the bond strength between
+              grout and the rock socket.
+
+        A factor of safety of 2.0 should be applied to derive the allowable pull-out resistance.
+
+            The bond length of an anchor should not be less than 3 m in soil or 2 m in rock.
+
+5.2.4          Pull-out tests should be performed to verify design assumptions about the bond strength
+             between the grout sleeve and the ground. The recommendations in Geoguide 7 should
+             be followed for the test set-up and procedure for pull-out tests, with the maximum test
+              load applied to be TDL2 (i.e. the allowable pull-out resistance of the anchor times the
+                factor of safety against pull-out failure at soil-grout interface). The anchors tested shall
+              not be used as working anchors.
+
+            The grouted section of a tension anchor prepared for the pull-out test should be at least
+            2 m. The material and size of reinforcement, hole diameter and inclination, and the type
+
+
+===== PDF PAGE 6 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 57 (TGN 57)
+  Foundation Design of Flexible Debris-resisting Barriers
+
+
+    Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 6 of 13
+
+
+
+              of grout of the test anchor shall be the same as that of the working anchor. The top of
+               the grouted section shall be at least 5m into the ground along the direction of the drilled
+               hole. The test section chosen shall be representative of the average ground conditions.
+
+            The number of pull-out tests to be carried out shall be 5% of the number of working
+               tension anchors but not less than 2 for each entire continuous stretch of flexible barrier.
+            The tests shall be carried out at locations representative of the ground conditions of the
+                stretch of barrier.
+
+           Where an empirical correlation between bond strength and SPT is adopted, pull-out tests
+              should be carried out at depths corresponding to the SPT blow count used for deriving
+               the bond strength.
+
+5.2.5        Wire rope anchors should be provided with Class A zinc coating in accordance with
+          BS EN 10244-2 (BSI, 2009). The diameter of individual wires in a wire rope anchor
+              should not be less than 2.8 mm.
+
+5.2.6            If the soil at a site is “potentially aggressive” as defined in Geoguide 7, a detailed soil
+               aggressivity  assessment  should be  carried  out  in  accordance  with Geoguide 7.
+             Corrugated plastic sheathing in accordance with the General Specification for Civil
+              Engineering Works (HKSARG, 2023) should be provided if the site is classified as
+              “aggressive” or “highly aggressive”.
+
+5.3          Design of Bar Anchors
+
+5.3.1        Where steel reinforcing bars are used as foundation anchors for flexible barrier structures,
+               the recommendations in Geoguide 7 should be followed to determine the tensile capacity
+             and bond strength between the anchor and the grout sleeve.
+
+5.3.2         Paragraphs 5.2.3 and 5.2.4 apply to bar anchors in tension.
+
+5.3.3         For bar anchors in compression, the buckling capacity of the anchor should also be
+              checked.
+
+5.3.4         Proof-load test for working anchors taking tension or compressive load is not required.
+
+5.3.5        The guidelines on the provision of corrosion protection measures for soil nails in
+            Geoguide 7 should be followed for bar anchors.
+
+5.4          Design of Flexible Anchor Head
+
+5.4.1          Flexible anchor heads typically consist of a wire rope bent to create an eye loop. In a
+              double-leg wire rope anchor, the wire rope bends around a thimble and/or a U-shaped
+                steel tube and both legs, which are typically of equal length, are inserted into a drillhole.
+               In a single-leg wire rope anchor, the eye loop is typically held in place by wire rope clips
+              (U-bolt grips) or ferrules and the wire rope terminates a short distance from the ferrule
+              or final wire rope clip. The capacity of a flexible anchor head should be determined from
+
+
+===== PDF PAGE 7 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 57 (TGN 57)
+  Foundation Design of Flexible Debris-resisting Barriers
+
+
+    Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 7 of 13
+
+
+
+               the capacity of the eye loop as a whole instead of the breaking load of the constituent
+              wire rope alone.
+
+5.4.2        The allowable tension resistance FRd of a single-leg wire rope anchor head should be
+               calculated from Equation (3)
+
+                                             FRd = Fmin ke / 1.5                                      (3)
+
+            where     Fmin =  minimum breaking force of wire rope
+                            ke  =    loss  factor,  taken  as  0.9  for  eye  loop  constructed  from
+                                   ferrule-secured eye or 0.8 for wire rope clips
+
+5.4.3         Double-leg wire rope anchor heads are typically proprietary products, with breaking
+              loads specified by manufacturers. The breaking load increases with the diameter of the
+              loading pin (Figure 2) used for testing the wire rope anchor (Wong & Lam, 2021).
+
+
+                                                         Loading pins
+
+
+
+
+
+                                                         Wire rope anchors
+
+
+
+
+              Figure 2.   Loading pins used in tensile tests for double-leg wire rope anchors
+
+               In the field, loading is normally applied to anchors through shackles or by connecting
+               superstructure wire rope cables to the anchor eye loop directly (Figure 3). The loading
+              condition in tensile tests for establishing the breaking load of wire rope anchors should
+             be consistent with the loading condition in the field.  The diameter of loading pins
+               therefore should not normally be greater than 50 mm, unless otherwise justified by the
+               actual loading condition in the field. Shackles of bow diameter less than 50 mm may
+               also be used for transferring tensile load to a wire rope anchor during testing (Wong &
+            Lam, 2021). The allowable tension resistance FRd of a double-leg wire rope anchor head
+              should be calculated from Equation (4)
+
+                                             FRd = Fmin,50 / 1.5                                      (4)
+
+
+===== PDF PAGE 8 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 57 (TGN 57)
+  Foundation Design of Flexible Debris-resisting Barriers
+
+
+    Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 8 of 13
+
+
+
+            where  Fmin,50 =  minimum breaking force of wire rope anchor head with loading pin
+                                diameter < 50 mm
+
+               Alternatively, the breaking load achieved using a loading pin with diameter greater than
+            50 mm may be multiplied by 0.75 to give the value of Fmin,50 for use in Equation (4).
+
+
+
+
+
+                  Loading applied through shackle        Loading applied through wire rope
+
+
+              Figure 3.   Field loading conditions
+
+5.4.4        The axis of wire rope anchors should be aligned with the resultant cable load direction
+              as far as practicable in order to minimise any unbalanced lateral force (Wong & Lam,
+              2021).
+
+5.4.5        At the anchorages for bottom longitudinal cables in a flexible barrier, it is typically not
+                feasible to align the resultant cable load with the axis of the anchor.  Given that the
+             bottom cables are critical to the integrity of a flexible barrier system with limited
+              redundancy, thrust blocks should be provided at the anchorages of bottom cables for
+              post-supported flexible barriers. The design chart provided in Annex TGN 57 A1 may
+             be used for the range of geometry and cable force specified.  Alternatively, suitable
+              engineering principles may be followed to design the thrust blocks. Where a pseudo-
+                 static analysis is adopted, the minimum factor of safety against bearing failure of a thrust
+              block may be taken as 1.1.
+
+5.5          Design of Rigid Anchor Head
+
+5.5.1         Rigid anchor heads are typically used in conjunction with bar anchors. The capacity of
+                  all individual components of a rigid anchor head shall be checked in accordance with
+               relevant structural design codes and guidelines.  For steel components embedded in
+               reinforced concrete, adequate anchorage lengths should be provided.
+
+
+===== PDF PAGE 9 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 57 (TGN 57)
+  Foundation Design of Flexible Debris-resisting Barriers
+
+
+    Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 9 of 13
+
+
+
+5.5.2          In the absence of detailed design or tensile tests, a single 40 mm diameter high yield steel
+               reinforcing bar bent into a U-shaped connector with a leg spacing of 500 mm embedded
+               in a reinforced concrete block may be assumed to have an allowable capacity of 550 kN
+                    if the cable forces are applied within ±30° from the anchor axis and are inclined upwards
+            by not greater than 45° (Figure 4).
+
+
+               Reinforced concrete block (to be designed)
+                                       Grade 500B, 40 mm reinforcing bar
+
+                                           Applied cable force
+                                   < 30°                             < 45°
+               500 mm
+
+
+
+
+              Anchorage length (to be designed)
+
+                                         Anchors (to be designed)
+
+                                Plan                                Section
+
+
+              Figure 4.   Prescriptive rigid anchor head
+
+
+6.       ANNEX
+
+6.1       TGN 57 A1 – Design chart for thrust block
+
+
+
+
+
+                                                                            ( Raymond W M Cheung )
+                                                 Head, Geotechnical Engineering Office
+
+
+===== PDF PAGE 10 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+The Government of the Hong Kong Special Administrative Region
+
+GEO Technical Guidance Note No. 57 (TGN 57)
+Foundation Design of Flexible Debris-resisting Barriers
+
+
+Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 10 of 13
+
+
+
+
+
+                                A
+
+                                        Cable
+
+
+                                                0.7 w
+                                EQ                             Thrust
+                        w                              block
+                                EQ
+
+                                 Anchor
+
+
+                                A
+
+
+
+                                        Plan
+
+
+
+
+
+                P   Cable       Thrust
+                                                            Terrain                                          block
+                           θ2                                gradient β
+
+                                  0.7 w
+
+                                              Anchor                            w
+                                                          θ1
+
+
+
+
+
+                                       Section A-A
+
+
+
+                                  See Sheets 2/4 to 4/4 for minimum values of w
+
+
+
+
+
+                                         ANNEX TGN 57 A1 (1/4)
+
+
+===== PDF PAGE 11 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+ The Government of the Hong Kong Special Administrative Region
+
+GEO Technical Guidance Note No. 57 (TGN 57)
+ Foundation Design of Flexible Debris-resisting Barriers
+
+
+ Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 11 of 13
+
+
+
+
+
+     = 0°, P < 150 kN           = 0°, P < 200 kN
+
+                       1                                       1
+          10°    20°    30°    40°              10°    20°    30°    40°
+
+    0°    0.35    0.45    0.60    0.85         0°    0.35    0.50    0.70    0.95
+
+2  10°           0.35    0.55    0.80    2  10°           0.40    0.60    0.90
+
+    20°                   0.45    0.70        20°                   0.50    0.75
+
+     = 0°, P < 250 kN           = 0°, P < 300 kN
+
+                       1                                       1
+          10°    20°    30°    40°              10°    20°    30°    40°
+
+    0°    0.40    0.55    0.75    1.05         0°    0.40    0.60    0.80    1.10
+
+2  10°           0.45    0.65    0.95    2  10°           0.45    0.70    1.00
+
+    20°                   0.50    0.85        20°                   0.55    0.90
+             
+     < 10°, P < 150 kN           < 10°, P < 200 kN
+
+                       1                                       1
+          10°    20°    30°    40°              10°    20°    30°    40°
+
+    0°    0.40    0.55    0.70    0.95         0°    0.40    0.60    0.80    1.05
+
+2  10°           0.40    0.60    0.85    2  10°           0.45    0.70    0.95
+
+    20°                   0.50    0.75        20°                   0.55    0.85
+
+
+
+
+
+                                         ANNEX TGN 57 A1 (2/4)
+
+
+===== PDF PAGE 12 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+ The Government of the Hong Kong Special Administrative Region
+
+GEO Technical Guidance Note No. 57 (TGN 57)
+ Foundation Design of Flexible Debris-resisting Barriers
+
+
+ Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 12 of 13
+
+
+
+
+
+     < 10°, P < 250 kN           < 10°, P < 300 kN
+
+                       1                                       1
+          10°    20°    30°    40°              10°    20°    30°    40°
+
+    0°    0.45    0.65    0.85    1.15         0°    0.50    0.70    0.90    1.25
+
+2  10°           0.50    0.75    1.05    2  10°           0.55    0.80    1.10
+
+    20°                   0.60    0.90        20°                   0.60    0.95
+
+     < 20°, P < 150 kN           < 20°, P < 200 kN
+
+                       1                                       1
+          10°    20°    30°    40°              10°    20°    30°    40°
+
+    0°    0.45    0.65    0.80    1.05         0°    0.40    0.55    0.70    0.90
+
+2  10°           0.50    0.70    0.95    2  10°           0.45    0.60    0.85
+
+    20°                   0.55    0.85        20°                   0.50    0.70
+
+     < 20°, P < 250 kN           < 20°, P < 300 kN
+
+                       1                                       1
+          10°    20°    30°    40°              10°    20°    30°    40°
+
+    0°    0.55    0.75    1.00    1.30         0°    0.55    0.80    1.05    1.40
+
+2  10°           0.60    0.85    1.20    2  10°           0.65    0.90    1.25
+
+    20°                   0.65    1.00        20°                   0.70    1.10
+
+
+
+
+
+                                         ANNEX TGN 57 A1 (3/4)
+
+
+===== PDF PAGE 13 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+ The Government of the Hong Kong Special Administrative Region
+
+GEO Technical Guidance Note No. 57 (TGN 57)
+ Foundation Design of Flexible Debris-resisting Barriers
+
+
+ Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 13 of 13
+
+
+
+
+
+     = 30°, P < 150 kN           = 30°, P < 200 kN
+
+                       1                                       1
+          10°    20°    30°    40°              10°    20°    30°    40°
+
+    0°    0.60    0.80    1.05    1.30         0°    0.65    0.90    1.15    1.45
+
+2  10°           0.65    0.90    1.15    2  10°           0.70    1.00    1.30
+
+    20°                   0.70    1.00        20°                   0.80    1.15
+
+     = 30°, P < 250 kN           = 30°, P < 300 kN
+
+                       1                                       1
+          10°    20°    30°    40°              10°    20°    30°    40°
+
+    0°    0.70    1.00    1.25    1.60         0°    0.75    1.05    1.35    1.70
+
+2  10°           0.75    1.10    1.45    2  10°           0.80    1.15    1.55
+
+    20°                   0.85    1.25        20°                   0.90    1.35
+
+
+
+
+
+                 Thrust block width (m)         Reinforcement
+
+                w < 0.4          3B12 U-bars both ways
+
+                       0.4 < w < 0.7        3B16 U-bars both ways
+
+                        0.7 < w < 1         4B16 U-bars both ways
+
+                    1 < w < 1.3         6B16 U-bars both ways
+                     Note: B denotes Grade 500B ribbed reinforcement.
+
+
+
+
+
+                                         ANNEX TGN 57 A1 (4/4)

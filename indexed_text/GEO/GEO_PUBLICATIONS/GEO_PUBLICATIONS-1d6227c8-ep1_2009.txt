@@ -1,0 +1,3453 @@
+
+
+===== PDF PAGE 1 =====
+GEO PUBLICATION No. 1/2009
+
+   PRESCRIPTIVE MEASURES
+   FOR MAN-MADE SLOPES
+   AND RETAINING WALLS
+
+
+
+
+
+GEOTECHNICAL ENGINEERING OFFICE
+Civil Engineering and Development Department
+The Government of the Hong Kong
+Special Administrative Region
+
+
+===== PDF PAGE 2 =====
+GEO PUBLICATION No. 1/2009
+
+
+
+
+   PRESCRIPTIVE MEASURES
+   FOR MAN-MADE SLOPES
+   AND RETAINING WALLS
+
+
+
+
+
+GEOTECHNICAL ENGINEERING OFFICE
+Civil Engineering and Development Department
+The Government of the Hong Kong
+Special Administrative Region
+
+
+===== PDF PAGE 3 =====
+2
+
+
+© The Government of the Hong Kong Special Administrative Region
+
+First published, August 2009
+
+
+
+Prepared by :
+
+Geotechnical Engineering Office,
+Civil Engineering and Development Department,
+Civil Engineering and Development Building,
+101 Princess Margaret Road,
+Homantin, Kowloon,
+Hong Kong.
+
+
+Captions of Figures on the Front Cover
+
+Top Left :      Soil Cut Slope at Princess Margaret Road, Homantin
+
+Top Right :     Soil and Rock Cut Slope at Tin Hau Temple Road, North Point
+
+Bottom Left :   Skin Wall at Heung Chung, Sai Kung
+
+Bottom Right :  Soil Cut Slope at Wo Chung Street, Homantin
+
+
+===== PDF PAGE 4 =====
+3
+
+                  FOREWORD
+
+
+       This Publication presents a recommended standard of good practice for the application
+of prescriptive measures as improvement works on existing man-made slopes and retaining
+walls in Hong Kong.  The scope of application covers a range of prescriptive measures items
+in the form of preventive maintenance works, upgrading works or repair works to landslides.
+
+       Various types of prescriptive measures have been developed for soil/rock cut slopes,
+fill slopes and masonry/concrete retaining walls.  The findings and recommendations of the
+studies on the formulation of the prescriptive measures framework are given in a series of
+technical reports and guidance documents published by the Geotechnical Engineering Office
+from 1995 to 2007.  This Publication integrates and rationalises the recommendations and
+provides a comprehensive guidance document on the application of prescriptive measures to
+existing man-made slopes and retaining walls.
+
+       This document was prepared by a team consisting of Dr Raymond W.M. Cheung,
+Ms Becky L.S. Lui and Mr Lawrence K.W. Shum, under the supervision  initially of
+Mr W.K. Pun and later Mr Ken K.S. Ho.
+
+      Copies of a draft version of this document were circulated to local professional bodies,
+consulting engineers, academics and Government departments.  Many individuals and
+organisations made useful comments, which have been taken into account in finalising this
+Publication.  All contributions are gratefully acknowledged.
+
+        Practitioners are encouraged to provide comments to the Geotechnical Engineering
+Office at any time on the contents of this Publication, so that further improvements can be
+made in future editions.
+
+
+
+
+
+                                                        R.K.S. Chan
+                                           Head, Geotechnical Engineering Office
+                                                     August 2009
+
+
+===== PDF PAGE 5 =====
+4
+
+                    CONTENTS
+
+                                                                          Page
+                                                                         No.
+
+TITLE PAGE                                                            1
+
+FOREWORD                                                            3
+
+CONTENTS                                                             4
+
+LIST OF TABLES                                                       7
+
+
+LIST OF FIGURES                                                      9
+
+1.  INTRODUCTION                                                    11
+
+      1.1   PURPOSE AND SCOPE                                           11
+
+2.  APPLICATIONS                                                   12
+
+      2.1  GENERAL                                                     12
+
+      2.2  DEVELOPMENT OF PRESCRIPTIVE MEASURES                   12
+
+      2.3  AREAS OF APPLICATION                                       14
+
+      2.4   MERITS AND LIMITATIONS OF PRESCRIPTIVE MEASURES        14
+
+      2.5   TYPES OF PRESCRIPTIVE MEASURES                           15
+
+      2.6   SELECTION OF PRESCRIPTIVE MEASURES                       16
+
+      2.7  RECOMMENDED PROCEDURES FOR APPLICATION               18
+
+      2.8   QUALIFICATION REQUIREMENTS OF PERSONNEL               20
+
+      2.9   STATUS OF SLOPE FEATURES IMPROVED BY                    23
+         PRESCRIPTIVE MEASURES
+
+
+===== PDF PAGE 6 =====
+5
+
+                                                                          Page
+                                                                         No.
+
+3.  TYPE 1 PRESCRIPTIVE MEASURES                              24
+
+      3.1  GENERAL                                                     24
+
+      3.2   TYPE 1 PRESCRIPTIVE MEASURES                              24
+             3.2.1   Surface Protection                                        24
+             3.2.2   Surface Drainage                                         27
+             3.2.3   Local Stability                                           29
+
+4.  TYPE 2 PRESCRIPTIVE MEASURES                              31
+
+      4.1  GENERAL                                                     31
+
+      4.2   TYPE 2 PRESCRIPTIVE MEASURES                              31
+             4.2.1   Subsurface Drainage                                       31
+
+
+5.  TYPE 3 PRESCRIPTIVE MEASURES                              41
+
+      5.1  GENERAL                                                     41
+
+      5.2   PRESCRIPTIVE SOIL NAILS FOR SOIL CUT SLOPES               41
+             5.2.1   Qualifying Criteria                                        41
+             5.2.2   Soil Nail Layout                                          43
+             5.2.3   Soil Nail Head and Facing                                  46
+             5.2.4   Corrosion Protection                                       47
+
+      5.3   PRESCRIPTIVE SOIL NAILS FOR SOIL CUT SLOPES WITH          48
+        TOE WALLS
+             5.3.1   Qualifying Criteria                                        48
+             5.3.2   Soil Nail Layout                                          52
+             5.3.3   Soil Nail Head and Facing                                  54
+             5.3.4   Corrosion Protection                                       54
+
+      5.4   PRESCRIPTIVE SOIL NAILS FOR CONCRETE OR MASONRY        54
+         RETAINING WALLS
+             5.4.1   Qualifying Criteria                                        54
+             5.4.2   Soil Nail Layout                                          57
+             5.4.3   Soil Nail Head and Facing                                  60
+             5.4.4   Corrosion Protection                                       62
+
+      5.5   PRESCRIPTIVE SKIN WALLS FOR MASONRY RETAINING          62
+        WALLS
+             5.5.1   Qualifying Criteria                                        62
+
+
+===== PDF PAGE 7 =====
+6
+
+                                                                          Page
+                                                                         No.
+
+             5.5.2   Skin Wall Design                                         63
+
+      5.6   PRESCRIPTIVE CONCRETE BUTTRESSES FOR ROCK CUT         64
+         SLOPES
+
+      5.7   PRESCRIPTIVE ROCK DOWELS FOR ROCK CUT SLOPES           64
+             5.7.1   Collection and Assessment of Discontinuity Data                64
+             5.7.2   Prescriptive Rock Dowels                                  65
+
+6.  OTHER CONSIDERATIONS                                       67
+
+      6.1  GENERAL                                                     67
+
+      6.2   SLOPE APPEARANCE AND LANDSCAPING                       67
+
+      6.3   TREE PRESERVATION                                         67
+
+      6.4   BUILDABILITY                                                68
+
+      6.5  WORKS IN THE VICINITY OF SENSITIVE STRUCTURES           68
+
+      6.6  CONSTRUCTION SUPERVISION AND CONTROL                  68
+
+      6.7  CONSTRUCTION REVIEW                                      68
+
+      6.8  MAINTENANCE                                               69
+
+REFERENCES                                                          70
+
+GLOSSARY OF SYMBOLS                                             74
+
+
+===== PDF PAGE 8 =====
+7
+
+                     LIST OF TABLES
+
+
+Table                                                                     Page
+ No.                                                                     No.
+
+ 2.1        Common Applications of Different Types of Prescriptive             16
+               Measures
+
+ 3.1            Items of Type 1 Prescriptive Measures                           24
+
+ 3.2             Prescriptive Use of Vegetation Cover for Soil Slopes                25
+
+ 4.1            Items of Type 2 Prescriptive Measures                           31
+
+ 5.1            Items of Type 3 Prescriptive Measures                           41
+
+ 5.2            Qualifying Criteria for Application of Prescriptive Soil              42
+                 Nails to Soil Cut Slopes
+
+ 5.3              Stability Enhancement for Application of Prescriptive Soil           44
+                 Nails to Soil Cut Slopes
+
+ 5.4            Standard Prescriptive Soil Nail Layouts for Soil Cut                45
+                Slopes
+
+ 5.5            Sizing of Prescriptive Soil Nail Heads                            47
+
+ 5.6            Additional Qualifying Criteria for Application of                   48
+                  Prescriptive Soil Nails to Soil Cut Slopes with Toe Walls
+                 as Upgrading Works
+
+ 5.7             Classification of Condition of Masonry Retaining Walls             49
+
+ 5.8            Guidelines for Evaluation of the State of Masonry                  49
+                Retaining Wall Deformation
+
+ 5.9            Qualifying Criteria for Application of Prescriptive Soil              54
+                 Nails to Concrete or Masonry Retaining Walls as
+               Upgrading Works
+
+ 5.10           Standard Prescriptive Soil Nail Layouts for Concrete or              59
+              Masonry Retaining Walls
+
+ 5.11            Qualifying Criteria for Application of Prescriptive Skin              62
+               Walls to Masonry Retaining Walls as Upgrading Works
+
+
+===== PDF PAGE 9 =====
+8
+
+Table                                                                     Page
+ No.                                                                     No.
+
+ 5.12            Qualifying Criteria for Application of Prescriptive Rock             66
+              Dowels to Rock Cut Slopes as Upgrading Works
+
+
+===== PDF PAGE 10 =====
+9
+
+                     LIST OF FIGURES
+
+
+Figure                                                                    Page
+ No.                                                                     No.
+
+ 2.1           Schematic Diagram of Typical Prescriptive Measures for             17
+             Man-made Slope Features
+
+ 2.2           Record Sheets for Prescriptive Measures on Man-made              21
+                Slope Features
+
+ 3.1             Alternative Flat Drainage Channel Details to Minimise              28
+                Excavation in Rock
+
+ 3.2            No-fines Concrete Backfill to Local Areas                        30
+
+ 4.1           Raking Drains at Upper Part of Slope                            32
+
+ 4.2           Raking Drains at Lower Part of Slope                            33
+
+ 4.3           Toe Drain                                                  35
+
+ 4.4            Counterfort Drains at Upper Part of Slope                         36
+
+ 4.5            Drainage for Hard Surface Cover (with No-fines                   37
+                Concrete Toe)
+
+ 4.6            Drainage for Hard Surface Cover (with Relief Drains)               38
+
+ 4.7            No-fines Concrete Cover                                      40
+
+ 5.1             Prescriptive Soil Nails on a Soil Cut Slope                        46
+
+ 5.2           Types of Concrete Retaining Walls covered by the Scope             48
+                 of Application of Prescriptive Soil Nails
+
+ 5.3            Simplified Geometry of a Slope Feature Incorporating a             50
+                  Soil Cut and a Mass Concrete or Masonry Retaining Wall
+                    at Toe
+
+ 5.4            Simplified Geometry of a Slope Feature Incorporating a             51
+                  Soil Cut and a Reinforced Concrete Retaining Wall at Toe
+
+ 5.5             Prescriptive Soil Nails on a Soil Cut Slope with Toe Wall            53
+
+ 5.6            Simplified Geometry of a Mass Concrete or Masonry               55
+                Retaining Wall Feature
+
+
+===== PDF PAGE 11 =====
+10
+
+Figure                                                                    Page
+ No.                                                                     No.
+
+ 5.7            Simplified Geometry of a Reinforced Concrete Retaining            56
+               Wall Feature
+
+ 5.8         Minimum Required Thickness of Concrete or Masonry              58
+                Retaining Walls where No Type 3 Prescriptive Measures
+                  are Needed
+
+ 5.9             Prescriptive Soil Nails on a Retaining Wall                        60
+
+ 5.10             Prescriptive Skin Walls to Masonry Retaining Walls                 63
+
+ 5.11             Prescriptive Rock Dowels on Rock Cut Slopes                     66
+
+
+===== PDF PAGE 12 =====
+11
+
+                              1. INTRODUCTION
+
+1.1  PURPOSE AND SCOPE
+
+     The purpose of this document is to give guidance on the application of prescriptive
+measures to existing man-made slope features,  i.e. man-made cut slopes,  fill slopes and
+retaining walls, in Hong Kong.  The document is aimed at professionally qualified engineers,
+who are conversant with the relevant geotechnical engineering principles.
+
+       Prescriptive  measures  comprise  pre-determined,  experience-based  and  suitably
+conservative modules of works prescribed to man-made slope features to improve stability, or
+reduce the risk of failure, without the need for detailed ground investigations and design
+analyses.  The guidelines set out in this document cover the application of prescriptive
+measures to existing man-made slope features including soil cut slopes, soil cut slopes with
+toe walls, rock slopes, concrete retaining walls, masonry retaining walls and fill slopes.  This
+document does not cover the use of standardised debris-resisting barriers for natural terrain
+landslide risk mitigation (e.g. Sun & Lam, 2006).
+
+      General guidance on the application of prescriptive measures, together with the merits
+and limitations of  their use,  is outlined in Chapter  2.  The required qualifications of
+personnel responsible for the design of prescriptive measures are also given in this chapter.
+
+      Chapters 3, 4 and 5 provide specific guidance on the application of different types of
+prescriptive measures.
+
+      Guidance on other  pertinent considerations  in respect of the application of the
+prescriptive design framework is given in Chapter 6.
+
+
+===== PDF PAGE 13 =====
+12
+
+                               2. APPLICATIONS
+
+2.1  GENERAL
+
+      This Chapter provides general guidance on the application of prescriptive measures to
+man-made slope features in Hong Kong.  The merits and limitations of the prescriptive
+approach, as well as the qualification requirements of the responsible personnel, are also
+outlined.  Specific guidance on the application of different types of prescriptive measures is
+given in Chapters 3, 4 and 5.
+
+
+2.2  DEVELOPMENT OF PRESCRIPTIVE MEASURES
+
+     Many of the engineered man-made slopes in Hong Kong were designed using the
+conventional analytical approach based on detailed ground investigations and design analyses.
+However, the annual failure rate of engineered slopes, in particular those without robust
+engineering measures such as unsupported soil cuts (e.g. slope cut back with no structural
+support), is not low (Ho et al, 2003).  Systematic landslide investigations carried out by the
+Geotechnical Engineering Office (GEO) revealed that failures in engineered slopes were
+mainly associated with problems including uncontrolled surface runoff and presence of
+adverse  geological  features  and/or adverse groundwater  conditions.   This  reflects  the
+inherent uncertainties and limitations of the conventional analytical approach, which include
+inadequate engineering geological input during ground investigation, poor detailing in slope
+drainage provisions, etc.
+
+     As an alternative to the conventional analytical approach, the prescriptive approach
+provides  an  experience-based  method  for  the  design  of  slope  improvement  works.
+Prescriptive measures items are developed based on experience of their successful application
+in the past, which have been tested in the field and refined with time, with emphasis given to
+proper detailing having regard to the lessons learnt from landslide studies.   It should be
+acknowledged that many of the established slope improvement provisions, standard details,
+etc. are by nature prescriptive.
+
+     The use of prescriptive measures  is not a new concept in Hong Kong, as the
+prescriptive approach has long been adopted in some types of man-made slope works.
+These included rock slope stabilisation works (e.g. Brand et al, 1983; Dubin et al, 1986), and
+surface recompaction of loose fill slopes (e.g. GCO, 1984; Knill et al 1999).  The idea of
+developing prescriptive measures for general use in improvement works on man-made slopes
+in Hong Kong was first considered in the 1980s (Malone, 1985).  The use of prescriptive
+measures was formally recognised  for  retaining wall design  in the second  edition of
+Geoguide 1 : Guide to Retaining Wall Design (GEO, 1993).
+
+     The use of prescriptive measures had also been recognised as one of the approaches to
+geotechnical design in some overseas design codes.  For example, Eurocode 7 (BSI, 2004)
+allows the use of prescriptive measures in situations where calculation methods are not
+available or are not necessary.
+
+
+===== PDF PAGE 14 =====
+13
+
+       In 1995, the GEO embarked on the development of a prescriptive design framework
+and suitable prescriptive measures for use on man-made soil cut slopes.  The study was
+aimed at formulating a prescriptive design methodology and promoting good practice in the
+application of prescriptive measures to man-made soil cut slopes.  Different items of works
+were developed based on a study of local practice in slope improvement and upgrading works
+and case studies on conventional analytical design for the Government’s Landslip Preventive
+Measures (LPM) Programme.  In particular, 107 soil-nailed cut slopes designed analytically
+under the LPM Programme were reviewed to support the derivation of the prescriptive soil
+nail design approach for soil cut slopes.  After extensive consultation, the GEO disseminated
+in 1996 the findings and recommendations of the study in the first edition of GEO Report
+No. 56 : Application of Prescriptive Measures to Soil Cut Slopes (Wong & Pang, 1996).
+
+      With experience gained by practitioners and successful application of prescriptive
+measures, the GEO carried out a series of further studies in 1998 to improve the guidelines
+and extend the scope of application of prescriptive measures.  In these studies, another 197
+soil-nailed cut slopes designed  analytically under the LPM Programme and in private
+developments were reviewed.  Based on the findings, the scope of application of prescriptive
+measures as upgrading works to soil cut slopes was extended, and design guidelines were
+suitably revised (Pun et al, 2000).
+
+      Another study was initiated in 1999 to develop a prescriptive approach involving the
+use of reinforced concrete skin walls for upgrading existing masonry retaining walls.  The
+prescriptive approach was formulated based on a review of past cases of skin wall design for
+upgrading existing masonry retaining walls (Wong & Pun, 1999).
+
+       In 1999, all the then prevailing guidelines on the application of prescriptive measures
+were consolidated in the second edition of GEO Report No. 56 : Application of Prescriptive
+Measures to Slopes and Retaining Walls (Wong et  al, 1999).  In response to the rising
+expectations of the public in respect of slope appearance, guidelines for prescriptive use of
+vegetation cover on soil cut slopes to improve slope appearance were also given in the Report.
+
+       In 2003, a study was carried out to review the use of prescriptive measures on rock cut
+slopes and the findings were documented in GEO Report No. 161 : Guidelines on the Use of
+Prescriptive Measures for Rock Cut Slopes (Yu  et  al, 2005).  The use of prescriptive
+approach in rock slope stabilisation works has been widely applied in local practice for many
+years.  The guidelines developed in 2003 were aimed at rationalising the design practice and
+providing detailed technical guidance on the use of different items of prescriptive measures on
+rock cut slopes.  In the course of developing the guidelines, more than 100 rock slopes
+upgraded under the LPM Programme were reviewed.
+
+      Another study was carried out in 2004 to extend the application of prescriptive soil
+nails to concrete retaining walls, masonry retaining walls and soil cut slopes with toe walls.
+Prescriptive soil nail design guidelines were derived based on the review and analysis of some
+past cases in which soil nails designed by conventional analytical approach were used to
+upgrade concrete retaining walls, masonry retaining walls and soil cut slopes with toe walls.
+The guidelines are given in GEO Report No. 165 : Prescriptive Soil Nail Design for Concrete
+and Masonry Retaining Walls (Lui & Shiu, 2005).
+
+
+===== PDF PAGE 15 =====
+14
+
+       In 2007, prescriptive measures involving surface protection, surface drainage and
+subsurface drainage were rationalised for use on  fill slopes and retaining walls, with due
+regard to the findings of systematic landslide studies undertaken by the GEO since 1997.
+
+
+2.3  AREAS OF APPLICATION
+
+       Prescriptive measures have basically been developed for use under two categories of
+slope improvement works, namely preventive maintenance works as defined in Geoguide 5 :
+Guide to Slope Maintenance (GEO, 2003) and upgrading works.  Some of the prescriptive
+measures can also be applied as repair works to landslides.
+
+     The application of prescriptive measures as upgrading works should generally be
+limited to slope features which have not experienced any major failure (i.e. with a volume of
+detached or displaced groundmass ≥ 50 m3, or where a fatality has occurred), or multiple
+minor failures (i.e. with a volume of detached or displaced groundmass < 50 m3).  Where
+there are major or multiple minor failures on the slope feature or at adjacent areas, the causes
+of the failures should first be established and understood.   Prescriptive measures may be
+applied to the slope feature as upgrading works only if it can be established that all qualifying
+criteria in geometry, engineering and geology, etc. are met (see Chapter 5 for details of the
+qualifying criteria).
+
+       Prescriptive measures may not be applicable for upgrading retaining walls with
+sizeable wall trees that are well anchored to the wall by their roots.  In this case, the dead
+weight of wall trees, together with the effect arising from wind loading on the wall trees, may
+adversely  affect  the  stability  of  the  retaining  wall.   Designers  should  exercise due
+engineering judgement in determining whether detailed analyses are warranted to evaluate the
+effects of wall trees, taking into account the degree of anchorage of the tree roots.
+
+         If a slope feature that had been designed and checked to comply with the required
+geotechnical standards fails, then the prescriptive approach may not be applicable and the
+slope feature should be investigated to determine the necessary upgrading works.
+
+
+2.4  MERITS AND LIMITATIONS OF PRESCRIPTIVE MEASURES
+
+       Prescriptive measures provide an effective and efficient approach for prescribing
+improvement works  to  slope  features.   The  following  are  the  advantages  of  using
+prescriptive measures over conventional analytical approach:
+
+                (a) Technical benefits in enhancing safety and reducing the risk
+                  of failure, by incorporating simple, standardised and suit­
+                 ably conservative items of works to deal with uncertainties
+                   in design that are difficult to quantify, and using experience
+                 based knowledge to supplement analytical design.
+
+               (b) Savings  in  time and human  resources, by  eliminating
+                   detailed ground investigations and design analyses.  The
+                  savings can be significant, particularly in a safety screening
+
+
+===== PDF PAGE 16 =====
+15
+
+                and improvement works programme  in which  a  large
+               number of slopes have to be dealt with by limited available
+                     staff resources.
+
+      There are, however, some inherent limitations if the prescriptive measures are used
+alone.  These include the following:
+
+                (a) The items to be prescribed are at best limited to application
+                   to situations within the bounds of past experience.
+
+               (b) The approach may result in more failures than design by
+                   detailed ground investigation and analysis, particularly for
+                  slopes  affected by adverse  geological and groundwater
+                  conditions that are not anticipated at the design stage.
+
+      Provided that designers acknowledge and work within these limitations, prescriptive
+measures can be adopted as effective slope improvement works.  Guidance given in this
+document is aimed at minimising landslide risk associated with the above limitations.
+
+     The merits and limitations of the prescriptive measures listed above are not exhaustive.
+Designers should compare design options based on prescriptive approach and those based on
+conventional  analytical approach  in  option  assessments, and  exercise due  engineering
+judgement to select the best engineering solution for the problem at hand.
+
+
+2.5  TYPES OF PRESCRIPTIVE MEASURES
+
+       Prescriptive measures for slope features may broadly be classified into the following
+three types according to the design objectives:
+
+                (a) Type 1: surface protection, local trimming and drainage –
+                 This type of measures aims at improving surface protection,
+                  surface drainage and local stability.
+
+               (b) Type 2: subsurface drainage – This type of measures aims at
+                improving subsurface drainage and providing contingency
+                  subsurface drainage measures.
+
+                (c) Type 3: structural support – This type of measures aims at
+                  providing  support  to  improve  overall  feature  stability.
+                  Several items of works have been developed, including:
+
+                        (i)   soil nails for soil cut slopes,
+
+                         (ii)  soil nails for soil cut slopes with toe walls,
+
+                         (iii) soil nails for concrete or masonry retaining walls,
+
+                     (iv) skin walls for masonry retaining walls,
+
+
+===== PDF PAGE 17 =====
+16
+
+                    (v)  concrete buttresses for rock cut slopes, and
+
+                     (vi) rock dowels for rock cut slopes.
+
+     The three types of prescriptive measures may be applied in combination to different
+types of slope features. A schematic diagram depicting some typical prescriptive measures
+is shown in Figure 2.1.
+
+
+2.6  SELECTION OF PRESCRIPTIVE MEASURES
+
+       In selecting the appropriate types and items of prescriptive measures, designers should
+take due account of  the nature of  the slope-forming  materials,  geological  conditions,
+groundwater  conditions,  nature  and  locations  of  services,  surface  water  pathways,
+performance history of the slope, consequence in the event of failure, site constraints, together
+with  the  type and  level  of improvement  required.   Designers  should  also  exercise
+engineering judgement when prescribing the measures recommended in this document, or in
+applying other measures as deemed appropriate in order to suit the actual site conditions.
+
+     The common applications of different types of prescriptive measures to various types
+of slope features are summarised in Table 2.1.
+
+
+Table 2.1 Common Applications of Different Types of Prescriptive Measures
+
+                                        Types of Improvement Works
+ Types of Slope
+    Features                        Preventive                                           Repair Works                                           Upgrading Works(1)                  Maintenance Works                                              to Landslides
+
+                                              Type 3, generally Soil cut slopes(2)                                          supplemented by Types 1 and/or 2
+                                                                             Generally Types 1 and/or 2,
+                                                                            sometimes Type 3
+                 Generally Types 1 and/or 2,     Generally Types 1, 2 and 3 Rock cut slopes                    sometimes Type 3            used in combination
+
+                                              Type 3, generally Retaining walls                                          supplemented by Types 1 and/or 2
+                                                                              Generally Types 1 and/or 2
+
+    Fill slopes     Generally Types 1 and/or 2           See Note (3)
+
+Notes:      (1)  Slope features should satisfy the qualifying criteria given in Chapter 5 for the application of
+               Type 3 prescriptive measures as upgrading works.
+             (2)  Soil cut slopes include those slope features with toe walls.
+             (3)  Fill slopes can be upgraded by the prescriptive approach of surface recompaction and
+                 subsurface drainage provisions following the guidance given in the Geotechnical Manual for
+                Slopes (GCO, 1984), Works Bureau Technical Circular No. 13/99 (Works Bureau, 1999),
+           GEO Technical Guidance Note No. 7 (GEO, 2007a), GEO Report No. 225 (Fugro Scott
+               Wilson Joint Venture, 2008) and Pun & Urciuoli (2008).  Types 1 and/or 2 prescriptive
+                measures may also be used in conjunction with surface recompaction.
+
+
+===== PDF PAGE 18 =====
+17
+
+
+
+                                                                    Surface drainage channel
+                                                                (Type 1)
+
+
+
+
+
+                                         (a)  Soil Cut Slope or Fill Slope
+
+
+
+
+
+                                             (b) Rock Cut Slope
+
+
+Figure 2.1  Schematic Diagram of Typical Prescriptive Measures for Man-made Slope Features
+
+
+===== PDF PAGE 19 =====
+18
+
+      Types 1 and 2 prescriptive measures improve the surface protection and drainage
+condition of slope features.  In essence, these are preventive maintenance works which will
+help reduce the rate of slope deterioration.  As such, no qualifying criteria are needed.
+Given that the surface protection and drainage provisions on many old slopes are deficient or
+do not exist, designers should apply Types 1 and 2 prescriptive measures as preventive
+maintenance works to any types of existing slope features wherever practical.
+
+      Type 1 and/or 2 prescriptive measures can also be used as part of the repair works to
+landslides, in particular during the time shortly after landslide occurrence when the priority is
+to remove immediate danger in order to protect  life and property.  Although Type 3
+prescriptive measures are not commonly needed as emergency repair works to landslides,
+their use cannot be precluded in certain circumstances.  Considerations should be given to
+the  scale and mechanism  of  failure,  the consequence  of  further  landslides, and  the
+effectiveness of the prescriptive measures in respect of the recovery of the emergency
+situation, and each case should be treated on its own merits.
+
+     Some items of prescriptive measures need to be installed into the ground.  Designers
+will need to check the land status.  Should the proposed prescriptive measures need to be
+extended into the adjoining land, designers should seek the agreement of the land owner as
+necessary before implementation of the works.
+
+
+2.7  RECOMMENDED PROCEDURES FOR APPLICATION
+
+     The recommended procedures for application of prescriptive measures to man-made
+slope features are given in the following paragraphs:
+
+                (a) Undertake a thorough desk study and site reconnaissance in
+                 accordance with Geoguide 2  : Guide to Site Investigation
+              (GCO,  1987)  to  determine  whether  there  is  sufficient
+                  information on the ground and groundwater conditions to
+                      facilitate  the  checking  of  the  qualifying  criteria  for
+                   application of prescriptive measures.  For rock slopes, data
+               on discontinuities should be collected and assessed.   It is
+               recommended that for preventive maintenance works and
+                 upgrading works, an Engineer Inspection (EI) in accordance
+                 with Geoguide 5 : Guide to Slope Maintenance (GEO, 2003)
+                 should be carried out to identify areas requiring attention
+                   prior  to specifying the types and items of  prescriptive
+                 measures.
+
+               (b) Collect  relevant  information  to  construct a  preliminary
+                  geological model of the site as part of the desk study.   It
+                 should also include a review of the available records on
+                  previous landslides, services, surface water pathways, slope
+                maintenance  history,  stability  assessment  records  and
+                   existing  relevant  ground  investigation  data.   The  site
+                  inspection should always include checks to identify whether
+                any exposed or buried water-carrying services are present in
+
+
+===== PDF PAGE 20 =====
+19
+
+    the vicinity of the slope feature (ETWB, 2006a).   If such
+    services are present, checks should be carried out with the
+   owner to assess whether there have been any leakages from
+    the  services, and recommendations  to carry out regular
+    checks of the services should be made.
+
+(c) Determine the geometry of the slope feature.  For slope
+    features involving retaining walls, the wall thickness should
+    be determined by field measurements, such as topographic
+    survey and weephole probing.  Field measurement of wall
+    geometry should  still be carried out to verify the actual
+    geometry of the wall even where as-built drawings of the
+    wall showing the wall dimensions are available.  Where the
+    thickness of the wall is found to vary approximately linearly
+    with wall height, the wall thickness at about the mid-height
+    of the wall may be taken as the average wall thickness.
+    For walls found to have a stepped back face, the average
+    wall thickness may be taken as the weighted average of the
+    thicknesses of all steps taking into account the step heights.
+
+(d) Carry  out minor ground  investigation  if  the  available
+    information is insufficient for the checking of qualifying
+     criteria with confidence.  Simple investigation techniques
+    are often adequate, such as surface strippings on existing
+    hard surface cover to expose the slope material; trial pits at
+    wall toe to reveal the foundation and check the likelihood of
+    the presence of a high permanent groundwater level; trial
+     pits and GCO probing behind  the wall  to  assess wall
+    thickness, fill extent and the nature of the retained ground.
+    Engineering judgement needs to be exercised regarding the
+    likely transient  rise in groundwater level during  rainfall
+    based on the results of the desk study, site inspection and
+    ground investigation.
+
+(e) Review whether the slope feature satisfies the qualifying
+     criteria  for  application  of  prescriptive  measures  as
+    upgrading works (Chapter 5). A review of the qualifying
+     criteria is not required if the prescriptive measures are to be
+    used as preventive maintenance works.
+
+(f)  Identify potential problems that may affect the stability of
+    the slope feature based on the desk study, site inspection and
+    ground investigation.  For slope features with past failures,
+    designers should seek to establish the probable causes of the
+    failures prior to specifying prescriptive measures.
+
+(g) Determine  the design  objectives and  required items  of
+    prescriptive measures with reference to Chapters 3, 4 and 5.
+    Refer  to  the  typical  details  of  the  relevant  items  of
+
+
+===== PDF PAGE 21 =====
+20
+
+                   prescriptive measures and follow the necessary procedures
+                   in prescribing particular modules of works items.  Then
+                  specify the key dimensions for each of the items and the
+                   extent of application to the slope feature in order to suit the
+                   actual site conditions.
+
+               (h) Complete Part A of the “Record Sheets for Prescriptive
+                Measures  on  Man-made  Slope  Features”  (Sheet   1,
+                 Figure 2.2) in all cases of using prescriptive measures.
+
+                   (i)  Carry out construction reviews during various stages of
+                  construction (see Section 2.8 for qualification requirements
+                  of  personnel  and  Section  6.7  for  the  coverage  of
+                  construction reviews).
+
+                   (j) Confirm that the qualifying criteria for application of the
+                   prescriptive measures are met.  Review the suitability and
+                adequacy of the specified prescriptive measures based on
+                judgement and make suitable amendments as appropriate.
+
+               (k) Complete Part B of the “Record Sheets for Prescriptive
+                Measures  on  Man-made  Slope  Features”  (Sheet   2,
+                 Figure  2.2), giving  sufficient documentary evidence on
+                    verification that the slope feature satisfied the qualifying
+                      criteria.  Where prescriptive measures are to be used as
+                  preventive maintenance works, record the recommended
+                works in the “Record Sheets for Engineer Inspections for
+                Maintenance” (see Appendix F of Geoguide 5 (GEO, 2003))
+                  as well.
+
+
+2.8  QUALIFICATION REQUIREMENTS OF PERSONNEL
+
+       Prescriptive measures for slope features should be designed by a geotechnical engineer
+professionally qualified and experienced in Hong Kong (such as Registered Professional
+Engineer (Geotechnical)), as should the construction review.  The design should also be
+reviewed independently by a geotechnical engineer professionally qualified and experienced
+in Hong Kong.  Input by qualified and experienced geotechnical professionals in designing
+and reviewing prescriptive measures  is crucial, as substantial professional judgement  is
+required in the verification of the qualifying criteria (e.g. adverse geological features, etc.),
+selection of appropriate items of works and design review during the construction stage.  All
+of the above require geotechnical expertise and experience.  Assistance from an experienced
+engineering geologist should be sought by the responsible geotechnical professional on a need
+basis.
+
+       In designing prescriptive measures for rock slopes, an alternative to a professionally
+qualified geotechnical engineer is a professionally qualified engineering geologist (such as
+Chartered Geologist) with sufficient and relevant experience in rock slope stabilisation works
+in Hong Kong.
+
+
+===== PDF PAGE 22 =====
+21
+
+
+ Part A - Prescriptive Measures on Man-made Slope Features
+
+ Slope Feature Ref. No. _______________________  Location (Address) _____________________________
+ Slope Feature Geometry                           Qualifying Criteria
+  Slope feature height:                      (m)                  1. Within consequence and geometry limits                 Correct
+ Upslope gradient:                            (degrees)            2. Slope-forming material confirmed on site as acceptable    Correct
+  Slope part –  Slope height:               (m)                  3. No adverse geological conditions                        Correct
+               Slope gradient:                (degrees)            4. No adverse groundwater conditions                      Correct
+  Wall part  –  Wall height:                (m)
+ Consequence Category                          Records of Engineer Inspection
+  Facility Group affected:            1 / 2 / 3 / 4 / 5 *          Records of Engineer Inspection available:  Yes / No *
+  Consequence-to-life Category:       1 / 2 / 3 *                       If Yes, dates of inspection:
+ Economic Consequence Category:   A / B / C *          HKGS Geology Map Sheet No.:
+ Records of Landslides
+ Date of Landslide         Scar Height (m)      Failure Volume (m3)      Principal Causes of Failure          Incident No.
+
+  1.
+  2.
+  3.
+ Type of Improvement Works
+    Preventive maintenance works              Upgrading works                     Repair works to landslides
+ Types of Measures   Design Objectives          Prescriptive Measures Recommended
+     Type 1                Improve surface protection        1.1 Surface cover for soil slopes
+                                                                  1.2 Wire mesh/Face netting for rock slopes
+                                                                  1.3 Surface protection for retaining walls                           Improve surface drainage
+                                                                  1.4 Surface drainage channels
+                                                                  1.5 Local trimming/filling
+                           Improve local stability            1.6 Dentition
+     Type 2                Improve subsurface drainage      2.1 Raking drains
+                                                                  2.2 Toe drains
+                                                                  2.3 Counterfort drains                            Contingency subsurface
+                               drainage provisions               2.4 Relief drains
+                                                                  2.5 Drainage for hard surface cover
+                                                                  2.6 No-fines concrete cover
+     Type 3                 Provide structural support         3.1 Soil nails for soil cut slopes (Range of ΔFOS: I+ / I / II / III *)
+                                                                  3.2 Soil nails for soil cut slopes with toe walls
+                                                            (Range of ΔFOS: I+ / I / II / III *)
+                                                                  3.3 Soil nails for concrete or masonry retaining walls
+                                                                             (‘existing’ / ‘new’ * wall standard)
+                                                                  3.4 Skin walls for masonry retaining walls
+                                                                  3.5 Concrete buttresses for rock cut slopes
+                                                                  3.6 Rock dowels for rock cut slopes
+      Others (please specify)                                   Other measures (please specify)
+     ____________________________________________      ________________________________________________________
+ Attachments:
+     Site location plan                          Photographs                        Records of Engineer Inspections
+     Plan, sketches/drawings showing locations/layout/key dimensions of proposed prescriptive measures
+ Designed by:               Signature:               Reviewed by:              Signature:
+ Post:                      Date:                       Post:                      Date:
+  ‘*’Delete where appropriate
+
+Figure 2.2 Record Sheets for Prescriptive Measures on Man-made Slope Features (Sheet 1 of 2)
+
+
+===== PDF PAGE 23 =====
+22
+
+
+ Part B - Design Amendments and Site Inspection Records
+                                                          Designed           Reviewed                                                                           Signature             Signature    Design Amendments(1)       Reasons for Amendments    by (name            by (name                                                                        (+ date)              (+ date)                                   & post)        & post)
+
+
+
+
+
+ Post-construction Review recommended:        Yes      No
+  If Yes, give actions to be taken (e.g. site inspections after heavy rainstorms to check adequacy of surface or
+ subsurface drainage measures). _____________________________________________________________
+ _______________________________________________________________________________________
+ Notes:      (1)  Sketches/drawings showing the design amendments should be attached.
+               (2)  Sketches, notes and photographs which record the observations made during site inspections
+                    prior to and during construction of prescriptive measures, as well as documentary evidence
+                    to verify that the slope feature satisfied the qualifying criteria, should also be attached.
+                These should be marked clearly as ‘Site Inspection Records’.
+
+ Works commenced on  Works completed on  Works certified by (Name & Post)    Signature and Date
+ __________________  ________________   ____________________________   _________________
+
+Figure 2.2 Record Sheets for Prescriptive Measures on Man-made Slope Features (Sheet 2 of 2)
+
+
+===== PDF PAGE 24 =====
+23
+
+      For  preventive maintenance works  to  slope  features  that  involve only  surface
+protection  and  surface  drainage  prescriptive  measures,  the  prescriptive  design  and
+construction review may also be carried out by a professionally qualified civil engineer
+competent in site formation and drainage works.   It is preferable, and often more cost-
+effective, to have the same professional engineer who undertakes the Engineer Inspection of
+the  slope  feature  to  also design  the  prescriptive measures  as  part  of  the  preventive
+maintenance recommendations.
+
+      Regular reviews should be carried out during construction.  The professional engineer
+who undertakes the construction reviews should be familiar with all the information collected
+in the desk study and site reconnaissance, as well as the assumptions made in prescribing the
+measures.  The preferred arrangement is for the same professional engineer who designed
+the prescriptive measures items to carry out the construction reviews (see also Section 6.7).
+
+
+2.9  STATUS  OF  SLOPE  FEATURES  IMPROVED  BY  PRESCRIPTIVE
+    MEASURES
+
+     Where Type 3 prescriptive measures have been applied to a slope feature as upgrading
+works in accordance with the recommendations of this document, the slope feature can be
+taken to have been upgraded to the required safety standards.
+
+     Where prescriptive measures have been applied to a slope feature as preventive
+maintenance works, or repair works to landslides, in accordance with the recommendations of
+this document, the subject slope feature should not be taken to have been upgraded to the
+required safety standards.
+
+
+===== PDF PAGE 25 =====
+24
+
+                  3. TYPE 1 PRESCRIPTIVE MEASURES
+
+3.1  GENERAL
+
+      This Chapter provides specific guidance on the application of Type 1 prescriptive
+measures to slope features.  Type 1 prescriptive measures are aimed at improving surface
+protection, surface drainage and local  stability of slope  features.  Type 1 prescriptive
+measures will contribute to reduce the rate of deterioration of a slope feature and improve its
+stability, in particular the margin of safety against local and shallow failures.  The need for
+these prescriptive measures should be considered in all cases of man-made slope features.
+
+      Table 3.1 shows a summary of the Type 1 prescriptive measures items and the
+associated design objectives.  The application of the items should be specified by designers
+to best suit the slope feature type and actual site conditions.
+
+
+Table 3.1  Items of Type 1 Prescriptive Measures
+
+ Type of Measures       Design Objectives       Item No.                   Items
+
+                                                         1.1             Surface cover for soil slopes
+
+                    Improve surface protection        1.2       Wire mesh/Face netting for rock slopes
+
+                                                         1.3         Surface protection for retaining walls
+     Type 1
+                    Improve surface drainage        1.4              Surface drainage channels
+
+                                                         1.5               Local trimming/filling
+                      Improve local stability
+                                                         1.6                       Dentition
+
+
+3.2  TYPE 1 PRESCRIPTIVE MEASURES
+
+3.2.1  Surface Protection
+
+        (1)   Surface Cover for Soil Slopes. A slope surface cover is necessary to prevent
+undue surface infiltration and protect the soil slopes against erosion by surface runoff.
+Where the existing slope surface cover is deficient, a new one should be provided depending
+on the susceptibility of the slope to surface infiltration and erosion.
+
+    A vegetation cover may be used to provide surface protection to soil slopes.  Since
+the slope will be prone to surface erosion  if the vegetation is not well established, the
+provision of appropriate erosion control measures and suitable types of vegetation is essential
+to the proper performance of the vegetation cover.  Recommended measures  for the
+
+
+===== PDF PAGE 26 =====
+25
+
+prescriptive use of vegetation cover for  soil slopes of different gradients are given in
+Table 3.2.  Such measures are appropriate for both soil cut slopes and fill slopes, which have
+an inadequately developed vegetation cover or a defective chunam cover which no longer
+serves as a relatively impermeable cover effectively.
+
+
+Table 3.2  Prescriptive Use of Vegetation Cover for Soil Slopes
+
+       Slope Gradients            Erosion Control Measures         Types of Suitable Vegetation
+
+                                  Temporary degradable              Creepers, herbaceous plants,     Slope gradient ≤ 35°                                        erosion control mat(3)                  grass, shrubs and/or trees
+
+                                 Long-term non-degradable            Creepers, herbaceous plants,   35° < slope gradient ≤ 45°                                        erosion control mat(3)                  grass, shrubs and/or trees
+
+                                 Long-term non-degradable            Creepers, herbaceous plants,  45° < slope gradient ≤ 55°(2)                                 erosion control mat(3) and wire mesh            grass and/or shrubs
+
+Notes:       (1)  The measures given in this Table are based on known successful experience in Hong Kong.
+                Other measures as given in GEO Publication No. 1/2000 (GEO, 2000a) may be used where
+                considered appropriate.
+             (2)  For soil cut slopes steeper than 55°, designers may adopt similar suite of erosion control
+               measures as slopes with gradients between 45° and 55° but close monitoring of vegetation
+               growth and its performance on erosion control during maintenance is recommended.
+             (3)  Fixing details for erosion control mats should comply with the manufacturer’s instructions.
+
+
+      The prescriptive use of vegetation cover for soil slopes should be in conjunction with
+other suitable items of prescriptive measures as recommended in this document.  For the
+area below and adjacent to downslope drainage channels with convergent surface water flow,
+consideration  should be  given  to  providing an impermeable,  erosion-resistant  surface
+protective cover, e.g. apron slabs of 0.5 m to 1 m in width on both sides of the channels, to
+further strengthen the surface protection of the vegetated soil slope.
+
+       Shotcrete, or any other kinds of hard slope facings, may provide a hard surface cover
+for soil slopes to prevent surface infiltration and protect the slopes against surface erosion.
+Designers’ attention is drawn to the need to strike a suitable balance between slope safety and
+slope appearance.  The government  policy on  slope appearance  is  that any  existing
+vegetation on a slope should be maintained as far as possible (Works Bureau, 1993 & 2000).
+
+       Prior to adopting a shotcrete facing where this is deemed appropriate, any landslide
+debris or loose materials on the slope surface should be removed to ensure proper contact
+between the shotcrete and the slope.  Applying shotcrete directly onto a slope surface with
+active seepage must be avoided. A hard surface cover is generally not necessary for the less
+weathered portion (PW50/90 zone or better, as defined in Geoguide 3 : Guide to Rock and
+Soil Descriptions (GCO, 1988)) of a slope formed in weathered rock.
+
+     Where considered appropriate by designers, a vegetation cover may be used to replace
+an existing hard surface cover (e.g. shotcrete) of a soil cut slope of consequence-to-life
+Category 3 as defined in the Geotechnical Manual for Slopes (GCO, 1984), Works Bureau
+
+
+===== PDF PAGE 27 =====
+26
+
+Technical Circular No. 13/99 : Geotechnical Manual for Slopes - Guidance on Interpretation
+and Updating (Works Bureau, 1999), and GEO Technical Guidance Note No. 15 : Guidelines
+for  Classification  of Consequence-to-Life Category  for Slope Features (GEO, 2007b).
+However, for soil cut slopes of consequence-to-life Categories 1 and 2, the replacement of the
+hard surface cover by vegetation cover should be done only where soil nailing works are also
+carried out to upgrade the slope at the same time.  For such cases, the soil nails should be
+designed,  either by means of the conventional  analytical approach or the  prescriptive
+approach, to upgrade the slope to meet the required safety standards for a ‘new’ slope.
+
+       In assessing whether an existing hard surface cover can be replaced by a vegetation
+cover, account should be taken of the average and local slope gradients, size of the upslope
+catchment and likelihood of the presence of concentrated surface water flow, signs of seepage
+from slope surface, records of past failure of the slope of concern as well as the adjoining
+areas, likelihood of casualty should a failure occur, etc.  Consideration should be given to the
+potential socio-economic impact should failure occur.
+
+       (2)    Wire Mesh/Face  Netting  for Rock  Slopes.   Apart from  local zones  of
+closely-fractured rock mass which may warrant shotcreting, rock slopes generally do not
+require a hard surface cover.  Wire mesh (sometimes referred to as face netting) may be
+fixed to a rock face to prevent small rockfalls, or hung loosely over a slope to guide rocks to
+the slope toe.  The lower end of the mesh should be no more than about 0.6 m above the
+slope toe in order to prevent rock blocks from  falling and bouncing onto the  facility
+(e.g. road) at the slope toe.  These measures are generally effective for retaining moderately
+to highly fractured rock blocks with dimensions up to about 0.6 m to 1 m, but they may not be
+suitable for retaining highly to completely weathered materials.
+
+     The likely volume/extent of rock mass to be retained and the minimum typical block
+size of the rock face would govern the choice of wire mesh.  Galvanised and PVC coated
+double-twisted hexagonal wire mesh (e.g. 2.2 mm diameter wire with 80 mm x 60 mm
+openings) would be suitable for use on steep cut faces to control rockfalls with dimensions of
+less than about 0.6 m.  For larger rock blocks, consideration may be given to the use of more
+robust forms of face netting, such as cable nets or ring nets (Muhunthan et al, 2005), as
+judged appropriate by the designers.
+
+     The upper edge of the wire mesh should be placed close to the potential rockfall source
+so that the blocks will have little momentum when they impact on the mesh.  The mesh
+should be anchored in accordance with the latest version of CEDD Standard Drawing No.
+C2205 : Fixing of Wire Mesh to Rock Face.  The mesh should be anchored at intermediate
+points by U-hooks or similar at a spacing of about 3 m.  Such spacing will generally permit
+the detached rock blocks to work their way down to the slope toe rather than accumulating
+behind the mesh.  Near the bottom of the slope, U-hooks with an extension connector should
+be provided at the lowest row so that they can be loosened and removed from the anchored
+end to enable the mesh to be lifted for removal of the detached rock blocks.
+
+      For  roadside  slopes  with  unprotected  steep  rock  faces  of  consequence-to-life
+Category 1, the provision of wire mesh is strongly recommended for protection against minor
+rockfalls.  Nevertheless, judgement should be exercised in identifying cases where wire
+mesh is not warranted, e.g. presence of massive, very tightly-jointed and not adversely jointed
+rock where there is no credible minor rockfall potential, near the tapering ends of big rock
+
+
+===== PDF PAGE 28 =====
+27
+
+cuts where the reduced height and setback from the carriageway would mean any minor
+rockfalls would not reach the road, mixed rock/soil slopes where wire mesh is only warranted
+on the ‘hard-rock’ portion with credible rockfall potential, etc.
+
+       (3)   Surface Protection for Retaining Walls.  Surface protection works to retaining
+walls include sealing of cracks on the surfaces of concrete walls, sealing of cracked mortar
+joints or missing pointing on masonry walls, and repairing of defective joint sealant on
+concrete walls.  Loose or dislocated blocks of pointed masonry walls should be fixed with
+cement mortar.  Where there are concerns regarding surface infiltration at the crest of a
+retaining wall, the crest area should be paved.
+
+
+3.2.2  Surface Drainage
+
+      Poor surface drainage provisions, such as inadequate number of drainage channels,
+undersized drainage channels and poor channel layout and detailing, are major causes of
+landslides including washouts, particularly local failures.  Where the existing provisions are
+deficient, new or additional surface drainage channels with an adequate layout and proper
+detailing should be provided to improve the hydraulic capacity of the drainage system and
+minimise the risk of blockage.
+
+    A review of all potential surface water pathways that could affect the slope feature
+should be carried out prior to the design of prescriptive surface drainage measures.   Potential
+convergent surface water flow should be diverted away from the slope feature where possible
+or should be directed downslope, preferably with no change in the flow direction, by means of
+drains with adequate capacity.
+
+       Consideration should be given to providing an upstand for the crest drainage channel
+of a slope feature to minimise possible uncontrolled spillage of surface water, and increasing
+the channel gradient and size.  Details of the upstand are shown in the latest version of
+CEDD Standard Drawing No. C2509 : Shotcrete to Upslope Area and Crest Channel with
+Upstand.  However, the possibility of local ponding behind the upstand at the crest channel
+should be considered.  Where an upstand is provided, the gradient along the alignment of the
+channel should exceed 1 in 10.  Similar details may be adopted for the berm channels, except
+that the height of the upstand may be reduced.
+
+       Special attention should be given to the layout and detailing of the surface drainage
+system to ensure adequate flow capacity and containment of flow within the channels,
+together with adequate discharge capacity at the downstream side.  For instance, abrupt
+changes in the flow directions, which can be conducive to spilling or overflow along the
+channels,  should  be  avoided.   Environmental  factors,  such  as  potential  sources  of
+concentrated flow of surface water which may adversely affect slope stability, should be dealt
+with properly.  Further discussions on the role of environmental factors in slope instability
+are given by Au & Suen (1991a & b).
+
+       Junctions of surface drainage channels should be properly detailed to avoid excessive
+turbulence and splashing. A smooth transition of alignment should be provided at the
+junction of berm channels and down channels where practicable in order to improve the
+hydraulics of surface water flow.  Baffle walls, or catchpits, should be provided at junctions
+
+
+===== PDF PAGE 29 =====
+28
+
+of channels, if deemed necessary, to minimise spilling or overflow.  Baffle walls may be
+preferred as catchpits could be susceptible to blockage (e.g. by erosion debris or dead
+vegetation).
+
+      Unless  herringbone  drains  are  provided,  downslope  drainage  channels  should
+preferably be spaced at a horizontal distance not exceeding 15 m.  With the provision of
+herringbone drains, an upper limit of about 30 m should be adopted where practicable,
+integrating with the locations of existing manholes, catchpits, etc.
+
+       In the case of a rock slope, excavations in rock for the construction of drainage
+channels will be tedious.  Alternative typical details of the crest flat drainage channel are
+shown in Figure 3.1.  For a steeply inclined rock face, the size of catchment for the rock face
+itself  is  generally  small.   Half-round  channels may be used on berms  to minimise
+excavations in rock.   If the amount of surface runoff on the rock face is not large, berm
+channels which require excavations in rock may be omitted.  However, the berms should still
+be paved with concrete to prevent water ingress into any open rock joints.  The use of
+stepped channels on steep rock slopes may result in spillage of water.   Site-specific designed
+downpipes are an alternative to stepped channels.
+
+     More guidance on the improvement and design of surface drainage  is given in
+GCO (1984), Ho et al (2003), GEO (2006) and Hui et al (2007).
+
+
+
+
+
+   Notes:      (1)  Dimensions in millimetres unless stated otherwise.
+                 (2)  Dimension U to be determined by designers to suit actual site conditions.
+                 (3)  Slope crest channel with upstand should have a minimum gradient of 1:10.
+                 (4)  The concrete channel should be cast against insitu ground in order to avoid the use of
+                     external formwork.
+
+
+Figure 3.1  Alternative Flat Drainage Channel Details to Minimise Excavation in Rock
+
+
+===== PDF PAGE 30 =====
+29
+
+3.2.3  Local Stability
+
+       (1)   Local Trimming/Filling. Locally over-steepened areas or depressions (e.g. land­
+slide scars) may be trimmed or filled with no-fines concrete (Figure 3.2) to restore the slope
+profile in order to avoid local instability from developing.  In particular, local failure of a
+portion of a rock slope may form an overhang on the face which will constitute a hazard.
+
+      Loose rocks may be removed by hand-held scaling bars.  However, removal should
+only be done where  it is certain that the new face will be stable and there is no risk of
+undermining the upper part of the rock slope.  Designers should re-examine and re-assess the
+stability of the rock face following local trimming and scaling of certain loose rocks.
+Removal of loose rocks on the slope face may not be effective where the rock is highly
+fractured.  Other measures such as use of wire mesh may be considered in such cases.
+
+       (2)    Dentition.  In the case of rock slopes, dentition can be used to backfill slots
+resulting from trimming of bands of soft materials, or to support an overhang formed on the
+rock face.  Typical details of dentition works are shown in the latest version of CEDD
+Standard Drawing No. C2204 : Typical Rock Face Dentition. A grout pipe may be provided
+for subsequent grouting to ensure good contact between the overhang and the supporting
+concrete dentition.
+
+
+===== PDF PAGE 31 =====
+30
+
+
+
+
+
+    A
+
+                                               A/2
+
+
+                        B
+
+
+
+                                           (a) At Upper Part of Slope
+
+
+
+
+
+    A
+
+                                            A/2
+
+
+                        B
+
+
+
+                                   (b) At Lower Part of Slope or on Berm
+
+   Notes:      (1)  Dimensions in millimetres unless stated otherwise.
+                 (2)  For A < 1.5 m , B = 0.3 m minimum.  For A ≥ 1.5 m, B = 0.5 m minimum.
+                 (3)  The geotextile filter behind the no-fines concrete block may be extended further upslope
+                      to cover seepage/potential seepage areas as specified by designers.
+                 (4)  Where it is deemed necessary to improve the stability of the no-fines concrete block, hot
+                    dip galvanised high yield deformed bars, typically 2 m long, 25 mm in diameter grouted
+                      in 50 mm diameter holes at spacing not exceeding 2 m in both vertical and horizontal
+                      directions, may be provided to tie the no-fines concrete block to the slope.
+
+
+Figure 3.2  No-fines Concrete Backfill to Local Areas
+
+
+===== PDF PAGE 32 =====
+31
+
+                  4. TYPE 2 PRESCRIPTIVE MEASURES
+
+4.1  GENERAL
+
+      This Chapter provides specific guidance on the application of Type 2 prescriptive
+measures to slope features.  Type 2 prescriptive measures are aimed at improving subsurface
+drainage.  Type 2 prescriptive measures will contribute to prevent the build-up of water
+pressure behind hard surface covers of slopes or structural facings of retaining walls, as well
+as to lower the groundwater level behind the slope features.  The need for these prescriptive
+measures should be considered in all cases of man-made slope features.
+
+      Table 4.1 shows a summary of the Type 2 prescriptive measures items and the
+associated design objectives.  The application of the items should be specified by designers
+to best suit the type of slope feature and actual site conditions.
+
+
+Table 4.1  Items of Type 2 Prescriptive Measures
+
+ Type of Measures       Design Objectives      Item No.                   Items
+
+                                                       2.1                  Raking drains
+
+                                                       2.2                  Toe drains
+
+                                                       2.3                  Counterfort drains
+     Type 2       Improve subsurface drainage
+                                                       2.4                      Relief drains
+
+                                                       2.5           Drainage for hard surface cover
+
+                                                       2.6               No-fines concrete cover
+
+
+4.2  TYPE 2 PRESCRIPTIVE MEASURES
+
+4.2.1  Subsurface Drainage
+
+     Where the build-up of groundwater pressure is likely to be so rapid that drainage from
+the slope surface alone may not be adequate to avoid failure, subsurface drainage provisions
+should be provided.
+
+       (1)   Raking Drains.  Raking drains can be effective in lowering the groundwater
+level and relieving the groundwater pressure at depth.  Three items of prescriptive measures
+may be used:
+
+
+===== PDF PAGE 33 =====
+32
+
+                (a) At the upper part of a slope feature (Figure 4.1) – this is to
+                  control the development of a potential perched water table in
+                 a more permeable soil stratum overlying a less permeable
+                  stratum.
+
+               (b) At the lower part of a slope feature (Figure 4.2) – this is to
+                  control the transient  rise of the main groundwater level
+                 during/following rainfalls.
+
+                (c) At specific seepage or potential seepage areas – this is to
+                     facilitate drainage and relieve the water pressures at specific
+                  locations where persistent seepage or preferential flowpaths
+                  are present.
+
+      Raking  drains may  also  be  prescribed  as  contingency  measures  to  cater  for
+uncertainties  in the groundwater conditions and possible adverse  effects of subsurface
+seepage (e.g. from leaking services) on slope stability.
+
+
+
+
+
+    u
+
+
+
+
+
+                                                        u
+
+
+
+
+   Notes:      (1)  For  details  of  raking  drains,  see  the  latest  version  of CEDD  Standard Drawing
+                 No. C2403 : Typical Arrangement of Raking Drains.
+                 (2)  The spacing of the raking drains  is nominal and may be varied to  suit actual  site
+                    conditions as determined by designers.
+
+
+Figure 4.1 Raking Drains at Upper Part of Slope
+
+
+===== PDF PAGE 34 =====
+33
+
+
+
+
+
+   Notes:      (1)  For  details  of  raking  drains,  see  the  latest  version  of CEDD  Standard Drawing
+                 No. C2403 : Typical Arrangement of Raking Drains.
+                 (2)  The spacing of the raking drains  is nominal and may be varied to  suit actual  site
+                    conditions as determined by designers.
+
+
+Figure 4.2 Raking Drains at Lower Part of Slope
+
+
+         If raking drains are used in conjunction with soil nails on a slope feature, the drains
+should be oriented and/or lengthened to intercept any groundwater behind the soil-nailed zone
+as deemed appropriate by designers.  The raking drains should be installed after all the soil
+nails at elevations higher than the raking drains have been grouted.
+
+       Further technical guidance on the construction, maintenance and performance of
+raking drains can be found in GCO (1984), Lam et al (1989) and Martin et al (1995).
+
+
+===== PDF PAGE 35 =====
+34
+
+       (2)   Toe  Drains.   For  slope  features  affected  by  high  groundwater  level,
+construction  of  toe  drains  (Figure  4.3)  provides an  effective means  of lowering  the
+groundwater level close to the lower part of the slope face.  These may be used in
+combination with other Type 2 prescriptive measures to facilitate subsurface drainage, or as
+contingency provisions.
+
+       (3)    Counterfort Drains.  For slope features which are liable to a rapid build-up of
+groundwater pressures, such as development of a perched water table in a relatively thin
+surface mantle  of  loose colluvium  overlying weathered  rock  (e.g. Pun &  Li, 1993;
+Wong & Ho, 1995), the use of raking drains alone may not necessarily provide sufficient
+drainage capacity to quickly relieve the transient groundwater pressures to avoid failure.  In
+such  cases,  counterfort  drains (Figure  4.4) could be used,  either on  their own or  in
+combination with raking drains.
+
+     To be more effective, counterfort drains should be extended into the underlying less
+permeable ground.   If this cannot be achieved, raking drains should be provided to intercept
+any groundwater flow beneath the counterfort drains.   Particular care should be taken to
+ensure that the watertightness of the ‘impermeable’ membrane at the base of the drain is
+achieved in construction.
+
+      With regard  to construction  safety considerations, the use of counterfort drains
+exceeding 2.5 m in depth is not recommended.   It is advisable that, before commencement of
+the works, some trial pits should be excavated over the crest of the slope feature to confirm
+the subsoil conditions and the suitability of using these items of prescriptive measures.
+
+       (4)    Relief Drains.  Where there are signs of potential seepage sources (e.g. rock
+joints with signs of seepage) behind a hard surface cover, relief drains should be provided as
+shown in the latest version of CEDD Standard Drawing No. C2404 : Relief Drain Details.   It
+is important to avoid sliding instability at the interface between the rock and the geosynthetic
+material by providing proper anchorage by the use of nails or plaster.  The drainage material
+should be covered by an impermeable fabric with a hole cut through to insert a PVC flange
+and pipe for drainage.
+
+       (5)   Drainage for Hard Surface Cover.  Inadequate drainage behind hard surface
+cover (e.g. shotcrete) can be a contributory cause of failure on slopes with subsurface seepage
+flow.  Geosynthetic composite drainage material can be installed behind the hard surface
+cover, together with the provision of a no-fines concrete toe (Figure 4.5) or relief drains
+(Figure 4.6) in order to minimise the build-up of water pressure.  This  is particularly
+important at locations where preferential flowpaths, such as soil pipes, erosion channels or
+holes left behind by rotted tree roots or burrowing animals, exist in the ground behind the
+hard surface cover.
+
+         It is important to avoid sliding failure at the interface of the soil and geosynthetic
+composite drainage material by providing proper anchorage and ensuring that there are no
+significant gaps  at  the  interface which may  result  in  erosion.   The  spacing  of  the
+geosynthetic composite drainage material as shown in Figures 4.5 and 4.6 may be adjusted on
+site to suit the locations of seepage and preferential flowpaths, provided that the overall area
+of the surface covered by the drainage material is within about one-third of the area of the
+hard surface cover.
+
+
+===== PDF PAGE 36 =====
+35
+
+         It should be noted that geosynthetic composite drainage material has a limited drainage
+capacity but it is suitable for relieving groundwater pressures in the soil close to the hard
+surface cover.  Where a larger drainage capacity is required, the use of a no-fines concrete
+cover (see Item (6) below) should be considered.   Installation  of  geosynthetic  composite
+drainage material may be difficult if the slope surface is irregular, e.g. at landslide scars.  In
+such cases, the use of no-fines concrete may be more convenient.
+
+     Where the existing provisions are deficient, new or additional weepholes should be
+provided for slopes with hard surface cover and for retaining walls.  Where  skin  walls  are
+constructed on existing retaining walls, the existing weepholes should be extended through
+any new skin walls.
+
+
+
+
+
+   Notes:      (1)  Toe drain details should be similar to that of cut-off drain given in the latest version of
+             CEDD Standard Drawing No. C2401  : Cut-off Drain Details, except that non-woven
+                   polypropylene geotextile filter should be placed against both side walls of the trench.
+                 (2)  If required, the compacted backfill to the drains may be replaced by concrete or shotcrete
+                      in order to blend in with the surrounding hard surface.
+
+
+Figure 4.3 Toe Drain
+
+
+===== PDF PAGE 37 =====
+36
+
+
+
+
+
+                                           Isometric View
+
+
+
+
+
+                                             Section A-A
+
+   Notes:      (1)  Details of counterfort drain should be similar to cut-off drain given in the latest version of
+             CEDD Standard Drawing No. C2401  : Cut-off Drain Details, except that the coarse
+                     granular  filter  material  is  to be replaced by no-fines concrete and  the non-woven
+                   polypropylene geotextile filter should be placed against both side walls of the trench.
+                 (2)  If required, the compacted backfill to the drains may be replaced by concrete or shotcrete
+                      in order to blend in with the surrounding hard surface.
+
+
+Figure 4.4  Counterfort Drains at Upper Part of Slope
+
+
+===== PDF PAGE 38 =====
+37
+
+
+
+
+
+                                              Elevation
+
+
+
+
+
+      d
+
+
+
+
+
+                                             Section A-A
+
+   Notes:      (1)  Dimensions in millimetres unless stated otherwise.
+                 (2)  The width and spacing of the geosynthetic composite drainage material (or similar) may
+                  be varied to suit actual site conditions, e.g. closer spacing in areas of observed or potential
+                    seepage.
+                 (3)  The height of the geosynthetic composite drainage material (or  similar), Hd, to be
+                     specified by designers.
+                 (4)  Non-woven polypropylene geotextile  filter should be provided between the no-fines
+                    concrete toe berm and the soil at seepage/potential seepage areas.
+
+
+Figure 4.5  Drainage for Hard Surface Cover (with No-fines Concrete Toe)
+
+
+===== PDF PAGE 39 =====
+38
+
+
+
+
+
+                                              Elevation
+
+
+
+
+
+     d
+
+
+
+
+
+                                             Section A-A
+
+   Notes:      (1)  Dimensions in millimetres unless stated otherwise.
+                 (2)  The width and spacing of the geosynthetic composite drainage material (or similar) may
+                  be varied to suit actual site conditions, e.g. closer spacing in areas of observed or potential
+                    seepage.
+                 (3)  The height of the geosynthetic composite drainage material (or  similar), Hd, to be
+                     specified by designers.
+                 (4)  If Hd > 5 m, relief drains should also be provided at mid-height of the geosynthetic
+                   composite drainage material (or similar).
+
+
+Figure 4.6  Drainage for Hard Surface Cover (with Relief Drains)
+
+
+===== PDF PAGE 40 =====
+39
+
+       (6)    No-fines Concrete Cover.  No-fines concrete has good drainage capacity and
+its dead weight offers some stabilisation  effects.    It can conveniently be  built against
+irregular ground profile to give a uniform surface, and if used properly in conjunction with a
+geotextile filter or geosynthetic composite drainage material,  it is effective in controlling
+slope surface instability and erosion (Figure 4.7).
+
+      Loose material on the slope surface should be removed before placing the no-fines
+concrete.   Care should be  exercised during placement  of  no-fines  concrete  to avoid
+damaging and blocking the geotextile filter or geosynthetic composite drainage material,
+which is required to prevent internal soil erosion.   If necessary, an additional protective layer
+of geotextile filter or sand bags may be placed over the geotextile filter or geosynthetic
+composite drainage material to protect it from damage during casting of the no-fines concrete.
+
+     The no-fines concrete cover should be founded on firm ground to ensure stability.
+Benching of the concrete into the slope should be considered to improve the  stability,
+especially on steep slopes.  Galvanised steel dowel bars may also be used to tie the no-fines
+concrete block and geotextile filter (or geosynthetic composite drainage material) to the slope.
+
+
+===== PDF PAGE 41 =====
+40
+
+
+
+
+
+                                           (a) At Upper Part of Slope
+
+
+
+
+
+                                   (b) At Lower Part of Slope or on Berm
+
+   Notes:      (1)  Dimensions in millimetres unless stated otherwise.
+                 (2)  Where it is deemed necessary to improve the stability of the no-fines concrete block, hot
+                    dip galvanised high yield deformed bars, typically 2 m long, 25 mm in diameter grouted
+                      in 50 mm diameter holes at spacing not exceeding 2 m in both vertical and horizontal
+                      directions, may be provided to tie the no-fines concrete cover to the slope.
+
+
+Figure 4.7  No-fines Concrete Cover
+
+
+===== PDF PAGE 42 =====
+41
+
+                  5. TYPE 3 PRESCRIPTIVE MEASURES
+
+5.1  GENERAL
+
+      This Chapter provides specific guidance on the application of Type 3 prescriptive
+measures to slope features.  Type 3 prescriptive measures are aimed  at improving the
+stability of a slope feature by providing structural support in the form of soil nails, skin walls,
+concrete buttresses or rock dowels where appropriate.  The guidance given is not applicable
+to newly-formed slope features.
+
+      Table 5.1 shows a summary of Type 3 prescriptive measures items and the associated
+areas of application.  The type, extent and details of application of the items should be
+specified by designers to suit the actual site conditions.
+
+
+Table 5.1  Items of Type 3 Prescriptive Measures
+
+ Type of Measures          Areas of Application          Item No.              Items
+
+                                     Soil cut slopes                   3.1                 Soil nails
+
+                              Soil cut slopes with toe walls            3.2                 Soil nails
+
+                       Concrete or masonry retaining walls        3.3                 Soil nails
+      Type 3
+                         Masonry retaining walls              3.4               Skin walls
+
+                            Rock cut slopes                  3.5           Concrete buttresses
+
+                            Rock cut slopes                  3.6            Rock dowels
+
+
+5.2   PRESCRIPTIVE SOIL NAILS FOR SOIL CUT SLOPES
+
+5.2.1  Qualifying Criteria
+
+       Soil nails have been used in upgrading a vast number of substandard soil cut slopes in
+Hong Kong with a good track record in terms of slope performance (Pun & Urciuoli, 2008).
+Prescriptive soil nail layouts have been standardised based on a review of past designs.  Soil
+cut slopes are deemed to satisfy the required safety standards with the prescriptive soil nails
+applied as upgrading works, provided that the slopes satisfy the qualifying criteria given in
+Table 5.2.  In the case where not all the qualifying criteria are satisfied, the prescriptive
+measures may be used as preventive maintenance works.
+
+
+===== PDF PAGE 43 =====
+42
+
+
+Table 5.2  Qualifying Criteria for Application of Prescriptive Soil Nails to Soil Cut Slopes
+
+                                         Qualifying Criteria for Application   Types of
+    Slope
+ Improvement   Facility
+   Works     Group            Geometry                   Engineering and Geology
+                  Affected(1)
+
+   Preventive
+  maintenance                               (Qualifying criteria not applicable)
+    works
+
+                                                                       1. Apply only to existing  soil cut  slopes(3)               Group 1
+                                                             judged to require improvement works.
+                            Slope feature height, H ≤ 10 m
+                                                                       2. Apply  to  slopes  confirmed on  site  as               Group 2
+                                                             comprising colluvial, residual or saprolitic
+                                                                           soils of granitic or volcanic origin that do
+  Upgrading                                                    not contain loose or soft materials.  Also               Group 3    Slope feature height, H ≤ 13 m    works                                                    apply to slopes comprising other materials
+                                                              with similar shear strength properties, with
+                                                                    the  exception  of  alluvial  and  marine
+               Group 4                                         deposits and sedimentary rocks containing
+                                                                    argillaceous layers.                            Slope feature height, H ≤ 18 m
+               Group 5                                          3. Apply only  if no observable or recorded
+                                                               adverse  geological  material  (e.g.  signifi
+                                                                     -cantly kaolinised  granite and  volcanics,
+                                                            weathered dykes, and sedimentary layers               Group 1
+                                                                 within volcanic formations) and adverse                            Height of landslide scar ≤ 10 m                                                                       discontinuities   (e.g.   adversely-oriented,                           and landslide volume ≤ 100 m3                                                                           persistent,   clay-infilled   or   silt-infilled               Group 2                                                                         discontinuities, pre-existing shear surfaces
+                                                                  or zones, and well-developed discontinu
+                                                                                   -ities  that  are  slickensided  or  heavily Repair works               Height of landslide scar ≤ 15 m               Group 3                                      coated with dark minerals or kaolinite). to landslides(2)              and landslide volume ≤ 200 m3
+                                                                       4. Apply only  if no observable or recorded
+               Group 4                                      adverse  groundwater  condition,   i.e.  no
+                            Height of landslide scar ≤ 20 m      signs of a high permanent(4) groundwater
+                                                                       table over a significant area of the slope.                           and landslide volume ≤ 400 m3
+                                                  As a general guide, the average pore water               Group 5
+                                                                  pressure ratio, ru, should not exceed 0.1.
+
+Notes:      (1)  The various facility groups are given in GEO Technical Guidance Note No. 15 (GEO, 2007b).
+             (2) When  specifying  prescriptive  soil  nails  for  emergency  repair  works  to  landslides,
+                 considerations should be given to the scale and mechanism of slope failure, the potential
+               consequence of further landslides, and the effectiveness of the prescriptive measures in respect
+                 of the recovery of the emergency situation.
+             (3)  Soil cut slopes include cuttings in a weathered rock mass in the Residual Soil, PW0/30 and/or
+             PW30/50 zone as defined in Geoguide 3 (GCO, 1988), with or without any overlying
+                 colluvium.  Where substandard fill (or loose or soft colluvium) is present and where the size
+                 of the fill body (or colluvium mass) meets GEO’s slope registration criteria, the fill body (or
+                colluvium mass) should be dealt with using the conventional analytical approach.
+             (4)  ‘Permanent’ refers to ‘typical wet season water level’ as described in the Geotechnical Manual
+                  for Slopes (GCO, 1984).
+             (5)  These qualifying criteria are also applicable to the application of prescriptive soil nails to soil
+                  cut slopes with toe walls mentioned in Section 5.3.
+
+
+===== PDF PAGE 44 =====
+43
+
+5.2.2  Soil Nail Layout
+
+       Prescriptive soil nail design should be carried out in accordance with the following
+steps:
+
+                (a) Determine the required range of increase in factor of safety
+               (ΔFOS) for the slope, viz:
+
+                        (i)   range I for a large ΔFOS (0.3 < ΔFOS ≤ 0.5),
+
+                         (ii)  range II for a moderate ΔFOS (0.1 < ΔFOS ≤ 0.3), and
+
+                         (iii) range III for a small ΔFOS (0 < ΔFOS ≤ 0.1).
+
+               The required range of ΔFOS should be determined by
+                  designers based on professional judgement and the guidance
+                 given in Table 5.3.   If the required ΔFOS exceeds 0.5, the
+                  slope  is outside the bounds of previous experience and
+                hence is beyond the scope of application of prescriptive soil
+                     nails.
+
+               (b) Determine the standard  soil nail layout from Table 5.4,
+                 based on the required range of ΔFOS and the maximum
+                   effective height of slope feature, He, using the following
+                  equation:
+
+                         He = H (1 + 0.35 tan β) + q / 20 .................(5.1)
+
+                where H =  slope feature height, i.e. the maximum height
+                               of slope feature from toe to crest (m)
+           β =  gradient of terrain above slope feature (degree)
+                     q =  surcharge loading at slope crest expressed as
+                            an equivalent uniform pressure (kPa)
+
+       Figure 5.1 shows the prescriptive soil nailing to a soil cut slope.  The soil nail layout,
+derived from prescriptive design based on the consideration of the maximum effective height
+of the slope, may be applied to the entire slope.   Alternatively, the slope may be split into
+different sections where there is a large variation in height along the slope, with the soil nail
+layout for each section designed according to the maximum effective height for the respective
+sections.  This would enhance the cost-effectiveness of the prescriptive designs, especially
+for large soil cut slopes.
+
+
+===== PDF PAGE 45 =====
+44
+
+
+Table 5.3  Stability Enhancement for Application of Prescriptive Soil Nails to Soil Cut Slopes
+
+                                   ‘New’ Slope Standard(1)
+
+                                                               Consequence-to-life
+
+                                         Category 1            Category 2            Category 3
+ Failure consequence category(2)
+                                                   Economic Consequence
+
+                                         Category A           Category B           Category C
+
+ Observed or recorded past instability(3)  Ma   Mi   No   Ma   Mi   No   Ma   Mi   No
+
+ Required range of ΔFOS(4)                   I+        I         I         I        II        II        II        II       III
+
+                                        ‘Existing’ Slope Standard(1)
+
+                                                               Consequence-to-life
+ Failure consequence category
+                                         Category 1            Category 2            Category 3
+
+ Observed or recorded past instability(3)  Ma   Mi   No   Ma   Mi   No   Ma   Mi   No
+
+ Required range of ΔFOS(4)                    I        II        II        II        II       III       II       III       III
+
+Notes:      (1)  The conditions for designating a slope as a ‘new’ slope or as an ‘existing’ slope are stipulated
+                  in the Geotechnical Manual for Slopes (GCO, 1984) and Works Bureau Technical Circular
+              No. 13/99 (Works Bureau, 1999).
+             (2)  Reference should be made to GCO (1984), Works Bureau (1999), and GEO Technical
+               Guidance Note No. 15 (GEO, 2007b)  for the  classification of consequence-to-life and
+               economic consequence categories of slope features.  The choice of the required range of
+                 increase in factor of safety (ΔFOS) should be based on the higher consequence of either
+                 consequence-to-life category or economic consequence category, if the slope does not satisfy
+                  the conditions for an ‘existing’ slope.
+             (3)  Past instability includes both recorded and observed failures. ‘Ma’, ‘Mi’ and ‘No’ refer to
+                 slopes with major  (i.e. failure volume ≥ 50 m3, or where a fatality has occurred), minor
+                       (i.e. failure volume < 50 m3) and no past instability respectively.
+             (4)   ‘I’, ‘II’, and ‘III’ refer to the following ranges of ΔFOS: 0.3 < ΔFOS ≤ 0.5, 0.1 < ΔFOS ≤ 0.3
+               and 0 < ΔFOS ≤ 0.1, respectively.   ‘I+’ is similar to ‘I’ except that Type 2 prescriptive
+               measures (e.g. raking drains) must be adopted as contingency provisions.
+             (5)  Slopes that require a ΔFOS of over 0.5 are beyond the scope of application of prescriptive
+                measures.
+
+
+===== PDF PAGE 46 =====
+45
+
+
+Table 5.4 Standard Prescriptive Soil Nail Layouts for Soil Cut Slopes
+ Standard                                        I                         II                        III            He     φr     φh  Soil Nail            (m)   (mm)  (mm)  Layouts                       N   L (m)  Sh (m)  N   L (m)  Sh (m)  N   L (m)  Sh (m)
+
+     (a)       3     25    100     2      4      1.5     2      4      1.5     2      4      1.5
+     (b)       4     25    100     2      5      1.5     2      5      1.5     2      5      1.5
+     (c)       5     25    100     3      6      1.5     3      6      1.5     3      6      2.0
+     (d)       6     25    100     4      8      1.5     3      8      1.5     3      7      1.5
+     (e)       7     25    100     4      9      1.5     4      8      1.5     3      7      1.5
+      (f)       8     25    100     5      9      1.5     4      8      1.5     3      8      1.5
+     (g)       9     25    100     5     10     1.5     4      9      1.5     4      8      1.5
+     (h)      10     25    100     6     10     1.5     4     10     1.5     4      9      1.5
+      (i)       12     32    100     6     11     1.5     5     10     1.5     5     10     2.0
+      (j)       14     32    100     6     12     1.5     5     11     1.5     6     10     2.0
+     (k)      16     32    100     7     12     1.5     7     12     2.0     6     11     2.0
+      (l)       18     32    100     8     13     1.5     8     12     2.0     7     12     2.0
+    (m)      20     32    100    10     14     2.0     9     12     2.0     8     12     2.0
+     (n)      22     32    100    11     14     2.0    10     12     2.0     8     12     2.0
+     (o)      24     32    100    12     14     2.0    10     12     2.0     8     12     2.0
+     (p)      25     32    100    12     15     2.0    10     12     2.0     8     12     2.0
+Notes:      (1)  He is the maximum effective height of slope feature, φr the soil nail diameter, φh the drillhole
+                 diameter, Sh the horizontal spacing of soil nails, and L the length of soil nails.
+             (2)  For He between any of the two consecutive values in the above table, the soil nail layout
+                corresponding to the higher He value should be adopted.
+             (3) N is the number of soil nails per vertical column required at the critical section, i.e. the section
+                with the maximum effective height, He.  At other parts of the slope, soil nails should be
+                provided  at  vertical  and  horizontal  spacing  similar  to  that  at  the  critical  section.
+                  Alternatively, different soil nail layouts according to the He of that part of the slope may be
+                 adopted.
+             (4)  The vertical spacing (Sv) of soil nails, as defined in Figure 5.1, should not be less than 1.5 m.
+                     If necessary, designers may adjust N and Sh to achieve the required minimum Sv value.  In so
+                 doing, the adjusted layout should maintain the same soil nail density as that of the layout
+                given in this Table, with Sh ≥ 1.0 m.  Where the designers opt for a specific Sv value
+                    (e.g. 2 m) to suit site constraints or other considerations, the soil nail layout may be adjusted
+              by maintaining the same soil nail density as that given in this Table, with Sh ≥ 1.0 m.
+             (5)  Soil nails should be evenly spaced over the slope face.
+             (6)  Steel reinforcement for soil nails shall be of Type 2 high yield deformed bars.
+             (7)   ‘I’, ‘II’ and ‘III’ refer to the following ranges of ΔFOS: 0.3 < ΔFOS ≤ 0.5, 0.1 < ΔFOS ≤ 0.3
+               and 0 < ΔFOS ≤ 0.1, respectively.
+             (8)  If rock is encountered in the process of drilling such that part of the soil nails will be installed
+                  in rock (e.g. installation through a PW50/90 zone or better, see Geoguide 3 (GCO, 1988)),
+                 designers may exercise professional judgement to reduce the soil nail length.
+             (9)  Designers should check the land status to establish whether the soil nails would encroach into
+                  the adjoining land and, if so, whether this is acceptable to the land owner.
+            (10) Slope sections that are lower than 2 m in height do not usually require reinforcement by soil
+                    nails.
+
+
+===== PDF PAGE 47 =====
+46
+
+
+
+
+
+                                              Elevation
+
+
+
+
+
+                    Section A-A                          Section A-A (Alternative arrangement)
+
+   Notes:      (1) L = Length of soil nail; H = Slope feature height; D = Depth of soil-nailed zone;
+                 β = Gradient of terrain above slope feature.
+                 (2)  N, L, Sh, Sv and other dimensions for the soil nails are given in Table 5.4 based on the type
+                    of soil nail layout as specified by designers.
+                 (3)  The alternative soil nail arrangement may be adopted as appropriate to suit actual site
+                     conditions.
+
+
+Figure 5.1  Prescriptive Soil Nails on a Soil Cut Slope
+
+5.2.3  Soil Nail Head and Facing
+
+       Soil nail heads have to be provided in conjunction with the prescriptive soil nails.
+Sizes of prescriptive soil nail heads are given in Table 5.5.  Typical details of soil nail heads
+
+
+===== PDF PAGE 48 =====
+47
+
+for use on slopes with vegetation cover are shown in the latest version of CEDD Standard
+Drawing No. C2106/2 : Soil Nail Head Details, and Nos. C2106/4 and C2106/5 : Details of
+Recessed Soil Nail Head.  Typical details of soil nail heads for a gently inclined slope given
+in Figure 5.6 of Geoguide 7 : Guide to Soil Nail Design and Construction (GEO, 2008) may
+be used as appropriate.
+
+      For vegetated slopes steeper than 45°, a wire mesh structurally connected to the soil
+nail heads should be provided.  The structural connection of the wire mesh to the soil nail
+heads is shown in the latest version of CEDD Standard Drawings Nos. C2511/1 and C2511/2 :
+Fixing Details for Erosion Control Mat and Wire Mesh with Soil Nails.  The wire mesh
+should be continuous and span across soil nail heads.
+
+       Typical details of a soil nail head for use on slopes with hard surface cover are shown
+in the latest version of CEDD Standard Drawing No. C2106/3 : Soil Nail Head Details for
+Sprayed Concrete Slope Surface.
+
+      For soil cut slopes steeper than 65°, reinforced concrete tie beams embedded in the
+slope, instead of isolated soil nail heads, should be used.  Typical details of the tie beams for
+use on slopes with prescriptive soil nails are shown in the latest version CEDD Standard
+Drawing No. C2525 : Details of Embedded Tie Beam for Steep Cut Slopes.
+
+
+Table 5.5  Sizing of Prescriptive Soil Nail Heads
+                                                 Square Soil Nail Head Size (mm x mm)
+                  Geology
+                                                   Slope gradient < 55°     55° ≤ slope gradient ≤ 65°
+
+ Highly decomposed granitic or volcanic rock.             600 x 600                600 x 600
+
+ Other   soils  including   colluvial,  residual  or
+ completely decomposed materials of granitic and         800 x 800                600 x 600
+ volcanic origin, and weathered sedimentary rocks.
+Notes:      (1)  The minimum thickness of the soil nail head should be 250 mm.
+             (2)  For slope gradients greater than 65°, embedded tie beams instead of isolated soil nail heads
+                should be used (Shiu & Chang, 2005).
+
+
+5.2.4  Corrosion Protection
+
+      Corrosion protection measures have to be designed for the steel reinforcement of
+prescriptive soil nails.  As normally no ground investigation and hence no soil aggressivity
+testing is carried out for sites to be applied with prescriptive soil nails, the aggressivity of the
+soil at the site should be classified based on an assessment of the site setting, development
+history, as well as the nature and extent of utilities affecting the site in accordance with the
+guidance given in Section 4.3.2 of Geoguide 7 (GEO, 2008).  The design of corrosion
+protection measures should follow the guidance given  in Section 5.5 of Geoguide  7.
+Guidance on the possible use of materials other than steel reinforcement for corrosion
+protection is given in Section 5.12.4 of Geoguide 7, which may be considered based on the
+concept of ‘life-cycle costing’.
+
+
+===== PDF PAGE 49 =====
+48
+
+5.3   PRESCRIPTIVE SOIL NAILS FOR SOIL CUT SLOPES WITH TOE WALLS
+
+5.3.1  Qualifying Criteria
+
+       Soil nail layouts for soil cut slopes with toe walls have been standardised based on a
+review of past designs.  Soil cut slopes with toe walls are deemed to satisfy the required
+safety standards with the prescriptive soil nails applied as upgrading works, provided that the
+slopes satisfy the qualifying criteria given in Table 5.2 and the additional qualifying criteria in
+Table 5.6.  In the case where not all the qualifying criteria are satisfied, the prescriptive
+measures may be used as preventive maintenance works.
+
+
+Table 5.6  Additional Qualifying Criteria for Application of Prescriptive Soil Nails to Soil
+         Cut Slopes with Toe Walls as Upgrading Works
+
+         Subjects                             Qualifying Criteria for Application
+
+                                 1.  The slope feature should be a soil cut slope with a concrete or masonry
+                                    retaining wall at the toe.
+                                 2.  For concrete toe wall,  it should be a mass concrete wall, or a reinforced
+                                 concrete wall of L-shaped, inverted L-shaped or inverted T-shaped as shown    Slope and wall type                                    in Figure 5.2.
+                                 3.  For masonry toe wall,  it should be of a condition no worse than wall
+                                 condition Class B and no worse than observed state of wall deformation
+                             No. (2) as defined in Tables 5.7 and 5.8 respectively.
+
+                             Gradient of terrain in front of slope feature, α (averaged over a horizontal       Terrain profile
+                               distance of four times the wall thickness) should not be greater than 10°.
+                                 1.  Maximum vertical height of fill, ft, as measured from the wall crest, should
+                                 not be more than 5 m.
+    Extent of fill material
+                                 2.  Maximum thickness of the fill, fw, as measured horizontally from the top of
+                                 wall back face, should not be more than 3 m.
+
+
+
+
+
+       Mass concrete               L-shaped             Inverted L-shaped        Inverted T-shaped
+         retaining wall                retaining wall             retaining wall             retaining wall
+
+  (a) Gravity Retaining Wall         (b) Reinforced Concrete Retaining Wall (with or without key)
+
+
+Figure 5.2 Types of Concrete Retaining Walls covered by the Scope of Application of
+            Prescriptive Soil Nails
+
+
+===== PDF PAGE 50 =====
+49
+
+
+Table 5.7  Classification of Condition of Masonry Retaining Walls
+ Masonry Retaining Wall                                    State of Distress and Wall Deformation Based on Inspection(1)     Condition Class
+
+        A            Minimal distress and deformation.
+
+         B            Moderate distress and/or deformation.
+
+         C             Onset of severe distress and/or deformation.
+
+        D            Advanced stage of severe distress and/or deformation.
+
+Notes:      (1)  In general, the state of distress and deformation of old masonry retaining walls can be
+                 assessed reliably by means of experience and engineering judgement.  Reference may be
+             made to Table 5.8 and GEO Circular No. 33 (GEO, 2004) for guidance.
+             (2)  For walls without tie members, a conservative assessment should be made, with the overall
+                 wall condition downgraded by one class, where appropriate.
+             (3)   If the condition of the wall  is known to be deteriorating, the next wall condition class
+                 appropriate to the worst possible wall condition anticipated should be chosen instead.
+             (4)  Dry-packed random rubble walls of up to 5 m high should be assigned a wall condition
+                Class C, irrespective of the condition and deformation profile of the wall.
+             (5)  Dry-packed random rubble walls of more than 5 m high should be assigned a wall condition
+                Class D, irrespective of the condition and deformation profile of the wall.
+
+
+Table 5.8  Guidelines for Evaluation of the State of Masonry Retaining Wall Deformation
+ Observed State of Wall                              Forward Movement                       Bulging      Deformation
+
+                        Forward movement of wall as indicated by:
+                               (a) long continuous movement cracks at wall
+                                  crest sub-parallel to wall, total width at
+                           any section < 0.1% of wall height, h, or (1) Minimal Deformation                                                   Negligible bulging of wall
+                             (b) sub-vertical through cracks in return wall
+                               of  total width  at each  level < 0.1%h,
+                          where h is height of measurement point
+                          from ground surface level in front of toe
+ (2) Moderate           Forward movement  as  (1)  except  crack  Minor   bulging   of   wall   face
+     Deformation         width totalling between 0.1%h and 0.2%h     noticeable to naked eye
+                                                               Bulged   profile   of   wall   face
+                                                                                sufficient  to touch a  vertical  line (3) Onset of Severe      Forward movement  as  (1)  except  crack                                                             drawn   through   wall   toe,   or     Deformation         width totalling between 0.2%h and 0.6%h                                                    maximum    bulging    of    wall
+                                                                    approaching or equal to 75 mm
+                                                                  Bulging  as   (3)  but  protruding
+ (4) Advanced Stage of   Forward movement  as  (1)  except  crack  beyond  a   vertical   line  drawn
+     Severe Deformation   width totalling a value > 0.6%h              through toe, or maximum bulging of
+                                                                       wall > 75 mm
+ Note:     When using this table, the application of sound engineering judgement is crucial since different
+             walls are likely to present differing degrees of difficulty in the assessment of wall deformation.
+          The proposed deformation limits shown in this table should not be regarded as absolute values.
+
+
+===== PDF PAGE 51 =====
+50
+
+
+
+
+
+          θ
+
+
+
+
+
+      α
+
+
+
+
+
+   Legend:
+
+   α       Gradient of terrain in front of slope feature
+   β       Gradient of terrain above slope feature
+      q       Design surcharge
+   θ      Wall face angle
+            ft        Vertical thickness of fill layer above retaining wall crest
+        fw      Depth of fill layer measured from top of wall back face
+    H       Slope feature height
+      He     Maximum effective height of slope feature, where He = H (1+0.35tanβ) + q/20
+      Hr      Height of retained ground
+      Tw      Average thickness of retaining wall
+
+
+Figure 5.3  Simplified Geometry of a Slope Feature Incorporating a Soil Cut and a Mass
+          Concrete or Masonry Retaining Wall at Toe
+
+
+===== PDF PAGE 52 =====
+51
+
+
+
+
+
+         θ
+
+
+
+
+
+     α
+
+
+
+
+
+   Legend:
+
+  α       Gradient of terrain in front of slope feature
+   β       Gradient of terrain above slope feature
+     q       Design surcharge
+   θ      Wall face angle
+            ft        Vertical thickness of fill layer above retaining wall crest
+       fw      Depth of fill layer measured from top of wall back face
+    H       Slope feature height
+     He     Maximum effective height of slope feature, where He = H (1+0.35tanβ) + q/20
+      Hr      Height of retained ground
+     Tw      Average thickness of retaining wall
+
+
+Figure 5.4  Simplified Geometry of a Slope Feature Incorporating a Soil Cut and a Reinforced
+          Concrete Retaining Wall at Toe
+
+
+===== PDF PAGE 53 =====
+52
+
+5.3.2  Soil Nail Layout
+
+       Prescriptive soil nail design should be carried out in accordance with the following
+steps:
+
+                (a) Determine the maximum effective height of slope feature,
+               He (see Equation (5.1) in Section 5.2.2).
+
+               (b) Determine the required range of ΔFOS, viz.:
+
+                        (i)   range I for a large ΔFOS (0.3 < ΔFOS ≤ 0.5),
+
+                         (ii)  range II for a moderate ΔFOS (0.1 < ΔFOS ≤ 0.3), and
+
+                         (iii) range III for a small ΔFOS (0 < ΔFOS ≤ 0.1).
+
+               The required range of ΔFOS should be determined by
+                  designers based on professional judgement and the guidance
+                 given in Table 5.3.   If the required ΔFOS exceeds 0.5, the
+                  slope feature is outside the bounds of previous experience
+                and hence is beyond the scope of application of prescriptive
+                     soil nails.
+
+                (c) Determine the total length of soil nails, Ltotal, as follows (see
+                 Figure 5.5):
+
+                                                     Ltotal = L + Lfree
+
+                where L   = Length of the portion of soil nail in material
+                              behind wall backfill (m)
+                                 Lfree = Length of the portion of soil nail within the
+                                  retaining wall and wall backfill (m).
+
+                Determine from Table 5.4 the number of rows, spacings and
+                   the lengths of soil nails, L.   Lfree can be taken as 2 m or
+                    alternatively determined by designers based on  detailed
+                  information on the wall thickness and the extent of  fill
+                 behind and above the wall.  For those  soil nails to be
+                    installed on the cut slope part above the toe wall and fill
+                   material, Lfree should be taken as zero.
+
+    A typical pattern of prescriptive soil nailing to a soil cut slope with toe wall is shown
+in Figure  5.5.  The  soil  nail  layout, derived from  prescriptive design based on  the
+consideration of the maximum effective height of the slope feature, may be applied to the
+entire slope feature.   Alternatively, the slope feature may be split into different sections, with
+the soil nail layout for each section designed according to the maximum effective height for
+the respective sections.   This would enhance the cost-effectiveness of the prescriptive
+designs.
+
+
+===== PDF PAGE 54 =====
+53
+
+
+
+
+
+                                         Elevation
+
+
+
+
+
+                                        Section A-A
+
+   Notes:      (1) L = Length of the portion of soil nail in material behind wall backfill; Lfree = Length of the
+                     portion of the soil nail within the retaining wall and wall backfill; H = Slope feature
+                     height; Hr = Height  of  retained ground; Tw = Average  retaining  wall  thickness;
+                 β = Gradient of terrain above slope feature.
+                 (2)  N, L, Sv, Sh and other dimensions for the soil nails are given in Table 5.4 based on the type
+                    of soil nail layout specified by designers.
+                 (3)  If the height of the toe wall is less than the vertical spacing of soil nails, at least one row
+                    of soil nails should be installed through the toe wall.
+                 (4)  If  tie beams and/or  tie columns are provided, the soil nails may not necessarily be
+                     staggered.
+
+
+Figure 5.5  Prescriptive Soil Nails on a Soil Cut Slope with Toe Wall
+
+
+===== PDF PAGE 55 =====
+54
+
+5.3.3  Soil Nail Head and Facing
+
+      Guidance on the design of soil nail head and/or wall facing is given in Sections 5.2.3
+and 5.4.3 respectively.
+
+
+5.3.4  Corrosion Protection
+
+      Guidance on the design of corrosion protection measures for steel reinforcement of
+prescriptive soil nails is given in Section 5.2.4.
+
+
+5.4   PRESCRIPTIVE SOIL NAILS FOR CONCRETE OR MASONRY RETAINING
+    WALLS
+
+5.4.1  Qualifying Criteria
+
+       Soil nail layouts for retaining walls have been standardised based on a review of past
+designs.   Retaining walls are deemed to satisfy the required safety standards with the
+prescriptive soil nails applied as upgrading works, provided that the retaining walls satisfy the
+qualifying criteria given in Table 5.9.  In the case where not all the qualifying criteria are
+satisfied, the prescriptive measures may be used as preventive maintenance works.
+
+
+Table 5.9  Qualifying Criteria for Application of Prescriptive Soil Nails to Concrete or
+         Masonry Retaining Walls as Upgrading Works
+         Subjects                             Qualifying Criteria for Application
+
+        Geometry                                Slope feature height, H ≤ 8 m
+
+                                 1.  Apply only to either concrete or masonry retaining walls judged to require
+                             improvement works.
+                                 2.  Apply to sites comprising colluvial, residual or saprolitic soils of granitic or
+                                 volcanic origin.  Also apply to sites comprising other materials with similar  Engineering and geology                                 shear strength properties, with the exception of alluvial and marine deposits
+                             and sedimentary rocks containing argillaceous layers.
+                                 3.  Criteria 3 and 4 under  the column of “Engineering and Geology”  in
+                               Table 5.2 are also applicable.
+                                 1.  For concrete retaining wall, it should be a mass concrete wall, a reinforced
+                                 concrete wall of L-shaped, inverted L-shaped or inverted T-shaped, as shown
+                                    in Figure 5.2.
+        Wall type
+                                 2.  For masonry retaining wall, it should be of a condition no worse than wall
+                                 condition Class B and no worse than observed state of wall deformation
+                             No. (2) as defined in Tables 5.7 and 5.8 respectively.
+                                 1.  Gradient of terrain in front of slope feature, α (averaged over a horizontal
+       Terrain profile             distance of four times the wall thickness) should not be greater than 10°.
+                                 2.  Gradient of terrain above slope feature, βshould not be greater than 15°.
+                     Maximum thickness of  fill, fw as measured horizontally from the top of wall    Extent of fill material                           back face should not be more than the height of retained ground, Hr.
+
+
+===== PDF PAGE 56 =====
+55
+
+
+
+
+
+             θ
+
+
+
+
+
+         α
+
+
+
+
+
+   Legend:
+
+  α       Gradient of terrain in front of slope feature
+   β       Gradient of terrain above slope feature
+     q       Design surcharge
+   θ      Wall face angle
+            ft        Vertical thickness of fill layer above retaining wall crest
+        fw      Depth of fill layer measured from top of wall back face
+    H       Slope feature height
+     He     Maximum effective height of slope feature, where He = H (1+0.35tanβ) + q/20
+      Hr      Height of retained ground
+          i       Wall back angle
+     Tw      Average thickness of retaining wall
+
+
+Figure 5.6  Simplified Geometry of a Mass Concrete or Masonry Retaining Wall Feature
+
+
+===== PDF PAGE 57 =====
+56
+
+
+
+
+
+            θ
+
+
+
+
+
+      α
+
+
+
+
+
+   Legend:
+
+  α       Gradient of terrain in front of slope feature
+   β       Gradient of terrain above slope feature
+     q       Design surcharge
+   θ      Wall face angle
+            ft        Vertical thickness of fill layer above retaining wall crest
+       fw      Depth of fill layer measured from top of wall back face
+    H       Slope feature height
+     He     Maximum effective height of slope feature, where He = H (1+0.35tanβ) + q/20
+      Hr      Height of retained ground
+          i       Wall back angle
+     Tw      Average thickness of retaining wall
+
+
+Figure 5.7  Simplified Geometry of a Reinforced Concrete Retaining Wall Feature
+
+
+===== PDF PAGE 58 =====
+57
+
+5.4.2  Soil Nail Layout
+
+       Prescriptive soil nail design should be carried out in accordance with the following
+steps:
+
+                (a) Determine the maximum effective height of slope feature,
+               He (see Equation (5.1) in Section 5.2.2).
+
+               (b) Determine whether the feature should be designed to the
+                ‘new’  wall  standard  or  ‘existing’  wall  standard  in
+                 accordance with the guidelines given in the Geotechnical
+               Manual  for  Slope  (GCO,  1984)  and  Works  Bureau
+                 Technical Circular No. 13/99  : Geotechnical Manual for
+                 Slopes - Guidance on Interpretation and Updating (Works
+                 Bureau, 1999).
+
+                (c) Determine whether the feature is substandard. A way of
+                 doing it is to compare the measured wall thickness with the
+              minimum wall thickness required  to  satisfy the current
+                  geotechnical standards given in Figure 5.8 according to the
+                   respective wall standard to be achieved.
+
+                       If the measured retaining wall thickness  is equal to or
+                   greater than the minimum required thickness, the wall can
+                be considered as being up to the respective geotechnical
+                  standard and no upgrading works are necessary.  The chart
+                   in Figure 5.8 is applicable to both concrete retaining walls
+                and masonry retaining walls.
+
+                For  reinforced  concrete  retaining  walls,   it  is  hard  to
+                 determine whether the wall  is substandard or not in the
+                 absence of a detailed ground investigation.  In such cases,
+                  designers should decide whether  it would be more cost
+                   effective to assume the wall to be substandard and proceed
+                 with prescriptive design of upgrading works, or whether it
+               would  be  more  appropriate  to  carry  out  a  stability
+                 assessment with detailed ground investigation.
+
+               (d) Determine the total length of soil nails, Ltotal, as follows (see
+                 Figure 5.5):
+
+                                                     Ltotal = L + Lfree
+
+                where L   = Length of the portion of soil nail in material
+                              behind wall backfill (m)
+                                 Lfree = Length of the portion of soil nail within the
+                                  retaining wall and wall backfill (m).
+
+
+===== PDF PAGE 59 =====
+58
+
+                Determine from Table 5.10 the number of rows, spacings
+                and lengths of the soil nails, L.   Lfree can be taken as the
+                  height of retained ground, Hr, or alternatively  it may be
+                 determined by designers based on detailed information on
+                   the wall thickness and extent of fill behind the wall.
+
+    A typical pattern of prescriptive soil nailing to a retaining wall is shown in Figure 5.9.
+The soil nail layout, derived from prescriptive design based on the consideration of the
+maximum effective height of the slope feature, may be applied to the entire slope feature.
+Alternatively, the feature may be split into different sections, with the soil nail layout for each
+section designed according to the maximum effective height for the respective sections.
+
+
+
+
+      6
+
+
+      5
+
+
+ m)
+ (
+ s 4
+  nes
+  ick
+ Th
+      3
+   Wall
+
+
+      2     Minimum
+
+
+      1
+
+
+      0
+        2          3          4          5          6          7          8          9          10
+                           Maximum Effective Height of Slope Feature, He (m)
+
+
+   Legend:
+              Concrete retaining wall (‘existing’ wall standard)
+              Concrete retaining wall (‘new’ wall standard)
+             Masonry retaining wall (‘existing’ and ‘new’ wall standards)
+
+   Note:      This chart is only applicable to concrete or masonry retaining walls that satisfy the qualifying
+                  criteria listed in Table 5.9, and situations where the surcharge behind the feature does not
+              exceed 10 kPa.
+
+
+Figure 5.8 Minimum Required Thickness of Concrete or Masonry Retaining Walls where No
+          Type 3 Prescriptive Measures are Needed
+
+
+===== PDF PAGE 60 =====
+59
+
+
+Table 5.10  Standard Prescriptive Soil Nail Layouts for Concrete or Masonry Retaining Walls
+                                         ‘New’ Wall Standard(1)     ‘Existing’ Wall Standard(1)   Standard
+    Soil Nail    He (m)   φr (mm)  φh (mm)
+   Layouts                              N     L (m)    Sh (m)    N     L (m)    Sh (m)
+
+        (a)          3       25      100       2        4        1.5       2        4        1.5
+
+       (b)         4       25      100       2        5        1.5       2        5        1.5
+
+        (c)          5       25      100       3        6        1.5       3        6        1.5
+
+       (d)         6       25      100       4        8        1.5       3        8        1.5
+
+        (e)          7       25      100       4        9        1.5       4        8        1.5
+
+         (f)          8       25      100       5        9        1.5       4        8        1.5
+
+       (g)         9       25      100       5       10        1.5       4        9        1.5
+
+       (h)         10       25      100       6       10        1.5       4       10        1.5
+
+Notes:      (1)  The conditions for designating a retaining wall as a ‘new’ retaining wall or as an ‘existing’
+                  retaining wall are stipulated in the Geotechnical Manual for Slopes (GCO, 1984) and Works
+               Bureau Technical Circular No. 13/99 (Works Bureau, 1999).
+             (2)  He is the maximum effective height of slope feature, φr the soil nail diameter, φh the drillhole
+                 diameter, Sh the horizontal spacing of soil nails, and L the length of the portion of soil nail in
+                 material behind wall backfill.
+             (3)  Total length of a soil nail, Ltotal, should include the length of the portion of soil nail within the
+                  retaining wall and wall backfill, Lfree, and L.
+             (4)  For He between any of the two consecutive values in the above table, the soil nail layout
+                corresponding to the higher He value should be adopted.
+             (5) N is the number of soil nails per vertical column required at the critical section, i.e. the section
+                with the maximum effective height, He.  At other parts of the retaining wall, soil nails should
+               be provided  at  vertical and  horizontal spacing  similar  to  that  at  the  critical  section.
+                  Alternatively, different soil nail layouts according to the He of that part of the retaining wall
+            may be adopted.
+             (6)  The vertical spacing (Sv) of soil nails, as defined in Figure 5.1, should not be less than 1.5 m.
+                     If necessary, designers may adjust N and Sh to achieve the required minimum Sv value.  In so
+                 doing, the adjusted layout should maintain the same soil nail density as that of the layout
+                given in this Table, with Sh ≥ 1.0 m.  Where the designers opt for a specific Sv value
+                    (e.g. 2 m) to suit site constraints or other considerations, the soil nail layout may be adjusted
+              by maintaining the same soil nail density as that given in this Table, with Sh ≥ 1.0 m.
+             (7)  Soil nails should be evenly spaced over the face of the retaining wall.
+             (8)  Steel reinforcement for soil nails shall be of Type 2 high yield deformed bars.
+             (9)  If rock is encountered in the process of drilling such that part of the soil nails will be installed
+                  in rock (e.g. installation through a PW50/90 zone or better, see Geoguide 3 (GCO, 1988)),
+                 designers may exercise professional judgement to reduce the soil nail length.
+            (10) Designers should check the land status to establish whether the soil nails would encroach into
+                  the adjoining land and, if so, whether this is acceptable to the land owner.
+            (11) Sections of a retaining wall  that are lower than 2 m in height do not usually require
+                reinforcement by soil nails.
+
+
+===== PDF PAGE 61 =====
+60
+
+
+
+
+
+                                         Elevation
+
+
+
+
+
+                                        Section A-A
+
+   Notes:      (1) L = Length of the portion of soil nail in material behind the wall backfill; Lfree = Length of
+                     the portion of the soil nail within the retaining wall and wall backfill; H = Slope feature
+                     height; Hr = Height  of  retained ground; Tw = Average  retaining  wall  thickness;
+                 β = Gradient of terrain above slope feature.
+                 (2)  N, L, Sv, Sh and other dimensions for the soil nails are given in Table 5.11 based on the
+                    type of soil nail layout specified by designers.
+                 (3)  If  tie beams and/or  tie columns are provided, the soil nails may not necessarily be
+                     staggered.
+
+
+Figure 5.9  Prescriptive Soil Nails on a Retaining Wall
+
+5.4.3  Soil Nail Head and Facing
+
+      Skin walls, tie beams or tie columns should be provided to connect soil nails, in
+particular those installed in masonry retaining walls with poor wall conditions, such as
+dry-packed walls or walls with signs of distress.   Isolated concrete soil nail heads can be
+
+
+===== PDF PAGE 62 =====
+61
+
+used in concrete or well-constructed masonry retaining walls, because these walls generally
+have better structural integrity.  For well-constructed masonry retaining walls, recessed soil
+nail heads are preferred in order to preserve the wall fabric and appearance.  Due care needs
+to be exercised in the temporary removal of the masonry blocks to facilitate construction of
+recessed soil nail heads.
+
+       Typical details of a prescriptive reinforced concrete skin wall for connecting the soil
+nails in a concrete or masonry retaining wall together are shown in the latest version of CEDD
+Standard Drawing No. C2520 : Typical Details of Skin Wall with Soil Nails.
+
+       Typical details of the prescriptive exposed reinforced concrete  tie beams and  tie
+columns for connecting soil nails in a concrete or masonry retaining wall together are shown
+in the latest version of CEDD Standard Drawings No. C2524 : Details of Exposed Tie Beam
+for Retaining Wall and No. C2523 : Details of Embedded Tie Column for Masonry Retaining
+Wall.
+
+       Typical details of the exposed soil nail heads are shown in the latest version of CEDD
+Standard Drawing No. C2522 : Typical Details of Soil Nail Head on Rock or Concrete Wall
+Surface.
+
+     The following factors should be considered in the choice of the types of soil nail heads
+and facing for use on a wall face:
+
+                (a) Slenderness  ratio  of  the  wall,  defined  as  He/Tw  (see
+                  Figures 5.6 and 5.7) – Skin walls should be provided to
+                   reinforce existing retaining walls with high slenderness ratio.
+              As a general guidance, a skin wall should be constructed
+                 over the entire face of a retaining wall with a slenderness
+                     ratio equal to or greater than 5.
+
+               (b) Wall  condition – Skin  walls  should be  considered  to
+                   reinforce existing masonry retaining walls with poor wall
+                   condition.  As a general guidance, a skin wall should be
+                  constructed over the entire face of a dry-packed masonry
+                   retaining wall, or a masonry retaining wall with condition
+                 Class B or observed state of wall deformation No. (2), as
+                  defined in Tables 5.7 and 5.8 respectively.
+
+                (c) Availability of space in front of the wall – If exposed tie
+               beams or exposed soil nail heads are to be provided to a
+                   retaining wall overlooking a footpath, the lowest row of
+               beams or soil nail heads should be placed at an elevation
+                 high enough to avoid pedestrians being affected.
+
+               (d) Slope appearance – GEO Publication No. 1/2000 : Technical
+                 Guidelines on Landscape Treatment and Bio-engineering
+                    for Man-made Slopes and Retaining Walls (GEO, 2000a)
+                  gives  guidelines on  landscape  treatment  to man-made
+                    features.   If no skin wall is constructed over an existing
+
+
+===== PDF PAGE 63 =====
+62
+
+                  wall face, care should be exercised to avoid staining of the
+                  surface of the existing wall due to grouting of soil nails.
+
+
+5.4.4  Corrosion Protection
+
+      Guidance on the design of corrosion protection measures for steel reinforcement of
+prescriptive soil nails is given in Section 5.2.4.
+
+
+5.5   PRESCRIPTIVE SKIN WALLS FOR MASONRY RETAINING WALLS
+
+5.5.1  Qualifying Criteria
+
+      Concrete skin walls are commonly used for upgrading masonry retaining walls.  The
+prescriptive skin wall may be considered as upgrading works for masonry retaining walls if
+the qualifying criteria given in Table 5.11 are satisfied.  In the case where not all of the
+qualifying criteria are satisfied, the skin wall may be used as preventive maintenance works.
+
+
+Table 5.11  Qualifying Criteria for Application of Prescriptive Skin Walls to Masonry
+            Retaining Walls as Upgrading Works
+         Subjects                             Qualifying Criteria for Application
+
+        Geometry                 Maximum effective height of slope feature, He ≤ 8 m
+
+                                 1.  There should not be any observable or recorded presence of weak materials
+                               such as extensive kaolin-bearing layers, ground with extensive loose  fill
+                                    materials, etc.
+  Engineering and geology
+                                 2.  There should not be any observable or recorded signs of water which indicate
+                                      that the groundwater level  is higher than 1/3 of the height of retained
+                                ground, Hr.
+                                 1.  The wall should satisfy the conditions for ‘existing’ walls stipulated in the
+                                Geotechnical Manual for Slopes (GCO, 1984) and Works Bureau Technical
+                                  Circular No. 13/99 (Works Bureau, 1999).
+        Wall type
+                                 2.  The wall should be of a condition no worse than wall condition Class B and
+                            no worse than observed state of wall deformation No. (2) as defined in
+                               Table 5.7 and Table 5.8 respectively.
+
+   Wall slenderness ratio,                                                     He / Tw < 5          (He / Tw)
+
+    Wall face angle, (θ)                                   0° ≤ θ ≤ 10°
+
+                                 1.  Gradient of terrain in front of slope feature, α (averaged over a horizontal
+       Terrain profile            distance of four times the wall thickness) should not be greater than 10°.
+                                 2.  Gradient of terrain above slope feature, βshould not be greater than 10°.
+                                 1.  Vertical uniform surcharge, q should not be greater than 10 kPa.
+     Surcharge loading                                                                                            2                                 2.  Total horizontal load, P should not be greater than 0.2 Hr , where P  is
+                                    in kN/m and Hr is in metres.
+
+
+===== PDF PAGE 64 =====
+63
+
+
+
+
+
+                 θ
+
+
+
+
+
+            α
+
+
+
+                                      Wall Geometry
+
+   Legend:
+   α      Gradient of terrain in front of slope feature
+   β      Gradient of terrain above slope feature
+   γ       Unit weight of soil
+   θ      Wall face angle
+    H       Slope feature height
+      He     Maximum effective height of slope feature, where He = H (1 + 0.35 tan β) + q/γ
+      Hr      Height of retained ground
+     Hw      Height of design groundwater level behind the wall
+          i       Wall back angle
+      q       Design surcharge
+      Tw      Average thickness of masonry retaining wall
+           ts        Prescriptive skin wall thickness
+              Design groundwater table
+
+
+Figure 5.10  Prescriptive Skin Walls to Masonry Retaining Walls
+
+5.5.2  Skin Wall Design
+
+     The prescriptive skin wall design should be carried out in accordance with the
+following steps:
+
+                (a) Compare the measured retaining wall thickness with the
+              minimum required masonry retaining wall thickness where
+               no works are needed using Figure 5.8.   If the measured
+                   retaining wall thickness  is equal to or greater than the
+              minimum required thickness, the wall can be considered as
+                 being up  to  the  safety  standards  for  ‘existing’  walls
+               recommended  in  the  Geotechnical  Manual  for  Slope
+
+
+===== PDF PAGE 65 =====
+64
+
+              (GCO,  1984)  and  Works  Bureau  Technical  Circular
+               No. 13/99 : Geotechnical Manual for Slopes - Guidance on
+                   Interpretation  and  Updating  (Works  Bureau,  1999),
+                 provided that the conditions for ‘existing’ walls are satisfied,
+                and no upgrading works would be required in this case.
+
+               (b) Otherwise, determine the required prescriptive skin wall
+                   thickness, ts, using the following equation:
+
+                                                        ts = 0.056He + 0.22 ......................... (5.2)
+
+                where He = maximum effective height of slope feature (m)
+
+       Typical skin wall details are given in the latest version of CEDD Standard Drawing
+No. C2521 : Typical Details of Skin Wall without Soil Nails.
+
+
+5.6   PRESCRIPTIVE CONCRETE BUTTRESSES FOR ROCK CUT SLOPES
+
+     Where a rockfall has occurred leading to the formation of a cavity on the slope face, it
+may be necessary to construct a concrete buttress in the cavity to prevent further rockfalls.
+A buttress serves two functions, viz. to retain and protect areas of weak rock and to support
+the overhang.   It may also be used to prevent local toppling failure of the rock face.  Rock
+dowels are commonly used in conjunction with concrete buttresses to stabilise and tie the
+rocks together.  Typical details of a concrete buttress are shown in the latest version of
+CEDD Standard Drawing No. C2203 : Typical Details of Concrete Buttress Type A.
+
+     The size of a concrete buttress is generally governed by geometrical considerations
+such that it is large enough to provide physical support to a rock block or overhang.  The
+stability of its foundation should be considered.   It should be founded on a level, clean and
+sound rock surface.   If this surface is not at right angles to the direction of resultant force
+acting on the buttress, the buttress should be anchored to a solid base using dowels to prevent
+sliding failure.  In addition, the top of the buttress should be set at a higher elevation than the
+top of the overhang to ensure good contact.
+
+
+5.7   PRESCRIPTIVE ROCK DOWELS FOR ROCK CUT SLOPES
+
+5.7.1  Collection and Assessment of Discontinuity Data
+
+       Stability in rock is controlled principally by discontinuities in the rock mass.  The
+role of discontinuity data collection is primarily to aid the identification of the possible modes
+of  failure.  Rock outcrop mapping  is the best  field way to obtain discontinuity data.
+Geoguide 2 : Guide to Site Investigation (GCO, 1987) and Geoguide 3 : Guide to Rock and
+Soil Descriptions (GCO, 1988) describe the requirements for rock discontinuity mapping for
+rocks in Hong Kong.
+
+     Rock joint discontinuity data should be recorded in a proforma similar to Figure 1 of
+Geoguide 3 (GCO, 1988).
+
+
+===== PDF PAGE 66 =====
+65
+
+     The degree of rock exposure  is usually the controlling factor in determining the
+accuracy of the collected data.  In the event that the rock slope face is fully exposed, there
+should be sufficient good quality data for rock mass discontinuity assessment.   If little or no
+exposure is available on the slope, knowledge of the local geology may permit extrapolation
+from areas outside the slope.  The key to this lies in the recognition of discontinuity patterns.
+Where extrapolation is necessary, designers should determine whether the rock mass and
+discontinuity pattern in the area of data collection are akin to those of the rock slope by
+consideration of the local geological conditions.
+
+     Where there are doubts on this, the discontinuity data should be collected from the
+covered rock slope direct.  Techniques for investigating partially and fully covered rock
+faces include surface cover stripping, window opening, coring and drillhole inspection.
+Where stripping is used, a scanline survey may be undertaken as opposed to stripping the
+whole slope. Where prescriptive measures are specified without a close inspection of all the
+rock blocks to be treated, the actual rock block size and the measures needed should be
+reviewed once the conditions and dimensions of the block can be examined on site more
+accurately during the construction stage, particularly when the slope surface cover is removed
+and/or safe access for close inspection is provided.
+
+    A qualitative assessment is required to determine the potential instability problem and
+the likely scale of  failure.   If local zones of  instability are observed, the prescriptive
+measures items given in this document can be applied.  However,  if there are potential
+global instability or large zones of potentially unstable rock blocks with a volume greater than
+5 m3 , the use of these prescriptive measures items alone is not considered adequate, and
+suitable stabilisation measures based on analytical design should be implemented.
+
+      During the assessment, kinematic analysis could be used to facilitate judgement to be
+made on the stability of the slope. Where stereoplots are used, their limitations should be
+recognised (Hoek & Bray, 1981; Hencher, 1985).   It is important that designers exercise due
+care when interpreting stereoplots and that correct judgement is applied.   It should also be
+noted that assessment of discontinuity data only provides a reference for designers.  The
+stability of an existing rock slope, particularly local stability of individual rock blocks, should
+always be assessed based on  field inspections.   Indeed, the step of discontinuity data
+collection may be omitted if the rock face to be treated is fully exposed, such that detailed
+examination of the rock face can be carried out to identify all potential instability problems.
+
+      Designers should review the overall stability of a rock slope before concentrating on
+stabilising small unstable rock blocks by means of prescriptive measures.  Desk study,
+collection of relevant rock joint data and assessment of the stability of an existing rock slope
+through detailed visual inspection in the field should be carried out as needed.
+
+
+5.7.2  Prescriptive Rock Dowels
+
+      Loosening and detachment of small rock blocks on the slope face can be prevented by
+the installation of passive rock dowels, which are composed of reinforcing steel bars grouted
+into holes drilled in the underlying stable rock.
+
+       Prescriptive rock dowels can be applied as upgrading works to rock cut slopes which
+
+
+===== PDF PAGE 67 =====
+66
+
+satisfy the qualifying criteria given in Table 5.12.  In the case where not all the qualifying
+criteria are satisfied, the rock dowels may be used as preventive maintenance works.
+
+      Standard rock dowel design has been developed as shown  in Figure 5.11  for
+prescriptive application.  The rock block sliding angle and rock block volume should be
+estimated prior to using the design table to determine the number of dowels required.  By
+reading off from the design table with the appropriate volume of potentially unstable rock
+block, the required number of dowels can be estimated.  Typical details of a rock dowel are
+shown in the latest version of CEDD Standard Drawing No. C2202 : Typical Arrangement of
+Rock Dowel.
+
+
+Table 5.12  Qualifying Criteria for Application of Prescriptive Rock Dowels to Rock Cut
+            Slopes as Upgrading Works
+
+         Subjects                             Qualifying Criteria for Application
+
+                                 1.  The volume of the rock block should not be greater than 5 m3 and the rock
+                               block is not supporting any foundations of structures or surcharge.
+        Geometry            2.  The angle between the slope at the rock face and the potential sliding surface
+                                should not be smaller than 10°.
+                                 3.  The angle of the rock block basal sliding surface should be smaller than 60°.
+                                 1.  The rock type is granitic or volcanic and of decomposition grades I to III.
+  Engineering and geology
+                                 2.  No daylighting clay-infilled or silt-infilled discontinuities.
+
+
+
+
+                                            Volume of Potentially     Number of Rock
+                                                 Unstable Rock Block, v(m3)   Dowels Required
+                                                        v ≤ 1                   1
+                                                       1 < v ≤ 2                  2
+                                                       2 < v ≤ 3                  3
+                                                       3 < v ≤ 4                  4
+                                                       4 < v ≤ 5                  5
+
+  Notes:    (1)  Dowel bars shall be of 32 mm in diameter (hot dip galvanised type 2 high yield steel bars to
+               be used).
+             (2)  Angle of dowels to be approximately perpendicular to potential sliding surface of the rock
+                  block.
+             (3)  Dowel length = 3 x thickness of potentially unstable rock block, subject to a minimum length
+                 of 3 m and a maximum length of 6 m.
+             (4)  The layout of the rock dowels as applied to a sliding rock block/wedge shall be at least 0.3 m
+               from  the  identified  periphery  of  the rock block/wedge  in  order  to provide  effective
+                    stabilisation.
+             (5)  The vertical and horizontal spacing of the rock dowels shall be from a minimum of 0.3 m to
+               an effective spacing evenly distributed to cover the sliding area of the block.
+
+
+Figure 5.11  Prescriptive Rock Dowels on Rock Cut Slopes
+
+
+===== PDF PAGE 68 =====
+67
+
+                        6. OTHER CONSIDERATIONS
+
+6.1  GENERAL
+
+      This Chapter provides guidance on other pertinent considerations in respect of the
+application of the prescriptive design framework.
+
+
+6.2  SLOPE APPEARANCE AND LANDSCAPING
+
+     Due consideration should be given to making the appearance of a slope feature with
+prescriptive measures as natural as possible and minimising the potential visual impact to the
+existing environment.  Whenever possible, vegetation should be used as the primary surface
+protection for slopes.  General guidance on greening and landscape treatment for slope
+features  is given in GEO Publication No. 1/2000  : Technical Guidelines on Landscape
+Treatment and Bio-engineering for Man-made Slopes and Retaining Walls (GEO, 2000a).
+
+      Guidance on selection of vegetation types (grass, shrubs, trees, creepers and/or other
+herbaceous plants), species and planting techniques (e.g. hydroseeding mix) can be found in
+GEO (2000a).  Selection of vegetation type and species for area-specific or site-specific
+applications should be made in consultation with a landscape architect, the advice of whom
+could also be sought with regard to visual and ecological aspects.  The party responsible for
+maintenance of the slope feature and the horticulture should also be consulted as appropriate.
+Further information on vegetation species suitable for slope greening can be found in the
+booklet “Tree Planting and Maintenance in Hong Kong” published by the Information
+Services Department (Hong Kong Government, 1991) and in GEO Technical Guidance Note
+No. 20 : Update of GEO Publication 1/2000 – Technical Guidelines on Landscape Treatment
+and Bio-engineering for Man-made Slopes and Retaining Walls (GEO, 2007c).
+
+
+6.3  TREE PRESERVATION
+
+     The government policy on tree preservation is that no trees should be unnecessarily
+felled or pruned (ETWB, 2006b).  The planning and design of prescriptive measures should
+take into account the need for tree preservation on slope features.  Designers should ensure
+that the existing trees are preserved as far as possible by selecting appropriate prescriptive
+measures items and adjusting the layout of the works.  For example, tree rings should be
+provided to existing trees where a hard surface cover is required.  The prescriptive soil nail
+layout should be adjusted to locate the nails away from tree trunks and tree roots.  Box-out
+should also be provided for existing trees where a prescriptive skin wall is used.
+
+      Trees should be properly protected during construction works.  Extreme care  is
+needed to avoid damage to major tree roots during excavation for subsurface drainage and soil
+nailing.  Protective fencing may be used to screen construction works from areas of existing
+vegetation.  Existing tree trunks may also be protected with the use of wooden pallets and/or
+hessian wrapping during construction works.
+
+
+===== PDF PAGE 69 =====
+68
+
+6.4   BUILDABILITY
+
+       In prescribing improvement works to slope features using prescriptive measures, due
+consideration should be given to assessing the buildability of the works with respect to the
+site conditions.  In particular, designers should give due consideration to the buildability of
+soil nails in ensuring that the design is practical and buildable (GEO, 2008).
+
+
+6.5  WORKS IN THE VICINITY OF SENSITIVE STRUCTURES
+
+     When carrying out improvement works to slope features in the vicinity of sensitive
+structures, such as old buildings with shallow foundations, buildings that have previously
+been subjected to disturbance and important underground service utilities that are vulnerable
+to ground movement, designers should ensure that the proposed prescriptive measures will
+not induce undue disturbance or excessive ground movement to the sensitive structures.
+Where deemed necessary, suitable preventive or mitigation measures should be implemented
+to minimise the potential disturbance that could be caused by the prescriptive measures.  The
+need  for condition or  defects survey of the  sensitive  structures and  setting up of an
+appropriate monitoring system should also be considered.
+
+
+6.6  CONSTRUCTION SUPERVISION AND CONTROL
+
+     The necessary construction control for prescriptive measures is similar to that for any
+other form of slope works which are designed analytically.  Adequate site supervision and
+control should be provided during the implementation of the measures.  General guidance on
+aspects of construction control is given in Chapter 9 of the Geotechnical Manual for Slopes
+(GCO, 1984).  Chapter 6.2 of Geoguide 7  : Guide to Soil Nail Design and Construction
+(GEO, 2008) also provides guidance on construction supervision and control of soil nailing
+works.
+
+
+6.7  CONSTRUCTION REVIEW
+
+     The  application  of  prescriptive  measures  does  not  involve  detailed  ground
+investigation and design  analyses  at  the design  stage.    It  is  therefore  of paramount
+importance that construction reviews are carried out during various stages of construction to
+examine the actual condition of the slope feature and verify the validity of the design
+assumptions.
+
+       Construction reviews should include site inspections and assessment of the geology,
+slope-forming materials and groundwater conditions, together with verification of whether the
+qualifying criteria for application of the prescriptive measures have been met.  The reviews
+should also include an evaluation of the suitability and adequacy of the specified types and
+items  of  prescriptive measures,  as well  as recommendations on  the necessary design
+modifications to cater for the actual site and ground conditions as revealed.
+
+      Every opportunity should be taken in inspecting any exposed slope-forming materials
+for adverse geological or groundwater conditions, and identifying any significant differences
+
+
+===== PDF PAGE 70 =====
+69
+
+between the actual conditions and that assumed during the design stage.  This can be done
+most effectively at the time when the prevailing slope surface cover has been removed, during
+excavation for subsurface drainage works, and during drilling for raking drains or soil nails.
+Where deemed necessary, geological advice may be sought from an experienced engineering
+geologist on  the presence  of any adverse  geological  conditions.  The importance  of
+engineering  geological  input  during  construction  is  emphasised  in GEO  Publication
+No. 1/2007 : Engineering Geological Practice in Hong Kong (GEO, 2007d).
+
+     The  findings and recommendations  of  construction  reviews, including  sketches,
+drawings, notes and photographs which record the site observations and design amendments,
+should be properly documented as ‘Site Inspection Records’ in the “Record Sheets for
+Prescriptive Measures on Man-made Slope Features” (Figure  2.2).  The record sheets,
+together with other information as specified in Geoguide 5  : Guide to Slope Maintenance
+(GEO, 2003), should be included in the Maintenance Manual.
+
+
+6.8  MAINTENANCE
+
+      Regular and proper maintenance should be provided to slope features with prescriptive
+measures.  General guidance on recommended good practice for maintenance works for
+slope features, including the provision of safe access, is given in Geoguide 5 (GEO, 2003).
+
+      Raking drains used as prescriptive measures should not be considered as “Special
+Measures” as defined in Geoguide 5, and the monitoring requirements stipulated in Section 5
+of Geoguide 5  are  not  applicable  to  these  drains.   Regular  inspections and  routine
+maintenance of the raking drains should however be carried out.
+
+     Where water-carrying services are present which are judged to have a destabilising
+effect on a slope feature in the event of leakage, the guidance given in Geoguide 5
+should be followed.
+
+
+===== PDF PAGE 71 =====
+70
+
+                   REFERENCES
+
+
+Au, S.W.C. & Suen, R.Y.C. (1991a).  The Role of Environmental Factors in Triggering
+       Failures (Special Project Report No. SPR 3/91).  Geotechnical Engineering Office,
+       Civil Engineering Department, Hong Kong, 103 p.
+
+Au, S.W.C. & Suen, R.Y.C. (1991b).  The effect of road drainage and geometry in causing
+       roadside slope failures.  Proceedings of the Ninth Asian Regional Conference on Soil
+      Mechanics and Foundation Engineering, Bangkok, vol. 1, pp. 373-376.
+
+Brand, E.W., Hencher, S.R. & Youdan, D.G. (1983).  Rock slope engineering in Hong Kong.
+      Proceedings of the Fifth International Rock Mechanics Congress, Melbourne, vol. 1,
+       pp. C17-C24. (Discussion, vol. 3, G126).
+
+BSI (2004).  Eurocode 7.  Geotechnical Design.  General Rules (BS EN 1997-1 : 2004).
+       British Standard Institution, London, 172 p.
+
+CEDD (2006).  General Specification for Civil Engineering Works.  Civil Engineering and
+      Development Department, Hong Kong.
+
+Dubin, B.I., Watkins, A.T. & Chang, D.C.H. (1986).   Stabilisation of existing rock faces in
+      urban areas of Hong Kong.  Proceedings of the Conference on Rock Engineering and
+      Excavation in an Urban Environment, Hong Kong, pp. 155-171.
+
+ETWB (2006a).  Code of Practice on Monitoring and Maintenance of Water-carrying
+       Services Affecting Slopes.  Environment, Transport and Works Bureau, Government
+        Secretariat, Hong Kong, 93 p.
+
+ETWB (2006b).  Tree Preservation (Environment, Transport and Works Bureau Technical
+       Circular  (Works)  No.  3/2006).   Environment,  Transport  and  Works  Bureau,
+      Government Secretariat, Hong Kong, 14 p.
+
+Furgo Scott Wilson Joint Venture (2008).  Review of Sub-surface Drainage Provisions for
+      Recompacted Fill Slopes (GEO Report No. 225).  Geotechnical Engineering Office,
+       Civil Engineering and Development Department, Hong Kong, 69 p.
+
+GCO (1984).  Geotechnical Manual for Slopes. (2nd Edition).  Geotechnical Control Office,
+       Civil Engineering Services Department, Hong Kong, 295 p.
+
+GCO (1987).  Guide to Site Investigation (Geoguide 2).  Geotechnical Control Office, Civil
+      Engineering Services Department, Hong Kong, 359 p.
+
+GCO (1988).  Guide to Rock and Soil Descriptions (Geoguide 3). Geotechnical Control
+       Office, Civil Engineering Department, Hong Kong, 189 p.
+
+GEO (1993).  Guide to Retaining Wall Design (Geoguide 1). (2nd Edition).  Geotechnical
+      Engineering Office, Civil Engineering Department, Hong Kong, 258 p.
+
+
+===== PDF PAGE 72 =====
+71
+
+GEO (2000a).   Technical Guidelines on Landscape Treatment and Bio-engineering for
+     Man-made Slopes and Retaining Walls (GEO Publication No. 1/2000).  Geotechnical
+      Engineering Office, Civil Engineering Department, Hong Kong, 146 p.
+
+GEO  (2000b).   Highway  Slope  Manual.    Geotechnical  Engineering  Office,  Civil
+      Engineering Department, Hong Kong, 114 p.
+
+GEO (2003).  Guide to Slope Maintenance (Geoguide 5).  (3rd Edition).   Geotechnical
+      Engineering Office, Civil Engineering Department, Hong Kong, 132 p.
+
+GEO (2004).  Guidelines for Assessment of Old Masonry Retaining Walls in Geotechnical
+       Studies and  for Action  to be Taken on Private Walls (GEO Circular No.  33).
+      Geotechnical Engineering Office, Civil Engineering and Development Department,
+     Hong Kong, 16 p.
+
+GEO (2006).  Hydraulic Design of Stepped Channels on Slopes (GEO Technical Guidance
+      Note No. 27).  Geotechnical Engineering Office, Civil Engineering and Development
+      Department, Hong Kong, 16 p.
+
+GEO  (2007a).    Fill  Slope  Recompaction  –  Investigation,  Design  and  Construction
+       Considerations (GEO Technical Guidance Note No. 7).  Geotechnical Engineering
+       Office, Civil Engineering and Development Department, Hong Kong, 6 p.
+
+GEO (2007b).  Guidelines for Classification of Consequence-to-Life Category for Slope
+      Features (GEO Technical Guidance Note No. 15).  Geotechnical Engineering Office,
+       Civil Engineering and Development Department, Hong Kong, 14 p.
+
+GEO  (2007c).   Update  of GEO  Publication No. 1/2000  -  Technical  Guidelines on
+      Landscape Treatment and Bio-engineering for Man-made Slopes and Retaining Walls
+     (GEO Technical Guidance Note No. 20).  Geotechnical Engineering Office, Civil
+       Engineering and Development Department, Hong Kong, 8 p.
+
+GEO  (2007d).   Engineering  Geological  Practice  in Hong Kong (GEO  Publication
+      No. 1/2007).  Geotechnical Engineering Office, Civil Engineering and Development
+      Department, Hong Kong, 278 p.
+
+GEO (2008).  Guide to Soil Nail Design and Construction (Geoguide 7). Geotechnical
+      Engineering Office, Civil Engineering and Development Department, Hong Kong,
+      97 p.
+
+Hencher, S.R. (1985).  Limitations of stereo-graphic projections for rock slope stability
+       analysis.  Hong Kong Engineer, vol. 13, No. 7, pp. 37-41.
+
+Ho, K.K.S., Sun, H.W. & Hui, T.H.H. (2003).  Enhancing the Reliability and Robustness of
+      Engineered Slopes (GEO Report No. 139).  Geotechnical Engineering Office, Civil
+      Engineering Department, Hong Kong, 63 p.
+
+Hoek, E. & Bray, J. (1981).  Rock Slope Engineering (Revised 3rd Edition).   Institution of
+      Mining and Metallurgy, London, 358 p.
+
+
+===== PDF PAGE 73 =====
+72
+
+Hong Kong Government (1991).  Tree Planting and Maintenance in Hong Kong.  Hong
+     Kong Government, 53 p.
+
+Hui, T.H.H., Sun, H.W. & Ho, K.K.S. (2007).  Review of Slope Surface Drainage with
+      Reference  to  Landslide  Studies and  Current  Practice (GEO Report No.  210).
+      Geotechnical Engineering Office, Civil Engineering and Development Department,
+     Hong Kong, 61 p.
+
+Knill, J.L., Lumb, P., Mackey, S., de Mello, V.F.B., Morgenstern, N.R. & Richards, B.G.
+       (1999). Report of the Independent Review Panel on Fill Slopes (report reprinted as
+    GEO Report No. 86). Geotechnical Engineering Office, Civil Engineering Department,
+     Hong Kong, 36 p.
+
+Lam, T.S.K., Sivaloganathan, K. & So, C.W. (1989).  Monitoring and Maintenance of
+       Horizontal Drains (Technical Note No. TN 2/89).  Geotechnical Control Office, Civil
+      Engineering Department, Hong Kong, 24 p.
+
+Lui, B.L.S. & Shiu, Y.K. (2005).  Prescriptive Soil Nail Design for Concrete and Masonry
+       Retaining Walls (GEO Report No. 165).  Geotechnical Engineering Office, Civil
+      Engineering and Development Department, Hong Kong, 76 p.
+
+Malone, A.W. (1985).   Reliability of the Design of Cuttings in Hong Kong (Discussion Note
+      No. DN 3/85).  Geotechnical Control Office, Civil Engineering Department, Hong
+      Kong, 20 p.
+
+Martin, R.P., Siu, K.L. & Premchitt, J. (1995).  Performance of Horizontal Drains in Hong
+     Kong (GEO Report No. 42). Geotechnical Engineering Office, Civil Engineering
+      Department, Hong Kong, 109 p.
+
+Muhunthan, B., Shu, S., Sasiharan, N., Hattamleh, O.A., Badger, T.C., Lowell, S.M. &
+       Duffy, J.D. (2005).  Design Guidelines for Wire Mesh/Cable Net Slope Protection.
+      Washington State Transportation Centre, Washington, 60 p.
+
+Pun, W.K. & Li, A.C.O. (1993).  Report on the Investigation of the 16 June 1993 Landslip at
+     Cheung Shan Estate, Kwai Chung (Advisory Report No. ADR 10/93).  Geotechnical
+      Engineering Office, Civil Engineering Department, Hong Kong, 14 p.
+
+Pun, W.K., Pang, P.L.R. & Li, K.S. (2000). Recent developments in prescriptive measures for
+       slope improvement works.  Proceedings of the Symposium on Slope Hazards and
+       their  Prevention,  Jockey Club  Research  and  Information  Centre  for  Landslip
+       Prevention and Land Development, Hong Kong, pp. 303-308.
+
+Pun, W.K. & Urciuoli, G. (2008).  Soil nailing and subsurface drainage for slope stabilisation.
+      Proceedings of the Tenth International Symposium on Landslides and Engineered
+       Slopes, Xian, vol. 1, pp. 85-126.
+
+Shiu, Y.K. & Chang, G.W.K. (2005).   Soil Nail Head Review (GEO Report No. 175).
+      Geotechnical Engineering Office, Civil Engineering and Development Department,
+     Hong Kong, 106 p.
+
+
+===== PDF PAGE 74 =====
+73
+
+Sun, H.W. & Lam, T.T.M. (2006).  Use of Standardised Debris-resisting Barriers for
+       Mitigation  of  Natural  Terrain  Landslide  Hazards (GEO  Report  No.  182).
+      Geotechnical Engineering Office, Civil Engineering and Development Department,
+     Hong Kong, 92 p.
+
+Wong, A.C.W. & Pun, W.K. (1999).  Prescriptive Design of Skin Walls for Upgrading Old
+      Masonry Retaining Walls (Special Project Report No. SPR 3/99).   Geotechnical
+      Engineering Office, Civil Engineering Department, Hong Kong, 36 p.
+
+Wong, H.N. & Ho, K.K.S. (1995).  General Report on Landslips on 5 November 1993 at
+     Man-made Features in Lantau (GEO Report No. 44).  Geotechnical Engineering
+       Office, Civil Engineering Department, Hong Kong, 78 p. plus 1 drawing.
+
+Wong, H.N. & Pang, L.S. (1996).  Application of Prescriptive Measures to Soil Cut Slopes
+     (GEO  Report  No.  56).    Geotechnical  Engineering  Office,  Civil  Engineering
+      Department, Hong Kong, 52 p.
+
+Wong, H.N., Pang, L.S., Wong, A.C.W., Pun, W.K. & Yu, Y.F. (1999).  Application of
+       Prescriptive Measures  to  Slopes and  Retaining  Walls (GEO  Report  No.  56).
+        (2nd Edition).  Geotechnical Engineering Office, Civil Engineering Department, Hong
+      Kong, 73 p.
+
+Works Bureau (1993).  Control of Visual Impact of Slopes (Works Bureau Technical Circular
+      No. 25/1993).  Works Bureau, Government Secretariat, Hong Kong, 4 p.
+
+Works Bureau (1999).  Geotechnical Manual for Slopes - Guidance on Interpretation and
+      Updating (Works Bureau Technical Circular No. 13/99).  Works Bureau, Government
+        Secretariat, Hong Kong, 12 p.
+
+Works Bureau (2000).  Improvement to the Appearance of Slopes (Works Bureau Technical
+       Circular No. 17/2000).  Works Bureau, Government Secretariat, Hong Kong, 3 p.
+
+Yu, Y.F., Siu, C.K. & Pun, W.K. (2005). Guidelines on the Use of Prescriptive Measures for
+      Rock Cut Slopes (GEO Report No. 161).  Geotechnical Engineering Office, Civil
+      Engineering and Development Department, Hong Kong, 31 p.
+
+
+===== PDF PAGE 75 =====
+74
+
+
+
+
+
+GLOSSARY OF SYMBOLS
+
+
+===== PDF PAGE 76 =====
+75
+
+               GLOSSARY OF SYMBOLS
+
+
+A          Height of no-fines concrete backfill
+
+B         Base width of no-fines concrete backfill
+
+D         Depth of soil-nailed zone
+
+ft           Vertical thickness of fill layer above top of retaining wall
+
+fw         Depth of fill layer as measured from top of retaining wall
+
+H         Slope feature height, i.e. the maximum height of slope feature from toe to crest
+
+Hd         Height of geosynthetic composite drainage material (or similar)
+
+He       Maximum effective height of slope feature
+
+Hr         Height of retained ground
+
+Hu         Height of the upper part of slope feature
+
+Hw        Height of design groundwater level behind retaining wall
+
+h          Height of retaining wall
+
+i          Angle of wall back
+
+L         Length of portion of soil nail in material behind wall backfill
+
+Lfree       Length of portion of soil nail within retaining wall and wall backfill
+
+Ltotal       Total length of soil nail
+
+N        Number of soil nails per vertical column required at the critical section
+
+P          Total horizontal load on retaining wall
+
+q          Surcharge loading expressed as an equivalent uniform pressure
+
+ru         Average pore water pressure ratio
+
+Sh          Horizontal spacing of soil nails
+
+Sv          Vertical spacing of soil nails
+
+Tw        Average thickness of retaining wall
+
+ts          Thickness of prescriptive skin wall
+
+U          Distance between upstand of flat drainage channel and slope crest
+
+
+===== PDF PAGE 77 =====
+76
+
+
+v        Volume of potentially unstable rock block
+
+α         Gradient of terrain in front of slope feature
+
+β         Gradient of terrain above slope feature
+
+φh          Soil nail drillhole diameter
+
+φr          Soil nail diameter
+
+γ         Unit weight of soil
+
+θ        Angle of wall face
+
+
+===== PDF PAGE 78 =====
+GEO PUBLICATIONS AND ORDERING INFORMATION
+             土力工程處刊物及訂購資料土力工程處刊物及訂購資料土力工程處刊物及訂購資料土力工程處刊物及訂購資料
+
+
+A selected  list of major GEO publications is given in the next   部份土力工程處的主要刊物目錄刊載於下頁。而詳盡及最新的
+page.  An up-to-date full list of GEO publications can be found at   土力工程處刊物目錄，則登載於土木工程拓展署的互聯網網頁
+the CEDD Website http://www.cedd.gov.hk on the Internet under      http://www.cedd.gov.hk 的“刊物”版面之內。刊物的摘要及更新
+“Publications”.  Abstracts for the documents can also be found at                              刊物內容的工程技術指引，亦可在這個網址找到。
+the same website.  Technical Guidance Notes are published on
+the CEDD Website from time to time to provide updates to GEO
+publications prior to their next revision.
+
+
+Copies  of GEO  publications  (except  maps  and  other   讀者可採用以下方法購買土力工程處刊物(地質圖及免費刊物讀者可採用以下方法購買土力工程處刊物讀者可採用以下方法購買土力工程處刊物讀者可採用以下方法購買土力工程處刊物 地質圖及免費刊物地質圖及免費刊物地質圖及免費刊物
+publications which are free of charge) can be purchased either   除外除外):):):):除外除外
+by:
+
+writing to                          書面訂購
+Publications Sales Section,                   香港中環花園道
+Information Services Department,                    美利大廈4樓402室
+Room 402, 4th Floor, Murray Building,                              政府新聞處
+Garden Road, Central, Hong Kong.
+Fax: (852) 2598 7482                     刊物銷售組
+                                       傳真: (852) 2598 7482
+
+or                             或
+−   Calling the Publications Sales Section of Information Services        − 致電政府新聞處刊物銷售小組訂購 (電話：(852) 2537 1910)
+   Department (ISD) at (852) 2537 1910                                      − 進入網上「政府書店」選購，網址為
+−   Visiting the online Government Bookstore at                          http://www.bookstore.gov.hk
+    http:// www.bookstore.gov.hk                                               − 透過政府新聞處的網站 (http://www.isd.gov.hk) 於網上遞交
+−  Downloading the order form from the ISD website at                               訂購表格，或將表格傳真至刊物銷售小組 (傳真：(852) 2523
+    http://www.isd.gov.hk and submit the order online or by fax to
+   (852) 2523 7195                                                     7195)
+−   Placing order with ISD by e-mail at puborder@isd.gov.hk               − 以電郵方式訂購 (電郵地址：puborder@isd.gov.hk)
+
+
+1:100 000, 1:20 000 and 1:5 000 maps can be purchased from:      讀者可於下列地點購買1:100 000，1:20 000及1:5 000地質圖：
+
+Map Publications Centre/HK,                     香港北角渣華道333號
+Survey & Mapping Office, Lands Department,             北角政府合署23樓
+23th Floor, North Point Government Offices,            地政總署測繪處
+333 Java Road, North Point, Hong Kong.                                       電話: 2231 3187
+Tel: 2231 3187
+Fax: (852) 2116 0774                            傳真: (852) 2116 0774
+
+
+Requests  for  copies  of  Geological  Survey  Sheet  Reports,   如欲索取地質調查報告如欲如欲如欲索取地質調查報告、其他免費刊物及地質圖索取地質調查報告索取地質調查報告 其他免費刊物及地質圖，請致函其他免費刊物及地質圖其他免費刊物及地質圖 請致函：請致函請致函
+publications and maps which are free of charge should be sent
+to:
+
+For Geological Survey Sheet Reports and maps which are free of    地質調查報告及地質圖:
+charge:                              香港九龍何文田公主道101號
+Chief Geotechnical Engineer/Planning,              土木工程拓展署大樓
+(Attn: Hong Kong Geological Survey Section)                              土木工程拓展署
+Geotechnical Engineering Office,
+Civil Engineering and Development Department,          土力工程處
+Civil Engineering and Development Building,           規劃部總土力工程師
+101 Princess Margaret Road,                      (請交:香港地質調查組)
+Homantin, Kowloon, Hong Kong.                     電話: (852) 2762 5380
+Tel: (852) 2762 5380                            傳真: (852) 2714 0247
+Fax: (852) 2714 0247                         電子郵件: jsewell@cedd.gov.hk
+E-mail: jsewell@cedd.gov.hk
+
+For other publications which are free of charge:            其他免費刊物:
+Chief Geotechnical Engineer/Standards and Testing,          香港九龍何文田公主道101號
+Geotechnical Engineering Office,                土木工程拓展署大樓
+Civil Engineering and Development Department,                              土木工程拓展署
+Civil Engineering and Development Building,
+101 Princess Margaret Road,                  土力工程處
+Homantin, Kowloon, Hong Kong.                標準及測試部總土力工程師
+Tel: (852) 2762 5346                            電話: (852) 2762 5346
+Fax: (852) 2714 0275                            傳真: (852) 2714 0275
+E-mail: wmcheung@cedd.gov.hk                   電子郵件: wmcheung@cedd.gov.hk
+
+
+===== PDF PAGE 79 =====
+MAJOR GEOTECHNICAL ENGINEERING OFFICE PUBLICATIONS
+              土力工程處之主要刊物土力工程處之主要刊物土力工程處之主要刊物土力工程處之主要刊物
+
+GEOTECHNICAL MANUALS
+Geotechnical Manual for Slopes, 2nd Edition (1984), 300 p. (English Version), (Reprinted, 2000).
+
+斜坡岩土工程手冊(1998)，308頁(1984年英文版的中文譯本)。
+Highway Slope Manual (2000), 114 p.
+
+
+GEOGUIDES
+Geoguide 1        Guide to Retaining Wall Design, 2nd Edition (1993), 258 p. (Reprinted, 2007).
+Geoguide 2        Guide to Site Investigation (1987), 359 p. (Reprinted, 2000).
+Geoguide 3        Guide to Rock and Soil Descriptions (1988), 186 p. (Reprinted, 2000).
+Geoguide 4        Guide to Cavern Engineering (1992), 148 p. (Reprinted, 1998).
+Geoguide 5        Guide to Slope Maintenance, 3rd Edition (2003), 132 p. (English Version).
+
+岩土指南第五冊  斜坡維修指南，第三版(2003)，120頁(中文版)。
+Geoguide 6        Guide to Reinforced Fill Structure and Slope Design (2002), 236 p.
+Geoguide 7        Guide to Soil Nail Design and Construction (2008), 97 p.
+
+
+GEOSPECS
+Geospec 1         Model Specification for Prestressed Ground Anchors, 2nd Edition (1989), 164 p. (Reprinted,
+                    1997).
+Geospec 3         Model Specification for Soil Testing (2001), 340 p.
+
+
+GEO PUBLICATIONS
+GCO Publication No. Review of Design Methods for Excavations (1990), 187 p. (Reprinted, 2002).
+1/90
+GEO Publication    Review of Granular and Geotextile Filters (1993), 141 p.
+No. 1/93
+GEO Publication    Technical Guidelines on Landscape Treatment and Bio-engineering for Man-made Slopes and
+No. 1/2000          Retaining Walls (2000), 146 p.
+GEO Publication    Foundation Design and Construction (2006), 376 p.
+No. 1/2006
+GEO Publication    Engineering Geological Practice in Hong Kong (2007), 278 p.
+No. 1/2007
+GEO Publication     Prescriptive Measures for Man-Made Slopes and Retaining Walls (2009), 76 p.
+No. 1/2009
+
+
+GEOLOGICAL PUBLICATIONS
+The Quaternary Geology of Hong Kong, by J.A. Fyfe, R. Shaw, S.D.G. Campbell, K.W. Lai & P.A. Kirk (2000),
+210 p. plus 6 maps.
+The Pre-Quaternary Geology of Hong Kong, by R.J. Sewell, S.D.G. Campbell, C.J.N. Fletcher, K.W. Lai & P.A.
+Kirk (2000), 181 p. plus 4 maps.
+
+
+TECHNICAL GUIDANCE NOTES
+TGN 1             Technical Guidance Documents
+
+
+===== PDF PAGE 80 =====
+

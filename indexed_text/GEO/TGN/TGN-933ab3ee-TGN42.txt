@@ -1,0 +1,377 @@
+
+
+===== PDF PAGE 1 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 42 (TGN 42)
+   Supplementary Guidelines on the Use of Eurocodes and UK National
+   Annexes for Structural Design of Slope Works under the Landslip
+   Prevention and Mitigation Programme
+
+      Issue No.: 1          Revision: -          Date: 11.2.2014      Page: 1 of 7
+
+1.        SCOPE
+
+1.1          This Technical Guidance Note (TGN) promulgates supplementary guidelines on the use of
+            Eurocodes and UK National Annexes (EC & UK NA) for structural design of slope works
+             under the Landslip Prevention and Mitigation Programme (LPMitP).
+
+1.2        Any feedback on this TGN should be directed to Chief Geotechnical Engineer/Landslip
+              Preventive Measures 2 of the GEO.
+
+
+2.        TECHNICAL POLICY
+
+2.1         The  technical recommendations promulgated  in  this TGN were  agreed by GEO
+             Geotechnical Control Conference (GCC) on 10 February 2014.
+
+2.2         With effect from 1 January 2015, the structural design of slope works under the LPMitP
+               shall comply with the requirements stipulated in this TGN. In the meantime, the use of the
+        TGN is optional.
+
+
+3.       RELATED DOCUMENTS
+
+3.1       BD  (2013). Code  of  Practice  for  Structural Use  of  Concrete  2013.  Buildings
+             Department, Hong Kong, 191p.
+
+3.2         BSI (1997). Structural Use of Concrete. Part 1 – Code of Practice for Design and
+             Construction (BS 8110-1:1997). British Standards Institution, London, 168p.
+
+3.3         BSI (2001). Structural Use of Steelwork in Building. Part 1 – Code of Practice for Design.
+             Rolled and Welded Sections (BS 5950-1:2000). British Standards Institution, London,
+             224p.
+
+3.4         BSI (2002a). Eurocode. Basis of Structural Design (BS EN 1990:2002+A1:2005). British
+             Standards Institution, London, 120p.
+
+3.5         BSI (2002b). Eurocode 1: Actions on Structures – Part 1-1: General Actions – Densities,
+               Self-weight, Imposed Loads for Buildings (BS EN 1991-1-1:2002). British Standards
+                Institution, London, 50p.
+
+3.6         BSI (2004a). Eurocode 2: Design of Concrete Structures – Part 1-1: General Rules and
+             Rules for Buildings (BS EN 1992-1-1:2004). British Standards Institution, London, 230p.
+
+3.7         BSI (2004b). UK National Annex for Eurocode. Basis of Structural Design (NA to BS EN
+            1990:2002+A1:2005). British Standards Institution, London, 18p.
+
+
+===== PDF PAGE 2 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 42 (TGN 42)
+   Supplementary Guidelines on the Use of Eurocodes and UK National
+   Annexes for Structural Design of Slope Works under the Landslip
+   Prevention and Mitigation Programme
+
+      Issue No.: 1          Revision: -          Date: 11.2.2014      Page: 2 of 7
+
+3.8         BSI (2005a). Eurocode 3: Design of Steel Structures – Part 1-1: General Rules and Rules
+               for Buildings (BS EN 1993-1-1:2005). British Standards Institution, London, 96p.
+
+3.9         BSI (2005b). UK National Annex to Eurocode 1.  Actions on Structures – Part 1-1:
+            General Actions – Densities, Self-weight, Imposed Loads for Buildings (NA to BS EN
+             1991-1-1:2002). British Standards Institution, London, 16p.
+
+3.10        BSI (2005c). UK National Annex to Eurocode 2: Design of Concrete Structures – Part 1-1:
+            General Rules and Rules for Buildings (NA to BS EN 1992-1-1:2004). British Standards
+                Institution, London, 26p.
+
+3.11        BSI (2006). Eurocode 1: Actions on Structures – Part 1-7: General Actions – Accidental
+             Actions (BS EN 1991-1-7:2006). British Standards Institution, London, 72p.
+
+3.12        BSI (2008a). Eurocode 3: Design of Steel Structures – Part 1-11: Design of Structures
+             with Tension Components (BS EN 1993-1-11:2006). British Standards Institution, London,
+             38p.
+
+3.13        BSI (2008b). UK National Annex to Eurocode 3: Design of Steel Structures – Part 1-1:
+            General Rules and Rules for Buildings (NA to BS EN 1993-1-1:2005). British Standards
+                Institution, London, 12p.
+
+3.14        BSI (2008c). UK National Annex to Eurocode 3: Design of Steel Structures – Part 1-11:
+            Design of Structures with Tension Components (NA to BS EN 1993-1-11:2006). British
+             Standards Institution, London, 12p.
+
+3.15      HKSARG  (2012).   Construction Standard CS2:2012 Steel Reinforcing Bars for the
+             Reinforcement of Concrete. The Standing Committee on Concrete Technology, Hong
+            Kong, 51p.
+
+
+4.      BACKGROUND
+
+4.1           In the structural design of civil engineering structures in Hong Kong, ample references are
+           made to the British Standards (BS).  Since March 2010, the British structural design
+              standards have been progressively withdrawn and replaced by EC & UK NA through the
+             implementation of BS EN Standards.
+
+4.2          According to the Development Bureau, EC & UK NA together with local guidance
+            documents should be adopted for the design of civil engineering structures in public works
+               projects with effect from 1 January 2015.  In this connection, the works departments
+              including Drainage Services Department (DSD), Highways Department (HyD) and Water
+
+
+===== PDF PAGE 3 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 42 (TGN 42)
+   Supplementary Guidelines on the Use of Eurocodes and UK National
+   Annexes for Structural Design of Slope Works under the Landslip
+   Prevention and Mitigation Programme
+
+      Issue No.: 1          Revision: -          Date: 11.2.2014      Page: 3 of 7
+
+             Supplies Department (WSD) have reviewed and updated their design manuals 1 for
+             migration to EC & UK NA.
+
+4.3           Currently, the structural design of slope works under the LPMitP follows the relevant BS
+             such as BS 8110 and BS 5950. Based on the results of a study, it was found that EC & UK
+        NA are generally applicable for use as the structural design codes for slope works under the
+            LPMitP, provided that appropriate amendments are made to suit the local conditions and
+             engineering practice.  Therefore, supplementary guidelines for the structural design of
+              slope works under the LPMitP have been prepared.
+
+
+5.        TECHNICAL RECOMMENDATIONS
+
+5.1.        The structural design of slope works under the LPMitP shall be carried out according to the
+              relevant EC & UK NA, except as modified or otherwise provided in the supplementary
+              guidelines given in Annex TGN 42 A1.
+
+5.2.          Explanatory notes in Annex TGN 42 A2 provide the rationale for the requirements of the
+             supplementary guidelines.
+
+5.3         The structural capacity of soil nails, prestressed ground anchors or reinforcement in
+              reinforced fill structures shall be determined in accordance with the relevant provisions
+               stipulated in the geotechnical guidance documents issued by the GEO. The EC & UK NA
+            and the supplementary guidelines given in Annex TGN 42 A1 are not applicable under the
+              circumstances.
+
+
+6.       ANNEXES
+
+6.1.      TGN 42 A1 – Supplementary Guidelines on the Use of Eurocodes and UK National
+            Annexes for Structural Design of Slope Works under the LPMitP
+
+6.2       TGN 42 A2 – Explanatory Notes for the Requirements of the Supplementary Guidelines
+
+
+
+                                                     (H N Wong)
+                                                 Head, Geotechnical Engineering Office
+
+
+
+1 The design manuals include DSD’s Stormwater Drainage Manual and Sewerage Manual, HyD’s Structures Design
+ Manual for Highways and Railways and WSD’s Civil Engineering Design Manual.
+
+
+===== PDF PAGE 4 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 42 (TGN 42)
+   Supplementary Guidelines on the Use of Eurocodes and UK National
+   Annexes for Structural Design of Slope Works under the Landslip
+   Prevention and Mitigation Programme
+
+      Issue No.: 1          Revision: -          Date: 11.2.2014      Page: 4 of 7
+
+
+Annex TGN 42 A1 – Supplementary Guidelines on the Use of Eurocodes and UK National Annexes
+for Structural Design of Slope Works under the LPMitP
+
+1           Reinforced Concrete Design
+
+1.1         Concrete Parameters
+
+             Parameters                             Recommendations
+
+                 Stress-strain curve of concrete              To adopt Figure 3.8 in BD (2013)
+
+                Elastic modulus                        To adopt Equation 3.1 in BD (2013)
+
+              Parameters for durability design:            To follow Tables 4.1 and 4.2 in BD
+                                                           (2013)             Exposure condition; nominal cover; minimum
+               concrete grade in cube; maximum free water
+              /cement ratio; minimum cement content
+
+1.2          Reinforcing Steel Parameter
+
+            Parameter                             Recommendation
+
+                Characteristic   yield   strength   of    steel  500 MPa
+               reinforcement bar, fyk
+
+
+2            Structural Steel Design
+
+2.1           Partial Factor for Resistance of Cross-sections in Tension to Fracture
+
+            Parameter                             Recommendation
+
+                 Partial factor for resistance of cross-sections in  1.25
+               tension to fracture, γm2
+
+
+
+
+
+                                            ANNEX TGN 42 A1 (1/2)
+
+
+===== PDF PAGE 5 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 42 (TGN 42)
+   Supplementary Guidelines on the Use of Eurocodes and UK National
+   Annexes for Structural Design of Slope Works under the Landslip
+   Prevention and Mitigation Programme
+
+      Issue No.: 1          Revision: -          Date: 11.2.2014      Page: 5 of 7
+
+2.2         Use of Wire Rope in Flexible Barriers
+
+              Description                        Recommendation
+
+              Determination  of  the  design  tension  Only  checking  against  the  breaking
+                resistance of wire rope (including wire  strength of the wire rope according to
+               rope/cable used in the net) in the design of  Section 6 of BSI (2008a) is required
+                flexible barriers
+
+
+3.          Combination of Actions
+
+3.1          Factors of Variable Actions, ψ0, ψ1, & ψ2 in Sections 6.4.3 and 6.5.3 of BSI (2002a)
+
+             Parameters                                      Recommendations
+
+               Factor for combination value of a variable action, ψ0          1.0
+
+               Factor for frequent value of a variable action, ψ1              1.0
+
+               Factor for quasi-permanent value of a variable action, ψ2      1.0
+
+
+3.2         For Structural Design of Rigid/Flexible Debris-resisting Barriers, Boulder/Rockfall
+             Barriers and Their Foundations
+
+              Descriptions                        Recommendations
+               Debris/boulder impact load             To be considered as an Accidental Action
+                                                              in the combination of actions
+              Debris impact scenarios               To be checked against the Ultimate Limit
+                                                             State under Accidental Design Situation in
+                                               BSI (2002a) and BSI (2004b)
+
+
+
+
+
+                                            ANNEX TGN 42 A1 (2/2)
+
+
+===== PDF PAGE 6 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 42 (TGN 42)
+   Supplementary Guidelines on the Use of Eurocodes and UK National
+   Annexes for Structural Design of Slope Works under the Landslip
+   Prevention and Mitigation Programme
+
+      Issue No.: 1          Revision: -          Date: 11.2.2014      Page: 6 of 7
+
+
+Annex TGN 42 A2 – Explanatory Notes for the Requirements of the Supplementary Guidelines
+
+1           Reinforced Concrete Design
+
+1.1         Concrete Parameters
+
+1.1.1       The mechanical properties and durability of the concrete specified in BSI (2004a) and BSI
+             (2005c) may not be suitable for the application in Hong Kong as they depend on the types
+            and proportions of minerals used in concrete mix and the local environment. In this regard,
+             adoption of stress-strain curve, elastic modulus and parameters for durability design in the
+               local guidelines BD (2013) are recommended in this TGN.
+
+1.2          Reinforcing Steel Parameter
+
+1.2.1        According to BSI (2004a), the types of ribbed steel reinforcement bars suitable for use in
+              concrete structures include Classes A, B and C steel bars with a yield strength varying
+            between 400 MPa and 600 MPa.  However, only Classes B and C ribbed  steel
+             reinforcement bars with a yield strength of 500MPa are covered in CS2:2012. Hence, the
+              yield strength of ribbed steel reinforcement bars for design of slope works is taken as
+            500 MPa.
+
+2            Structural Steel Design
+
+2.1           Partial Factor for Resistance of Cross-sections in Tension to Fracture
+
+2.1.1       BSI (2008b) recommends a partial factor for resistance of cross-sections in tension to
+               fracture as 1.0 which is less conservative than the 1.25 as specified in the BSI (2005a).  It
+                 is noted that BSI (2008b)’s recommendation takes account of the fact that almost all
+               structural steels used in UK are locally manufactured.  Unlike UK, Hong Kong relies on
+             imported structural steels and the quality of steel may vary by a greater margin. Therefore,
+                     it is recommended to adopt the recommended partial factor for resistance of cross-sections
+               in tension to fracture according to BSI (2005a).
+
+2.2         Use of Wire Rope in Flexible Barriers
+
+2.2.1        According to Section 6 of BSI (2008a), the tension resistance of wire rope should be
+             determined based on the breaking strength and proof (yield) strength of wire rope.  Since
+              the design criterion in respect of the proof (yield) strength is for ensuring the wire rope to
+             remain elastic which is not a design requirement for wire rope in flexible barrier, it is
+           recommended that the design criterion for checking the proof (yield) strength should be
+             omitted and only checking of the breaking strength of the wire rope shall be required.
+
+
+
+                                            ANNEX TGN 42 A2 (1/2)
+
+
+===== PDF PAGE 7 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 42 (TGN 42)
+   Supplementary Guidelines on the Use of Eurocodes and UK National
+   Annexes for Structural Design of Slope Works under the Landslip
+   Prevention and Mitigation Programme
+
+      Issue No.: 1          Revision: -          Date: 11.2.2014      Page: 7 of 7
+
+3.          Combination of Actions
+
+3.1          Factors of Variable Actions, ψ0, ψ1, & ψ2 in Sections 6.4.3 and 6.5.3 of BSI (2002a)
+
+3.1.1         In EC & UK NA, partial factors ψ0, ψ1, & ψ2 are applied to variable actions such as wind
+               loads, traffic load and construction loads under different combinations of actions for the
+             design  of  engineering  structures under  the  Ultimate  Limit  State (ULS) and  the
+               Serviceability Limit State (SLS).  However, the recommended values of these partial
+               factors in BSI (2002a) and BSI (2004b), which vary from 0 to 1.0, are only applicable for
+              building structures, road bridges and footbridges.  As a conservative approach,  it is
+           recommended that a notional value of 1.0 should be used as the partial factors for variable
+              actions in the structural design of slope works.
+
+
+3.2         For Structural Design of Rigid/Flexible Debris-resisting Barriers, Boulder/Rockfall
+             Barriers and Their Foundations
+
+3.2.1         Section 1.5.3.5 in BSI (2002a) defines Accidental Action as “action, usually of short
+              duration but significant magnitude, that is unlikely to occur on a given structure during the
+             design working life”. Examples of the Accidental Actions as given in Section 4.1 in BSI
+             (2006) are impacts from trains, ships, road vehicles, etc.  It is considered that the nature of
+             impact by boulders/debris on the  rigid/flexible  debris-resisting and boulder/rockfall
+               barriers is similar to these impacts.  Therefore, the impact by boulders/debris can be
+             considered as an Accidental Action in EC & UK NA. Moreover, the impact scenarios in
+              the structural design of rigid/flexible debris-resisting and boulder/rockfall barriers and
+                their foundations should be checked against the ULS under Accidental Design Situation.
+
+
+
+
+
+                                            ANNEX TGN 42 A2 (2/2)

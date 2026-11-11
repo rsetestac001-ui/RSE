@@ -1,0 +1,177 @@
+
+
+===== PDF PAGE 1 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 39 (TGN 39)
+  Guidelines for Estimation of Surface Runoff from Natural Terrain
+  Catchments for Drainage Design Purposes
+
+    Issue No.: 1       Revision: -        Date: 27.12.2013  Page: 1 of 4
+
+1.        SCOPE
+
+1.1           This Technical Guidance Note (TGN) supplements the guidance on the design of surface
+              drainage given in GEO (1984) to cater for surface runoff from natural terrain catchments.
+
+1.2        Any feedback on this TGN should be directed to Chief Geotechnical Engineer/Standards
+        & Testing of the GEO.
+
+
+2.        TECHNICAL POLICY
+
+2.1         The  technical recommendations  referred  to  in  this TGN were agreed by GEO
+              Geotechnical Control Conference on 17 December 2013.
+
+
+3.        RELATED DOCUMENTS
+
+3.1       DSD (2013). Stormwater Drainage Manual (with Eurocodes incorporated) - Planning,
+             Design and Management (Fourth Edition). Drainage Services Department, Hong Kong,
+            172 p.
+
+3.2          Fugro Scott Wilson Joint Venture (2013).  Review of Methods in Estimating Surface
+             Runoff from Natural Terrain” (GEO Report No. 292). Geotechnical Engineering Office,
+          Hong Kong, 98 p.
+
+3.3       GEO  (1984).   Geotechnical Manual  for  Slopes (Second  Edition).  Geotechnical
+             Engineering Office, Hong Kong, 302 p. (Reprinted, 2011)
+
+3.4       GEO (2011). New Intensity-Duration-Frequency Curves for Slope Drainage Design.
+        GEO TGN No. 30, Geotechnical Engineering Office, Hong Kong, 4 p.
+
+
+4.       BACKGROUND
+
+4.1           Natural hillside hazard mitigation works entail the design and construction of drainage
+              provisions to effectively convey surface runoff from natural terrain catchments to safe
+              discharge points.
+
+4.2          Current guidelines on surface runoff estimation are applicable primarily to man-made
+              slopes (GEO, 1984). A study has been undertaken to review the methodology for
+             determining surface runoff from natural terrain catchments.
+
+
+5.        TECHNICAL RECOMMENDATIONS
+
+5.1         The following approaches are recommended for the estimation of surface runoff from
+
+
+===== PDF PAGE 2 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+The Government of the Hong Kong Special Administrative Region
+
+GEO Technical Guidance Note No. 39 (TGN 39)
+Guidelines for Estimation of Surface Runoff from Natural Terrain
+Catchments for Drainage Design Purposes
+
+Issue No.: 1       Revision: -        Date: 27.12.2013  Page: 2 of 4
+
+           natural terrain catchments for surface drainage design purposes:
+
+            (a)  The Rational Method should be adopted to estimate surface runoff from
+                  natural terrain catchments, as follows:
+
+              Q = CiA / 3600                                            (1)
+
+                     where  Q  = peak runoff (litres/s)
+                                                    i  = design rainfall intensity (mm/hr)
+                        A  = area of catchment (m2)
+                      C  = runoff coefficient (dimensionless)
+
+            (b)  The Bransby-Williams equation, with due consideration of the presence of
+              any prominent natural stream channels (which should be accounted for by
+              means of suitable hydraulics equations), should be used for determining
+                 the time of concentration (tc), as follows:
+
+                               .014465L
+                                   tc =       2.0   1.0                                           (2)                H  A
+
+                     where     tc  = time of concentration (min)
+                        A  = catchment area (m2)
+                    H = average slope (m/100m), measured along the
+                                             line of natural flow, from the summit of the
+                                     catchment to the point under consideration
+                          L = distance (on plan) measured along the line of
+                                          natural flow between the summit and the
+                                         point under consideration (m)
+
+            (c)   Weighted  average  runoff  coefficient  to  account  for  the  relative
+                 proportions of different ground conditions (e.g. steep natural soil slopes,
+                 areas of soil surface underlain by shallow rock layer, etc.) should be used.
+             The values of runoff coefficient (C) for different ground conditions as
+              recommended by DSD (2013) should be adopted (see Annex TGN 39 A1)
+                  in determining the weighted average runoff coefficient. The effects of
+                antecedent rainfall should also be considered. In considering such effects,
+                 the value of C for areas underlain by a shallow rock layer should be taken
+                 as unity whereas an increase of 50% should be allowed for in the C value
+                  for permeable ground conditions.  The increased value of C due to
+                antecedent rainfall should be capped at 1.0.
+
+
+===== PDF PAGE 3 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 39 (TGN 39)
+  Guidelines for Estimation of Surface Runoff from Natural Terrain
+  Catchments for Drainage Design Purposes
+
+    Issue No.: 1       Revision: -        Date: 27.12.2013  Page: 3 of 4
+
+               (d)  The   rainfall   intensity   should   be   assessed   based  on   the
+                    Intensity-Duration-Frequency curves given in TGN 30 (GEO, 2011), with
+                   a 200-year return period for slope drainage design.
+
+5.2      A worked example on runoff estimation using the recommended approach can be found
+               in FSWJV (2013).
+
+
+6.       ANNEX
+
+6.1       TGN 39 A1 – Values of Runoff Coefficient recommended in DSD (2013).
+
+
+
+
+
+                                                                                    ( P L R Pang )
+                                               Acting Head, Geotechnical Engineering Office
+
+
+===== PDF PAGE 4 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 39 (TGN 39)
+  Guidelines for Estimation of Surface Runoff from Natural Terrain
+  Catchments for Drainage Design Purposes
+
+    Issue No.: 1       Revision: -        Date: 27.12.2013  Page: 4 of 4
+
+Values of Runoff Coefficient Recommended in DSD (2013)
+
+               Surface Characteristics              Runoff coefficient, C Note 1
+               Asphalt                            0.70 - 0.95
+               Concrete                           0.80 - 0.95
+               Brick                              0.70 - 0.85
+               Grassland (heavy soil Note 2)
+                               Flat                   0.13 - 0.25
+                          Steep                   0.25 - 0.35
+               Grassland (sandy soil)
+                               Flat                   0.05 - 0.15
+                          Steep                   0.15 - 0.20
+
+
+Notes
+(1) For steep natural hillsides or areas where a shallow soil surface is underlain by an impervious rock
+    layer, a higher C value of 0.4 - 0.9 may be applicable.
+
+(2) Heavy soil refers to fine-grained soil composed largely of silt and clay.
+
+
+
+
+
+                                              ANNEX TGN 39 A1

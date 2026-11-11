@@ -1,0 +1,428 @@
+
+
+===== PDF PAGE 1 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 38 (TGN 38)
+  Guidelines on the Assessment of Debris Mobility for Failures within
+  Topographic Depression Catchments
+
+
+     Issue No.: 1         Revision: A         Date: 23.12.2023    Page: 1 of 8
+
+
+1.        SCOPE
+
+1.1           This Technical Guidance Note (TGN) provides guidance on the assessment of debris
+              mobility for failures within topographic depression (TD) catchments (TDF) as defined in
+         GEO Report No. 138 (Ho & Roberts, 2016).
+
+1.2        Any feedback on this TGN should be directed to Chief Geotechnical Engineer/Planning
+            and Development of the Geotechnical Engineering Office (GEO).
+
+
+2.        TECHNICAL POLICY
+
+2.1         The technical recommendations promulgated  in  this TGN were agreed by GEO
+              Geotechnical Control Conference on 3 July 2013.
+
+
+3.        RELATED DOCUMENTS
+
+3.1       GEO (2006). The 5 May 2003 Debris Flow at Kau Lung Hang Shan, Tai Po (GEO
+             Report No. 196). Geotechnical Engineering Office, Hong Kong, 84 p.
+
+3.2       GEO (2012).  User Manual for Computer Program “2d-DMM” - Two-dimensional
+             Debris Mobility Model (spreadsheet version 1.2). Geotechnical Engineering Office,
+           Hong Kong, 58 p.
+
+3.3       GEO (2023a). Guidelines on the Assessment of Debris Mobility for Channelised Debris
+            Flows (GEO TGN 29). Geotechnical Engineering Office, Hong Kong, 6 p.
+
+3.4       GEO (2023b).  Guidelines on the Assessment of Debris Mobility for Open Hillslope
+              Failures (GEO TGN 34). Geotechnical Engineering Office, Hong Kong, 16 p.
+
+3.5          Ho, H. Y. & Roberts, K. J. (2016). Guidelines for Natural Terrain Hazard Studies (GEO
+             Report No. 138, Second Edition). Geotechnical Engineering Office, Hong Kong, 173 p.
+
+3.6          Hungr, O. (1995). A model for the runout analysis of rapid flow slides, debris flows and
+              avalanches. Canadian Geotechnical Journal, vol. 32, pp 610-623.
+
+3.7         Kwan, J.S.H. & Sun, H.W. (2006). An improved landslide mobility model. Canadian
+             Geotechnical Journal, vol. 43, pp 531-539.
+
+3.8          Lo, D.O.K. (2000).  Review of Natural Terrain Landslide Debris-resisting Barrier
+             Design (GEO Report No. 104). Geotechnical Engineering Office, Hong Kong, 91 p.
+
+
+===== PDF PAGE 2 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 38 (TGN 38)
+  Guidelines on the Assessment of Debris Mobility for Failures within
+  Topographic Depression Catchments
+
+
+     Issue No.: 1         Revision: A         Date: 23.12.2023    Page: 2 of 8
+
+
+3.9             Tattersall, J.W., Devonald, D.M., Hung, R.K.C & Kwong, R.T.S. (2009). Estimation of
+              ‘design event’ landslide sources for the North Lantau Expressway and Yu Tung Road
+              Natural Terrain Hazard Mitigation Works Study. Proceedings of the 2009 Hong Kong
+                Institution of Engineers Geotechnical Division Annual Seminar, pp 141-147.
+
+3.10        Wong, H.N., Ko, F.W.Y. & Hui, T.H.H. (2006).  Assessment of Landslide Risk of
+             Natural Hillsides in Hong Kong (GEO Report No. 191).  Geotechnical Engineering
+               Office, Hong Kong, 117 p.
+
+
+4.       BACKGROUND
+
+4.1        Ho & Roberts (2016) described two main types of natural terrain landslide hazards in
+           Hong Kong, viz. channelised debris flow (CDF) and open hillslope landslide (OHL).
+
+4.2        Wong et at (2006) introduced an additional hazard type, viz. TDF, to deal with the
+              intermediate situation between CDF and OHL. Back analyses have been carried out to
+              study the runout characteristics of TDF. This TGN promulgates the findings of the back
+               analyses.
+
+
+5.        DEBRIS MOBILITY ANALYSES
+
+              Selection of TDF for Back Analyses
+
+5.1       TDF for the back analyses were selected from the historical landslides contained in the
+            Enhanced Natural Terrain Landslide Inventory (ENTLI), including the natural terrain
+               landslides that occurred in June 2008 on Lantau. The more mobile landslides, including
+             about 120 out of 12,500 recent OHL with runout distance exceeding 100 m and about
+            500 out of 6,700 recent CDF with runout distance exceeding 175 m, were identified
+                  initially. The site settings of these cases were reviewed using the LIC 1:1000-scale
+              topographic maps and aerial photographs to ensure that they are genuine TDF. Where
+               necessary, the debris runout distances were also updated based on aerial photograph
+                interpretation (API) for the purposes of the back analyses.
+
+5.2         From the above review, 46 TDF were identified for back analyses.
+
+             Rheological Model
+
+5.3         The turbulent action involved in the debris motion of TDF is expected to be somewhere
+             between  that  of OHL and CDF.   Lo  (2000),  supplemented by  the  technical
+             recommendations in TGN No. 29 (GEO, 2023a) and TGN No. 34 (GEO, 2023b),
+            recommended the use of friction model and Voellmy model for mobility analyses of
+         OHL and CDF respectively. When using the Voellmy model to assess debris mobility of
+           CDF, a turbulence coefficient,  = 500 m/s2, is considered appropriate. Based on the
+             numerical formulation of the Voellmy model (Hungr, 1995), mobility analyses using a
+
+
+===== PDF PAGE 3 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 38 (TGN 38)
+  Guidelines on the Assessment of Debris Mobility for Failures within
+  Topographic Depression Catchments
+
+
+     Issue No.: 1         Revision: A         Date: 23.12.2023    Page: 3 of 8
+
+
+              high turbulence  coefficient,  e.g.  = 5000 m/s2 or more, would produce  results
+             comparable to those derived from the friction model with the same apparent friction
+              angle (a). It is therefore considered appropriate to use the Voellmy model with a  value
+              within the range of 500 m/s2 to 5000 m/s2 for assessing the debris mobility of TDF.
+
+5.4       A range of probable Voellmy runout parameters was considered in order to identify the
+            most appropriate set of rheological parameters for assessing the debris mobility of TDF.
+               Details of the numerical modelling and rheological parameters considered, together with
+               the results of the back analyses, are presented in Annex TGN 38 A1.
+
+
+6.        TECHNICAL RECOMMENDATIONS
+
+6.1                It is recommended that the Voellmy model should be used for the assessment of debris
+              mobility of TDF. Except for situations referred to in paragraph 6.2 below, the following
+              generic rheological parameters should be used:
+
+                                              a = 18 and  = 1000 m/s2
+
+6.2         Where historical landslides in the TD catchments have resulted in more mobile debris
+              runout than that assessed by the recommended rheological parameters, the appropriate
+               rheological parameters to be adopted in analytical design of TDF mitigation measures
+             should be assessed on a case-by-case basis, with account taken of the back-analysed
+               rheological parameters of the historical TDF within the TD catchments and any other
+               relevant factors that may affect debris mobility.
+
+6.3         The above recommendations are applicable to the study and mitigation of natural terrain
+              hazards for existing and new developments/redevelopments in Hong Kong.
+
+
+7.        ANNEXES
+
+7.1       TGN 38 A1 - Back Analyses of TDF
+
+
+
+
+
+                                                                            ( Raymond W M Cheung )
+                                                 Head, Geotechnical Engineering Office
+
+
+===== PDF PAGE 4 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 38 (TGN 38)
+  Guidelines on the Assessment of Debris Mobility for Failures within
+  Topographic Depression Catchments
+
+
+     Issue No.: 1         Revision: A         Date: 23.12.2023    Page: 4 of 8
+
+
+Annex TGN 38 A1 - Back Analyses of TDF
+
+1.          Numerical Modelling
+
+1.1         The back analyses were carried out using the computer program 2d-DMM (Kwan & Sun,
+             2006; GEO, 2012). The source volumes of the 46 TDF were estimated based on API
+              with reference to the correlations suggested by Tattersall et al (2009). No entrainment
+              along the runout paths was considered. The actual runout distances of the 46 TDF were
+             reviewed using the site-specific aerial photographs and where necessary, updated for the
+              purposes of the back analyses (e.g. debris runout due to secondary washout was not
+               considered).
+
+2.           Rheological Model
+
+2.1         Back analyses of the 46 TDF were carried out using the Voellmy model. Ten sets of
+               rheological parameters (a and ) were considered (Figure 1). The calculated debris
+              runout distances were compared with the actual debris runout distances.
+
+3.            Rheological Parameters for Estimating Runout Distance of TDF
+
+3.1         The calculated debris runout distances of the 46 TDF, as compared with the actual debris
+              runout distances, are given in Figure 2.
+
+3.2                It is noted that the predicted debris runout distances of TDF are very sensitive to the
+              value of a used. Among the ten sets of rheological parameters considered, the one with
+               a = 25,  = 500 m/s2 represents the least mobile while the one with a = 15,
+             = 5000 m/s2 is the most mobile. The rheological parameters, a = 18,  = 1000 m/s2,
+              give runout distances larger than the actual distances for about 80% of the cases (37 cases)
+              analysed (i.e. under-prediction for about 20% of the cases (9 cases)) (Figure 3). Most of
+               the under-predicted cases have their predicted runout distances within 10% of the actual
+              runout distances (Figure 4).  It should be noted that the back analyses only covered a
+              biased dataset of the more mobile historical TDF.   If less mobile cases are also
+              considered, the percentage of cases with under-prediction of the runout distance would
+             be much lower.
+
+3.3          Having regard to the nature of the dataset, results of the above sensitivity analyses,
+               uncertainties involved and dependence of runout distance on the severity of rainfall, the
+               rheological parameters, a = 18,  = 1000 m/s2, are considered appropriate for the
+              present purposes.
+
+3.4           Figure 5 shows the prediction of runout distances using the rheological parameters,
+               a = 18,  = 1000 m/s2, according to landslide volumes. It is noted that there is no strong
+             evidence to support the use of different sets of rheological parameters for different
+               landslide volumes.
+
+
+
+                                           ANNEX TGN 38 A1 (1/5)
+
+
+===== PDF PAGE 5 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 38 (TGN 38)
+  Guidelines on the Assessment of Debris Mobility for Failures within
+  Topographic Depression Catchments
+
+
+     Issue No.: 1         Revision: A         Date: 23.12.2023    Page: 5 of 8
+
+
+3.5            In the study of the TDF in Kau Lung Hang Shan, Tai Po, under the systematic landslide
+               investigation programme, the landslide was mapped in detail and super-elevation data
+            were available.  Debris velocity at different points along the runout path could be
+             deduced from the super-elevation data. These are compared with the predicted debris
+               velocity profile using a Voellmy model with a = 18,  = 1000 m/s2 (Figure 6). It can be
+             seen from the figure that the suggested rheological parameters provide a reasonably good
+                    fit to both the velocity data and runout distance (within about 10%).
+
+
+
+
+
+                                           ANNEX TGN 38 A1 (2/5)
+
+
+===== PDF PAGE 6 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 38 (TGN 38)
+  Guidelines on the Assessment of Debris Mobility for Failures within
+  Topographic Depression Catchments
+
+
+    Issue No.: 1         Revision: A         Date: 23.12.2023    Page: 6 of 8
+
+
+                                         ξ (m/s2)
+          5000                 1000                      500
+   30
+
+
+   25                                                                            0.466
+
+
+()                                                                                                          tan   20                                                                            0.364
+fa                                                       fa
+
+
+   15                                                                            0.268
+
+                                                Rheological parameters considered
+   10
+      0           0.0005         0.001         0.0015         0.002         0.0025
+                                          1/ξ (s2/m)
+                      Figure 1 - Range of rheological parameters considered
+
+  100%
+                          Under-estimate Over-estimate
+  90%
+
+TDF 80%
+46 70%
+the
+of 60%
+                                                                              fa = 15° , x = 500 m/s2
+  50%                                                                     fa = 15° , x = 1000 m/s2
+                                                                              fa = 15° , x = 5000 m/s2frequency 40%                                                                              fa = 20° , x = 500 m/s2
+                                                                              fa = 20° , x = 1000 m/s2  30%
+                                                                              fa = 20° , x = 5000 m/s2
+                                                         = 25° , x = 500 m/s2Cumulative 20%                                                                     fa
+                                                                              fa = 25° , x = 1000 m/s2
+  10%                                                                     fa = 25° , x = 5000 m/s2
+                                                                              fa = 18° , x = 1000 m/s2
+   0%
+       -100          -50          0          50         100         150         200
+                            Percentage of under-estimation/over-estimation (%)
+
+               Figure 2 - Comparison of calculated and actual debris runout distances
+
+
+                                           ANNEX TGN 38 A1 (3/5)
+
+
+===== PDF PAGE 7 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 38 (TGN 38)
+  Guidelines on the Assessment of Debris Mobility for Failures within
+  Topographic Depression Catchments
+
+
+    Issue No.: 1         Revision: A         Date: 23.12.2023    Page: 7 of 8
+
+
+    150
+actual
+and
+    100
+
+   (%)predicted
+
+     50between distance
+
+                                                                                    Over-estimation
+difference runout
+      0
+
+
+                                                                                  Under-estimationPercentage            Note:                    (Predicted runout distance - Actual runout distance)
+            % difference =                                          100%                                                     Actual runout distance
+     -50
+        0            10            20            30            40            50
+                                         Case no.
+               Figure 3 - Prediction of runout distances using a = 18°,  = 1000 m/s2
+
+
+     5
+
+  TDF)  4
+ 46
+ of
+  (Out  3
+ TDF     2
+ of
+
+     1   Number
+
+     0
+                 0 - 5%                  5 - 10%                 10 - 15%
+                           Percentage of under-estimation of runout distance
+           Figure 4 - Under-estimation of runout distances using a = 18°,  = 1000 m/s2
+
+
+                                           ANNEX TGN 38 A1 (4/5)
+
+
+===== PDF PAGE 8 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 38 (TGN 38)
+  Guidelines on the Assessment of Debris Mobility for Failures within
+  Topographic Depression Catchments
+
+
+    Issue No.: 1         Revision: A         Date: 23.12.2023    Page: 8 of 8
+
+
+     150
+
+and
+
+     100
+   (%)predicted
+between distance 50
+
+                                                                                   Over-estimation
+difference runout       0      actual
+
+                                                                                 Under-estimationPercentage
+      -50
+        10                    100                   1000                  10000
+                                     Volume (m3)
+ Figure 5 - Prediction of runout distances using a = 18°,  = 1000 m/s2 according to landslide volumes
+
+     20
+              Note: The super-elevation data at CH66 and CH73 are                                                                fa = 18° , x = 1000 m/s2
+     18    discarded as the locations are not bends along the runout
+                path.  Debris heights that are evident on the sides of the
+     16    runout path are mainly due to the unconfined spread of        Field debris velocity estimated by               debris from the road section at around CH60.
+                                                              super-elevation data (GEO, 2006)
+     14
+
+     12    (m/s)
+     10
+
+      8       Velocity
+      6
+
+      4                                                                      Measured
+                                                                                 runout      2
+
+      0
+        0      20      40      60      80     100     120     140     160     180
+                                         Chainage (m)
+ Figure 6 - Comparison of predicted debris velocity profile using a = 18°,  = 1000 m/s2 and field
+            debris velocity
+
+
+                                           ANNEX TGN 38 A1 (5/5)

@@ -1,0 +1,150 @@
+
+
+===== PDF PAGE 1 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 43 (TGN 43)
+  Guidelines on Hydraulic Design of U-shaped and Half-round Channels on
+  Slopes
+
+    Issue No.: 1       Revision: -        Date: 05.06.2014  Page: 1 of 3
+
+1.        SCOPE
+
+1.1           This Technical Guidance Note (TGN) provides technical guidance on the hydraulic
+              design of U-shaped and half-round channels on slopes.    It supersedes the design
+             methodology for U-shaped and half-round channels given in the second paragraph of
+              Section 8.3.4 and the chart given in Figure 8.7 of the Geotechnical Manual for Slopes
+           (GCO, 1984).
+
+1.2        Any feedback on this TGN should be directed to Chief Geotechnical Engineer/Standards
+        & Testing of the GEO.
+
+
+2.        TECHNICAL POLICY
+
+2.1         The technical recommendations promulgated  in  this TGN were agreed by GEO
+              Geotechnical Control Conference on 30 May 2014.
+
+3.       RELATED DOCUMENTS
+
+3.1           Ackers, P. (1969). Charts for the Hydraulic Design of Channels and Pipes. Hydraulic
+             Research Station, Wallingford, Hydraulics Research Paper No. 2, 46 p.
+
+3.2       DSD (2013). Stormwater Drainage Manual (with Eurocodes incorporated) - Planning,
+             Design and Management (Fourth Edition). Drainage Services Department, Hong Kong,
+            172 p.
+
+3.3       GCO  (1984).   Geotechnical Manual  for  Slopes (Second  Edition).  Geotechnical
+             Engineering Office, Hong Kong, 302 p. (Reprinted, 2011)
+
+3.4       HR Wallingford (2006). Tables for the Hydraulic Design of Pipes, Sewers and Channels
+               (8th Edition). HR Wallingford, DIH Barr, 2006, Thomas Telford.
+
+4.       BACKGROUND
+
+4.1          Second paragraph of Section 8.3.4 of GCO (1984) recommends the use of Manning’s
+              formula, with a maximum permissible velocity of 4 m/s and a roughness factor of 0.013,
+               for design of U-shaped and half-round channels on slopes and provides a chart in
+              Figure 8.7 for the rapid design of channels.  It further recommends that channels larger
+              than 600 mm may be designed using the charts developed by Ackers (1969) based on the
+             Colebrook-White equation.
+
+4.2       A review of the design methodology for both U-shaped and half-round channels given in
+              Section 8.3.4 and the chart given in Figure 8.7 of GCO (1984) has been carried out.  It is
+             found that the use of Manning’s formula and Colebrook-White equation for design of
+
+
+===== PDF PAGE 2 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 43 (TGN 43)
+  Guidelines on Hydraulic Design of U-shaped and Half-round Channels on
+  Slopes
+
+    Issue No.: 1       Revision: -        Date: 05.06.2014  Page: 2 of 3
+
+             U-shaped and half-round channels is still valid and consistent with the recommendations
+              given in DSD (2013). Nevertheless, discrepancies have been found between the design
+              curves in the chart given in Figure 8.7 of GCO (1984) and the results of the Manning’s
+              formula.
+
+4.3           This TGN provides an update to the design methodology for U-shaped and half-round
+              channels given in the second paragraph of Section 8.3.4 and the chart given in Figure 8.7
+              of GCO (1984).
+
+
+5.        TECHNICAL RECOMMENDATIONS
+
+5.1          U-shaped and half-round channels up to 600 mm should be designed in accordance with
+              Figure 1 of Annex TGN 43 A1.  Alternatively, assuming a maximum permissible
+               velocity of 4 m/s and a roughness factor of 0.013, Manning’s formula can be used:
+
+                                 V = R   .  S   .                                  (5.1)
+
+            where  V = velocity (m/s)
+                     n = roughness factor,
+               R = hydraulic mean depth based on a fully wetted cross-section = A/P,
+              A = wetted cross-sectional area (m2),
+                  P = wetted perimeter (m), and
+                  S = gradient of channel
+
+5.2          Channels larger than 600 mm may be designed using the Colebrook-White equation
+              presented in the design charts in HR Wallingford (2006), which is an updated version of
+             Ackers (1969).
+
+
+6.       ANNEX
+
+6.1       TGN 43 A1 - Chart for the rapid design of U-shaped and half-round channels up to
+            600 mm
+
+
+
+
+
+                                                     (H N Wong)
+                                                 Head, Geotechnical Engineering Office
+
+
+===== PDF PAGE 3 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+The Government of the Hong Kong Special Administrative Region
+
+GEO Technical Guidance Note No. 43 (TGN 43)
+Guidelines on Hydraulic Design of U-shaped and Half-round Channels on
+Slopes
+
+Issue No.: 1       Revision: -        Date: 05.06.2014  Page: 3 of 3
+
+
+
+
+
+ mm
+  600
+ to
+ up
+    channels
+     half-round
+  and
+    U-shaped
+ of
+   design
+   rapid
+  the
+  for
+   Chart
+
+ -
+
+ 1
+   Figure
+
+
+
+
+
+                                            ANNEX TGN 43 A1

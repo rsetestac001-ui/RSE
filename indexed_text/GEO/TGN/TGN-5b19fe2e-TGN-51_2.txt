@@ -1,0 +1,521 @@
+
+
+===== PDF PAGE 1 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 51 (TGN 51)
+  Supplementary Guidelines on Soil-nail Head Designs
+
+
+    Issue No.: 2       Revision: -        Date: 28.4.2025   Page: 1 of 11
+
+
+
+1.        SCOPE
+
+1.1           This Technical Guidance Note (TGN) supplements the relevant guidance given in
+            Geoguide 7 on the design of soil-nail heads.  This also serves as an update to GEO
+              Publication No. 1/2009 on the recommended sizes of soil-nail heads for prescriptive soil
+                nails used in Hong Kong.
+
+1.2        Any  feedback  on  this TGN  should  be  directed  to  the  Chief  Geotechnical
+              Engineer/Landslip Preventive Measures 2 of the Geotechnical Engineering Office (GEO).
+
+
+2.        TECHNICAL POLICY
+
+2.1         The technical recommendations promulgated  in  this TGN were agreed by GEO
+              Geotechnical Control Conference on 7 March 2025.
+
+
+3.        RELATED DOCUMENTS
+
+3.1       DOT (1994). Design Methods for the Reinforcement of Highway Slopes by Reinforced
+               Soil and Soil Nailing Techniques (HA 68/94). Department of Transport, UK. 108 p.
+
+3.2       GEO (2009). Prescriptive Measures for Man-made Slopes and Retaining Walls (GEO
+              Publication No. 1/2009). Geotechnical Engineering Office,  Civil Engineering and
+            Development Department, Hong Kong. 76 p.
+
+3.3       GEO  (2011).  Technical  Guidelines on Landscape  Treatment  for  Slopes (GEO
+              Publication No. 1/2011). Geotechnical Engineering Office,  Civil Engineering and
+            Development Department, Hong Kong. 217 p.
+
+3.4       GEO (2023). Guide to Soil Nail Design and Construction (Geoguide 7). (Continuously
+            Updated E-Version released on 21 November 2023). Geotechnical Engineering Office,
+               Civil Engineering and Development Department, Hong Kong, 90 p.
+
+3.5          Ho, H.Y. & Roberts, K.J. (2016). Guidelines for Natural Terrain Hazard Studies (GEO
+             Report No. 138, Second Edition). Geotechnical Engineering Office, Civil Engineering
+            and Development Department, Hong Kong, 173 p.
+
+3.6          Kong, V.S.F, Koo, R.C.H. & Chang, D.S. (2022). Design of Nail Head for Use of Soil
+              Nails in Mitigation of Open Hillslope Landslides (GEO Report No. 360). Geotechnical
+             Engineering Office, Civil Engineering and Development Department, Hong Kong, 26 p.
+
+3.7           Shiu, Y.K. & Chang, G.W.K. (2005). Soil Nail Head Review (GEO Report No. 175).
+              Geotechnical Engineering Office, Civil Engineering and Development Department,
+           Hong Kong. 106 p.
+
+
+===== PDF PAGE 2 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 51 (TGN 51)
+  Supplementary Guidelines on Soil-nail Head Designs
+
+
+    Issue No.: 2       Revision: -        Date: 28.4.2025   Page: 2 of 11
+
+
+
+4.       BACKGROUND
+
+4.1          Under the limit equilibrium condition, the potential unstable soil mass (i.e. the ‘active
+              zone’) of a soil-nailed slope tends to move downwards along a sliding surface under
+              concentrated shearing at the base of the unstable mass. Given the low flexural stiffness
+              of soil nails, the unstable soil mass is primarily supported by tension developed in the
+                 soil-nail steel bars. Under the tensile force in the soil nails, a bearing pressure of the soil
+              underneath the soil-nail heads may be mobilised.  Conventionally, soil-nail heads are
+              designed to provide an adequate safety margin on bearing capacity against shear failure
+              of the ground underneath the soil-nail heads, assuming that the structural capacity of the
+                 soil-nail heads is adequate.
+
+4.2          Geoguide 7 (GEO, 2023) presents recommendations on the sizing of soil-nail heads for
+               the design of soil nails on slopes steeper than 45° based on the findings of numerical
+              analyses conducted using the computer program FLAC as reported in GEO Report
+            No. 175 (Shiu & Chang, 2005).
+
+4.3           Natural hillsides, especially those susceptible to open hillslope landslides (OHL), are
+               typically gentler than man-made cut slopes. The design guidelines given in GEO Report
+            No. 138 (Ho & Roberts, 2016) for mitigating OHL hazards include the option of using
+                 soil nails to increase the margin of safety against slope instability for the top 2 m of the
+                hillslopes.  In these situations, the soil-nail forces and the required bearing capacity of
+               the soil-nail heads are usually much smaller than those required for upgrading steep man-
+           made slopes. The same is true for man-made cut slopes with gradients lower than 45°.
+            The use of soil-nail head sizes presented in Table 5.7 of Geoguide 7 can thus lead to very
+               sizeable soil-nail heads on gentle slopes, and this may cause unnecessary environmental
+             impact and hamper the buildability and efficiency of using soil nails in these situations.
+           To this end, numerical analyses were carried out using the computer program FLAC to
+               assess the required bearing capacity of soil-nail heads on gentle slopes with gradients of
+               30°, 35° and 40° and for a range of shear strength parameters of soils. The findings are
+            documented in GEO Report No. 360 (Kong et al., 2022).
+
+4.4         To supplement the design guidelines developed based on the numerical analyses
+             mentioned in paragraphs 4.2 and 4.3, the actual performance of soil-nailed slopes with
+            400 mm wide soil-nail heads constructed in the 1990s and early 2000s has been
+               systematically reviewed. These slopes were upgraded before the promulgation of the
+               current design guidelines given in Table 5.7 of Geoguide 7.
+
+4.5           This TGN stipulates technical recommendations on the sizing of soil-nail heads on gentle
+              slopes with gradients lower than 45°, and promulgates an alternative prescriptive
+             approach for specifying 400 mm wide soil-nail heads on typical slopes subject to certain
+               conditions. Recommendations on enhanced surface protection measures against shallow
+               landslides and surface erosion are also given.
+
+
+===== PDF PAGE 3 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 51 (TGN 51)
+  Supplementary Guidelines on Soil-nail Head Designs
+
+
+    Issue No.: 2       Revision: -        Date: 28.4.2025   Page: 3 of 11
+
+
+
+5.        TECHNICAL RECOMMENDATIONS ON SIZING OF SOIL-NAIL HEADS
+
+              Prescriptive Approach based on Assessment of Actual Performance
+
+5.1       A prescriptive approach has been developed based on an assessment of the actual
+             performance of constructed 400 mm wide soil-nail heads. Based on the results of the
+              assessment, 400 mm wide soil-nail heads are considered adequate and can be prescribed
+               for typical slopes in Hong Kong.  This approach can be used for both upgrading and
+            emergency repair works provided that the following unusual or unfavourable conditions
+               are not encountered:
+
+                   (i)      Slope-abutting structures (e.g. building foundations) that may exert a dead load
+                        greater than or equal to 20 kPa on the soil mass in the active zone;
+
+                    (ii)     Soil nails carrying sustained loads; and
+
+                    (iii)    Slopes or sites with special concern or serviceability requirements such that a
+                     deformation analysis is required according to Geoguide 7.
+
+                   If any one of conditions (i) to (iii) above are identified, designers should assess whether
+               the prescriptive approach can be safely adopted on a case-by-case basis. Otherwise, the
+                analytical approach with consideration of bearing capacity should be used.
+
+5.2            In connection to the recommendation given in paragraph 5.1, when prescriptive soil nails
+               are proposed to upgrade soil cut slopes according to GEO Publication No. 1/2009 (GEO,
+              2009), 400 mm wide soil-nail heads, in lieu of the head sizes given in Table 5.5 in GEO
+              (2009), can be prescribed provided  that the conditions  in paragraph 5.1 are not
+              encountered.  For soil cut slopes steeper than 65°, embedded reinforced concrete tie
+             beams, instead of isolated soil-nail heads, should be specified according to GEO (2009)
+              but the width of the prescriptive tie beams can be reduced from 600 mm to 400 mm if
+               the conditions are not encountered.  Details of the tie beams are shown in the CEDD
+              Standard Drawing No. C2525.
+
+              Analytical Approach based on Consideration of Bearing Capacity
+
+5.3         The analytical approach based on consideration of bearing capacity should be adopted if
+               the prescriptive approach is not applicable.  In general, 400 mm to 600 mm soil-nail
+             heads should be adequate to provide the stabilisation forces required for the soil nails to
+             enhance the stability of relatively gentle slopes. Designers should specify soil-nail heads
+              with sufficient bearing capacity to counteract the required stabilisation force of the soil
+                nails according to the bearing capacity values shown in Tables A1 to A3 in Annex
+         TGN 51 A. Designers should apply a minimum factor of safety of 1.2 to the selected
+               values. A larger soil-nail head might be warranted in particular situations in respect of
+              adverse hydrogeological and geological conditions.
+
+5.4         The bearing capacity values of soil-nail heads as shown in Tables A1 to A3 in Annex
+         TGN 51 A are based on typical conditions of slopes with gradients lower than 45°. The
+             recommendations of Geoguide 7 should be followed for slopes steeper than 45°. These
+             recommendations are conservative as the pull-out resistance in the active zone was not
+
+
+===== PDF PAGE 4 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 51 (TGN 51)
+  Supplementary Guidelines on Soil-nail Head Designs
+
+
+    Issue No.: 2       Revision: -        Date: 28.4.2025   Page: 4 of 11
+
+
+
+              considered in the numerical analyses conducted by Shiu & Chang (2005) and Kong et al.
+              (2022).
+
+5.5           Designers should give due consideration to ensure effective interaction between the soil-
+                nail heads and the supporting ground mass in gentle slopes.  It was demonstrated by
+           Kong et al. (2022) that the bearing capacity of a soil-nail head with its back being parallel
+               to slope surface would be generally 25% less than that with the back of the nail head
+              being perpendicular to the nail alignment. In this regard, designers should adopt typical
+                details of soil-nail heads as shown in Figures B1, B2 and B3 in Annex TGN 51 B to
+            maximise their efficiency. To ensure the integrity of the soil-nail heads, the fixing details
+              of hessian bags  for recessed  nail heads as shown  in CEDD Standard Drawing
+            No. C2106/7 should be adopted. Designers may adopt alternative details to suit specific
+                 site conditions and applications. Alternatively, for the ease of construction, the typical
+                details of recessed soil-nail heads presented in the CEDD standard drawing are also
+               generally acceptable for gentle slopes to promote soft landscaping.  In this case, the
+               ultimate bearing capacity presented in brackets in Tables A1, A2 and A3 in Annex
+         TGN 51 A should be adopted.
+
+              Verification of Design Assumptions
+
+5.6           Regardless of the method adopted for the soil-nail head design,  it  is particularly
+              important for designers and site supervision personnel to verify the design assumptions,
+               evaluate the suitability and adequacy of the adopted design approach and examine the
+               actual site condition during the construction stage.   If there exist any loose or soft
+               materials near the slope surface that would significantly affect the functioning of soil-
+                nail heads, the size of the soil-nail heads should be reviewed and, when considered
+               appropriate, enlarged to cater for the presence of any weak materials.
+
+           Enhanced Measures for Slope Surface Protection
+
+5.7         As a good practice, designers should avoid specifying a small group of soil nails to resist
+               disproportionately large landslide slips as far as practicable, since it would result in
+               exceptionally high soil-nail forces. The unsupported soil portion will still be susceptible
+               to local failure. Suitable arrangement of the soil-nail layout, proper detailing of surface
+              drainage provision and appropriate surface protection or erosion control measures are
+                crucial to the overall performance of slopes.
+
+5.8           Attention should be given to prevent concentrated surface runoff and promote vegetation
+              cover to prevent surface erosion of the ground between soil-nail heads.   It is also
+              important to prevent erosion by maintaining the existing vegetation as recommended in
+         GEO Publication No. 1/2011 (GEO, 2011). Planting of additional vegetation, such as pit
+               planting of shrubs and provision of bioengineering measures such as planting of live
+                stakes, should be considered as appropriate to enhance the robustness against potential
+              shallow failure and soil erosion between soil-nail heads and to promote sustainability to
+               the environment.  For areas that are susceptible to concentrated surface runoff and
+               erosion, designers may consider adopting the combined use of erosion control mats fixed
+              with stainless steel pins in addition to planting and bioengineering measures.
+
+
+===== PDF PAGE 5 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 51 (TGN 51)
+  Supplementary Guidelines on Soil-nail Head Designs
+
+
+    Issue No.: 2       Revision: -        Date: 28.4.2025   Page: 5 of 11
+
+
+
+6.        ANNEXES
+
+6.1       TGN 51 A – Ultimate Bearing Capacity Values of Soil-nail Heads
+
+6.2       TGN 51 B – Enhanced Details for Soil-nail Heads on Gentle Slopes
+
+
+
+
+
+                                                                            ( Raymond W M Cheung )
+                                                 Head, Geotechnical Engineering Office
+
+
+===== PDF PAGE 6 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 51 (TGN 51)
+  Supplementary Guidelines on Soil-nail Head Designs
+
+
+    Issue No.: 2       Revision: -        Date: 28.4.2025   Page: 6 of 11
+
+
+
+Annex TGN 51 A – Ultimate Bearing Capacity Values of Soil-nail Heads
+
+      Table A1 – Ultimate Bearing Capacity of a 600 mm Soil-nail Head on Gentle Slopes (kN)
+
+
+
+                  30° ≤ Slope Angle < 35°                       30° ≤ Slope Angle < 35°
+                      Nail inclination = 10°                              Nail inclination = 20°
+                          Friction Angle (')                                    Friction Angle (')
+             34       36       38       40               34       36       38       40
+        2   75 (56)   90 (68)   105 (79)  120 (90)       2   81 (61)   99 (74)   120 (90)  138 (104)
+      (c')                                                                           (c')        4   93 (70)   108 (81)  126 (95)  141 (106)      4  102 (77)  120 (90)  141 (106) 165 (124)
+        6  108 (81)  123 (92)  144 (108) 168 (126)      6  120 (90)  138 (104) 162 (122) 186 (140)
+        8  120 (90)  141 (106) 159 (119) 186 (140)      8  135 (101) 153 (115) 180 (135) 204 (153)            Cohesion                                                                                                                                                      Cohesion
+       10  138 (104) 156 (117) 180 (135) 198 (149)     10  150 (113) 174 (131) 198 (149) 225 (169)
+
+
+                  35° ≤ Slope Angle < 40°                       35° ≤ Slope Angle < 40°
+                      Nail inclination = 10°                              Nail inclination = 20°
+                          Friction Angle (')                                    Friction Angle (')
+             34       36       38       40               34       36       38       40
+        2   78 (59)   96 (72)   114 (86)  138 (104)      2   84 (63)   105 (79)  126 (95)  156 (117)
+      (c')                                                                           (c')        4  102 (77)  120 (90)  141 (106) 165 (124)      4  111 (83)  132 (99)  153 (115) 180 (135)
+        6  120 (90)  141 (106) 156 (117) 180 (135)      6  135 (101) 156 (117) 180 (135) 207 (155)
+        8  138 (104) 153 (115) 186 (140) 210 (158)      8  150 (113) 174 (131) 204 (153) 234 (176)            Cohesion                                                                                                                                                      Cohesion
+       10  150 (113) 171 (128) 201 (151) 225 (169)     10  168 (126) 192 (144) 219 (164) 252 (189)
+
+
+                  40° ≤ Slope Angle < 45°                       40° ≤ Slope Angle < 45°
+                      Nail inclination = 10°                              Nail inclination = 20°
+                          Friction Angle (')                                    Friction Angle (')
+             34       36       38       40               34       36       38       40
+        2   78 (59)   96 (72)   117 (88)  144 (108)      2   84 (63)   105 (79)  129 (97)  159 (119)
+      (c')                                                                           (c')        4  105 (79)  126 (95)  150 (113) 180 (135)      4  114 (86)  138 (104) 162 (122) 195 (146)
+        6  129 (97)  153 (115) 180 (135) 207 (155)      6  138 (104) 165 (124) 195 (146) 231 (173)
+        8  147 (110) 174 (131) 201 (151) 237 (178)      8  162 (122) 192 (144) 225 (169) 252 (189)            Cohesion                                                                                                                                                      Cohesion
+       10  165 (124) 195 (146) 219 (164) 252 (189)     10  186 (140) 213 (160) 246 (185) 288 (216)
+
+
+   Notes: 1.  Effective stress shear strength parameters: c' is in kPa and ' is in degrees.
+           2. The ultimate bearing capacity of a soil-nail head with its back parallel to slope surface is given in
+              brackets (See Section 5.5 of this TGN and CEDD Standard Drawing No. C2106/7).
+
+
+                                                 ANNEX TGN 51 A (1/3)
+
+
+===== PDF PAGE 7 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+ The Government of the Hong Kong Special Administrative Region
+
+GEO Technical Guidance Note No. 51 (TGN 51)
+ Supplementary Guidelines on Soil-nail Head Designs
+
+
+ Issue No.: 2       Revision: -        Date: 28.4.2025   Page: 7 of 11
+
+
+
+   Table A2 – Ultimate Bearing Capacity of a 500 mm Soil-nail Head on Gentle Slopes (kN)
+
+
+
+               30° ≤ Slope Angle < 35°                        30° ≤ Slope Angle < 35°
+                    Nail inclination = 10°                               Nail inclination = 20°
+                       Friction Angle (')                                     Friction Angle (')
+           34      36       38       40                34      36       38      40
+       2  45 (34)  55 (41)   65 (49)   78 (58)         2  58 (43)  70 (53)   85 (64)   103 (77)
+  (c')                                                                          (c')       4  58 (43)  68 (51)   80 (60)   93 (69)         4  75 (56)  93 (69)  108 (81)  128 (96)
+       6  70 (53)  78 (58)   90 (68)   108 (81)         6  90 (68)  108 (81)  128 (96)  148 (111)
+       8  80 (60)  90 (68)   105 (79)  120 (90)         8  105 (79) 123 (92) 140 (105) 165 (124)    Cohesion                                                                                                                                                     Cohesion
+     10  88 (66) 100 (75)  118 (88)  133 (99)        10  118 (88) 135 (101) 160 (120) 183 (137)
+
+
+               35° ≤ Slope Angle < 40°                        35° ≤ Slope Angle < 40°
+                    Nail inclination = 10°                               Nail inclination = 20°
+                       Friction Angle (')                                     Friction Angle (')
+           34      36       38       40                34      36       38      40
+       2  50 (38)  63 (47)   73 (54)   85 (64)         2  60 (45)  75 (56)   88 (66)   108 (81)
+  (c')                                                                          (c')       4  65 (49)  78 (58)   90 (68)   103 (77)         4  78 (58)  95 (71)  110 (83)  135 (101)
+       6  78 (58)  90 (68)   105 (79)  118 (88)         6  95 (71)  113 (84)  133 (99)  158 (118)
+       8  88 (66) 103 (77)  120 (90)  135 (101)        8  115 (86) 133 (99) 155 (116) 185 (139)    Cohesion                                                                                                                                                     Cohesion
+     10 100 (75) 115 (86)  130 (98)  153 (114)       10  130 (98) 150 (113) 175 (131) 205 (154)
+
+
+               40° ≤ Slope Angle < 45°                        40° ≤ Slope Angle < 45°
+                    Nail inclination = 10°                               Nail inclination = 20°
+                       Friction Angle (')                                     Friction Angle (')
+           34      36       38       40                34      36       38      40
+       2  50 (38)  63 (47)   75 (56)   95 (71)         2  60 (45)  75 (56)   90 (68)   108 (81)
+  (c')                                                                          (c')       4  70 (53)  83 (62)   95 (71)   118 (88)         4  80 (60)  95 (71)  115 (86)  138 (103)
+       6  83 (62)  98 (73)   115 (86)  135 (101)        6  100 (75) 120 (90) 138 (103) 163 (122)
+       8  98 (73) 113 (84)  133 (99)  153 (114)        8  118 (88) 135 (101) 160 (120) 193 (144)    Cohesion                                                                                                                                                     Cohesion
+     10 113 (84) 128 (96)  150 (113) 173 (129)       10  133 (99) 160 (120) 183 (137) 218 (163)
+
+
+
+Notes: 1.  Effective stress shear strength parameters: c' is in kPa and ' is in degrees.
+        2. The ultimate bearing capacity of a soil-nail head with its back parallel to slope surface is given in
+           brackets (See Section 5.5 of this TGN and CEDD Standard Drawing No. C2106/7).
+
+
+
+
+                                                ANNEX TGN 51 A (2/3)
+
+
+===== PDF PAGE 8 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+ The Government of the Hong Kong Special Administrative Region
+
+GEO Technical Guidance Note No. 51 (TGN 51)
+ Supplementary Guidelines on Soil-nail Head Designs
+
+
+ Issue No.: 2       Revision: -        Date: 28.4.2025   Page: 8 of 11
+
+
+
+   Table A3 – Ultimate Bearing Capacity of a 400 mm Soil-nail Head on Gentle Slopes (kN)
+
+
+
+               30° ≤ Slope Angle < 35°                        30° ≤ Slope Angle < 35°
+                    Nail inclination = 10°                                Nail inclination = 20°
+                       Friction Angle (')                                      Friction Angle (')
+           34      36       38       40                  34      36      38      40
+      2  26 (20)  32 (24)   36 (27)   44 (33)           2  30 (23)  36 (27)  42 (32)   52 (39)
+  (c')                                                                              (c')
+      4  34 (26)  40 (30)   46 (35)   54 (41)           4  38 (29)  46 (35)  54 (41)   62 (47)
+      6  40 (30)  48 (36)   56 (42)   64 (48)           6  46 (35)  54 (41)  62 (47)   74 (56)    Cohesion   8  48 (36)  54 (41)   64 (48)   72 (54)                     Cohesion   8  54 (41)  62 (47)  72 (54)   84 (63)
+     10  54 (41)  62 (47)   72 (54)   82 (62)         10  62 (47)  70 (53)  80 (60)   92 (69)
+
+
+               35° ≤ Slope Angle < 40°                        35° ≤ Slope Angle < 40°
+                    Nail inclination = 10°                                Nail inclination = 20°
+                       Friction Angle (')                                      Friction Angle (')
+           34      36       38       40                  34      36      38      40
+      2  30 (23)  36 (27)   42 (32)   50 (38)           2  32 (24)  40 (30)  46 (35)   56 (42)
+  (c')                                                                              (c')
+      4  38 (29)  46 (35)   52 (39)   62 (47)           4  42 (32)  50 (38)  60 (45)   72 (54)
+      6  46 (35)  54 (41)   62 (47)   72 (54)           6  52 (39)  60 (45)  70 (53)   82 (62)    Cohesion   8  54 (41)  62 (47)   72 (54)   80 (60)                     Cohesion   8  60 (45)  70 (53)  80 (60)   92 (69)
+     10  60 (45)  70 (53)   80 (60)   92 (69)         10  68 (51)  78 (59)  90 (68)  104 (78)
+
+
+               40° ≤ Slope Angle < 45°                        40° ≤ Slope Angle < 45°
+                    Nail inclination = 10°                                Nail inclination = 20°
+                       Friction Angle (')                                      Friction Angle (')
+           34      36       38       40                  34      36      38      40
+      2  45 (34)  58 (43)   69 (52)   81 (61)           2  48 (36)  60 (45)  75 (56)   90 (68)
+  (c')                                                                              (c')
+      4  63 (47)  75 (56)   87 (65)   102 (77)          4  69 (52)  81 (61)  99 (74)  114 (86)
+      6  75 (56)  90 (68)  105 (79)  120 (90)          6  84 (63)  99 (74)  117 (88) 141 (106)    Cohesion   8  90 (68)  102 (77)  123 (92)  138 (104)                 Cohesion   8  99 (74)  117 (88) 132 (99) 156 (117)
+     10  102 (77) 117 (88) 135 (101) 156 (117)        10  114 (86) 129 (97) 150 (113) 177 (133)
+
+
+
+Notes:  1. Effective stress shear strength parameters: c' is in kPa and ' is in degrees.
+        2. The ultimate bearing capacity of a soil-nail head with its back parallel to slope surface is given in
+           brackets (See Section 5.5 of this TGN and CEDD Standard Drawing No. C2106/7).
+
+
+
+
+                                                ANNEX TGN 51 A (3/3)
+
+
+===== PDF PAGE 9 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 51 (TGN 51)
+  Supplementary Guidelines on Soil-nail Head Designs
+
+
+    Issue No.: 2       Revision: -        Date: 28.4.2025   Page: 9 of 11
+
+
+
+Annex TGN 51 B – Enhanced Details for Soil-nail Heads on Gentle Slopes
+
+
+
+
+
+Figure B1 – Enhanced Details for a 600 mm Soil-nail Head on Gentle Slopes (Back of
+Nail Head Perpendicular to the Nail Alignment)
+
+
+
+
+
+                                                 ANNEX TGN 51 B (1/3)
+
+
+===== PDF PAGE 10 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 51 (TGN 51)
+  Supplementary Guidelines on Soil-nail Head Designs
+
+
+    Issue No.: 2       Revision: -        Date: 28.4.2025   Page: 10 of 11
+
+
+
+
+
+Figure B2 – Enhanced Details for a 500 mm Soil-nail Head on Gentle Slopes (Back of
+Nail Head Perpendicular to the Nail Alignment)
+
+
+
+
+
+                                                 ANNEX TGN 51 B (2/3)
+
+
+===== PDF PAGE 11 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 51 (TGN 51)
+  Supplementary Guidelines on Soil-nail Head Designs
+
+
+    Issue No.: 2       Revision: -        Date: 28.4.2025   Page: 11 of 11
+
+
+
+
+
+Figure B3 – Enhanced Details for a 400 mm Soil-nail Head on Gentle Slopes (Back of
+Nail Head Perpendicular to the Nail Alignment)
+
+
+
+
+
+                                                 ANNEX TGN 51 B (3/3)

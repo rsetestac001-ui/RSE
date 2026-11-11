@@ -1,0 +1,663 @@
+
+
+===== PDF PAGE 1 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 53 (TGN 53)
+  Supplementary Guidelines for Foundation Design and Construction
+
+
+      Issue No.: 2          Revision: -           Date: 17.4.2026      Page: 1 of 12
+
+
+
+1.    SCOPE
+
+1.1    This Technical Guidance Note (TGN) updates the technical guidelines for foundation design
+       given in the GEO Publication No. 1/2006 (GEO, 2006).
+
+1.2   Any feedback on this TGN should be directed to the Technical Secretary of the GEO.
+
+
+
+2.    TECHNICAL POLICY
+
+2.1    The guidelines promulgated in this TGN were agreed by the GEO’s Geotechnical Control
+       Conference (GCC).
+
+
+
+3.    RELATED DOCUMENTS
+
+3.1   BD (2024). Code of Practice for Foundations 2017 (2024 Edition). Buildings Department,
+      Hong Kong, 111 p.
+
+3.2   GEO  (2006).   Foundation Design and  Construction (GEO  Publication No.  1/2006).
+       Geotechnical Engineering Office, Hong Kong, 376 p.
+
+3.3   GEO (2025). Supplementary Guidelines for Foundation Design in Areas underlain by Marble
+      and Marble-bearing Rocks (Technical Guidance Note No. 26). Geotechnical Engineering
+        Office, Hong Kong, 5 p.
+
+3.4    Hoek, E. and Brown, E.T. (2019). The Hoek-Brown failure criterion and GSI – 2018 edition.
+       Journal of Rock Mechanics and Geotechnical Engineering, vol. 11, pp 445-463.
+
+3.5     Bieniawski, Z.T. (1989). Engineering Rock Mass Classification. John Wiley, New York, 251 p.
+
+
+
+4.   BACKGROUND
+
+4.1   GEO Publication No. 1/2006 provides technical guidelines for the design and construction of
+        foundations, prepared in alignment with the Code of Practice for Foundations (CoPF) issued by
+        the Buildings Department in 2004.  In 2017, the Buildings Department released the second
+        edition of the CoPF (CoPF 2017). Consequently, a revision of GEO Publication No. 1/2006 is
+        in progress to enhance the guidelines in line with advancements in foundation practice and to
+       maintain consistency with the updated technical standards. However, it is considered desirable
+        to publish supplementary guidelines on foundation design, whenever they are ready, that could
+       improve practice and result in substantial saving in terms of construction cost and programme.
+
+
+===== PDF PAGE 2 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 53 (TGN 53)
+  Supplementary Guidelines for Foundation Design and Construction
+
+
+      Issue No.: 2          Revision: -           Date: 17.4.2026      Page: 2 of 12
+
+
+
+5.    SUPPLEMENTARY TECHNICAL GUIDELINES
+
+5.1   SHALLOW FOUNDATIONS FOUNDED ON GRANULAR SOILS
+
+5.1.1   Paragraph 3.2.1.2 of the GEO Publication No. 1/2006 discusses the empirical method for
+       determining the allowable bearing pressure obtained from SPT N values for non-cohesive soils.
+          It cites the correlations by Terzaghi and Peck (1967) using 10 N and 5 N for dry and submerged
+        conditions, respectively, which are conservative. The presumed allowable bearing pressure for
+       shallow foundations on granular soils should be based on the values as given in Table 1, instead
+        of the correlations by Terzaghi and Peck (1967).
+
+5.1.2   Allowable bearing pressures for shallow foundations on soils can also be assessed using bearing
+        capacity theory, provided that a sufficient factor of safety is applied and the predicted total and
+         differential settlements remain within acceptable limits. Such assessments can justify adopting
+       bearing pressures exceeding the values prescribed in Table 1.
+
+5.1.3   For estimating settlement of foundations bearing on granular soils, the drained soil modulus E´
+       can be correlated with SPT N values, with E´ = 1.5 N for fill, alluvium and colluvium and
+       E´ = 2 N for other insitu soils.
+
+5.2    FOUNDATIONS FOUNDED ON IGNEOUS BEDROCK
+
+5.2.1  Over the years, instrumented pile loading tests have been carried out for piles founded on
+        various rock formations, including the comprehensive pile testing programme for the Airport
+       Railway, West Rail, the West Kowloon District Development and private development at Sai
+       Sha. GEO has collected and analysed these pile test data to improve knowledge and practice in
+       foundation engineering.  The instrumented pile loading test results indicate that there are
+        substantial safety margins of the proven bearing capacity and shaft friction when compared with
+        the recommendations given in the publication.  Hence, updated guidelines on the presumed
+       allowable bearing capacity and bond friction for igneous rocks have been derived.
+
+5.2.2  The presumed allowable bearing pressures given in Table 2 should supersede Table 6.6 of the
+     GEO Publication No. 1/2006.  The use of the presumed values should be subject to the
+        conditions given in the notes to Table 2. In addition, the presumed allowable bond/friction for
+        piles socketed into igneous rocks of different weathering grades is also given in the same table.
+
+5.3    FOUNDATIONS FOUNDED ON SEDIMENTARY AND META-SEDIMENTARY ROCKS
+
+5.3.1  GEO has conducted a comprehensive instrumented pile loading test programme in 2024 - 2025,
+       which supplements the understanding of foundations bearing on jointed rock masses. Table 3
+        serves as an additional recommendation to GEO Publication No. 1/2006, which provides
+       presumed allowable bearing pressures and bond/friction for foundations bearing on Category 2
+       rocks applicable to sedimentary and meta-sedimentary rocks. The use of Table 3 should also be
+        subject to the conditions given in the notes to Table 2. Where foundation design adopts a
+       presumed allowable bearing pressure value exceeding 7500 kPa, pile loading test should be
+       conducted to confirm the design bearing capacity of the rock mass.
+
+
+===== PDF PAGE 3 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 53 (TGN 53)
+  Supplementary Guidelines for Foundation Design and Construction
+
+
+      Issue No.: 2          Revision: -           Date: 17.4.2026      Page: 3 of 12
+
+
+
+5.3.2  The presumed allowable bearing pressures for Category 2 rocks are derived based on rock mass
+        characterization using the Rock Mass Rating (RMR) system, with correlations established
+       between RMR and the corresponding deformation modulus. The Hoek-Brown failure criterion
+      (Hoek and Brown, 2019) is adopted to evaluate the rock mass strength parameters. For Category
+        2(a) rocks, an RMR range of 40 to 70 has been assumed for rock mass to demonstrate
+        satisfactory performance in terms of both settlement and bearing stability under the presumed
+       bearing pressures. For Category 2(b) rocks, the deformation modulus comparable to highly
+      decomposed rocks (assumed to be equivalent to, at least, an RMR of 40) is adopted for
+        settlement assessment. As Category 2(b) rocks should have a total core recovery of the specified
+       grade strength exceeding 85%, normally the assumed RMR value of 40 could be achieved for
+       Category 2(b) rocks.  For Category 2(c) rocks, the presumed allowable bearing pressure is
+        assessed by assuming  the  rock  material  equivalent  to  highly decomposed  rocks  for
+        simplification.   Nevertheless, where the assumptions for Category 2 rocks are deviated,
+        settlement assessment of the rock mass under the presumed bearing pressures should be
+       conducted. When assessing the settlement, including differential settlement, of structures, due
+        consideration should be given to the basis for establishing the presumed allowable bearing
+        pressures as detailed in Sections 5.4.2. A bearing pressure higher than that given in Table 3 may
+       be determined by rational design approach, using the RMR method or other recognized
+       engineering principles, and verified by pile loading tests.
+
+5.3.3   Shale, mudstone and meta-mudstone can exhibit significant strength loss when in contact with
+        water, whereas phyllite and graphitic schists may decompose into weak clayey silts.  The
+       presumed allowable bearing pressure for Category 2 rocks is not applicable to foundations
+       bearing on these types of rock. Where these types of rock are present within the load influence
+       zone (including rock bond/friction and end-bearing), separate assessment should be conducted
+       and the design assumptions should be verified by pile loading test.
+
+5.3.4   Uniaxial compressive strength (UCS) and point load strength index (PLSI) tests are typically
+       used to determine intact rock strength. Preference should be given to UCS tests for establishing
+        the intact rock strength. Where core specimens of sufficient length cannot be obtained for UCS
+        testing in accordance with the relevant testing standard (e.g. ASTM), PLSI testing may be
+       adopted as an alternative to obtain strength index values, PLI50.  For sedimentary and meta-
+       sedimentary rocks, a correlation factor of 16 should be used to convert PLI50 to equivalent UCS.
+      Rock specimens exhibiting prominent foliation or schistosity planes inclined at approximately
+       30° - 45° to the foundation loading direction should be selected, as this orientation typically
+       corresponds to the critical minimum strength of anisotropic rocks.
+
+5.3.5   Category 2 rock should exclude marble and marble-bearing rocks.  TGN 26 provides
+       supplementary guidelines for foundations bearing on marble and marble-bearing rocks.
+
+5.4    DETERMINATION OF BEARING CAPACITY OF JOINTED ROCK MASS BASED ON RMR
+
+5.4.1  GEO Publication No. 1/2006 provides a rational design method for determining the allowable
+       bearing pressure for jointed rock masses using the RMR method. The findings from the GEO
+       instrumented pile loading tests have supplemented the deformation characteristics of rock
+       masses with RMR ranging between 36 and 60. Accordingly, a revised correlation between the
+       deformation modulus and RMR has been established, with Figure 2 superseding Figure 6.7 of
+
+
+===== PDF PAGE 4 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 53 (TGN 53)
+  Supplementary Guidelines for Foundation Design and Construction
+
+
+      Issue No.: 2          Revision: -           Date: 17.4.2026      Page: 4 of 12
+
+
+
+     GEO Publication No. 1/2006.
+
+5.4.2  When deriving the allowable bearing pressure of the rock mass, it is not required that the RMR
+        of all rocks within the zone of influence should be of the same or better rating. The allowable
+       bearing pressure can be determined by specifying an acceptable settlement and should not
+       exceed the uniaxial compressive strength of the intact rock.   For structures that are not
+        particularly sensitive to movement, the acceptable settlement can be taken as 30 mm.  In
+       determining the presumed allowable bearing pressures for Category 1 and 2 rocks, the
+        settlement is also subject to an upper limit equal to 1% of the pile base diameter. The effect of
+       foundation load on the rock mass is significantly reduced at depths greater than twice the pile
+       base diameter. Hence, for the purpose of assessing the allowable bearing pressure, the minimum
+       depth for computing RMR should be at least twice the pile base diameter or 5 m, whichever is
+        greater.  Table 6.5 and the allowable bearing pressures indicated in Figure 6.8 of the GEO
+        Publication 1/2006 are deleted.
+
+5.4.3  Where foundations bearing on rock masses with pervasive discontinuities are anticipated, based
+      on ground investigations conducted in previous investigation stages, and where the RMR
+      method is adopted for determining bearing capacity, ground investigation for foundation works
+         (e.g. predrilling and post-construction post-drilling boreholes) should employ triple-tube core
+        barrels with air foam as the flushing medium to recover rock cores at relevant depths. This
+         drilling technique is effective in preserving salient geological features and maximizing core
+       recovery for accurate RMR assessment.
+
+5.4.4  When preparing logs for ground investigation boreholes that will subsequently be used for RMR
+        assessment, the following enhanced logging practice should be adopted:
+
+         (a)   Core logging should be carried out as promptly as practicable following completion of
+                drilling to preserve the in-situ characteristics of rock specimens and to minimize post-
+              extraction alteration.  Photographs of rock cores should be taken during the logging
+              process to record core conditions at the time of examination.
+
+        (b)   Where joint conditions (including aperture, roughness and infilling) vary within intervals
+               that result in different rock mass characteristics, a quantitative description should be
+             provided to reflect such lithological and structural variations, including the orientation of
+            any foliation and bedding planes.  Textural descriptions covering a spectrum of joint
+              conditions (e.g. smooth to very rough) should be avoided.
+
+         (c)    Joint separation or aperture size should be documented according to the RMR rating on
+               separation, ranging from none, < 0.1 mm, 0.1 - 1 mm, 1 - 5 mm and > 5 mm.
+
+5.4.5   Table 4 updates the guidance on assigning individual ratings for RMR assessment and should
+        replace Table 6.4 of the GEO Publication No. 1/2006.  It provides a consistent approach for
+        interpreting ground investigation records for the purposes of RMR assessment.
+
+
+===== PDF PAGE 5 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 53 (TGN 53)
+  Supplementary Guidelines for Foundation Design and Construction
+
+
+      Issue No.: 2          Revision: -           Date: 17.4.2026      Page: 5 of 12
+
+
+
+5.5    INTERACTION BETWEEN ADJACENT PILES AND OVERLAPPING OF END-BEARING STRESSES
+      FOR LARGE DIAMETER BORED PILES BEARING ON ROCKS
+
+5.5.1  When large-diameter bored piles bearing on rock are placed in close proximity, there is often a
+       concern over whether overlapping bearing stresses beneath the piles may exceed the presumed
+       allowable bearing pressure. A common solution is to install piles to greater depths below a
+        hypothetical 45° envelope projected upward from the deepest pile base to avoid such stress
+         interaction. Recent studies have investigated this interaction for piles at different spacings and
+       founding levels using elastic theory and numerical modelling. The findings confirm that the
+        increase in vertical stress due to foundation load disperses at a ratio of 1:2 (horizontal : vertical),
+       with the extent confined to a zone extending radially from the edge of the pile base to a distance
+       equal to the pile base diameter (B), and vertically downward to a depth of approximately 2.5B
+       below the base. Hence, there is no need to restrict the founding level of adjacent piles to below
+       a 45° envelope projected upward from the founding level of the deepest pile.
+
+5.5.2  The minimum clear spacing between large-diameter bored piles is typically 0.5 m as stipulated
+        in GEO Publication No. 1/2006. Provided that piles are spaced at distances greater than this
+      minimum clear spacing, the overlapping of vertical stress will not exceed the applied bearing
+        pressure in the bearing rock stratum. The founding level of piles need not be lowered solely to
+       avoid overlapping of bearing stress.
+
+5.5.3  Where the clear spacing between piles is less than the largest pile base diameter and the
+        elevation difference between pile bases exceeds this clear spacing, an assessment should be
+       conducted. This assessment should ensure that piles are not founded on corestones or affected
+      by steeply inclined bedrock profiles, and that the structural capacity of the pile is adequate,
+        taking into account any stress increase in the pile shaft caused by adjacent piles founded at
+        higher levels.
+
+5.5.4  The above principles are also applicable to rectangular loaded areas, including barrettes and
+        footings. For simplicity, the largest dimension of the rectangular loaded area of barrettes and
+        footings should be used when comparing the clear spacing between them.
+
+
+
+
+
+                                                 (Raymond WM Cheung)
+                                                 Head, Geotechnical Engineering Office
+
+
+===== PDF PAGE 6 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 53 (TGN 53)
+  Supplementary Guidelines for Foundation Design and Construction
+
+
+      Issue No.: 2          Revision: -           Date: 17.4.2026      Page: 6 of 12
+
+
+
+Table 1 – Presumed Allowable Vertical Bearing Pressure under Foundations in Non-cohesive Soils (Sands
+and Gravels) on Horizontal Ground
+
+
+                                                                Presumed allowable bearing
+  Category   Descriptions for non-cohesive soils (sands and gravels)
+                                                                                  pressure (kPa)
+
+    4(a)     Very dense, SPT N value > 50                                     500
+
+    4(b)     Dense, SPT N value 30 - 50; requires pick for excavation;              300
+           50 mm peg hard to drive
+
+    4(c)    Medium dense, SPT N value 10 - 30                                100
+
+    4(d)     Loose, SPT N value 4 - 10; can be excavated with spade;            < 100
+           50 mm peg easily driven
+
+Note:
+     1.  Foundations should be founded at a depth of at least 1 m below ground surface.
+     2.  The groundwater level should not be higher than 1 m below ground surface.
+     3.  The presumed allowable bearing pressures are established based on a maximum total settlement of 30
+      mm. Serviceability of structures should be assessed.
+     4.  For foundations exceeding 6 m in dimension or where conditions differ from Notes 1 to 2 above, a
+         separate assessment of allowable bearing capacity and settlement should be conducted based on the
+         settlement tolerance of the structure.
+     5.  Sands and gravels should be of silica in nature and non-crushable.
+     6.   Soil category is defined in accordance with the Code of Practice for Foundations, 2017 (BD, 2024).
+
+
+===== PDF PAGE 7 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 53 (TGN 53)
+  Supplementary Guidelines for Foundation Design and Construction
+
+
+      Issue No.: 2          Revision: -           Date: 17.4.2026      Page: 7 of 12
+
+
+
+ Table 2 – Presumed Allowable Bearing Pressure and Bond/Friction for Foundations bearing on Igneous
+ Rocks
+                                                             Presumed
+                                                                 Allowable     Presumed Allowable
+   Category              Description of Igneous Rocks
+                                                               Bearing Pressure Bond or Friction (kPa)
+                                                                       (kPa)
+      1(a)     Fresh to slightly decomposed strong to very strong       12500
+               granite or volcanic rock of material weathering grade
+                  II or better, with 100% TCR of the designated grade
+            which has a minimum UCS of rock material not less
+              than 75 MPa (or an equivalent point load index                      1000 (under
+               strength PLI50 not less than 3 MPa)                                      compression or
+                                                                                                 transient tension)
+     1(b)     Fresh  to  slightly decomposed  strong  granite  or       10000
+              volcanic rock of material weathering grade  II or                  800 (under permanent
+                 better, and with not  less than 95% TCR of the                             tension)
+              designated grade, which has a minimum UCS of rock
+               material not less than 50 MPa (or an equivalent point
+              load index strength PLI50 not less than 2 MPa).
+
+      1(c)     Slightly  to  moderately  decomposed  moderately       7500           700 (under
+              strong granite or volcanic rock of material weathering                      compression or
+             grade III or better, and with not less than 85% TCR of                          transient tension)
+               the designated grade, which has a minimum UCS of
+             rock material not less than 25 MPa (or an equivalent                  560 (under permanent
+               point load index strength PLI50 not less than 1 MPa).                              tension)
+
+     1(d)     Moderately  decomposed,  moderately  strong  to       3000           300 (under
+             moderately weak granite or volcanic rock of material                      compression or
+              weathering grade III or better, and with not less than                          transient tension)
+          50% TCR of the designated grade.
+                                                                        150 (under permanent
+                                                                                                 tension)
+Notes to Table 2:
+
+(1)   The presumed values for allowable bearing pressure given are for foundations with negligible lateral loads at
+       bearing level.
+(2)   The self-weight of the length of pile embedded in soil or rock does not need to be included into the calculation
+       of bearing stresses.
+(3)   Minimum socket depth along the pile perimeter is 500 mm for categories 1(a) and 1(b), and 300 mm for
+       categories 1(c) and 1(d).
+(4)   TCR of the designated grade is defined in Figure 1.
+(5)   The TCR of the designated grade should be verified to a depth at least 5 m into the specified category of rock,
+       or the rock socket length, whichever is greater. Where the foundations also rely on end-bearing resistance, the
+      rock within the depth of 5 m below the foundation base should be verified. This requirement is deemed to be
+      complied with if the rock core within the above verified depth can be divided into a number of segments (in
+       consecutive manner) such that (a) each segment is 1 m; and (b) the calculated TCR in accordance with Figure 1
+       of each segment should satisfy the required percentage of TCR of the designated grade.
+(6)   The bearing surface of rock on which the foundation will be rested should be of the designated category and no
+      rock core within 600 mm depth from the pile base is logged as “non-intact” in accordance with GEOGUIDE 3.
+(7)    Weathering grades and non-intact condition are defined in GEOGUIDE 3.
+(8)   The point load index strength of rock quoted in the table is the equivalent value for 50 mm diameter cores.
+
+
+===== PDF PAGE 8 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 53 (TGN 53)
+  Supplementary Guidelines for Foundation Design and Construction
+
+
+      Issue No.: 2          Revision: -           Date: 17.4.2026      Page: 8 of 12
+
+
+
+(9)    Concrete or grout should have a minimum characteristic compressive strength of 30 MPa.
+
+
+
+
+
+                        a                 b      c       d     e                    f
+
+                                     L = 1 m
+
+
+                   Figure 1 – Determination of TCR for the Designated Grade of Rock
+
+
+                                                  a+c+d+f
+                      TCR of the designated grade =                                                    L
+
+          1.   a, c, d and f are materials of the designated grade or better.
+          2.  b are materials inferior than the designated grade.
+          3.  e are materials washed away during drilling.
+          4.  The maximum continuous length of materials washed away/inferior to the designated grade, b+e,
+            should not be greater than 300 mm.
+          5.  TCR of the designated grade should not be confused with TCR of the core run shown in the site
+                                      a+b+c+d+f
+              investigation report, which is equal to                      .                                         L
+
+
+===== PDF PAGE 9 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 53 (TGN 53)
+  Supplementary Guidelines for Foundation Design and Construction
+
+
+      Issue No.: 2          Revision: -           Date: 17.4.2026      Page: 9 of 12
+
+
+
+Table 3 – Presumed Allowable Bearing Pressure and Bond/Friction for Foundations bearing on
+Sedimentary and Meta-sedimentary Rocks
+                                                             Presumed
+            Description of Sedimentary and                           Allowable     Presumed Allowable
+  Category
+            Meta-sedimentary Rocks                              Bearing Pressure  Bond or Friction (kPa)
+                                                                        (kPa)
+    2(a)    Fresh to moderately decomposed, strong to moderately     5000 - 12500       1000 (under
+             strong sedimentary or meta-sedimentary rocks of                             compression or
+             material weathering grade III or better, with not less than                         transient tension)
+         85% of TCR of the designated grade, which has a
+         minimum UCS of rock material not less than 25 MPa (or                 800 (under permanent
+           an equivalent point load index strength PLI50 not less                                tension)
+            than 1.6 MPa), with an RMR at least 40.
+
+    2(b)    Moderately decomposed, moderately strong sedimentary      5000           700 (under
+             or meta-sedimentary rock of material weathering grade                       compression or
+                III or better, and with not less than 85% of TCR of the                            transient tension)
+            designated grade, which has a minimum UCS of rock
+             material not less than 20 MPa (or an equivalent point                    560 (under permanent
+            load index strength PLI50 not less than 1.25 MPa).                                   tension)
+
+    2(c)    Moderately decomposed, moderately strong to               3000           300 (under
+            moderately weak meta-sedimentary or sedimentary rock                      compression or
+             of material weathering grade III or better, and with not                            transient tension)
+              less than 50 % of TCR of the designated grade.
+                                                                         150 (under permanent
+                                                                                                  tension)
+Notes to Table 3:
+ (1)   For end-bearing foundations, TCR and/or RMR should be assessed within the load influence zone beneath
+       the foundation base, which is twice the diameter of the foundation base, or 5 m, whichever is deeper.
+ (2)   The presumed allowable bearing pressure for Category 2(a) rock should be linearly interpolated between
+      5000 kPa and 12500 kPa, corresponding to RMR of 40 to 70.
+ (3)   When assessing the RMR, rock cores should be divided into a number of segments (in consecutive
+       sequence) such that (a) each segment is 1 m in length; and (b) the average RMR of each segment satisfies
+       the RMR corresponding to the adopted presumed bearing pressure.
+ (4)   Where presumed allowable bearing pressure of more than 7500 kPa is adopted, pile loading test should be
+      conducted to confirm the design bearing pressure.
+ (5)   Minimum socket depth along the pile perimeter is 500 mm for Categories 2(a) and (b); and 300 mm for
+      Category 2(c) rocks.
+ (6)   For shallow foundations, the founding level should be located at least 1.5 m below the ground surface.
+ (7)   Rock core specimens should be selected for UCS testing. Where length of core specimens is not sufficient
+       for conducting UCS testing, PLSI testing may be adopted as an alternative to obtain strength index values.
+      Specimens exhibiting prominent foliation or schistosity planes inclined at approximately 30° - 45° to the
+       foundation loading direction should be selected, as this orientation typically corresponds to the critical
+     minimum strength of anisotropic rocks.
+ (8)   The presumed allowable bearing pressures for Category 2 rocks should not be applied to shale, mudstone,
+      meta-mudstone, phyllite and graphite schist. Allowable bearing pressures for foundations bearing on these
+      rock types should be determined by separate assessment and validated by pile loading tests.
+ (9)   Other conditions listed in CoPF 2017 and Table 2 should be followed.
+ (10)  Assumptions for establishing the presumed allowable bearing pressures are given in Sections 5.3.2 and
+        5.4.2. Where the assumptions are deviated, a settlement assessment of the rock mass should be conducted.
+
+
+===== PDF PAGE 10 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 53 (TGN 53)
+  Supplementary Guidelines for Foundation Design and Construction
+
+
+      Issue No.: 2          Revision: -           Date: 17.4.2026      Page: 10 of 12
+
+
+
+Table 4 – Rating Assigned to Individual Parameters using RMR Classification System (Based on Bieniawski,
+1989)
+
+(A)  Strength of Intact Rock
+    Uniaxial compressive    > 250    250 - 100   100 - 50    50 - 25     25 - 5     5 – 1      < 1
+    strength, σc (MPa)
+    Point load strength
+                                        See Note (1) for converting PLI50 to UCS, σc
+    index, PLI50 (MPa)
+   Rating                  15        12        7         4         2         1         0
+
+(B) Rock Quality Designation (RQD)
+
+  RQD (%)              100 - 90      90 - 75        75 - 50       50 - 25         < 25
+   Rating                   20          17           13           8              3
+(C)  Spacing of Joints(2),(3)
+   Spacing               > 2 m       2 m - 0.6 m    0.6 m - 0.2 m   200 - 60 mm    < 60 mm
+
+   Rating                    20            15            10            8             5
+(D)  Conditions of Joints(4)
+    Discontinuity length(8)
+    Rating                   2
+    Separation(5)             None       < 0.1 mm      0.1 - 1 mm      1 - 5 mm      > 5 mm
+    Rating                   6             5             4             1             0
+    Roughness(6)            Very rough      Rough       Slightly rough     Smooth       Slickenside
+    Rating                   6             5             3             1             0
+    Infilling (gouge)(7)        None       Hard filling    Hard filling      Soft filling      Soft filling
+                                   < 5 mm       > 5 mm       < 5 mm       > 5 mm
+    Rating                   6             4             2             2             0
+   Weathering            Unweathered       Slightly      Moderately       Highly     Decomposed
+                                          weathered      weathered      weathered
+    Rating                   6             5             3             1             0
+(E)  Groundwater
+    Rating(8)                   7
+Notes :
+(1)   Where point load strength index values are determined from rock specimens, the equivalent uniaxial
+      compressive strength (UCS), σc, can be derived using correlation factors of 25 and 16 with PLI50, for
+      Category 1 and 2 rocks, respectively. Where rock strength is less than 20 MPa, UCS testing is preferred.
+(2)    Joint spacing should be calculated by taking the weighted average of the reciprocal of the fracture index
+        (FI) applied to intact core recovery segments of 1 m or less in vertical extent.
+(3)    For rock core intervals with FI > 20, or designated as “no recovery” or “non-intact”, a rating of 5 should be
+       assigned.
+(4)   Where no specific depth is given for the joint conditions recorded in the borehole logs, those conditions
+       should be applied to the entire core interval.
+(5)   Where aperture size is recorded in accordance with Table 9 of Geoguide 3, the upper bound value of the
+       aperture size should be adopted for assigning the rating on separation.
+(6)   Where joint roughness is described in accordance with Geoguide 3, the following references should be
+      adopted for deriving the roughness rating for RMR assessment:
+
+           Rough stepped or rough undulating: Very rough
+           Rough planar: Rough
+           Smooth stepped, or smooth undulating: Slightly rough
+           Smooth planar: Smooth
+
+
+===== PDF PAGE 11 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 53 (TGN 53)
+  Supplementary Guidelines for Foundation Design and Construction
+
+
+      Issue No.: 2          Revision: -           Date: 17.4.2026      Page: 11 of 12
+
+
+
+              Slickensided stepped, slickensided undulating, slickensided planar: Slickensided
+
+(7)    For rating on infilling (gouge), where descriptions of hardness and thickness of infilling material are not
+       given, the following reference should be adopted for deriving the RMR:
+
+            Cohesive and non-cohesive soils, kaolin, chlorite: Soft filling
+               Calcite, Manganese and Quartz: Hard filling
+             Clean, stained, no infill: A rating of 6 should be assigned
+             Coating: Thickness < 5 mm
+                Infilling: Thickness ≥ 5 mm
+
+(8)   The ratings are fixed as the parameter is considered not relevant to the evaluation of allowable bearing
+       pressure of rock mass.
+(9)  RMR is calculated as the sum of individual ratings assigned to parameters (A) through (E).
+(10)   Separate RMR should be assigned for each core segment exhibiting changes in any individual RMR
+       parameter (including RQD, fracture index, joint aperture, roughness, or infilling). The overall RMR for the
+       assessed length of rock cores should be computed as the thickness-weighted average of the individual
+      segment ratings. For existing boreholes containing only generic descriptions of individual intervals,
+       individual ratings should be conservatively interpreted for RMR assessment purposes.
+(11)  RMR assessment should be performed for all rock mass intervals, commencing from initial interception of
+      Category 2(b) or better rocks to the terminal depth of the borehole.
+
+
+===== PDF PAGE 12 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 53 (TGN 53)
+  Supplementary Guidelines for Foundation Design and Construction
+
+
+     Issue No.: 2          Revision: -           Date: 17.4.2026      Page: 12 of 12
+
+
+
+
+
+    6.0
+                                                ↑     ↑
+
+                           Meta-sedimentary Rocks                                 6.1 GPa for P14 (3.0)   9.9 GPa for P11-1 (2.0)        P7-1 (0.4)
+                                                                                           16 GPa for P11-2O (1.0)
+                           Igneous Rocks
+    5.0
+                          Marble Rocks
+
+
+                                                                                                                       P1C (1.2)
+
+
+    4.0
+                                                                                                LB-P1 (4.6)(GPa)
+                                                                                                                          Correlation
+Em                                                                                           Em = 0.08 e 0.046MR
+
+
+    3.0Modulus,                                                                                                                  P7-2 (7.5)
+
+                                                                                                                       P3C (2.5)Mass
+Rock 2.0                                                                  SR-P1 (6.9)                                             YLS-P1 (6.3)
+                                                                                                      YLS-P2 (7.3)
+                                                                            P15O (12.6)
+                                                                                              P10-2O (13.6)
+
+
+                                                                                                            P2C (11.3)
+
+    1.0                                                                SR-P2 (17.7)                 P13-2O (15.5)
+                                                                                   KTW-BT2 (9.4)
+                                                              FKS-P1 (14.0)
+                                                     LMC-P2 (26.5)                                                                                 KTW-BT1 (9.4)                                              LMC-P1 (17.5)                                                                          LB-P2 (17.8)
+                              P4 (18.2)
+                                             P9-3O (86.0)
+                                                                       SR-P3 (33.0)
+    0.0
+                                                 P9-1 (63.9)
+       0            10           20           30           40           50           60           70           80           90
+                                                 Rock Mass Rating (RMR)
+         Figure 2 – Relationship between Deformation Modulus and RMR for a Jointed Rock Mass

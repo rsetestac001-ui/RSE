@@ -1,0 +1,822 @@
+
+
+===== PDF PAGE 1 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 34 (TGN 34)
+   Guidelines on Assessment of Debris Mobility for Open Hillslope Failures
+
+
+      Issue No.: 1          Revision: A         Date: 23.12.2023    Page: 1 of 16
+
+
+1.        SCOPE
+
+1.1          This Technical Guidance Note (TGN) supplements the guidance on the assessment of
+              debris mobility for open hillslope failures (debris slides and debris avalanches) given in
+        GEO Report No. 104 (Lo, 2000).
+
+1.2        Any feedback on this TGN should be directed to Chief Geotechnical Engineer/Planning
+            and Development of the Geotechnical Engineering Office (GEO).
+
+
+2.        TECHNICAL POLICY
+
+2.1         The  technical recommendations promulgated  in  this TGN were  agreed by GEO
+             Geotechnical Control Conference (GCC) on 25 September 2012.
+
+
+3.       RELATED DOCUMENTS
+
+3.1           Ayotte, D. & Hungr, O. (1998). Runout Analysis of Debris Flows and Debris Avalanches
+               in Hong Kong. A Report for the Geotechnical Engineering Office, Hong Kong. University
+              of British Columbia, Canada, 90 p.
+
+3.2           Franks. C.A.M. (1998).  Study of Rainfall Induced Landslides on Natural Slopes in the
+                vicinity of Tung Chung New Town, Lantau Island (GEO Report No. 57). Geotechnical
+             Engineering Office, Hong Kong, 102 p.
+
+3.3           Franks. C.A.M. (2011). Personal communication.
+
+3.4         Ho, H. Y. & Roberts, K. J. (2016). Guidelines for Natural Terrain Hazard Studies (GEO
+             Report No. 138, Second Edition). Geotechnical Engineering Office, Hong Kong, 173 p.
+
+3.5          Hungr, O. (1998). Mobility of Landslides in Hong Kong: Pilot Analysis Using a Numerical
+            Model. A Report for the Geotechnical Engineering Office, Hong Kong.  O. Hungr
+             Geotechnical Research Inc., Canada, 52 p.
+
+3.6          Hungr, O. (2011). Comments on DN 1/2012 – Suggestions on Design Approaches for
+              Flexible Debris-resisting Barriers.
+
+3.7          Hungr, O. & Evans, S.G. (2004). Entrainment of debris in rock avalanches: An analysis of
+            a long run-out mechanism. GSA Bulletin Vol. 116.
+
+3.8          Lo, D.O.K. (2000). Review of Natural Terrain Landslide Debris-resisting Barrier Design
+          (GEO Report No. 104). Geotechnical Engineering Office, Hong Kong, 91 p.
+
+
+===== PDF PAGE 2 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 34 (TGN 34)
+   Guidelines on Assessment of Debris Mobility for Open Hillslope Failures
+
+
+      Issue No.: 1          Revision: A         Date: 23.12.2023    Page: 2 of 16
+
+
+3.9         McKinnon, M., Hungr, O. & McDougall, S. (2008).  Dynamic Analyses of Canadian
+              Landslides. Proceedings of the 4th Canadian Conference on Geohazards: From Causes to
+            Management. Quebec, Canada.
+
+3.10        Wong, H.N., Lam, K.C. & Ho, K.K.S. (1998). Diagnostic Report on the November 1993
+             Natural Terrain Landslides on Lantau Island (GEO Report No. 69).  Geotechnical
+             Engineering Office, Hong Kong, 98 p.
+
+
+4.      BACKGROUND
+
+4.1        Open hillslope failure (OHF) involves predominantly sliding failure whereby the debris is
+              not channelised along a stream course.  According to Ho & Roberts (2016), OHF is
+               typically in the form of a debris slide or debris avalanche. However, where the site setting
+                 is conducive to concentration of surface water, e.g. presence of topographical depressions
+              or hollows, and if there is sufficient surface water, the movement of debris may develop
+               into a debris flow.
+
+4.2          Debris mass of OHF (debris slide and debris avalanche) may be heterogeneous in nature,
+            and could comprise soils and boulders/corestones in various proportions at different
+             degrees of saturation (Hungr, 2011). The debris motion of OHF along the runout path is
+               likely to be non-uniform and may be in the form of intermittent sliding or rolling and
+             bouncing, with differing degrees of mass disintegration and turbulence.
+
+4.3      A total of 16 landslides involving predominantly debris slides or debris avalanches were
+            back analysed by Hungr (1998) and Ayotte & Hungr (1998) using the friction model. The
+            back analyses were essentially based on the debris runout distance and to some extent, the
+                spatial distribution of debris deposition.  The back analyses established the values of
+             apparent friction angle (a) and a trend of reducing a with increasing landslide source
+             volume.
+
+4.4         Hungr (1998) suggested that the friction model would provide a more realistic simulation
+              of unsaturated debris mass, whereas the Voellmy model would be more appropriate for
+              saturated flows.  Also, Hungr (op cit) considered that the friction model would be an
+              appropriate rheological model for simulation of debris slides and debris avalanches.
+           Compared with the Voellmy model, the friction model would tend to predict higher debris
+                velocities, and that the bulk of the debris would be deposited proximally with gradual
+              thinning towards the source in the case of the friction model.
+
+4.5        Lo (2000) observed that the a values derived from the above back analyses were
+            comparable to the corresponding travel angles based on field mapping. In light of this, the
+              relevant landslide data reported by Wong et al (1998) and Franks (1998) were combined
+             with the results of the above back analyses in Figure 17 of GEO Report No. 104, with due
+             account taken of landslide volume and the distinction between OHF and channelised debris
+             flow (CDF).  Based on  this  figure, the following lower-bound values of a were
+           recommended by Lo (2000) for use with the friction model to provide a conservative
+
+
+===== PDF PAGE 3 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 34 (TGN 34)
+   Guidelines on Assessment of Debris Mobility for Open Hillslope Failures
+
+
+      Issue No.: 1          Revision: A         Date: 23.12.2023    Page: 3 of 16
+
+
+              estimate of debris mobility of OHF:
+
+                             Landslide source volume < 400 m3, a = 25o
+
+                             Landslide source volume ≥ 400 m3, a = 20o
+
+
+5.        ADDITIONAL ANALYSES
+
+5.1           Additional back analyses using the friction model have been carried out for selected OHF
+              of high mobility (runout distance >100 m) based on the Enhanced Natural Terrain
+             Landslide Inventory (ENTLI). Field mapping of some of these OHF that occurred in 1993
+            and 2008 were available and the respective mapped debris runout distances were used in
+              the back analyses. Also, the site settings of these cases were reviewed critically to ensure
+               that only 'genuine' OHF (i.e. without being affected by concentrated surface water) were
+             included in the back analyses.
+
+5.2        From the review, 52 OHF of high mobility have been identified, which include those that
+             occurred in 1993 and 2008. In essence, all the mobile OHF have been considered. Also,
+                field mapping of 21 nos. of relatively 'less mobile' OHF were available and most of them
+            had runout distances ranging from 50 m to 100 m. Hence, a total of 73 OHF (i.e. 52+21=73)
+            were selected for carrying out the back analyses.
+
+5.3      A review of the data sources of OHF presented in Figure 17 of GEO Report No. 104,
+              together with details of the screening exercise for identification of OHF and observations
+              of the mapped 2008 OHF, are summarised in Annex TGN 34A. The results and findings of
+              the back analyses are presented in Annex TGN 34B. Based on the findings of the review
+            and back analyses, the technical recommendations for the assessment of debris mobility
+               for OHF are updated.
+
+
+6.        TECHNICAL RECOMMENDATIONS
+
+             Rheological Model for OHF
+
+6.1         The Voellmy model may, in-principle, give a better simulation of the turbulent action
+                (e.g. mass disintegration) involved in the debris motion of OHF. McKinnon et al (2008)
+            and Hungr & Evans (2004) also observed that Voellmy model produced consistently good
+              simulation results for rock avalanches. The use of Voellmy model would require the input
+              of two rheological parameters (i.e. a and ).
+
+6.2        Owing to the lack of field debris velocity data and the uncertainties on the debris motion
+                (e.g. sliding, rolling and bouncing) of OHF at different site settings, it is not yet appropriate
+                at this stage to recommend a typical value or range of  for use in forward prediction of the
+              debris velocities of OHF. Hence, the friction model as recommended by Lo (2000) (i.e.
+        GEO Report No. 104) may continue to be used for assessing the mobility of OHF.
+
+
+===== PDF PAGE 4 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 34 (TGN 34)
+   Guidelines on Assessment of Debris Mobility for Open Hillslope Failures
+
+
+      Issue No.: 1          Revision: A         Date: 23.12.2023    Page: 4 of 16
+
+
+
+             Rheological Parameters for Estimation of Runout Distance of OHF
+
+6.3         The calculated debris runout distances of OHF using the friction model are very sensitive
+               to the value of a used in the mobility assessment.  In predicting the maximum runout
+              distance of an OHF, care should be exercised in the selection of a, as it would dictate
+             whether mitigation measures should be provided or not.
+
+6.4         The landslide data of OHF shown in Figure 17 of the GEO Report No. 104 have been
+             reviewed to ensure that only those relevant and quality data with sufficient documentation
+              are presented. In the review, different types of OHF are duly considered (see Section 1 in
+           Annex TGN 34A). Also, the figure has been updated with quality data of recent OHF of
+             high mobility collated from field mapping (see Section 2 in Annex TGN 34B and
+             Figure B1).  The following lower-bound values of a for different volume ranges are
+            recommended:
+
+                             Landslide source volume ≤ 500 m3, a = 25o
+
+                             Landslide source volume > 500 m3, a = 20o
+
+            These lower-bound values should be sufficiently robust for estimating debris runout
+              distances of OHF using the friction model.
+
+            Debris Velocity Ceiling Approach for OHF
+
+6.5              If the lower-bound values of a are used with the friction model for assessing the mobility
+              of OHF, the corresponding predicted debris velocities would likely be on the high side in
+            most cases. This may result in cost and practicability implications for the vast majority of
+                hillside settings in Hong Kong. The results of the additional back analyses indicate that the
+              back-calculated a is dependent on the ground profile; and that the velocity profile of OHF
+                 is always lower than that derived using the lower-bound value of a.
+
+6.6         Based on the results of the additional back analyses using the friction model (see Section 3
+               in Annex TGN 34B), a more realistic prediction of the maximum debris velocity that could
+            be attained by OHF is presented in Figure B2. As OHF selected for back analyses are of
+             high mobility among the 12,500 OHF in the ENTLI, the velocity ceilings (see Table 1
+            below) discerned from the calculated maximum frontal velocities for different volume
+             ranges should be representative.
+
+
+===== PDF PAGE 5 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 34 (TGN 34)
+   Guidelines on Assessment of Debris Mobility for Open Hillslope Failures
+
+
+      Issue No.: 1          Revision: A         Date: 23.12.2023    Page: 5 of 16
+
+
+                   Landslide source volume             Velocity ceilings (m/s)
+
+                     ≤ 200 m3                          9
+
+               > 200 m3 and ≤ 400 m3                    11
+
+              > 400 m3 and ≤ 1,500 m3                   13
+
+              > 1,500 m3 and ≤ 3,000 m3                    16.5
+
+          Table 1 – Recommended velocity ceilings for different landslide source volumes
+
+            Debris Velocity Envelope for Barrier Design
+
+6.7           In order to improve the estimation of debris velocity of OHF in forward prediction and
+             design of mitigation measures, an empirical method involving the use of volume
+             dependent velocity ceilings and the calculated velocity profiles based on lower-bound
+              values of a is recommended. The details are illustrated in Figure 1.
+
+
+
+                          Velocity profile based on
+                      lower-bound value of a                Recommended                                                          Velocity
+                                                                        velocity envelope
+
+
+
+
+
+              Velocity
+               ceiling
+
+
+
+
+
+                                                                           Runout Distance
+
+      Notes:  (1)  The velocity ceilings for different landslide source volumes are given in Table 1.
+                (2)   If the calculated maximum velocity is higher than the recommended velocity ceiling, the
+                 recommended velocity envelope with the velocity ceiling should be used.
+                (3)   If the calculated maximum velocity is lower than the velocity ceiling, then the calculated
+                     velocity profile should be used.
+                (4)  The velocity ceiling should not be used for natural hillsides with adverse site setting given in
+                    Figure B3 in Annex TGN 34B.
+
+
+            Figure 1 – Recommended velocity envelope for design of mitigation measures
+
+
+===== PDF PAGE 6 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 34 (TGN 34)
+   Guidelines on Assessment of Debris Mobility for Open Hillslope Failures
+
+
+      Issue No.: 1          Revision: A         Date: 23.12.2023    Page: 6 of 16
+
+
+
+             Exclusion Criteria for OHF Involving Adverse Site Setting
+
+6.8         Of the 73 OHF, three had maximum back-calculated debris velocities that were higher than
+              the recommended velocity ceilings (see Figure B2). This indicates that the recommended
+              values of velocity ceilings may not be adequate for all types of OHF. A common adverse
+                 site setting along the runout paths of the three cases is a continuous steeply inclined ground
+              surface of more than 40o in gradient and 40 m in length on plan (see Figure B3). The
+             presence of such adverse site setting can be conducive to a higher debris velocity (i.e.
+             exceeding the recommended velocity ceiling) as observed in the back analyses. The use of
+              the velocity ceiling approach is therefore not recommended for such topographical setting.
+
+6.9           Natural  hillsides with such adverse  site  setting are  relatively rare in Hong Kong,
+               particularly for OHF catchments which are relatively smaller in size as compared to
+             channelised debris flow (CDF) catchments.   It is projected that less than 5% of OHF
+             catchments would have limited extent of such adverse setting (i.e. localised areas within
+              the catchment).
+
+            Debris Thickness
+
+6.10         Debris impact force on a structure or barrier is related to both the velocity of landslide
+              debris and the debris thickness.  The adoption of the recommended velocity envelope
+            would require an adjustment of the corresponding debris thickness profile (see Figure 1 of
+              the TGN). Assuming the discharge rate as calculated from 2d-DMM remains unchanged,
+              the % increase in debris thickness would be proportional to the % reduction in debris
+              velocity (as compared with that calculated using the lower-bound value of a) at a given
+               location.
+
+           Need for Reliable Digital Terrain Model (DTM)
+
+6.11        The DTM to be adopted for debris mobility modelling should adequately reflect the site
+               characteristics that affect the debris runout path and travel distance. DTM derived using
+              multi-return airborne Light Detection and Ranging (LiDAR) surveys should be used as far
+              as possible.
+
+            Limitations and Uncertainties in Mobility Modelling
+
+6.12          Field mapping of 2008 OHF (21 cases) indicated that deposition usually took place along
+              the runout paths, but with significant variations in the rate of deposition.  Deposition of
+              debris along the runout path would lead to a reduction of the total active landslide volume,
+              but the effect on debris motion is not certain. The effect may depend on the locations of
+             detachment from the debris mass (e.g. head or tail). Further development work is required
+               to examine the effect of deposition on mobility of OHF.
+
+
+===== PDF PAGE 7 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 34 (TGN 34)
+   Guidelines on Assessment of Debris Mobility for Open Hillslope Failures
+
+
+      Issue No.: 1          Revision: A         Date: 23.12.2023    Page: 7 of 16
+
+
+
+6.13         Debris runout distances of the mapped OHF are mostly shorter than those identified in the
+           ENTLI.  For OHF with runout distances exceeding 100 m, the field mapped runout
+              distances are shorter by more than 10% as compared with the corresponding debris trail
+              lengths in the ENTLI.
+
+6.14        The representativeness of the debris mobility assessment for OHF depends critically on the
+               availability of quality field data to calibrate the rheological models and input parameters.
+           The recommendations given in this TGN should be taken as interim recommendations.
+              Further development work will continue.
+
+6.15            If it is considered that site-specific parameters and rheological model rather than those
+           recommended in this TGN should be adopted for assessing the mobility of OHF for a
+               particular hillside, agreement from the GCC should be sought.
+
+
+7.       ANNEXES
+
+7.1       TGN 34A – Landslide Data for Debris Mobility Assessment of OHF
+
+7.2       TGN 34B – Additional Back Analyses of OHF
+
+
+
+
+
+                                                                            ( Raymond W M Cheung )
+                                                 Head, Geotechnical Engineering Office
+
+
+===== PDF PAGE 8 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 34 (TGN 34)
+   Guidelines on Assessment of Debris Mobility for Open Hillslope Failures
+
+
+      Issue No.: 1          Revision: A         Date: 23.12.2023    Page: 8 of 16
+
+
+Annex TGN 34A – Landslide Data for Debris Mobility Assessment of OHF
+
+
+1.          Review of Landslide Data in GEO Report No. 104
+
+1.1       OHF debris mobility data reported by Hungr (1998), Ayotte & Hungr (1998), Wong et al
+             (1998) and Franks (1998) were used by Lo (2000). In this review, the original landslide
+              data have been re-examined and the respective authors consulted where appropriate.
+
+1.2         The 16 landslide cases back analysed by Hungr (1998) and Ayotte & Hungr (1998) using
+              the  friction model involved landslides on natural  terrain, quasi-natural  terrain and
+           man-made slopes in which the predominant failure mechanism was OHF debris slide or
+              debris avalanche.
+
+1.3         About 50 landslides were mapped by Franks (1998) in Tung Chung. According to Franks
+              (2011), most of these were characterised primarily as ''debris flows'' using the terminology
+              of Varnes (1978), and a significant proportion (>50%) of these ''debris flows'' have
+             involved abrupt changes in topography or feeding into (or cut by) drainage channels.
+              Detailed landslide mapping results can no longer be traced.  Given that there are
+               uncertainties regarding the classification of the debris movement mechanism, the data set
+             has been excluded from further analysis.
+
+1.4          According to Wong et al (1998), the 1993 natural terrain landslides on Lantau Island were
+              categorised into three types, viz. 'Gravitational', 'Mixed' and 'Hydraulic'.  Of the 41
+              landslides that were mapped in detail, 21 were classified as 'Gravitational' failures, which
+             involved ''debris movement without a significant influence from the action of surface
+                water''. 'Hydraulic' failures involved debris which had arisen principally as a result of the
+              action of surface running water.  'Mixed' failures refer to debris which was intermediate
+            between 'Gravitational' and 'Hydraulic'.  Both 'Gravitational' and 'Mixed' failures have
+            been taken to be OHF for the present purposes.
+
+
+2.           Additional Landslide Data
+
+2.1         About 120 out of 12,500 recent OHF in the ENTLI were of high mobility with runout
+              distances exceeding 100 m.  With the assistance of  site-specific aerial photograph
+               interpretation (API), a screening exercise had been conducted to exclude those OHF where
+              the runout paths were affected by concentrated surface runoff (e.g. debris entered drainage
+               lines or topographical depressions).
+
+2.2           After the screening exercise, a total of 52 OHF (i.e. excluding 3 nos. that have already been
+              studied by Hungr (1998) and Ayotte & Hungr (1998)) of high mobility were selected for
+             conducting back analyses.
+
+
+
+
+
+                                             ANNEX TGN 34A (1/2)
+
+
+===== PDF PAGE 9 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 34 (TGN 34)
+   Guidelines on Assessment of Debris Mobility for Open Hillslope Failures
+
+
+      Issue No.: 1          Revision: A         Date: 23.12.2023    Page: 9 of 16
+
+
+
+2.3           In addition to the above 52 OHF (i.e. 6 of which with field mapping) of high mobility, field
+            mapping of 21 nos. of relatively 'less mobile' OHF were also available (most of them with
+             runout distances ranging from 50 m to 100 m).  Hence, additional back analyses were
+             conducted for a total of 73 OHF (i.e. 52+21=73) and among which, 27 nos. have field
+            mapping records. In essence, all the mobile OHF in the ENTLI have been considered.
+
+
+3.           Observations of the Mapped 2008 OHF
+
+3.1           In the field mapping of the 2008 OHF, relevant landslide data comprising landslide type,
+             runout distance, source volume, entrainment and deposition were recorded. All these OHF
+            were debris avalanches involving a mixture of boulders/corestones and soil in various
+              proportions.  At present, no velocity data are available for OHF.
+
+3.2       No significant signs of entrainment were observed from the 2008 OHF. Deposition usually
+             took place readily along the runout paths, but with significant variations in deposition rate.
+              In one case, the majority of the debris mass was deposited at the distal end with a
+          maximum thickness exceeding 2 m. The lower-bound value of the average deposition rate
+                 is about 0.5 m3/m (plan  distance), whereas the upper-bound exceeds 5 m3/m (plan
+               distance).
+
+3.3          Debris runout distances of the mapped OHF are mostly shorter than those identified in the
+           ENTLI, particularly for cases of high mobility. This is probably because API was not able
+               to differentiate between genuine debris motion and subsequent outwash. For OHF with
+             runout distances exceeding 100 m, the field mapped runout distances are shorter than those
+              of ENTLI by more than 10% (average about 20%).
+
+
+
+
+
+                                             ANNEX TGN 34A (2/2)
+
+
+===== PDF PAGE 10 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 34 (TGN 34)
+   Guidelines on Assessment of Debris Mobility for Open Hillslope Failures
+
+
+      Issue No.: 1          Revision: A         Date: 23.12.2023    Page: 10 of 16
+
+
+Annex TGN 34B – Additional Back Analyses of OHF
+
+1.           Rheological Model used for Back Analyses of OHF
+
+1.1           Additional back analyses were carried out using the friction model to fit the debris runout
+               distances. Where appropriate, fine adjustment of the input parameter (i.e. apparent friction
+             angle a) was made with a view to better matching the deposition profile as recorded in
+                field mapping.
+
+
+2.          Updating GEO Report No. 104
+
+2.1         The landslides reported by Franks (1998) and the 'Hydraulic' type failures reported by
+         Wong et al (1998) were excluded (see Section 1 in Annex TGN 34A) from further analysis.
+               Instead, new quality data of OHF were added (see Figure B1), which comprised OHF with
+                field mapping and other OHF that were examined under the GEO’s systematic landslide
+               investigation programme (see Table B1). With the inclusion of the additional data, the
+            lower-bound values of a for different volume ranges are revised as shown in Section 6.4 of
+                this TGN.
+
+
+3.           Debris Velocity Ceiling Approach for OHF
+
+3.1         The maximum debris velocities of OHF estimated by the additional back analyses,
+              together with relevant data reported in Hungr (1998) and Ayotte & Hungr (1998), are
+               plotted against the corresponding landslide source volumes.
+
+3.2      A pragmatic approach is proposed by grouping the velocity data into four volume ranges
+            and selecting the appropriate velocity ceiling for each volume range (see Figure B2).
+
+3.3         The debris runout distances of mobile OHF as recorded by field mapping are generally
+             noted to be shorter than those in ENTLI by more than 10%, with an average of about 20%
+              (see Section 3.3 in Annex TGN 34A).  In the back analyses, the use of runout distances
+             based on ENTLI would result in higher debris velocities than those based on field
+            mapping.
+
+3.4        To account for the above observation, supplementary back analyses were carried out for
+               five critical OHF without field mapping of which the debris runout distances were reduced
+            by 10% in the analyses. The results indicated that the maximum debris velocities of these
+              cases would be reduced by 1 to 2 m/s (see Figure B2), giving rise to a velocity ceiling of
+            9 m/s.
+
+
+
+
+
+                                             ANNEX TGN 34B (1/7)
+
+
+===== PDF PAGE 11 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+   The Government of the Hong Kong Special Administrative Region
+
+  GEO Technical Guidance Note No. 34 (TGN 34)
+   Guidelines on Assessment of Debris Mobility for Open Hillslope Failures
+
+
+      Issue No.: 1          Revision: A         Date: 23.12.2023    Page: 11 of 16
+
+
+4.           Exclusion Criteria for OHF involving Adverse Site Setting
+
+4.1         Of the 52 OHF of high mobility identified by ENTLI, the maximum debris velocities (i.e.
+           >15 m/s) of three cases in the back analyses were higher than the velocity ceilings (see
+             Figure B2).
+
+4.2         Back analyses using the Voellmy model were also carried out for the above three cases.
+           Assuming that the turbulence action involved in these cases was similar to that of CDF (i.e.
+              turbulence coefficient set at 500 m/s2), the maximum debris velocities would be in the
+             range from 7 to 13 m/s.
+
+4.3      A common adverse site setting (see Figure B3) involving a continuous steeply inclined
+            ground surface of more than 40o in gradient and 40 m in length (plan distance) prevailed in
+              the runout paths of all three cases. It is considered that the presence of such adverse setting
+                 is conducive to the build-up of high debris velocities. Hence, the use of the velocity ceiling
+             approach is not recommended for such topographical setting.
+
+
+
+
+
+                                             ANNEX TGN 34B (2/7)
+
+
+===== PDF PAGE 12 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+The Government of the Hong Kong Special Administrative Region
+
+GEO Technical Guidance Note No. 34 (TGN 34)
+Guidelines on Assessment of Debris Mobility for Open Hillslope Failures
+
+
+Issue No.: 1          Revision: A         Date: 23.12.2023    Page: 12 of 16
+
+
+
+
+                                                               Landslide
+                                                                            Travel angle
+               Location                     Reference       source volume
+                                                                                  (deg)
+                                                                  (m3)
+
+Tai O San Tsuen No. LS1          GEO Report No. 275       80          35
+
+Tai O San Tsuen No. LS4          GEO Report No. 275      185         34
+
+Tai O San Tsuen No. LS5          GEO Report No. 275      200         34
+
+North Lantau Expressway No. L8     GEO Report No. 272      216         30
+
+North Lantau Expressway No. L11     GEO Report No. 272       34          32
+
+North Lantau Expressway No. L12     GEO Report No. 272       43          39
+
+North Lantau Expressway No. L13     GEO Report No. 272      100         28
+
+North Lantau Expressway No. L14a    GEO Report No. 272       80          36
+
+North Lantau Expressway No. L19     GEO Report No. 272       91          34
+
+North Lantau Expressway No. L34     GEO Report No. 272       30          42
+
+North Lantau Expressway No. L38     GEO Report No. 272       54          30
+
+North Lantau Expressway No. L53     GEO Report No. 272       85          34
+
+Yu Tung Road No. L28           GEO Report No. 271       90          32
+
+Yu Tung Road No. L49           GEO Report No. 271      150         28
+
+Yu Tung Road No. L50b          GEO Report No. 271       30          30
+
+Yu Tung Road No. L51           GEO Report No. 271       30          45
+                                        Landslide Mapping
+Shek Pik 1 Source D                                           16,000        29                                     Report No. LS08-0257
+
+Bowen Road                 GEO Report No. 214      750         37
+
+    Table B1 – OHF examined under GEO’s systematic landslide investigation programme
+
+
+
+
+
+                                          ANNEX TGN 34B (3/7)
+
+
+===== PDF PAGE 13 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 34 (TGN 34)
+  Guidelines on Assessment of Debris Mobility for Open Hillslope Failures
+
+
+   Issue No.: 1          Revision: A         Date: 23.12.2023    Page: 13 of 16
+
+
+
+
+
+   50
+
+   45
+(deg) 40
+
+   35angle
+
+   30
+
+   25
+
+   20friction/travel
+   15
+
+   10Apparent
+    5
+
+    0
+       10                    100                   1000                  10000                 100000
+                              Landslide source volume (m3)
+
+             Design envelope recommended
+
+
+             Apparent friction angles from back analyses by Hungr (1998) and Ayotte &
+            Hungr (1998)
+
+             Apparent friction angles from back analyses for mapped 2008 OHF
+
+
+             Apparent friction angles from back analyses for mapped 1993 OHF
+
+
+              Travel angles of other ''Gravitational" and non-channelised "Mixed" failures
+              inspected by Wong et al (1998)
+
+              Travel angles of other OHF studied under GEO's systematic landslide
+               investigation programme
+
+                 Figure B1 – Recommended apparent friction angle (a) of OHF
+
+
+
+
+
+                                            ANNEX TGN 34B (4/7)
+
+
+===== PDF PAGE 14 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+The Government of the Hong Kong Special Administrative Region
+
+GEO Technical Guidance Note No. 34 (TGN 34)
+Guidelines on Assessment of Debris Mobility for Open Hillslope Failures
+
+
+Issue No.: 1          Revision: A         Date: 23.12.2023    Page: 14 of 16
+
+
+
+
+
+   25
+
+
+
+
+
+   20
+
+(m/s)
+
+
+   15Velocity
+Frontal
+Debris
+   10
+Maximum
+
+
+
+    5
+
+
+
+
+
+    0
+       10                          100                         1000                        10000                       100000
+                                         Landslide Source Volume (m3)
+
+                            Velocity ceiling profile
+
+                       Back analyses by Hungr (1998) and Ayotte & Hungr (1998)
+
+                       Back analyses of mapped 2008 OHF
+
+                       Back analyses based on runout distances from ENTLI
+
+                       Back analyses based on ENTLI with runout distances reduced by 10%
+
+                       Back analyses of mapped 1993 OHF
+
+                   Figure B2 – Maximum debris frontal velocity of OHF
+
+
+
+
+
+                                          ANNEX TGN 34B (5/7)
+
+
+===== PDF PAGE 15 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+The Government of the Hong Kong Special Administrative Region
+
+GEO Technical Guidance Note No. 34 (TGN 34)
+Guidelines on Assessment of Debris Mobility for Open Hillslope Failures
+
+
+Issue No.: 1          Revision: A         Date: 23.12.2023    Page: 15 of 16
+
+
+
+
+
+     Figure B3 – Adverse site setting where the velocity ceiling approach is not applicable
+
+
+
+
+
+                                          ANNEX TGN 34B (6/7)
+
+
+===== PDF PAGE 16 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+The Government of the Hong Kong Special Administrative Region
+
+GEO Technical Guidance Note No. 34 (TGN 34)
+Guidelines on Assessment of Debris Mobility for Open Hillslope Failures
+
+
+Issue No.: 1          Revision: A         Date: 23.12.2023    Page: 16 of 16
+
+
+
+
+
+                                 [Blank Page]
+
+
+
+
+
+                                          ANNEX TGN 34B (7/7)

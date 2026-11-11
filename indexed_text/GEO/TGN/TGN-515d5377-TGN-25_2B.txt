@@ -1,0 +1,634 @@
+
+
+===== PDF PAGE 1 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+    The Government of the Hong Kong Special Administrative Region
+
+   GEO Technical Guidance Note No. 25 (TGN25)
+    Geotechnical Risk Management for Tunnel Works
+
+
+          Issue No. 2             Revision: B             Date: 3.7.2026         Page 1 of 11
+
+
+1.    SCOPE
+
+1.1     This Technical Guidance Note (TGN) provides guidance on geotechnical risk management in
+         relation to tunnel works.  It does not cover immersed tube tunnels, box culverts, submarine
+         outfalls and underground pipes for drains, sewers and water mains. Any feedback on this TGN
+       should be directed to the Chief Geotechnical Engineer/Mainland East.
+
+
+2.    TECHNICAL POLICY
+
+2.1    The technical guidelines contained in this TGN were agreed by GEO’s Geotechnical Control
+       Conference (GCC) in November 2005.
+
+
+3.    RELATED DOCUMENTS
+
+3.1     Barton, N. & Grimstad, E. (1994). The Q-System following twenty years of application in NMT
+        support selection. Proceedings of the 43rd Geomechanic Colloquy, Salzburg, Felsbasu, 6/94, pp
+       428-436. (Re-printed in the course notes on Design Methods for Jointed Rock by Dr N. Barton
+       produced by the Department of Civil and Structural Engineering, The Hong Kong Polytechnic
+        University, 24-26 March 1997).
+
+3.2     Barton, N. (2004). Risk and risk reduction in TBM rock tunnelling. Proceedings of the ISRM
+        International Symposium: Third Asian Rock Mechanics Symposium, Kyoto, Japan, pp 29-38.
+
+3.3   BD (2015). Requirements for a Geotechnical Assessment at General Building Plan Submission
+       Stage Regulation 8(1)(ba) of Building (Administration) Regulations. PNAP APP-25, Buildings
+       Department, The HKSAR Government, Hong Kong, 3p.
+
+3.4   BD (2018).   Protection of Sewage and Drainage Tunnels.  PNAP APP-62, Buildings
+       Department, The HKSAR Government, Hong Kong, 6p.
+
+3.5   BD (2022).  Railway Protection under Railways Ordinance, Mass Transit Railway (Land
+       Resumption and Related Provisions) Ordinance and Area Number 3 of the Scheduled Areas in
+       Schedule 5 to the Buildings Ordinance. PNAP APP-24, Buildings Department, The HKSAR
+       Government, Hong Kong, 16p.
+
+3.6   BD (2024). Code of Practice for Site Supervision 2009 (2024 Edition). Buildings Department,
+      The HKSAR Government, Hong Kong, 157p.
+
+3.7     Burland, J. B., Standing, J. R. & Jardine, F. M. (Ed.) (2001). Building Response to Tunnelling
+          - Case Studies from Construction of the Jubilee Line Extension, London. Volume 1: Projects
+       and Methods. Volume 2: Case Studies. CIRIA Report No. SP200, CIRIA, London.
+
+3.8    BSI (2019). BS 6164:2019 Health and safety in tunnelling in the construction industry. Code
+        of practice. British Standards Institution, London, 216p.
+
+
+===== PDF PAGE 2 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+    The Government of the Hong Kong Special Administrative Region
+
+   GEO Technical Guidance Note No. 25 (TGN25)
+    Geotechnical Risk Management for Tunnel Works
+
+
+          Issue No. 2             Revision: B             Date: 3.7.2026         Page 2 of 11
+
+
+3.9    BTS/ICE (2004). Tunnel Lining Design Guide.  British Tunnelling Society and Institution of
+        Civil Engineers, London, 184p.
+
+3.10    Clayton, C. R. I. (2001). Managing Geotechnical Risk - Improving Productivity in UK Building
+       and Construction. Institution of Civil Engineers, London, 80p.
+
+3.11  DEVB (2019).  Railway Protection (Development Bureau Technical Circular (Works) No.
+        1/2019).  Development Bureau, Government Secretariat, The HKSAR Government, Hong
+       Kong.
+
+3.12    Essex, R.  J. (Ed.) (2007).   Geotechnical Baseline Reports for Construction: Suggested
+        Guidelines. American Society of Civil Engineers, Reston, USA, 62p.
+
+3.13   Eskesen, S.D., Tengborg, P., Kampmann, J., Veicherts, T.H. (2004). Guidelines for tunneling
+         risk management: International Tunnelling Association, Working Group No. 2. Tunnelling and
+       Underground Space Technology, vol. 19, No. 3, pp 217-237.
+
+3.14  ETWB (2003).  Protection of Harbour Area Treatment Scheme Stage I Sewage Tunnels
+       (Environment, Transport and Works Bureau Technical Circular (Works) No. 28/2003).
+       Environment,  Transport  and  Works  Bureau,  Government  Secretariat,  The HKSAR
+       Government, Hong Kong.
+
+3.15  ETWB   (2004).      Impossibility/Unforeseen  Ground   Conditions/Utility   Interference
+       (Environment, Transport and Works Bureau Technical Circular (Works) No. 17/2004).
+       Environment,  Transport  and  Works  Bureau,  Government  Secretariat,  The HKSAR
+       Government, Hong Kong.
+
+3.16  ETWB (2005a).  Implementation of Systematic Risk Management in Public Works Projects
+       (Environment, Transport and Works Bureau Technical  Circular (Works) No.  6/2005).
+       Environment,  Transport  and  Works  Bureau,  Government  Secretariat,  The HKSAR
+       Government, Hong Kong.
+
+3.17  ETWB (2005b). Geotechnical Control for Tunnel Works (Environment, Transport and Works
+       Bureau Technical Circular (Works) No. 15/2005). Environment, Transport and Works Bureau,
+       Government Secretariat, The HKSAR Government, Hong Kong.
+
+3.18  GEO (2009).  Catalogue of Notable Tunnel Failure Case Histories (up to December 2008).
+       Geotechnical Engineering Office, The HKSAR Government, Hong Kong.
+
+3.19  GEO (2017). Guide to Site Investigation (Geoguide 2). Geotechnical Engineering Office, The
+     HKSAR Government, Hong Kong.
+
+3.20   ITA (2009). General Report on Conventional Tunnelling Method. International Tunnelling and
+       Underground Space Association.
+        (https://about.ita-aites.org/publications/wg-publications/122/general-report-on-conventional-
+        tunnelling)
+
+
+===== PDF PAGE 3 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+    The Government of the Hong Kong Special Administrative Region
+
+   GEO Technical Guidance Note No. 25 (TGN25)
+    Geotechnical Risk Management for Tunnel Works
+
+
+          Issue No. 2             Revision: B             Date: 3.7.2026         Page 3 of 11
+
+
+3.21   ITA, IMIA (2023). A Code of Practice for Risk Management of Tunnel Works. International
+       Tunnelling and Underground Space Association.
+        (https://about.ita-aites.org/wg-committees/itacus/downloads/2204/code-of-practice-for-risk-
+        management-in-tunnels-works-3rd-edition)
+
+3.22   Muir Wood, A. M. (1990). The Observational Method revisited. Proceedings of 10th Southeast
+       Asian Geotechnical Conference, Taipei, vol. 2, pp 37-42.
+
+3.23   Munich Re Group (2004). Underground Transportation Systems - Chances and Risks from the
+        Reinsurer’s Point of View. Münchener Rückversicherungs-Gesellschaft, Germany, 64p.
+
+3.24   Nicholson, D., Tse, C. M. & Penny, C. (1999).  The Observational Method in Ground
+       Engineering: Principles and Applications. CIRIA Report No. 185, CIRIA, London, 214p.
+
+3.25   Peck, R. B. (1969). Advantages and limitations of the Observational Method in applied soil
+       mechanics. Géotechnique, vol. 19, no. 2, pp 171-187.
+
+3.26   Powderham, A. J. (1994). An overview of the observational method: development in cut and
+       cover and bored tunnelling projects. Géotechnique, vol. 44, no. 4, pp 619-636.
+
+        (Note: DEVB / ETWB TC(W)s and PNAPs that are referred to in this TGN can be found from
+        the website of the Development Bureau (DEVB) (website: http://www.devb.gov.hk/) and the
+        Buildings Department (website: http://www.bd.gov.hk) respectively.  Only those directly
+        relevant to the subject of geotechnical risk management are referenced above. All references
+       can be found in the Civil Engineering Library of the Civil Engineering and Development
+       Department, which is open to the public, or from the websites indicated.)
+
+
+4.    DEFINITIONS
+
+4.1     Geotechnical Risk Assessment – The process of identifying geotechnical hazards and risks,
+        evaluating their potential consequences and likelihood of occurrence, together with strategies
+        for preventative and contingent action.
+
+4.2     Geotechnical Risk Management – The  overall systematic process of geotechnical  risk
+        assessment, and risk mitigation and control.
+
+4.3    Hazard – An event which has the potential to impact on matters relating to a project which could
+        give rise to undesirable consequences.
+
+4.4    Risk – Combination of the probability of an event occurring and its consequence for project
+        objectives.
+
+4.5    Tunnel Works – Tunnels, shafts, caverns and associated underground facilities, however
+        constructed.
+
+
+===== PDF PAGE 4 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+    The Government of the Hong Kong Special Administrative Region
+
+   GEO Technical Guidance Note No. 25 (TGN25)
+    Geotechnical Risk Management for Tunnel Works
+
+
+          Issue No. 2             Revision: B             Date: 3.7.2026         Page 4 of 11
+
+
+5.    TECHNICAL RECOMMENDATIONS
+
+5.1   GENERAL
+
+5.1.1   There have been serious failures in tunnel construction worldwide (see case histories in GEO
+        (2009)).  These have resulted in fatalities, damage to property and other socio-economic
+       consequences. Most of these are due to inadequacies in the management of geotechnical risks.
+
+5.1.2  The risk management approach is now widely adopted to control risks in construction projects.
+       Codes and technical guidance have been published on safety in tunnelling and risk management
+        of tunnel works, for example, BSI (2019), the Code of Practice by the ITA, IMIA (2023) and
+       Eskesen et al (2004). Clayton (2001) describes a risk-based approach for controlling ground-
+        related uncertainties in construction projects. Essex (2007) gives guidance on the preparation
+        of Geotechnical Baseline Reports which are used as the geotechnical baseline for allocation of
+        financial risks in contracts with underground construction. Project managers are advised to take
+       account of the provisions of these codes of practice and technical guidance that are appropriate
+        to Hong Kong in undertaking their work.
+
+5.1.3   In Hong Kong, private projects involving tunnel works are subject to geotechnical control under
+        the Buildings Ordinance (BO), in which "building" is defined to include “cavern or any
+       underground space adapted or constructed for occupation or use for any purpose including its
+        associated access tunnels and access shafts”.
+
+5.1.4   For government projects, the DEVB has issued policy documents on project risk management,
+       with respect to physical impossibilities and unforeseen ground conditions (ETWB, 2004) and
+       on systematic risk management which is applicable to public works projects with cost estimates
+       exceeding HK$200M (ETWB, 2005a). DEVB has also issued ETWB TC(W) No. 15/2005
+      (ETWB, 2005b), which states the policy and procedures for geotechnical control of planning,
+        design and construction for government tunnel works.
+
+5.1.5  The land and technical requirements for protection and maintenance of permanent tunnel works
+        including those during operation and maintenance should be considered in both the project
+       planning and design stages. Provisions for protection of major railway and sewage tunnels are
+       given in relevant ETWB / DEVB TC(W)s (e.g. ETWB TC(W) No. 28/2003 and DEVB TC(W)
+       No. 1/2019) and PNAPs (e.g. PNAP APP-24 and 62). For some tunnels, e.g. drainage tunnels
+       and tunnels with a drained lining design, long-term monitoring requirements and performance
+         criteria will also need to be specified.
+
+5.1.6  The geotechnical control provisions in the BO and the ETWB TC(W) No. 15/2005 are intended
+        to  protect  public  safety.  The Geotechnical Engineering Office (GEO) has a  role  in
+       implementing these geotechnical control provisions.
+
+5.2    AIMS AND PRINCIPLES
+
+5.2.1  One of the aims of geotechnical risk management in tunnel works is the overriding need to
+        ensure that the works do not adversely affect public safety or infrastructures (including
+        buildings,   structures,   roads,   slopes,   landfills,   tunnels,  water  mains,  gas  mains,
+       sewerage/drainage rising mains or other sensitive facilities and members of the public).
+
+
+===== PDF PAGE 5 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+    The Government of the Hong Kong Special Administrative Region
+
+   GEO Technical Guidance Note No. 25 (TGN25)
+    Geotechnical Risk Management for Tunnel Works
+
+
+          Issue No. 2             Revision: B             Date: 3.7.2026         Page 5 of 11
+
+
+
+
+5.2.2   Geotechnical risk management should be an integral part of the overall project risk management,
+       and be an integral consideration in the planning, design, procurement and construction of all
+        tunnel works.  It is the responsibility of the client, with due advice from the project manager
+       and an experienced geotechnical professional, to ensure that adequate resources are provided
+        for  the management  of  geotechnical  risks  in  the  construction  of such  works.   The
+       implementation details should take into account the level of risk to life and property.
+
+5.2.3   Geotechnical risk management should be undertaken from the start of every project.  It is a
+        cyclical process that continues throughout the duration of the project, with all the activities being
+       reviewed and the assessment updated on a regular basis. The client should ensure that qualified
+        professionals with relevant geotechnical and tunnelling experience are employed in the project
+         risk assessment/management team. Insurance of the risk does not remove the need or reduce
+        the responsibility for the client to ensure safety is properly managed.
+
+5.2.4  The project manager and the geotechnical professional responsible for risk management should
+        continually review the geotechnical risks and ensure that such risks are properly managed. At
+        the project planning stage, the risk assessment might indicate no obvious public safety concern.
+       However, at that stage the design and/or construction method is not known with certainty, and
+        there is often inadequate information on geology/hydrogeology and conditions of the sensitive
+        receivers to establish the magnitude of the geotechnical risks.  Hence, continual review is
+         essential.
+
+5.2.5  Some geotechnical risks are design- or construction method-related. Consequently, evaluation
+        of the tunnel alignment/layout design and construction methods  is an important step in
+       managing the geotechnical risks, in that exclusion of particular layout designs or construction
+       methods could avoid specific risks.  In some cases, the project/contract may need to exclude
+        layouts, designs or construction methods that are not acceptable based on risk management
+        considerations.
+
+5.2.6   In major public works projects, the project manager is required to prepare a Risk Management
+       Plan (ETWB, 2005a) covering the risk management strategy/activities, responsibilities and
+        items of risks in the project risk register. A similar approach is also adopted in some major
+        private projects (e.g. railways).
+
+5.3    GEOTECHNICAL HAZARD IDENTIFICATION AND RISK ASSESSMENT
+
+5.3.1   Geotechnical Risk Assessment (GRA) is the process of identifying the geotechnical hazards and
+        associated risks posed by the proposed tunnel alignment and works and methods of construction,
+        evaluating their potential consequences and likelihood of occurrence, both during construction
+       and in the long term, together with strategies as appropriate for preventive and contingent
+        actions.
+
+5.3.2   In order to assess the levels of geotechnical risks, the geotechnical hazards, construction
+       methods and the sensitive receivers that are present and relevant to the proposed tunnel
+       alignment and works should first be identified. Some typical examples of geotechnical hazards
+       and construction method-related risks in tunnel construction are given in Annex TGN25 A1.
+
+
+===== PDF PAGE 6 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+    The Government of the Hong Kong Special Administrative Region
+
+   GEO Technical Guidance Note No. 25 (TGN25)
+    Geotechnical Risk Management for Tunnel Works
+
+
+          Issue No. 2             Revision: B             Date: 3.7.2026         Page 6 of 11
+
+
+5.3.3   All geotechnical hazards affecting a project, the design- and construction method-related risks,
+       and evaluation of these items of risks should be recorded in the overall project risk register.
+        Individual items of risk should be assigned to designated “risk owners”, and the risk acceptance
+         criteria should be established. Typical format of a risk register can be found in Clayton (2001)
+       and ETWB (2005a).
+
+5.3.4   Site investigation, including a comprehensive desk study, site reconnaissance, a carefully
+       designed project-specific ground investigation and a condition survey of the sensitive receivers,
+          is an essential element in identifying geotechnical risks (GEO, 2017).  In Hong Kong, it is a
+       requirement to include a Preliminary Geotechnical Appraisal in the Technical Feasibility
+        Studies (for public works projects) or a Geotechnical Assessment (for private projects, see
+     PNAP APP-25) incorporating an engineering interpretation of the results of the desk study, site
+        reconnaissance and any preliminary ground investigation available.  This allows an early
+         identification of the geotechnical hazards and risks and the possible methods of mitigation. The
+       adequacy of ground investigation to locate the soil/rock interface and corestone-bearing ground
+        as well as problematic ground (e.g. marble cavities) where ground treatment is needed prior to
+        excavation should be carefully evaluated, both before tender and during construction.
+
+5.3.5   Determination of the relative ranking of each geotechnical risk should be carried out using semi-
+        quantitative or qualitative risk assessment techniques.  This enables the prioritisation of
+        geotechnical risks for mitigation and the identification of geotechnical risks that already meet
+        practicably achievable and tolerable levels and can be accepted without the need for active
+        mitigation.
+
+5.3.6  A staged assessment approach, comprising preliminary, secondary and final detailed evaluation
+        stages, has been recommended by Burland et al (2001) for evaluating the effects of tunnel works
+       on adjacent facilities such as buildings, structures and utility services.
+
+5.3.7  As part of the GRA, stability and impact assessments should be carried out.  These should
+        include calculations and analyses to demonstrate that the proposed works will be stable and will
+        not cause adverse impact to sensitive receivers, both during construction and in the long term.
+        Particular attention should be given to brittle facilities and areas of ground that could collapse
+        in a brittle manner. The cumulative impact on the sensitive receivers due to the proposed works
+       and nearby projects (e.g. cumulative settlement) should be assessed. The assessments should
+        also examine the adequacy of the criteria proposed to protect the permanent tunnel works in the
+        operational and maintenance stages.
+
+5.3.8  The documentation of the results of the GRA process should include a statement of the scope
+        of the proposed works and the anticipated or proposed construction methods, equipment and
+       procedures (e.g. method statement); an assessment of constructability of the works; the risk
+       acceptance criteria and their basis; the sensitive receivers (including members of the public) and
+         their vulnerability; an assessment of the magnitudes of the potential impacts posed by the works
+       on the ground and their effects on life and property (see Annex TGN25 A1), taking into account
+        the interpreted geotechnical conditions and any geotechnical hazards and risks and failure
+       mechanisms and triggers identified; and an assessment of gaps or deficiencies in the site
+        investigation data and an evaluation of their significance for the GRA, the design and other
+        aspects of the project.
+
+
+===== PDF PAGE 7 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+    The Government of the Hong Kong Special Administrative Region
+
+   GEO Technical Guidance Note No. 25 (TGN25)
+    Geotechnical Risk Management for Tunnel Works
+
+
+          Issue No. 2             Revision: B             Date: 3.7.2026         Page 7 of 11
+
+
+5.3.9  The results of the GRA should also include Geotechnical Risk Mitigation Plans (see Section
+         5.4), including any additional ground investigation field/laboratory work and condition survey
+       and monitoring required prior to construction, in order to reduce uncertainties sufficiently for
+        effective risk management.
+
+5.4    GEOTECHNICAL RISK MITIGATION PLANNING
+
+5.4.1  The purpose of geotechnical risk mitigation planning is to identify and implement cost-effective
+        actions that will eliminate the identified geotechnical risks or to reduce them to practicably
+        achievable and tolerable levels. With this information, particular mitigation options can be
+        selected where the risk levels cannot be accepted and specific action identified. For example,
+         at the project planning stage, where project constraints allow, the tunnel alignment should be
+        selected to avoid construction close to existing foundation piles and areas of difficult ground
+         that require costly geotechnical risk mitigation works. For TBM tunnelling, the locations of
+        intervention for maintenance of TBM and the ground treatment and other risk control measures
+        required for intervention should be planned taking into account problematic ground.
+
+5.4.2   Mitigation actions during construction should be recorded in Geotechnical Risk Mitigation
+        Plans (GRMP), which are formal instructions to the designated risk owners to undertake
+        preventive and precautionary measures for particular geotechnical risks. Tracking of the GRMP
+          is required to monitor the status of risk management activities and to determine whether risk
+        mitigation has been undertaken and is effective.  The actions under the GRMP have to be
+        continually reviewed for effectiveness until the geotechnical risks are deemed to have been
+       removed or reduced to tolerable levels. GRMPs should include risk control limits, actions
+       needed when the limits are reached and the action parties.
+
+5.4.3  The human resource requirements for managing geotechnical risks and the responsibilities that
+        the risk owners have toward the risk management process need to be defined. The risk owners
+       should be responsible for ensuring that the items of geotechnical risks assigned to them are
+        adequately managed, with the action taken and the basis of decisions made documented.
+
+5.4.4   Qualified geotechnical professionals with relevant tunnel works experience should be employed
+        to carry out the geotechnical risk identification, the GRA reviews, and the preparation and
+       updating of the risk register and the GRMP. The experience and responsibility level of such
+       persons should be commensurate with the potential consequences of the decisions to be made,
+        especially where there are public safety implications. The person responsible should review the
+        design and provide input on the decision to commence the excavation, and should be given the
+        authority  to  instruct measures  to be undertaken on  site immediately when ground  or
+       groundwater conditions worse than those assumed in the GRA or the design are encountered.
+
+5.4.5  The project manager should, with the assistance of the geotechnical professional responsible for
+         risk management, prepare a Site Supervision Plan (SSP). The typical contents of a SSP covering
+        the geotechnical aspects of government and private projects are given in Appendix A of ETWB
+       (2005b) and the Code of Practice for Site Supervision 2009 (BD, 2024) respectively.
+
+5.4.6  Where the geotechnical risks have public safety implications, there should always be technical
+        auditing of the standard of the GRA and implementation of risk mitigation actions at all critical
+        stages of design and construction. The auditors should be qualified geotechnical professionals
+
+
+===== PDF PAGE 8 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+    The Government of the Hong Kong Special Administrative Region
+
+   GEO Technical Guidance Note No. 25 (TGN25)
+    Geotechnical Risk Management for Tunnel Works
+
+
+          Issue No. 2             Revision: B             Date: 3.7.2026         Page 8 of 11
+
+
+       with adequate relevant experience.  It is good safety management practice for the client of the
+        project to directly engage the auditors to ensure independence from the project management
+          staff, designer, contractor and the site supervision team, so that public safety considerations will
+       be given due weight relative to contract programme and financial considerations. For complex
+        designs, the client should consider to appoint qualified professionals independent of the designer
+        to carry out a detailed checking of the design.
+
+5.4.7  The Observational Method (OM) has the potential to achieve saving of time and money in
+        projects involving tunnel works without compromising safety. Nicholson et al (1999) describe
+        the OM as a continuous, managed, integrated process of design, construction  control,
+       monitoring and review that enables previously defined modifications to be incorporated during
+        or after construction. All these aspects have to be demonstrably robust. The OM should not be
+       used where there  is insufficient time to implement the planned design modification or
+       emergency plans, e.g. brittle collapse. Peck (1969) discusses the advantages and limitations of
+        the OM and recommends its conditions of use, which should be observed in implementation.
+       Muir Wood (1990) and Powderham (1994) revisit Peck’s initial work to add to the thinking on
+        the use of the OM in tunnelling.
+
+5.4.8  The OM involves preparing the design covering the most probable ground conditions (i.e. the
+        design condition most likely to occur in practice), with allowance made for the possibility that
+        the most unfavourable ground conditions (i.e. the worst conditions, including groundwater
+        conditions, or the worst credible set of geotechnical parameters that the designer considers might
+       occur in practice) will occur. A suite of designs should be prepared and incorporated in the
+        design documentation for possible implementation depending on the encountered ground
+        conditions.
+
+5.4.9  The implementation of the OM requires robust inspection and monitoring and geotechnical site
+        supervision to be put in place, as critical design decisions have to be made on site in a timely
+       manner to manage the geotechnical risks. When the OM is to be used, the designer should
+        incorporate suitable provisions in the design and contract documentation for implementation of
+        the inspection, monitoring and review programme and contingency plans, and recommend
+        requirements for geotechnical site supervision by qualified professionals.
+
+5.5    RECORDING, MONITORING, REVIEWING AND RISK COMMUNICATION
+
+5.5.1   Appropriate geotechnical instrumentation should be installed to monitor the critical parameters
+        required for risk control, verification of significant design assumptions and reviewing of the
+       performance of the temporary and permanent works.  These could include groundwater
+        pressures, ground movements and vibrations, and the distortions, displacements and vibrations
+        of adjacent facilities caused by the works. In addition, the affected facilities should be inspected,
+       and representative baseline conditions and the method of interpreting the acceptability of
+        deviations from the baseline established well before construction commences. Guidance on
+       monitoring for tunnelling is given in ITA (2009).
+
+5.5.2  A reporting system should also be put in place to ensure effective communication of risk
+        mitigation actions. Where the response values are reached or abnormal response is observed,
+        then the pre-defined contingency or remedial action needs to be taken in a timely manner. There
+
+
+===== PDF PAGE 9 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+    The Government of the Hong Kong Special Administrative Region
+
+   GEO Technical Guidance Note No. 25 (TGN25)
+    Geotechnical Risk Management for Tunnel Works
+
+
+          Issue No. 2             Revision: B             Date: 3.7.2026         Page 9 of 11
+
+
+       should be a mechanism for reviewing the opportunity to reduce instrumentation and the
+       frequency of monitoring where appropriate.
+
+5.5.3  The geotechnical risk management process does not take place in isolation from other project
+         activities. Communication of risk information and consultation with the project participants
+        responsible for other areas of project implementation, as well as the major stakeholders
+        including the concerned public, are two-way processes that should be proactively undertaken
+       and should continue throughout the duration of the project.
+
+5.5.4  The geotechnical risk management process should take place at all levels of the project
+        organisation. Geotechnical risks should be reported to a central point to achieve an overview
+        of the whole project in risk terms. This can be achieved by requiring particular service providers
+         (typically consultants and contractors) to report on the status of a risk management/mitigation
+         activity and its effectiveness.
+
+
+6.    ANNEXES
+
+6.1   TGN25 A1 – Typical Examples of Geotechnical Hazards and Risks in Tunnel Construction
+
+
+
+
+
+                                                                      ( Raymond W M Cheung )
+                                            Head, Geotechnical Engineering Office
+
+
+===== PDF PAGE 10 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+    The Government of the Hong Kong Special Administrative Region
+
+   GEO Technical Guidance Note No. 25 (TGN25)
+    Geotechnical Risk Management for Tunnel Works
+
+
+          Issue No. 2             Revision: B             Date: 3.7.2026         Page 10 of 11
+
+
+TYPICAL EXAMPLES OF GEOTECHNICAL HAZARDS AND RISKS IN TUNNEL CONSTRUCTION (Note 1)
+
+
+             Examples of Geotechnical Hazards                 Risk Treatment Options
+
+                                                               Avoid/reduce the risk, e.g. by
+Variable rockhead and mixed ground conditions
+                                                                        selecting a suitable tunnel
+Presence of buried obstructions or voids (e.g. corestones, boulders,    alignment based on adequate
+disused piles, old seawalls, cavities in karst and other artifacts)          site investigation, inclusion of
+                                                                     appropriate geophysical survey
+Presence of foundations and other subsurface installations            should be considered.
+
+Presence of permeable zones that may be subject to high groundwater
+                                                         Reduce the risk, e.g. by
+pressure or that may convey large quantities of inflow
+                                                                     specifying or selecting
+Presence of weak or compressible ground (e.g. weak/fractured zones,                                                                     appropriate tunnelling
+faults, fissures, clay-coated discontinuities, granular soils and soft/                                                               method(s) with adequate
+compressible soils). Ground under very high or very low insitu stress                                                                       additional site investigation
+Presence of explosive or poisonous gas (e.g. methane) or other                                                                  during construction
+aggressive chemicals
+                                                                    Treat the risk, e.g. by specifyingSalinity of groundwater
+                                                                     appropriate ground support (e.g.
+                                                                      precast segmental linings with
+                                                            back grouting), ground
+                                                                      strengthening, groundwater
+Contaminated ground, e.g. due to ingress of leachate from landfill
+                                                                      control and containment
+                                                                 measures, and implementing
+                                                                    preventive or protective works
+
+                                                               Associated Tunnelling Method
+        Examples of Construction Method-related Risks              (Note 2)
+
+Excessive ground settlement/lateral displacement due to ground loss
+(including rock falls within the tunnel, tunnel face collapse and loss of
+                                                                   All methods
+soil into surrounding voids) or inadequate ground support caused by
+unsuitable tunnel construction method/equipment/control measures
+Excessive ground settlement/lateral displacement due to groundwater
+inflow/drawdown caused by inadequate tunnel construction method
+(e.g. pre-grouting not carried out in difficult ground), or inadequate    All methods
+ground treatment or groundwater control or inadequate consideration
+of changes in ground stresses or groundwater regime
+                                                                   All methods that use vibratory
+Excessive ground vibration                                       equipment, or that could induce
+                                                            ground vibration such as D&B
+Ejection of rock and protective material (e.g. blast door) at the tunnel
+portal or areas with a thin ground cover, due to explosion and/or gas  D&B (Note 2)
+pressures
+                                                                   All methods that create pressure
+Blow out or ground heave for tunnelling under high compressed air or in the ground, e.g. compressed
+slurry or grouting pressure                                                  air or slurry TBM (Note 3) and
+                                                                   grouting
+
+                                                ANNEX TGN25 A1
+                                                                                                         (1/2)
+
+
+===== PDF PAGE 11 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+    The Government of the Hong Kong Special Administrative Region
+
+   GEO Technical Guidance Note No. 25 (TGN25)
+    Geotechnical Risk Management for Tunnel Works
+
+
+          Issue No. 2             Revision: B             Date: 3.7.2026         Page 11 of 11
+
+
+
+
+Notes:
+
+1.     The typical examples of geotechnical hazards and risks listed above serve as reference only and
+        are not exhaustive. Adverse impact on life or property and losses are often not ascribable to one
+        single cause. There are often several combined factors that lead to adverse consequence and a
+        loss event (Barton, 2004; Munich Re Group, 2004). Designers should exercise their engineering
+       judgement in evaluating all possible geotechnical risks in relation to their projects.
+
+2.    Common tunnelling methods include use of the cut & cover method, Tunnel Boring Machine
+      (TBM), drill & blast (D&B) method including use of mechanical excavation techniques (ITA,
+        2009), the Norwegian Method of Tunnelling (provision of support to the rock mass based on
+        the NGI Q-system (Barton & Grimstad, 1994)) and soft ground tunnelling techniques (which
+        include use of the New Austrian Tunnelling Method, ground treatment such as grouting or
+       ground freezing, and groundwater control such as use of recharge wells). BTS/ICE (2004)
+        provides technical guidance for the design of structural linings for all manner of driven tunnels
+       and shafts to be constructed in most types of ground conditions.
+
+3.   TBM can be adopted for tunnels in rock (with or without shield) or in soil or mixed ground
+        (with shield supported by earth pressure balancing, slurry or compressed air). A competent
+        professional engineer with relevant experience, with the assistance of a qualified geotechnical
+        professional, should prepare the specification of the TBM and the associated risk control
+        requirements.  In the above table, the guidance applicable to TBM also applies to micro-
+        tunnelling (including horizontal directional drilling) and pipe-jacking methods.
+
+
+
+
+
+                                                ANNEX TGN25 A1
+                                                                                                        (2/2)

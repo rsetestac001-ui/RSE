@@ -1,0 +1,326 @@
+
+
+===== PDF PAGE 1 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 29 (TGN 29)
+  Guidelines on the Assessment of Debris Mobility for Channelised Debris
+  Flows
+
+
+     Issue No.: 1         Revision: A         Date: 23.12.2023    Page: 1 of 6
+
+
+1.        SCOPE
+
+1.1           This Technical Guidance Note (TGN) supplements the guidance on the assessment of
+               debris runout for channelised debris flows as given in Section 5.1 of GEO Report
+            No. 104 “Review of Natural Terrain Landslide Debris-resisting Barrier Design”.
+
+1.2        Any feedback on this TGN should be directed to Chief Geotechnical Engineer/Planning
+            and Development of the Geotechnical Engineering Office (GEO).
+
+
+2.        TECHNICAL POLICY
+
+2.1         The technical recommendations promulgated  in  this TGN were agreed by GEO
+              Geotechnical Control Conference on 29 December 2010.
+
+
+3.        RELATED DOCUMENTS
+
+3.1           Ayotte, D. & Hungr, O. (1998).  Runout Analysis of Debris Flows and Debris
+             Avalanches in Hong Kong. A Report for the Geotechnical Engineering Office, Hong
+            Kong. University of British Columbia, Canada, 90 p.
+
+3.2          Ho, H. Y. & Roberts, K. J. (2016). Guidelines for Natural Terrain Hazard Studies (GEO
+             Report No. 138, Second Edition). Geotechnical Engineering Office, Hong Kong, 173 p.
+
+3.3          Hungr, O. (1995). A model for the runout analysis of rapid flow slides, debris flows and
+              avalanches. Canadian Geotechnical Journal, vol. 32, pp 610-623.
+
+3.4          Hungr, O. (1998).  Mobility of Landslides in Hong Kong: Pilot Analysis Using a
+             Numerical Model. A Report for the Geotechnical Engineering Office, Hong Kong.
+            O. Hungr Geotechnical Research Inc., Canada, 52 p.
+
+3.5          Hungr, O. (2003).  User’s Manual of DAN-W. O. Hungr Geotechnical Research Inc.,
+             Canada, 49 p.
+
+3.6          Hungr, O., Morgenstern, N.R. & Wong, H.N. (2007). Review of benchmarking exercise
+            on landslide debris runout and mobility modelling.  Proceedings of the International
+           Forum on Landslide Disaster Management, Hong Kong, vol. II, pp 755-812.
+
+3.7         Kwan, J.S.H. & Sun, H.W. (2006). An improved landslide mobility model. Canadian
+             Geotechnical Journal, vol. 43, pp 531-539.
+
+3.8         Kwan, J.S.H. & Sun, H.W. (2007).  Benchmarking exercise on landslide mobility
+             modelling – runout analyses using 3dDMM. Proceedings of the International Forum on
+              Landslide Disaster Management, Hong Kong, vol. II, pp 945-966.
+
+
+===== PDF PAGE 2 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 29 (TGN 29)
+  Guidelines on the Assessment of Debris Mobility for Channelised Debris
+  Flows
+
+
+     Issue No.: 1         Revision: A         Date: 23.12.2023    Page: 2 of 6
+
+
+3.9          Lo, D.O.K. (2000).  Review of Natural Terrain Landslide Debris-resisting Barrier
+             Design (GEO Report No. 104). Geotechnical Engineering Office, Hong Kong, 91 p.
+
+3.10         Sun, H.W. (2010). User Manual for Computer Program “2d-DMM” – Two-dimensional
+             Debris Mobility Model (spreadsheet version 1.1).  Geotechnical Engineering Office,
+           Hong Kong, 58 p.
+
+3.11        Wong, H.N.  (2009).   Rising  to  the  Challenges  of  Natural  Terrain  Landslides.
+             Proceedings of the HKIE Geotechnical Division Annual Seminar on Natural Hillsides:
+             Study and Risk Management Measures, Hong Kong Institution of Engineers, pp 15-53.
+
+
+4.       BACKGROUND
+
+4.1                It is stipulated in GEO Report No. 138 (Ho & Roberts, 2016) that the Design Event
+            Approach may be used, either individually or in combination with other approaches, to
+              evaluate natural terrain hazards and the required mitigation measures. The framework of
+               the Design Event Approach and guidance on the determination of the Design Event in a
+              Natural Terrain Hazard Study are given in GEO Report No. 138 (Ho & Roberts, 2016).
+
+4.2           Section 5.1 of GEO Report No. 104 states that with the friction model, ''the apparent
+              angle of friction could conservatively be taken as 20° for channelised debris flows''.  It
+               further states that ''the Voellmy model, together with an apparent friction angle, a = 11°
+            and a turbulence coefficient,  = 500m/s2 (which have been found to be appropriate
+            by Hungr (1998) and Ayotte & Hungr (1998)), is suggested to be used to assess the
+              mobility of debris flows.''
+
+4.3           Since the publication of GEO Report No. 104, additional data on channelised debris
+             flows in Hong Kong have become available and more cases have been back analysed by
+               the GEO. Advances have also been made in debris mobility modelling.
+
+4.4         The June 2008 rainstorm, being one of the most intense rainstorms since the setting up of
+               the GEO, resulted in about 2,400 natural terrain landslides, some 900 of which were
+              channelised debris flows. As noted by Wong (2009), some of the channelised debris
+             flows were of a sizeable volume (active debris volume in excess of 10,000 m3), with long
+              runout distances (> 1,700 m).
+
+4.5           Systematic back analyses have been  carried out on some  selected long runout
+              channelised debris flows that occurred in June 2008, based on detailed field mapping and
+               other supplementary information such as video records where available.  This TGN
+             promulgates the findings of the back analyses.
+
+
+===== PDF PAGE 3 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 29 (TGN 29)
+  Guidelines on the Assessment of Debris Mobility for Channelised Debris
+  Flows
+
+
+     Issue No.: 1         Revision: A         Date: 23.12.2023    Page: 3 of 6
+
+
+5.         DEFINITIONS
+
+5.1           Landslide Hazard refers to the threat posed by a landslide to a given facility.  The
+              assessment of landslide hazard typically involves the consideration of the frequency of
+               landslide occurrence, the landslide debris volume and the debris runout characteristics,
+            and aims to obtain an estimated frequency of a given volume of landslide debris reaching
+               the facility causing a certain magnitude of impact.
+
+5.2          Design Event refers to the magnitude of the Landslide Hazard that is required to be
+              mitigated against, based on the use of the Design Event Approach as described in GEO
+             Report No. 138. ‘Magnitude’ is a generic, all encompassing term covering the relevant
+                attributes that characterize the severity of the impact of the Landslide Hazard, including
+               the source volume, and debris volume, height and velocity at the location where the
+               mitigation measures are to be provided.
+
+
+6.        TECHNICAL RECOMMENDATIONS
+
+           Computer Program for Debris Mobility Assessment
+
+6.1         The computer programs 2d-DMM (Kwan & Sun, 2006; Sun, 2010), DAN (Hungr, 1995
+        & 2003) and 3d-DMM (Kwan & Sun, 2007) adopt a similar analytical approach (i.e.
+             continuum model using  integrated approach with a depth-averaged shallow-flow
+               solution) and have been found to produce generally similar results in terms of runout
+               distance, velocity and thickness profiles of debris in the back analyses of some notable
+               landslides in Hong Kong.  These programs may be used for back analysis as well as
+             forward prediction of debris mobility.  Other computer programs for debris mobility
+             modelling may be considered if they have been approved by the GEO.
+
+             Debris Mobility Modelling
+
+6.2          Based on the results of the systematic back analyses of the known long-runout (i.e.
+            >200 m) historical channelised debris flows in Hong Kong using the 2d-DMM program,
+               the Voellmy model would provide a better prediction of the spatial distribution of debris
+              deposition along the runout path, as well as velocity profile where the velocity could be
+               cross checked against that deduced from the available information, as compared with the
+                friction model. Also, the friction model tends to give a higher predicted velocity profile
+             along the runout path of a channelised debris flow. Similar observations were made by
+             Ayotte & Hungr (1998). As such, the Voellmy model should be used for channelised
+               debris flows and that the recommendations given in Figure 21 of the GEO Report No.
+            104 on the use of friction model for channelised debris flows (see paragraph 4.2 above),
+               for both the analytical approach and empirical approach, are no longer applicable.
+
+
+===== PDF PAGE 4 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 29 (TGN 29)
+  Guidelines on the Assessment of Debris Mobility for Channelised Debris
+  Flows
+
+
+     Issue No.: 1         Revision: A         Date: 23.12.2023    Page: 4 of 6
+
+
+6.3         Back analyses of selected June 2008 channelised debris flows of high mobility were
+               carried out using the 2d-DMM program, as well as 3d-DMM program in some cases.
+           The Voellmy parameters back calculated by both programs were found to be similar for
+               the cases analysed.  Based on the  results of back analyses,  it  is projected  that
+             approximately 1% of the June 2008 channelised debris flows were more mobile than that
+              predicted using the recommended Voellmy parameters given in GEO Report No. 104.
+            Most of these landslides involved adverse site settings and watery debris (i.e. debris mass
+             with a very high water content) of high mobility. The characteristics of these selected
+             mobile landslides in June 2008 are given in Table 1 below.
+
+                                                                   Back analysed
+                                                                        Voellmy                                                  Total
+                                                                                 parameters      Landslide     Catchment    Source    maximum    Runout    Travel
+                                                                                  (based on         case             size      volume       active      distance    angle
+                                                            2d-DMM)                                         volume
+                                                                                        a      
+   Yu Tung C30   102,000 m2  ~2,350 m3   ~3,300 m3   > 590 m    16.6 o    7.7o   500 m/s2
+     Shek Pik 2    165,000 m2  ~ 1,000 m3  > 8,500 m3   > 910 m    17.7 o    7.6o   500 m/s2
+     Shek Pik 4    672,000 m2   ~ 150 m3   > 5,000 m3  > 1,700 m   15.8 o    7.3o   500 m/s2
+   Shek Mun Kap   121,000 m2   ~ 220 m3   > 1,700 m3   > 980 m    23.6 o    8.7o   500 m/s2
+
+       Table 1 – Characteristics of selected mobile landslides with watery debris in June 2008
+
+6.4          Adverse site settings that are prone to the development of sizeable channelised debris
+             flows with watery debris of high mobility have been diagnosed by Wong (2009). These
+              include the following:
+
+                 Sizeable debris flow at a major drainage line (e.g. site with a large catchment and a
+                  long flow path where a large amount of storm water and entrainable materials may
+                 be available for mixing with the landslide debris).
+
+                 Sizeable debris flow along a major drainage line into which many tributaries are
+                   feeding (i.e. possible sudden increase in the water content of the moving debris
+                 whenever the debris passes through a confluence point).
+
+                 Discharge of debris onto a pool of water on the drainage line or debris from a small
+                   drainage line onto a major drainage line, where there is a potential for a large
+                amount of running storm water.
+
+             For channelised debris flow catchments that are deemed to be prone to watery debris (e.g.
+             with any of the above adverse site settings), the following Voellmy parameters are
+            recommended: a = 8o and  = 500 m/s2.  Judicious judgement should be exercised in
+              assessing the site setting and selecting of appropriate input parameters for forward
+               predictions.
+
+
+===== PDF PAGE 5 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 29 (TGN 29)
+  Guidelines on the Assessment of Debris Mobility for Channelised Debris
+  Flows
+
+
+     Issue No.: 1         Revision: A         Date: 23.12.2023    Page: 5 of 6
+
+
+6.5         Where a channelised debris flow catchment is not associated with the above adverse site
+                settings, the recommendations on debris mobility modelling using the Voellmy model as
+              given in Section 5.1 of GEO Report No. 104 (i.e. Voellmy parameters of a = 11o and
+             = 500 m/s2) are suitably conservative and still applicable.
+
+            Assessment of Possible Entrainment and Dam Break
+
+6.6           Entrainment could be a major component of the total active volume in channelised debris
+              flows, particularly for drainage lines with a large amount of entrainable materials (e.g.
+             perched materials on stream bed). Detailed field mapping should be carried out to allow
+             an assessment of the potential for entrainment and the likely entrainment rates.
+
+6.7          Given the uncertainties involved, a pragmatic approach for forward predictions of debris
+              mobility would be to model the potential entrainment as part of the source volume. The
+                alternative approach of separately modelling the source volume and entrainment along
+               the drainage line may be used  if there  is sufficient confidence in the estimated
+              entrainment rates based on detailed field mapping.
+
+6.8         The possibility of a dam break scenario should be assessed. Careful field mapping and
+               judicious judgement are needed in examining the potential for formation of debris dams
+            and subsequent dam break along a drainage line, which could greatly affect the debris
+               runout.
+
+            Use of 3-Dimensional Debris Mobility Models
+
+6.9         Where the actual debris runout path is sensitive to the Digital Terrain Model (DTM)
+                 (e.g. possibility of debris overshooting bends along a drainage line, splitting of debris at
+               bifurcation of drainage lines, etc.), the potential for deposition of debris filling up local
+             ground depressions and hence changing the debris runout path should be considered.
+             This would normally call for 3-dimensional debris mobility models (e.g. 3d-DMM), with
+               suitable adjustments of the DTM in order to cater for such possible debris deposition.
+           The provision of engineering measures (e.g. deflector wall, guide wall, etc.) at suitable
+               locations along the runout path, where practicable, may help to reduce the sensitivity of
+               the actual debris runout path to the DTM.
+
+6.10        The 3d-DMM computer program can simulate debris flows over irregular and complex
+                terrain profiles (e.g. without a well-defined channel alignment, drainage lines with abrupt
+              bends, etc.), and estimate the lateral spread of debris at the outlets of drainage lines. The
+                results of back analyses of selected notable landslides (Hungr et al, 2007) have shown
+                that the lateral spread simulated by 3d-DMM generally agrees with the site observations.
+               In special cases (e.g. the benchmarking exercise against the USGS flume tests as reported
+            by Hungr et al (op cit)), the 3d-DMM could under-estimate the thickness of debris
+              deposition and over-estimate the extent of lateral spread. However, the relevance and
+               representativeness of such small-scale physical tests are open to question.
+
+
+===== PDF PAGE 6 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 29 (TGN 29)
+  Guidelines on the Assessment of Debris Mobility for Channelised Debris
+  Flows
+
+
+     Issue No.: 1         Revision: A         Date: 23.12.2023    Page: 6 of 6
+
+
+
+           Need for Reliable Digital Terrain Model and Sensitivity Analysis
+
+6.11        The DTM to be adopted for debris mobility modelling should adequately reflect the site
+                characteristics that affect the debris runout path and travel distance. The DTM derived
+            from published topographic maps may not give reliable topographic data, particularly at
+               locations masked by thick vegetation.  Multi-return air-borne Light Detection and
+            Ranging (LiDAR) surveys have the capability of deriving the DTM of the ground surface
+             through the ‘virtual deforestation’ process in a vegetated hillside. Such LiDAR data, if
+                available, should be used to compile the DTM after validation against known coordinates
+              of surveyed locations within or in the vicinity of the site.
+
+6.12           Sensitivity analyses should be carried out, given the uncertainties in the input data.
+             These should include an assessment of the effect of landslide volume (i.e. source volume
+              as well as entrained volume and entrainment rate where appropriate) and the assumed
+               rheological parameters on debris runout, debris thickness and debris velocity profiles
+             along the runout path. Where the 3d-DMM program is used, the sensitivity of the lateral
+              spread and thickness of debris at the outlet of a drainage line to the input parameters
+             should also be examined.
+
+
+
+
+
+                                                                            ( Raymond W M Cheung )
+                                                 Head, Geotechnical Engineering Office

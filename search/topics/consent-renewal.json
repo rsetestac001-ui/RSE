@@ -2,16 +2,16 @@
   "query": "\"renewal of consent\" OR \"consent\" OR \"validity\"",
   "results": [
     {
-      "code": "APP-060",
-      "source": "indexed_text/PNAP/APP/APP-060.txt",
-      "pdf_page": 4,
-      "excerpt": " … BO s14(1)(b)                    \n           to the Commencement of Building   & B(A)R 31\n        Works\n BA9    Application for [Renewal of] … "
-    },
-    {
       "code": "APP-097",
       "source": "indexed_text/PNAP/APP/APP-097.txt",
       "pdf_page": 4,
       "excerpt": " … If the plans can be approved, approval and [consent]\n                          will be given at the same time with the required\n                        [consent] notice in … "
+    },
+    {
+      "code": "APP-060",
+      "source": "indexed_text/PNAP/APP/APP-060.txt",
+      "pdf_page": 4,
+      "excerpt": " … BO s14(1)(b)                    \n           to the Commencement of Building   & B(A)R 31\n        Works\n BA9    Application for [Renewal of] … "
     },
     {
       "code": "APP-050",
@@ -44,16 +44,16 @@
       "excerpt": " … 337\n\n\n[Validity] of Approved Plans\n\n            Approved plans forming the basis of an Exclusion Order under the Landlord &\nTenant (Consolidation) Ordinance are normally … "
     },
     {
-      "code": "ADM-20",
-      "source": "indexed_text/PNAP/ADM/ADM-20.txt",
-      "pdf_page": 3,
-      "excerpt": " … Date of      [Validity]                                  (City and country)                                                                    Laboratory   Laboratory                   Test  /      Date\n                                                                           Accreditation    / Assessing                Assessment\n                                                               Body      Organisation                Report\n\n BD-D010    Fire Door ABC   ABC … "
-    },
-    {
       "code": "APP-023",
       "source": "indexed_text/PNAP/APP/APP-023.txt",
       "pdf_page": 5,
       "excerpt": " … AP/RSE should note that [consent] for building works will be refused if the\nrequired hoardings/covered walkways/gantries proposals have not … "
+    },
+    {
+      "code": "ADM-20",
+      "source": "indexed_text/PNAP/ADM/ADM-20.txt",
+      "pdf_page": 3,
+      "excerpt": " … Date of      [Validity]                                  (City and country)                                                                    Laboratory   Laboratory                   Test  /      Date\n                                                                           Accreditation    / Assessing                Assessment\n                                                               Body      Organisation                Report\n\n BD-D010    Fire Door ABC   ABC … "
     },
     {
       "code": "ADM-02",
@@ -68,28 +68,28 @@
       "excerpt": " … Regarding building products for which the [validity] dates of the test and \nassessment reports available in the CDB had already lapsed, BD … "
     },
     {
-      "code": "ADM-20",
-      "source": "indexed_text/PNAP/ADM/ADM-20.txt",
-      "pdf_page": 5,
-      "excerpt": " … Building\n                                Manufacture                       Regulations and                                                       Integrity  Insulation                   Accredi­    Certification   CoC     CoC     [Validity]                                       (City and                         Codes of                                                                                                   tation Body    Body    Number     Date      Date                                   Country … "
+      "code": "APP-097",
+      "source": "indexed_text/PNAP/APP/APP-097.txt",
+      "pdf_page": 1,
+      "excerpt": "Practice Note for Authorized Persons,\nBuildings Department    Registered Structural Engineers and          APP-97\n                         Registered Geotechnical Engineers\n\n\n           [Consent] Procedures for Building Works and … "
     },
     {
-      "code": "APP-013",
-      "source": "indexed_text/PNAP/APP/APP-013.txt",
-      "pdf_page": 11,
-      "excerpt": " … Date of CoC    [Validity]                                         (City and                         Regulations                                                                                      Accreditation Certification                           Date                                    Country)                     and Codes of                                                                         Body       Body                                                                             Practice\n\n  a) Fire rated      ^\n    doorset\n  b … "
+      "code": "APSEC-DF-2020-05-29",
+      "source": "indexed_text/APSEC/2020/APSEC-DF-2020-05-29.txt",
+      "pdf_page": 4,
+      "excerpt": " … Only \n[consent] for basement was given and covered walkway had to be erected \nprior to [consent] application for superstructure works. \n \nSuch requirement … "
     },
     {
-      "code": "APP-013",
-      "source": "indexed_text/PNAP/APP/APP-013.txt",
-      "pdf_page": 12,
-      "excerpt": " … of Practice                                                               Name of        Name of        Report    Date of Test /   [Validity]                                                 (City and                                                                              Laboratory       Laboratory /        No.      Assessment     Date                                           Country)                                                                                     Accreditation         Assessing                    Report … "
+      "code": "APP-097",
+      "source": "indexed_text/PNAP/APP/APP-097.txt",
+      "pdf_page": 3,
+      "excerpt": " … First [Consent] Checklist\n\n9.          To ensure all essential works and procedures have been completed and\nall required documents are submitted prior to … "
     },
     {
-      "code": "APP-013",
-      "source": "indexed_text/PNAP/APP/APP-013.txt",
-      "pdf_page": 18,
-      "excerpt": " … Date of CoC    [Validity]                                          (City and                         Regulations                                                                                       Accreditation Certification                           Date                                     Country)                     and Codes of                                                                          Body       Body                                                                              Practice\n\n   a) Fire rated      ^\n     doorset\n   b … "
+      "code": "APSEC-DF-2023-08-04",
+      "source": "indexed_text/APSEC/2023/APSEC-DF-2023-08-04.txt",
+      "pdf_page": 3,
+      "excerpt": " … The application can either be made after obtaining the first [consent] or \nsimultaneously with the application for the first [consent].  \n \nIn some … "
     }
   ]
 }

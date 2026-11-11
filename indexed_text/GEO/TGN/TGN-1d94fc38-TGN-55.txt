@@ -1,0 +1,360 @@
+
+
+===== PDF PAGE 1 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 55 (TGN 55)
+  Design of Flexible Debris-resisting Barriers Using Force Approach
+
+
+    Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 1 of 7
+
+
+
+1.        SCOPE
+
+1.1           This Technical Guidance Note (TGN) stipulates the recommendations on the design of
+                flexible debris-resisting barriers using the Force Approach.
+
+1.2        Any  feedback  on  this TGN  should  be  directed  to  the  Chief  Geotechnical
+              Engineer/Landslip Preventive Measures 2 of the Geotechnical Engineering Office
+            (GEO).
+
+
+2.        TECHNICAL POLICY
+
+2.1         The technical recommendations promulgated  in  this TGN were agreed by GEO
+              Geotechnical Control Conference on 16 October 2024.
+
+
+3.        RELATED DOCUMENTS
+
+3.1       BD (2023).  Code of Practice for the Structural Use of Steel 2011 (2023 Edition).
+              Buildings Department, Hong Kong, 399 p.
+
+3.2       GEO (1984).   Geotechnical Manual  for Slopes (Second  Edition).   Geotechnical
+              Engineering Office, Hong Kong, 302 p.
+
+3.3       GEO (2013).   Stability of Man-made Slopes Affected by Debris Retained behind
+              Landslide  Debris-resisting  Barriers (WGGC  Paper  No. 3/2013).   Geotechnical
+              Engineering Office, Hong Kong, 2 p.
+
+3.4       GEO (2015).  Assessment of Landslide Debris Impact Velocity for Design of Debris-
+                resisting Barriers (GEO Technical Guidance Note No. 44). Geotechnical Engineering
+               Office, Hong Kong, 4 p.
+
+3.5       GEO (2019). Detailing of Flexible Debris-resisting Barriers (GEO Technical Guidance
+             Note No. 48). Geotechnical Engineering Office, Hong Kong, 9 p.
+
+3.6       GEO (2023).  Stability of Slopes below Debris-resisting Barriers (GEO LPM Branch
+             Design Technical Note No. DES-03).  Geotechnical Engineering Office, Hong Kong,
+            2 p.
+
+3.7          Ho, H.Y. & Roberts, K.J. (2016). Guidelines for Natural Terrain Hazard Studies (GEO
+             Report No. 138) (Second Edition). Geotechnical Engineering Office, Hong Kong, 173 p.
+
+3.8         Kwan, J.S.H. & Cheung, R.W.M. (2012).  Suggestions on Design Approaches for
+               Flexible  Debris-resisting  Barriers  (Discussion  Note DN 1/2012).   Geotechnical
+              Engineering Office, Hong Kong, 90 p.
+
+
+===== PDF PAGE 2 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 55 (TGN 55)
+  Design of Flexible Debris-resisting Barriers Using Force Approach
+
+
+    Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 2 of 7
+
+
+
+3.9         Kwan, J.S.H. & Koo, R.C.H. (2018).  Enhanced Technical Guidelines for Design of
+               Debris-resisting Barriers (GEO Report No. 333).  Geotechnical Engineering Office,
+           Hong Kong, 34 p.
+
+3.10        Lam, H.W.K., Sze, E.H.Y. & Wong, E.K.L. (2020).  Study of Dynamic Soil Debris
+             Impact Load on Flexible Debris-resisting Barriers (Technical Note No. TN 2/2020).
+              Geotechnical Engineering Office, Hong Kong, 48 p.
+
+3.11        Ma, M.K.H., Wong, E.K.L. & Lau, J.W.C. (2024). A Numerical Study of Boulder Impact
+                Effects and Dynamic Soil Debris Impact Load on Flexible Debris-resisting Barriers
+              (Technical Note No. TN 2/2024). Geotechnical Engineering Office, Hong Kong, 30 p.
+
+
+4.       BACKGROUND
+
+4.1        Kwan & Cheung (2012), GEO (2015) and Kwan & Koo (2018) provide some
+              suggestions on design approaches for flexible debris-resisting barriers. GEO (2019)
+              gives recommendations on the detailing of flexible barriers including alignment, anchor
+               location and special considerations for barriers traversing a stream course.
+
+4.2        Lam et al. (2020) and Ma et al. (2024) studied the hydrodynamic impact load on flexible
+                barriers  subjected  to  landslide  debris  impact  with  and  without  boulders.
+            Recommendations were made  regarding  the  design  value  of  the  coefficient  of
+             hydrodynamic debris impact pressure.
+
+4.3          Following the technical development work above involving numerical analyses, back
+              analyses of impact cases on flexible barriers and physical tests, this TGN makes
+             recommendations on the design of flexible debris-resisting barriers using the Force
+             Approach.
+
+
+5.        TECHNICAL RECOMMENDATIONS
+
+5.1         Loading on Barrier
+
+5.1.1        Loading on flexible barriers should include (i) dynamic impact load due to debris impact,
+             and (ii) static load arising from the debris that have been stopped and deposited behind
+               the barrier.  If debris overflow is allowed, the corresponding drag force induced on the
+                barriers should also be included. The area of application of the loadings should be such
+                that it produces the most adverse effect on the particular aspect or components of the
+                barrier structure being designed.
+
+
+===== PDF PAGE 3 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 55 (TGN 55)
+  Design of Flexible Debris-resisting Barriers Using Force Approach
+
+
+    Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 3 of 7
+
+
+
+5.1.2        Based on results of large-scale flume tests and numerical analysis, prediction of the
+            dynamic debris impact pressure (pd) should be evaluated using Equation (1).
+
+                                                   pd = v2                                         (1)
+
+            where    =    coefficient of dynamic debris impact pressure
+             =   mass density of debris, taken as 2,200 kg/m3 as a minimum
+                       v   =   debris velocity
+
+                   If v > 12 m/s, justifications for the appropriateness of using Equation (1) to evaluate the
+            dynamic impact pressure should be provided.
+
+5.1.3        The coefficient of dynamic debris impact pressure () should be taken as 1.0 for debris
+               consisting primarily of soil, with boulders of diameter up to 1 m. Impact effects from
+              boulders up to 1 m in diameter need not be separately considered.
+
+5.1.4            If the debris front is expected to comprise boulders larger than 1 m and up to 2 m in
+              diameter, the coefficient of dynamic debris impact pressure () should be taken as 2.0
+              unless the impact loads from boulders are explicitly considered or unless separate
+               mitigation measures are taken to address the presence of boulders.
+
+           Where boulders with diameter greater than 2 m (or with volume exceeding a 2 m
+              diameter sphere) in the debris front are anticipated, suitable independent measures (e.g.
+                baffles, debris-straining structures or in-situ boulder stabilisation) should be provided to
+              reduce the impact of boulders on the flexible barrier.
+
+5.1.5        The static pressure of the deposited debris (ps) should be evaluated using Equation (2).
+
+                                                        ps = K d g                                         (2)
+
+            where   K  =    coefficient of earth pressure, taken as 1.0
+                     d   =   depth below upper surface of moving debris
+             =   mass density of debris, taken as 2200 kg/m3 as a minimum
+                     g   =    gravitational acceleration
+
+5.1.6        The debris may hit a barrier in the form of surges which fill up the barrier progressively.
+             For design purpose, the design event should be assumed to involve multiple surges. The
+             impact scenarios as shown in Figure 1 should be considered.
+
+
+===== PDF PAGE 4 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 55 (TGN 55)
+  Design of Flexible Debris-resisting Barriers Using Force Approach
+
+
+    Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 4 of 7
+
+
+
+5.1.7        Where a series of flexible barriers is used to retain the whole of the active volume or
+            where debris overflow is allowed in design, drag forces due to debris overflow should be
+              considered under the loading scenario as shown in Figure 2.
+
+            The shear stress which gives rise to drag forces should be determined by Equation (3).
+
+                        = h g tan e                                       (3)
+
+            where    h      =  thickness of debris surge
+                =  mass density of debris, taken as 2,200 kg/m3 as a minimum
+                         tan e   =  equivalent coefficient of friction at interface of overtopping
+                                      debris surge and deposited debris, to be taken as tan + v2/(h)
+                                where v is velocity of overflow,  and  are apparent friction
+                                    angle and turbulence coefficient adopted in debris mobility
+                                      analysis respectively (the second term, v2/(h), can be dropped
+                             when frictional rheological model is used)
+
+
+===== PDF PAGE 5 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+The Government of the Hong Kong Special Administrative Region
+
+GEO Technical Guidance Note No. 55 (TGN 55)
+Design of Flexible Debris-resisting Barriers Using Force Approach
+
+
+Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 5 of 7
+
+
+
+
+                Flowing and deposition sequence of debris            Loading on barrier
+
+                     Barrier                       h
+
+                                                                                  pd = v2
+
+
+
+                        (i)     Debris front reaches barrier and deposition commences
+                                 (first debris surge)
+
+
+                                                                                pd = v2
+                     h Moving debris
+
+
+             d
+                               Debris
+                                deposited
+                                                                                        ps = g d
+                         (ii)    Debris flows above deposited debris
+                         (subsequent debris surges)
+
+
+                                                                                pd = v2                       h
+
+
+             d
+
+                     Debris deposited
+
+
+                                                                                        ps = g d
+                          (iii)    Debris piles up behind barrier
+                                (last debris surge filling up barrier)
+
+
+
+
+           Figure 1.   Design impact scenarios
+
+
+===== PDF PAGE 6 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 55 (TGN 55)
+  Design of Flexible Debris-resisting Barriers Using Force Approach
+
+
+    Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 6 of 7
+
+
+
+
+                                        h      Drag force of overflow, = g h tan e
+
+                   Debris
+                                   d                   overtopping
+                                                               Debris
+                                                                 deposited
+
+
+
+                                                                 ps = Kg d
+                                     Barrier
+
+
+              Figure 2.   Loading on a barrier due to debris overtopping
+
+5.1.8        The thickness of debris surge (h) and the velocity (v) in each surge should be determined
+               in accordance with GEO TGN No. 44 (GEO, 2015).
+
+5.1.9         For barriers at which over-topping is anticipated, appropriate protection measures to the
+              top rope of the barrier against abrasion should be provided.
+
+5.1.10      As a flexible barrier will deform under the effect of debris loading, the deformed height
+              should be used in assessing the total force acting on the barrier (e.g. under the over-
+              topping scenario).  In addition, the weight of debris which could act on the deformed
+                barrier should be taken into account in the structural design.
+
+5.2           Structural Capacity of Barrier
+
+5.2.1        The structure of a flexible barrier including the foundations for end and intermediate
+              supports should be designed in accordance with relevant structural codes and standards,
+                 e.g. Code of Practice for the Structural Use of Steel (BD, 2023). The load factor on the
+               ultimate design loads acting on the structural members of the barrier derived from the
+               debris loading given in Equations (1), (2) and (3) may be taken as unity. Appropriate
+                 partial safety factors on structural materials should be applied in accordance with the
+                structural codes and standards.
+
+5.2.2         Appropriate  structural  analysis  that  takes  into  account  the  load-deformation
+                characteristics of all major structural components as well as the entire barrier system (e.g.
+                 finite element / finite difference method) should be carried out to demonstrate that the
+                flexible barrier has sufficient structural capacity to resist the debris loading with multiple
+              surges illustrated in Figure 1. The structural form of the barrier should be designed and
+               detailed such that the shape, disposition and strength of its members including wire ropes,
+               nets and energy dissipating devices can be effectively mobilised to withstand the debris
+               loadings.
+
+
+===== PDF PAGE 7 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 55 (TGN 55)
+  Design of Flexible Debris-resisting Barriers Using Force Approach
+
+
+    Issue No.: 1       Revision: -        Date: 13.12.2024  Page: 7 of 7
+
+
+
+5.2.3          Structural properties (e.g. load-deformation characteristics of the structural components)
+            assumed in the structural analyses should be verified by adequate and appropriate
+               laboratory tests.
+
+5.2.4         Deformation of the flexible barrier should be checked using structural analysis. The
+              designer should ensure that there is a sufficient clearance between the deformed barrier
+             and the facility being protected.
+
+5.2.5        The structural design including structural analyses and component tests should be carried
+              out by a competent structural engineer who has design experience in steel structures. The
+              design should be independently checked and  certified by a Registered Structural
+             Engineer or Registered Professional Engineer (Structural).
+
+5.3         Checking against Overall Stability
+
+5.3.1        Where a flexible barrier is located on or near the crest of a man-made or natural slope,
+               the overall stability of the slope should be assessed and where necessary stabilisation
+             measures should be implemented to achieve a minimum factor of safety in accordance
+              with the Geotechnical Manual for Slopes (GEO, 1984) for man-made slopes or Ho &
+              Roberts (2016) for natural slopes.  The effects of foundation load on slope stability
+              should also be assessed where necessary.
+
+5.3.2          In addition to paragraph 5.3.1 above, for a man-made or natural slope being affected by
+             an increased loading due to the landslide debris retained by the barrier, the overall
+                 stability of the slope affecting facilities under Consequence-to-Life Category 1, 2, or 3
+              should be assessed and where necessary stabilisation measures should be implemented
+               to achieve a minimum factor of safety of 1.2, 1.1 or 1.0, respectively (GEO, 2013; GEO,
+              2023). However, this assessment is not necessary for flexible barriers prescribed under
+              a holistic risk mitigation strategy (Ho & Roberts, 2016).
+
+
+
+
+
+                                                                            ( Raymond W M Cheung )
+                                                 Head, Geotechnical Engineering Office

@@ -1,0 +1,311 @@
+
+
+===== PDF PAGE 1 =====
+Geoguide 7                                                                             First Edition
+
+              Geoguide 7 – Guide to Soil Nail Design and Construction
+
+                                        First Edition
+
+               AMENDMENT NO.: GG7/01/2017
+
+
+BACKGROUND
+
+ This amendment sheet incorporates the recommendations given in the following GEO Technical
+ Guidance Notes:
+
+ (i) GEO Technical Guidance Note No. 31 (TGN 31) – Design of Soil Nails for Upgrading Loose
+      Fill Slopes.
+
+ (ii) GEO Technical Guidance Note No. 41 (TGN 41) – Amendments to British Standards References
+     in Technical Guidance Documents for Migration to Eurocodes.
+
+ The amendments are given below.
+
+AMENDMENTS
+
+ SECTION 5     DESIGN OF A SOIL-NAILED SYSTEM
+
+ (a) Section 5.5     Amend the section as follows:
+
+                    In item (a), line 2, delete ‘BS EN ISO 1461:1999 (BSI, 1999)’ and substitute
+                  ‘BS EN ISO 1461:2009 (BSI, 2009)’.
+
+                    In item (a), line 4, delete ‘CEDD’ and substitute ‘HKSARG’.
+
+                    In item (b), line 2, delete ‘BS EN ISO 1461:1999 (BSI, 1999)’ and substitute
+                  ‘BS EN ISO 1461:2009 (BSI, 2009)’.
+
+                    In item (c), line 2, delete ‘BS EN ISO 1461:1999 (BSI, 1999)’ and substitute
+                  ‘BS EN ISO 1461:2009 (BSI, 2009)’.
+
+ (b) Section 5.6.3      Delete Equation (5.3) and explanatory notes and substitute the following:
+
+                                      2.25η1η2 fctd Pr L                          TGR =                                             (5.3)
+                                FGR
+
+                 η1    =  the  coefficient  related  to  the  quality  of  the  bond
+                      condition and the position of the bar during concreting in accordance
+                     with Clause 8.4.2 of BS EN 1992-1-1:2004 (BSI, 2004)
+                 η2    = the coefficient related to the bar diameter in accordance
+                     with Clause 8.4.2 of BS EN 1992-1-1:2004 (BSI, 2004)
+                                      fctd    =  the  design  value  of  concrete  tensile  strength  in
+                     accordance with Clause 3.1.6(2)P of BS EN 1992-1-1:2004 (BSI,
+                    2004) and NA to BS EN 1992-1:2004 (BSI, 2005)
+                      Pr     =  effective perimeter of the soil-nail reinforcement
+                 L     = bond length of the soil-nail reinforcement in the passive
+                     zone
+
+Amendment No. GG7/01/2017                                                           Page 1 of 5
+
+
+===== PDF PAGE 2 =====
+Geoguide 7                                                                             First Edition
+
+                    FGR    =   factor    of    safety    against    pullout    failure    at
+                      grout-reinforcement interface
+
+ (c) Section 5.6.4     In Figure 5.5, item (3), delete ‘CEDD’ and substitute ‘HKSARG’.
+
+ (d) Section 5.6.5    Amend the section as follows:
+
+                    In paragraph 7, lines 1 to 3, delete ‘GEO Publication No. 1/2000 : Technical
+                      Guidelines on Landscape Treatment and Bio-engineering for Man-made Slopes
+                    and Retaining Walls (GEO, 2000b) and GEO Technical Guidance Note No. 20
+                  (GEO, 2007b)’ and substitute ‘GEO Publication No. 1/2011  : Technical
+                      Guidelines on Landscape Treatment for Slopes (GEO, 2011)’.
+
+                    In paragraph 7, lines 6 and 7, delete ‘GEO Report No. 56 (Wong et al,
+                     1999)’ and substitute ‘GEO Publication No. 1/2009 (GEO, 2009)’.
+
+                    In paragraph 7, line 8, delete ‘CEDD’ and substitute ‘HKSARG’.
+
+ (e) Section 5.8.1     Replace paragraph 5 as follows:
+
+                        The use of soil nails in loose fill slopes should in-principle follow the
+                    recommendations given in the report “Design of Soil Nails for Upgrading
+                   Loose Fill Slopes” prepared by the Geotechnical Engineering Office, Civil
+                     Engineering and Development Department and the Hong Kong Institution of
+                     Engineers (Geotechnical Division) (GEO-HKIE, 2011). This report provides
+                      design recommendations to supplement the design guidance given in the report
+                         entitled “Soil Nails in Loose Fill Slopes – A Preliminary Study” promulgated
+                   by the Hong Kong Institution of Engineers (Geotechnical Division) (HKIE,
+                      2003). The  salient points of the recommendations and the supplementary
+                       guidelines are given in Sections 5.8.2 to 5.8.4.
+
+ (f) Section 5.8.2     Replace paragraph 2 as follows:
+
+                           For design scenario (a), a minimum factor of safety of 1.1 should be
+                     achieved for any potential failure surface. For internal failure modes of the
+                          soil nail, the minimum factors of safety recommended in Section 5.6.2 should
+                    be followed, except that the factor of safety against tensile failure of soil-nail
+                      reinforcement should follow the recommendations in the HKIE-GD Report
+                   (HKIE, 2003). For design scenarios (b) and  (c), the minimum factors of
+                        safety as recommended in Tables 5.4 to 5.6 in Section 5.6.2 should be
+                       achieved.
+
+ (f) Section 5.8.3(1)   Replace paragraph 1 as follows:
+
+                                 (1) Design Shear Strength for Loose Fill. In order  to address the
+                     concern that when loose fills are subjected to shearing, they may lose strength
+                          at such a rate that the forces mobilised in the soil nails will not be able to
+                    compensate for the loss of shear strength of the fill, large strain steady state
+                     undrained shear strength, css, should be adopted for loose fill in the design.  If
+                          site-specific laboratory testing is not carried out, a conservative value of steady
+                          state undrained shear strength equal to 0.2 times the mean effective stress,
+                               p'peak, can be adopted, where p'peak is the point at which the  fill behaviour
+                     changes from drained to undrained in a possible failure scenario.  It is strongly
+                   recommended that site-specific laboratory tests be carried out in order to
+
+
+Amendment No. GG7/01/2017                                                           Page 2 of 5
+
+
+===== PDF PAGE 3 =====
+Geoguide 7                                                                             First Edition
+
+                     reduce the unnecessary conservatism in the design parameters. The use of the
+                              css / p'peak correlation to determine the shear resistance at the base of the grillage
+                            is not considered appropriate in view of the low stress level. The lower bound
+                      values of the shear resistance at the base of the grillage are likely to be within
+                       the range of 3 kPa to 10 kPa.  If laboratory testing is to be carried out to
+                       derive  the  steady  state undrained  shear  strength  of  the  fill,  the  testing
+                      procedures and guidance given in the HKIE-GD Report (HKIE, 2003) should
+                    be followed.
+
+ (g) Section 5.8.3(2)   Replace paragraph 3 as follows:
+
+                               Soil nails should be designed to resist the forces acting on the grillage,
+                       including the normal and shear forces generated by the  fill. GEO-HKIE
+                     Report (GEO-HKIE, 2011) has demonstrated that a hybrid nail arrangement
+                     comprising nails at two different orientations (i.e. sub-horizontal nails at the
+                     upper part and steeply inclined at the lower part) would limit slope movement
+                    and enhance the robustness of the system.  It is recommended that the hybrid
+                         nail arrangement be adopted as far as possible. The ratio of sub-horizontal
+                         nails to steeply inclined nails can be estimated by considering force equilibrium
+                       of  the  grillage  facing.  The number  of  sub-horizontal  nails  should  be
+                     approximately 40% to 50% of the total number of soil nails to ensure sufficient
+                       sub-horizontal  nails are present  to counter  sliding  failure.  In the hybrid
+                      system, it is not necessary to provide any toe fixity as the sub-horizontal nails
+                      near the upper part of the slope would counter the sliding of the grillage facing.
+
+ (h) Section 5.8.3(2)  Add the following after paragraph 3:
+
+                                       If an  alternative  nail arrangement  is intended  to  suit  actual  site
+                        conditions, the designer should demonstrate the effectiveness and robustness of
+                       the proposed  nail arrangement using numerical analyses.  In  addition, an
+                   embedded concrete footing (where sufficient competent ground is present at
+                     shallow depth) should be provided in instead of vertical nails to provide toe
+                          fixity for the alternative nail arrangement.
+
+ (i) Section 5.8.3(2)   Add the following after paragraph 4:
+
+                        The grillage facing is an important structural component of the entire
+                         stabilising system.   It is recommended that a nominal grillage embedment of
+                       0.3 m be provided for both the steeply inclined nail arrangement and the hybrid
+                         nail arrangement to prevent the grillage from being undermined by erosion.
+
+                           For the hybrid nail arrangement, in addition to bending, the individual
+                         grillage beams would be subjected to axial tensile force, which needs to be
+                      taken into account in the design of the grillage facing.
+
+ (j) Section 5.9      Amend the section as follows:
+
+                    In paragraph 2, lines 2 and 4, delete ‘GEO Report No. 56 (Wong et al, 1999),
+              GEO Report No. 165 (Lui & Shiu, 2005) and GEO Technical Guidance Note
+                   No. 9 (GEO, 2004a)’ and substitute ‘GEO Publication No. 1/2009 (GEO,
+                       2009)’.
+
+ (k) Section 5.10     Amend the section as follows:
+
+
+
+Amendment No. GG7/01/2017                                                           Page 3 of 5
+
+
+===== PDF PAGE 4 =====
+Geoguide 7                                                                             First Edition
+
+                    In paragraph 7, lines 1 and 2, delete ‘GEO Report No. 56 (Wong et al,
+                     1999)’ and substitute ‘GEO Publication No. 1/2009 (GEO, 2009)’.
+
+ (l) Section 5.11     Amend the section as follows:
+
+                    In paragraph 2, lines 9 to 11, delete ‘GEO Publication No. 1/2000: Technical
+                      Guidelines on Landscape Treatment and Bio-engineering for Man-made Slopes
+                    and Retaining Walls (GEO, 2000b)’ and substitute ‘GEO Publication No.
+                      1/2011: Technical Guidelines on Landscape Treatment  for Slopes (GEO,
+                       2011)’.
+
+                    In paragraph 2, lines 13 and 14, delete ‘GEO Technical Guidance Note No.
+                   20 (GEO, 2007b)’ and substitute ‘GEO Publication No. 1/2011 (GEO, 2011)’.
+
+ (m) Section 5.12.1    Replace paragraph 1 as follows:
+
+                        The design guidance given in Sections 5.3 to 5.11 is specific to the
+                      design of soil nails that are used to carry transient loads in slopes and retaining
+                        walls, and where there is no sign of continuous ground deformation. This
+                      guidance,  in  particular  the design  considerations regarding  serviceability,
+                         durability, drainage provision,  aesthetics and landscape treatment,  is also
+                       applicable in general to other areas of application. Nevertheless, additional
+                      design guidelines and requirements given in the following sections should be
+                     followed under some specific circumstances.
+
+
+
+ SECTION 6     CONSTRUCTION
+
+
+ (j) Section 6.2.1    Amend the section as follows:
+
+                    In paragraph 2, lines 2, delete ‘CEDD’ and substitute ‘HKSARG’.
+
+                    In paragraph 2, lines 4, delete ‘CEDD’ and substitute ‘HKSARG’.
+
+ (j) Section 6.3.1    Amend the section as follows:
+
+                    In paragraph 1, lines 7, delete ‘CEDD’ and substitute ‘HKSARG’.
+
+ REFERENCES
+
+ (a)             Add the following new references:
+
+                  BSI (2004). Eurocode 2: Design of Concrete Structures - Part 1-1: General
+                     Rules and Rules for Buildings (BS EN 1992-1-1:2004).  British Standards
+                          Institution, London, 230 p.
+
+                  BSI  (2005). UK  National Annex  to Eurocode  2: Design  of  Concrete
+                       Structures - Part 1-1: General Rules and Rules for Buildings (NA to BS EN
+                     1992-1-1:2004).  British Standards Institution, London, 26 p.
+
+                  BSI (2009).  Hot Dip Galvanised Coatings on Fabricated Iron and Steel
+                        Articles  - Specifications and Test Methods (ISO 1461:2009) (BS EN ISO
+                    1461: 2009).  British Standards Institution, London, 24 p.
+
+
+
+Amendment No. GG7/01/2017                                                           Page 4 of 5
+
+
+===== PDF PAGE 5 =====
+Geoguide 7                                                                             First Edition
+
+              GEO (2009).  Prescriptive Measures for Man-made Slopes and Retaining
+                    Walls (GEO Publication 1/2009). Geotechnical Engineering Office, Hong
+                   Kong, 74 p.
+
+              GEO (2011).  Technical Guidelines on Landscape Treatment  for Slopes
+                (GEO Publication No. 1/2011). Geotechnical Engineering Office, Hong Kong,
+                   217 p.
+
+                GEO-HKIE (2011). Design of Soil Nails for Upgrading Loose Fill Slopes.
+                     Geotechnical Engineering Office and Geotechnical Division, The Hong Kong
+                         Institution of Engineers, Hong Kong, 96 p.
+
+              HKSARG  (2006a).  General  Specification  for  Civil  Engineering Works
+                    (2006 Edition) (Incorporating all Amendments). The Government of Hong
+                 Kong Special Administrative Region, Hong Kong, Volumes 1 and 2.
+
+ (b)                 Delete the following references:
+
+                  BSI (1999). Hot Dip Galvanised Coatings on Fabricated Iron and Steel
+                        Articles - Specifications and Test Methods (BS EN ISO 1461: 1999).  British
+                     Standards Institution, London, UK, 22 p.
+
+              CEDD (2006a). General Specification for Civil Engineering Works.  Civil
+                     Engineering and Development Department, Hong Kong.
+
+              CEDD (2006b).  Project Administration Handbook.  Civil Engineering and
+                   Development Department, Hong Kong.
+
+             GEO  (2000b).    Technical  Guidelines  on  Landscape  Treatment  and
+                     Bio-engineering for Man-made Slopes and Retaining Walls (GEO Publication
+                   No.   1/2000).   Geotechnical   Engineering   Office,   Civil   Engineering
+                    Department, Hong Kong, 146 p.
+
+             GEO  (2004a).   Updating  of GEO  Report  No.  56  :  Application  of
+                       Prescriptive Measures to Slopes and Retaining Walls (2nd Edition) (GEO
+                     Technical Guidance Note No.  9). Geotechnical Engineering Office, Civil
+                     Engineering and Development Department, Hong Kong, 4 p.
+
+             GEO  (2007b).  Update  of GEO  Publication  No.  1/2000  -  Technical
+                     Guidelines on Landscape Treatment and  Bio-engineering  for Man-made
+                     Slopes and  Retaining  Walls (GEO  Technical Guidance  Note  No.  20).
+                     Geotechnical  Engineering  Office,  Civil  Engineering  and  Development
+                    Department, Hong Kong, 8 p.
+
+                      Lui, B.L.S. & Shiu, Y.K. (2005).  Prescriptive Soil Nail Design for Concrete
+                  and  Masonry  Retaining  Walls (GEO  Report  No.  165).  Geotechnical
+                     Engineering Office, Civil Engineering and Development Department, Hong
+                   Kong, 76 p.
+
+                 Wong, H.N., Pang, L.S., Wong, A.C.W., Pun, W.K. & Yu, Y.F. (1999).
+                      Application of Prescriptive Measures to Slopes and Retaining Walls (GEO
+                    Report No.  56).    Geotechnical Engineering Office,  Civil Engineering
+                    Department, Hong Kong, 73 p.
+
+
+
+
+Amendment No. GG7/01/2017                                                           Page 5 of 5

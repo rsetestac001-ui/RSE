@@ -1,0 +1,983 @@
+
+
+===== PDF PAGE 1 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 37 (TGN 37)
+  Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+  Mitigating Natural Terrain Open Hillslope Landslide Hazards
+    Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 1 of 18
+
+
+1.        SCOPE
+
+1.1          This Technical Guidance Note (TGN) presents guidelines on use of prescribed flexible
+               barriers in mitigating natural terrain open hillslope landslide (OHL) hazards affecting
+               existing developments under  the Landslip Prevention and Mitigation Programme
+             (LPMitP).  The guidelines may also be adopted in dealing with OHL hazards under
+              public works  projects,  private  developments  and  redevelopments,  and  Housing
+            Department projects.
+
+1.2        Any  feedback  on  this TGN  should  be  directed  to  the  Chief  Geotechnical
+             Engineer/Landslip Preventive Measures 2 of the Geotechnical Engineering Office (GEO).
+
+
+2.       TECHNICAL POLICY
+
+2.1         The  technical recommendations promulgated  in  this TGN were agreed by GEO
+             Geotechnical Control Conference on 16 October 2024.
+
+
+3.       RELATED DOCUMENTS
+
+3.1          Chan, C.H.W., Ting, S.M. & Wong, A.C.W. (2012).  Development of Natural Terrain
+             Landslip Alert Criteria (Special Project Report No. SPR 1/2012).   Geotechnical
+             Engineering Office, Hong Kong, 68 p.
+
+3.2          Cheng, P.F.K. & Ko, F.W.Y. (2010).  An Updated Assessment of Landslide Risk Posed
+            by Man-made Slopes and Natural Hillsides in Hong Kong (GEO Report No. 252).
+             Geotechnical Engineering Office, Hong Kong, 46 p.
+
+3.3        FSJV (2010).  Summary Report on the Identification of June 2008 Natural Terrain
+             Landslides on Lantau Island (Preliminary).  Fugro Scott Wilson Joint Venture. A
+             Report for the Geotechnical Engineering Office, Hong Kong, 36 p.
+
+3.4       GEO (1984).   Geotechnical Manual for Slopes (Second Edition).   Geotechnical
+             Engineering Office, Hong Kong, 302 p.
+
+3.5       GEO (2012).  Guidelines on Assessment of Debris Mobility for Open Hillslope Failures
+          (GEO Technical Guidance Note No. 34). Geotechnical Engineering Office, Hong Kong,
+            16 p.
+
+3.6       GEO (2024).  Design of Flexible Debris-resisting Barriers Using Energy Approach
+          (GEO Technical Guidance Note No. 56). Geotechnical Engineering Office, Hong Kong,
+            5 p.
+
+
+===== PDF PAGE 2 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 37 (TGN 37)
+  Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+  Mitigating Natural Terrain Open Hillslope Landslide Hazards
+    Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 2 of 18
+
+
+3.7         Ho, H. Y. & Roberts, K. J. (2016).  Guidelines for Natural Terrain Hazard Studies
+          (GEO Report No. 138, Second Edition).  Geotechnical Engineering Office, Hong Kong,
+            173 p.
+
+3.8         Kwan, J.S.H., Koo, R.C.H. & Ko, F.W.Y. (2016).  A Pilot Study on the Design of
+              Multiple Debris-resisting Barriers (GEO Report No. 319).  Geotechnical Engineering
+              Office, Hong Kong, 58 p.
+
+3.9            Tattersall, J.W., Devonald, D.M., Hung, R.K.C. & Kwong, R.T.S. (2009). Estimation of
+              ‘design event’ landslide sources for the North Lantau Expressway and Yu Tung Road
+               natural terrain hazard mitigation works study.  Proceedings of the HKIE Geotechnical
+              Division 29th Annual Seminar: Natural Hillsides – Study and Risk Mitigation Measures.
+           The Hong Kong Institution of Engineers, Hong Kong, pp 141-147.
+
+3.10       Wong, H.N., Ko, F.W.Y. & Hui, T.H.H. (2006).  Assessment of Landslide Risk of
+             Natural Hillsides in Hong Kong (GEO Report No. 191).  Geotechnical Engineering
+              Office, Hong Kong, 120 p.
+
+
+4.       BACKGROUND
+
+4.1           In Hong Kong, debris-resisting barriers adopted as natural terrain hazard mitigation
+            measures used to be designed by analysis (i.e. analytical design).  In 2012, prescribed
+               barriers were introduced for use in mitigation of open hillslope landslide (OHL) hazards
+               affecting roads.
+
+4.2      A number of problems have been encountered in the analytical design of debris-resisting
+               barriers for mitigation of OHL hazards:
+
+         (a)   Unlike channelised (CD) catchments where the landslide risk can be dealt with by the
+             implementation of risk mitigation measures at the confined outlet of a drainage line, open
+               hillslope (OH) catchments would usually require extensive risk mitigation measures
+             along the full length of their toes.  As a result, the costs of the risk mitigation works for
+        OH catchments are much higher than those for CD catchments even though the average
+              landslide risk of OH catchments is lower than that of CD catchments (Using the data of
+         Wong et al (2006), it is estimated that the average landslide risk levels of OH catchments
+            and CD catchments are 2.4 × 10-4 PLL/year and 1.8 × 10-3 PLL/year respectively, i.e. the
+             average risk of OH catchments is about one order of magnitude less than that of CD
+              catchments.).
+
+        (b)   Knowledge of OHL hazards is limited at present.  This includes assessment of the size
+              of the design events, debris mobility modelling as well as debris/barrier interaction.  The
+             degree of conservatism would add up and in many cases, lead to onerous requirements
+            which may not be practical to design and build.
+
+         (c)   Given site constraints, it is often not practicable to provide substantial mitigation works,
+                e.g. rigid barriers, for dealing with OHL hazards.
+
+
+===== PDF PAGE 3 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 37 (TGN 37)
+  Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+  Mitigating Natural Terrain Open Hillslope Landslide Hazards
+    Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 3 of 18
+
+
+        (d)   Even if the design is feasible from a construction view point, the works involved are often
+             so substantial that their physical footprint on the hillside could give rise to environmental
+             concerns and public complaints,  in  particular when  the  mitigation measures  are
+              conservatively assessed and designed.
+
+         (e)   The current state of knowledge and technology of flexible barriers, including its structural
+            form and details, maintenance requirements, and short- and long-term field performance,
+                 is still under development.   Flexible barriers currently available in the market have
+               relatively small structural capacity.
+
+4.3          Hence, there  is limited technological capacity and industry support for extensive
+              application of flexible debris-resisting barriers under an analytical design framework at
+                this  stage.   Given cost-effectiveness consideration in  light of the  risk level and
+               uncertainties involved, the current state of knowledge and technology, and the need to
+                strike a balance between mitigating risk and minimising disturbance to the environment,
+             adopting empirical design based on use of prescribed flexible barriers  is a more
+               practicable approach for mitigation of OHL hazards in general.
+
+4.4         The prescribed flexible barriers referred to in this TGN for mitigation of OHL hazards
+              are based on those that are available in the market.  These barriers have been adopted
+               for retention of rock falls and landslide debris in other parts of the world, where the scale
+              of failure is typically greater than that in Hong Kong.  In devising the empirical design
+               stipulated in this TGN, a review was carried out on the probability and scale of natural
+                terrain landslides known to have occurred in the Historical Landslide Catchments (HLC)
+             under different rainfall conditions in Hong Kong and on the energy capacity of the
+                barriers.   It was found from the review that the energy capacity of the barriers could
+            cope with the vast majority of the OHL in Hong Kong (see Annexes TGN 37 A & B).
+          To further improve the robustness of the empirical use of the prescribed barriers, a set of
+              qualifying criteria has been included in the empirical design.
+
+4.5         Only flexible barriers specified by their energy absorbing capacity are included in the
+              empirical design at this stage.  Flexible barriers designed using the force approach are
+             under development stage, and their trial design and use are being considered in selected
+           LPMitP sites.  Likewise, possible use of multiple rows of flexible barriers in dealing
+             with more sizeable failures is also being explored (Kwan et al, 2016).   It is expected that
+             with further technological development and experience gained from use of novel barrier
+             schemes, additional modules of prescribed barriers may be included for empirical use in
+               future.
+
+
+===== PDF PAGE 4 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 37 (TGN 37)
+  Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+  Mitigating Natural Terrain Open Hillslope Landslide Hazards
+    Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 4 of 18
+
+
+5.       TECHNICAL RECOMMENDATIONS
+
+            Empirical Design Framework
+
+5.1      A natural terrain hazard study (NTHS) should continue to be carried out for a catchment
+               for which prescribed barrier is intended to be used.  However, the scope of the NTHS
+             should aim at assessing whether or not the hillside meets the ‘react-to-known-hazard’
+               principle in the case of projects under the LPMitP, classifying the types of catchments
+                (viz. CD, topographic depression (TD) and OH, etc.), identifying the types of hazards and
+              the need for mitigation measures, and confirming that the qualifying criteria stipulated in
+             paragraph 5.2 below for the application of the empirical design approach are met.  Once
+              the need for mitigation measures is established and the qualifying criteria are satisfied,
+              the energy rating and minimum height of the flexible barrier required to mitigate OHL
+             hazards should be determined based on Table 1.  There is no need to determine the
+             design event for the OH catchment concerned.
+
+             Qualifying Criteria for Using the Empirical Design Approach
+
+5.2         The empirical design approach should generally only be applied to OH catchments (or
+             sub-catchments) that satisfy the following criteria:
+
+         (a)   Within a plan distance of 100 m from the affected facilities, no recent landslide with a
+            volume greater than 100 m3, and no recent landslide with a volume between 50 m3 and
+            100 m3 with debris reaching closer than 20 m on plan from the affected facilities, has
+             occurred on the OH catchment.
+
+        (b)   Within a plan distance of 100 m from the affected facilities, no continuous steeply inclined
+            ground surface of more than 40° in gradient and 40 m in length on plan along a runout
+             path is present on the OH catchment.
+
+         (c)   There is no evidence of existing significant signs of distress, continuing hazardous
+           movement or incipient instability within the OH catchment, which could affect a facility
+             covered by the facility types given in Table 1.  Appropriate mitigation measures should
+            be designed to address the hazards from such features.
+
+        (d)  No newly emerged hazardous situation has evolved as a result of the occurrence of new
+               landslide(s) (e.g. landslides which occurred during the course of NTHS), development of
+          new signs of distress and hazardous movement, or exacerbation of existing signs of
+               distress and hazardous movement on the OH catchment, particularly where there is
+             concern of further hillside deterioration leading to instability.
+
+         (e)   The OH catchment is not susceptible to deep-seated landslide hazards.
+
+5.3        Where a holistic risk mitigation strategy is adopted (Ho & Roberts, 2016), or for
+            emergency works, prescribed flexible barriers may be used irrespective of whether or not
+              the qualifying criteria are satisfied, and it is not necessary to follow Table 1 in determining
+              the required energy rating and minimum height of the prescribed flexible barriers.
+
+
+===== PDF PAGE 5 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+The Government of the Hong Kong Special Administrative Region
+
+GEO Technical Guidance Note No. 37 (TGN 37)
+Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+Mitigating Natural Terrain Open Hillslope Landslide Hazards
+Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 5 of 18
+
+
+         Table 1 – Empirical design of prescribed flexible barrier against OHL hazard
+
+                                                Proximity
+
+                        Very Close      Moderately Close           Far
+            Facility           (e.g. if angular        (e.g. if angular         (e.g. if angular
+                          elevation from the   elevation from the    elevation from the
+                               facility is  30°)      facility is < 30°       facility is < 25°)
+                                           and  25°)
+
+       Buildings and
+           sensitive       R1 + baffles          R1             R3
+          structures(2)
+
+       Groups 1 & 2
+          other than
+        buildings and         R1             R2                  Nil
+           sensitive
+          structures
+
+
+        Group 3           R2             R3                  Nil
+
+
+      Notes:
+
+      (1) The facility group and proximity class should be assessed following the guidelines given
+           in GEO Report No. 138 (Ho & Roberts, 2016).
+
+      (2)  Sensitive structures refer to those facilities including Potential Hazardous Installations,
+          tunnel portal, petrol station, railway platform and MTR exit that may involve severe
+         consequence when affected by landslides, in accordance with the facility classification
+          adopted in GEO Report No. 191 (Wong et al, 2006).
+
+      (3)  If boulder/rock fall hazards also exist, the kinetic energy of the boulder/rock hitting the
+           barrier should not exceed the energy rating of the barrier, and the corresponding bounce
+          height of the boulder/rock should not exceed the height of the barrier.
+
+      (4) R1: 3,000 kJ flexible rock fall barrier with minimum height of 4 m.
+         R2: 2,000 kJ flexible rock fall barrier with minimum height of 3 m.
+         R3: 1,000 kJ flexible rock fall barrier with minimum height of 3 m.
+
+      (5)  ‘Baffles’ comprise structural steel sections or steel hollow sections filled with concrete
+          placed in rows uphill of the flexible barrier.  They are prescribed measures for enhancing
+           the robustness of the mitigation scheme, by reducing the impact force/energy of the
+           landslide debris reaching the barriers and facilitating debris deposition.
+
+      (6) A suitable clearance between the barrier and the affected facility should be provided to
+          allow for deformation of the barrier upon hitting by landslide debris/boulder/rock.
+
+      (7) The  stability of the  hillside/slopes below the  barrier including the  effects of the
+          foundations of the barrier on their stability should be assessed.
+
+
+===== PDF PAGE 6 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 37 (TGN 37)
+  Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+  Mitigating Natural Terrain Open Hillslope Landslide Hazards
+    Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 6 of 18
+
+
+             Alternatives to Empirical Design
+
+5.4      A designer may choose not to use prescribed flexible barriers based on the empirical
+             approach if other more suitable mitigation schemes are available.  For instance, it may
+            be more cost-effective to carry out soil nailing for a small hillside, than the installation of
+               flexible barriers.  Also, where it can be shown by analytical design that the OHL calls
+               for less substantial mitigation measures than those based on empirical design, measures
+             based on the analytical design may be adopted.
+
+5.5        Where the empirical design approach is not applicable because the qualifying criteria are
+              not met, the mitigation works for the OH catchment should be designed by other means,
+             with account taken of the site-specific circumstances.  Possible mitigation schemes that
+          may be considered include soil nailing, the use of flexible or rigid barrier designed by
+               analysis, and the provision of a hybrid system consisting of prescribed flexible barriers
+            by the empirical method and other engineering measures  (e.g. local  soil nailing)
+             determined through analytical design.
+
+5.6        When the energy approach is adopted in analytical design of a flexible barrier, the energy
+              capacity of a barrier established by full-scale rockfall (or other single-mass) tests can be
+             adopted for designing a flexible barrier to mitigate landslide hazards from all types of
+             catchments (i.e. CD, TD and OH).  The energy capacity of the rockfall barrier needs not
+            be reduced by a scaling factor to account for the differences between rock fall and debris
+             impacts (GEO, 2024).
+
+5.7        Where soil nailing is adopted as the mitigation scheme for an OH catchment, an analytical
+             approach should be adopted for the design of soil nails.  Unless there are concerns about
+           known significant hazards involving deeper failures, the following generalised design
+              objectives may be adopted in the hillslope stability analysis or analytical design of soil
+               nails for mitigation of OHL hazards:
+
+         (a)   demonstrate or provide an adequate factor of safety against failure of the top 2 m of the
+                regolith, in accordance with the design standards given in the Geotechnical Manual for
+             Slopes (GEO, 1984); or
+
+        (b)    in the absence of reliable information on the soil and groundwater conditions for the
+                stability analysis, provide soil nails to increase the margin of safety against failure of the
+              top 2 m of the regolith by 20% and 40% for circumstances that call for a minimum design
+               factor of safety of 1.2 and 1.4 respectively.
+
+
+6.        STATUS OF OPEN HILLSLOPE CATCHMENTS WITH PRESCRIBED
+         FLEXIBLE BARRIERS DESIGNED BY EMPIRICAL APPROACH
+
+6.1         The use of prescribed flexible barriers based on the empirical design approach in Table 1
+             should be regarded as Level 1 Protection Measures as described in the GEO Report No.
+            138 (Ho & Roberts, 2016).
+
+
+===== PDF PAGE 7 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 37 (TGN 37)
+  Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+  Mitigating Natural Terrain Open Hillslope Landslide Hazards
+    Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 7 of 18
+
+
+7.       ANNEXES
+
+7.1       TGN 37 A – Rationale of Empirical Design of Flexible Barriers for Mitigating Natural
+              Terrain Open Hillslope Landslide Hazards
+
+7.2       TGN 37 B – Probability of Exceeding the Energy Capacity of a 3,000 kJ Flexible Barrier
+             under Different Volumes of Open Hillslope Landslides
+
+
+
+
+
+                                                                             ( Raymond W M Cheung )
+                                                 Head, Geotechnical Engineering Office
+
+
+===== PDF PAGE 8 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 37 (TGN 37)
+  Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+  Mitigating Natural Terrain Open Hillslope Landslide Hazards
+    Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 8 of 18
+
+
+Annex TGN 37 A – Rationale of Empirical Design of Flexible Barriers for Mitigating Natural
+Terrain Open Hillslope Landslide Hazards
+
+1.        Introduction
+
+1.1      The empirical approach is based on the prescription of the volume of the landslide debris that
+        may be discharged from an OH catchment.  The aim is not to deal with the most severe
+           debris impact event that would occur on the hillside, but to cope with a sufficiently rare debris
+          impact event.  The provision of prescribed flexible barriers to mitigate OHL hazards using
+            this approach represents a reasonable balance among risk mitigation, cost-effectiveness and
+          minimising disturbance to the environment.
+
+
+2.        Capacity of Proprietary Flexible Barrier
+
+2.1      As recommended in GEO TGN No. 56 (GEO, 2024), the energy capacity rating of a 3,000 kJ
+          rock fall barrier in retaining landslide debris is taken as 3,000 kJ.
+
+2.2       According to GEO TGN No. 34 (GEO, 2012), the velocity ceiling of an OHL with a landslide
+         volume of not greater than 200 m3 is 9 m/s.  With this ceiling velocity, the kinetic energy
+           carried by a 37 m3 mass of landslide debris is about 3,000 kJ.
+
+2.3     When the debris volume exceeds 37 m3, a 3,000 kJ flexible rock fall barrier may still retain
+           the landslide debris provided that the debris velocity is small such that the energy loading
+          does not exceed 3,000 kJ.  For example, if the landslide volume is 50 m3, the flexible barrier
+         would be able to cope with the OHL provided that the velocity of the debris does not exceed
+           7.7 m/s.   If a 100 m3 landslide is involved, the corresponding threshold debris velocity is
+           5.5 m/s.
+
+2.4     An analysis has been carried out to evaluate the probabilities of exceeding the allowable
+          energy loading of 3,000 kJ under different volumes of landslides.  The findings are
+          presented in Annex TGN 37 B.  The results show that in case a landslide occurs at an OH
+          catchment under a severe rainstorm as heavy as the June 2008 event, the probability of the
+          energy loading of the landslide debris exceeding the energy capacity of a 3,000 kJ flexible
+            barrier is about 19%.  This assumes that the landslide will travel long enough to reach the
+            flexible barrier.  This is a very conservative assumption as not all landslides would have a
+            sufficiently long run out.
+
+
+
+
+
+                                                   ANNEX TGN 37 A (1/6)
+
+
+===== PDF PAGE 9 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 37 (TGN 37)
+  Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+  Mitigating Natural Terrain Open Hillslope Landslide Hazards
+    Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 9 of 18
+
+
+3.         Characteristics of Natural Terrain Landslides
+
+3.1      The occurrence of a rainstorm as heavy as the June 2008 event and resulting in a landslide
+         on a particular OH catchment is rare and probably less frequent than once in 100 years.
+         Hence the annual probability of a flexible barrier (3,000 kJ energy rating) anywhere in Hong
+        Kong subject to such a severe rainstorm and then hit by a landslide exceeding its energy
+           capacity is no more than 0.19% (i.e. 0.01 × 19%).  This is equivalent to a return period of
+          about 500 years.
+
+3.2       Natural terrain landslides may occur under rainstorms of other intensities.  An attempt has
+         been made to estimate the actual annual probability of occurrence of a landslide on an OH
+          catchment. A review of ENTLI data spanning from 1993 to 2009 (17 years) indicates that
+        among the some 9,600 natural terrain landslides recorded over the period, about 1,100 had
+          occurred within the existing 2,534 HLCs (356 HLCs on Hong Kong Island, 1,558 HLCs in
+        Kowloon & the New Territories, and 620 HLCs on outlying islands including Lantau).  The
+          average annual probabilities of landslide occurring on an HLC within the three regions are
+          estimated to be 0.6%, 0.9% and 2.4% respectively (see Table A1).  With account taken of
+           the uncertainty that the actual number of landslides may exceed that recorded in the ENTLI,
+           the average annual probabilities of landslide occurring on an HLC within the three regions
+         become 1.1%, 1.7% and 4.3% respectively.
+
+3.3      The difference in landslide probabilities for the three regions is related to the spatial and
+          temporal variations in rainfall intensity of the individual rainstorm hitting Hong Kong during
+           the observation period.
+
+3.4       Besides calculations of the actual probability, the theoretical annual probability of landslide
+          occurring on an HLC has been estimated based on the methodology given in Appendix B of
+       GEO Report No. 191 (Wong et al, 2006).  The theoretical annual probabilities, using the
+             latest natural terrain landslide-rainfall correlation (Chan et al, 2012), were found to be 2.0%,
+         1.8% and 3.8% for HLCs located within Hong Kong Island, Kowloon & the New Territories,
+         and outlying islands including Lantau respectively (see Table A2).  The results are broadly
+          comparable with the actual landslide probabilities given in paragraph 3.2 above.
+
+3.5      As shown in Annex TGN 37 B, the annual probability of having a landslide hit exceeding
+           the energy capacity of a flexible barrier (3,000 kJ rating) installed at an HLC anywhere in
+        Hong Kong is lower than 1%.  The corresponding return period of the debris impact event
+             is more than 100 years.
+
+
+
+
+
+                                                   ANNEX TGN 37 A (2/6)
+
+
+===== PDF PAGE 10 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 37 (TGN 37)
+  Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+  Mitigating Natural Terrain Open Hillslope Landslide Hazards
+    Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 10 of 18
+
+
+3.6       Because of the conservative assumptions made in the probability estimates (e.g. the peak
+            frontal velocity obtained from back analysis of the some 70 mobile OHL cases are taken as
+           the impact velocity), the calculated notional return periods given in paragraphs 3.1 and 3.5
+           are on the low side.  The notional return periods could be several times longer if less
+           conservative assumptions are made, e.g. some of the less mobile OHL cases are taken into
+          account in assessing the probability distribution of frontal velocity and/or possible deposition
+           of debris along the trail are taken into account in assessing the impact energy. That means
+           the use of a 3,000 kJ flexible barrier for mitigation of OH hazards would be able to deal with
+          a debris impact event with a return period of several hundred years.
+
+
+4.       Use of Proprietary Flexible Rock Fall Barrier for Mitigation of OHL Hazards
+
+4.1      The above analyses indicate that by installing a 3,000 kJ rock fall barrier to retain OHL, the
+           probability of it being overwhelmed by landslide debris is not very high, the return period
+          being in the order of hundreds of years.  Taking into account the low probability of failure,
+           the cost-effectiveness of the mitigation measures and the availability of proprietary products
+           in the market, it is considered appropriate to use 4 m high 3,000 kJ rock fall barriers as
+           prescribed barriers.  The minimum height of a 3,000 kJ rock fall barrier in the market is 4 m.
+         Based on previous design experience, the typical retention volume of a 10 m wide panel of
+          such a flexible barrier is in the range of 150 m3 to 250 m3.
+
+4.2       Since the landslide risk of individual OH catchments would vary depending on the type of
+             facilities affected and their proximity to the hillside, the energy rating of the flexible barrier
+           selected to mitigate the OHL hazard should be commensurate with the level of landslide risk
+          involved in order to ensure cost-effectiveness.   It is recommended that, for the general cases
+             (e.g. a hillside located moderately close to a building), a 3,000 kJ flexible barrier should be
+          provided to mitigate the OHL hazard.  For OH catchments posing a lower landslide risk
+             (e.g. those affecting Group 3 facilities), a flexible barrier with a smaller energy rating and
+          lower height can be used. A 2,000 kJ flexible barrier of 3 m high is considered appropriate.
+          For the more risky situations (e.g. a hillside located very close to a building), additional
+           prescribed measures by construction of baffles to reduce the impact energy of landslide
+           debris on the flexible barrier should be provided.
+
+4.3       For those natural hillsides with OHL hazard far from the affected facilities, no mitigation
+         works are required in principle as the facilities are located beyond the travel angle of 25°,
+         which is the lower bound apparent friction angle of OHL with a landslide volume not greater
+          than 500 m3 (the empirical design is only applicable to OH catchments with no recent
+           landslides larger than 100 m3 within a distance of 100 m from the affected facility, as
+           stipulated in the qualifying  criteria).   However, for those natural  hillsides affecting
+           buildings or sensitive structures, it would be prudent to install a notional barrier of 1,000 kJ
+           as a precautionary measure even if the buildings or structures are at a distance slightly beyond
+           the area covered by the travel angle of 25°.
+
+
+
+                                                   ANNEX TGN 37 A (3/6)
+
+
+===== PDF PAGE 11 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 37 (TGN 37)
+  Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+  Mitigating Natural Terrain Open Hillslope Landslide Hazards
+    Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 11 of 18
+
+
+4.4       Although the estimated probability of exceeding the energy capacity of the prescribed barrier
+             is not high,  it should be noted that this is only an average value.  The probability of
+          exceedance at individual sites could be significantly higher than the average value if the OH
+          catchment concerned is very susceptible to landslides.  In this regard, qualifying criteria
+          should be stipulated in order to screen out the more ‘susceptible’ OH catchments; hence the
+         recommendation in paragraph 5.2 of this TGN.
+
+
+5.       The Alternative of Soil Nailing
+
+5.1       Besides the use of prescribed flexible barriers, a designer may adopt alternative mitigation
+          measures such as soil nailing, if it is found to be more cost-effective or environmentally
+           acceptable to do so.  The design of soil nails should aim to reduce the likelihood of OHL
+         on the hillside.   In this regard,  it is noted that the natural hillsides in Hong Kong are
+           susceptible to rain-induced, shallow failures.  Field observations have revealed that failures
+           typically occur within 0.5 m to 2 m of the hillside surface.  For example, more than 99% of
+           the natural terrain landslides occurring in Lantau due to the 7 June 2008 rainstorm have a
+        maximum depth of failure not greater than 2 m at the source areas.  Therefore, unless there
+             is clear evidence that deeper landslides will occur on the OH catchment, the design of soil
+            nails only needs to cater for shallow failures within the top 2 m of the regolith.
+
+
+
+
+
+                                                   ANNEX TGN 37 A (4/6)
+
+
+===== PDF PAGE 12 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+The Government of the Hong Kong Special Administrative Region
+
+GEO Technical Guidance Note No. 37 (TGN 37)
+Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+Mitigating Natural Terrain Open Hillslope Landslide Hazards
+Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 12 of 18
+
+
+    Table A1 – Summary of landslides recorded in ENTLI for the period from 1993 to 2009
+
+    Year    No. of     No. of HLCs with landslides     Annual probability of landslides (%)
+             natural
+                  Hong   Kowloon   Lantau &    Hong     Kowloon     Lantau
+              terrain
+                  Kong  & New      other      Kong    & New   & other
+           landslides
+                        Island   Territories    islands      Island      Territories      islands
+
+     (A)        (B)        (C1)        (C2)          (C3)      (D1=C1/356)   (D2=C2/1,558)  (D3=C3/620)
+   1993    1,702      0       37        60         0          2.37         9.68
+   1994    806       3       22         7         0.84         1.41         1.13
+   1995    157       2        7         1         0.56         0.45         0.16
+   1996     98       1        8         3         0.28         0.51         0.48
+   1997    361       0       17         0         0          1.09         0
+   1998    386       1        7         0         0.28         0.45         0
+   1999    935       2       32        34         0.56         2.05         5.48
+   2000    910       1       26         0         0.28         1.67         0
+   2001    298       0       14         2         0          0.90         0.32
+   2002     66       0        1         1         0          0.06         0.16
+   2003    308       0       18         3         0          1.16         0.48
+   2004     26       0        0         0         0          0          0
+   2005    243       3        11         5         0.84         0.71         0.81
+   2006     86       2        8         4         0.56         0.51         0.65
+   2007    135       1        2         5         0.28         0.13         0.81
+   2008    2,997     21       32        127        5.90         2.05        20.48
+   2009     62       0        2         0         0          0.13         0
+
+                                Average            0.61         0.92         2.39
+
+                              Adjusted Value
+                             (Average/Recognition      1.1           1.7           4.3
+                                 Factor) Note (2)
+
+
+
+  Notes:
+
+  (1) The actual number of historical landslides that can be observed from detailed interpretation of the
+       available low-level aerial photographs exceeds that recorded in the ENTLI.  A recognition factor,
+     which is the ratio of the number of landslides recorded in ENTLI to the actual number of landslides
+       identified from detailed interpretation of low-level aerial photographs, has been applied to the
+       calculation of the landslide probabilities.  Depending on the volume of landslides, the suggested
+      recognition factor for ENTLI varies from 55% to 100% (Cheng & Ko, 2010).
+
+  (2) By applying a recognition factor of 55%, the average annual probabilities of landslide occurring on an
+    HLC within the three regions (i.e. Hong Kong Island, Kowloon & New Territories, and outlying islands
+      including Lantau) are increased to 1.1%, 1.7% and 4.3% respectively.
+
+
+                                                ANNEX TGN 37 A (5/6)
+
+
+===== PDF PAGE 13 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+The Government of the Hong Kong Special Administrative Region
+
+GEO Technical Guidance Note No. 37 (TGN 37)
+Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+Mitigating Natural Terrain Open Hillslope Landslide Hazards
+Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 13 of 18
+
+
+                  Table A2 – Rainfall scenarios and landslide frequencies
+
+
+        Rainfall         Normalised        Mean annual      ENTLI landslide
+        scenario        24-hour rainfall         frequency of              density
+                                               occurrence            (No./km2)
+
+      A             0.10              Fa = 0.8130          Da = 0.0396
+
+       B         > 0.10 - 0.20           Fb = 0.4785         Db = 0.4955
+
+       C         > 0.20 - 0.30           Fc = 0.0608          Dc = 8.8946
+
+      D         > 0.30 - 0.35           Fd = 0.0035         Dd = 77.5691
+
+
+  Notes:
+
+  (1) The annual theoretical landslide frequency on a catchment of area, A, is given by [FaDa + FbDb + FcDc
+     + FdDd]A.
+
+  (2) The total areas of HLCs on Hong Kong Island, Kowloon and New Territories, and outlying islands
+      including Lantau are 3.482 km2, 13.729 km2 and 11.979 km2 respectively.  Thus the corresponding
+      annual theoretical landslide frequencies, based on Note (1) above, are 3.766 no./year, 14.849 no./year
+      and 12.956 no./year.
+
+  (3) By dividing the theoretical landslide frequencies in Note (2) above by the corresponding number of
+     HLCs, the annual theoretical landslide probabilities become 1.1% (3.766/356), 1.0% (14.849/1,558) and
+     2.1% (12.956/620) respectively.
+
+  (4) By applying a recognition factor of 55% (see Note (1) in Table A1), the average annual probabilities of
+       landslide occurring on an HLC within the three regions (i.e. Hong Kong Island, Kowloon & New
+       Territories, and outlying islands including Lantau) are increased to 2.0%, 1.8% and 3.8% respectively.
+
+
+
+
+
+                                                ANNEX TGN 37 A (6/6)
+
+
+===== PDF PAGE 14 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 37 (TGN 37)
+  Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+  Mitigating Natural Terrain Open Hillslope Landslide Hazards
+    Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 14 of 18
+
+
+Annex TGN 37 B – Probability of Exceeding the Energy Capacity of a 3,000 kJ Flexible Barrier
+under Different Volumes of Open Hillslope Landslides
+
+1.     A 3,000 kJ flexible barrier will be able to resist the impact of a landslide provided that the
+           kinetic energy carried by the debris hitting the barrier is not greater than 3,000 kJ.  Using
+          3,000 kJ as the limit, the variation between the volumes of landslides and the corresponding
+           threshold impact velocities is shown in Table B1.
+
+
+  Table B1 – Variation between volume and threshold impact velocity for a 3,000 kJ flexible barrier
+
+
+                    Volume of landslide          Threshold impact velocity
+
+                           37 m3                           9.0 m/s
+
+                           40 m3                           8.7 m/s
+
+                           45 m3                           8.2 m/s
+
+                           50 m3                           7.7 m/s
+
+                           70 m3                           6.5 m/s
+
+                          100 m3                          5.5 m/s
+
+                          200 m3                          3.9 m/s
+
+                          500 m3                          2.4 m/s
+
+
+2.       The distribution of the source volume of natural terrain landslides that occurred in Lantau
+          under 7 June 2008 rainstorm is shown in Figure B1.   It can be seen that about 71% of the
+           landslide volumes are less than 37 m3.
+
+3.        Based on the results of back analyses of 73 OHL cases given in GEO TGN No. 34 (GEO,
+          2012), the distribution of the maximum frontal velocities of the landslide debris is shown in
+          Figure B2.  The maximum frontal velocities are used in the assessment of the variation of
+           the kinetic energies of different volumes of landslides hitting a flexible barrier.  This is a
+           conservative approach because the flexible barrier is usually installed in a relatively gentle
+           area at the toe of a hillside where deceleration may occur before the landslide debris reaches
+           the barrier.  That means the debris velocity upon impact with the flexible barrier would be
+            less than the maximum frontal velocity.  Also, the 73 OHL cases selected for back-analyses
+           in GEO TGN No. 34 (GEO, 2012) represent only the most mobile landslides among the
+            entire population of 12,500 OHL recorded in the ENTLI.
+
+
+
+
+
+                                                  ANNEX TGN 37 B (1/5)
+
+
+===== PDF PAGE 15 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 37 (TGN 37)
+  Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+  Mitigating Natural Terrain Open Hillslope Landslide Hazards
+    Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 15 of 18
+
+
+4.           If a natural terrain landslide occurs on an OH catchment, the probability that its kinetic
+          energy will exceed 3,000 kJ can be determined from the volume distribution of the landslide
+         shown in Figure B1 and the velocity distribution given in Figure B2.  For example, the
+           probability of having a landslide volume less than 37 m3 is 71% and the probability that the
+           landslide has a maximum velocity greater than 9.0 m/s (i.e. threshold velocity corresponding
+           to 37 m3 landslide in Table B1) is 0% because of the velocity ceiling for OHL recommended
+           in GEO TGN No. 34 (GEO, 2012).  That means the probability of having a landslide
+         volume less than 37 m3 with the kinetic energy of the landslide debris exceeding 3,000 kJ is
+        0%.  For a landslide volume between 37 m3 and 45 m3 (average volume being about 40 m3),
+           the probability of its occurrence is about 5%.  The probability that the debris velocity will
+         be higher than 8.7 m/s (i.e. threshold velocity corresponding to 40 m3 landslide in Table B1)
+             is about 23%.  Therefore, the probability of having a landslide volume between 37 m3 and
+         45 m3 that will carry a kinetic energy in excess of 3,000 kJ is 1.2% (i.e. 5% × 23%).  Using
+            this approach, the exceedance rates (i.e. assuming the occurrence of a natural terrain landslide,
+           the conditional probability that its volume is of a given value and the kinetic energy of its
+           debris will exceed 3,000 kJ) for different volumes of landslides have been derived and the
+            results are presented in Figure B3.
+
+5.       The cumulative exceedance rate covering all different volumes of landslides is about 19%.
+        As the annual probability of occurrence of landslides on an HLC is about 1.1% to 4.3% (see
+          paragraph 3.2 of Annex TGN 37 A), that means the annual probability that a landslide will
+          occur on an HLC and carry an energy loading greater than 3,000 kJ upon impact with the
+            flexible barrier  is 0.21% to 0.82%.  The average annual probability of the event  is
+          considered lower than 1% (i.e. [0.21 + 0.82]/2).
+
+
+
+
+
+                                                  ANNEX TGN 37 B (2/5)
+
+
+===== PDF PAGE 16 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 37 (TGN 37)
+  Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+  Mitigating Natural Terrain Open Hillslope Landslide Hazards
+    Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 16 of 18
+
+
+
+    100%
+
+
+
+     90%
+                                                    Number of data: 2338
+
+     80%
+
+                    71%
+     70%
+
+
+
+     60%
+
+
+
+     50%               Percentage
+
+
+     40%
+
+
+
+     30%
+
+
+
+     20%
+
+
+
+     10%
+
+
+
+     0%
+            0.1             1             10      37    100           1000          10000
+
+                                   Landslide Source Volume (m3)
+
+
+Note: The landslide source volume is estimated based on the plan area of source from API (FSJV, 2010) and the
+      correlation between the plan area and detached volume of source (Tattersall et al, 2009).
+
+
+Figure B1 – Cumulative distribution of landslide source volumes in Lantau due to 7 June 2008
+            rainstorm
+
+
+                                                  ANNEX TGN 37 B (3/5)
+
+
+===== PDF PAGE 17 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 37 (TGN 37)
+  Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+  Mitigating Natural Terrain Open Hillslope Landslide Hazards
+    Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 17 of 18
+
+
+
+       For landslide volume = 0 - 200m3
+
+
+
+        100%
+
+                                         Number of data: 38
+        90%
+
+
+        80%
+
+
+        70%
+
+
+        60%
+
+
+        50%                    Percentage
+
+        40%
+
+
+        30%
+
+
+        20%
+
+
+        10%
+
+
+        0%
+               0      1      2      3      4      5      6      7      8      9
+
+                                                Velocity (m/s)
+
+
+
+Note: Only distribution of velocities for landslide volume less than 200 m3 is shown.
+
+Figure B2 – Cumulative distribution of maximum frontal velocities based on back analyses of 73 OHL
+            cases
+
+
+                                                  ANNEX TGN 37 B (4/5)
+
+
+===== PDF PAGE 18 =====
+Geotechnical Engineering Office, Civil Engineering and Development Department
+  The Government of the Hong Kong Special Administrative Region
+
+ GEO Technical Guidance Note No. 37 (TGN 37)
+  Guidelines on Empirical Design of Flexible Debris-resisting Barriers for
+  Mitigating Natural Terrain Open Hillslope Landslide Hazards
+    Issue No.: 1        Revision: B        Date: 13.12.2024   Page: 18 of 18
+
+
+
+
+
+      30%
+
+
+
+
+      25%
+
+
+
+
+      20%
+                                   Cumulative probability
+
+
+
+      15%              Probability
+
+
+
+      10%
+
+
+
+
+      5%
+
+
+                           Probability for individual volume classes
+
+      0%
+            0      50     100    150    200    250    300    350    400    450    500
+
+                                 Volume of Landslide (m3)
+
+
+
+
+
+Note: For landslides with a volume greater than 500 m3, their contribution to the cumulative probability of
+     exceedance is less than 1%.
+
+            Figure B3 – Probability of landslides with impact energy exceeding 3,000 kJ
+
+
+                                                  ANNEX TGN 37 B (5/5)
