@@ -1,0 +1,46 @@
+name: Download and index official GEO publications
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '45 22 * * 0'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/geo.py'
+      - 'scripts/verify_geo.py'
+      - '.github/workflows/update-geo.yml'
+permissions:
+  contents: write
+concurrency:
+  group: pdf-index-main
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4 'PyMuPDF>=1.24,<2'
+      - name: Download GEO catalogues, editions and amendments
+        run: python scripts/geo.py
+      - name: Extract PDF pages and build full text search
+        run: |
+          python scripts/build_index.py
+          python scripts/build_search.py build
+          python scripts/build_retrieval.py
+          python scripts/verify_geo.py
+      - name: Commit validated PDFs, provenance and searchable text
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config pack.window 0
+          git config pack.depth 0
+          git add documents/GEO indexed_text geo index_manifest.json search/pnap_fts.sqlite3 search/search_audit.json search/document_catalog.json search/topics
+          if ! git diff --cached --quiet; then
+            git commit -m 'Sync official GEO publications, amendments and page search index'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
