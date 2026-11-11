@@ -81,18 +81,22 @@ def verify():
  with sqlite3.connect(ROOT/'search/pnap_fts.sqlite3') as db:
   assert db.execute('PRAGMA integrity_check').fetchone()[0]=='ok'
   db.execute("CREATE VIRTUAL TABLE temp.hkie_tokens USING fts5vocab(main,page_fts,instance)")
+  tokens=dict(db.execute("SELECT doc,min(term) FROM temp.hkie_tokens GROUP BY doc"))
   for d in m['documents']:
    assert hashlib.sha256((ROOT/d['source_pdf']).read_bytes()).hexdigest()==d['sha256'],d['source_pdf']
    entry=entries[d['text_file']];assert entry['status']!='error',d['text_file']
+   if d['source_pdf'].startswith('documents/HKIE/'):
+    from explanatory_ocr import cached_text
+    for n in d['native_empty_pages']:assert cached_text(d['sha256'],n) is not None,(d['source_pdf'],n)
    source=d['text_file'].removeprefix('indexed_text/')
    rows=db.execute('select id,page_no,content from page where source=? order by page_no',(source,)).fetchall()
    assert [r[1] for r in rows]==list(range(1,d['pages']+1)),source
    nonempty=0
    for row_id,page_no,content in rows:
     if not content.strip():continue
-    token=db.execute('select term from temp.hkie_tokens where doc=? limit 1',(row_id,)).fetchone()
+    token=tokens.get(row_id)
     if token:
-     assert db.execute('select rowid from page_fts where page_fts match ? and rowid=?',('"'+token[0].replace('"','""')+'"',row_id)).fetchone(),(source,page_no)
+     assert db.execute('select rowid from page_fts where page_fts match ? and rowid=?',('"'+token.replace('"','""')+'"',row_id)).fetchone(),(source,page_no)
      nonempty+=1
    assert nonempty>0,source
    result.append({'source_pdf':d['source_pdf'],'pages':d['pages'],'searchable_pages':nonempty,'ocr_pages':entry.get('ocr_pages',[]),'empty_pages':entry.get('empty_pages',[]),'verified':True})
