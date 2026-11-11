@@ -17,14 +17,6 @@ TEXT = ROOT / "indexed_text"
 DB = ROOT / "search" / "pnap_fts.sqlite3"
 REPORT = ROOT / "search" / "search_audit.json"
 PAGE = re.compile(r"===== PDF PAGE (\d+) =====")
-ALIASES = {
-    "gi": ["ground investigation", "site investigation"],
-    "scheduled area": ["scheduled areas", "schedule 5"],
-    "入則": ["approval", "consent", "submission"],
-    "鑽探": ["ground investigation", "borehole"],
-    "地盤勘測": ["ground investigation", "site investigation"],
-    "指定地區": ["scheduled area", "scheduled areas"],
-}
 def pages(raw):
     pieces = PAGE.split(raw)
     for i in range(1, len(pieces), 2):
@@ -76,36 +68,11 @@ def build():
     tmp.replace(DB)
     print(json.dumps(counts,ensure_ascii=False))
 
-def variants(q):
-    q=q.strip().lower()
-    terms=[q]
-    for key, alternatives in ALIASES.items():
-        if key in q:
-            terms.extend(alternatives)
-    # Prefer a broad OR query, not implicit AND, so exact and synonym matches surface.
-    words=re.findall(r"[\w]+",q,flags=re.UNICODE)
-    terms.extend(w for w in words if len(w)>2)
-    return list(dict.fromkeys(x for x in terms if x))
-
 def search(q, limit):
     if not DB.exists():
         raise SystemExit("Missing database. Run build first.")
-    expressions=[]
-    for term in variants(q):
-        tokens=re.findall(r"[\w]+",term,flags=re.UNICODE)
-        if tokens:
-            expressions.append('"'+' '.join(tokens)+'"')
-    expr=" OR ".join(dict.fromkeys(expressions))
-    with sqlite3.connect(DB) as conn:
-        rows=conn.execute("""
-            SELECT p.code,p.source,p.page_no,
-                   snippet(page_fts,1,'[',']',' … ',32) AS excerpt,
-                   bm25(page_fts) AS score
-            FROM page_fts JOIN page p ON p.id=page_fts.rowid
-            WHERE page_fts MATCH ?
-            ORDER BY score LIMIT ?""",(expr,limit)).fetchall()
-    print(json.dumps([{"code":r[0],"source":r[1],"pdf_page":r[2],
-                       "excerpt":r[3],"score":r[4]} for r in rows],indent=2,ensure_ascii=False))
+    from retrieval import combined_search
+    print(json.dumps(combined_search(q, limit), indent=2, ensure_ascii=False))
 
 def audit():
     if not REPORT.exists():

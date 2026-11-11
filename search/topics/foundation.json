@@ -1,95 +1,400 @@
 {
-  "query": "\"foundation\" OR \"piling\"",
+  "query": "foundation piling",
   "results": [
     {
-      "code": "APSEC-DF-2021-03-19",
-      "source": "indexed_text/APSEC/2021/APSEC-DF-2021-03-19.txt",
-      "pdf_page": 8,
-      "excerpt": " … Monitoring Requirements for [Piling] Works \n \nThe guideline in Appendix B of APP-137 suggests AAA levels be \nestablished with a ratio of … "
-    },
-    {
-      "code": "APP-018",
-      "source": "indexed_text/PNAP/APP/APP-018.txt",
-      "pdf_page": 16,
-      "excerpt": " … Review of [piling] design with back-analyses and submission of [foundation]\nplans  to amend  the  pile  loading  schedule would be  required  in … "
-    },
-    {
-      "code": "APSEC-DF-2024-02-23",
-      "source": "indexed_text/APSEC/2024/APSEC-DF-2024-02-23.txt",
-      "pdf_page": 10,
-      "excerpt": " … Comparison of Total Loading for [Foundation] [Piling] Plan Approval \n \nFor [foundation] [piling] submission, the following two capacity assessment \ntables are given for … "
-    },
-    {
-      "code": "APSEC-DF-2024-08-09",
-      "source": "indexed_text/APSEC/2024/APSEC-DF-2024-08-09.txt",
-      "pdf_page": 11,
-      "excerpt": " … been implemented for processing the \ncompletion of [foundation] works: \n \n(i) The review of [piling] design with back-analysis and the updated pile … "
+      "code": "FoundationCode2017",
+      "source": "indexed_text/BD_CODES/foundations/FoundationCode2017.txt",
+      "pdf_page": 41,
+      "score": 6.674357,
+      "excerpt": "monitoring the verticality, inclination and alignment of the piles during\n                         installation,  the maximum number  of  piling  rigs  allowed  to be\n                     concurrently driving piles at any one time for percussive piling in\n                      vibration  sensitive   sites,  method  of  overcoming  underground\n     ",
+      "title": "Code of Practice for Foundations 2017 (2024 Edition)",
+      "official_url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/FoundationCode2017.pdf",
+      "must_read_with": [
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/FoundationCode2017_amendment202509.pdf"
+      ],
+      "code_basis": null,
+      "catalogue_context": "",
+      "kind": "pdf",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "context_pages": [
+        {
+          "pdf_page": 40,
+          "excerpt": "protected against corrosion for the design working life of the structure. Below\n             seabed level, an allowance for corrosion loss of 0.05 mm per year on the\n               outside face of steel is considered reasonable if no corrosion protection is\n               carried out within this zone.\n\n               Stainless steel for use in marine environment should be of a grade which is\n               absolutely free of any chloride. Common grade of stainless steel with the\n              presence of chloride should not be used for marine works.\n\n               Steel embedded in concrete and steel in seawater in the same foundation\n             should be isolated since the former is cath"
+        },
+        {
+          "pdf_page": 42,
+          "excerpt": "2.8.2 FOUNDATION DESIGN IN SCHEDULED AREA NOS. 2 AND 4\n\n2.8.2.1 GENERAL\n\n      The geology of Scheduled Area No. 2 (North-west New Territories) and Scheduled\n      Area No. 4 (Ma On Shan) comprises superficial deposits overlying metamorphosed\n       sedimentary strata (meta-siltstones, meta-sandstones and marble) as well as igneous\n       rocks. The marble usually has a karstic upper surface with solution features. Large\n        cavities with or without infilled material may be present within the marble.\n\n       Foundation  design  in  karst marble  requires  careful  consideration  of  the  karst\n      morphology, loading intensity and layout of load bearing elements.  The main\n      proble"
+        }
+      ]
     },
     {
       "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
       "source": "indexed_text/GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
       "pdf_page": 75,
-      "excerpt": " … The cost of [piling] in itself constitutes only part of the total cost of [foundation] works.\nFor instance, the cost of a … "
+      "score": 6.186502,
+      "excerpt": "75\n\n\n\n5.2.7 Programme and Cost\n\n      The design engineer frequently has a choice between a number of technically feasible\npiling options for a given site. The overall cost of the respective options will be a significant\nconsideration.\n\n      The scale of the works is a pertinent factor in that high mobilisation costs of large\nequipment may not be ",
+      "title": "Foundation Design and Construction",
+      "official_url": "https://www.cedd.gov.hk/filemanager/eng/content_148/ep1_2006.pdf",
+      "must_read_with": [],
+      "code_basis": null,
+      "catalogue_context": "1 Foundation Design and Construction (2.74MB)",
+      "kind": "pdf",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "context_pages": [
+        {
+          "pdf_page": 74,
+          "excerpt": "74\n\n\n\nas opposed to driven cast-in-place piles, may be considered as they offer the option that\nuplifted piles can be re-driven.\n\n       Spoil and contaminated drilling fluid, for replacement pile construction, especially\nthose arising from reclamation area, cause nuisance to surrounding environment and would\nneed to be properly disposed of (EPD, 1994).\n\n\n5.2.5   Site and Plant Constraints\n\n       In selecting pile types, due consideration should be given to the constraints posed by\nthe operation of the equipment and site access.\n\n       Apart from mini-piles, all other piles require the use of large piling rigs. The machine\nfor jacking piles carries heavy weights. These may require substant"
+        },
+        {
+          "pdf_page": 76,
+          "excerpt": "76\n\n\n\n       In Hong Kong, foundation records for most private developments are kept by the\nBuildings Department.  For public projects, the respective government departments may be\napproached to obtain the information on existing foundations.\n\n       Existing buildings should be surveyed to identify the presence of any problems\npertaining to the existing foundations. Repaired cracks or renovation works may conceal the\nproblems.   It is worthwhile to interview clients and tenants to understand any potential\nproblems.\n\n      While there are obvious benefits in reusing existing  piles, the investigation for\nconfirming the conditions of the piles may carry a significant cost. There is a risk tha"
+        }
+      ]
+    },
+    {
+      "code": "APP-018",
+      "source": "indexed_text/PNAP/APP/APP-018.txt",
+      "pdf_page": 16,
+      "score": 6.184317,
+      "excerpt": "23.           If sufficient information is available in the submitted record plans and\nreports, BD would within 14 days of the receipt of the Form BA14 for foundation works\ninform the AP/RSE of the representative piles identified for proof tests.  To avoid\nunnecessary delay, the AP/RSE should ensure that full information on the completed piles\nis i",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department    Registered Structural Engineers and         APP-18\n                         Registered Geotechnical Engineers\n\n\n                 Code of Practice for Foundations 2017\n\n\n           The Buildings Department has set up a Technical Committee (TC) to,\namong others, collect and consider the views and feedback from the building industry\narising from the use of the Code of Practice for Foundations 2017 (the Code). Taking\ninto account the advice of the TC, amendments were made to the Code in February 2021,\nJuly 2022, August 2023 and June 20241, which have been incorporated in the Code\n(2024 Edition) promulgated in October 2024.",
+      "cross_references": [
+        "PNAP/ADM/ADM-19.txt",
+        "PNAP/APP/APP-141.txt",
+        "PNAP/APP/APP-061.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 15,
+          "excerpt": "Consent for Installation of Working Piles for Driven piles\n\n19.        Regarding the trial piles and their load tests for steel H-piles driven to\nbedrock mentioned in Section 5.4.11 (4) of the Code, consent for the installation of\nworking piles for driven pile works may be granted without completion of proof load test\non trial piles, provided that the results of Pile Driving Analyser (PDA) with Case Pile\nWave Analysis Program (CAPWAP) analysis of the trial piles for driven pile works are\nfound satisfactory and the relevant conditions for granting consent are fulfilled. Proof\nload test on trial piles may be carried out concurrently with the working pile installation\nand the load test reports/"
+        },
+        {
+          "pdf_page": 17,
+          "excerpt": "Annex C1\n                                                  (PNAP APP-18)\n\n                      Essential Information to be included in\n                 Two-stage Pile Foundation Plan Submission\n\n\n1.              It is not unusual to have foundation plan amendment submissions throughout\nthe design stage of a development project due to changes of the layout of columns, walls\nand piles, as well as their loads arising from the revised building design. The extent of\nchanges in the foundation amendment plans may sometimes be so substantial that may\nconstitute a major revision and require a fresh consent application for the commencement\nand carrying out of the foundation works. To facilitate the c"
+        }
+      ]
     },
     {
       "code": "HKIE-foundations-2017",
       "source": "indexed_text/HKIE/HKIE-foundations-2017.txt",
       "pdf_page": 122,
-      "excerpt": " … Concreting of raft [foundation] etc.\n\n              Generally noise levels below 75dB(A) are acceptable. In case of percussive [piling]\n            work where the construction … "
-    },
-    {
-      "code": "FoundationCode2017",
-      "source": "indexed_text/BD_CODES/foundations/FoundationCode2017.txt",
-      "pdf_page": 41,
-      "excerpt": "monitoring the verticality, inclination and alignment of the piles during\n                         installation,  the maximum number  of  [piling]  rigs  allowed  to be\n                     concurrently driving … "
-    },
-    {
-      "code": "ADM-18",
-      "source": "indexed_text/PNAP/ADM/ADM-18.txt",
-      "pdf_page": 7,
-      "excerpt": " … [Foundation]\n                                                   1 month after commencement of [piling] works\n                     Next Site Auditing\n                                                              2. Superstructure\n                                                     3 months after commencement of superstructural\n                                                           (S/S)works … "
-    },
-    {
-      "code": "ADM-18",
-      "source": "indexed_text/PNAP/ADM/ADM-18.txt",
-      "pdf_page": 4,
-      "excerpt": "Appendix I\n                                                (PNAP ADM-18)\n\n          [Foundation]            Things to be audited   Objective/concern\nDriven piles\n(A)  Materials\n       -  Steel H-pile                  Mill certificates        Proof … "
-    },
-    {
-      "code": "APP-061",
-      "source": "indexed_text/PNAP/APP/APP-061.txt",
-      "pdf_page": 4,
-      "excerpt": " … buckling of piles during driving, and reactivation of\nsinkholes or collapse of cavities during [piling] or [foundation] construction. The RSE and\nRGE … "
-    },
-    {
-      "code": "APSEC-DF-2021-03-19",
-      "source": "indexed_text/APSEC/2021/APSEC-DF-2021-03-19.txt",
-      "pdf_page": 9,
-      "excerpt": "9 \n2/2021 ADF on 19 March 2021 \n[foundation] to be re-used might be imposed for the consent application to \nthe … "
-    },
-    {
-      "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
-      "source": "indexed_text/GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
-      "pdf_page": 331,
-      "excerpt": " … Case history of a pile [foundation] in unusual ground in Hong\n      Kong.  Proceedings of the Seventh Southeast Asian Geotechnical Conference, Hong\n      Kong … "
-    },
-    {
-      "code": "APSEC-DF-2019-11-22",
-      "source": "indexed_text/APSEC/2019/APSEC-DF-2019-11-22.txt",
-      "pdf_page": 11,
-      "excerpt": " … [Piling] Amendment Plan \n \nFor design of pile [foundation], please clarify whether [piling] amendment \nplan still needs to be submitted for approval if … "
-    },
-    {
-      "code": "APSEC-DF-2019-03-22",
-      "source": "indexed_text/APSEC/2019/APSEC-DF-2019-03-22.txt",
-      "pdf_page": 4,
-      "excerpt": " … and services arising from the proposed [piling] \nworks should be included in the pile [foundation] submission for \napproval.  AP/RSE/RGE may … "
+      "score": 6.182147,
+      "excerpt": "An Explanatory Handbook to Code of Practice for Foundations 2017\n\n\nH7.5  CONSTRUCTION TOLERANCES\n\n       The Code tabulates construction tolerances for foundation elements generally in this\n          clause.\n\n       The justification mentioned in Note (2) can comprise re-analysis and / or re-design of the\n          structure with the as-constructed",
+      "title": "An Explanatory Handbook to the Code of Practice for Foundations 2017",
+      "official_url": "https://hkie.org.hk/st/wp-content/uploads/sites/40/hkie/a5de54214e8bbba4d24c55cffae6e480/79_Foundation-Code-Handbook-2017.pdf",
+      "must_read_with": [],
+      "code_basis": "Code of Practice for Foundations 2017",
+      "catalogue_context": "",
+      "kind": "pdf",
+      "earlier_edition_in_series": false,
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "context_pages": [
+        {
+          "pdf_page": 121,
+          "excerpt": "An Explanatory Handbook to Code of Practice for Foundations 2017\n\n\n\nH7.4  PILE CONSTRUCTION\n\nH7.4.1  DRIVING TEST AND TRIAL PILES\n\n           If considered necessary, the  trial pile may be “instrumented” by which strains, and\n         settlements can be measured for the subsequent derivation of soil resistances along the\n          pile shaft.\n\n         In accordance with the Code, test driving is required for driven piles.  The current\n         practice also includes test installations for pre-bored piles such as mini-piles and socketed\n         H-piles.\n\nH7.4.2  TEST BORING\n\n         Test boring is important for sites where the construction activities may induce excessive\n         settleme"
+        },
+        {
+          "pdf_page": 123,
+          "excerpt": "An Explanatory Handbook to Code of Practice for Foundations 2017\n\n\n\n\n\n   Figure H7.6(a) – Noise     Figure H7.6(b) – Noise Muffler Enclosing Hydraulic Hammer\n           Barrier                           during Percussive Piling Work\n\n                     Figure 7.6 – Noise Nuisance Reduction Measures\n\n\n          (2)  Smoke and Fume\n\n             Sources of smoke and fumes are usually generated from sources including :\n\n                  (i)   Combustion of fuel for operating powered mechanical equipment (PME) such\n                    as air compressors, generators or construction plant and;\n                  (ii)  Excavation of dusty materials.\n\n             Routine maintenance and servicing"
+        }
+      ]
     },
     {
       "code": "HKIE-foundations-2004",
       "source": "indexed_text/HKIE/HKIE-foundations-2004.txt",
       "pdf_page": 96,
-      "excerpt": " … Concreting of raft [foundation] etc.\n\n              Generally noise levels below 75dB(A) are acceptable. In case of percussive [piling]\n            work where the construction … "
+      "score": 5.376355,
+      "excerpt": "An Explanatory Handbook to Code of Practice for Foundations 2004\n\n\n\n          to avoid possible damage to the soundness of the interface.  Triple barrel drilling and\n          drilling fluid such as foam, supermud or polymers can be used.\n\nH7.4.4 PROOF TESTS\n\n           If the proof tests involve use of instruments, calibrations by accredited labor",
+      "title": "An Explanatory Handbook to the Code of Practice for Foundations 2004",
+      "official_url": "https://hkie.org.hk/st/wp-content/uploads/sites/40/hkie/a5de54214e8bbba4d24c55cffae6e480/49_Fdn-Code-2004-Handbook.pdf",
+      "must_read_with": [],
+      "code_basis": "Code of Practice for Foundations 2004",
+      "catalogue_context": "",
+      "kind": "pdf",
+      "earlier_edition_in_series": true,
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "context_pages": [
+        {
+          "pdf_page": 95,
+          "excerpt": "An Explanatory Handbook to Code of Practice for Foundations 2004\n\n\n\n\n        Regulatory control on the safety and security on the use of explosives in Hong Kong is\n        under the control of the Commissioner of Mines (Director of Civil Engineering and\n        Development).\n\n      When an explosive is detonated, shock waves and vibration are generated.  Vibration is\n        measured in terms of peak particle velocity (ppv) in units of mm/sec. A report is\n         generally required for assessing vibrations that will be incurred to the surrounding\n          structures and facilities to ensure that they are within tolerable limits.\n\n\nH7.3  FOUNDATION RECORDS AND REPORTS\n\n         In addition "
+        },
+        {
+          "pdf_page": 97,
+          "excerpt": "An Explanatory Handbook to Code of Practice for Foundations 2004\n\n\n\n\n\n   Figure H7.6(a) – Noise     Figure H7.6(b) – Noise Muffler Enclosing Hydraulic Hammer\n           Barrier                           during Percussive Piling Work\n\n\n\n          (2)  Smoke and Fume\n\n             Sources of smoke and fumes are usually generated from sources including :\n\n                  (i)   Combustion of fuel for operating powered mechanical equipments (PME)\n                  such as air compressors, generators or construction plant and;\n                  (ii)  Excavation of dusty materials.\n\n             Routine maintenance and servicing of the diesel engines of mechanical plant is vital\n               in"
+        }
+      ]
+    },
+    {
+      "code": "APSEC-DF-2019-11-22",
+      "source": "indexed_text/APSEC/2019/APSEC-DF-2019-11-22.txt",
+      "pdf_page": 11,
+      "score": 5.191616,
+      "excerpt": "11 \n \nItems raised by HKIE \n12. \nBearing Capacity of Marble Rock Mass \n \nPlease clarify the presumed allowable vertical bearing capacity of sound \nmarble rock of Marble Rock Class I and II as defined in Table 2.5 of the \nClause 2.8.2.2 of Code of Practice for Foundations 2017. \n \n \n \nBD advised that the issue would be reviewed in the Technical Comm",
+      "title": "1 \nSummary of Items Discussed in 5/2019 APSEC Discussion Forum on 22 November 2019 \n \nItems proposed by Convenors for Discussion \nSummary of Discussion and BD’s Responses \n \nItems raised by HKIA ",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 10,
+          "excerpt": "10 \nbalcony/utility platform: \n \n(i) \nParagraph (h)(i) – To allow reasonable space for accommodating \nAC outdoor units and the associated fixtures/fittings (especially for \nlarge domestic units), we recommend that the perforated screens \nprovided at the edges of the AC platform be disregarded from the \n0.8m2 exempted platform area, similar to the case of AC platform \nas described in Paragraph 5 of Appendix C of the Code, where it \nstates “such screen/guard-rail including its supporting structural \nmembers may be excluded from the measurement of the maximum \nprojection of the AC platform”. \n \n(ii) \nParagraph (g) requires that “any screens provided at the edge of the \n(AC) platform should not "
+        },
+        {
+          "pdf_page": 12,
+          "excerpt": "12 \n \n \ngas mains, etc.  BD would ensure that consistent definitions are adopted by \ncase officers. \n \n \nItems raised by HKIS \n15. \nEnclosure Wall of Vertical Lifting Platform \n \nWould BD clarify whether a vertical lifting platform, which serves within a \nsame compartment (like in a house with single occupancy) and complies \nwith paragraph 5.5B(a)(ix) in Chapter 5 of Design Manual: Barrier Free \nAccess 2008, is required to comply with Clause C9.1 of FS Code 2011 \nregarding protection of liftwell and lift door? \n \n \nPursuant to Clause C9.2 of FS Code 2011, provided that the lift machine \nroom or pulley room would be completely separated by fire barriers from the \nrest of the building, fire re"
+        }
+      ]
+    },
+    {
+      "code": "APSEC-DF-2021-03-19",
+      "source": "indexed_text/APSEC/2021/APSEC-DF-2021-03-19.txt",
+      "pdf_page": 8,
+      "score": 5.190692,
+      "excerpt": "8 \n2/2021 ADF on 19 March 2021 \n7. \nMonitoring Requirements for Piling Works \n \nThe guideline in Appendix B of APP-137 suggests AAA levels be \nestablished with a ratio of Alert: Alarm: Action level = 50%, 75% and \n100% of allowable/predicted value.  Nowadays, the Alert and Alarm \nLevels are tightened to 30% and 50% of the maximum vibration limit \nr",
+      "title": "Summary of Items Discussed in 2/2021 APSEC Discussion Forum on 19 March 2021 \n \n \nItems proposed by Convenors for Discussion \nSummary of Discussion and BD’s Response \n \nItems raised by HKIA  ",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 7,
+          "excerpt": "7 \n2/2021 ADF on 19 March 2021 \nBased on the above, it has all along been our understanding that the whole \nof Part III of Appendix A of the said PNAP, including paragraph 4.2 and \nSection 5 – Cross Ventilation, can be applied to a room where the “primary \nopening” is a window satisfying the natural lighting requirements stipulated \nunder B(P)R 31 only. \n \nWe would like to re-confirm that the above interpretation/understanding is \nstill valid and applicable. \n \n \nItems raised by HKIE  \n6. \nGround-borne Vibration Limit \n \nParagraph 3 of Appendix A of PNAP APP-137 specifies that a vibration \nlimit of 15mm/s can be adopted for robust and stable buildings.  Only in \nthe case where there are vibr"
+        },
+        {
+          "pdf_page": 9,
+          "excerpt": "9 \n2/2021 ADF on 19 March 2021 \nfoundation to be re-used might be imposed for the consent application to \nthe commencement of new foundation works.  The consent for such \nworks would not be given until the said report has been submitted and \nfound satisfactory by BD. \n \nThe approval and consent conditions imposed for foundation works \ninvolving re-use of existing foundation might vary and be considered on \ncase-by-case basis.  In some cases, approval and consent for carrying \nout the verification tests of the existing foundation might be required. \n \n9. \nStreamlined Procedure to Facilitate the Processing of Form BA13/14 \nSubmission \n \nReferring to item 6 of ADF 4/2018 held on 17 August 2018,"
+        }
+      ]
+    },
+    {
+      "code": "APSEC-DF-2024-02-23",
+      "source": "indexed_text/APSEC/2024/APSEC-DF-2024-02-23.txt",
+      "pdf_page": 10,
+      "score": 5.18146,
+      "excerpt": "10 \n1/2024 ADF on 23 February 2024 \n9. \nPercentage of Remedial Brackets for Curtain Wall \n \nIt is noticed that some BD officers limit the adoption of remedial brackets \nwith drill-in anchors not exceeding 10% of the cast-in embeds of the \ncurtain wall.  As random strength test will be conducted on these drill-in \nanchor, such limitation will certai",
+      "title": "1 \n1/2024 ADF on 23 February 2024 \nSummary of Items Discussed in 1/2024 APSEC Discussion Forum (ADF) on 23 February 2024 \n \n \nItems proposed by Convenors for Discussion \nSummary of Discussion and BD’s Response \n \nItems raised by HKIA ",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 9,
+          "excerpt": "9 \n1/2024 ADF on 23 February 2024 \n \n \nspaces including shops. \n \nNoting that the atrium might be of irregular shape and the alignment of \nfire shutters along the edge of atrium might be impractical, BD would \nconsider accepting minor arcade and circulation areas adjoining the \natrium with relatively low fire risk to be included as part of the atrium \ncompartment.  However, mercantile facilities outside the atrium would \nnot be accepted to be included within the same compartment of the \natrium void. \n \nItems raised by HKIE \n8. \nCast-in Embed \n \nTo streamline the approval process, it is suggested to treat the cast-in \nembeds as typical structural elements with all typical details given in \nsu"
+        },
+        {
+          "pdf_page": 11,
+          "excerpt": "11 \n1/2024 ADF on 23 February 2024 \n \nSince the two sets of figures are irrelevant, would BD please clarify their \nnecessity? \n \n \nItems raised by AAP \n11. \n“Means of Escape and Access ” in PNAP APP-73 \n \nParagraph 5 of PNAP APP-73 states that “a service lane, public or private, \nwould not be acceptable as a means of escape and access if it is obstructed, \nincapable of improvement or obviously in a decaying state.”  \n \nWe would like to seek BD’s advice on the acceptance criteria in this regard.  \n \n \n \nBD advised that a service lane, public or private, would not be \nacceptable as a means of escape and access if it was obstructed, \nincapable of improvement or obviously in a decaying state as "
+        }
+      ]
+    },
+    {
+      "code": "APSEC-DF-2019-08-23",
+      "source": "indexed_text/APSEC/2019/APSEC-DF-2019-08-23.txt",
+      "pdf_page": 7,
+      "score": 5.174851,
+      "excerpt": "7 \n10. \nSteel H-piles Driven to Bedrock \n \nClause 5.4.11 of CoP for Foundations 2017 stated the technical concerns of \nthe piles driven to refusal and laid down the design and construction \nrequirements for those piles with pile bases terminated on or very close to \nbedrock. \n \nClause 5.4.11(2)(b) defines the bedrock to be not inferior to Category ",
+      "title": "1 \nSummary of Items Discussed in 4/2019 APSEC Discussion Forum on 23 August 2019 \n \nItems proposed by Convenors for Discussion \nSummary of Discussion and BD’s Responses \n \nItems raised by HKIA ",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 6,
+          "excerpt": "6 \n \n(Application to the New Territories) Ordinance, in existence before. \nNevertheless, special consideration would be given on case basis should \ncircumstances so warrant, for example, the scale of the existing building as \ncompared with the overall area of the site. \n \n \nItem raised by HKIE \n9. \nRequirement of Tension Proof Load Test \n \nFor piles carrying reverse tension and compression, e.g. rock socketed \nmini-piles or pre-bored H pile, Clause 5.3.3(1)(a) of CoP for Foundations \n2017 stated that proof tension load test is normally required unless the \ntension capacity is taken as less than half of the compression capacity. \n \n \n \nHowever, some officers have been exercising a rule of req"
+        },
+        {
+          "pdf_page": 8,
+          "excerpt": "8 \nThis allows practitioner more flexibility.  However, some area engineers \nhave different view on this and refuse to approve or acknowledge ELS \nplans submission before approval of piling plans.  It would be grateful if \nBD could clarify this. \n \nand/or any other sub-structures should be shown on the ELS plans for \nconsidering the extent and depth of excavation and the removal sequence of \nthe struts.  Consent for bulk excavation would not be granted prior to the \napproval of piling and pile cap plans. \n \n12. \nInstallation of Temporary Pile Wall along Site Boundary before \nInstallation of Socketed H-piles \n \nFor site with adjacent sensitive buildings/structures, BD would request \ninstallat"
+        }
+      ]
+    },
+    {
+      "code": "APSEC-DF-2024-08-09",
+      "source": "indexed_text/APSEC/2024/APSEC-DF-2024-08-09.txt",
+      "pdf_page": 11,
+      "score": 5.171415,
+      "excerpt": "11 \nADF 3/2024 on 9 August 2024 \n \n \n10. Streamlining Approval Process \n \nIt is the government’s policy to streamline the development approval process \nand the BD would be in support of this policy. \n \nIn many projects, it is quite common that idling on site for 3 months is  \nencountered to wait for consent to commence next stage of works after \nsu",
+      "title": "1 \nADF 3/2024 on 9 August 2024 \nSummary of Items Discussed in APSEC Discussion Forum (ADF) 3/2024 on 9 August 2024 \n \n \nItems proposed by Convenors for Discussion \nSummary of Discussion and BD’s Response \n \nItems raised by HKIA ",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 10,
+          "excerpt": "10 \nADF 3/2024 on 9 August 2024 \n9. \nProtective Barrier – PNAP APP-110 \n \nAccording to paragraph 3 of PNAP APP-110 issued in June 2024, if the \nbottom solid curb portion is less than 500 mm, the height of curb of railing \ntype protective barrier must be not less than 150mm and not more than \n250 mm above the adjoining floor level, as shown in the following \nillustrations extracted from Appendix A to the said PNAP, in order for the \ncurb not to be regarded as an adjoining floor level. \n \n \n \nFor staircases requiring a protective barrier, the measurement should be \nbased on the diagrams below.  Could BD please clarify if the HKIA’s \nunderstanding is correct or not? \n \n \n \nBD advised that the m"
+        },
+        {
+          "pdf_page": 12,
+          "excerpt": "12 \nADF 3/2024 on 9 August 2024 \n6. Day 90 – Submission of Form BA 10 for Pile Cap \n7. Day 97 – Commencement of works for Pile Cap \n \nWe would like to seek BD’s advice if there are ways to streamline and shorten \nthe above process. \n \n(ii) BD would accept alternative arrangement for witnessing pile proof \nload test to be conducted by videotelephony and video record upon \napplication from the AP/RSE.  For details, please refer to BD’s \nCircular Letter on “Alternative Arrangement for Witnessing \nFoundation Proof Load Test” issued on 2 June 2023. \n \n(iii) Upon notification from AP/RSE, BD officers would witness the pile \nproof load test(s) within 5 working days from the day of \nnotification. \n "
+        }
+      ]
+    },
+    {
+      "code": "ADM-18",
+      "source": "indexed_text/PNAP/ADM/ADM-18.txt",
+      "pdf_page": 4,
+      "score": 5.167989,
+      "excerpt": "Appendix I\n                                                (PNAP ADM-18)\n\n          Foundation            Things to be audited   Objective/concern\nDriven piles\n(A)  Materials\n       -  Steel H-pile                  Mill certificates        Proof yield stress\n\n       -  Precast prestressed Spun      Origin                Recognized type\n         con",
+      "title": "Practice Note for Authorized Persons,\n Buildings Department    Registered Structural Engineers and      ADM-18\n                          Registered Geotechnical Engineers\n\n\n                          Site Auditing for Building Works",
+      "cross_references": [
+        "PNAP/ADM/ADM-19.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 3,
+          "excerpt": "- 3 -\n\nAudit Inspections for Two-Storey Warehouses\n\n11.        For proposals of two-storey warehouse satisfying the criteria for fast track\nprocessing  in PNAP ADM-19,  the BD undertakes  to conduct  inspection  of  the\nfoundation bearing stratum within one working day (i.e. within 8 working hours) upon\nreceipt of notification.  The BD has also streamlined the audit inspections for such\nproposals.  For the scheduled audit inspections on quality of superstructure works, the\nBD will combine the quality inspection to structural elements with the comprehensive\ninspection  at superstructure construction stage into one joint  site inspection.  For\nproposals of small warehouses with gross floor are"
+        },
+        {
+          "pdf_page": 5,
+          "excerpt": "Excavation piles\n(A)  Materials\n      -  Bored pile                  Grade of concrete,     Compliance with\n                                        mill certificate for      approved plans\n                                     reinforcement\n\n      -   Mini-pile                  Grade of grout, mill              -ditto-\n                                            certificate of\n                                      reinforcement,\n                                     coupler\n\n      -  Socket H-pile              Grade of grout and               -ditto-\n                                        mill certificate of\n                                        Steel section\n(B) Supervision personnel\n     "
+        }
+      ]
+    },
+    {
+      "code": "APSEC-DF-2019-03-22",
+      "source": "indexed_text/APSEC/2019/APSEC-DF-2019-03-22.txt",
+      "pdf_page": 4,
+      "score": 5.167063,
+      "excerpt": "4 \nnumber of past projects have been granted with such modification without \nthe need to fulfil paragraph 3(b) of the PNAP, whereas some others were \nnot. \n \nWe would therefore be obliged to have your advice that paragraph 3(b) of \nthe PNAP is indeed not a pre-requisite for the granting of such a \nmodification with the primary purpose of waste mini",
+      "title": "1 \nSummary of Items Discussed in 2/2019 APSEC Discussion Forum on 22 March 2019 \n \nItems proposed by Convenors for Discussion \nSummary of Discussion and BD’s Responses \n \nItems raised by HKIA ",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 3,
+          "excerpt": "3 \n4. \nPost-OP Rectification Works Procedures (“PRWP”) \n \nThe Circular Letter issued by BD on 9.1.2014 regarding the captioned \nstipulated that the scope of rectification works to be carried out under the \nPRWP only involved the building works shown on the latest approved \nplans.  Based on the above, we understand that the scope of PRWP will \nalso cover those rectification works which cannot be carried out under the \nsimplified requirements of MWCS, such as rectification of external \ncladding which is >6m from adjoining ground, rectification of fixed glazing \nor spandrel glass of curtain wall, etc., provided that these works are shown \non the latest approved plans.  Please advise if our unde"
+        },
+        {
+          "pdf_page": 5,
+          "excerpt": "5 \n7. \nDetails of Demountable Panels covering External Drainage Pipes \n \nAs required in paragraph 4.1 in Annex 1 of Appendix B to PNAP APP-93 \non Planning and Design of Drainage Works, details of the demountable \npanel of the architectural feature enclosing the external drainage pipes shall \nbe included in structural plans of the architectural feature for approval. \nWhile there might be occasions that such details were not required on the \nstructural plans, we would like to know if there is any change in such \nrequirement. \n \n \n \nBD advised that the fixing details of the demountable panel of architectural \nfeatures enclosing external drainage pipes should be included in the \nstructural plans"
+        }
+      ]
+    },
+    {
+      "code": "APP-061",
+      "source": "indexed_text/PNAP/APP/APP-061.txt",
+      "pdf_page": 4,
+      "score": 5.159705,
+      "excerpt": "- 4 -\n\n18.         The deviation of each driven pile from its initial position should also be\nsurveyed.\n\n19.            In karst areas, there is always the risk despite conservative design, that\nfoundation problems might arise, e.g. buckling of piles during driving, and reactivation of\nsinkholes or collapse of cavities during piling or foundation c",
+      "title": "Practice Note for Authorized Persons,\n Buildings Department        Registered Structural Engineers and      APP-61\n                             Registered Geotechnical Engineers\n\n\n                    Geotechnical Control on Developments in\n                Area Numbers 2 and 4 of the Scheduled Areas\n\n\n              North-western part of the New Territories and part of Ma On Shan area\nare designated as Area Numbers 2 and 4 of the Scheduled Areas in Schedule 5 to the\nBuildings Ordinance (BO) respectively. The plans delineated such areas are on display\nin the Buildings Department (BD) 1 and in the Geotechnical Information Unit of the\nCivil Engineering Library of the Civil Engineering and Development Department\n(CEDD).  Location maps of these areas are shown in Figures 1 and 2 respectively at\nAppendix A.",
+      "cross_references": [
+        "PNAP/APP/APP-018.txt",
+        "PNAP/APP/APP-059.txt",
+        "PNAP/APP/APP-004.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 3,
+          "excerpt": "- 3 -\n\n11.            Prior to substantial completion of all building works of the development\nproject, all cores and samples should be retained on site in good condition for inspection\nby the officers of BD and GEO.\n\nFoundation Design\n\n12.          For the design of foundation, the guidelines and requirements provided in\nthe Foundation Code should be followed.\n\n13.           Driven or machine-bored piles will usually provide the most suitable\nfoundation for heavily loaded structures on sites underlain by marble. Hand-dug caissons\nrequire dewatering, which might be difficult and could induce the formation of sinkholes.\nPNAP APP-59 also restricts the use of hand-dug caissons.\n\n14.        When"
+        },
+        {
+          "pdf_page": 5,
+          "excerpt": "- 5 -\n\nWells\n\n26.         Where any well is proposed within these Areas, application to BA for\napproval should be accompanied by a submission prepared by an RGE demonstrating that\ngroundwater extraction will not adversely affect the site and the surrounding areas.\n\n27.         As mentioned in paragraph 10 of PNAP APP-4, the Water Authority has\nagreed that flushing water will normally be supplied whenever possible within these\nAreas, which at present include Yuen Long Town in Area Number 2 and Ma On Shan in\nArea Number 4 of the Scheduled Areas.\n\nReference Information\n\n28.       A considerable amount of information exists on the geology of these\nAreas. For Area Number 2 of the Scheduled Areas,"
+        }
+      ]
+    },
+    {
+      "code": "ADV-033",
+      "source": "indexed_text/PNAP/ADV/ADV-033.txt",
+      "pdf_page": 70,
+      "score": 5.156636,
+      "excerpt": "Typical Items           Requirements                             Reference\n                                 Soil backfill/retained soil of future screen/\n                            basement walls\n 13.   Structural details        Detailed information on brand name, sizes,  APP-18\n                               shape, areas and grades of steel piles",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        ADV-33\n                          Registered Geotechnical Engineers\n\n\n                    Essential Information in Plan Submissions",
+      "cross_references": [
+        "PNAP/ADM/ADM-19.txt",
+        "PNAP/ADM/ADM-02.txt",
+        "PNAP/APP/APP-055.txt",
+        "PNAP/ADM/ADM-04.txt",
+        "PNAP/APP/APP-025.txt",
+        "PNAP/APP/APP-151.txt",
+        "PNAP/APP/APP-156.txt",
+        "PNAP/ADM/ADM-08.txt",
+        "PNAP/APP/APP-084.txt",
+        "PNAP/APP/APP-035.txt",
+        "PNAP/ADM/ADM-09.txt",
+        "PNAP/ADM/ADM-21.txt",
+        "PNAP/APP/APP-124.txt",
+        "PNAP/APP/APP-002.txt",
+        "PNAP/APP/APP-042.txt",
+        "PNAP/APP/APP-152.txt",
+        "PNAP/APP/APP-019.txt",
+        "PNAP/ADV/ADV-014.txt",
+        "PNAP/APP/APP-136.txt",
+        "PNAP/APP/APP-043.txt",
+        "PNAP/APP/APP-130.txt",
+        "PNAP/APP/APP-126.txt",
+        "PNAP/APP/APP-108.txt",
+        "PNAP/APP/APP-104.txt",
+        "PNAP/APP/APP-089.txt",
+        "PNAP/APP/APP-093.txt",
+        "PNAP/APP/APP-040.txt",
+        "PNAP/APP/APP-027.txt",
+        "PNAP/APP/APP-098.txt",
+        "PNAP/APP/APP-065.txt",
+        "PNAP/APP/APP-114.txt",
+        "PNAP/ADM/ADM-10.txt",
+        "PNAP/APP/APP-141.txt",
+        "PNAP/APP/APP-024.txt",
+        "PNAP/APP/APP-030.txt",
+        "PNAP/APP/APP-032.txt",
+        "PNAP/APP/APP-061.txt",
+        "PNAP/APP/APP-062.txt",
+        "PNAP/APP/APP-134.txt",
+        "PNAP/APP/APP-018.txt",
+        "PNAP/ADM/ADM-06.txt",
+        "PNAP/APP/APP-022.txt",
+        "PNAP/APP/APP-049.txt",
+        "PNAP/APP/APP-137.txt",
+        "PNAP/APP/APP-057.txt",
+        "PNAP/APP/APP-115.txt",
+        "PNAP/APP/APP-015.txt",
+        "PNAP/APP/APP-143.txt",
+        "PNAP/APP/APP-053.txt",
+        "PNAP/APP/APP-068.txt",
+        "PNAP/APP/APP-037.txt",
+        "PNAP/ADM/ADM-20.txt",
+        "PNAP/APP/APP-139.txt",
+        "PNAP/APP/APP-110.txt",
+        "PNAP/APP/APP-016.txt",
+        "PNAP/APP/APP-076.txt",
+        "PNAP/APP/APP-125.txt",
+        "PNAP/APP/APP-105.txt",
+        "PNAP/APP/APP-133.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 69,
+          "excerpt": "Typical Items           Requirements                             Reference\n10.   Locations and         Ground settlement, building settlement,    ADM-19\n      details of                building tilting, building vibration and                                                           APP-18\n      instrumentation            utilities settlement to be monitored\n     and monitoring                                          APP-22                           Frequency of monitoring     requirements                                            APP-24\n                            Monitoring criteria in three triggering                                                           APP-61                      "
+        },
+        {
+          "pdf_page": 71,
+          "excerpt": "Appendix B2\n                                                 (PNAP ADV-33)\n\nChecklist for Excavation & Lateral Support Plan Submissions\n(This checklist is not required to be submitted to the BD.)\n\nPart A – Administration\n Typical Items           Requirements                            Reference\n 1.   Statutory Forms   ○  Form BA 4 (for appointment of       ADM-8\n                          AP/RSE/RGE)                     B(A)R\n                                                       18A and            ○  Form BA 5 (for application for                                                                         29(1)                                 approval)\n            ○  Form BA6 (Stability Certific"
+        }
+      ]
+    },
+    {
+      "code": "APSEC-DF-2021-01-22",
+      "source": "indexed_text/APSEC/2021/APSEC-DF-2021-01-22.txt",
+      "pdf_page": 4,
+      "score": 5.15159,
+      "excerpt": "4 \n1/2021 ADF on 22 January 2021 \n \n \nItems raised by HKIE  \n5. \nPre-drilling for Foundation  \n \nFor socketed steel H-piles or mini-piles founded on rock socket, the \nappointed Specialist Registered Contractor (Foundation) (RSC(F)) is \nrequired to carry out pre-drilling for identification of the depth and quality \nof founding rock prior to construc",
+      "title": "Summary of Items Discussed in 1/2021 APSEC Discussion Forum on 22 January 2021 \n \n \nItems proposed by Convenors for Discussion \nSummary of Discussion and BD’s Response \nItems raised by HKIA ",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 3,
+          "excerpt": "3 \n1/2021 ADF on 22 January 2021 \nWe understand that such restriction is NOT applicable to the non-domestic \nportion of a composite building even though the domestic tower portion is \ndesigned with the combined features, as it is inherently not possible to \nprovide AC platform combined with balcony and/ or UP for the \nnon-domestic portion.  \n \nWould BD please advise if our understanding is correct. \n \n \n \n \n4. \nSafety Measures for Inaccessible Roof \n \nAccording to paragraph 4.2.3 in Part 2 of the CoP on Design for Safety - \nExternal Maintenance 2019 (the “Code”), “Where stepping onto the \ninaccessible roof for M&R works is required, safety measures such as \nguard-rails with toe boards shall "
+        },
+        {
+          "pdf_page": 5,
+          "excerpt": "5 \n1/2021 ADF on 22 January 2021 \n6. \n \nVerification of Foundation Design \n \nGenerally, design of vertical bearing capacity of foundation works can \ndirectly refer to Table 2.1 “Presumed Allowable Vertical Bearing Pressure \nunder Foundations on Horizontal Ground/Bedrock” of the CoP for \nFoundations 2017 by matching the strength parameters of the founding \nmaterial.  In this connection, would BD please advise if Plate Load Test \non site is still needed for verification? \n \n \n \nBD advised that Plate Load Test would not be required for foundation on \nrock.  However, Plate Load Test should be conducted to verify the \nallowable bearing pressure and settlement estimation for shallow \nfoundations o"
+        }
+      ]
     }
-  ]
+  ],
+  "note": "Ranked evidence only. Read source, scope and amendments; XML has no PDF page."
 }

@@ -7,6 +7,10 @@ on:
       - 'index_manifest.json'
       - 'scripts/build_search.py'
       - 'scripts/build_retrieval.py'
+      - 'scripts/retrieval.py'
+      - 'scripts/review_answer_cases.py'
+      - 'scripts/test_retrieval.py'
+      - 'tests/answer_cases_v1.json'
       - 'scripts/build_pnap_paragraphs.py'
       - '.github/workflows/build-search.yml'
   workflow_run:
@@ -29,6 +33,10 @@ jobs:
         run: python scripts/build_search.py build
       - name: Test Scheduled Area GI retrieval
         run: python scripts/build_search.py search "scheduled area GI" --limit 10
+      - name: Run retrieval and legislation regression tests
+        run: python -m unittest discover -s scripts -p 'test_*.py' -v
+      - name: Measure fixed answer-reference retrieval cases
+        run: python scripts/review_answer_cases.py
       - name: Build compact ChatGPT retrieval files
         run: python scripts/build_retrieval.py
       - name: Build auditable PNAP paragraph JSON
@@ -37,7 +45,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add search/pnap_fts.sqlite3 search/search_audit.json search/document_catalog.json search/topics/ search/pnap_paragraphs/ search/pnap_paragraph_audit.json
+          git add search/pnap_fts.sqlite3 search/search_audit.json search/document_catalog.json search/topics/ search/pnap_paragraphs/ search/pnap_paragraph_audit.json search/answer_retrieval_v2.json
           if ! git diff --cached --quiet; then
             git commit -m "Update PNAP full-text search index"
             git pull --rebase

@@ -2,7 +2,7 @@
 
 ## Verified status (2026-11-11)
 - `search/pnap_fts.sqlite3` and `search/search_audit.json` exist on `main`.
-- Audit: 224 indexed documents, 1,995 PDF pages, 0 errors, 7 documents needing review.
+- Current counts and review warnings: read `search/search_audit.json` and `index_manifest.json`; do not reuse old snapshot counts.
 - GitHub connector reports `is_code_search_indexed=false`; GitHub code search returning no results **does not mean the source PDF is absent**.
 - SQLite FTS5 is a database file, **not** an HTTP search API. The ChatGPT GitHub connector cannot execute SQL against it directly.
 
@@ -34,3 +34,20 @@ The SQLite index can be queried on a machine running the repository, but it is *
 Fetch `legislation/manifest.json` for snapshot/version metadata and `legislation/catalog.json` for exact provision paths. The five chapters are 123, 123A, 123C, 123F and 123Q; languages are `en` and `zh-Hant`. For example, `legislation/provisions/cap123/en/s20.json` contains the whole section and its numbered subsections. Read the complete provision, not only a search excerpt, before stating conditions or deadlines.
 
 Full original XML and statutory image assets are under `legislation/raw/`; complete extracted text is under `legislation/text/`. `search/legislation_fts.sqlite3` and `search/legislation_audit.json` are maintained by the official legislation workflow. Compact results live under `search/legislation_topics/`. See `legislation/SOURCES.md` for source attribution, update cadence, CLI usage and limitations.
+
+## Unified retrieval v2 (2026-11-11)
+
+`python scripts/build_search.py search "中文問題或English keywords" --limit 10`
+uses `scripts/retrieval.py`. Results remain a JSON list; PDF records have
+`kind=pdf`, one primary `pdf_page`, separate adjacent `context_pages`, and source
+metadata/cross references. Statutory records have `kind=legislation`, exact
+provision paths, and `pdf_page=null`. No HTTP search endpoint has been deployed.
+
+The CLI and `build_retrieval.py` topic files share this engine. Query expansion
+uses a general bilingual vocabulary, not question IDs, reference answers or QA
+labels. Rankings and earlier-edition warnings do not determine legal applicability.
+Read the original document, later amendments and relevant PNAP before answering.
+
+Fixed-input before/after results and remaining regressions:
+[`search_improvement_v2.md`](search_improvement_v2.md). Do not use document or
+page hits as answer accuracy. The original v1 report is retained.

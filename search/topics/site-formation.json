@@ -1,95 +1,339 @@
 {
-  "query": "\"site formation\" OR \"excavation\"",
+  "query": "site formation submission",
   "results": [
     {
-      "code": "APP-158",
-      "source": "indexed_text/PNAP/APP/APP-158.txt",
-      "pdf_page": 9,
-      "excerpt": "Stages of [Site Formation] Works\n   (Quality supervision of [site formation] works should be provided by the AP/RSE/RGE and his TCPs … "
-    },
-    {
-      "code": "GEO_PUBLICATIONS-799868bb-ep1_2007",
-      "source": "indexed_text/GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-799868bb-ep1_2007.txt",
-      "pdf_page": 145,
-      "excerpt": " … af fect   The material requiring [excavation] should be classiﬁed\n   or be affected by the [site formation] works.            in terms of its engineering … "
-    },
-    {
-      "code": "TGN-909e082c-TGN-1_N",
-      "source": "indexed_text/GEO/TGN/TGN-909e082c-TGN-1_N.txt",
-      "pdf_page": 4,
-      "excerpt": " … ba)\n\n         PNAP APP-28  Requirements for Qualified Supervision of [Site Formation] Works,\n                             [Excavation] Works,  Foundation Works on  Sloping Ground, and\n                         Ground Investigation … "
-    },
-    {
-      "code": "APP-158",
-      "source": "indexed_text/PNAP/APP/APP-158.txt",
-      "pdf_page": 10,
-      "excerpt": "Stages of [Site Formation] Works\n   (Quality supervision of [site formation] works should be provided by the AP/RSE/RGE and his TCPs … "
-    },
-    {
-      "code": "APP-072",
-      "source": "indexed_text/PNAP/APP/APP-072.txt",
+      "code": "ADM-15",
+      "source": "indexed_text/PNAP/ADM/ADM-15.txt",
       "pdf_page": 1,
-      "excerpt": " … If blasting is to be carried out as part of the [site formation], [excavation] or\nfoundation works, a blasting assessment prepared by … "
+      "score": 8.26236,
+      "excerpt": "Practice Note for Authorized Persons,\n Buildings Department     Registered Structural Engineers and      ADM-15\n                           Registered Geotechnical Engineers\n\n\n\n                   Submission of Site Formation Proposals\n\n\n                In order to facilitate and expedite the processing of a site formation\nproposal and also to deline",
+      "title": "Practice Note for Authorized Persons,\n Buildings Department     Registered Structural Engineers and      ADM-15\n                           Registered Geotechnical Engineers\n\n\n\n                   Submission of Site Formation Proposals\n\n\n                In order to facilitate and expedite the processing of a site formation\nproposal and also to delineate clear responsibilities, Buildings Department adopts a\nsystem which provides for the parallel processing of site formation details and structural\ndetails in the proposal.\n\nSplitting of submissions",
+      "cross_references": [
+        "PNAP/APP/APP-141.txt",
+        "PNAP/ADM/ADM-02.txt",
+        "PNAP/ADM/ADM-08.txt",
+        "PNAP/APP/APP-018.txt",
+        "PNAP/APP/APP-137.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "- 2 -\n\n          •   Site  formation works  involving  simple  earth  retaining\n                structures.\n\n          •  Small scale  site formation works such as those for NT\n            exempted houses.\n\n          •  Drainage systems for slopes involving box culverts and/or\n               other drainage structures such as sand traps, catch-pits and\n             stormwater manholes, if no major earth retaining structures\n               are involved.\n\nNumber of plans and supporting information to be submitted\n\n6.         AP/RSE/RGE should make sure enough sets of plans with essential\ninformation  are  submitted  for  the  necessary  consultation  with  the  government\ndepartments and public"
+        }
+      ]
+    },
+    {
+      "code": "APP-079",
+      "source": "indexed_text/PNAP/APP/APP-079.txt",
+      "pdf_page": 1,
+      "score": 8.189458,
+      "excerpt": "Practice Note for Authorized Persons,\n Buildings Department      Registered Structural Engineers and      APP-79\n                            Registered Geotechnical Engineers\n\n\n                              Geoguide 5\n                      Guide to Slope Maintenance\n\n\n             Regular inspections and maintenance are  essential to the continued\n",
+      "title": "Practice Note for Authorized Persons,\n Buildings Department      Registered Structural Engineers and      APP-79\n                            Registered Geotechnical Engineers\n\n\n                              Geoguide 5\n                      Guide to Slope Maintenance\n\n\n             Regular inspections and maintenance are  essential to the continued\nstability of slopes and retaining walls.  The Geoguide 5 – Guide to Slope Maintenance\npublished by the Geotechnical Engineering Office 1 recommends standards of good\npractice for the maintenance of man-made slopes and retaining walls, also man-made\nfeatures (e.g. surface cover and drains) provided to natural hillsides.  The standards\nrecommended should be adopted when specifying maintenance requirements in site\nformation  submissions  in  pursuance  of  regulation  8(1)(bb)(E)  of  the  Building\n(Administration) Regulations.",
+      "cross_references": [
+        "PNAP/APP/APP-147.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "- 2 ­\n\n6.           Under the Minor Works Control System, certain routine maintenance\nworks to slopes and retaining walls are designated as minor works, which may be carried\nout under the simplified requirements as an alternative to obtaining prior approval and\nconsent under the Buildings Ordinance.  Reference can be made to Schedule 1 of the\nBuilding (Minor Works)  Regulation and  Practice Note  for  Authorized  Persons,\nRegistered  Structural Engineers and  Registered Geotechnical Engineers APP-147\nregarding the list of minor works items and the simplified requirements respectively.\n\n\n\n\n\n                                                                   ( YU Tak-cheung )\n                  "
+        }
+      ]
+    },
+    {
+      "code": "APP-056",
+      "source": "indexed_text/PNAP/APP/APP-056.txt",
+      "pdf_page": 2,
+      "score": 7.88887,
+      "excerpt": "-  2   -\n\n        (a)   No retaining walls or terrace walls higher than 1.5m shall be\n               constructed. The combined height of retaining wall and slope\n              constructed shall also not exceed 1.5m.\n\n        (b)    The retaining height to breadth ratio of retaining walls constructed\n                shall not be greater than two.  T",
+      "title": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-56\n\n                                     Practice Note for Authorized Persons\nBuildings Department                                                   147\n                              and Registered Structural Engineers\n\n\n\n                 Exemption Criteria for Site Formation Works\n           associated with Exempted Building Works in the New Territories",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 1,
+          "excerpt": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-56\n\n                                     Practice Note for Authorized Persons\nBuildings Department                                                   147\n                              and Registered Structural Engineers\n\n\n\n                 Exemption Criteria for Site Formation Works\n           associated with Exempted Building Works in the New Territories\n\nGeneral\n\n1.          The Buildings Ordinance (Application to the New Territories) Ordinance,\nCap. 121, makes provisions for the issue of a certificate of exemption from sect"
+        },
+        {
+          "pdf_page": 3,
+          "excerpt": "Appendix A\n\n\nCriteria for Granting Exemption of Site Formation Works\n\n(a)    The maximum gradient across the lot from boundary to boundary is not more than\n      15 degrees.\n\n(b)    The overall gradient of an area bounded by lines 10m outside the lot boundary in\n      any direction is less than 15 degrees.\n\n(c)    There is no slope within the area 10m outside the lot boundary steeper than 30\n       degrees or higher than 1.5m.\n\n(d)    There is no retaining wall or terrace wall either within the lot or within the area 10m\n       outside the lot which is higher than 1.5m.\n\n\nConditions to be Included in the Certificate of Exemption for Site Formation Works\n\n(a)   No retaining walls or terrace w"
+        }
+      ]
     },
     {
       "code": "APP-028",
       "source": "indexed_text/PNAP/APP/APP-028.txt",
       "pdf_page": 1,
-      "excerpt": " … and Registered Structural Engineers\n\n\n\n         Requirements for Qualified Supervision of [Site Formation] Works,\n           [Excavation] Works, Foundation Works on Sloping Ground, and\n             Ground Investigation … "
+      "score": 7.844864,
+      "excerpt": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n Persons, Registered Structural Engineers and Registered Geotechnical Engineers    APP-28\n\n                                     Practice Note for Authorized Persons\n   Buildings Department                                                   83\n                          ",
+      "title": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n Persons, Registered Structural Engineers and Registered Geotechnical Engineers    APP-28\n\n                                     Practice Note for Authorized Persons\n   Buildings Department                                                   83\n                              and Registered Structural Engineers\n\n\n\n         Requirements for Qualified Supervision of Site Formation Works,\n           Excavation Works, Foundation Works on Sloping Ground, and\n             Ground Investigation Works in the Scheduled Areas\n                           Buildings Ordinance Section 17\n\n              Buildings Ordinance Section 17 explicitly empowers the Building Authority\nto require ‘qualified supervision’ of certain building works when giving his approval of\nplans or consent to the commencement of the works.",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "-  2   -\n\n\n              Category (II)   periodic  inspections by  a  senior  qualified  geotechnical\n                              engineer who was responsible for the preparation of the\n                                geotechnical content of the submission\n\n                              This category of qualified supervision is to be imposed for\n                                     sites of high sensitivity (eg excavation sites adjoining old\n                                buildings  with  shallow  foundations).   The  personal\n                                  attention of the qualified supervisor is needed to recognise,\n                                evaluate  and communicate  concerns "
+        }
+      ]
     },
     {
-      "code": "APP-030",
-      "source": "indexed_text/PNAP/APP/APP-030.txt",
+      "code": "TGN-47253160-TGN40",
+      "source": "indexed_text/GEO/TGN/TGN-47253160-TGN40.txt",
+      "pdf_page": 3,
+      "score": 7.235997,
+      "excerpt": "Geotechnical Engineering Office, Civil Engineering and Development Department\n  The Government of the Hong Kong Special Administrative Region\n\n GEO Technical Guidance Note No. 40 (TGN 40)\n  Guidelines on Temporary Drainage Provisions and Precautionary\n  Measures against Severe Rainfall during Site Formation Works and\n  Construction of Reinforced Fi",
+      "title": "Guidelines on Temporary Drainage Provisions and Precautionary Measures against Severe Rainfall during Site Formation Works and Construction of Reinforced Fill Structures",
+      "official_url": "https://www.cedd.gov.hk/filemanager/eng/content_427/TGN40.pdf",
+      "must_read_with": [],
+      "code_basis": null,
+      "catalogue_context": "40 Guidelines on Temporary Drainage Provisions and Precautionary Measures against Severe Rainfall during Site Formation Works and Construction of Reinforced Fill Structures (32KB) 1/2014",
+      "kind": "pdf",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "Geotechnical Engineering Office, Civil Engineering and Development Department\n  The Government of the Hong Kong Special Administrative Region\n\n GEO Technical Guidance Note No. 40 (TGN 40)\n  Guidelines on Temporary Drainage Provisions and Precautionary\n  Measures against Severe Rainfall during Site Formation Works and\n  Construction of Reinforced Fill Structures\n\n     Issue No.: 1         Revision: -          Date: 27.1.2014      Page: 2 of 4\n\n3.5          Geotechnical Engineering Office (2002). Guide to Reinforced Fill Structure and Slope\n            Design (Geoguide 6). Geotechnical Engineering Office, Hong Kong, 236 p.\n\n3.6          Geotechnical Engineering Office (2013). GEO Technical Gui"
+        },
+        {
+          "pdf_page": 4,
+          "excerpt": "Geotechnical Engineering Office, Civil Engineering and Development Department\n  The Government of the Hong Kong Special Administrative Region\n\n GEO Technical Guidance Note No. 40 (TGN 40)\n  Guidelines on Temporary Drainage Provisions and Precautionary\n  Measures against Severe Rainfall during Site Formation Works and\n  Construction of Reinforced Fill Structures\n\n     Issue No.: 1         Revision: -          Date: 27.1.2014      Page: 4 of 4\n\n5.5        Upon completion of construction of a reinforced fill structure, its associated drainage\n               layers are generally sealed  off.  However, under  special circumstances, such as\n             excavation works in the vicinity of a reinfo"
+        }
+      ]
+    },
+    {
+      "code": "APP-015",
+      "source": "indexed_text/PNAP/APP/APP-015.txt",
       "pdf_page": 2,
-      "excerpt": " … The envelope of all bulk [excavation] and the BEL should be shown on the\n[site formation] plans in accordance with regulation 8 … "
+      "score": 7.224011,
+      "excerpt": "- 2 -\n\n5.          Where there is reason to believe that the placed fill may be loose, the BA\nwill  arrange  for  field  checks  to  be  carried  out,  initially by GCO  probes, and\nsupplemented by observations of fill materials in trial pits if an appreciable cobble and\nboulder content in the fill is suspected.  The AP/RGE will be required to arra",
+      "title": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Re gistered Structural Engineers and Registered Geotechnical Engineers   APP-15\n\n                                 Practice Note for Authorised Persons Buildings Department                                                 55\n                          and Registered Structural Engineers\n\n\n                                           Site Formation\n                      Temporary or Permanent Filling Work\n\n               Authorized persons (APs), registered  structural engineers (RSEs) and\n registered geotechnical engineers (RGEs) should be aware of the potentially disastrous\n consequences of flowslides of loosely placed, unretained earth fill. Regrettably, examples\n of inadequate compaction are still found on or adjacent to construction sites.",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 1,
+          "excerpt": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Re gistered Structural Engineers and Registered Geotechnical Engineers   APP-15\n\n                                 Practice Note for Authorised Persons Buildings Department                                                 55\n                          and Registered Structural Engineers\n\n\n                                           Site Formation\n                      Temporary or Permanent Filling Work\n\n               Authorized persons (APs), registered  structural engineers (RSEs) and\n registered geotechnical engineers (RGEs) should be aware of the potentially disastrous\n consequences of flowslides of "
+        },
+        {
+          "pdf_page": 3,
+          "excerpt": "Appendix A\n                                                      (PNAP 55)\n                                                             (APP-15)\n\n                             Standards for Filling Work\n\n\n(1)    The in situ field dry densities of compacted materials forming the peripheral\n       portion of an earth  fill slope shall be not less than 95% of the maximum dry\n        density described in item (2) below.\n\n(2)    The maximum dry density and optimum moisture contents shall be determined in\n       accordance with the standard given in Geospec 3 – Model Specification for Soil\n       Testing. Each soil type shall be tested when first used and thereafter at the same\n       time as every"
+        }
+      ]
     },
     {
-      "code": "APSEC-DF-2023-05-05",
-      "source": "indexed_text/APSEC/2023/APSEC-DF-2023-05-05.txt",
-      "pdf_page": 14,
-      "excerpt": " … the proposed amendments to the [excavation] and lateral support \nworks would qualify for deferring submission. \n \n \n \n \n \n \n \n \n \n \n \n \n[Site Formation] Works \nFor items (i) and … "
-    },
-    {
-      "code": "APP-096",
-      "source": "indexed_text/PNAP/APP/APP-096.txt",
-      "pdf_page": 7,
-      "excerpt": " … Registered Specialist Contractor in the [Site Formation] Works Category (RSC(SF))\n\n6.            All [site formation] works are specialized works of the [site] … "
-    },
-    {
-      "code": "APSEC-DF-2018-01-19",
-      "source": "indexed_text/APSEC/2018/APSEC-DF-2018-01-19.txt",
-      "pdf_page": 20,
-      "excerpt": " … Registered Specialist Contractor in the [Site Formation] Works Category (RSC(SF)) \n6. \n \nAll [site formation] works are specialized works of the [site] … "
-    },
-    {
-      "code": "APP-128",
-      "source": "indexed_text/PNAP/APP/APP-128.txt",
+      "code": "TGN-e624a0e0-TGN-49_1B",
+      "source": "indexed_text/GEO/TGN/TGN-e624a0e0-TGN-49_1B.txt",
       "pdf_page": 2,
-      "excerpt": " … Guidance on\n[site formation] filling work is provided in PNAP 55.\n\n10.       [Excavation] and lateral support plans often contain significant geotechnical\ncontents … "
+      "score": 6.273474,
+      "excerpt": "Geotechnical Engineering Office, Civil Engineering and Development Department\n  The Government of the Hong Kong Special Administrative Region\n\n GEO Technical Guidance Note No. 49 (TGN 49)\n  Supplementary Guidelines on Precautionary Measures for Mitigating\n  the Risks of Excessive Ground Loss and Sinkhole Formation Associated\n  with Deep Excavations",
+      "title": "Supplementary Guidelines on Precautionary Measures for Mitigating the Risks of Excessive Ground Loss and Sinkhole Formation Associated with Deep Excavations",
+      "official_url": "https://www.cedd.gov.hk/filemanager/eng/content_427/TGN 49_1B.pdf",
+      "must_read_with": [],
+      "code_basis": null,
+      "catalogue_context": "49 Supplementary Guidelines on Precautionary Measures for Mitigating the Risks of Excessive Ground Loss and Sinkhole Formation Associated with Deep Excavations (2,598KB) 2/2024",
+      "kind": "pdf",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "context_pages": [
+        {
+          "pdf_page": 1,
+          "excerpt": "Geotechnical Engineering Office, Civil Engineering and Development Department\n  The Government of the Hong Kong Special Administrative Region\n\n GEO Technical Guidance Note No. 49 (TGN 49)\n  Supplementary Guidelines on Precautionary Measures for Mitigating\n  the Risks of Excessive Ground Loss and Sinkhole Formation Associated\n  with Deep Excavations\n\n\n    Issue No.: 1          Revision: B         Date: 5.2.2024       Page: 1 of 23\n\n\n1.       SCOPE\n\n1.1          This Technical Guidance Note (TGN) provides supplementary technical guidelines on the\n             precautionary measures for mitigating the risks of excessive ground loss and formation of\n             sinkholes associated with deep ex"
+        },
+        {
+          "pdf_page": 3,
+          "excerpt": "Geotechnical Engineering Office, Civil Engineering and Development Department\n  The Government of the Hong Kong Special Administrative Region\n\n GEO Technical Guidance Note No. 49 (TGN 49)\n  Supplementary Guidelines on Precautionary Measures for Mitigating\n  the Risks of Excessive Ground Loss and Sinkhole Formation Associated\n  with Deep Excavations\n\n\n    Issue No.: 1          Revision: B         Date: 5.2.2024       Page: 3 of 23\n\n\n5.1.2            It was observed that difficult site conditions were identified in almost all the cases under\n              the review.  These sites are often located in urban areas with congested utilities and\n              services under the adjacent ground, and"
+        }
+      ]
     },
     {
-      "code": "APP-024",
-      "source": "indexed_text/PNAP/APP/APP-024.txt",
-      "pdf_page": 7,
-      "excerpt": "(b)   [Site formation], foundation and [excavation] works\n\n          Where [site formation], foundation or [excavation] works, etc. are proposed\n            above, beneath or adjacent to … "
+      "code": "APP-049",
+      "source": "indexed_text/PNAP/APP/APP-049.txt",
+      "pdf_page": 2,
+      "score": 6.169583,
+      "excerpt": "- 2 -\n5.          The RSC(GIFW) are responsible for the carrying out of GIFW mainly for\ncompiling:\n\n        (a)   GI report for submission to the Building Authority (BA) in support\n              of a plan for approval under the BO, including but not limited to,\n              foundation plans,  site formation plans, excavation and  lateral\n         ",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-49\n                          Registered Geotechnical Engineers\n\n\n                     Site Investigation and Ground Investigation",
+      "cross_references": [
+        "PNAP/APP/APP-096.txt",
+        "PNAP/APP/APP-064.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 1,
+          "excerpt": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-49\n                          Registered Geotechnical Engineers\n\n\n                     Site Investigation and Ground Investigation\n\nIntroduction\n\n               “Site investigation” (地盤勘測) is defined in section 2 of the Building\n(Construction) Regulation as “investigation of the physical characteristics of the site and\nincludes documentary studies, site surveys and ground investigation”.  These works are\ncarried out to obtain adequate geotechnical and other relevant data for the design and\nconstruction of building works such as foundation and site formation works.   This\npractice not"
+        },
+        {
+          "pdf_page": 3,
+          "excerpt": "- 3 -\n\n       (b)   The AGS  data  should  be  in American  Standard Code  for\n              Information Interchange (ASCII) textual format and should not be\n                 split into parts.\n\n9.       A similar practice note has been issued to registered contractors.\n\n\n\n\n\n                                                                ( HO Chun-hung )\n                                                Building Authority\n\n\n\n\n\nRef. : BD/GR/1-150/10\n\nThis PNAP is previously known as PNAP 132\nFirst issue    January 1990\nLast revision  June 2021\nThis revision September 2025 (AD/NB2) (Paragraph 3 amended and paragraph 8 added)"
+        }
+      ]
     },
     {
-      "code": "GEO_PUBLICATIONS-799868bb-ep1_2007",
-      "source": "indexed_text/GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-799868bb-ep1_2007.txt",
-      "pdf_page": 150,
-      "excerpt": " … Potential modiﬁcations to the groundwater regime\n                                                  caused by the construction of a lar ge [site formation]\n                                                        include:\n                                                   • Lowering of the base groundwater … "
+      "code": "APP-021",
+      "source": "indexed_text/PNAP/APP/APP-021.txt",
+      "pdf_page": 12,
+      "score": 6.124696,
+      "excerpt": "Appendix B\n                                                        (PNAP APP-21)\n\n\nPART 2  - DOCUMENTS SUBMITTED\n                                                               Yes    No    N/A\n 2.1 Form BA8 (Application for Consent to the Commencement and Carrying\n     Out of Demolition Works)\n 2.2 Form BA20 (Notice of Technically Competent Person(",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-21\n                         Registered Geotechnical Engineers\n\n\n                             Demolition Works\n                       Measures for Public Safety\n\n\n           To ensure public safety, the control of demolition works is governed by\nthe Buildings Ordinance (BO), Building (Administration) Regulations (B(A)R) and\nBuilding (Demolition Works) Regulations (B(DW)R), which impose requirements for:\n\n        (a)     application for approval of plans for demolition works;\n\n        (b)    application for consent to commence the works;\n\n        (c)     site safety supervision;\n\n        (d)    appointment  of  technically  competent  person  to  supervise\n              demolition works;\n\n        (e)    appointment  of  operator  of powered  mechanical  plant  or\n             equipment; and\n\n         (f)     certification of completion of works.",
+      "cross_references": [
+        "PNAP/APP/APP-023.txt",
+        "PNAP/APP/APP-147.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 11,
+          "excerpt": "Appendix B\n                                                        (PNAP APP-21)\n\n\n  Checklist for Application for the First Consent to Commencement of Demolition Works\n                     (This checklist is not required to be submitted to BD)\n\nPART 1  - SITE PREPARATION WORKS\n                                                               Yes    No    N/A\n 1.1  Hoarding, covered walkway and catch platforms erected?\n 1.2  Precautionary and  protective measures including  scaffoldings, dust\n      screens and catchfans provided? (Including at the common boundaries of\n      adjoining demolition sites where demolition works will be carried out\n      concurrently.)\n 1.3  Proppings and temporary s"
+        },
+        {
+          "pdf_page": 13,
+          "excerpt": "Appendix C\n                                                  (PNAP APP-21)\n\n\n                   Streamlined Procedures for Carrying out\n            Minor Works (MW) before Demolition of Buildings\n\n\n            The following streamlined procedures for MW to be carried out before\ndemolition of parent building are applicable if the authorized person, registered structural\nengineer and  registered  specialist  contractor 1 (Project Team) responsible  for the\ndemolition of the parent building are also responsible for such MW.\n\nNotification of Commencement\n\n2.          Form MW01 for the MW to be carried out before demolition of the parent\nbuilding should be submitted not less than 7 days prior to "
+        }
+      ]
     },
     {
-      "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
-      "source": "indexed_text/GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
-      "pdf_page": 79,
-      "excerpt": " … 83 lists the requirements for three classes of\nqualified supervision of [site formation] and related works. Supervision by\na full time resident … "
+      "code": "APP-115",
+      "source": "indexed_text/PNAP/APP/APP-115.txt",
+      "pdf_page": 2,
+      "score": 5.863667,
+      "excerpt": "- 2 -\n\n\n\n3.              Sites  where  requirements  for  performance  review  will  likely  be\nimposed, in addition to sites in Area Numbers 1, 2, and 4 of the Scheduled Areas, are\ngrouped in the following three categories:\n\n          (i)     Geological conditions need to be verified during construction\n\n             This applies  to developments ",
+      "title": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Re gistered Structural Engineers and Registered Geotechnical Engineers  APP-115\n\n                               Practice Note for Authorized Persons    Buildings Department                                             246\n                         and Registered Structural Engineers\n\n\n\n                          Performance Review -\n         Item 6(g)(ii) in Column B, Section 17(1) of the Buildings Ordinance\n\n\nBackground\n\n             There  is an inherent difficulty in forecasting the precise subsurface\nconditions from site investigation conducted before the carrying out of geotechnical\nworks.  Regular review and verification of the design assumptions are generally\nrequired  for  geotechnical works.   In  certain  areas where  the geology and  the\nsubsurface  conditions  are complex,  it  will be  necessary  to  further  require  the\nsubmission of a properly documented performance review to ensure that the conditions\nencountered during and after works are not materially different from those assumed in\nthe design.  Also, in recent years, unconventional engineering schemes have become\nmore common in private developments.  These unprecedented designs need to be\nclosely supervised and monitored during construction.  Therefore, there is a need for\na review  to be  carried out during  the course of  the construction  to  verify the\ngeotechnical design assumption and to monitor the performance of the completed\nworks for certain cases.  Against this background, item 6(g) in Column B of Section\n17(1) of the Buildings Ordinance (BO) requires a performance review in respect of\ncertain works outside the scheduled areas.\n\nImplementation",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 1,
+          "excerpt": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Re gistered Structural Engineers and Registered Geotechnical Engineers  APP-115\n\n                               Practice Note for Authorized Persons    Buildings Department                                             246\n                         and Registered Structural Engineers\n\n\n\n                          Performance Review -\n         Item 6(g)(ii) in Column B, Section 17(1) of the Buildings Ordinance\n\n\nBackground\n\n             There  is an inherent difficulty in forecasting the precise subsurface\nconditions from site investigation conducted before the carrying out of geotechnical\nworks.  Regular "
+        },
+        {
+          "pdf_page": 3,
+          "excerpt": "- 3 -\n\n\n\n\n\n                                                             ( H W CHEUNG )\n                                               Building Authority\n\n\n\n\n\nRef. : BD GP/BORD/A/41\n    BD GP/BORD/75\n\nFirst issue  September 2000\nThis revision  December 2005 (AD/Sup, DH(I)/CEDD)  (Paras.1, 2 & 3 amended,\npara.4 deleted)\n\nIndex under : Performance Review"
+        }
+      ]
     },
     {
-      "code": "GEO_PUBLICATIONS-9215f259-ep1_90",
-      "source": "indexed_text/GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
-      "pdf_page": 78,
-      "excerpt": " … The following\nPractice Notes are relevant to [excavation] submissions :\n\n(a) PNAP : 74 - Dewatering in Foundation and Basement\n[Excavation] Works.\n\n(b) PNAP : 78 … "
+      "code": "APP-025",
+      "source": "indexed_text/PNAP/APP/APP-025.txt",
+      "pdf_page": 2,
+      "score": 5.856925,
+      "excerpt": "- 2  -\n\n               (v)  where special geological conditions exist, such as previous\n                     landslides, debris flows, threatening boulders and potential\n                      rockfalls.\n\n         (b)  A&A works not resulting in a new building where the proposed\n            works may have  significant impact on  existing geotechnica",
+      "title": "Practice Note for Authorized Persons,\n Buildings Department       Registered Structural Engineers and      APP-25\n                            Registered Geotechnical Engineers\n\n\n                Requirements for a Geotechnical Assessment\n                    at General Building Plan Submission Stage\n          Regulation 8(1)(ba) of Building (Administration) Regulations\n\n              Regulation  8(1)(ba)  of  the  Building  (Administration)  Regulations\nempowers the Building Authority to require a geotechnical assessment of the adequacy\nof a site for proposed building work at general building plan submission stage.  This\nprovision will assist authorized persons to identify at an early stage any fundamental\ngeotechnical constraints that could arise on certain sites and ensure that the geotechnical\nfeasibility of the proposed building works is adequately assessed and reflected in the\ngeneral building plans.\n\nCriteria for Submission of Geotechnical Assessment",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 1,
+          "excerpt": "Practice Note for Authorized Persons,\n Buildings Department       Registered Structural Engineers and      APP-25\n                            Registered Geotechnical Engineers\n\n\n                Requirements for a Geotechnical Assessment\n                    at General Building Plan Submission Stage\n          Regulation 8(1)(ba) of Building (Administration) Regulations\n\n              Regulation  8(1)(ba)  of  the  Building  (Administration)  Regulations\nempowers the Building Authority to require a geotechnical assessment of the adequacy\nof a site for proposed building work at general building plan submission stage.  This\nprovision will assist authorized persons to identify at an early stage an"
+        },
+        {
+          "pdf_page": 3,
+          "excerpt": "- 3  -\n\nRefusal of Plans\n\n4.         Any general building plan submission meeting the criteria stipulated in\nparagraph 2 above but not accompanied by a geotechnical assessment may be rejected\nunder section 16(1)(a) of the Buildings Ordinance.\n\n\n\n\n\n                                                                          ( HUI Siu-wai )\n                                                      Building Authority\n\n\n\n\nRef. : BD GR/1-150/10\n\nThis PNAP is previously known as PNAP 78\nFirst issue April 1981\nLast revision October 1991\nThis revision April 2015 (AD/NB1) (Para. 2 amended)"
+        }
+      ]
+    },
+    {
+      "code": "APP-055",
+      "source": "indexed_text/PNAP/APP/APP-055.txt",
+      "pdf_page": 2,
+      "score": 5.544636,
+      "excerpt": "- 2 -\n\n7.           For certain development proposals such as non-profit making schools,\nhospitals, and similar community buildings, exemption from payment of fees would\ngenerally be favourably considered. A Form BA16 should be submitted to apply for\nexemption, stating the special circumstances surrounding the proposal together with\ndocumentary sup",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and        APP-55\n                           Registered Geotechnical Engineers\n\n\n            Procedure for Payment of Fees on Submission of Plans\n           Regulation 42 of the Building (Administration) Regulations\n\n\n             For the purposes of regulations 29 and 33 of the Building (Administration)\nRegulations (B(A)R), the fees as set out in regulation 42 of the B(A)R are payable on the\nsubmission of plans under the Buildings Ordinance (BO). All resubmissions of plans are\nfree of charge.",
+      "cross_references": [
+        "PNAP/ADM/ADM-02.txt",
+        "PNAP/ADM/ADM-05.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 1,
+          "excerpt": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and        APP-55\n                           Registered Geotechnical Engineers\n\n\n            Procedure for Payment of Fees on Submission of Plans\n           Regulation 42 of the Building (Administration) Regulations\n\n\n             For the purposes of regulations 29 and 33 of the Building (Administration)\nRegulations (B(A)R), the fees as set out in regulation 42 of the B(A)R are payable on the\nsubmission of plans under the Buildings Ordinance (BO). All resubmissions of plans are\nfree of charge.\n\n2.           For new  buildings, which  include both permanent and temporary\nbuildings, fees payable for"
+        },
+        {
+          "pdf_page": 3,
+          "excerpt": "- 3 -\n\n          (i)    major changes which would require it to be examined under\n           new or amended legislation or a new draft or approved Outline\n             Zoning Plan.\n\n10.            In cases of doubt, please consult the relevant Chief Building Surveyor of\nthe New Buildings Division 1 who would provide an answer within seven days.  It should\nalso be noted that a new Form BA5 is legally required to be included with every\nsubmission of a major revision.\n\n\"Localized\" Major Revision\n\n11.         Where the major revision is \"localized\", the fee charges may be based on\nthe \"localized\" GFA, i.e. per podium, or per affected floors of the podium, on the premise\nthat part of a building i"
+        }
+      ]
+    },
+    {
+      "code": "ADV-034",
+      "source": "indexed_text/PNAP/ADV/ADV-034.txt",
+      "pdf_page": 3,
+      "score": 5.540108,
+      "excerpt": "Appendix A\n                                                        (PNAP ADV-34)\n\n          Examples of Application of Building Information Modelling (BIM)\n                          to Facilitate Processing Plan Submissions\n\n     Types of Plan              Building Information to be Illustrated by BIM1\n      Submissions                           BI",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        ADV-34\n                          Registered Geotechnical Engineers\n\n\n                    Building Information Modelling (BIM)\n\n\n            The use of Building Information Modelling (BIM) is a relatively new and\ninnovative approach to building design and construction.  The Buildings Department\n(BD) encourages authorized persons (AP), registered structural engineers (RSE) and\nregistered geotechnical engineers (RGE) to consider adopting BIM in their building\nprojects under the Buildings Ordinance (BO).  This practice note provides general\nguidelines on using BIM  to prepare  statutory plan submissions  to  facilitate plan\nprocessing by BD.\n\nBIM Submissions",
+      "cross_references": [
+        "PNAP/ADM/ADM-19.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "- 2 -\n\nUsing BIM to Prepare Statutory Plan Submissions\n\n6.         When BIM is used to prepare statutory plan submissions, the information\ncontained in the BIM  files should be identical to the information shown on the\nprescribed plans. Post-manual editing to the drawings generated from the models of the\nBIM files for statutory plan submissions should be minimised.\n\n7.           While BD will process the approval of plans under the BO based on the\ninformation presented on the prescribed plans in paper format or 2-dimensional portable\ndocument format, the information contained in the BIM files will be used for checking\nagainst the contents of the plans to facilitate scrutiny of the plans in a"
+        },
+        {
+          "pdf_page": 4,
+          "excerpt": "Types of Plan              Building Information to be Illustrated by BIM1\n     Submissions                          BIM                   Real-time Simulation\n                   arrangement of transfer structures\n                         and illustration of load path;\n                  basement structures supporting\n                            adjoining ground and/or existing\n                            geotechnical features;\n                   assembly sequence, structural\n                          arrangement and/or connection of\n                             façade/glass wall/curtain\n                             wall/cladding works, etc;\n                   compatibility between differe"
+        }
+      ]
+    },
+    {
+      "code": "ADM-17",
+      "source": "indexed_text/PNAP/ADM/ADM-17.txt",
+      "pdf_page": 6,
+      "score": 5.538593,
+      "excerpt": "Appendix A\n                                                 (PNAP ADM-17)\n\n\n           Implementation of the Electronic Submission Hub (ESH)\n\nStage 1\n\n1.          In the first stage of ESH, the types of plans and related documents that can be\nsubmitted via ESH cover structural plan submissions for building works above ground\nnot requiring cross-dep",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and       ADM-17\n                          Registered Geotechnical Engineers\n\n\n           Submission of Plans and Documents in Electronic Format",
+      "cross_references": [
+        "PNAP/APP/APP-060.txt",
+        "PNAP/ADM/ADM-10.txt",
+        "PNAP/ADM/ADM-19.txt",
+        "PNAP/ADV/ADV-034.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 5,
+          "excerpt": "- 5 -\n\n21.        When granting such modification under regulation 20(1) of the B(A)R, a\ncondition  will be imposed  to  require  the submission  of Form BA10  via ESH.\nAP/RSE/RGE/registered contractors are reminded of regulation 20(2) and (3) of the\nB(A)R regarding notification to the BA of the appointment of technically competent\npersons, provision of related information and a supervision plan not less than 7 days\nbefore commencement of works.\n\nFuture Enhancement\n\n22.       BD will keep in view feedback received from the use of the above systems\nand continue to enhance their functions and usability in light of experience.\n\n\n\n\n\n                                                             ( "
+        },
+        {
+          "pdf_page": 7,
+          "excerpt": "Appendix B\n                                                 (PNAP ADM-17)\n\n                 Requirements of Plans and Documents\n            Submitted via the Electronic Submission Hub (ESH)\n\n1.        Plans  and  documents  submitted  via ESH  should  meet  the  following\nrequirements:\n\n     (a)   Prescribed plans:\n\n             (i)     the file should be in Portable Document Format (PDF) without\n                  security restrictions;\n\n             (ii)    one file should only contain one drawing with a file name not\n                exceeding 50 alphanumeric characters;\n\n              (iii)   each file size should not be larger than 25 MB;\n\n           (iv)   each file should be signed with"
+        }
+      ]
+    },
+    {
+      "code": "APP-157",
+      "source": "indexed_text/PNAP/APP/APP-157.txt",
+      "pdf_page": 94,
+      "score": 5.538097,
+      "excerpt": "Table 3\n\n             (a) The Equivalent Certificate acquired in the top-up training course\n                      organized by VTC or CITA for TCP T3 to T1\n\n       Topping-up Training Courses to be       Certificates  Relevant    Grades of\n                   completed               Awarded    Working   TCP for\n                                      ",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-157\n                          Registered Geotechnical Engineers\n\n\n                Code of Practice for Site Supervision 2009\n\n\n            The Buildings Department (BD) has set up a Technical Committee (TC)\nto, among others, collect and consider the views and feedback from the building industry\narising from the use of the Code of Practice for Site Supervision 2009 (Supervision Code).\nTaking into account the advice of the TC, amendments were made and promulgated\nthrough circular  letters between 2015 and 2021 which were incorporated into the\nSupervision Code (2021 Edition).   Further amendments to the Supervision Code\n(2021 Edition) at Appendices A and B have been promulgated, and the Supervision Code\n(2024 Edition) incorporating all the amendments has been uploaded to BD website\nwww.bd.gov.hk:\n\n        (a)    Appendix A – December 2023\n        (b)    Appendix B – August 2024\n\nTemporary Works Providing Support to Tower Cranes",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 93,
+          "excerpt": "academic qualifications as specified in the Technical Memorandum but\nwould like to continue their current role to supervise minor works only, if\nthey have relevant prior experience of not less than 5 years, they would be\neligible to attend the “Technically Competent Person T1 (Minor Works)\nTraining Course” offered by the HKIVE or the CICTA and upon acquiring\nthe “TCP T1 (Minor Works)  Certificate”  will be accepted  to possess\nequivalent qualifications required for a TCP T1 for supervision of minor\nworks only on a permanent basis.  Any such person may be appointed as\nTCP of grade T1 for supervision of minor works only in accordance with\npart (b) of Table 3 (with Notes) and Table 4 below.\n\n\n\n"
+        },
+        {
+          "pdf_page": 95,
+          "excerpt": "5       If a TCP T3 wishes to take up duties of any of the T2 specialist works mentioned in\n         Note 4, he must also complete the training module corresponding to the specialist\n         works and obtain the Equivalent Certificate (2).\n\n     6    5 years relevant working experience must have been gained within the previous 8\n          years and at least 1 year must be local site experience.  For GIFW, relevant\n          experience shall be confined to GI works only.\n\n\n\n                                 Table 4\n (a) Eligibility of site supervisory personnel as TCP T3 to    (b) Eligibility of site\n   T1, with Equivalent Certificate in top-up training     supervisory personnel as\n          "
+        }
+      ]
     }
-  ]
+  ],
+  "note": "Ranked evidence only. Read source, scope and amendments; XML has no PDF page."
 }

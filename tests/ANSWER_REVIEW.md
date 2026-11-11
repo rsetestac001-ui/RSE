@@ -31,3 +31,10 @@ python scripts/build_answer_review_report.py
 依據實跑結果，優先改善中文用語／數值語境處理、獨立法例索引整合、同一長文件多頁佔位及鄰近段落補讀。需保留本批原結果，在獨立的新問題上評估改善，避免只為這100題硬編碼答案或文件編號。
 
 逐題結果見[`../search/answer_review_v1.md`](../search/answer_review_v1.md)；機器結果在`../search/answer_retrieval_v1.json`，官方副本比對在`../search/answer_official_sources_v1.json`。
+
+## 搜尋v2更新
+
+新搜尋結果寫入`search/answer_retrieval_v2.json`，不覆寫v1。舊版每頁佔一位，
+新版每份PDF一個主要頁並混合法例條文；相鄰頁覆蓋另計。固定輸入比較、
+所有主要位置退步及12條補充測試見`search/search_improvement_v2.md`。
+9個回歸測試可用`python -m unittest discover -s scripts -p 'test_*.py' -v`重跑。

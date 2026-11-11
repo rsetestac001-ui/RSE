@@ -1,0 +1,1066 @@
+{
+  "method": "12 supplemental document-retrieval examples authored after the engine change, including GEO/wind/concrete/steel. Not independent answer evaluation; do not tune on these results. Exact source match in top 10 results; old returns pages, new returns diverse documents/provisions.",
+  "baseline_commit": "d5ae0737a5eccd45dd08ac6247d8e7878d215ccc",
+  "engine_sha256": "ec191d06e95ce3774472e33c012baa5f55ed1ad6ebf6a99d92fbf3d48e9c093f",
+  "baseline_hits": 8,
+  "improved_hits": 12,
+  "cases": 12,
+  "results": [
+    {
+      "id": "H01",
+      "query": "指定地區鑽探要 approval 同 consent",
+      "expected_source": "PNAP/ADM/ADM-16.txt",
+      "baseline_hit": true,
+      "improved_hit": true,
+      "baseline": [
+        {
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 56
+        },
+        {
+          "source": "PNAP/ADM/ADM-16.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "PNAP/APP/APP-030.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "source": "PNAP/APP/APP-018.txt",
+          "pdf_page": 14
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 319
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 39
+        },
+        {
+          "source": "PNAP/APP/APP-024.txt",
+          "pdf_page": 3
+        },
+        {
+          "source": "APSEC/2019/APSEC-DF-2019-01-18.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "PNAP/APP/APP-141.txt",
+          "pdf_page": 3
+        }
+      ],
+      "improved": [
+        {
+          "source": "PNAP/ADM/ADM-16.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "PNAP/APP/APP-028.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "PNAP/APP/APP-115.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "PNAP/APP/APP-030.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "PNAP/APP/APP-024.txt",
+          "pdf_page": 3
+        },
+        {
+          "source": "PNAP/APP/APP-061.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 54
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 37
+        },
+        {
+          "source": "legislation/provisions/cap123/en/s16.json",
+          "pdf_page": null
+        },
+        {
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 56
+        }
+      ]
+    },
+    {
+      "id": "H02",
+      "query": "我想搵 retaining wall 用嘅 Geoguide 1",
+      "expected_source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+      "baseline_hit": true,
+      "improved_hit": true,
+      "baseline": [
+        {
+          "source": "PNAP/APP/APP-054.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-b3c176cc-Amendment_No_GG6_01_2022.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 13
+        },
+        {
+          "source": "PNAP/APP/APP-063.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 14
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 4
+        },
+        {
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 86
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 20
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 17
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9fcf2c53-eg5_2023.11.txt",
+          "pdf_page": 87
+        }
+      ],
+      "improved": [
+        {
+          "source": "PNAP/APP/APP-063.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "PNAP/APP/APP-079.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 13
+        },
+        {
+          "source": "PNAP/APP/APP-054.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1d6227c8-ep1_2009.txt",
+          "pdf_page": 79
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
+          "pdf_page": 14
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-9689efc0-eg1_198209.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "PNAP/ADV/ADV-008.txt",
+          "pdf_page": 8
+        },
+        {
+          "source": "PNAP/ADV/ADV-023.txt",
+          "pdf_page": 3
+        },
+        {
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 86
+        }
+      ]
+    },
+    {
+      "id": "H03",
+      "query": "風荷載 2019 規範",
+      "expected_source": "BD_CODES/wind/WindEffects2019e.txt",
+      "baseline_hit": false,
+      "improved_hit": true,
+      "baseline": [
+        {
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 72
+        },
+        {
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 71
+        },
+        {
+          "source": "PNAP/APP/APP-139.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "APSEC/2019/APSEC-DF-2019-08-23.txt",
+          "pdf_page": 12
+        },
+        {
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 13
+        },
+        {
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 66
+        },
+        {
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 67
+        },
+        {
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 49
+        },
+        {
+          "source": "APSEC/2019/APSEC-DF-2019-11-22.txt",
+          "pdf_page": 9
+        }
+      ],
+      "improved": [
+        {
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 5
+        },
+        {
+          "source": "HKIE/HKIE-wind-2019.txt",
+          "pdf_page": 6
+        },
+        {
+          "source": "HKIE/HKIE-wind-2004.txt",
+          "pdf_page": 43
+        },
+        {
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+          "pdf_page": 5
+        },
+        {
+          "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e_Amend2023e.txt",
+          "pdf_page": 3
+        },
+        {
+          "source": "PNAP/APP/APP-139.txt",
+          "pdf_page": 11
+        },
+        {
+          "source": "BD_CODES/wind/WindEffects2019e_Amend2023e.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "PNAP/APP/APP-037.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "legislation/provisions/cap123Q/en/s10.json",
+          "pdf_page": null
+        },
+        {
+          "source": "legislation/provisions/cap123Q/en/s6.json",
+          "pdf_page": null
+        }
+      ]
+    },
+    {
+      "id": "H04",
+      "query": "concrete 2013 2020 code",
+      "expected_source": "BD_CODES/concrete/CoP_SUC2013e.txt",
+      "baseline_hit": true,
+      "improved_hit": true,
+      "baseline": [
+        {
+          "source": "PNAP/APP/APP-142.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "BD_CODES/concrete/CoP_SUC2013e.txt",
+          "pdf_page": 3
+        },
+        {
+          "source": "BD_CODES/concrete/CoP_SUC2013e.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "BD_CODES/concrete/CoP_SUC2013e_amendment202306.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "BD_CODES/concrete/CoP_SUC2013e_amendment202202.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "BD_CODES/concrete/CoP_SUC2013e_amendment202404.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "PNAP/APP/APP-142.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "PNAP/APP/APP-142.txt",
+          "pdf_page": 12
+        },
+        {
+          "source": "PNAP/APP/APP-142.txt",
+          "pdf_page": 16
+        },
+        {
+          "source": "PNAP/APP/APP-053.txt",
+          "pdf_page": 4
+        }
+      ],
+      "improved": [
+        {
+          "source": "BD_CODES/concrete/CoP_SUC2013e.txt",
+          "pdf_page": 15
+        },
+        {
+          "source": "PNAP/APP/APP-174.txt",
+          "pdf_page": 3
+        },
+        {
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 25
+        },
+        {
+          "source": "HKIE/HKIE-concrete-2004.txt",
+          "pdf_page": 27
+        },
+        {
+          "source": "PNAP/APP/APP-142.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "BD_CODES/concrete/CoP_SUC2013e_amendment202306.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "BD_CODES/concrete/CoP_SUC2013e_amendment202202.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "BD_CODES/concrete/CoP_SUC2013e_amendment202404.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "PNAP/APP/APP-083.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "HKIE/HKIE-precast-2003.txt",
+          "pdf_page": 10
+        }
+      ]
+    },
+    {
+      "id": "H05",
+      "query": "steel 2011 2023 code",
+      "expected_source": "BD_CODES/steel/SUOS2011.txt",
+      "baseline_hit": true,
+      "improved_hit": true,
+      "baseline": [
+        {
+          "source": "BD_CODES/steel/SUOS2011.txt",
+          "pdf_page": 3
+        },
+        {
+          "source": "PNAP/APP/APP-053.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "PNAP/APP/APP-168.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "BD_CODES/steel/SUOS2011.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "APSEC/2023/APSEC-DF-2023-08-04.txt",
+          "pdf_page": 16
+        },
+        {
+          "source": "BD_CODES/steel/SUOS2011e_Amend202604.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "PNAP/APP/APP-168.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "APSEC/2023/APSEC-DF-2023-02-10.txt",
+          "pdf_page": 9
+        },
+        {
+          "source": "PNAP/APP/APP-053.txt",
+          "pdf_page": 4
+        },
+        {
+          "source": "APSEC/2024/APSEC-DF-2024-05-03.txt",
+          "pdf_page": 4
+        }
+      ],
+      "improved": [
+        {
+          "source": "BD_CODES/steel/SUOS2011.txt",
+          "pdf_page": 3
+        },
+        {
+          "source": "BD_CODES/steel/EMSUOS2011e.txt",
+          "pdf_page": 27
+        },
+        {
+          "source": "HKIE/HKIE-steel-2011.txt",
+          "pdf_page": 8
+        },
+        {
+          "source": "PNAP/APP/APP-168.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "BD_CODES/steel/SUOS2011e_Amend202604.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "PNAP/APP/APP-045.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "PNAP/APP/APP-169.txt",
+          "pdf_page": 3
+        },
+        {
+          "source": "PNAP/ADV/ADV-015.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "BD_CODES/concrete/CoP_SUC2013e.txt",
+          "pdf_page": 210
+        },
+        {
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 37
+        }
+      ]
+    },
+    {
+      "id": "H06",
+      "query": "dead imposed loads 2011 code",
+      "expected_source": "BD_CODES/dead-imposed-loads/DIL2011e.txt",
+      "baseline_hit": true,
+      "improved_hit": true,
+      "baseline": [
+        {
+          "source": "PNAP/ADM/ADM-23.txt",
+          "pdf_page": 16
+        },
+        {
+          "source": "BD_CODES/dead-imposed-loads/DIL2011e.txt",
+          "pdf_page": 3
+        },
+        {
+          "source": "BD_CODES/dead-imposed-loads/DIL2011e.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "PNAP/APP/APP-053.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 22
+        },
+        {
+          "source": "HKIE/HKIE-steel-2011.txt",
+          "pdf_page": 14
+        },
+        {
+          "source": "APSEC/2021/APSEC-DF-2021-11-12.txt",
+          "pdf_page": 5
+        },
+        {
+          "source": "HKIE/HKIE-steel-2011.txt",
+          "pdf_page": 13
+        },
+        {
+          "source": "PNAP/ADM/ADM-23.txt",
+          "pdf_page": 12
+        },
+        {
+          "source": "BD_CODES/dead-imposed-loads/DIL2011e.txt",
+          "pdf_page": 4
+        }
+      ],
+      "improved": [
+        {
+          "source": "BD_CODES/dead-imposed-loads/DIL2011e.txt",
+          "pdf_page": 3
+        },
+        {
+          "source": "BD_CODES/concrete/CoP_SUC2013e.txt",
+          "pdf_page": 23
+        },
+        {
+          "source": "BD_CODES/steel/SUOS2011.txt",
+          "pdf_page": 47
+        },
+        {
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 34
+        },
+        {
+          "source": "BD_CODES/wind/WindEffects2019e.txt",
+          "pdf_page": 13
+        },
+        {
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 22
+        },
+        {
+          "source": "HKIE/HKIE-concrete-2004.txt",
+          "pdf_page": 25
+        },
+        {
+          "source": "HKIE/HKIE-steel-2011.txt",
+          "pdf_page": 14
+        },
+        {
+          "source": "PNAP/APP/APP-174.txt",
+          "pdf_page": 7
+        },
+        {
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 49
+        }
+      ]
+    },
+    {
+      "id": "H07",
+      "query": "地盤勘測 Geoguide 2",
+      "expected_source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+      "baseline_hit": true,
+      "improved_hit": true,
+      "baseline": [
+        {
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 3
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
+          "pdf_page": 20
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 19
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 17
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 25
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 27
+        },
+        {
+          "source": "PNAP/APP/APP-030.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 28
+        }
+      ],
+      "improved": [
+        {
+          "source": "PNAP/APP/APP-049.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 19
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
+          "pdf_page": 20
+        },
+        {
+          "source": "PNAP/APP/APP-025.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "GEO/TGN/TGN-47253160-TGN40.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "PNAP/APP/APP-028.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "PNAP/APP/APP-115.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 49
+        },
+        {
+          "source": "legislation/provisions/cap123Q/en/s17.json",
+          "pdf_page": null
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-a8217871-eg4_20180102.txt",
+          "pdf_page": 40
+        }
+      ]
+    },
+    {
+      "id": "H08",
+      "query": "Deep Excavation Design Construction 2023",
+      "expected_source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+      "baseline_hit": true,
+      "improved_hit": true,
+      "baseline": [
+        {
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "GEO/TGN/TGN-e624a0e0-TGN-49_1B.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 139
+        },
+        {
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 137
+        },
+        {
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 129
+        },
+        {
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 132
+        },
+        {
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 15
+        },
+        {
+          "source": "GEO/TGN/TGN-128719a2-TGN-54.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 143
+        }
+      ],
+      "improved": [
+        {
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-1145bf9c-ep1_2023.txt",
+          "pdf_page": 137
+        },
+        {
+          "source": "GEO/TGN/TGN-e624a0e0-TGN-49_1B.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.txt",
+          "pdf_page": 82
+        },
+        {
+          "source": "PNAP/APP/APP-057.txt",
+          "pdf_page": 4
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-bcf11b2f-eg7_2023.11.21.txt",
+          "pdf_page": 18
+        },
+        {
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 252
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 21
+        },
+        {
+          "source": "PNAP/ADM/ADM-13.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 85
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-8f0263d7-eg1_20200601.txt",
+          "pdf_page": 109
+        }
+      ]
+    },
+    {
+      "id": "H09",
+      "query": "地盤平整 part A part B",
+      "expected_source": "PNAP/ADM/ADM-15.txt",
+      "baseline_hit": false,
+      "improved_hit": true,
+      "baseline": [
+        {
+          "source": "PNAP/APP/APP-053.txt",
+          "pdf_page": 10
+        },
+        {
+          "source": "PNAP/APP/APP-053.txt",
+          "pdf_page": 5
+        },
+        {
+          "source": "PNAP/APP/APP-053.txt",
+          "pdf_page": 9
+        },
+        {
+          "source": "PNAP/APP/APP-016.txt",
+          "pdf_page": 7
+        },
+        {
+          "source": "PNAP/APP/APP-155.txt",
+          "pdf_page": 6
+        },
+        {
+          "source": "PNAP/ADV/ADV-028.txt",
+          "pdf_page": 6
+        },
+        {
+          "source": "PNAP/APP/APP-053.txt",
+          "pdf_page": 8
+        },
+        {
+          "source": "PNAP/ADV/ADV-028.txt",
+          "pdf_page": 9
+        },
+        {
+          "source": "PNAP/ADV/ADV-028.txt",
+          "pdf_page": 7
+        },
+        {
+          "source": "BD_CODES/steel/SUOS2011.txt",
+          "pdf_page": 406
+        }
+      ],
+      "improved": [
+        {
+          "source": "PNAP/ADM/ADM-15.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "GEO/TGN/TGN-e624a0e0-TGN-49_1B.txt",
+          "pdf_page": 22
+        },
+        {
+          "source": "PNAP/APP/APP-021.txt",
+          "pdf_page": 12
+        },
+        {
+          "source": "PNAP/APP/APP-056.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "PNAP/APP/APP-028.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "GEO/TGN/TGN-47253160-TGN40.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "PNAP/APP/APP-015.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "PNAP/ADV/ADV-004.txt",
+          "pdf_page": 3
+        },
+        {
+          "source": "PNAP/APP/APP-079.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "PNAP/APP/APP-013.txt",
+          "pdf_page": 35
+        }
+      ]
+    },
+    {
+      "id": "H10",
+      "query": "concrete handbook HKIE 2013",
+      "expected_source": "HKIE/HKIE-concrete-2013.txt",
+      "baseline_hit": true,
+      "improved_hit": true,
+      "baseline": [
+        {
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "HKIE/HKIE-precast-2003.txt",
+          "pdf_page": 10
+        },
+        {
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 71
+        },
+        {
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 70
+        },
+        {
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 154
+        },
+        {
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 329
+        },
+        {
+          "source": "HKIE/HKIE-precast-2003.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 155
+        },
+        {
+          "source": "HKIE/HKIE-concrete-2004.txt",
+          "pdf_page": 1
+        }
+      ],
+      "improved": [
+        {
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "HKIE/HKIE-precast-2003.txt",
+          "pdf_page": 2
+        },
+        {
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 329
+        },
+        {
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 267
+        },
+        {
+          "source": "HKIE/HKIE-concrete-2004.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-464b0845-eg7_200803.txt",
+          "pdf_page": 84
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-d7a90171-Amendment_No_GG7_01_2017.txt",
+          "pdf_page": 5
+        },
+        {
+          "source": "GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
+          "pdf_page": 206
+        },
+        {
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-e2f79d67-ep1_2011.txt",
+          "pdf_page": 107
+        },
+        {
+          "source": "HKIE/HKIE-demolition-2004.txt",
+          "pdf_page": 2
+        }
+      ]
+    },
+    {
+      "id": "H11",
+      "query": "停工後 renewal consent",
+      "expected_source": "legislation/provisions/cap123/en/s20.json",
+      "baseline_hit": false,
+      "improved_hit": true,
+      "baseline": [
+        {
+          "source": "PNAP/APP/APP-060.txt",
+          "pdf_page": 4
+        },
+        {
+          "source": "PNAP/APP/APP-050.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "APSEC/2025/APSEC-DF-2025-11-21.txt",
+          "pdf_page": 7
+        },
+        {
+          "source": "PNAP/ADV/ADV-038.txt",
+          "pdf_page": 3
+        },
+        {
+          "source": "PNAP/APP/APP-023.txt",
+          "pdf_page": 6
+        },
+        {
+          "source": "PNAP/ADV/ADV-038.txt",
+          "pdf_page": 10
+        },
+        {
+          "source": "PNAP/APP/APP-148.txt",
+          "pdf_page": 6
+        },
+        {
+          "source": "PNAP/ADM/ADM-06.txt",
+          "pdf_page": 4
+        },
+        {
+          "source": "PNAP/APP/APP-023.txt",
+          "pdf_page": 38
+        },
+        {
+          "source": "PNAP/APP/APP-060.txt",
+          "pdf_page": 6
+        }
+      ],
+      "improved": [
+        {
+          "source": "legislation/provisions/cap123A/en/s34.json",
+          "pdf_page": null
+        },
+        {
+          "source": "legislation/provisions/cap123/en/s20.json",
+          "pdf_page": null
+        },
+        {
+          "source": "PNAP/APP/APP-050.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "PNAP/APP/APP-060.txt",
+          "pdf_page": 4
+        },
+        {
+          "source": "APSEC/2025/APSEC-DF-2025-11-21.txt",
+          "pdf_page": 7
+        },
+        {
+          "source": "PNAP/ADV/ADV-038.txt",
+          "pdf_page": 3
+        },
+        {
+          "source": "PNAP/ADM/ADM-04.txt",
+          "pdf_page": 1
+        },
+        {
+          "source": "PNAP/APP/APP-024.txt",
+          "pdf_page": 3
+        },
+        {
+          "source": "APSEC/2019/APSEC-DF-2019-11-22.txt",
+          "pdf_page": 15
+        },
+        {
+          "source": "APSEC/2022/APSEC-DF-2022-11-25.txt",
+          "pdf_page": 1
+        }
+      ]
+    },
+    {
+      "id": "H12",
+      "query": "Cap.123A reg32",
+      "expected_source": "legislation/provisions/cap123A/en/s32.json",
+      "baseline_hit": false,
+      "improved_hit": true,
+      "baseline": [
+        {
+          "source": "PNAP/APP/APP-126.txt",
+          "pdf_page": 34
+        },
+        {
+          "source": "APSEC/2018/APSEC-DF-2018-01-19.txt",
+          "pdf_page": 25
+        },
+        {
+          "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
+          "pdf_page": 272
+        },
+        {
+          "source": "HKIE/HKIE-concrete-2013.txt",
+          "pdf_page": 104
+        },
+        {
+          "source": "BD_CODES/foundations/FoundationCode2017.txt",
+          "pdf_page": 84
+        },
+        {
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 274
+        },
+        {
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 220
+        },
+        {
+          "source": "HKIE/HKIE-foundations-2017.txt",
+          "pdf_page": 273
+        },
+        {
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 219
+        },
+        {
+          "source": "HKIE/HKIE-foundations-2004.txt",
+          "pdf_page": 200
+        }
+      ],
+      "improved": [
+        {
+          "source": "legislation/provisions/cap123A/en/s32.json",
+          "pdf_page": null
+        }
+      ]
+    }
+  ]
+}

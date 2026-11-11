@@ -1,95 +1,294 @@
 {
-  "query": "\"renewal of consent\" OR \"consent\" OR \"validity\"",
+  "query": "consent renewal suspended months",
   "results": [
     {
-      "code": "APP-060",
-      "source": "indexed_text/PNAP/APP/APP-060.txt",
-      "pdf_page": 4,
-      "excerpt": " … BO s14(1)(b)                    \n           to the Commencement of Building   & B(A)R 31\n        Works\n BA9    Application for [Renewal of] … "
+      "code": "Cap.123A s34",
+      "chapter": "123A",
+      "provision": "s34",
+      "heading": "Consent to the resumption of suspended work",
+      "source": "legislation/provisions/cap123A/en/s34.json",
+      "version_date": "2024-06-30",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123A?xpid=ID_1438402644524_001",
+      "excerpt": "34.\nConsent to the resumption of suspended work\nWhere under the provisions of section 20 of the Ordinance the Building Authority renews his consent for the commencement of any building works or street works he shall endorse a note of such renewal on the notice of consent relating to the building works or street works.\n(L.N. 347 of 1993)",
+      "score": 5.25,
+      "pdf_page": null,
+      "kind": "legislation",
+      "page_note": "XML has no PDF page number"
     },
     {
       "code": "APP-050",
       "source": "indexed_text/PNAP/APP/APP-050.txt",
       "pdf_page": 1,
-      "excerpt": " … Form BD107, otherwise an application on Form BA9 for [renewal of consent] has to be made.\nOnce erected, a temporary building may … "
+      "score": 4.560296,
+      "excerpt": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-50\n\n                                     Practice Note for Authorized Persons\nBuildings Department                                                   133\n                            ",
+      "title": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-50\n\n                                     Practice Note for Authorized Persons\nBuildings Department                                                   133\n                              and Registered Structural Engineers\n\n\n              Temporary Buildings - Building (Planning) Regulations 50-52\n\n             Within  the  provisions  of  Building  (Planning)  Regulations  50(1)(a)(i) and\n50(1)(a)(ii), temporary buildings fall within one or both of the following categories :\n\n        (a)     buildings required for a temporary purpose only; and\n\n        (b)     buildings constructed of short-lived materials.\n\nALL provisions of the Buildings Ordinance (Cap. 123) and subsidiary legislation apply to\nthem.  Thus, as far as procedures are concerned, they are subject to approval and consent,\nsupervision by an authorized person (AP) and/or a registered structural engineer (RSE),\nconstruction by a registered contractor, certification of completion and the issue of a temporary\noccupation permit.",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "-  2  -\n\n4.          As the application on Form BA17 encompasses both an application for approval\nof plans and an application for consent to commence works, the statutory time limits for\nprocessing both applications are regarded as running concurrently.  In other words, the time\nlimit for processing a Form BA17 application is either 60 days or 30 days, depending on\nwhether it is a first submission or a resubmission.\n\n5.         Upon completion, a temporary building requires a temporary occupation permit\n(i.e. Form BD105) before it may be occupied.  Application should be made on Form BA12.\nThe  conditions  in  the Form BD107  as  to  the maximum number  of  persons  to  be\naccommodated, the r"
+        }
+      ]
     },
     {
-      "code": "APP-097",
-      "source": "indexed_text/PNAP/APP/APP-097.txt",
-      "pdf_page": 4,
-      "excerpt": " … If the plans can be approved, approval and [consent]\n                          will be given at the same time with the required\n                        [consent] notice in … "
+      "code": "Cap.123 s20",
+      "chapter": "123",
+      "provision": "s20",
+      "heading": "Resumption of work suspended",
+      "source": "legislation/provisions/cap123/en/s20.json",
+      "version_date": "2026-03-01",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402641903_002",
+      "excerpt": "20.\nResumption of work suspended\n(1)\nWhere any building works or street works for the commencement and carrying out of which the consent of the Building Authority has been obtained are not commenced within 3 months thereof, or if commenced are suspended for such period, such consent shall be deemed to be revoked.\n(2)\nThe Building Authority may, upon application being made in the specified form, renew such consent and by order in writing impose such conditions as in his opinion are made necessary by such delay in commencement or by such suspension.\n(Amended 68 of 1993 s. 11)\n(Replaced 44 of 1959 s. 6)",
+      "score": 4.5,
+      "pdf_page": null,
+      "kind": "legislation",
+      "page_note": "XML has no PDF page number"
     },
     {
-      "code": "ADM-02",
-      "source": "indexed_text/PNAP/ADM/ADM-02.txt",
-      "pdf_page": 32,
-      "excerpt": " … [Validity]    Issue Date\n     HK         (1)  Building (Administration) Regulation 33(1) to permit\n XXX/2006(MOD)      exemption from obtaining prior approval and [consent] … "
+      "code": "Cap.123 s8C",
+      "chapter": "123",
+      "provision": "s8C",
+      "heading": "Renewal of registration as a contractor",
+      "source": "legislation/provisions/cap123/en/s8C.json",
+      "version_date": "2026-03-01",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402641451_001",
+      "excerpt": "8C.\nRenewal of registration as a contractor\n(1)\nA contractor may apply to the Building Authority for the renewal of his registration—\n(a)\nif his name is on any one of the registers.\n(Replaced 15 of 2004 s. 11)\n(b)\n(Repealed 15 of 2004 s. 11)\n(2)\nAn application for renewal of registration must—\n(a)\nbe in the specified form;\n(b)\nbe accompanied by a declaration in the specified form, the information and the documentary proof that the Building Authority may reasonably require to be satisfied that the applicant is suitable to continue to be registered;\n(c)\nbe received by the Building Authority not earlier than 4 months and not later than 28 days prior to the date of the expiry of the relevant registration; and\n(Amended 15 of 2004 s. 11)\n(d)\n(Repealed 15 of 2004 s. 11)\n(e)\nbe accompanied by the prescribed renewal fee.\n(3)\nThe registration of a contractor will continue to be in force if he makes an application for renewal within the time limit and pays the renewal fee until his application fo",
+      "score": 3.25,
+      "pdf_page": null,
+      "kind": "legislation",
+      "page_note": "XML has no PDF page number"
     },
     {
-      "code": "APSEC-DF-2023-11-17",
-      "source": "indexed_text/APSEC/2023/APSEC-DF-2023-11-17.txt",
-      "pdf_page": 22,
-      "excerpt": " … Often, the aforementioned test reports have a \nperiod of [validity] and in fact there are report references listed in the CDB with … "
+      "code": "APP-023",
+      "source": "indexed_text/PNAP/APP/APP-023.txt",
+      "pdf_page": 6,
+      "score": 2.995017,
+      "excerpt": "- 6 -\n\nValidity Period and Renewal of Hoarding Permit\n\n22.          Hoarding permits for demolition works will normally be issued for six\nmonths only. Hoarding permits for general building works will normally be issued for\nthree years conditional upon the submission of annual safety certificate (Appendix F)\ncertifying that the hoardings/covered wal",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-23\n                          Registered Geotechnical Engineers\n\n\n                 Hoardings, Covered Walkways and Gantries\n             (including Temporary Access for Construction Vehicles)\n                  Part IX of Building (Planning) Regulations\n\n\n              Pursuant to regulation 66 of the Building (Planning) Regulations (B(P)R),\nhoardings/covered walkways/gantries shall be erected prior to the commencement of\nbuilding works in accordance with the permit issued under regulation 65 of B(P)R\n(hoarding permit), and shall be maintained in good repair throughout the duration of the\npermit to ensure public safety. Application under regulation 64 of the B(P)R for a permit\nto erect hoardings/covered walkways/gantries should be accompanied by six sets1 of\nplans showing the hoardings/covered walkways/gantries 2 , including details of any\nproposed temporary vehicular access and post holes, existing traffic signs and traffic\nprovisions (e.g. bus lanes, taxi ranks, bus stops and pedestrian crossings), existing\nplanters and trees, as well as other relevant information. Any traffic sign or street light\nlikely to be obscured or required to be resited must be declared.  If public transport\nfacilities or pedestrian crossings are affected or carriageway width is reduced, this must\nalso be declared. Failure to declare may delay the issue of a hoarding permit.",
+      "cross_references": [
+        "PNAP/ADV/ADV-013.txt",
+        "PNAP/APP/APP-144.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 5,
+          "excerpt": "- 5 -\n\nTemporary Suspension of On-Street Public Parking Spaces\n\n18.         Where suspension of on-street public parking spaces is necessary, an\napplication should be made to the Commissioner for Transport in accordance with the\nNotes for Guidance attached at Annex 2 to Appendix A.\n\nSelf-certification for Hoarding Permit Application\n\n19.         To promote self-discipline and to facilitate the development progress, the\nBuilding Authority (BA) will complete the processing of an application for a hoarding\npermit within 30 days of receipt of such application provided that the following criteria\nare met  with  certification by  AP/registered  structural  engineer  (RSE)/registered\ngeotechnical e"
+        },
+        {
+          "pdf_page": 7,
+          "excerpt": "- 7 -\n\nSelf-certification  for Minor Amendments  to  Hoardings/Covered  Walkways/\nGantries\n\n26.         Minor amendments  to  the  permitted  hoardings/covered  walkways/\ngantries may be carried out without prior agreement of the BA if the following criteria\nare met with certification by AP/RSE/RGE, as the case may be:\n\n      (a)     HyD’s and TD’s requirements specified in Appendix A are\n             complied with;\n\n      (b)      the original TIA, if any, is still valid;\n\n      (c)      the  position  of  gantry/temporary  access  for  construction\n              vehicles is not changed or complies with TD’s requirements\n               specified in Appendix A if the position is changed;\n\n  "
+        }
+      ]
     },
     {
-      "code": "ADV-038",
-      "source": "indexed_text/PNAP/ADV/ADV-038.txt",
+      "code": "ADM-06",
+      "source": "indexed_text/PNAP/ADM/ADM-06.txt",
+      "pdf_page": 2,
+      "score": 2.946782,
+      "excerpt": "- 2 -\n\n\n\n\n                (g)   interpretation of results; and\n\n                (h)  examples which are sufficient to illustrate the operation\n                    of every part of the program at all representative input\n                    data values and verified by the RSE or the RGE, as\n                   appropriate to the type of computer prog",
+      "title": "Practice Note for Authorized Persons,Buildings Department                                     ADM-6\n                               Registered Structural Engineers and\n                               Registered Geotechnical Engineers\n\n\n\n                       Computer Programs for Use\n                         in Structural and Geotechnical Design\n\n\n          An authorized person (AP), a registered structural engineer (RSE) or a\nregistered geotechnical engineer (RGE) may use computer programs  to produce\ncalculations  to support  his design or  to produce designs for submissions  to the\nBuilding Authority (BA).  Where he intends to do so, he should ensure that the\nprogram from which such calculations or designs are produced is acceptable to the BA\nbefore submitting plans for approval under the Buildings Ordinance.\n\nPrior Acceptance of Computer Program",
+      "cross_references": [
+        "PNAP/ADM/ADM-08.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 1,
+          "excerpt": "Practice Note for Authorized Persons,Buildings Department                                     ADM-6\n                               Registered Structural Engineers and\n                               Registered Geotechnical Engineers\n\n\n\n                       Computer Programs for Use\n                         in Structural and Geotechnical Design\n\n\n          An authorized person (AP), a registered structural engineer (RSE) or a\nregistered geotechnical engineer (RGE) may use computer programs  to produce\ncalculations  to support  his design or  to produce designs for submissions  to the\nBuilding Authority (BA).  Where he intends to do so, he should ensure that the\nprogram from which such calcul"
+        },
+        {
+          "pdf_page": 3,
+          "excerpt": "- 3 -\n\n\n\n\n10.            Lists  of  currently  accepted  structural  and  geotechnical  computer\nprograms, and program limitations are available for inspection at the Receipt and\nDispatch  Counter  at  the  office  of New  Buildings  Divisions  of  the  Buildings\nDepartment on 7/F, Cityplaza 3, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong or\nthrough the website of the Buildings Department (www.bd.gov.hk)\n\n\n\n\n\n                                                                       ( HUI Siu-wai )\n                                                     Building Authority\n\n\n\n\n\nRef.: BD GR/1-150/42\n\nThis PNAP is previously known as PNAP-79\nFirst issue      December 1981\nLast revision    December 2005"
+        }
+      ]
+    },
+    {
+      "code": "APP-007",
+      "source": "indexed_text/PNAP/APP/APP-007.txt",
       "pdf_page": 3,
-      "excerpt": " … The pre-acceptance of the IBMT should not be construed as an exemption\nfrom obtaining prior approval and [consent] from the Building … "
+      "score": 2.905672,
+      "excerpt": "- 3 -\n\n\n6.          The function of the RC is to assist the BA in considering applications for\ninclusion in the relevant register. The RC will examine the qualifications and experience of\nthe applicants and conduct professional interviews with the applicants.\n\nProfessional Interviews\n\n7.          The scope of professional interviews for AP, RSE, RG",
+      "title": "Practice Note for Authorized Persons,\n Buildings Department        Registered Structural Engineers and      APP-7\n                             Registered Geotechnical Engineers\n\n\n\n                Application for Registration as Authorized Persons,\n        Registered Structural Engineers, Registered Geotechnical Engineers\n                       and Registered Inspectors\n\n\n            Under section 3 of the Buildings Ordinance (BO), the Building Authority\n(BA) shall keep an authorized persons’ (APs’) register, a structural engineers’ (SEs’)\nregister, a geotechnical engineers’ (GEs’) register and an inspectors’ (Insps’) register. This\npractice note sets out the registration requirements for authorized persons (AP), registered\nstructural  engineers (RSE),  registered  geotechnical  engineers (RGE) and  registered\ninspectors (RI).\n\nRequirements for Registration as AP/RSE/RGE/RI",
+      "cross_references": [
+        "PNAP/ADV/ADV-002.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "- 2 -\n\n\n                (c)  A person shall not be included in the GEs’ register unless\n                  he is an RPE in the geotechnical engineering discipline;\n                  and\n\n                (d)   In addition the person should have, for a continuous period\n                    of 1 year within the 3 years preceding the date of his\n                      application, had such practical experience gained in Hong\n               Kong as the RC considers appropriate.\n\n4.          The qualifications prescribed under B(A)R 3 for registration as RI are as\nfollows:\n\n                (a)  A person must not be included in the Inspectors’ register\n                    unless he  is an AP, RSE, RA"
+        },
+        {
+          "pdf_page": 4,
+          "excerpt": "Appendix A\n                                                    (PNAP APP-7)\n\n\n              Professional Interviews for Registration as AP, RSE, RGE and RI\n\n\n1.           Under section 3(5) of the BO, the BA shall establish 4 panels with sufficient\nmembers from whom he is to appoint APRC, SERC, GERC and IRC.\n\n2.            For an APRC, at least one member of the RC at a meeting hearing an\napplication for inclusion in a register must be on the same list in the APs’ register as that on\nwhich the applicant wishes to be included;\n\n3.           For a SERC, at least one member of the RC at a meeting hearing an\napplication for inclusion must be a RSE;\n\n4.           For a GERC, at least one member o"
+        }
+      ]
     },
     {
       "code": "APP-001",
       "source": "indexed_text/PNAP/APP/APP-001.txt",
       "pdf_page": 1,
-      "excerpt": " … 337\n\n\n[Validity] of Approved Plans\n\n            Approved plans forming the basis of an Exclusion Order under the Landlord &\nTenant (Consolidation) Ordinance are normally … "
+      "score": 2.86355,
+      "excerpt": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers          APP-1\n\n                                     Practice Note for Authorized Persons\n   Buildings Department                                                     11\n                    ",
+      "title": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers          APP-1\n\n                                     Practice Note for Authorized Persons\n   Buildings Department                                                     11\n                              and Registered Structural Engineers\n\n\n\n                 Landlord and Tenant (Consolidation) Ordinance, Cap. 7\n            Demolished Buildings (Re-development of Sites) Ordinance, Cap. 337\n\n\nValidity of Approved Plans\n\n            Approved plans forming the basis of an Exclusion Order under the Landlord &\nTenant (Consolidation) Ordinance are normally excluded by Buildings Ordinance section 16(3A)\nfrom the application of Buildings Ordinance section 16(3)(d).  Consent applied for after more\nthan two years of approval will be given if it is still practical for the work to be completed within\nthe Re-development Order period.\n\nMaterial Variation",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "-  2  -\n\n5.           Examples of circumstances which may justify penalty-free extensions are :\n\n        (a)     inability  to obtain vacant possession,  subject  to the  applicant\n              having  commenced   legal  proceedings  and  pursuing  such\n              proceedings with due diligence;\n\n        (b)     inability to obtain entry to adjacent property to construct adequate\n              shoring or other precautionary works required; and\n\n        (c)     inability to obtain consent to commence demolition works for\n               other reasons beyond the control of the applicant.\n\n\n\n\n\n                                                         (Helen C P Lai YU)\n                       "
+        }
+      ]
     },
     {
-      "code": "APP-023",
-      "source": "indexed_text/PNAP/APP/APP-023.txt",
-      "pdf_page": 5,
-      "excerpt": " … AP/RSE should note that [consent] for building works will be refused if the\nrequired hoardings/covered walkways/gantries proposals have not … "
-    },
-    {
-      "code": "ADM-02",
-      "source": "indexed_text/PNAP/ADM/ADM-02.txt",
-      "pdf_page": 31,
-      "excerpt": "Permit No. &                                         Description                          [Validity]   Issue Date\n    HK         (1)  Building (Planning) Regulation 23(3)(a) to permit the\nXXX/2005(MOD)      following to … "
-    },
-    {
-      "code": "ADM-20",
-      "source": "indexed_text/PNAP/ADM/ADM-20.txt",
-      "pdf_page": 3,
-      "excerpt": " … Date of      [Validity]                                  (City and country)                                                                    Laboratory   Laboratory                   Test  /      Date\n                                                                           Accreditation    / Assessing                Assessment\n                                                               Body      Organisation                Report\n\n BD-D010    Fire Door ABC   ABC … "
-    },
-    {
-      "code": "APP-097",
-      "source": "indexed_text/PNAP/APP/APP-097.txt",
-      "pdf_page": 1,
-      "excerpt": "Practice Note for Authorized Persons,\nBuildings Department    Registered Structural Engineers and          APP-97\n                         Registered Geotechnical Engineers\n\n\n           [Consent] Procedures for Building Works and … "
-    },
-    {
-      "code": "APSEC-DF-2025-05-09",
-      "source": "indexed_text/APSEC/2025/APSEC-DF-2025-05-09.txt",
-      "pdf_page": 16,
-      "excerpt": " … Regarding building products for which the [validity] dates of the test and \nassessment reports available in the CDB had already lapsed, BD … "
-    },
-    {
-      "code": "APSEC-DF-2020-05-29",
-      "source": "indexed_text/APSEC/2020/APSEC-DF-2020-05-29.txt",
+      "code": "APP-060",
+      "source": "indexed_text/PNAP/APP/APP-060.txt",
       "pdf_page": 4,
-      "excerpt": " … Only \n[consent] for basement was given and covered walkway had to be erected \nprior to [consent] application for superstructure works. \n \nSuch requirement … "
+      "score": 2.735364,
+      "excerpt": "Form               Description               Relevant     Available    Available    Available\n No.                                              section of     for online     for online    for online\n                             BO or its    submission   submission   submission\n                                                 regulations     via EFS",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-60\n                          Registered Geotechnical Engineers\n\n\n                        Buildings Ordinance (Cap. 123)\n                                 Specified Forms\n\n\n               In exercise of the powers under section 22(4) of the Buildings Ordinance\n(BO), I have specified the forms listed at Appendix A.",
+      "cross_references": [
+        "PNAP/ADM/ADM-17.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 3,
+          "excerpt": "Appendix A\n                                                                (PNAP APP-60)\n\n                                Buildings Ordinance (Cap. 123)\n                                         Specified Forms\n\nForm               Description               Relevant     Available    Available    Available\n No.                                              section of     for online     for online    for online\n                             BO or its    submission   submission   submission\n                                                 regulations     via EFSS        via        via ESH\n                                                      and    RMWMS\n                                            "
+        },
+        {
+          "pdf_page": 5,
+          "excerpt": "Form               Description               Relevant     Available    Available    Available\n  No.                                              section of     for online     for online    for online\n                              BO or its    submission   submission   submission\n                                                 regulations     via EFSS        via        via ESH\n                                                      and    RMWMS\n                                                          e-Counter\n BA13    Certificate on Completion of      BO s21 &                      \n          Building Works Resulting in a New   B(A)R 25\n          Building and Application for Permit\n       "
+        }
+      ]
     },
     {
-      "code": "APP-097",
-      "source": "indexed_text/PNAP/APP/APP-097.txt",
-      "pdf_page": 3,
-      "excerpt": " … First [Consent] Checklist\n\n9.          To ensure all essential works and procedures have been completed and\nall required documents are submitted prior to … "
+      "code": "APSEC-DF-2025-11-21",
+      "source": "indexed_text/APSEC/2025/APSEC-DF-2025-11-21.txt",
+      "pdf_page": 7,
+      "score": 2.733767,
+      "excerpt": "7 \nADF 4/2025 on 21 November 2025 \nJune 2026 (i.e. 2 years from 30 June 2024) which is less than 2 years from \nthe date of renewal.  \n \nWould BD please clarify whether the PNAP APP-151 (August 2024 \nversion) is applicable to GBP Renewal Submission in view of the \namendments involved are mostly very minor in nature. \n \n2024, there was a change in ci",
+      "title": "1 \nADF 4/2025 on 21 November 2025 \nSummary of Items Discussed in APSEC Discussion Forum (ADF) 4/2025 on 21 November 2025 \n \n \nItems proposed by Convenors for Discussion \nSummary of Discussion and BD’s Response \n \nItems raised by HKIA ",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 6,
+          "excerpt": "6 \nADF 4/2025 on 21 November 2025 \n \n \n \nItems raised by AAP \n6. \nPNAP APP-151 (August 2024 version) \n \nAccording to paragraph 10 of PNAP APP-151 (August 2024 version), the \npre-requisites for granting GFA concessions are applicable to all new GBP \nor major revision of GBP submitted to the BA for approval on or after 30 \nJune 2024.  \n \nIt is noted building amendment plans recently submitted for the purpose of \napplying for an extension of time prior to the expiry of the Form BD106 \n(GBP Renewal Submission), the new time limit imposed will expire on 29 \n \n \nBD advised that in accordance with Annex 1 of BD’s Circular Letter dated \n31 December 2012, upon receiving an application for an extensio"
+        },
+        {
+          "pdf_page": 8,
+          "excerpt": "8 \nADF 4/2025 on 21 November 2025 \n \nScenario 2 \n \nFor ease of construction, would BD accept the extent of AC platform area \nunder Scenario 1 be modified as illustrated in the below diagram in such a \nway that the entire raised AC platform area becomes larger than 0.8m2 but \nonly the 0.8m2 (the cross-hatched portion) will be GFA exempted, the \nremaining portion is accounted towards the Balcony / UP area."
+        }
+      ]
     },
     {
-      "code": "APSEC-DF-2023-08-04",
-      "source": "indexed_text/APSEC/2023/APSEC-DF-2023-08-04.txt",
+      "code": "ADV-038",
+      "source": "indexed_text/PNAP/ADV/ADV-038.txt",
       "pdf_page": 3,
-      "excerpt": " … The application can either be made after obtaining the first [consent] or \nsimultaneously with the application for the first [consent].  \n \nIn some … "
+      "score": 2.718031,
+      "excerpt": "- 3 -\n\nAdoption of Pre-accepted IBMT in Private Developments\n\n6.          The pre-acceptance of the IBMT should not be construed as an exemption\nfrom obtaining prior approval and consent from the Building Authority under the BO.\nWhen a plan submission involves  the use of pre-accepted IBMT,  it should be\naccompanied with an application for modifica",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        ADV-38\n                         Registered Geotechnical Engineers\n\n\n                Innovative Building Materials and Technologies",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "- 2 -\n\n        (c)     building, drainage or structural plans as appropriate to justify how\n              the relevant standards and requirements under the BO could be met,\n              or otherwise demonstrate the performance of the IBMT being\n              equivalent  or  not  inferior  to  the  relevant  standards  and\n              requirements under the BO; and\n\n        (d)     technical specification of the IBMT, together with the supporting\n            documents   including   manufacturer’s   catalogue,   technical\n             documents,  test or assessment reports prepared by accredited\n                laboratories, quality assurance scheme of the manufacture factory\n             w"
+        },
+        {
+          "pdf_page": 4,
+          "excerpt": "Appendix A\n                                                            (PNAP ADV-38)\n                                                                                           Form\n        申請原則上認可創新建築材料與技術 (IBMT)             IBMT 1\n                Application for In-principle Acceptance of\n                 Innovative Building Materials and Technologies (IBMT)\n\n 呈交表格時須附上圖則及相關的證明文件。\n 請以正楷填寫，並在適當方格內加上『√』號。填寫前，請細閱《注意事項》。\n  • Submit this form with plans and relevant supporting documents accompanied.\n  • Read the “Matters to Note”, complete in BLOCK LETTER and tick the appropriate boxes.\n\n致建築事務監督 To the Building Authority\n\n 甲部  申請詳情\n Part A  Application Particulars\n\n  由申請人填寫\n    To be completed "
+        }
+      ]
+    },
+    {
+      "code": "ADM-04",
+      "source": "indexed_text/PNAP/ADM/ADM-04.txt",
+      "pdf_page": 1,
+      "score": 2.632207,
+      "excerpt": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Re gistered Structural Engineers and Registered Geotechnical Engineers   ADM-4\n\n                                Practice Note for Authorized Persons\n Buildings Department                                                40                          and Register",
+      "title": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Re gistered Structural Engineers and Registered Geotechnical Engineers   ADM-4\n\n                                Practice Note for Authorized Persons\n Buildings Department                                                40                          and Registered Structural Engineers\n\n                                      Priority\n\n\n          On application, the grant of priority status for processing submissions\nfor new buildings will be considered for the following types of project:\n\n        (a)      (i)     Urgently  required  public   utility  and  institutional\n                      buildings.\n\n                    (ii)   Hong Kong Housing Society Projects.\n\n        (b)     Projects on lands owned by the Hong Kong Science and\n             Technology Parks  Corporation  (previously known  as  the\n           Hong Kong Industrial Estates Corporation).\n\n        (c)   Any project submitted for or on behalf of the Urban Renewal\n              Authority by a wholly owned subsidiary company or a joint\n              venture consortium of which the Urban Renewal Authority is\n              a partner.\n\n        (d)     Projects  that  are  likely  to  significantly  contribute  to  the\n             economic growth of Hong Kong.",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "- 2 -\n\n\n\n5.          The grant of priority only applies to matters involving BD and will\nhave no bearing on land transactions.\n\n\n\n\n\n                                                                       ( Marco M H WU )\n                                                       Building Authority\n\n\n\n\n\nRef. : BD GP/CC/10 (II)\n\nFirst issue April 1977\nLast revision June 1991 (GBS/D)\nThis revision March 2005 (AD/NB1)  - General Revision\n\nIndex under : Priority"
+        }
+      ]
+    },
+    {
+      "code": "APP-024",
+      "source": "indexed_text/PNAP/APP/APP-024.txt",
+      "pdf_page": 3,
+      "score": 2.541631,
+      "excerpt": "- 3 -\nCommunication and Announcement Mechanism for Private Construction Works\nwithin Railway Protection Areas\n\n10.         BD, the Electrical and Mechanical Services Department (EMSD) and\nMTRCL have established a communication and announcement mechanism for private\nconstruction sites within railway protection areas.\n\n11.          During  the  const",
+      "title": "Practice Note for Authorized Persons,\n Buildings Department    Registered Structural Engineers and        APP-24\n                          Registered Geotechnical Engineers\n\n\n               Railway Protection under Railways Ordinance,\n Mass Transit Railway (Land Resumption and Related Provisions) Ordinance and\n            Area Number 3 of the Scheduled Areas in Schedule 5\n                             to the Buildings Ordinance\n\n\n           As a result of the merger of the Mass Transit Railway Corporation and the\nKowloon-Canton Railway Corporation (KCRC) on 2 December 2007,  the MTR\nCorporation Limited (MTRCL) becomes the operator of all the railway lines in the\nterritory. The existing railway lines in operation are listed in Appendix A.",
+      "cross_references": [
+        "PNAP/APP/APP-039.txt",
+        "PNAP/ADM/ADM-16.txt",
+        "PNAP/APP/APP-137.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "- 2 -\n5.          The guidelines at Appendices B and C apply to  all building works\n(including ground investigation works and underground drainage works) to be carried out\nin the railway protection areas. Ground investigation works and underground drainage\nworks in Area Number 3 of the scheduled areas are subject to additional control as stated\nin paragraphs 13 and 14 below. While the guidelines are not applicable to the part of the\nlot that lies outside the railway protection areas, authorized persons (AP)/registered\nstructural engineers (RSE)/registered geotechnical engineers (RGE) should ensure that\nbuilding works outside the railway protection areas will not cause any adverse effects or\n"
+        },
+        {
+          "pdf_page": 4,
+          "excerpt": "- 4 -\nMinor Works\n\n16.         Upon  receipt  of  minor  works (MW)  submission  for  notice  of\ncommencement of Class I and Class II MW involving spread footing, excavation or\nunderground drainage works within Area Number 3 of the scheduled areas to be carried\nout under the simplified requirements of the MWCS, BD would forward a copy of the\nMW submission to MTRCL. MTRCL would then convey their comments to the\nprescribed building professionals (PBP)/prescribed registered contractors (PRC) directly.\nPBP/PRC should inform MTRCL and obtain their agreement before commencement of\nthe MW. Section 27 of the RO or section 15 of the MTR(LR&RP)O will be invoked in\ncase the proposed MW would be incompa"
+        }
+      ]
+    },
+    {
+      "code": "APSEC-DF-2019-11-22",
+      "source": "indexed_text/APSEC/2019/APSEC-DF-2019-11-22.txt",
+      "pdf_page": 15,
+      "score": 2.5078,
+      "excerpt": "15 \n17. \nCode of Practice on Design for Safety – External Maintenance 2019 \n \n(i) \nAccording to the Appendix to BD’s Circular Letter dated 19.9.2019, \nMaintenance and Repair Access Plans (M&R Submission) should \nbe submitted for BD’s approval prior to application for \nsuperstructure consent. \n \nWill BD accept the M&R Submission be submitted separat",
+      "title": "1 \nSummary of Items Discussed in 5/2019 APSEC Discussion Forum on 22 November 2019 \n \nItems proposed by Convenors for Discussion \nSummary of Discussion and BD’s Responses \n \nItems raised by HKIA ",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 14,
+          "excerpt": "14 \nand not less than 10m long or the full frontage for site with frontage less \nthan 10m in length” in considering applications for flexibility in \ndetermining site coverage and open space provision. \n \nPlease clarify whether our interpretation of paragraph 3(b) as demonstrated \nin the below 4 cases is correct. \n \nventilation and permeability as well as promoting connectivity and \nwalkability.  In this regard, setback in uniform design with a distinguishable \nspace excluding non-functional pocket space would be favourably \nconsidered for calculation of the required setback area."
+        },
+        {
+          "pdf_page": 16,
+          "excerpt": "16"
+        }
+      ]
+    },
+    {
+      "code": "APSEC-DF-2022-11-25",
+      "source": "indexed_text/APSEC/2022/APSEC-DF-2022-11-25.txt",
+      "pdf_page": 1,
+      "score": 2.502017,
+      "excerpt": "1 \n5/2022 ADF on 25 November 2022 \nSummary of Items Discussed in 5/2022 APSEC Discussion Forum on 25 November 2022 \n \n \nItems proposed by Convenors for Discussion \nSummary of Discussion and BD’s Response \n \nItems raised by HKIA \n1. \nSubmissions of Secondary Building Elements – Metal Ceiling \n \nThe requirements for submission of secondary building e",
+      "title": "1 \n5/2022 ADF on 25 November 2022 \nSummary of Items Discussed in 5/2022 APSEC Discussion Forum on 25 November 2022 \n \n \nItems proposed by Convenors for Discussion \nSummary of Discussion and BD’s Response \n \nItems raised by HKIA ",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "2 \n5/2022 ADF on 25 November 2022 \nsuperstructure consents due to phased piling and superstructure plan \nsubmissions. \n \nWe would like to seek BD’s clarification that the 1st consent granted on or \nbefore 31 August 2021 shall cover the whole development, such that \nrequirement of submission for the erection of supporting frame for \nsuspended AC Plant / mechanical ventilation plant is waived. \n \n3. \nExternal Architectural Features for Screening of External Pipes in \nSingle Family Houses \n \nFurther to the discussion of the captioned in item 6 of ADF 5/2015 held on \n13 November 2015 regarding the effective arrangement for visual \ninspection for external drainage pipes enclosed by architectural "
+        }
+      ]
     }
-  ]
+  ],
+  "note": "Ranked evidence only. Read source, scope and amendments; XML has no PDF page."
 }

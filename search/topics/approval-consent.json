@@ -1,95 +1,316 @@
 {
-  "query": "\"approval and consent\" OR \"consent to commence\" OR \"commencement of works\"",
+  "query": "approval consent commencement",
   "results": [
     {
-      "code": "APSEC-DF-2019-08-23",
-      "source": "indexed_text/APSEC/2019/APSEC-DF-2019-08-23.txt",
+      "code": "APP-162",
+      "source": "indexed_text/PNAP/APP/APP-162.txt",
+      "pdf_page": 2,
+      "score": 8.281378,
+      "excerpt": "- 2 -\n\nBA and any approval and/or consent conditions imposed.  Further guidance on quality\nsupervision is given in Practice Note for Authorized Persons, Registered Structural\nEngineers and Registered Geotechnical Engineers APP-158.\n\nQualified Supervision\n\n3.         As the design of buildings or streets and their construction can be complex,\nit is ",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-162\n                          Registered Geotechnical Engineers\n\n\n      Conditions and Requirements Imposed under the Buildings Ordinance\n                 upon Granting Approval and/or Consent\n\n\n          By virtue of section 17 of the Buildings Ordinance (BO), the Building\nAuthority (BA) may, when approving plan submissions and/or granting consent to the\ncommencement of building works or street works, impose conditions and requirements\nto ensure the standard of workmanship and the quality of materials are satisfactory, and\nto monitor the effect of such works. The conditions and requirements imposed are case\nor task specific.  In general, they embrace quality supervision, qualified supervision,\nquality assurance and control, material testing, instrumentation for monitoring the effect\nof such works, record documentation, etc. These conditions and requirements should be\ncomplied with before applying for consent to the commencement, during the carrying out\nand/or certification of completion of the building works or street works.\n\nQuality Supervision",
+      "cross_references": [
+        "PNAP/APP/APP-158.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 1,
+          "excerpt": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-162\n                          Registered Geotechnical Engineers\n\n\n      Conditions and Requirements Imposed under the Buildings Ordinance\n                 upon Granting Approval and/or Consent\n\n\n          By virtue of section 17 of the Buildings Ordinance (BO), the Building\nAuthority (BA) may, when approving plan submissions and/or granting consent to the\ncommencement of building works or street works, impose conditions and requirements\nto ensure the standard of workmanship and the quality of materials are satisfactory, and\nto monitor the effect of such works. The conditions and requ"
+        },
+        {
+          "pdf_page": 3,
+          "excerpt": "- 3 -\n\nQuality Assurance and Control and Material Testing\n\n6.            Section 3 of the Building (Construction) Regulation stipulates that all\nmaterials used in building works or street works must be of a nature and quality suitable\nfor their intended use or purpose; adequately mixed or prepared; and applied, used or\nfixed so as to perform adequately their intended functions. To ensure that the materials3\nused comply with the said requirements, they must be adequately tested by recognised\ntests. Proper supervision, adequate quality assurance and quality control are necessary\nduring the production and construction processes.\n\nInstrumentation for Monitoring the Effect of Works\n\n7.           "
+        }
+      ]
+    },
+    {
+      "code": "APP-147",
+      "source": "indexed_text/PNAP/APP/APP-147.txt",
       "pdf_page": 1,
-      "excerpt": " … Application for [Consent to Commence] Superstructure Works for GBP \ninvolving Bonus PR/SC for Dedication/Surrender of Land under \nRegulation 22 of … "
+      "score": 8.212833,
+      "excerpt": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and        APP-147\n                          Registered Geotechnical Engineers\n\n\n                     Minor Works Control System\n\n\n          The Minor Works Control System (MWCS) aims to facilitate building\nowners and occupants in carrying out small-scal",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and        APP-147\n                          Registered Geotechnical Engineers\n\n\n                     Minor Works Control System\n\n\n          The Minor Works Control System (MWCS) aims to facilitate building\nowners and occupants in carrying out small-scale building works safely and lawfully\nthrough  simplified  statutory procedures and thereby improve the  quality of such\nbuilding works and building safety in Hong Kong, viz. without the need to obtain prior\napproval of plans and consent to the commencement of such works from the Building\nAuthority (BA).\n\nClassification of Minor Works",
+      "cross_references": [
+        "PNAP/APP/APP-126.txt",
+        "PNAP/APP/APP-155.txt",
+        "PNAP/APP/APP-060.txt",
+        "PNAP/ADM/ADM-14.txt",
+        "PNAP/ADM/ADM-10.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "- 2 -\n\n             Minor works\n                     involved                                       Class I              Class II        Class III\n          Requirements\n          Appointment        Prescribed building\n             (of the appointed       professionals (1) (PBP) to                                                         PRC to prepare and submit the            person)               design and supervise the                                                               plans and documents, to                                works; and                                                               supervise and carry out the                               Prescribed registered "
+        }
+      ]
     },
     {
-      "code": "APP-018",
-      "source": "indexed_text/PNAP/APP/APP-018.txt",
-      "pdf_page": 14,
-      "excerpt": " … procedures for concurrent applications for\n[approval and consent], the application for consent for the [commencement of works] should\nnot be submitted before … "
-    },
-    {
-      "code": "APP-047",
-      "source": "indexed_text/PNAP/APP/APP-047.txt",
+      "code": "APP-028",
+      "source": "indexed_text/PNAP/APP/APP-028.txt",
       "pdf_page": 1,
-      "excerpt": " … under section 16(1)(a) as it is\n              not  a  proposal  for  [approval  and  consent]  prior  to  the\n           [commencement of works].\n\n                                                                                             /(b)....."
+      "score": 8.197763,
+      "excerpt": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n Persons, Registered Structural Engineers and Registered Geotechnical Engineers    APP-28\n\n                                     Practice Note for Authorized Persons\n   Buildings Department                                                   83\n                          ",
+      "title": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n Persons, Registered Structural Engineers and Registered Geotechnical Engineers    APP-28\n\n                                     Practice Note for Authorized Persons\n   Buildings Department                                                   83\n                              and Registered Structural Engineers\n\n\n\n         Requirements for Qualified Supervision of Site Formation Works,\n           Excavation Works, Foundation Works on Sloping Ground, and\n             Ground Investigation Works in the Scheduled Areas\n                           Buildings Ordinance Section 17\n\n              Buildings Ordinance Section 17 explicitly empowers the Building Authority\nto require ‘qualified supervision’ of certain building works when giving his approval of\nplans or consent to the commencement of the works.",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "-  2   -\n\n\n              Category (II)   periodic  inspections by  a  senior  qualified  geotechnical\n                              engineer who was responsible for the preparation of the\n                                geotechnical content of the submission\n\n                              This category of qualified supervision is to be imposed for\n                                     sites of high sensitivity (eg excavation sites adjoining old\n                                buildings  with  shallow  foundations).   The  personal\n                                  attention of the qualified supervisor is needed to recognise,\n                                evaluate  and communicate  concerns "
+        }
+      ]
     },
     {
-      "code": "ADM-19",
-      "source": "indexed_text/PNAP/ADM/ADM-19.txt",
-      "pdf_page": 8,
-      "excerpt": " … the simplified requirements as an alternative\nto obtaining prior [approval and consent] under the BO.  Reference can be made to\nSchedule 1 … "
-    },
-    {
-      "code": "APP-024",
-      "source": "indexed_text/PNAP/APP/APP-024.txt",
-      "pdf_page": 3,
-      "excerpt": " … scheduled areas are not exempted from application for [approval\nand consent to commence] works and are subject to the full provisions of … "
-    },
-    {
-      "code": "GEOGUIDES-a8cb062b-eg2_198709",
-      "source": "indexed_text/GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
-      "pdf_page": 42,
-      "excerpt": " … investigation plan to the Buildings Ordinance Office for [approval\nand consent to commence] the work.\n\nWhere the proposed investigation is in the … "
+      "code": "Cap.123 s14",
+      "chapter": "123",
+      "provision": "s14",
+      "heading": "Approval and consent required for commencement of building works, etc.",
+      "source": "legislation/provisions/cap123/en/s14.json",
+      "version_date": "2026-03-01",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402641732_001",
+      "excerpt": "14.\nApproval and consent required for commencement of building works, etc.\n(1)\nSave as otherwise provided, no person shall commence or carry out any building works or street works without having first obtained from the Building Authority—\n(a)\nhis approval in writing of documents submitted to him in accordance with the regulations; and\n(b)\nhis consent in writing for the commencement of the building works or street works shown in the approved plan.\n(Amended 68 of 1993 s. 6)\n(2)\nSubject to section 28B(4), neither the approval of any plans nor the consent to the commencement of any building works or street works shall be deemed—\n(Amended 41 of 1982 s. 3)\n(a)\nto confer any title to land;\n(b)\nto act as a waiver of any term in any lease or licence; or\n(c)\nto grant any exemption from or to permit any contravention of any of the provisions of this Ordinance or of any other enactment.\n(Replaced 44 of 1959 s. 4)",
+      "score": 8.0,
+      "pdf_page": null,
+      "kind": "legislation",
+      "page_note": "XML has no PDF page number"
     },
     {
       "code": "APP-050",
       "source": "indexed_text/PNAP/APP/APP-050.txt",
       "pdf_page": 1,
-      "excerpt": " … Thus, as far as procedures are concerned, they are subject to [approval and consent],\nsupervision by an authorized person (AP) and/or … "
+      "score": 7.205171,
+      "excerpt": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-50\n\n                                     Practice Note for Authorized Persons\nBuildings Department                                                   133\n                            ",
+      "title": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-50\n\n                                     Practice Note for Authorized Persons\nBuildings Department                                                   133\n                              and Registered Structural Engineers\n\n\n              Temporary Buildings - Building (Planning) Regulations 50-52\n\n             Within  the  provisions  of  Building  (Planning)  Regulations  50(1)(a)(i) and\n50(1)(a)(ii), temporary buildings fall within one or both of the following categories :\n\n        (a)     buildings required for a temporary purpose only; and\n\n        (b)     buildings constructed of short-lived materials.\n\nALL provisions of the Buildings Ordinance (Cap. 123) and subsidiary legislation apply to\nthem.  Thus, as far as procedures are concerned, they are subject to approval and consent,\nsupervision by an authorized person (AP) and/or a registered structural engineer (RSE),\nconstruction by a registered contractor, certification of completion and the issue of a temporary\noccupation permit.",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "-  2  -\n\n4.          As the application on Form BA17 encompasses both an application for approval\nof plans and an application for consent to commence works, the statutory time limits for\nprocessing both applications are regarded as running concurrently.  In other words, the time\nlimit for processing a Form BA17 application is either 60 days or 30 days, depending on\nwhether it is a first submission or a resubmission.\n\n5.         Upon completion, a temporary building requires a temporary occupation permit\n(i.e. Form BD105) before it may be occupied.  Application should be made on Form BA12.\nThe  conditions  in  the Form BD107  as  to  the maximum number  of  persons  to  be\naccommodated, the r"
+        }
+      ]
     },
     {
-      "code": "APSEC-DF-2019-01-18",
-      "source": "indexed_text/APSEC/2019/APSEC-DF-2019-01-18.txt",
-      "pdf_page": 2,
-      "excerpt": " … Referral to other government departments for comments \nwould always be necessary prior to the [commencement of works]. \n \n \nItems raised by HKIE \n3 … "
+      "code": "APP-021",
+      "source": "indexed_text/PNAP/APP/APP-021.txt",
+      "pdf_page": 1,
+      "score": 7.196532,
+      "excerpt": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-21\n                         Registered Geotechnical Engineers\n\n\n                             Demolition Works\n                       Measures for Public Safety\n\n\n           To ensure public safety, the control of demolition works is govern",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-21\n                         Registered Geotechnical Engineers\n\n\n                             Demolition Works\n                       Measures for Public Safety\n\n\n           To ensure public safety, the control of demolition works is governed by\nthe Buildings Ordinance (BO), Building (Administration) Regulations (B(A)R) and\nBuilding (Demolition Works) Regulations (B(DW)R), which impose requirements for:\n\n        (a)     application for approval of plans for demolition works;\n\n        (b)    application for consent to commence the works;\n\n        (c)     site safety supervision;\n\n        (d)    appointment  of  technically  competent  person  to  supervise\n              demolition works;\n\n        (e)    appointment  of  operator  of powered  mechanical  plant  or\n             equipment; and\n\n         (f)     certification of completion of works.",
+      "cross_references": [
+        "PNAP/APP/APP-023.txt",
+        "PNAP/APP/APP-147.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "- 2 -\n\nPrecautionary and Protective Measures\n\n5.            Notwithstanding the need to include the precautionary and protective\nmeasures for the demolition works on the plans submitted for approval, the following\nitems, which at the time of their erection do not affect the structure of any building, may\nbe erected without the consent of the BA:\n\n        (a)     protective screens and safety nets;\n\n        (b)    dust screens of plastic or tarpaulin sheets;\n\n        (c)     scaffolds and intermediate catchfans;\n\n        (d)    hoarding, covered walkway, gantry and catch platforms; and\n\n        (e)    shoring and propping for stabilising buildings under demolition\n              or adjoining b"
+        }
+      ]
+    },
+    {
+      "code": "APP-001",
+      "source": "indexed_text/PNAP/APP/APP-001.txt",
+      "pdf_page": 1,
+      "score": 7.179141,
+      "excerpt": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers          APP-1\n\n                                     Practice Note for Authorized Persons\n   Buildings Department                                                     11\n                    ",
+      "title": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers          APP-1\n\n                                     Practice Note for Authorized Persons\n   Buildings Department                                                     11\n                              and Registered Structural Engineers\n\n\n\n                 Landlord and Tenant (Consolidation) Ordinance, Cap. 7\n            Demolished Buildings (Re-development of Sites) Ordinance, Cap. 337\n\n\nValidity of Approved Plans\n\n            Approved plans forming the basis of an Exclusion Order under the Landlord &\nTenant (Consolidation) Ordinance are normally excluded by Buildings Ordinance section 16(3A)\nfrom the application of Buildings Ordinance section 16(3)(d).  Consent applied for after more\nthan two years of approval will be given if it is still practical for the work to be completed within\nthe Re-development Order period.\n\nMaterial Variation",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "-  2  -\n\n5.           Examples of circumstances which may justify penalty-free extensions are :\n\n        (a)     inability  to obtain vacant possession,  subject  to the  applicant\n              having  commenced   legal  proceedings  and  pursuing  such\n              proceedings with due diligence;\n\n        (b)     inability to obtain entry to adjacent property to construct adequate\n              shoring or other precautionary works required; and\n\n        (c)     inability to obtain consent to commence demolition works for\n               other reasons beyond the control of the applicant.\n\n\n\n\n\n                                                         (Helen C P Lai YU)\n                       "
+        }
+      ]
+    },
+    {
+      "code": "Cap.123 s15",
+      "chapter": "123",
+      "provision": "s15",
+      "heading": "Approval and consent deemed to be given unless refusal notified",
+      "source": "legislation/provisions/cap123/en/s15.json",
+      "version_date": "2026-03-01",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402641763_002",
+      "excerpt": "15.\nApproval and consent deemed to be given unless refusal notified\n(1)\nWhere an application is made in the specified form for the Building Authority to approve plans or to consent to the commencement of building works or street works, he shall be deemed to have given his approval or consent, as the case may be, unless within the period prescribed by the regulations he has notified his refusal to give his approval or consent, as the case may be, in writing setting out the grounds for such refusal, and where one of such grounds is that further particulars and plans are required, he shall specify such plans and particulars.\n(Amended 68 of 1993 s. 7)\n(2)\nThe grounds set out for any refusal to approve plans shall not be treated as being exhaustive, and no such refusal shall be construed as implying any approval of any part of such plans.\n(Added 44 of 1959 s. 4)",
+      "score": 7.0,
+      "pdf_page": null,
+      "kind": "legislation",
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "code": "Cap.123 s16",
+      "chapter": "123",
+      "provision": "s16",
+      "heading": "Grounds on which approval or consent may be refused",
+      "source": "legislation/provisions/cap123/en/s16.json",
+      "version_date": "2026-03-01",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402641778_001",
+      "excerpt": "16.\nGrounds on which approval or consent may be refused\n(1)\nThe Building Authority may refuse to give his approval of any plans of building\nworks where—\n(a)\nthe plans are not such as are prescribed by regulations or are not such as\nhe may have required under this section;\n(b)\nthe plans are not endorsed with or accompanied by a certificate from the\nDirector of Fire Services certifying either—\n(i)\nthat, having regard to the purpose to which the building is intended to\nbe put (which purpose shall be stated in the certificate), no fire service\ninstallation or equipment is necessary in connexion with the building that\nwill result from the carrying out of the building works shown on the plans;\nor\n(ii)\nthat the plans have been examined and are approved by him as showing\nall such fire service installations and equipment as in his opinion, having\nregard to the purpose to which the building is intended to be put (which\npurpose shall be stated in the certificate), comprise the minimum fire\nservic",
+      "score": 7.0,
+      "pdf_page": null,
+      "kind": "legislation",
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "code": "Cap.123 s4A",
+      "chapter": "123",
+      "provision": "s4A",
+      "heading": "Appointment of prescribed building professionals: minor works commenced or carried out without approval and consent",
+      "source": "legislation/provisions/cap123/en/s4A.json",
+      "version_date": "2026-03-01",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402641201_001",
+      "excerpt": "4A.\nAppointment of prescribed building professionals: minor works commenced or carried out without approval and consent\n(1)\nThis section applies to minor works—\n(a)\nthat are commenced or carried out without the approval and consent of the Building Authority under section 14(1); and\n(b)\nin respect of which one or more prescribed building professionals are required to be appointed by the regulations.\n(2)\nIf minor works to which this section applies have been commenced or carried out and the person who arranged for the works to be commenced or carried out has knowingly failed to appoint the prescribed building professional or the prescribed building professionals (as the case may be) required by the regulations to be appointed in respect of the minor works concerned, that person commits an offence.\n(3)\nFor the purposes of subsection (2), a person who has appointed another person to arrange for the commencement or carrying out of minor works is not to be regarded as a person who arranged f",
+      "score": 7.0,
+      "pdf_page": null,
+      "kind": "legislation",
+      "page_note": "XML has no PDF page number"
     },
     {
       "code": "APP-097",
       "source": "indexed_text/PNAP/APP/APP-097.txt",
-      "pdf_page": 4,
-      "excerpt": " … If the plans can be approved, [approval and consent]\n                          will be given at the same time with the required\n                        consent notice in … "
+      "pdf_page": 3,
+      "score": 6.396314,
+      "excerpt": "- 3  -\n\n             •   Street or access road works\n\n             •  Drainage works\n\n             •  Tunnel works\n\n             •  General building works  (i.e., works shown on general\n                  building plans, often synonymous with superstructure\n                works)\n\nNote      :    More detailed description may be added in brackets aft",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department    Registered Structural Engineers and          APP-97\n                         Registered Geotechnical Engineers\n\n\n           Consent Procedures for Building Works and Street Works",
+      "cross_references": [
+        "PNAP/ADV/ADV-012.txt",
+        "PNAP/APP/APP-002.txt",
+        "PNAP/APP/APP-130.txt",
+        "PNAP/APP/APP-150.txt",
+        "PNAP/APP/APP-151.txt",
+        "PNAP/APP/APP-156.txt",
+        "PNAP/ADV/ADV-033.txt",
+        "PNAP/ADM/ADM-19.txt",
+        "PNAP/APP/APP-067.txt",
+        "PNAP/ADM/ADM-21.txt",
+        "PNAP/APP/APP-012.txt",
+        "PNAP/APP/APP-023.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "- 2  -\n\n        (b)    “Type II works” refers to the works for which the BA has\n              given approval and a  first consent, in respect of which an\n            amendment to plans already approved is proposed.   It excludes\n             major  revisions  or  amendment  plans  containing  material\n               deviations to the plans previously approved.\n\n5.           AP, RSE or RGE wishing to take advantage of the fast-track procedures\nshould mark clearly on the lower right-hand corner of his plans the following statement:\n\n           “The works shown on these plans are Type II works\n                 (curtain wall works, for example) in respect of which\n               consent is appli"
+        },
+        {
+          "pdf_page": 4,
+          "excerpt": "- 4  -\n\n              Step 3  :   If the plans can be approved, approval and consent\n                          will be given at the same time with the required\n                        consent notice in respect of the works so approved\n                     and consented to.  The BA expects AP, RSE and\n               RGE to ensure  that the works so approved and\n                       consented  to  are compatible with  all previously\n                      approved plans and that all conditions imposed are\n                      complied with.\n\n              Step 4 :    If the plans can be approved but consent cannot be\n                         given, the plans will be approved and a notificati"
+        }
+      ]
     },
     {
-      "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
-      "source": "indexed_text/GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
-      "pdf_page": 37,
-      "excerpt": " … investigation plan\nto the Buildings Ordinance Office for [approval and consent to commence] the work.\n\n     Where the proposed investigation is in the … "
-    },
-    {
-      "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
-      "source": "indexed_text/GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
-      "pdf_page": 137,
-      "excerpt": " … Pumping test proposals for private developments must be submitted to the\nBuildings Ordinance Office for [approval and consent] prior to the [commencement] … "
-    },
-    {
-      "code": "APP-147",
-      "source": "indexed_text/PNAP/APP/APP-147.txt",
-      "pdf_page": 7,
-      "excerpt": "Documents Required to be Submitted\n\n                     Notice of [Commencement of Works]\n                           (a)  specified form4 ;\n                          (b) photographs;\n                           (c) coloured prescribed plans and details of … "
-    },
-    {
-      "code": "ADV-027",
-      "source": "indexed_text/PNAP/ADV/ADV-027.txt",
+      "code": "ADM-19",
+      "source": "indexed_text/PNAP/ADM/ADM-19.txt",
       "pdf_page": 6,
-      "excerpt": " … Before [commencement of works], Agriculture, Fisheries and Conservation\n         Department (AFCD) should be consulted for the presence of rare species\n          within the works … "
+      "score": 6.203521,
+      "excerpt": "- 6 -\n32.      A practice note covering the above guidelines on minor amendments has\nalso been issued to registered contractors.\n\nConcurrent Applications for Approval and Consent\n\n33.        To streamline the approval process for building works, applications for\napproval of plans and consent for the commencement of the building works specified in\nt",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department    Registered Structural Engineers and       ADM-19\n                         Registered Geotechnical Engineers\n\n\n                          Building Approval Process",
+      "cross_references": [
+        "PNAP/ADV/ADV-033.txt",
+        "PNAP/ADV/ADV-034.txt",
+        "PNAP/ADM/ADM-14.txt",
+        "PNAP/APP/APP-117.txt",
+        "PNAP/APP/APP-037.txt",
+        "PNAP/APP/APP-147.txt",
+        "PNAP/APP/APP-016.txt",
+        "PNAP/APP/APP-025.txt",
+        "PNAP/ADM/ADM-08.txt",
+        "PNAP/APP/APP-164.txt",
+        "PNAP/APP/APP-076.txt",
+        "PNAP/APP/APP-093.txt",
+        "PNAP/APP/APP-105.txt",
+        "PNAP/APP/APP-004.txt",
+        "PNAP/APP/APP-112.txt",
+        "PNAP/ADM/ADM-10.txt",
+        "PNAP/APP/APP-055.txt",
+        "PNAP/APP/APP-024.txt",
+        "PNAP/APP/APP-062.txt",
+        "PNAP/APP/APP-067.txt",
+        "PNAP/APP/APP-156.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 5,
+          "excerpt": "- 5 -\nConsent to the Extraction of Information from BIM Model\n\n26.              If BIM is used in the preparation of GBP, the model of the completed\nproject will be referred to the Lands Department (LandsD) and the Planning Department\n(PlanD) for their updating of 3-Dimensional (3D) spatial data and other 3D maps, and\ntheir upkeep of 3D planning and design information to facilitate planning, urban design,\nand visual and landscape assessments.\n\n27.         LandsD will extract simplified BIM data containing features including\nwalls, ceilings, floors, stairs, lift, common corridors, indoor routes, and textual attributes\nincluding the use, height, floor level, room number, dimensions, materials,"
+        },
+        {
+          "pdf_page": 7,
+          "excerpt": "- 7 -\n(D) Fast Track Processing for Repairs to Curtain Wall, Window Wall 4 and\nCladding\n\n37.         Under the Minor Works Control System (MWCS), certain types of minor\nrepair or replacement of curtain wall, window wall and cladding5 have been designated\nas minor works and may be carried out under the simplified requirements as an\nalternative to obtaining prior approval and consent under the BO.  Reference can be\nmade to Schedule 1 of the Building (Minor Works) Regulation (B(MW)R) and PNAP\nAPP-147 regarding the  list of minor works items and the simplified requirements\nrespectively.\n\n38.              If AP/RSE seeks prior approval and consent for the repair or replacement\nworks, the concurre"
+        }
+      ]
     },
     {
-      "code": "APP-037",
-      "source": "indexed_text/PNAP/APP/APP-037.txt",
-      "pdf_page": 8,
-      "excerpt": " … [Approval and Consent] Applications\n\n28.          For curtain wall works, the application for approval of plans and consent\nto the [commencement of works] … "
+      "code": "APP-047",
+      "source": "indexed_text/PNAP/APP/APP-047.txt",
+      "pdf_page": 2,
+      "score": 6.170285,
+      "excerpt": "- 2 -\n\n\n        (b)    The same will also be rejected under section 16(1)(c) because of\n               the nature of the application in the Form BA 5 or BA 17, which\n                relates to an application for building works “to be carried out”\n              or  for  permission  “to  erect”  respectively.     It  is  not  an\n               applic",
+      "title": "Practice Note for Authorized Persons,\n Buildings Department       Registered Structural Engineers and     APP-47\n                             Registered Geotechnical Engineers\n\n\n                   Unauthorized Alterations and Additions\n                        Buildings Ordinance Section 14\n\n\n             There may be occasions when  clients approach authorized persons,\nregistered structural engineers or registered geotechnical engineers to submit plans for\nbuilding works already completed.  This advises you on the action that the Building\nAuthority (BA) would take if such plans were submitted.\n\nNo Retrospective Approval",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 1,
+          "excerpt": "Practice Note for Authorized Persons,\n Buildings Department       Registered Structural Engineers and     APP-47\n                             Registered Geotechnical Engineers\n\n\n                   Unauthorized Alterations and Additions\n                        Buildings Ordinance Section 14\n\n\n             There may be occasions when  clients approach authorized persons,\nregistered structural engineers or registered geotechnical engineers to submit plans for\nbuilding works already completed.  This advises you on the action that the Building\nAuthority (BA) would take if such plans were submitted.\n\nNo Retrospective Approval\n\n2.          The BA has no powers to give retrospective approval or cons"
+        }
+      ]
     },
     {
-      "code": "GEOGUIDES-a8cb062b-eg2_198709",
-      "source": "indexed_text/GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
-      "pdf_page": 145,
-      "excerpt": " … to the Buildings Ordinance Office for\n[approval and consent] prior to the [commencement of works] (see Appendix A.8).\n\n25.2 GROUNDWATER … "
+      "code": "APP-045",
+      "source": "indexed_text/PNAP/APP/APP-045.txt",
+      "pdf_page": 1,
+      "score": 5.807636,
+      "excerpt": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-45\n                          Registered Geotechnical Engineers\n\n\n                     Testing of Reinforcement for Concrete\n\n\n              Section 17(1)6 of the Buildings Ordinance (BO) empowers the Building\nAuthority to impose requiremen",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-45\n                          Registered Geotechnical Engineers\n\n\n                     Testing of Reinforcement for Concrete\n\n\n              Section 17(1)6 of the Buildings Ordinance (BO) empowers the Building\nAuthority to impose requirements for testing of steel reinforcing bars (rebars) when\napproving structural plans or granting consent to the commencement of building works.\nThe purpose of such testing is to verify the specified properties of steel rebars delivered\nto site and/or the prefabrication factory.  These verification tests are additional to the\nroutine testing carried out by the manufacturer at the rolling mill. Authorized persons\n(AP) and registered structural engineers (RSE) should ensure that specimens are selected\nat random from every batch of steel rebars delivered to site and/or the prefabrication\nfactory. Buildings Department (BD) adopts Construction Standard CS2:20121 (CS2) as\nan acceptable standard for compliance with such requirements.\n\nConstruction Standard CS2:2012",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "- 2  -\n\n        (d)    Identification of the batch and date of delivery to the site/the\n               prefabrication factory to which the test specimens relate;\n\n        (e)    Measured mass per metre; and\n\n         (f)    Results  of chemical composition  (product  analysis),  tensile\n               properties, bend performance and bond property tests if required.\n\nCoils and Decoiled Products\n\n5.         Amendment No. 2/2018 to CS22 and Technical Note No. 5 on CS22 issued\non 26 September 2018 cover the technical, inspection and testing requirements on coils\nand decoiled products, requirements on all coil processors to be QA Coil Processors,\nrecognition of off-site steel rebar prefabricatio"
+        }
+      ]
+    },
+    {
+      "code": "FoundationCode2017",
+      "source": "indexed_text/BD_CODES/foundations/FoundationCode2017.txt",
+      "pdf_page": 54,
+      "score": 5.731513,
+      "excerpt": "3.5  GROUND INVESTIGATION IN SCHEDULED AREAS\n\n      Ground investigation works in the Scheduled Areas are subject to special control\n       under the Buildings Ordinance and Building Regulations.  Approval of the ground\n        investigation  plan  as  prescribed  under  regulation  8(1)(l)  of  the  Building\n       (Administration) Regulations and",
+      "title": "Code of Practice for Foundations 2017 (2024 Edition)",
+      "official_url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/FoundationCode2017.pdf",
+      "must_read_with": [
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/FoundationCode2017_amendment202509.pdf"
+      ],
+      "code_basis": null,
+      "catalogue_context": "",
+      "kind": "pdf",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "context_pages": [
+        {
+          "pdf_page": 53,
+          "excerpt": "3.4.6 DEPTH OF GROUND INVESTIGATION\n\n       Boreholes and trial pits should be carried out to sufficient depth such that all strata\n        that are likely to be affected by the foundation loads will be adequately explored. The\n       depth of ground investigation will depend on the type of the structure, the size, shape\n      and disposition of the loaded areas and the nature of the strata. In general, the\n       following should be considered:\n\n        (a)    Care should be taken to ensure that boulders are not mistaken for bedrock,\n                particularly on sites where borings are made through highly weathered rock.\n           Where bedrock is encountered, it should be proved by cor"
+        },
+        {
+          "pdf_page": 55,
+          "excerpt": "4   SHALLOW FOUNDATIONS\n\n4.1  GENERAL REQUIREMENTS\n\n    A shallow foundation should be structurally adequate to sustain all the applied loads\n      and transmit them safely to the ground without undue settlement.  It should generally\n      be constructed of reinforced concrete, and rest on a rock or soil stratum with adequate\n       bearing capacity at a shallow depth from ground level.\n\n    A shallow foundation should  neither overload the foundations or  structures of\n       adjacent buildings or the ground supporting such foundations or structures, nor render\n      any instability to any hillside or slope, nor interfere with any drain, nullah, sewer or\n       other services in its vicinit"
+        }
+      ]
     }
-  ]
+  ],
+  "note": "Ranked evidence only. Read source, scope and amendments; XML has no PDF page."
 }

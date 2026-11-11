@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "repository": "rsetestac001-ui/RSE",
-  "source_commit": "d5ae0737a5eccd45dd08ac6247d8e7878d215ccc",
-  "generated_at": "2026-11-11T06:13:00.374283+00:00",
+  "source_commit": "8885f3ab311455b88557de3078b908f245ffae42",
+  "generated_at": "2026-11-11T06:34:48.266289+00:00",
   "stage_summary": "資料已入庫並建立搜尋；下一步係補資料覆蓋同驗證答案。",
   "counts": {
     "pdf_files": 365,
@@ -44,25 +44,24 @@
       "id": "search",
       "title": "建立搜尋索引",
       "state": "built",
-      "label": "全文及部分條文索引已建立",
-      "detail": "SQLite FTS5 做頁級全文搜尋，PNAP 有段落 JSON，法例有條文 JSON。其他技術文件目前主要按 PDF 頁搜尋。",
+      "label": "中文、PDF及法例一併搜尋",
+      "detail": "通用工程詞彙、PNAP編號定位、每份PDF一個主要頁，另附相鄰補讀及修訂／交叉引用；CLI與topic JSON共用程式。搜尋結果仍須讀原文。",
       "evidence": [
-        "search/search_audit.json",
-        "search/pnap_paragraph_audit.json",
-        "search/legislation_audit.json"
+        "scripts/retrieval.py",
+        "scripts/build_search.py",
+        "search/topics/"
       ]
     },
     {
       "id": "verify",
       "title": "核對答案與修正問題",
       "state": "review",
-      "label": "100條新參考題已實跑，答案準確率未評",
-      "detail": "已找回未合併分支的原100列：60個不同搜尋字串、40列重複、沒有完整待評答案。另建立100條新中文參考題並依原文核對。中文前10頁文件命中58/100、指定頁命中50/100；英文關鍵字指定頁90/100。這些是搜尋診斷，答案準確率仍未知。",
+      "label": "搜尋已改善，答案準確率未評",
+      "detail": "同一批100題、同一索引及原文：中文指定文件／條文命中58→97，主要頁／條文定位50→72，含相鄰補讀84。英文主要定位90→87，有退步清單。舊版前10頁、新版前10文件／條文，單位不同。答案準確率仍未評分。",
       "evidence": [
-        "tests/answer_cases_v1.json",
-        "search/answer_review_v1.md",
-        "search/answer_retrieval_v1.json",
-        "search/answer_official_sources_v1.json"
+        "search/search_improvement_v2.md",
+        "search/answer_retrieval_v2.json",
+        "tests/answer_cases_v1.json"
       ]
     }
   ],
@@ -167,23 +166,22 @@
     ".github/workflows/update-project-overview.yml",
     ".github/workflows/update-apsec.yml",
     ".github/workflows/download-pnap-adm.yml",
-    ".github/workflows/build-search.yml",
     ".github/workflows/index-pdfs.yml",
     ".github/workflows/update-bd-codes.yml",
-    ".github/workflows/update-legislation.yml",
-    ".github/workflows/update-geo.yml",
     ".github/workflows/update-explanatory.yml",
+    ".github/workflows/update-geo.yml",
+    ".github/workflows/update-legislation.yml",
+    ".github/workflows/build-search.yml",
     ".github/workflows/download-pnap-app-adv.yml"
   ],
   "notes": {
     "updated_at": "2026-11-11",
-    "current_focus": "已建立100條不同的條文參考題並完成逐題搜尋診斷；下一步修補中文問句、法例整合與排序。",
-    "verification": "已找回未合併分支的原100列：60個不同搜尋字串、40列重複、沒有完整待評答案。另建立100條新中文參考題並依原文核對。中文前10頁文件命中58/100、指定頁命中50/100；英文關鍵字指定頁90/100。這些是搜尋診斷，答案準確率仍未知。",
+    "current_focus": "搜尋v2已修補中文、文件排序及法例整合；下一步改善頁內定位、英文退步與答案語義核對。",
+    "verification": "同一批100題、同一索引及原文：中文指定文件／條文命中58→97，主要頁／條文定位50→72，含相鄰補讀84。英文主要定位90→87，有退步清單。舊版前10頁、新版前10文件／條文，單位不同。答案準確率仍未評分。",
     "next_steps": [
-      "改善中文問題處理，使用額外新題驗證而非針對本題庫硬編碼。",
-      "整合主分支搜尋的獨立法例索引；目前5題法例未能命中條文。",
-      "處理長文件多頁佔位、漏搜PNAP及鄰近段落補讀。",
-      "先固定待評系統的完整答案，再獨立評核數值、邏輯、例外、版次與引文。"
+      "改善每份文件內主要頁／段落定位，核對英文主要位置退步。",
+      "處理尚未命中指定文件／條文的3條中文題目。",
+      "先固定系統完整答案，再核對數值、觸發邏輯、適用範圍、例外及引用；答案準確率仍未評分。"
     ],
     "answer_review": {
       "questions": 100,
@@ -203,15 +201,53 @@
     "stage_overrides": {
       "verify": {
         "state": "review",
-        "label": "100條新參考題已實跑，答案準確率未評",
-        "detail": "已找回未合併分支的原100列：60個不同搜尋字串、40列重複、沒有完整待評答案。另建立100條新中文參考題並依原文核對。中文前10頁文件命中58/100、指定頁命中50/100；英文關鍵字指定頁90/100。這些是搜尋診斷，答案準確率仍未知。",
+        "label": "搜尋已改善，答案準確率未評",
+        "detail": "同一批100題、同一索引及原文：中文指定文件／條文命中58→97，主要頁／條文定位50→72，含相鄰補讀84。英文主要定位90→87，有退步清單。舊版前10頁、新版前10文件／條文，單位不同。答案準確率仍未評分。",
         "evidence": [
-          "tests/answer_cases_v1.json",
-          "search/answer_review_v1.md",
-          "search/answer_retrieval_v1.json",
-          "search/answer_official_sources_v1.json"
+          "search/search_improvement_v2.md",
+          "search/answer_retrieval_v2.json",
+          "tests/answer_cases_v1.json"
+        ]
+      },
+      "search": {
+        "state": "built",
+        "label": "中文、PDF及法例一併搜尋",
+        "detail": "通用工程詞彙、PNAP編號定位、每份PDF一個主要頁，另附相鄰補讀及修訂／交叉引用；CLI與topic JSON共用程式。搜尋結果仍須讀原文。",
+        "evidence": [
+          "scripts/retrieval.py",
+          "scripts/build_search.py",
+          "search/topics/"
         ]
       }
+    },
+    "retrieval_improvement": {
+      "version": 2,
+      "baseline": "search/answer_retrieval_v1.json",
+      "latest": "search/answer_retrieval_v2.json",
+      "comparison": "search/search_improvement_v2.md",
+      "natural_question": {
+        "cases": 100,
+        "document_hits": 97,
+        "reference_page_hits": 72,
+        "reference_context_hits": 84,
+        "empty_results": 0,
+        "execution_errors": 0
+      },
+      "english_diagnostic": {
+        "cases": 100,
+        "document_hits": 96,
+        "reference_page_hits": 87,
+        "reference_context_hits": 90,
+        "empty_results": 0,
+        "execution_errors": 0
+      },
+      "supplemental_document_hits": {
+        "before": 8,
+        "after": 12,
+        "cases": 12
+      },
+      "answer_accuracy": null,
+      "result_unit_note": "v1前10頁；v2前10個不同PDF文件／法例條文。補讀另計。"
     }
   },
   "method": "檔案數量由 repository 目錄計算；索引數據由 audit／manifest 讀取；階段係依據現有產物嘅判讀，唔係整體完成百分比。"

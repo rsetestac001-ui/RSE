@@ -1,95 +1,317 @@
 {
-  "query": "\"ground investigation\" OR \"scheduled area\" OR \"scheduled areas\"",
+  "query": "scheduled area GI",
   "results": [
     {
-      "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
-      "source": "indexed_text/GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
-      "pdf_page": 319,
-      "excerpt": " … 10.1  Mid-levels [Scheduled Area]\n\n      [Ground investigation] works in [scheduled areas], including the Mid-levels [Scheduled\nArea], are subject to special … "
+      "code": "ADM-16",
+      "source": "indexed_text/PNAP/ADM/ADM-16.txt",
+      "pdf_page": 1,
+      "score": 8.32798,
+      "excerpt": "R e-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers  ADM-16\n\n                               Practice Note for Authorized Persons Buildings Department                                               225\n                         and Registered ",
+      "title": "R e-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers  ADM-16\n\n                               Practice Note for Authorized Persons Buildings Department                                               225\n                         and Registered Structural Engineers\n\n\n\n      Ground Investigation Works in Scheduled Areas - Approval and Consent\n\n\n           Ground  investigation  in  the Scheduled Areas  is building works and\nrequires approval and consent under the Buildings Ordinance.\n\nConcurrent Processing of Applications",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": []
     },
     {
-      "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
-      "source": "indexed_text/GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
-      "pdf_page": 39,
-      "excerpt": "B.10  Scheduled and Designated Areas and Other Concerned Areas\n\nB.10.1  Mid-levels [Scheduled Area]\n\n      [Ground investigation] works in [scheduled] … "
+      "code": "APP-028",
+      "source": "indexed_text/PNAP/APP/APP-028.txt",
+      "pdf_page": 1,
+      "score": 8.254607,
+      "excerpt": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n Persons, Registered Structural Engineers and Registered Geotechnical Engineers    APP-28\n\n                                     Practice Note for Authorized Persons\n   Buildings Department                                                   83\n                          ",
+      "title": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n Persons, Registered Structural Engineers and Registered Geotechnical Engineers    APP-28\n\n                                     Practice Note for Authorized Persons\n   Buildings Department                                                   83\n                              and Registered Structural Engineers\n\n\n\n         Requirements for Qualified Supervision of Site Formation Works,\n           Excavation Works, Foundation Works on Sloping Ground, and\n             Ground Investigation Works in the Scheduled Areas\n                           Buildings Ordinance Section 17\n\n              Buildings Ordinance Section 17 explicitly empowers the Building Authority\nto require ‘qualified supervision’ of certain building works when giving his approval of\nplans or consent to the commencement of the works.",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "-  2   -\n\n\n              Category (II)   periodic  inspections by  a  senior  qualified  geotechnical\n                              engineer who was responsible for the preparation of the\n                                geotechnical content of the submission\n\n                              This category of qualified supervision is to be imposed for\n                                     sites of high sensitivity (eg excavation sites adjoining old\n                                buildings  with  shallow  foundations).   The  personal\n                                  attention of the qualified supervisor is needed to recognise,\n                                evaluate  and communicate  concerns "
+        }
+      ]
     },
     {
-      "code": "HKIE-foundations-2017",
-      "source": "indexed_text/HKIE/HKIE-foundations-2017.txt",
-      "pdf_page": 56,
-      "excerpt": " … H3.5  [GROUND INVESTIGATION] IN [SCHEDULED AREAS]\n\n       [Ground investigation] works in [Scheduled Areas] are subject to special control. The\n         relevant PNAPs for … "
-    },
-    {
-      "code": "APP-141",
-      "source": "indexed_text/PNAP/APP/APP-141.txt",
-      "pdf_page": 3,
-      "excerpt": " … Geotechnical Task\n\n   Executive    [Ground Investigation] in [Scheduled Areas] (Task 2A in Appendix B)\n\n              [Ground Investigation] in Non-[scheduled Areas] (Task 2B in … "
+      "code": "APP-115",
+      "source": "indexed_text/PNAP/APP/APP-115.txt",
+      "pdf_page": 1,
+      "score": 7.689946,
+      "excerpt": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Re gistered Structural Engineers and Registered Geotechnical Engineers  APP-115\n\n                               Practice Note for Authorized Persons    Buildings Department                                             246\n                         and Register",
+      "title": "Re-issued under new categorization in Augus t 2009 as Practice Note for Authorized\nPersons, Re gistered Structural Engineers and Registered Geotechnical Engineers  APP-115\n\n                               Practice Note for Authorized Persons    Buildings Department                                             246\n                         and Registered Structural Engineers\n\n\n\n                          Performance Review -\n         Item 6(g)(ii) in Column B, Section 17(1) of the Buildings Ordinance\n\n\nBackground\n\n             There  is an inherent difficulty in forecasting the precise subsurface\nconditions from site investigation conducted before the carrying out of geotechnical\nworks.  Regular review and verification of the design assumptions are generally\nrequired  for  geotechnical works.   In  certain  areas where  the geology and  the\nsubsurface  conditions  are complex,  it  will be  necessary  to  further  require  the\nsubmission of a properly documented performance review to ensure that the conditions\nencountered during and after works are not materially different from those assumed in\nthe design.  Also, in recent years, unconventional engineering schemes have become\nmore common in private developments.  These unprecedented designs need to be\nclosely supervised and monitored during construction.  Therefore, there is a need for\na review  to be  carried out during  the course of  the construction  to  verify the\ngeotechnical design assumption and to monitor the performance of the completed\nworks for certain cases.  Against this background, item 6(g) in Column B of Section\n17(1) of the Buildings Ordinance (BO) requires a performance review in respect of\ncertain works outside the scheduled areas.\n\nImplementation",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "- 2 -\n\n\n\n3.              Sites  where  requirements  for  performance  review  will  likely  be\nimposed, in addition to sites in Area Numbers 1, 2, and 4 of the Scheduled Areas, are\ngrouped in the following three categories:\n\n          (i)     Geological conditions need to be verified during construction\n\n             This applies  to developments on or adjacent to slopes\n            which have a history of  significant continuous ground\n            movements either prior to or during the  site formation\n               stage.    This  also  applies  to  sites  where  abnormal\n              geological  weakness  (such  as  unfavourably  oriented\n                persistent  layer  of  weak  an"
+        }
+      ]
     },
     {
       "code": "APP-030",
       "source": "indexed_text/PNAP/APP/APP-030.txt",
       "pdf_page": 1,
-      "excerpt": " … By virtue of section 41(3) of the BO, [ground investigation] in [Scheduled\nArea] No. 1 requires approval from the Building Authority … "
+      "score": 7.130077,
+      "excerpt": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-30\n                         Registered Geotechnical Engineers\n\n\n                           Geotechnical Control on\n                 Developments in Mid-levels Scheduled Area\n\n\n              Certain Mid-levels area has been designated as Ar",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-30\n                         Registered Geotechnical Engineers\n\n\n                           Geotechnical Control on\n                 Developments in Mid-levels Scheduled Area\n\n\n              Certain Mid-levels area has been designated as Area Number 1 of the\nScheduled Areas (Scheduled Area No. 1) in Schedule 5 to the Buildings Ordinance (BO).\nBuilding works in Scheduled Area No. 1 are subject to additional geotechnical controls\nunder the BO and its subsidiary regulations.",
+      "cross_references": [
+        "PNAP/APP/APP-049.txt",
+        "PNAP/ADM/ADM-07.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "- 2 -\n\n7.         To assist the early planning of a development proposal, the authorized\nperson (AP) and RGE are advised to request GEO to provide a provisional determination\nof BEL as soon as they are commissioned for any building works in Scheduled Area\nNo. 1. GEO will normally issue a plan showing the tentative BEL within 10 working\ndays upon receipt of such request.\n\n8.          The AP and RGE should, with the input of a registered structural engineer\n(RSE) if necessary, submit their assessment on the determination of BEL to BD for\nagreement prior to submission of the site formation, foundation, excavation and lateral\nsupport plans, or other structural plans which may be subject to the c"
+        }
+      ]
     },
     {
-      "code": "HKIE-foundations-2017",
-      "source": "indexed_text/HKIE/HKIE-foundations-2017.txt",
-      "pdf_page": 48,
-      "excerpt": " … 3, APP-28 (PNAP 83), APP-30\n      (PNAP 85) for [Scheduled Area] No. 1, APP-61 (PNAP 161) for [Scheduled Areas] Nos … "
+      "code": "APP-061",
+      "source": "indexed_text/PNAP/APP/APP-061.txt",
+      "pdf_page": 1,
+      "score": 7.088954,
+      "excerpt": "Practice Note for Authorized Persons,\n Buildings Department        Registered Structural Engineers and      APP-61\n                             Registered Geotechnical Engineers\n\n\n                    Geotechnical Control on Developments in\n                Area Numbers 2 and 4 of the Scheduled Areas\n\n\n              North-western part of the New Terr",
+      "title": "Practice Note for Authorized Persons,\n Buildings Department        Registered Structural Engineers and      APP-61\n                             Registered Geotechnical Engineers\n\n\n                    Geotechnical Control on Developments in\n                Area Numbers 2 and 4 of the Scheduled Areas\n\n\n              North-western part of the New Territories and part of Ma On Shan area\nare designated as Area Numbers 2 and 4 of the Scheduled Areas in Schedule 5 to the\nBuildings Ordinance (BO) respectively. The plans delineated such areas are on display\nin the Buildings Department (BD) 1 and in the Geotechnical Information Unit of the\nCivil Engineering Library of the Civil Engineering and Development Department\n(CEDD).  Location maps of these areas are shown in Figures 1 and 2 respectively at\nAppendix A.",
+      "cross_references": [
+        "PNAP/APP/APP-018.txt",
+        "PNAP/APP/APP-059.txt",
+        "PNAP/APP/APP-004.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "- 2 -\n\n5.          The site supervision requirements and the minimum qualifications and\nexperience of the supervisory personnel and the Competent Person (Logging) for GI\nfield works are given in Code of Practice for Site Supervision 2009.  The cores\nrecovered should be examined and properly logged by a Competent Person (Logging).\nGuidance on  this aspect can be found in Geoguide 3  - Guide to Rock and Soil\nDescriptions 2 issued by GEO. Attention should be given to logging the location and size\nof  the  cavities,  the  nature  of  the  cavity wall and  the  infill,  together with rock\ndiscontinuities.  Fracture indices including total core recovery, solid core recovery, rock\nquality designati"
+        }
+      ]
+    },
+    {
+      "code": "APP-024",
+      "source": "indexed_text/PNAP/APP/APP-024.txt",
+      "pdf_page": 3,
+      "score": 7.076868,
+      "excerpt": "- 3 -\nCommunication and Announcement Mechanism for Private Construction Works\nwithin Railway Protection Areas\n\n10.         BD, the Electrical and Mechanical Services Department (EMSD) and\nMTRCL have established a communication and announcement mechanism for private\nconstruction sites within railway protection areas.\n\n11.          During  the  const",
+      "title": "Practice Note for Authorized Persons,\n Buildings Department    Registered Structural Engineers and        APP-24\n                          Registered Geotechnical Engineers\n\n\n               Railway Protection under Railways Ordinance,\n Mass Transit Railway (Land Resumption and Related Provisions) Ordinance and\n            Area Number 3 of the Scheduled Areas in Schedule 5\n                             to the Buildings Ordinance\n\n\n           As a result of the merger of the Mass Transit Railway Corporation and the\nKowloon-Canton Railway Corporation (KCRC) on 2 December 2007,  the MTR\nCorporation Limited (MTRCL) becomes the operator of all the railway lines in the\nterritory. The existing railway lines in operation are listed in Appendix A.",
+      "cross_references": [
+        "PNAP/APP/APP-039.txt",
+        "PNAP/ADM/ADM-16.txt",
+        "PNAP/APP/APP-137.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "- 2 -\n5.          The guidelines at Appendices B and C apply to  all building works\n(including ground investigation works and underground drainage works) to be carried out\nin the railway protection areas. Ground investigation works and underground drainage\nworks in Area Number 3 of the scheduled areas are subject to additional control as stated\nin paragraphs 13 and 14 below. While the guidelines are not applicable to the part of the\nlot that lies outside the railway protection areas, authorized persons (AP)/registered\nstructural engineers (RSE)/registered geotechnical engineers (RGE) should ensure that\nbuilding works outside the railway protection areas will not cause any adverse effects or\n"
+        },
+        {
+          "pdf_page": 4,
+          "excerpt": "- 4 -\nMinor Works\n\n16.         Upon  receipt  of  minor  works (MW)  submission  for  notice  of\ncommencement of Class I and Class II MW involving spread footing, excavation or\nunderground drainage works within Area Number 3 of the scheduled areas to be carried\nout under the simplified requirements of the MWCS, BD would forward a copy of the\nMW submission to MTRCL. MTRCL would then convey their comments to the\nprescribed building professionals (PBP)/prescribed registered contractors (PRC) directly.\nPBP/PRC should inform MTRCL and obtain their agreement before commencement of\nthe MW. Section 27 of the RO or section 15 of the MTR(LR&RP)O will be invoked in\ncase the proposed MW would be incompa"
+        }
+      ]
+    },
+    {
+      "code": "TGN-e262044d-TGN-50",
+      "source": "indexed_text/GEO/TGN/TGN-e262044d-TGN-50.txt",
+      "pdf_page": 2,
+      "score": 7.060743,
+      "excerpt": "Geotechnical Engineering Office, Civil Engineering and Development Department\n  The Government of the Hong Kong Special Administrative Region\n\n GEO Technical Guidance Note No. 50 (TGN 50)\n  Technical Requirements for Determination of Bulk Excavation Limit in\n  the Mid-levels Scheduled Area\n\n\n\n      Issue No.: 1          Revision: -          Date: 1",
+      "title": "Technical Requirements for Determination of Bulk Excavation Limit in the Mid-levels Scheduled Area",
+      "official_url": "https://www.cedd.gov.hk/filemanager/eng/content_427/TGN 50.pdf",
+      "must_read_with": [],
+      "code_basis": null,
+      "catalogue_context": "50 Technical Requirements for Determination of Bulk Excavation Limit in the Mid-levels Scheduled Area (1,048KB) 2/2021",
+      "kind": "pdf",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "context_pages": [
+        {
+          "pdf_page": 1,
+          "excerpt": "Geotechnical Engineering Office, Civil Engineering and Development Department\n  The Government of the Hong Kong Special Administrative Region\n\n GEO Technical Guidance Note No. 50 (TGN 50)\n  Technical Requirements for Determination of Bulk Excavation Limit in\n  the Mid-levels Scheduled Area\n\n\n\n      Issue No.: 1          Revision: -          Date: 1.2.2021       Page: 1 of 6\n\n\n\n1.       SCOPE\n\n1.1          This Technical Guidance Note (TGN) provides guidelines on the technical requirements\n              for the determination of bulk excavation limit in the Mid-levels Scheduled Area.\n\n1.2        Any feedback on this TGN should be directed to Chief Geotechnical Engineer/Island of\n              "
+        },
+        {
+          "pdf_page": 3,
+          "excerpt": "Geotechnical Engineering Office, Civil Engineering and Development Department\n  The Government of the Hong Kong Special Administrative Region\n\n GEO Technical Guidance Note No. 50 (TGN 50)\n  Technical Requirements for Determination of Bulk Excavation Limit in\n  the Mid-levels Scheduled Area\n\n\n\n      Issue No.: 1          Revision: -          Date: 1.2.2021       Page: 3 of 6\n\n\n\n5.2         Technical Requirements for Topographic Survey\n\n5.2.1        Topographic survey should be carried out for producing survey plans with sufficient cross-\n              sections showing ground levels at the site and in its immediate vicinity. The sections\n             should be extended and detailed to a distan"
+        }
+      ]
+    },
+    {
+      "code": "Cap.123Q s25",
+      "chapter": "123Q",
+      "provision": "s25",
+      "heading": "Bulk excavation in area number 1 of scheduled areas",
+      "source": "legislation/provisions/cap123Q/en/s25.json",
+      "version_date": "2021-06-24",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212646004_185",
+      "excerpt": "25.\nBulk excavation in area number 1 of scheduled areas\n(1)\nIn this section—\nbulk excavation (大型挖掘工程) means any kind of excavation except excavation for—\n(a)\nground investigation;\n(b)\npublic utility trenches;\n(c)\ndrains;\n(d)\nsewers; or\n(e)\npile installation;\ncumulative adverse effect (累積不利影響), in relation to area number 1 of the scheduled areas, means the overall adverse effects on the stability of the hillside in the area due to bulk excavation at 2 or more sites in the area.\n(2)\nBulk excavation carried out in area number 1 of the scheduled areas must be limited to a level that minimizes the cumulative adverse effect to the area.",
+      "score": 6.5,
+      "pdf_page": null,
+      "kind": "legislation",
+      "page_note": "XML has no PDF page number"
     },
     {
       "code": "GEOGUIDES-efdaa5a4-eg2_20171218",
       "source": "indexed_text/GEO/GEOGUIDES/GEOGUIDES-efdaa5a4-eg2_20171218.txt",
-      "pdf_page": 320,
-      "excerpt": " … For  private\ndevelopment, the additional requirements for [ground investigation] works within [Scheduled\nArea] No. 3 are given in PNAP APP-24 and … "
-    },
-    {
-      "code": "GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017",
-      "source": "indexed_text/GEO/GEOGUIDES/GEOGUIDES-7b0080f4-Amendment_No_GG2_01_2017.txt",
-      "pdf_page": 40,
-      "excerpt": " … For  private\ndevelopment, the additional requirements for [ground investigation] works within [Scheduled\nArea] No. 3 are given in PNAP APP-24 and … "
-    },
-    {
-      "code": "HKIE-foundations-2004",
-      "source": "indexed_text/HKIE/HKIE-foundations-2004.txt",
-      "pdf_page": 29,
-      "excerpt": " … [SCHEDULED AREAS]\n\n       The relevant PNAPs that can provide requirements for design in [Scheduled Areas] include\n      PNAP APP-24 (PNAP 77) for [Scheduled] … "
-    },
-    {
-      "code": "TGN-909e082c-TGN-1_N",
-      "source": "indexed_text/GEO/TGN/TGN-909e082c-TGN-1_N.txt",
-      "pdf_page": 4,
-      "excerpt": " … [Ground Investigation] Works in the [Scheduled Areas] – Buildings\n                            Ordinance Section 17\n\n         PNAP APP-30  Geotechnical Control on Developments in Mid-levels [Scheduled] … "
-    },
-    {
-      "code": "APP-061",
-      "source": "indexed_text/PNAP/APP/APP-061.txt",
-      "pdf_page": 7,
-      "excerpt": "[Scheduled Area] for Ma On Shan\n    (The area is designated as Area Number 4 of the [Scheduled Areas] in Schedule 5 to … "
-    },
-    {
-      "code": "APP-061",
-      "source": "indexed_text/PNAP/APP/APP-061.txt",
-      "pdf_page": 6,
-      "excerpt": " … 61)\n\n\n\n        [Scheduled Area] for Northwestern Part of New Territories\n(The area is designated as Area Number 2 of the [Scheduled Areas] in … "
+      "pdf_page": 319,
+      "score": 6.039495,
+      "excerpt": "318\n\n\nB.10  Scheduled and Designated Areas and Other Concerned Areas\n\nB.10.1  Mid-levels Scheduled Area\n\n      Ground investigation works in scheduled areas, including the Mid-levels Scheduled\nArea, are subject to special geotechnical control under the Buildings Ordinance.  The Mid-\nlevels Scheduled Area is specified as Area Number 1 of the Schedul",
+      "title": "Guide to Site Investigation (2017 Version)",
+      "official_url": "https://www.cedd.gov.hk/filemanager/eng/content_108/eg2_20171218.pdf",
+      "must_read_with": [],
+      "code_basis": null,
+      "catalogue_context": "1 Guide to Site Investigation (2017 Version) (16.4MB) 18 December 2017",
+      "kind": "pdf",
+      "earlier_edition_in_series": false,
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "context_pages": [
+        {
+          "pdf_page": 318,
+          "excerpt": "317\n\n\nGEO internal reports can be viewed in the CEL.  Summary of findings of selected landslide\nstudies are also uploaded onto the Hong Kong Slope Safety Website http://hkss.cedd.gov.hk for\nviewing.\n\n\nB.8.4  Slope Maintenance Records\n\n      Slope maintenance records (e.g. maintenance manuals, records of slope upgrading,\nrecords of routine maintenance and Engineer Inspections, records of monitoring of special\nmeasures such as permanent prestressed ground anchors and designed horizontal drains) are\nkept by the slope owners or their maintenance agents (GEO, 2003).\n\n\nB.8.5 Other Public Records\n\n     The GRS is the central repository for the permanent archives and selected official\npublications o"
+        },
+        {
+          "pdf_page": 320,
+          "excerpt": "319\n\n\n(Scheduled Area No. 3).  The areas within the “protection boundary” have been designated as\nScheduled Area No. 3.  The plans illustrating the extent of these areas are available for\ninspection in the Buildings Department (BD) and the MTRCL.  Information on the “alignment\nof  the railways as constructed” may be obtained  direct from MTRCL.   For  private\ndevelopment, the additional requirements for ground investigation works within Scheduled\nArea No. 3 are given in PNAP APP-24 and PNAP APP-131. WB Technical Circular No.\n19/2002, ETWB Technical Circular (Works) Nos. 33/2003 and 2/2005 shall be referred to for\nguidance on ground investigation works near the MTR and liaison with the Railwa"
+        }
+      ]
     },
     {
       "code": "FoundationCode2017",
       "source": "indexed_text/BD_CODES/foundations/FoundationCode2017.txt",
       "pdf_page": 54,
-      "excerpt": "3.5  [GROUND INVESTIGATION] IN [SCHEDULED AREAS]\n\n      [Ground investigation] works in the [Scheduled Areas] are subject to special control\n       under the Buildings … "
+      "score": 5.841477,
+      "excerpt": "3.5  GROUND INVESTIGATION IN SCHEDULED AREAS\n\n      Ground investigation works in the Scheduled Areas are subject to special control\n       under the Buildings Ordinance and Building Regulations.  Approval of the ground\n        investigation  plan  as  prescribed  under  regulation  8(1)(l)  of  the  Building\n       (Administration) Regulations and",
+      "title": "Code of Practice for Foundations 2017 (2024 Edition)",
+      "official_url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/FoundationCode2017.pdf",
+      "must_read_with": [
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/FoundationCode2017_amendment202509.pdf"
+      ],
+      "code_basis": null,
+      "catalogue_context": "",
+      "kind": "pdf",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "context_pages": [
+        {
+          "pdf_page": 53,
+          "excerpt": "3.4.6 DEPTH OF GROUND INVESTIGATION\n\n       Boreholes and trial pits should be carried out to sufficient depth such that all strata\n        that are likely to be affected by the foundation loads will be adequately explored. The\n       depth of ground investigation will depend on the type of the structure, the size, shape\n      and disposition of the loaded areas and the nature of the strata. In general, the\n       following should be considered:\n\n        (a)    Care should be taken to ensure that boulders are not mistaken for bedrock,\n                particularly on sites where borings are made through highly weathered rock.\n           Where bedrock is encountered, it should be proved by cor"
+        },
+        {
+          "pdf_page": 55,
+          "excerpt": "4   SHALLOW FOUNDATIONS\n\n4.1  GENERAL REQUIREMENTS\n\n    A shallow foundation should be structurally adequate to sustain all the applied loads\n      and transmit them safely to the ground without undue settlement.  It should generally\n      be constructed of reinforced concrete, and rest on a rock or soil stratum with adequate\n       bearing capacity at a shallow depth from ground level.\n\n    A shallow foundation should  neither overload the foundations or  structures of\n       adjacent buildings or the ground supporting such foundations or structures, nor render\n      any instability to any hillside or slope, nor interfere with any drain, nullah, sewer or\n       other services in its vicinit"
+        }
+      ]
     },
     {
-      "code": "ADM-16",
-      "source": "indexed_text/PNAP/ADM/ADM-16.txt",
+      "code": "APP-062",
+      "source": "indexed_text/PNAP/APP/APP-062.txt",
       "pdf_page": 1,
-      "excerpt": " … [Ground Investigation] in [Scheduled Areas]"
+      "score": 5.758263,
+      "excerpt": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and        APP-62\n                           Registered Geotechnical Engineers\n\n\n                    Protection of Sewage and Drainage Tunnels\n\n\nSewage Tunnel Protection Areas\n\n            The  Sewage  Tunnels  (Statutory  Easements)  Ordinance  (ST(SE)O",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and        APP-62\n                           Registered Geotechnical Engineers\n\n\n                    Protection of Sewage and Drainage Tunnels\n\n\nSewage Tunnel Protection Areas\n\n            The  Sewage  Tunnels  (Statutory  Easements)  Ordinance  (ST(SE)O)\nprovides inter alia for the creation of statutory easements and other rights over land in\nconnection with sewage tunnels. Under section 4 of the ST(SE)O, the Secretary for the\nEnvironment may cause to be published in the Gazette plans showing the route of sewage\ntunnels and the land situated on the route over which easements and rights may be created.\nSuch plans are deposited in the Land Registry and also available for inspection in the\nDrainage Services Department (DSD).",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 2,
+          "excerpt": "- 2 -\n\n7.          The ST(SE)O  also  contains  provisions  for compensation.   Relevant\nenquiries are handled by the Director of Lands.\n\nProtection of Other Drainage and Sewage Tunnels\n\n8.            There are other existing drainage and sewage tunnels of the DSD, namely\nHong Kong West Drainage Tunnel, Kai Tak Transfer Scheme Drainage Tunnel, Lai Chi\nKok Drainage Tunnel, Tsuen Wan Drainage Tunnel, North West New Territories Sewage\nTunnel, Tolo Harbour Effluent Tunnel and Tseung Kwan O Sewage Tunnel, and their\nassociated structures (the DSD Tunnels), which are also important facilities to maintain\nthe stormwater drainage and wastewater services in Hong Kong.\n\n9.          The DSD Tunnels shou"
+        }
+      ]
     },
     {
       "code": "TGN-9a5b8258-TGN-26_1B",
       "source": "indexed_text/GEO/TGN/TGN-9a5b8258-TGN-26_1B.txt",
       "pdf_page": 2,
-      "excerpt": " … They give specific guidance on the planning and\n       execution of [ground investigation], design and construction of foundation works within the\n       [Scheduled Areas] … "
+      "score": 5.730545,
+      "excerpt": "Geotechnical Engineering Office, Civil Engineering and Development Department\n  The Government of the Hong Kong Special Administrative Region\n\n GEO Technical Guidance Note No. 26 (TGN 26)\n  Supplementary Guidelines for Foundation Design in Areas Underlain by\n  Marble and Marble-bearing Rocks\n\n\n      Issue No.: 1          Revision: B          Date: ",
+      "title": "Supplementary Guidelines for Foundation Design in Areas Underlain by Marble and Marble-bearing Rocks",
+      "official_url": "https://www.cedd.gov.hk/filemanager/eng/content_427/TGN 26_1B.pdf",
+      "must_read_with": [],
+      "code_basis": null,
+      "catalogue_context": "26 Supplementary Guidelines for Foundation Design in Areas Underlain by Marble and Marble-bearing Rocks (361KB) 4/2025",
+      "kind": "pdf",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "context_pages": [
+        {
+          "pdf_page": 1,
+          "excerpt": "Geotechnical Engineering Office, Civil Engineering and Development Department\n  The Government of the Hong Kong Special Administrative Region\n\n GEO Technical Guidance Note No. 26 (TGN 26)\n  Supplementary Guidelines for Foundation Design in Areas Underlain by\n  Marble and Marble-bearing Rocks\n\n\n      Issue No.: 1          Revision: B          Date: 28.4.2025      Page: 1 of 5\n\n\n1.    SCOPE\n\n1.1    This Technical Guidance Note (TGN) provides supplementary  technical  guidelines  for\n       foundation design in Scheduled Area Nos. 2 and 4 underlain by marble and marble-bearing\n        rocks.  This TGN is intended to supplement the guidance given in the Environment, Transport\n       and Works Bu"
+        },
+        {
+          "pdf_page": 3,
+          "excerpt": "Geotechnical Engineering Office, Civil Engineering and Development Department\n  The Government of the Hong Kong Special Administrative Region\n\n GEO Technical Guidance Note No. 26 (TGN 26)\n  Supplementary Guidelines for Foundation Design in Areas Underlain by\n  Marble and Marble-bearing Rocks\n\n\n      Issue No.: 1          Revision: B          Date: 28.4.2025      Page: 3 of 5\n\n\n5.    SUPPLEMENTARY TECHNICAL GUIDELINES\n\n5.1   MARBLE-BEARING ROCKS IN SCHEDULED AREA NO. 2\n\n       Scheduled Area No. 2 covers a large area where complex geology and marble-bearing rocks of\n        the Yuen Long Formation and Tuen Mun Formation can be expected.  The marble in the Tin\n       Shui Wai and Siu Hang Tsue"
+        }
+      ]
+    },
+    {
+      "code": "GEO_PUBLICATIONS-7981be93-ep2_90",
+      "source": "indexed_text/GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-7981be93-ep2_90.txt",
+      "pdf_page": 4,
+      "score": 5.721278,
+      "excerpt": "[OCR transcription: verify wording, numbers and tables against the original PDF.]\nFOREWORD\n\nThe Yuen Long-Tuen Mun Eastern Corridor project involves the\nconstruction by the Highways Department of a 7 km-long dual two-lane trunk\nroad. The geology of the project area is complex and locally highly\nvariable, giving rise to various concerns in relation ",
+      "title": "Foundation Properties of Marble and Other Rocks in the Yuen Long - Tuen Mun Area",
+      "official_url": "https://www.cedd.gov.hk/filemanager/eng/content_145/ep2_90.pdf",
+      "must_read_with": [],
+      "code_basis": null,
+      "catalogue_context": "1 Foundation Properties of Marble and Other Rocks in the Yuen Long - Tuen Mun Area (6.68MB)",
+      "kind": "pdf",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "context_pages": [
+        {
+          "pdf_page": 3,
+          "excerpt": "[OCR transcription: verify wording, numbers and tables against the original PDF.]\n© Government of Hong Kong\nFirst published, December, 1990\n\nPrepared by :\n\nGeotechnical Control Office,\n\nCivil Engineering Services Department,\n6th Floor, Empire Centre,\n\n68, Mody Road,\n\nKowloon,\n\nHong Kong,\n\nThis publication is available from :\n\nGovernment Publications Centre,\nGeneral Post Office Building,\nGround Floor,\n\nConnaught Place,\n\nHong Kong.\n\nOverseas orders should be placed with :\nPublications (Sales) Office,\n\nInformation Services Department,\n\n1, Battery Path,\n\nCentral,\n\nHong Kong.\n\nPrice in Hong Kong : HK$58\n\nPrice overseas : US$10 (including surface postage)\n\nCheques, bank drafts or money orders must"
+        },
+        {
+          "pdf_page": 5,
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "code": "APSEC-DF-2018-01-19",
+      "source": "indexed_text/APSEC/2018/APSEC-DF-2018-01-19.txt",
+      "pdf_page": 19,
+      "score": 5.689195,
+      "excerpt": "Appendix A \n(PNAP APP-96) \nScope of Works of Registered General Building Contractors \nand Registered Specialist Contractors \nRegistered General Building Contractor (RGBC) \n \n \nThe RGBC is qualified under the BO to carry out any building works and \nstreet works which are not designated by the BA as a category of specialized works. \nRegistered Specia",
+      "title": "1 \nSummary of Items Discussed in 1/2018 APSEC Discussion Forum on 19 January 2018 \n \nItems proposed by Convenors for Discussion \nSummary of Discussion and BD’s Responses \n \nItems raised by HKIA \n1 \nFollow-up on Mechanical Ventilation of Room containing Waste \nFitment \n \nAs per item 3 of ADF 2/2017 held on 17.3.2017, HKIA proposed that 1.5m \nx 1.5m notional area per sink/basin for calculation of the air change \nrequirement for mechanical ventilation be acceptable for institutional use \nprojects such as health care and educational building/premises provided \nthat exhaust outlet should be located in the vicinity of the waste fitment. \nWhile this proposal had been accepted by BD, our members advised that \nsuch acceptance criteria had not been adhered to for some recent hospital \nprojects scrutinised by BD.  In one case, 6 air changes per hour (ACH) \nand 10 ACH of the entire room, depending on use of the room, were \nrequired; while only 10 ACH of the entire room was permitted in another \ncase.  Both of the above cases required prior support from the Hospital \nAuthority (HA). \n \nIn this regard, we would like to ask the following: \n \n(1) \nWhether HKIA’s proposal as discussed in ADF 2/2017 is not \napplicable to hospital wards, and if affirmative, the reason behind; \n \n(2) \nIn case the said proposal is not applicable to hospital wards, we opine \n \n \n \nBD said that HKIA’s proposal on notional area for calculating the air \nchange as discussed in ADF 2/2017 should generally be applicable to \nlarge hospital wards provided with 10 ACH requirements as required \nunder PNAP ADM-2. \n \nAny deviation from the above would be considered on case merits and \nother conditions might be imposed, citing as examples, there were cases \naccepted with room containing waste fitments with 6 ACH for the ",
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "kind": "pdf",
+      "context_pages": [
+        {
+          "pdf_page": 18,
+          "excerpt": "- 5 - \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n(c) 3 persons nominated by The Hong Kong Construction Association \nLtd.; \n(d) 1 person nominated by The Hong Kong E & M Contractors’\nAssociation Limited; and \n \n \n(e) 1 person selected by the BA from among persons nominated by \nsuch bodies as the BA may think fit. \n20. \nUnder section 8(3A) of the BO, a CRC appointed to assist the BA in \nconsidering applications for inclusion in the register of specialist contractors shall \nconsist of: \n(a) the BA’s representative; \n(b) 3 persons, 1 of whom is nominated by each of the ARB, the ERB \nand the SRB from the lists of AP, RSE and RGE; \n(c) 3 persons nominated by The Hong Kong Construction Associat"
+        },
+        {
+          "pdf_page": 20,
+          "excerpt": "(c) \nproof-drilling for cast-in-place concrete foundation, mini-piles \nand socketed H-piles; and \n(d) \nfield testing of ground, the loading capacity of which has been \nimproved by ground treatment. \n5. \n The following list of works, not exhaustive, are examples of works \nwhich are required to be undertaken by RSC (GIFW): \nTypes of Works \nDetails of Works \nExcavation \nTrial pits, trial trenches, slope surface stripping. \nBoreholes \nHand auger boring, corehole drilling, light cable \npercussion boring, rotary open hole drilling, rotary core \ndrilling. \nSampling \nDisturbed samples, U76 samples, U100 samples, split \nbarrel standard penetration test samples, thin-walled \npiston samples, continuous"
+        }
+      ]
+    },
+    {
+      "code": "HKIE-foundations-2017",
+      "source": "indexed_text/HKIE/HKIE-foundations-2017.txt",
+      "pdf_page": 56,
+      "score": 5.32879,
+      "excerpt": "An Explanatory Handbook to Code of Practice for Foundations 2017\n\n\n        problems where the structure is light.  Seasonal fluctuations of groundwater level may\n        induce movements in the permanent structures. During construction when de-watering is\n         required, care should be taken to avoid subsidence of the ground which may affect\n   ",
+      "title": "An Explanatory Handbook to the Code of Practice for Foundations 2017",
+      "official_url": "https://hkie.org.hk/st/wp-content/uploads/sites/40/hkie/a5de54214e8bbba4d24c55cffae6e480/79_Foundation-Code-Handbook-2017.pdf",
+      "must_read_with": [],
+      "code_basis": "Code of Practice for Foundations 2017",
+      "catalogue_context": "",
+      "kind": "pdf",
+      "earlier_edition_in_series": false,
+      "version_note": "Verify edition, amendments and scope before using this passage.",
+      "context_pages": [
+        {
+          "pdf_page": 55,
+          "excerpt": "An Explanatory Handbook to Code of Practice for Foundations 2017\n\n\n\n\n                      B/2                                              B/2\n                                         45 degrees                                 45 degrees\n                                                Line                                         Line\n\n\n\n            0.5B                                             0.5B\n\n\n\n            1.0B                                             1.0B\n                  Footing                                                                                                                   Footing\n                  Beneath 1.5B                                               "
+        },
+        {
+          "pdf_page": 57,
+          "excerpt": "An Explanatory Handbook to Code of Practice for Foundations 2017\n\n\n         qualifications and experience of the supervision personnel and the Competent Person\n        (Logging) for ground investigation field works are given in the Code of Practice for Site\n        Supervision 2009. The cores recovered should be examined and properly logged by the\n        Competent Person (Logging). Pending the substantial completion of the building works,\n           all cores and samples should be retained on site in good conditions for inspection by the\n          staff of the Buildings Department and the Geotechnical Engineering Office.\n\n        Technical recommendations on the requirements are also provid"
+        }
+      ]
     }
-  ]
+  ],
+  "note": "Ranked evidence only. Read source, scope and amendments; XML has no PDF page."
 }

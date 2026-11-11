@@ -4,41 +4,34 @@ Uses the existing SQLite FTS5 index. No model API or paid service.
 Each JSON file includes only ranked page excerpts and original page locations.
 """
 import json
-import sqlite3
+from retrieval import combined_search
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DB = ROOT / "search" / "pnap_fts.sqlite3"
 DEST = ROOT / "search" / "topics"
 QUERIES = {
-    "scheduled-area-gi": '"ground investigation" OR "scheduled area" OR "scheduled areas"',
-    "approval-consent": '"approval and consent" OR "consent to commence" OR "commencement of works"',
-    "consent-renewal": '"renewal of consent" OR "consent" OR "validity"',
-    "foundation": '"foundation" OR "piling"',
-    "site-formation": '"site formation" OR "excavation"',
+    "scheduled-area-gi": "scheduled area GI",
+    "approval-consent": "approval consent commencement",
+    "consent-renewal": "consent renewal suspended months",
+    "foundation": "foundation piling",
+    "site-formation": "site formation submission",
 }
 
 def main():
     if not DB.exists():
         raise SystemExit("Build search/pnap_fts.sqlite3 first")
     DEST.mkdir(parents=True, exist_ok=True)
-    with sqlite3.connect(DB) as db:
-        for slug, expression in QUERIES.items():
-            hits = db.execute(
-                """SELECT p.code,p.source,p.page_no,
-                          snippet(page_fts,1,'[',']',' … ',22),
-                          bm25(page_fts)
-                   FROM page_fts JOIN page p ON p.id=page_fts.rowid
-                   WHERE page_fts MATCH ? ORDER BY bm25(page_fts) LIMIT 15""",
-                (expression,),
-            ).fetchall()
-            results = [{"code":code, "source":"indexed_text/"+source,
-                        "pdf_page":page, "excerpt":excerpt}
-                       for code,source,page,excerpt,_ in hits]
-            (DEST / (slug+".json")).write_text(
-                json.dumps({"query":expression, "results":results},
-                           ensure_ascii=False, indent=2)+"\n",encoding="utf-8")
-            print(f"{slug}: {len(results)} pages")
+    for slug, query in QUERIES.items():
+        results = combined_search(query, 15)
+        for result in results:
+            if result['kind'] == 'pdf':
+                result['source'] = 'indexed_text/' + result['source']
+        (DEST / (slug + '.json')).write_text(
+            json.dumps({'query': query, 'results': results,
+                        'note': 'Ranked evidence only. Read source, scope and amendments; XML has no PDF page.'},
+                       ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+        print(f'{slug}: {len(results)} document/provision results')
     # Direct document lookup is more reliable than GitHub code search.
     manifest = json.loads((ROOT/"index_manifest.json").read_text(encoding="utf-8"))
     catalog = {}
