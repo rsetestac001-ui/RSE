@@ -1,0 +1,46 @@
+name: Update project overview
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'documents/**'
+      - 'indexed_text/**'
+      - '**/manifest.json'
+      - '**/*audit.json'
+      - 'index_manifest.json'
+      - 'legislation/**'
+      - 'website/status-notes.json'
+      - 'scripts/build_project_overview.py'
+      - '.github/workflows/update-project-overview.yml'
+  workflow_run:
+    workflows: ['Index PDF documents', 'Build PNAP searchable index']
+    types: [completed]
+permissions:
+  contents: write
+concurrency:
+  group: project-overview
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Generate overview from current files and audits
+        run: python scripts/build_project_overview.py
+      - name: Save updated overview
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add website/project.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Refresh RSE project overview'
+          git pull --rebase origin main
+          git push origin HEAD:main

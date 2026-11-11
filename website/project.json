@@ -1,0 +1,186 @@
+{
+  "schema": 1,
+  "repository": "rsetestac001-ui/RSE",
+  "source_commit": "c4272fab327779ce76466b307eaade87f63c12af",
+  "generated_at": "2026-11-11T05:29:03.722041+00:00",
+  "stage_summary": "資料已入庫並建立搜尋；下一步係補資料覆蓋同驗證答案。",
+  "counts": {
+    "pdf_files": 365,
+    "text_files": 365,
+    "indexed_documents": 365,
+    "indexed_pages": 11272,
+    "pnap_sections": 5152,
+    "law_provisions": 678,
+    "needs_review": 38,
+    "empty_pages": 144,
+    "accuracy": null
+  },
+  "stages": [
+    {
+      "id": "collect",
+      "title": "收集官方文件",
+      "state": "built",
+      "label": "入庫流程已建立",
+      "detail": "多個來源已有 PDF／XML、manifest 同原始來源紀錄。收藏完整性及現行版本仍須檢查。",
+      "evidence": [
+        "documents/",
+        "legislation/manifest.json",
+        "pnap_app_adv_sources.json"
+      ]
+    },
+    {
+      "id": "extract",
+      "title": "轉成可搜尋文字",
+      "state": "review",
+      "label": "已抽字，仍有待覆核",
+      "detail": "原生 PDF 直接抽字；掃描頁由 repo 工作流程做 OCR；XML 直接拆條文。空白頁、公式及表格要回看原文。",
+      "evidence": [
+        "scripts/build_index.py",
+        "index_manifest.json",
+        "geo/search_audit.json"
+      ]
+    },
+    {
+      "id": "search",
+      "title": "建立搜尋索引",
+      "state": "built",
+      "label": "全文及部分條文索引已建立",
+      "detail": "SQLite FTS5 做頁級全文搜尋，PNAP 有段落 JSON，法例有條文 JSON。其他技術文件目前主要按 PDF 頁搜尋。",
+      "evidence": [
+        "search/search_audit.json",
+        "search/pnap_paragraph_audit.json",
+        "search/legislation_audit.json"
+      ]
+    },
+    {
+      "id": "verify",
+      "title": "核對答案與修正問題",
+      "state": "pending",
+      "label": "未完成完整準確性驗證",
+      "detail": "索引建好唔代表答案一定準確。完整測試原題／原答案同逐題官方核對紀錄尚未能證實；準確率保留未知。",
+      "evidence": [
+        "website/status-notes.json"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "PNAP",
+      "title": "PNAP 實務作業備考",
+      "pdfs": 224,
+      "texts": 224,
+      "path": "documents/PNAP/",
+      "description": "ADM、APP、ADV；按段落及 PDF 頁碼檢索。",
+      "evidence": "search/pnap_paragraph_audit.json",
+      "granularity": "段落 + PDF 頁碼",
+      "status": "有檔案"
+    },
+    {
+      "id": "BD_CODES",
+      "title": "BD 規範與解說",
+      "pdfs": 14,
+      "texts": 14,
+      "path": "documents/BD_CODES/",
+      "description": "Foundation、RC、steel、wind、dead and imposed loads；主文、修訂同解說須一齊核對。",
+      "evidence": "codes/search_audit.json",
+      "granularity": "PDF 頁面",
+      "status": "有檔案"
+    },
+    {
+      "id": "GEOGUIDES",
+      "title": "GEO Geoguides",
+      "pdfs": 22,
+      "texts": 22,
+      "path": "documents/GEO/GEOGUIDES/",
+      "description": "岩土工程指南及可取得嘅修訂文件。",
+      "evidence": "geo/search_audit.json",
+      "granularity": "PDF 頁面",
+      "status": "有檔案"
+    },
+    {
+      "id": "GEO_PUBLICATIONS",
+      "title": "GEO Publications",
+      "pdfs": 15,
+      "texts": 15,
+      "path": "documents/GEO/GEO_PUBLICATIONS/",
+      "description": "已收錄公開出版物；唔代表所有 GEO 系列或歷史版本已齊。",
+      "evidence": "geo/search_audit.json",
+      "granularity": "PDF 頁面",
+      "status": "有檔案"
+    },
+    {
+      "id": "TGN",
+      "title": "GEO 技術指引 TGN",
+      "pdfs": 42,
+      "texts": 42,
+      "path": "documents/GEO/TGN/",
+      "description": "須核對 master list、版本及取消／取代狀態。",
+      "evidence": "geo/search_audit.json",
+      "granularity": "PDF 頁面",
+      "status": "有檔案"
+    },
+    {
+      "id": "HKIE",
+      "title": "HKIE 解說手冊",
+      "pdfs": 9,
+      "texts": 9,
+      "path": "documents/HKIE/",
+      "description": "解釋 Code 同設計例子；唔應當成法例或取代 BD Code。",
+      "evidence": "explanatory/search_audit.json",
+      "granularity": "PDF 頁面",
+      "status": "有檔案"
+    },
+    {
+      "id": "APSEC",
+      "title": "APSEC 討論摘要",
+      "pdfs": 39,
+      "texts": 39,
+      "path": "documents/APSEC/",
+      "description": "公開 Discussion Forum 收藏；問題同 BD 回應要分清，歷年覆蓋仍須核實。",
+      "evidence": "apsec/search_audit.json",
+      "granularity": "PDF 頁面",
+      "status": "有檔案"
+    },
+    {
+      "id": "LAW",
+      "title": "Cap.123 系列法例",
+      "pdfs": null,
+      "texts": 678,
+      "path": "legislation/",
+      "description": "Cap.123、123A、123C、123F、123Q 中英文 XML；分拆成條文，沒有 PDF 頁碼。",
+      "evidence": "search/legislation_audit.json",
+      "granularity": "法例條文",
+      "status": "有檔案",
+      "chapters": [
+        "123",
+        "123A",
+        "123C",
+        "123F",
+        "123Q"
+      ]
+    }
+  ],
+  "workflows": [
+    ".github/workflows/build-search.yml",
+    ".github/workflows/download-pnap-adm.yml",
+    ".github/workflows/download-pnap-app-adv.yml",
+    ".github/workflows/index-pdfs.yml",
+    ".github/workflows/update-apsec.yml",
+    ".github/workflows/update-bd-codes.yml",
+    ".github/workflows/update-explanatory.yml",
+    ".github/workflows/update-geo.yml",
+    ".github/workflows/update-legislation.yml"
+  ],
+  "notes": {
+    "updated_at": "2026-11-11",
+    "current_focus": "確認版本、修補抽字問題、補齊核對紀錄。",
+    "verification": "完整 100 題問題、原答案及逐題官方核對尚未能證實。唔顯示猜測嘅完成百分比或答案準確率。",
+    "next_steps": [
+      "核對各來源現行版本、取消／取代及修訂狀態。",
+      "處理 index_manifest 同 audit 所列待覆核文件、空白／掃描頁。",
+      "補齊測試原題同原答案，再逐題對官方原文並記錄改善。",
+      "每次更新資料或搜尋邏輯後，重跑搜尋回歸。"
+    ]
+  },
+  "method": "檔案數量由 repository 目錄計算；索引數據由 audit／manifest 讀取；階段係依據現有產物嘅判讀，唔係整體完成百分比。"
+}
