@@ -1,9 +1,369 @@
 {
-  "total_pdfs": 238,
-  "indexed": 238,
+  "total_pdfs": 277,
+  "indexed": 277,
   "failed": 0,
-  "needs_review": 10,
+  "needs_review": 11,
   "documents": [
+    {
+      "source": "APSEC/2017/APSEC-DF-2017-11-17.pdf",
+      "text_file": "indexed_text/APSEC/2017/APSEC-DF-2017-11-17.txt",
+      "sha256": "2fe8dc3715b5c4e23a8bad23496b7461ee780090b775f33d3cec8ffaf9fe53fc",
+      "status": "ok",
+      "pages": 12,
+      "empty_pages": [],
+      "characters": 110610
+    },
+    {
+      "source": "APSEC/2018/APSEC-DF-2018-01-19.pdf",
+      "text_file": "indexed_text/APSEC/2018/APSEC-DF-2018-01-19.txt",
+      "sha256": "15ebf31c376bce5efe5f6d4a7e5ce5b084fa99b9f593b13429e3d785db0f36e0",
+      "status": "ok",
+      "pages": 25,
+      "empty_pages": [],
+      "characters": 176884
+    },
+    {
+      "source": "APSEC/2018/APSEC-DF-2018-03-23.pdf",
+      "text_file": "indexed_text/APSEC/2018/APSEC-DF-2018-03-23.txt",
+      "sha256": "a9182e21dc83a636ff8ffedd6a135f1097f29ce6db1f906d4ef4feb03539f5b3",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 51027
+    },
+    {
+      "source": "APSEC/2018/APSEC-DF-2018-05-25.pdf",
+      "text_file": "indexed_text/APSEC/2018/APSEC-DF-2018-05-25.txt",
+      "sha256": "b92f1d86e17988a32a4689dcaf06621d69ccea87034b964a2a6857e59c5743af",
+      "status": "review_empty_pages",
+      "pages": 19,
+      "empty_pages": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "characters": 109201
+    },
+    {
+      "source": "APSEC/2018/APSEC-DF-2018-08-17.pdf",
+      "text_file": "indexed_text/APSEC/2018/APSEC-DF-2018-08-17.txt",
+      "sha256": "4366569101b44feb55dc948e6ec3f2bc53d513ff8f547fa9476694714f67c83c",
+      "status": "ok",
+      "pages": 11,
+      "empty_pages": [],
+      "characters": 125340
+    },
+    {
+      "source": "APSEC/2019/APSEC-DF-2019-01-18.pdf",
+      "text_file": "indexed_text/APSEC/2019/APSEC-DF-2019-01-18.txt",
+      "sha256": "a41333fe8ea19e393abfcd71e04dbcbc85b20fb0cd11143ad91be64d63265833",
+      "status": "ok",
+      "pages": 11,
+      "empty_pages": [],
+      "characters": 145893
+    },
+    {
+      "source": "APSEC/2019/APSEC-DF-2019-03-22.pdf",
+      "text_file": "indexed_text/APSEC/2019/APSEC-DF-2019-03-22.txt",
+      "sha256": "976a99de310833a58180dcf4459206ccc8dc0f8be1c6aedc89e09874d39a1fb2",
+      "status": "ok",
+      "pages": 9,
+      "empty_pages": [],
+      "characters": 105430
+    },
+    {
+      "source": "APSEC/2019/APSEC-DF-2019-05-24.pdf",
+      "text_file": "indexed_text/APSEC/2019/APSEC-DF-2019-05-24.txt",
+      "sha256": "d16f60291f27701c452456411b8f0e8c6ce1c1f3db47a70745d4131adc977e44",
+      "status": "ok",
+      "pages": 6,
+      "empty_pages": [],
+      "characters": 72349
+    },
+    {
+      "source": "APSEC/2019/APSEC-DF-2019-08-23.pdf",
+      "text_file": "indexed_text/APSEC/2019/APSEC-DF-2019-08-23.txt",
+      "sha256": "6a8e42836d254ab9bd5f8cbd61b16f24da827b6dcf2d43c20c9144d920292da3",
+      "status": "ok",
+      "pages": 12,
+      "empty_pages": [],
+      "characters": 152760
+    },
+    {
+      "source": "APSEC/2019/APSEC-DF-2019-11-22.pdf",
+      "text_file": "indexed_text/APSEC/2019/APSEC-DF-2019-11-22.txt",
+      "sha256": "499251b1edce5f40db8a3229b0d04b15f3d716495b41805dda5e589868da01bf",
+      "status": "ok",
+      "pages": 27,
+      "empty_pages": [],
+      "characters": 202235
+    },
+    {
+      "source": "APSEC/2020/APSEC-DF-2020-01-10.pdf",
+      "text_file": "indexed_text/APSEC/2020/APSEC-DF-2020-01-10.txt",
+      "sha256": "240ed0355f14cd90497d788105fc243b4c04074f6bb1fcaf7e7712859dae79ec",
+      "status": "ok",
+      "pages": 17,
+      "empty_pages": [],
+      "characters": 188114
+    },
+    {
+      "source": "APSEC/2020/APSEC-DF-2020-05-29.pdf",
+      "text_file": "indexed_text/APSEC/2020/APSEC-DF-2020-05-29.txt",
+      "sha256": "a366a05d07e95f4b18910e6e9965ecd9235416ae4153070909e8dbf100f854fe",
+      "status": "ok",
+      "pages": 14,
+      "empty_pages": [],
+      "characters": 131827
+    },
+    {
+      "source": "APSEC/2020/APSEC-DF-2020-09-29.pdf",
+      "text_file": "indexed_text/APSEC/2020/APSEC-DF-2020-09-29.txt",
+      "sha256": "84c3c77f847866366288aea4bb1d9bd42ae448cb3b5270c17ae973c22d29243c",
+      "status": "ok",
+      "pages": 29,
+      "empty_pages": [],
+      "characters": 226499
+    },
+    {
+      "source": "APSEC/2020/APSEC-DF-2020-11-26.pdf",
+      "text_file": "indexed_text/APSEC/2020/APSEC-DF-2020-11-26.txt",
+      "sha256": "8eecc7e2ffb87078f651b6384f14e7617f2d9ff3c20b0e33ae52c2ab419eb080",
+      "status": "ok",
+      "pages": 15,
+      "empty_pages": [],
+      "characters": 150789
+    },
+    {
+      "source": "APSEC/2021/APSEC-DF-2021-01-22.pdf",
+      "text_file": "indexed_text/APSEC/2021/APSEC-DF-2021-01-22.txt",
+      "sha256": "7bdd4aa136143393cbf323e58dfbaacf6cbc11fa4af14448a1537b8afe2c83ba",
+      "status": "ok",
+      "pages": 13,
+      "empty_pages": [],
+      "characters": 21246
+    },
+    {
+      "source": "APSEC/2021/APSEC-DF-2021-03-19.pdf",
+      "text_file": "indexed_text/APSEC/2021/APSEC-DF-2021-03-19.txt",
+      "sha256": "e2d552afe98c6ef550ede914d4d85895c87a22b4797f46dd18b12cf166331e56",
+      "status": "ok",
+      "pages": 22,
+      "empty_pages": [],
+      "characters": 36733
+    },
+    {
+      "source": "APSEC/2021/APSEC-DF-2021-05-21.pdf",
+      "text_file": "indexed_text/APSEC/2021/APSEC-DF-2021-05-21.txt",
+      "sha256": "a37de80362c92401aed30b5ea5ca7854beae5d31ccdaf09cceedb476d7690f96",
+      "status": "ok",
+      "pages": 19,
+      "empty_pages": [],
+      "characters": 159381
+    },
+    {
+      "source": "APSEC/2021/APSEC-DF-2021-08-13.pdf",
+      "text_file": "indexed_text/APSEC/2021/APSEC-DF-2021-08-13.txt",
+      "sha256": "e3e8c44e0ecae7e51f9209ed16ad9c18e307d1a12db2dc07ad061730a59a7754",
+      "status": "ok",
+      "pages": 20,
+      "empty_pages": [],
+      "characters": 30176
+    },
+    {
+      "source": "APSEC/2021/APSEC-DF-2021-11-12.pdf",
+      "text_file": "indexed_text/APSEC/2021/APSEC-DF-2021-11-12.txt",
+      "sha256": "018fda4d615355e9054066457bd494e7c0c4eab6d97c98e200e6d7ae0856bb43",
+      "status": "ok",
+      "pages": 20,
+      "empty_pages": [],
+      "characters": 252085
+    },
+    {
+      "source": "APSEC/2022/APSEC-DF-2022-01-14.pdf",
+      "text_file": "indexed_text/APSEC/2022/APSEC-DF-2022-01-14.txt",
+      "sha256": "f5a6b31fa464f9ce66130282e7f9d9ad08fc51a4385dbd85219dfd2defc383bc",
+      "status": "ok",
+      "pages": 14,
+      "empty_pages": [],
+      "characters": 30754
+    },
+    {
+      "source": "APSEC/2022/APSEC-DF-2022-03-18.pdf",
+      "text_file": "indexed_text/APSEC/2022/APSEC-DF-2022-03-18.txt",
+      "sha256": "6682fc313d68d8b8eb8bd3925bb8e6e9c5eb157d750b6a2ca8eb3bb64605a043",
+      "status": "ok",
+      "pages": 17,
+      "empty_pages": [],
+      "characters": 251240
+    },
+    {
+      "source": "APSEC/2022/APSEC-DF-2022-05-13.pdf",
+      "text_file": "indexed_text/APSEC/2022/APSEC-DF-2022-05-13.txt",
+      "sha256": "de38abd0a3966a39220f5ea04e46ae93ea29ead52ddc9eac6f4900e88719d020",
+      "status": "ok",
+      "pages": 27,
+      "empty_pages": [],
+      "characters": 49796
+    },
+    {
+      "source": "APSEC/2022/APSEC-DF-2022-08-12.pdf",
+      "text_file": "indexed_text/APSEC/2022/APSEC-DF-2022-08-12.txt",
+      "sha256": "756ed6e8537bfab2569fa7c0b6539c37f5230f16db30743e2a3f8ccbb4371c9e",
+      "status": "ok",
+      "pages": 22,
+      "empty_pages": [],
+      "characters": 40960
+    },
+    {
+      "source": "APSEC/2022/APSEC-DF-2022-11-25.pdf",
+      "text_file": "indexed_text/APSEC/2022/APSEC-DF-2022-11-25.txt",
+      "sha256": "da868089084390e38207044883f7196517a18895cf5f1c2af2f418605103f94a",
+      "status": "ok",
+      "pages": 24,
+      "empty_pages": [],
+      "characters": 40102
+    },
+    {
+      "source": "APSEC/2023/APSEC-DF-2023-02-10.pdf",
+      "text_file": "indexed_text/APSEC/2023/APSEC-DF-2023-02-10.txt",
+      "sha256": "2933a29bdfdb1df2d84d512f7b1872946dc18ca536a71126e9570a3a61e55cf2",
+      "status": "ok",
+      "pages": 23,
+      "empty_pages": [],
+      "characters": 43004
+    },
+    {
+      "source": "APSEC/2023/APSEC-DF-2023-05-05.pdf",
+      "text_file": "indexed_text/APSEC/2023/APSEC-DF-2023-05-05.txt",
+      "sha256": "46230681d70474f8fb10d8d96edb481364cf213ac4e58f80cd3ca3433294b41c",
+      "status": "ok",
+      "pages": 30,
+      "empty_pages": [],
+      "characters": 47783
+    },
+    {
+      "source": "APSEC/2023/APSEC-DF-2023-08-04.pdf",
+      "text_file": "indexed_text/APSEC/2023/APSEC-DF-2023-08-04.txt",
+      "sha256": "34a354c15bfb6551f0c0f61324f9c4feb1b09a24ae3e0d7928c8af4584a0501f",
+      "status": "ok",
+      "pages": 21,
+      "empty_pages": [],
+      "characters": 31908
+    },
+    {
+      "source": "APSEC/2023/APSEC-DF-2023-11-17.pdf",
+      "text_file": "indexed_text/APSEC/2023/APSEC-DF-2023-11-17.txt",
+      "sha256": "2e530abf2b3e936ec8d99fcd4e93025e34193b025e2ecc0621ad191d688dc6b3",
+      "status": "ok",
+      "pages": 26,
+      "empty_pages": [],
+      "characters": 43991
+    },
+    {
+      "source": "APSEC/2024/APSEC-DF-2024-02-23.pdf",
+      "text_file": "indexed_text/APSEC/2024/APSEC-DF-2024-02-23.txt",
+      "sha256": "9991b77c017c791f5d9360df135ab4fd9f2341bab7e9efd77c4a1ef8ff635794",
+      "status": "ok",
+      "pages": 20,
+      "empty_pages": [],
+      "characters": 38154
+    },
+    {
+      "source": "APSEC/2024/APSEC-DF-2024-05-03.pdf",
+      "text_file": "indexed_text/APSEC/2024/APSEC-DF-2024-05-03.txt",
+      "sha256": "157c4fb90f0c5afd80b38d19a9780c73351feb8c440ffb1cdc5bbea8da173d38",
+      "status": "ok",
+      "pages": 10,
+      "empty_pages": [],
+      "characters": 22035
+    },
+    {
+      "source": "APSEC/2024/APSEC-DF-2024-08-09.pdf",
+      "text_file": "indexed_text/APSEC/2024/APSEC-DF-2024-08-09.txt",
+      "sha256": "ca7a20b6b9cb2cc05f52e125b5865cddd6dd1acdf6b634f694175285ab4cd34e",
+      "status": "ok",
+      "pages": 38,
+      "empty_pages": [],
+      "characters": 60988
+    },
+    {
+      "source": "APSEC/2024/APSEC-DF-2024-11-22.pdf",
+      "text_file": "indexed_text/APSEC/2024/APSEC-DF-2024-11-22.txt",
+      "sha256": "e1254cfacdbfa8c986647dcd27ca664e87f100548dee1837f59808bc1f5ad0be",
+      "status": "ok",
+      "pages": 30,
+      "empty_pages": [],
+      "characters": 57065
+    },
+    {
+      "source": "APSEC/2025/APSEC-DF-2025-02-14.pdf",
+      "text_file": "indexed_text/APSEC/2025/APSEC-DF-2025-02-14.txt",
+      "sha256": "826d5dd12e2d9aacf7e54c1a91cef0726b3e940aaa8995e86a884cdea746d434",
+      "status": "ok",
+      "pages": 36,
+      "empty_pages": [],
+      "characters": 55394
+    },
+    {
+      "source": "APSEC/2025/APSEC-DF-2025-05-09.pdf",
+      "text_file": "indexed_text/APSEC/2025/APSEC-DF-2025-05-09.txt",
+      "sha256": "177a66a588270a9b23b0b8fee0dab53091cc19e13eb1805f603c3254a4adbe5c",
+      "status": "ok",
+      "pages": 17,
+      "empty_pages": [],
+      "characters": 37709
+    },
+    {
+      "source": "APSEC/2025/APSEC-DF-2025-08-08.pdf",
+      "text_file": "indexed_text/APSEC/2025/APSEC-DF-2025-08-08.txt",
+      "sha256": "d843727df62f7bc9bfb0ee74a879333bb3c78f3130b0ec3b6faf54be241f83a6",
+      "status": "ok",
+      "pages": 26,
+      "empty_pages": [],
+      "characters": 54363
+    },
+    {
+      "source": "APSEC/2025/APSEC-DF-2025-11-21.pdf",
+      "text_file": "indexed_text/APSEC/2025/APSEC-DF-2025-11-21.txt",
+      "sha256": "a7f299c191b4e16096e04684d35f0f76878fc3fc9686f4e2555a0f0215e46e56",
+      "status": "ok",
+      "pages": 16,
+      "empty_pages": [],
+      "characters": 167310
+    },
+    {
+      "source": "APSEC/2026/APSEC-DF-2026-02-06.pdf",
+      "text_file": "indexed_text/APSEC/2026/APSEC-DF-2026-02-06.txt",
+      "sha256": "e65d52115b493c7f3f4de4931cd85e0b3655cf037b211b7123ace317d18daf04",
+      "status": "ok",
+      "pages": 10,
+      "empty_pages": [],
+      "characters": 162437
+    },
+    {
+      "source": "APSEC/2026/APSEC-DF-2026-05-08.pdf",
+      "text_file": "indexed_text/APSEC/2026/APSEC-DF-2026-05-08.txt",
+      "sha256": "ef5fe69ab76ee38301549bda4f7585ebcd8f4afba9fee8a007d6fa7bbf1cd2aa",
+      "status": "ok",
+      "pages": 17,
+      "empty_pages": [],
+      "characters": 255691
+    },
+    {
+      "source": "APSEC/2026/APSEC-DF-2026-08-14.pdf",
+      "text_file": "indexed_text/APSEC/2026/APSEC-DF-2026-08-14.txt",
+      "sha256": "1ef93c7190ac23aa2ce42dfb0ffc5481424ab7dec58b41813355068bf51960fb",
+      "status": "ok",
+      "pages": 10,
+      "empty_pages": [],
+      "characters": 138221
+    },
     {
       "source": "BD_CODES/concrete/CoP_SUC2013e.pdf",
       "text_file": "indexed_text/BD_CODES/concrete/CoP_SUC2013e.txt",
