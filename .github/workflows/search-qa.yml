@@ -58,5 +58,6 @@ jobs:
           git add documents/GEO/GEO_MANUALS search/pnap_fts.sqlite3 search/search_audit.json search/document_catalog.json search/topics search/qa_report.json geo/search_audit.json codes/search_audit.json
           if ! git diff --cached --quiet; then
             git commit -m 'Publish verified cross-source QA results and slope manual index'
+            git pull --rebase origin "${TARGET_BRANCH}"
             git push origin HEAD:"${TARGET_BRANCH}"
           fi
