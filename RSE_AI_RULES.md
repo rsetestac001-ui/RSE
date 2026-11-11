@@ -50,3 +50,6 @@ APP-56 的新界豁免建築相關 SF 豁免條件、APP-25 的 GBP 階段岩土
 ## HKIE and BD explanatory publications
 
 結構設計問題須按主題查 `explanatory/catalog.json`、`explanatory/manifest.json` 及 `explanatory/search_audit.json`，讀 HKIE 手冊（`documents/HKIE/`、`indexed_text/HKIE/`）及 BD 解說（沿用 `documents/BD_CODES/`）原文。必須標明出版者、手冊對應的 Code 年份／版次及 PDF 實體頁碼；舊手冊不能自動視為適用於現行 Code。HKIE 手冊中的分析、設計例子與 BD Code／法例／PNAP 要求須分清，不能互相替代；同時核對 Code 修訂。掃描頁 OCR 是未經人工核證的轉錄，數值、公式、表格及圖須回看 PDF。此目錄涵蓋已核對的公開手冊及 BD steel/wind 解說，並非聲稱 HKIE／BD 所有解說文件已齊全。
+
+## 搜尋測試結果的解讀（2026-11-11）
+`search/qa_review.md`、`search/qa_report.json` 及 `tests/README.md` 記錄原100條搜尋列的逐列審閱。原題庫只有60個不同搜尋字串，並非100條有完整答案的獨立工程問題。不得把候選文件命中、文件覆蓋、官方檔案SHA一致、頁碼地址存在或Actions成功，稱為答案準確率、條件判讀正確率或頁面證據正確率。新搜尋使用文件去重，分開回傳法例條文及PDF結果，並列PNAP交叉引用和Code修訂；回答仍須讀取原文及適用範圍。另已加入《Geotechnical Manual for Slopes》及原官方頁面的TGN更新連結；新增OCR亦屬未經人工核證的轉錄，數值、表格及圖仍須回看PDF。

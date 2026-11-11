@@ -4,41 +4,37 @@ Uses the existing SQLite FTS5 index. No model API or paid service.
 Each JSON file includes only ranked page excerpts and original page locations.
 """
 import json
-import sqlite3
 from pathlib import Path
+from retrieval import search, search_legislation
 
 ROOT = Path(__file__).resolve().parents[1]
 DB = ROOT / "search" / "pnap_fts.sqlite3"
 DEST = ROOT / "search" / "topics"
 QUERIES = {
-    "scheduled-area-gi": '"ground investigation" OR "scheduled area" OR "scheduled areas"',
-    "approval-consent": '"approval and consent" OR "consent to commence" OR "commencement of works"',
-    "consent-renewal": '"renewal of consent" OR "consent" OR "validity"',
-    "foundation": '"foundation" OR "piling"',
-    "site-formation": '"site formation" OR "excavation"',
+    "scheduled-area-gi": 'scheduled area ground investigation',
+    "approval-consent": 'approval consent commencement',
+    "consent-renewal": 'consent renewal suspended commencement',
+    "foundation": 'foundation bored pile',
+    "site-formation": 'site formation submission',
+    "excavation-lateral-support": 'excavation lateral support',
+    "wind-effects": 'wind effects',
+    "retaining-wall": 'retaining wall',
+    "ground-investigation": 'ground investigation',
+    "slope-stability": 'slope stability',
+    "concrete-design": 'concrete design',
 }
 
 def main():
     if not DB.exists():
         raise SystemExit("Build search/pnap_fts.sqlite3 first")
     DEST.mkdir(parents=True, exist_ok=True)
-    with sqlite3.connect(DB) as db:
-        for slug, expression in QUERIES.items():
-            hits = db.execute(
-                """SELECT p.code,p.source,p.page_no,
-                          snippet(page_fts,1,'[',']',' … ',22),
-                          bm25(page_fts)
-                   FROM page_fts JOIN page p ON p.id=page_fts.rowid
-                   WHERE page_fts MATCH ? ORDER BY bm25(page_fts) LIMIT 15""",
-                (expression,),
-            ).fetchall()
-            results = [{"code":code, "source":"indexed_text/"+source,
-                        "pdf_page":page, "excerpt":excerpt}
-                       for code,source,page,excerpt,_ in hits]
-            (DEST / (slug+".json")).write_text(
-                json.dumps({"query":expression, "results":results},
-                           ensure_ascii=False, indent=2)+"\n",encoding="utf-8")
-            print(f"{slug}: {len(results)} pages")
+    for slug, query in QUERIES.items():
+        results = [dict(row, source='indexed_text/'+row['source']) for row in search(query,15)]
+        (DEST / (slug+'.json')).write_text(json.dumps({
+            'query':query,'results':results,'legislation':search_legislation(query,10),
+            'note':'One best page per document. XML results have no PDF page number. Follow the original text, PNAP cross-references and amendment links; rankings are not answers.',
+        },ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+        print(f'{slug}: {len(results)} documents')
     # Direct document lookup is more reliable than GitHub code search.
     manifest = json.loads((ROOT/"index_manifest.json").read_text(encoding="utf-8"))
     catalog = {}

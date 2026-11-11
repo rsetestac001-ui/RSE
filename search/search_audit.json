@@ -1,6 +1,6 @@
 {
-  "documents": 365,
-  "pages": 11272,
+  "documents": 366,
+  "pages": 11575,
   "empty_pages": [
     {
       "file": "BD_CODES/steel/EMSUOS2011e.txt",
@@ -580,7 +580,7 @@
     }
   ],
   "errors": [],
-  "manifest_documents": 365,
+  "manifest_documents": 366,
   "manifest_failed": 0,
-  "manifest_needs_review": 38
+  "manifest_needs_review": 39
 }

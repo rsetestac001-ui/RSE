@@ -90,22 +90,12 @@ def variants(q):
 def search(q, limit):
     if not DB.exists():
         raise SystemExit("Missing database. Run build first.")
-    expressions=[]
-    for term in variants(q):
-        tokens=re.findall(r"[\w]+",term,flags=re.UNICODE)
-        if tokens:
-            expressions.append('"'+' '.join(tokens)+'"')
-    expr=" OR ".join(dict.fromkeys(expressions))
-    with sqlite3.connect(DB) as conn:
-        rows=conn.execute("""
-            SELECT p.code,p.source,p.page_no,
-                   snippet(page_fts,1,'[',']',' … ',32) AS excerpt,
-                   bm25(page_fts) AS score
-            FROM page_fts JOIN page p ON p.id=page_fts.rowid
-            WHERE page_fts MATCH ?
-            ORDER BY score LIMIT ?""",(expr,limit)).fetchall()
-    print(json.dumps([{"code":r[0],"source":r[1],"pdf_page":r[2],
-                       "excerpt":r[3],"score":r[4]} for r in rows],indent=2,ensure_ascii=False))
+    from retrieval import search as retrieve, search_legislation
+    print(json.dumps({
+        "documents": retrieve(q, limit),
+        "legislation": search_legislation(q, min(limit, 10)),
+        "note": "Read the full source and its cross-references. Rankings are not answers; XML has no PDF page number.",
+    }, indent=2, ensure_ascii=False))
 
 def audit():
     if not REPORT.exists():

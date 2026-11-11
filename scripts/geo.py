@@ -16,7 +16,7 @@ from urllib3.util.retry import Retry
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = 'https://www.cedd.gov.hk'
-FAMILIES = {'GEOGUIDES': 'geoguides', 'GEO_PUBLICATIONS': 'geo-gco', 'TGN': 'geo-technical-guidance-notes'}
+FAMILIES = {'GEOGUIDES': 'geoguides', 'GEO_PUBLICATIONS': 'geo-gco', 'TGN': 'geo-technical-guidance-notes', 'GEO_MANUALS': 'geo-gms'}
 
 def get(url):
     session = requests.Session()
@@ -54,6 +54,10 @@ def discover(family, part):
             if parsed.hostname != 'www.cedd.gov.hk':
                 continue
             if parsed.path.lower().endswith('.pdf'):
+                # The GMS landing page also links TGNs already owned by the TGN
+                # catalogue. Preserve those links in the saved page, without duplicating PDFs.
+                if family == 'GEO_MANUALS' and Path(parsed.path).name.lower() != 'egms.pdf':
+                    continue
                 row = a.find_parent('tr')
                 label = a.get_text(' ',strip=True)
                 context = row.get_text(' ',strip=True) if row else a.parent.get_text(' ',strip=True)
@@ -96,7 +100,7 @@ def main():
             try: job.result()
             except Exception as exc: errors.append({'url':jobs[job]['url'],'error':str(exc)})
     manifest={'checked_at':datetime.now(timezone.utc).isoformat(),'families':families,'documents':records,'errors':errors,
-              'scope':'PDFs linked within official Geoguides, GCO/GEO Publications and TGN catalogue trees, including linked original editions and amendments. GEO Reports, Geospecs and other GEO publication families are outside this scope. Cancelled TGN rows are preserved, even where no PDF is offered. Catalogue inclusion does not establish current applicability. Image-only pages require visual review; no unverified OCR is substituted.'}
+              'scope':'PDFs linked within official Geoguides, GCO/GEO Publications and TGN catalogue trees, plus the Geotechnical Manual for Slopes and its saved update links. Includes linked original editions and amendments. GEO Reports, Geospecs and other GEO publication families are outside this scope. Cancelled TGN rows are preserved, even where no PDF is offered. Catalogue inclusion does not establish current applicability. Image-only pages require visual review; no unverified OCR is substituted.'}
     (ROOT/'geo'/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     if errors: raise SystemExit(f'{len(errors)} downloads failed; see geo/manifest.json')
     print(f'Saved {len(records)} GEO PDFs',flush=True)
