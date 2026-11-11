@@ -38,3 +38,7 @@ This file records the user's standing preference for RSE project responses. It d
 
 回答 SF 入則觸發條件時，應核對當時版本的 Cap.123 第2、14及41條、Cap.123A 第8(1)(bb)條，以及適用的 PNAP，例如 APP-15、APP-25、APP-56、APP-57、ADM-15。
 APP-56 的新界豁免建築相關 SF 豁免條件、APP-25 的 GBP 階段岩土評估條件及 APP-57 的 ELS 入則條件用途不同。必須讀取現行文件後再引用數字，不能把其中任何一套直接視為所有 SF 工程的通用入則門檻。
+
+## APSEC Discussion Forum retrieval
+
+相關問題亦須查閱 `apsec/manifest.json` 的年份覆蓋及來源，再讀取 `documents/APSEC/` 或 `indexed_text/APSEC/` 原文。必須區分左欄提出的問題與右欄 BD 回應，並引用會議日期、item 編號、欄位及 PDF 實體頁碼。APSEC Discussion Forum 摘要並非法例、PNAP 或完整 APSEC 正式會議紀錄；須核對現行法例、PNAP、codes 及原文交叉引用。公開收藏未核實為完整歷史檔案；較早或未列出的會議缺漏必須如實交代，不可把未下載當成沒有相關討論。

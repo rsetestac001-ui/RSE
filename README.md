@@ -8,6 +8,12 @@ loads, wind effects, listed amendments and official explanatory material. The
 [code catalogue](codes/catalog.json) records exact original PDF and page-marked
 text paths; the existing full-text database includes these codes alongside PNAP.
 
+## APSEC Discussion Forum summaries
+See [APSEC archive and coverage notes](apsec/README.md) and
+[provenance manifest](apsec/manifest.json) for the public HKIE collection.
+Original PDFs and page-marked text share the existing full-text search index.
+Historical completeness is not verified; unlisted/pre-2017 records remain gaps.
+
 ## Phone-only usage
 1. Open the [documents folder](https://github.com/rsetestac001-ui/RSE/tree/main/documents).
 2. Select **Add file > Upload files**, choose a text-based PDF, and commit.
