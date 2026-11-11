@@ -26,13 +26,22 @@ def main():
             parts = []
             empty = []
             apsec = rel.parts[0] == "APSEC"
+            geo = rel.parts[0] == "GEO"
             if apsec:
                 from apsec import page_text
                 entry["extraction_mode"] = "native PDF reading order; OCR for image-only pages"
                 entry["ocr_pages"] = []
+            if geo:
+                from geo_ocr import page_text as geo_page_text
+                entry["extraction_mode"] = "native text; hash-bound OCR cache for scanned pages"
+                entry["ocr_pages"] = []
             for i, page in enumerate(doc, 1):
                 if apsec:
                     content, ocr = page_text(page, entry["sha256"])
+                    if ocr:
+                        entry["ocr_pages"].append(i)
+                elif geo:
+                    content, ocr = geo_page_text(page, entry["sha256"])
                     if ocr:
                         entry["ocr_pages"].append(i)
                 else:
