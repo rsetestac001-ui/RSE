@@ -652,12 +652,13 @@
       "status": "review_empty_pages",
       "pages": 248,
       "extraction_mode": "native text; hash-bound OCR cache for scanned pages",
-      "ocr_pages": [],
+      "ocr_pages": [
+        1
+      ],
       "empty_pages": [
-        1,
         248
       ],
-      "characters": 528388
+      "characters": 528654
     },
     {
       "source": "GEO/GEOGUIDES/GEOGUIDES-9689efc0-eg1_198209.pdf",
@@ -666,11 +667,26 @@
       "status": "review_empty_pages",
       "pages": 155,
       "extraction_mode": "native text; hash-bound OCR cache for scanned pages",
-      "ocr_pages": [],
-      "empty_pages": [
-        1,
+      "ocr_pages": [
         2,
         8,
+        106,
+        108,
+        110,
+        112,
+        116,
+        118,
+        120,
+        126,
+        128,
+        134,
+        138,
+        142,
+        144,
+        150
+      ],
+      "empty_pages": [
+        1,
         22,
         52,
         58,
@@ -684,33 +700,19 @@
         100,
         102,
         104,
-        106,
-        108,
-        110,
-        112,
         114,
-        116,
-        118,
-        120,
         122,
         124,
-        126,
-        128,
         130,
         132,
-        134,
         136,
-        138,
         140,
-        142,
-        144,
         146,
         148,
-        150,
         152,
         154
       ],
-      "characters": 226227
+      "characters": 228408
     },
     {
       "source": "GEO/GEOGUIDES/GEOGUIDES-99ad5800-eg6_2022.10.27.pdf",
@@ -753,14 +755,14 @@
       "source": "GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.pdf",
       "text_file": "indexed_text/GEO/GEOGUIDES/GEOGUIDES-a50716d7-eg1_199310.txt",
       "sha256": "cc602ffa75d6adba6754e009fba8371bb78a118c6f124841532c5121dfbbd8d9",
-      "status": "review_empty_pages",
+      "status": "review_ocr_transcription",
       "pages": 259,
       "extraction_mode": "native text; hash-bound OCR cache for scanned pages",
-      "ocr_pages": [],
-      "empty_pages": [
+      "ocr_pages": [
         1
       ],
-      "characters": 904145
+      "empty_pages": [],
+      "characters": 904395
     },
     {
       "source": "GEO/GEOGUIDES/GEOGUIDES-a7a1dedb-Amendment_No_GG3_01_2017.pdf",
@@ -790,11 +792,10 @@
       "source": "GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.pdf",
       "text_file": "indexed_text/GEO/GEOGUIDES/GEOGUIDES-a8cb062b-eg2_198709.txt",
       "sha256": "ff9d6cfeea0be533b6d041dd2058c0270ba6bb4a809a6f6f017a893ec0378db2",
-      "status": "review_empty_pages",
+      "status": "review_ocr_transcription",
       "pages": 378,
       "extraction_mode": "native text; hash-bound OCR cache for scanned pages",
-      "ocr_pages": [],
-      "empty_pages": [
+      "ocr_pages": [
         4,
         6,
         7,
@@ -1111,7 +1112,8 @@
         377,
         378
       ],
-      "characters": 12059
+      "empty_pages": [],
+      "characters": 663392
     },
     {
       "source": "GEO/GEOGUIDES/GEOGUIDES-b3c176cc-Amendment_No_GG6_01_2022.pdf",
@@ -1224,11 +1226,10 @@
       "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-27f27fd3-ep1_84.pdf",
       "text_file": "indexed_text/GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-27f27fd3-ep1_84.txt",
       "sha256": "6c5a3ea97d49d5551c9fb75a0a97e1f43b03e6920c2dc025653a35a3ad3ee61a",
-      "status": "review_empty_pages",
+      "status": "review_ocr_transcription",
       "pages": 244,
       "extraction_mode": "native text; hash-bound OCR cache for scanned pages",
-      "ocr_pages": [],
-      "empty_pages": [
+      "ocr_pages": [
         1,
         2,
         3,
@@ -1474,17 +1475,17 @@
         243,
         244
       ],
-      "characters": 6724
+      "empty_pages": [],
+      "characters": 310638
     },
     {
       "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-54c4ab8d-ep4_84.pdf",
       "text_file": "indexed_text/GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-54c4ab8d-ep4_84.txt",
       "sha256": "9fe4dbd27d02cbf1996f5260dcd04e81a016345531d71b1695b04b0a74c48ad8",
-      "status": "review_empty_pages",
+      "status": "review_ocr_transcription",
       "pages": 50,
       "extraction_mode": "native text; hash-bound OCR cache for scanned pages",
-      "ocr_pages": [],
-      "empty_pages": [
+      "ocr_pages": [
         1,
         2,
         3,
@@ -1536,7 +1537,8 @@
         49,
         50
       ],
-      "characters": 1341
+      "empty_pages": [],
+      "characters": 96789
     },
     {
       "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-6c5c2f31-ep1_2012.pdf",
@@ -1556,17 +1558,14 @@
       "status": "review_empty_pages",
       "pages": 112,
       "extraction_mode": "native text; hash-bound OCR cache for scanned pages",
-      "ocr_pages": [],
-      "empty_pages": [
+      "ocr_pages": [
         1,
         2,
         3,
         4,
-        5,
         6,
         7,
         8,
-        9,
         10,
         11,
         12,
@@ -1586,7 +1585,6 @@
         26,
         27,
         28,
-        29,
         30,
         31,
         32,
@@ -1671,20 +1669,25 @@
         111,
         112
       ],
-      "characters": 3028
+      "empty_pages": [
+        5,
+        9,
+        29
+      ],
+      "characters": 146604
     },
     {
       "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-799868bb-ep1_2007.pdf",
       "text_file": "indexed_text/GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-799868bb-ep1_2007.txt",
       "sha256": "e224e25f76e53b8bc940bf24fb7f6a1d1c81ad5f832481a1a212d6b57de2117c",
-      "status": "review_empty_pages",
+      "status": "review_ocr_transcription",
       "pages": 279,
       "extraction_mode": "native text; hash-bound OCR cache for scanned pages",
-      "ocr_pages": [],
-      "empty_pages": [
+      "ocr_pages": [
         4
       ],
-      "characters": 1371842
+      "empty_pages": [],
+      "characters": 1374693
     },
     {
       "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.pdf",
@@ -1704,13 +1707,11 @@
       "status": "review_empty_pages",
       "pages": 86,
       "extraction_mode": "native text; hash-bound OCR cache for scanned pages",
-      "ocr_pages": [],
-      "empty_pages": [
+      "ocr_pages": [
         1,
         2,
         3,
         4,
-        5,
         6,
         7,
         8,
@@ -1793,7 +1794,10 @@
         85,
         86
       ],
-      "characters": 2313
+      "empty_pages": [
+        5
+      ],
+      "characters": 163321
     },
     {
       "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-9215f259-ep1_90.pdf",
@@ -1802,16 +1806,13 @@
       "status": "review_empty_pages",
       "pages": 188,
       "extraction_mode": "native text; hash-bound OCR cache for scanned pages",
-      "ocr_pages": [],
-      "empty_pages": [
+      "ocr_pages": [
         1,
         2,
         4,
-        5,
         6,
         7,
         8,
-        9,
         10,
         11,
         12,
@@ -1992,17 +1993,20 @@
         187,
         188
       ],
-      "characters": 5516
+      "empty_pages": [
+        5,
+        9
+      ],
+      "characters": 315010
     },
     {
       "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-a8d9a9b6-ep2_85.pdf",
       "text_file": "indexed_text/GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-a8d9a9b6-ep2_85.txt",
       "sha256": "a99afd8389f502443d8175fe6347eacf4444ad3a10e4daa676232b57aa70dd02",
-      "status": "review_empty_pages",
+      "status": "review_ocr_transcription",
       "pages": 112,
       "extraction_mode": "native text; hash-bound OCR cache for scanned pages",
-      "ocr_pages": [],
-      "empty_pages": [
+      "ocr_pages": [
         1,
         2,
         3,
@@ -2116,7 +2120,8 @@
         111,
         112
       ],
-      "characters": 3028
+      "empty_pages": [],
+      "characters": 152094
     },
     {
       "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-cdd01e45-ep1_91.pdf",
@@ -2125,17 +2130,13 @@
       "status": "review_empty_pages",
       "pages": 110,
       "extraction_mode": "native text; hash-bound OCR cache for scanned pages",
-      "ocr_pages": [],
-      "empty_pages": [
+      "ocr_pages": [
         1,
         2,
         3,
         4,
-        5,
         6,
-        7,
         8,
-        9,
         10,
         11,
         12,
@@ -2151,7 +2152,6 @@
         22,
         23,
         24,
-        25,
         26,
         27,
         28,
@@ -2171,7 +2171,6 @@
         42,
         43,
         44,
-        45,
         46,
         47,
         48,
@@ -2238,7 +2237,14 @@
         109,
         110
       ],
-      "characters": 2972
+      "empty_pages": [
+        5,
+        7,
+        9,
+        25,
+        45
+      ],
+      "characters": 86118
     },
     {
       "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-e2f79d67-ep1_2011.pdf",
@@ -2258,13 +2264,11 @@
       "status": "review_empty_pages",
       "pages": 133,
       "extraction_mode": "native text; hash-bound OCR cache for scanned pages",
-      "ocr_pages": [],
-      "empty_pages": [
+      "ocr_pages": [
         1,
         2,
         3,
         4,
-        5,
         6,
         7,
         8,
@@ -2274,7 +2278,6 @@
         12,
         13,
         14,
-        15,
         16,
         17,
         18,
@@ -2306,7 +2309,6 @@
         44,
         45,
         46,
-        47,
         48,
         49,
         50,
@@ -2394,7 +2396,12 @@
         132,
         133
       ],
-      "characters": 3616
+      "empty_pages": [
+        5,
+        15,
+        47
+      ],
+      "characters": 222752
     },
     {
       "source": "GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-fe691031-ep6_84.pdf",
@@ -2403,17 +2410,14 @@
       "status": "review_empty_pages",
       "pages": 63,
       "extraction_mode": "native text; hash-bound OCR cache for scanned pages",
-      "ocr_pages": [],
-      "empty_pages": [
+      "ocr_pages": [
         1,
         2,
         3,
         4,
-        5,
         6,
         7,
         8,
-        9,
         10,
         11,
         12,
@@ -2469,7 +2473,11 @@
         62,
         63
       ],
-      "characters": 1692
+      "empty_pages": [
+        5,
+        9
+      ],
+      "characters": 105841
     },
     {
       "source": "GEO/TGN/TGN-02e432b8-TGN-56.pdf",

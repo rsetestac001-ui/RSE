@@ -1,19 +1,139 @@
 
 
 ===== PDF PAGE 1 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Approximate Point Load Strength (MPa)
+8
 
+Strength
+ES class
+
+Marble
+(Deere & Miller, 1966)
+
+Dolomite, Limestone,
+Marble & Maristone
+(Dearman, 1981) —
+
+Concrete
+
+Modulus of Elasticity (GPa)
+
+\- Limestone
+(Deere &
+Miller, 1966)
+
+10 30 100 300 1000
+Uniaxial Compressive Strength (MPa)
+
+Debris flow Marine sediments Alluvial deposits
+
+West
+
+Granite and
+Granodiorite
 
 
 ===== PDF PAGE 2 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+GCO PUBLICATION No. 2/90
 
+FOUNDATION PROPERTIES OF
+MARBLE AND OTHER ROCKS IN
+THE YUEN LONG -TUEN MUN AREA
+
+GEOTECHNICAL CONTROL OFFICE
+Civil Engineering Services Department
+Hong Kong
 
 
 ===== PDF PAGE 3 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+© Government of Hong Kong
+First published, December, 1990
 
+Prepared by :
+
+Geotechnical Control Office,
+
+Civil Engineering Services Department,
+6th Floor, Empire Centre,
+
+68, Mody Road,
+
+Kowloon,
+
+Hong Kong,
+
+This publication is available from :
+
+Government Publications Centre,
+General Post Office Building,
+Ground Floor,
+
+Connaught Place,
+
+Hong Kong.
+
+Overseas orders should be placed with :
+Publications (Sales) Office,
+
+Information Services Department,
+
+1, Battery Path,
+
+Central,
+
+Hong Kong.
+
+Price in Hong Kong : HK$58
+
+Price overseas : US$10 (including surface postage)
+
+Cheques, bank drafts or money orders must be made payable to HONG KONG
+GOVERNMENT
 
 
 ===== PDF PAGE 4 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+FOREWORD
 
+The Yuen Long-Tuen Mun Eastern Corridor project involves the
+construction by the Highways Department of a 7 km-long dual two-lane trunk
+road. The geology of the project area is complex and locally highly
+variable, giving rise to various concerns in relation to the design of
+bridge foundations, not the least being the occurrence of buried marble
+containing cavities.
+
+The Geotechnical Control Office has been assisting the Highways
+Department with this project since 1986. Construction work is now underway
+and the road jis scheduled for completion in 1993. Before construction
+commenced the Office undertook a feasibility study, planned and supervised
+the ground investigation and advised on the design of bridge foundations.
+Recommendations arising from the investigation have been presented to the
+Highways Department in the form of Advisory Reports.
+
+The ground investigation included numerous deep boreholes and an
+extensive programme of laboratory testing of rock samples was carried out.
+In view of the lack of published local data on the engineering properties
+of the rock types likely to be encountered in deep foundations in this
+area, it was decided to publish the data obtained in this project along
+with an outline of the approach to the design of bored piles. This should
+serve as a useful source of information for other projects involving deep
+foundations in the Yuen Long - Tuen Mun area. It should be noted that this
+publication is not intended as a quide to standards of geotechnical
+practice nor is it a state of the art review,
+
+Dr T. Y. Irfan drafted and produced the publication, with checking and
+editing by Mr J. B. Massey, Dr R. P. Martin and Mr Y. C. Chan. Ors A.
+Cipullo and P. C. Tsui assisted with the interpretation of the ground
+investigation data. Or Cipullo also helped with the planning and execution
+of the laboratory testing programme. Messrs M. C. Chan and L. P. Ho
+carried out most of the point load tests.
+
+(A. W. Malone)
+Principal Government Geotechnical Engineer
+December 1990
 
 
 ===== PDF PAGE 5 =====
@@ -21,15 +141,204 @@
 
 
 ===== PDF PAGE 6 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+CONTENTS
 
+Title Page
+
+FOREWORD
+
+CONTENTS
+
+1.
+
+2.
+
+INTRODUCTION
+
+GEOLOGICAL SETTING
+
+2.1 GENERAL GEOLOGY
+
+2.2 DESCRIPTION OF THE LITHOLOGICAL UNITS
+2.2.1 General
+2.2.2 Superficial Deposits
+2.2.3 Basic and Acidic Intrusions
+2.2.4 Volcanic Rock Units
+2.2.5 Metasedimentary Rock Unit
+2.2.6 Marble Unit
+
+GEOTECHNICAL CHARACTERIZATION OF FOUNDATION ROCKS
+
+3.1 GEOMECHANICS CLASSIFICATION OF ROCK MASSES
+
+3.2 WEATHERING/ALTERATION MASS AND MATERIAL CLASSIFICATION
+3.3 WEATHERING PROFILE IN CARBONATE ROCKS
+
+LABORATORY TESTING OF INTACT ROCK
+4.1 TESTING METHODS
+4.2 ROCK TYPES TESTED
+
+ENGINEERING PROPERTIES OF INTACT ROCK
+5.1 UNIAXIAL COMPRESSIVE STRENGTH (UCS)
+5.1.1 Tuff Breccia
+5.1.2 Marble
+5.2 STRESS-STRAIN BEHAVIOUR AND ELASTIC PROPERTIES
+5.2.1 Tuff Breccia
+5.2.2 Marble
+5.3 POINT LOAD STRENGTH (PLS)
+
+5.3.1 Classification of Rocks in Terms of Point Load
+Strength
+
+5.3.2 Tuff Breccia
+5.3.3 Marble
+5.3.4 Metasiltstones and Metasandstones
+
+Page
+No.
+
+on Ww
+
+11
+11
+11
+11
+12
+12
+13
+13
+13
+
+15
+15
+15
+17
+
+19
+19
+19
+
+21
+21
+21
+21
+22
+22
+22
+23
+23
+
+23
+24
+24
 
 
 ===== PDF PAGE 7 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+8.
+9.
 
+5.3.5 Basic Dykes
+
+5.4 PHYSICAL INDEX PROPERTIES
+5.4.1 Tuff Breccia
+5.4.2 Marble
+
+5.5 RELATIONSHIPS BETWEEN INDEX PROPERTIES AND
+STRENGTH PROPERTIES
+
+5.6 CORRELATION BETWEEN POINT LOAD STRENGTH AND UNIAXIAL
+COMPRESSIVE STRENGTH
+
+5.7 GEOMECHANICAL CLASSIFICATION OF MARBLE AND TUFF BRECCIA
+IN TERMS OF INTACT STRENGTH AND ELASTIC MODULUS
+ROCK MASS PROPERTIES
+6.1 GENERAL
+6.2 WEATHERING PROFILES
+6.2.1 Volcanic Rock Units
+6.2.2 Metasedimentary Rock Unit
+6.2.3 Marble Unit
+6.3 DISCONTINUITIES (RQD AND FRACTURE INTENSITY)
+PRELIMINARY ASSESSMENT OF BEARING CAPACITY OF FOUNDATION
+ROCKS
+7.1 GENERAL
+
+7.2 ALLOWABLE BEARING PRESSURES FOR DEEP FOUNDATIONS IN
+THE PROJECT AREA
+
+7.2.1 Code Values
+7.2.2 RQD Method
+7.2.3 Canadian Foundation Engineering Method
+7.2.4 Settlement Calculations: Rock Mass Factors
+and Rock Mass Deformation Moduli
+GENERAL COMMENTS ON FOUNDATIONS WITH RESPECT TO THE MARBLE UNIT
+
+CONCLUSIONS
+
+REFERENCES
+
+TABLES
+
+LIST OF TABLES
+TABLES
+
+FIGURES
+
+LIST OF FIGURES
+FIGURES
+
+Page
+No.
+24
+25
+25
+25
+25
+
+26
+
+26
+
+29
+29
+29
+29
+29
+30
+30
+
+33
+
+33
+33
+
+33
+34
+34
+35
+
+37
+41
+43
+
+47
+49
+51
+
+63
+65
 
 
 ===== PDF PAGE 8 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Page
 
+No.
+PLATES 93
+LIST OF PLATES 95
+
+PLATES 97
 
 
 ===== PDF PAGE 9 =====
@@ -37,79 +346,933 @@
 
 
 ===== PDF PAGE 10 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+1. INTRODUCTION
 
+The Northwest New Territories has seen rapid construction activity
+for new town development in recent years. Foundation conditions in the
+Northwest New Territories are generally more varied and complex than in
+other urban areas of Hong Kong where only granitic and volcanic rocks are
+encountered. The presence of marble under a thick superficial soil cover
+was reported by Siu & Wong (1985). The discovery of marble with karstic
+features including large cavities (Pascal, 1987) led to special
+instructions being issued for foundation works within a Designated Area,
+i.e. that affected by marble bedrock (Lands and Works Branch Technical
+Circular No. 4/89 and Buildings Ordinance Office Practice Note 129). In
+1990, the Buildings Ordinance and Regulations were amended to introduce
+new control provisions for the area within which marble may be found,
+referred to as “Area Number 2 of the Scheduled Areas". In addition to
+marble, which may locally contain large cavities, marble-clast bearing tuff
+breccia, pyroclastic volcanic rocks, granites, granodiorite, sedimentary
+and metamorphic rocks underlie the area. These are generally covered by a
+thick layer of superficial materials consisting of fill, alluvium, debris
+flow and marine deposits. The geology is further complicated by a number
+of faults and dyke intrusions.
+
+The route of the Yuen Long to Tuen Mun Eastern Corridor, a proposed
+trunk road joining the two new towns (Figure 1, Plate 1), crosses this area
+of complex geology. Construction of the new road will involve a number of
+embankments across the alluvial plain, cut slopes through the hillsides and
+bridges across the stream courses and in the interchange areas.
+
+The Geotechnical Control Office (GCO) has been assisting the Highways
+Department with the geotechnical aspects of the foundation and slope
+design, including the site investigation and interpretation of the
+foundation conditions at a number of bridge sites at Interchanges 1, 3 and
+4. A laboratory testing programme involving determination of index,
+strength and deformation properties of the main rock units was undertaken
+in order to assess the properties of the foundation rocks at these bridge
+sites. The engineering properties of the local metamorphic rocks,
+particularly marble, are little known and no detailed test data have been
+published. The main testing programme was contracted out to the Department
+of Civil and Structural Engineering of the University of Hong Kong. This
+was supplemented by point load testing of the main rock units by technical
+and professional staff of the GCO.
+
+In view of the general geotechnical interest of the area, it was
+decided to publish this information in order to provide data on the
+foundation conditions and the engineering properties of the rocks.
 
 
 ===== PDF PAGE 11 =====
-
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+10
 
 
 ===== PDF PAGE 12 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+11
+2. GEOLOGICAL SETTING
 
+2.1 GENERAL GEOLOGY
+
+Recent geological mapping by the Geological Survey of Hong Kong of the
+area between Tuen Mun and Yuen Long indicates that this portion of the
+Northwest New Territories is underlain by metamorphic rocks including
+marble of Carboniferous age, and by volcanic rocks and granite intrusions
+of Jurassic to Cretaceous age (Langford et al, 1989; Darigo, 1989; Frost,
+1991) (Figure 2). Basalt dykes, probably Tertiary in age, are often found
+associated with faults. Superficial deposits (fill, alluvium, mud and
+debris flow deposits), usually 5 to 20 m thick, cover the bedrock which is
+generally deeply weathered in the low-lying areas. A generalized cross-
+section of the strata in the Yuen Long Area is shown in Figure 3.
+
+The Carboniferous rocks belong to the Mai Po member of the Lok Ma Chau
+Formation and the Yuen Long Formation of the San Tin Group (Tables 1 and
+2). Volcanic rocks belong to the Tuen Mun Formation of the Repulse Bay
+Group. The Mai Po Member consists of metasiltstones and metasandstones
+with phyllite layers, whereas the Yuen Long Formation consists of marble,
+dolomitic in part, interbedded with siltstones in the upper horizons.
+
+Ground investigation carried out for the Highways Department project
+has shown that, in the southern portion of the area near Tuen Mun, the
+underlying bedrock consists predominantly of alternating layers of
+tuffaceous siltstone and tuff breccia with marble clasts. Also present in
+the southern portion of the area are predominantly andesitic volcanic rocks
+of the Tuen Mun Formation, Repulse Bay Volcanic Group. In the northern
+portion of the area, near Yuen Long, the dominant rock types are
+metamorphosed sandstones and siltstones of the Mai Po Member of the Lok Ma
+Chau Formation, and marble and interbedded marble and metasiltstones of the
+Yuen Long Formation. The hills between Tuen Mun and Yuen Long (Plate 1)
+are dominantly composed of fine- and fine- to medium-grained granite,
+Detailed (1:5 000 scale) geological maps of the area between the two
+towns, known as “the Designated Area", have been produced by the
+Geotechnical Control Office (see list of GCO publications at the back of
+this publication}.
+
+The broad structural geology of the Northwest New Territories
+indicates that the Carboniferous bedrock forms a wedge, bounded and
+controlled by faults, extending from Guangdong Province, and underlying
+much of the Lo Wu - Yuen Long - Tuen Mun Plain. The regional geological
+structure is dominated by a series of northeast-southwest trending faults
+generally dipping northwest, with more recent cross-faults trending
+northwest-southeast and offsetting the former. The overall regional dip of
+the foliation and bedding is towards the northwest at about 50°, but sharp
+variations in the dip and dip direction are also present, which complicate
+the geological succession in many areas.
+
+2.2 DESCRIPTION OF THE LITHOLOGICAL UNITS
+2.2.1 General
+
+Examination of soil and rock samples obtained during the ground
+investigation suggests the presence of five broad lithological units.
 
 
 ===== PDF PAGE 13 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+12
 
+These are, from the youngest to the oldest, as follows :
+
+(a) Superficial deposits of Late Tertiary to
+Quaternary age, comprising alluvium, mud and
+debris flow deposits, plus recent fill.
+
+(b) Intrusive dyke rocks of granite, rhyolite,
+andesite and basalt of probable Cretaceous and
+Tertiary age (Frost, 1991).
+
+(c) Interbedded siltstone, sandstone, marble-bear ing
+tuff breccia and tuffs of Jurassic age (Tuen Mun
+Formation of the Repulse Bay Yolcanic Group).
+
+(d) Interbedded metasiltstones and metasandstones of
+Carboniferous age (Mai Po Member of the Lok Ma
+Chau Formation).
+
+(e) Marble and interbedded marble and metasedimentary
+rocks of Carboniferous age (Yuen Long Formation).
+
+The weathering terms used in the following sub-sections are taken from
+a rock mass classification which is based on the scheme given by BSI(1981).
+The details of this classification are explained in Section 3.2. This
+classification was found to be the most appropriate for the purposes of the
+project.
+
+Plates 2 to 15 illustrate the various rock units encountered in the
+boreholes in the project area.
+
+2.2.2 Superficial Deposits
+
+Fill occurs over much of the area, generally up to 3 m thick, but up
+to 6m in some localities, It generally consists of loose to medium dense
+silty and clayey sands, locally gravelly and cobbly. Alluvium is the most
+widespread superficial deposit overlying bedrock in both the northern and
+southern portions of the site. It often occurs as interlayered soft to
+firm, grey or brownish grey, clayey silt, and loose to dense, light grey,
+coarse and occasionally fine sand. Its thickness is generally between 5 m
+and 15 m, but may be up to 24 m thick in areas underlain by old buried
+natural drainage channels. Mudflow and debris flow deposits, which are
+known to occur in the Yuen Long area above marble bedrock, were identified
+in one or two boreholes. No marine deposits were found in the boreholes
+inspected for the project.
+
+2.2.3 Basic and Acidic Intrusions
+
+Granite and rhyolite dykes were found intruding both the marble and
+the sedimentary rocks in a limited number of boreholes, The dykes are
+typically highly to completely weathered, with a thickness not exceeding
+5m. Frost (1991) reported the presence of granite and granodiorite in a
+number of deep boreholes, up to 250 m, drilled for the geological survey
+of the Yuen Long area.
+
+Dykes of basic and intermediate composition also occur as thin to
 
 
 ===== PDF PAGE 14 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+13
 
+thick intrusions (Plate 5), often associated with faults, in the marble and
+metasiltstone at Interchanges No. 3 and 4 (Figure 1). The rocks are strong
+and dark grey to black when fresh, and become a dense to very dense
+greyish green sandy silt when completely decomposed. The major basic
+intrusions strike northeast-southwest and dip northwest with thicknesses
+ranging from 5 m to 15 m, following the general structural features of the
+area. Thermal metamorphism has obviously occurred along the contact zone
+between the dykes and the country rock (Plate 5), particularly the white
+and grey marble subunits (Tsui & Irfan, 1990; Frost, 1991).
+
+2.2.4 Volcanic Rock Units
+
+A sequence of marble-bearing tuff breccia and tuffs interbedded with
+tuffaceous siltstone/sandstone occurs at the location of Interchange No. 1.
+(Figure 1). This sequence has been named the Tin Shui Wai Member of the
+Tuen Mun Formation (Darigo, 1989). The sandstone and siltstone are
+weathered to a loose to very dense sandy silt and silty sand to depths of
+60m or more (Plate 13). The tuff breccia is strong to very strong and
+widely jointed when fresh, containing 20% to 50% of subrounded to angular
+fragments of marble, quartzite and metasandstone embedded in a greenish
+grey to grey fine-grained tuff matrix. The fine-grained tuff may also
+occur as distinct bands which are easily recognizable in the moderately
+decomposed state (Plates 10 to 13) as they do not exhibit the typical
+honeycombed relict structure of the dissolved carbonate clast-rich zones.
+
+A sequence of tuff of andesitic composition is present locally under
+one of the bridge foundations in the southern portion of the site.
+
+2.2.5 Metasedimentary Rock Unit
+
+Interbedded metasiltstones and metasandstones of the Mai Po Member of
+the Lok Ma Chau Formation (Table 1), overlying marble of the Yuen Long
+Formation, occur in the northern portion of the site. This unit is
+generally completely weathered to depths of 15 to 40 m, locally to 70 mor
+more. The rocks are generally grey or dark grey, strong in the fresh state
+and they may show a pronounced foliation (Plates 14 and 15). Graphitic
+siltstone, usually strongly foliated, is also known to occur at certain
+horizons.
+
+2.2.6 Marble Unit
+
+The marble unit belongs to the Carboniferous Yuen Long Formation and
+occurs in the northern portion of the site near Yuen Long. Boreholes have
+revealed the occurrence of three major, visually recognizable, marble
+subunits : white marble, grey marble, and interbedded marble and siltstone,
+all belonging to the Ma Tin Member (Plates 2 to 8). The former two
+subunits were encountered in boreholes at Interchanges No. 3 and 4, and
+the interbedded variety was encountered mainly at Interchange No. 4
+(Figure 1). Stratigraphically, the interbedded marble is underlain by the
+grey marble subunit, which is in turn underlain by the white marble
+subunit. The oldest marble, the Long Ping Member (Plate 9), was not
+encountered in any of the boreholes put down during the site investigation
+for the project.
 
 
 ===== PDF PAGE 15 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+14
 
+The interbedded marble and metasiltstone subunit is characterised by
+the presence of white to grey, fine-grained marble beds with narrow to
+thickly-laminated, light greenish grey metamorphosed siltstone (Plates 4
+and 7). The siltstones are typically crushed and sheared, with smooth,
+polished and slickensided shear planes. The weathering profile is
+generally deep in this subunit, and all the weathered rock grades may be
+present (see Section 3.3). Large cavities are generally absent in the
+interbedded subunit but minor solution features are present.
+
+The grey or bluish grey marble (Plates 2 and 6) is typically strong
+and fine-grained, with moderately to widely-spaced joints when fresh, while
+in its weathered state it generally becomes medium dense to dense, slightly
+clayey and silty, fine to occasionally medium sand. The latter product,
+generally very thin, represents the insoluble portion of the original rock,
+which was probably an impure argillaceous limestone prior to metamorphism.
+The grey marble subunit at some of the bridge sites has been locally
+affected by granitic intrusions and contains granitic veins and silicified
+patches (Plates 2 and 3}.
+
+The white marble subunit (Plates 5 and 6), which is known to underlie
+the alluvial cover at the eastern end of Yuen Long, has only been
+encountered at the Bridge No. 14 site at Interchange No. 4 and the Bridge
+No. 13A site at Interchange No. 3 (Figure 1}. The white marble is a fine
+to coarsely crystalline, moderately strong rock with very widely-spaced
+joints. No soil residue is formed over this subunit because of its pure
+composition, except where it has been affected by acidic or basic
+intrusions.
+
+Marble adjacent to the major basic and acidic dykes is altered to a
+rock varying in composition from a dark grey skarn-like material to marble
+with chloritic veins (Plate 5} as a result of contact metamorphism and
+hydrothermal alteration (Tsui & Irfan, 1990). The intensity of alteration
+decreases away from the contact. No mineralogical study of the effects of
+contact metamorphism of the basic dykes in the Yuen Long area has been
+undertaken. It is this contact metamorphic zone which is differentially
+weathered in the otherwise fresh marble underlying some of the bridge
+sites, particularly at Interchange No. 3 (Plate 5). In some cases, this
+altered and weathered layer directly underlies the superficial layers,
+resulting in the formation of a weathering profile showing a transition
+from completely weathered to slightly weathered and fresh marble
+(Figure 4}.
+
+Some small lengths of zero or very low core recovery are shown in the
+borehole logs in the grey and white marble, particularly near the top
+surface of the bedrock. These are thought to be associated with small
+solution cavities, some of which appear to have been partly infilled with
+soft to firm, light brown, clayey silt with marble fragments of gravel
+size, Most of the infill material has not been recovered.
+
+No major cavities or other solution effects around joints were
+identified in the drillholes. However, the presence of such features at
+greater depths or in a thicker sequence of the pure white marble subunit
+cannot be discounted.
 
 
 ===== PDF PAGE 16 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+15
+3. GEOTECHNICAL CHARACTERIZATION OF FOUNDATION ROCKS
 
+3.1 GEOMECHANICS CLASSIFICATION OF ROCK MASSES
+
+For sound foundation design, the engineering properties of the soil or
+rock masses must be known in order to determine the behaviour of the ground
+under the imposed toad. The important engineering properties of the rock
+mass are deformability and strength, and these depend on :
+
+(a) the properties of intact material,
+(b) the discontinuity pattern and its characteristics, and
+(c) the characteristics of the weathering profile.
+
+The intact rock properties can be determined by laboratory tests.
+Measurement of rock mass properties by insitu testing is generaliy very
+expensive, and because of variations in geological conditions, can only
+provide data for a specific locality or a site. By classifying the rock
+mass into a number of broad classes or groups, each of which can be
+expected to show reasonably distinctive engineering behaviour, the limited
+field test data and experience gained at one site can be applied to other
+sites with similar characteristics.
+
+A number of geotechnical rock classification systems have been
+devised. These take into account such factors as structure,
+discontinuities, details of the weathering profile, groundwater conditions
+and the material properties. Some of the best known systems have been
+developed for underground excavations (e.g. Bieniawski, 1976; Barton et
+al, 1974), where various rock material and mass characteristics have been
+given numerical weightings to arrive at a number of geomechanical classes.
+The classifications are then used to predict the rock mass deformation
+moduli (Bieniawski, 1978) or stand-up times in tunnels (Bieniawski, 1976;
+Barton et al, 1974). The assessment of weathering has become an important
+aspect of rock mass classification for engineering purposes in Hong Kong,
+where the rocks are deeply weathered.
+
+In this investigation, a simplified engineering classification scheme
+based on lithological characteristics and mass weathering zones (Section
+3.2) has been used to delineate the foundation layers. Laboratory testing
+has been carried out to determine the intact material properties of various
+rock types, particularly those of the marble subunits and the tuff breccia.
+The rock mass characteristics, together with intact rock properties, have
+then been used to assess the rock mass engineering properties of the
+various foundation units (Chapter 8).
+
+3.2 WEATHERING/ALTERATION MASS AND MATERIAL CLASSIFICATION
+
+A unified mass classification scheme broadly based on BS 5930 (BSI,
+1981) has been used to characterize the weathering and alteration state of
+all the foundation rocks (Table 3). The application of this scheme, with
+modifications as explained below, to various igneous, volcanic and
+sedimentary rock sequences is decribed in several GCO unpublished reports
+and technical publications (e.g. Powell & Irfan, 1987 for volcanic and
+volcano-sedimentary rocks; Irfan & Powell, 1985 and Choy et al, 1987 for
 
 
 ===== PDF PAGE 17 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+16
 
+granites; Irfan, 1988 for metamorphic rocks). A brief discussion of
+weathering processes and the applicability of the scheme to carbonate rocks
+in general, and to the marble unit in Yuen Long in particular, is given in
+the next section.
+
+The moderately weathered/altered rock mass zone has been separated
+into two sub-zones at about 10% soil content, based on Irfan & Powell
+(1985). For foundation purposes, a moderately weathered/altered rock mass
+in strong rock with less than 10% soil is considered to be a favourable
+foundation layer for end-bearing piles because of its high bearing capacity
+and low settlement properties, except for marble and other carbonate rocks
+affected by dissolution. In the latter case, the bearing capacity and
+settlement characteristics will depend on the size and distribution of
+dissolution features and the discontinuity pattern. The foundation
+problems associated with solution and discontinuity effects in soluble
+carbonate rocks have been discussed in detail by Sowers (1976a, 1984) and
+summarized by Dearman (1981).
+
+For description of the weathering (including solution) and alteration
+state of the rock material, a uniform scheme has been used for all the
+rocks (Table 4). Based on visual recognition of weathering and alteration
+effects, three broad material classes have been identified :
+
+(a) Fresh Rock (Grade 1)
+(b} Decomposed/Disintegrated Rock (Grades 2, 3 and 4)
+(c) Soil (Grades 5 and 6)
+
+Solution has been included in the broader term of "Decomposition", as
+have the effects of alteration (e.g. hydrothermal alteration). It is
+usually difficult to visually distinguish the effects of hydrothermal
+processes from weathering effects in hand specimens, particularly in rocks
+where more recent weathering effects are superimposed on generally much
+older alteration effects. The suffix (A) in brackets can be used at the
+end of the decomposition term if such effects are clearly recognised, e.g.
+Slightly Decomposed (A) Granite.
+
+The Decomposed/Disintegrated Rock material class has been subdivided
+into three grades :
+
+(a) Slightly (Grade 2).
+
+Material which is partially discoloured, with
+slight decomposition/disintegration of mineral
+constituents. Further sub-division has been made,
+where necessary, as follows :
+
+(i) Rock with less than 50% discoloration (Grade
+2i),
+
+(ii) Rock with more than 50% discoloration (Grade
+2ii),
+
+based on the amount of staining of the rock
+material.
 
 
 ===== PDF PAGE 18 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+17
 
+(b) Moderately (Grade 3).
+
+Material which is completely discoloured, with one
+or more mineral constituents showing some degree
+of chemical alteration or a moderate degree of
+microfracturing, or both.
+
+(c) Highly (Grade 4}.
+
+Material which is completely discoloured, with one
+or more mineral constituents showing a high degree
+of chemical alteration to gritty aggregates or a
+high degree of microfracturing, or both.
+
+The Soil class has been subdivided into two grades :
+(a) Completely Decomposed/Disintegrated (Grade 5).
+
+Material which still retains the parent rock
+fabric as a result of weathering or alteration,
+but which behaves like a soil in terms of
+consistency and strength.
+
+(b) Residual Soil (Grade 6).
+
+Material which has lost all or most of the parent
+fabric.
+
+The terms "Fresh" to "Residual Soil” used to describe the weathering
+grades in Table 4 broadly correspond to the decomposition grade scheme for
+rock material used in Geoguide 3 (GCO, 1988), which has been drawn up
+mainly with reference to granitic and volcanic rocks.
+
+In pure carbonate rocks and evaporites, the intermediate grades
+between Fresh Rock and Residual Soil do not usually occur or are difficult
+to distinguish by simple visual means unless tested in the laboratory, e.g.
+increase in porosity due to solution of individual mineral grains or
+groups of grains or cementing material.
+
+3.3 WEATHERING PROFILE IN CARBONATE ROCKS
+
+A typical weathering profile developed in carbonate rocks is given in
+Figure 5. The characteristics of the weathering profile depend upon the
+impurities present in the rock as well as the discontinuity pattern, the
+structural features and environmental factors such as rainfall and
+temperature, The predominant weathering process is solution. In rocks
+composed of calcium carbonate (CaC03) with little or no impurities, there
+may be no intermediate grades between Fresh Rock and Soil, and Fresh Rock
+may be overlain by a very thin structureless soil (“Residual Soil")
+representing the insoluble residue of the original rock, The rock may
+contain solution cavities, partly or wholly infilled, particularly along
+discontinuities. Usually the surface of the rock is very irregular, with
+pinnacles and troughs of a metre to hundreds of metres across. Some very
+cherty or clayey carbonate rocks may develop a residual cover more than 30
+m thick. In some cases, particularly in very impure carbonate rocks, a
+thick transition zone between Fresh Rock and Residual Soil may form which
 
 
 ===== PDF PAGE 19 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+18
 
+may be very variable laterally. Moneymaker (1968) reported a transition
+zone over 65 m thick beneath some dams in Kentucky, U.S.A. A true
+saprolitic soil which retains structural features of the rock may also
+develop as part of the transition zone (Deere & Patton, 1971).
+
+The components of the weathering profile can hence be classified in
+terms of percentages of fresh rock, decomposed rock and soil (or void) as
+has been done for other rocks (Table 3). In impure carbonate rocks all
+the rock mass zones may be present, whereas in pure carbonate rocks a thin
+layer of Residual Soil is usually underlain by Fresh Rock (Figure 5).
+
+In the project area, the white and grey marble subunits of the Yuen
+Long Formation are generally pure and only a thin (or missing) Residual
+Soil layer is present, usually underlain by Fresh Rock without any
+transition zones, In some cases, small cavities, partially or wholly
+filled, are present below a very irregular karstic surface. All the zones
+were seen to be present where the marble has been altered by intrusions
+(Figure 4). In the interbedded marble and metasiltstone subunit underlying
+some of the bridge sites, a gradual transition from a structureless sandy
+silt (Residual Soil) to Fresh Rock occurs (Table 3, Plate 7).
 
 
 ===== PDF PAGE 20 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+19
 
+4. LABORATORY TESTING OF INTACT ROCK
+
+4.1 TESTING METHODS
+
+The laboratory testing programme primarily involved determination of
+strength and deformation properties of intact rock specimens, together with
+some selected index properties. Uniaxial compressive strength and
+deformation properties (Young's and Secant Moduli, and Poisson's ratio)
+were determined on oven-dried rock cores at the Rock Mechanics Laboratory
+of the University of Hong Kong in accordance with the specifications
+contained in ASTM Standard D3148-80 (ASTM, 1985). The cores were cut to a
+length/diameter ratio of 2 to 3 and the ends were machine-lapped. Physical
+index properties for each specimen, namely saturation moisture content,
+saturated and dry density and porosity, were determined in accordance with
+ISRM (1978). The core specimens tested and their locations are shown in
+Piates 2 to 13.
+
+Point load testing of both core and irregular Jump specimens was
+carried out in accordance with ISRM (1985). For cores which were tested in
+uniaxial compression, immediately adjacent core pieces of the same grade
+were subjected to point load tests in order to obtain a direct correlation
+between uniaxial compressive strength and point load strength for different
+rock types. Point load testing was also undertaken at selected locations
+on weaker, weathered specimens where uniaxial strength testing was not
+practical.
+
+4.2 ROCK TYPES TESTED
+
+The laboratory programme was limited by the financial and time
+constraints of the project. Strength testing was mainly concentrated on
+two of the three major rock units present in the project area, namely the
+tuff breccia unit of the Tuen Mun Formation underlying almost all the
+bridge sites at Interchange No. 1, near Tuen Mun, and the marble unit of
+the Yuen Long Formation underlying the bridge sites at Interchanges No. 3
+and 4 (Figure 1). No laboratory testing was carried out for the
+metasedimentary rocks of the Mai Po Formation which are found under the
+bridge sites at Interchange No. 4, west of Yuen Long. This was because no
+cores of suitable length devoid of fractures were available, and because
+the rocks were found to be completely weathered in areas where they
+overlie the marble subunits. One specimen selected for testing was
+fractured during sample preparation.
+
+Only two specimens of the basic dyke unit were tested since this rock
+type is only significant in the foundations of two proposed bridges. In
+addition, these rocks are very fractured, even in the fresh state; hence
+the strength of this unit was determined by point load testing of irregular
+samples and core specimens of short length. This was also the case with
+the metasedimentary rocks and the more intensely weathered specimens.
 
 
 ===== PDF PAGE 21 =====
-
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+20
 
 
 ===== PDF PAGE 22 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+21
+5. ENGINEERING PROPERTIES OF INTACT ROCK
 
+5.1 UNIAXIAL COMPRESSIVE STRENGTH (UCS)
+5.1.1 Tuff Breccia
+
+The results of uniaxial compressive strength tests on tuff breccia
+specimens are tabulated in Table 5 and the ranges of values for each
+weathering grade are shown in Table 6. A few of the specimens failed
+prematurely along pre-existing fractures and veins. These are marked with
+an asterisk in the table and are not used in the following assessment.
+
+Fresh rock was not present in the boreholes drilled to depths between
+40 m and 100 m and hence was not tested. The freshest tuff breccia
+specimens tested were from the slightly discoloured rock grade (2i) and
+these showed strengths of UCS = 150 to 300 MPa (i.e. very strong to
+extremely strong). The variation in strength reflects the variation in
+lithology, with the specimens from the fine tuff bands (without any marble
+clasts) being generally stronger than the marble clast-bearing tuff, The
+highest strength in this investigation was however obtained on the latter
+variety of almost fresh rock (Table 5). There is a gradual decrease in
+strength values with increased decomposition in the early stages of
+weathering. However, the UCS is drastically reduced from about 150 MPa to
+50 MPa or lower once solution of marble clasts, and possibly CaC03
+bonding, results in a rock with a honeycombed texture (Plates 10 to 12).
+
+The pure tuff bands do not show honeycombed texture and, in general,
+show only a gradual decrease in strength with increased weathering.
+However, no test results are available for more intensely-weathered tuffs
+from this investigation.
+
+No uniaxial compressive strength testing was carried out on the
+sandstone and siltstone members of the Tuen Mun Formation as these rocks
+are too intensely weathered within the depths drilled to be suitable for
+this test.
+
+5.1.2 Marble
+
+The results of uniaxial compressive strength tests on marble specimens
+from the various subunits are tabulated in Table 7 and the ranges of values
+for each rock type and weathering grade are given in Table 8.
+
+Variations in strength occur even within the same marble subunit due
+to variations in texture (including porosity), grain size and proportion of
+impurities present in the rock. Both grey and white marble are strong to
+very strong rocks in the fresh state, with UCS = 65 to 138 MPa and 86 to
+122 MPa respectively. Recently, Yiu & Tang (1990) reported a UCS range of
+40 to 136 MPa (except for one test result of 20 MPa) from limited tests on
+grey to white marbles of the Ma Tin Member found in the Tin Shui Wai area.
+Marble of more weathered grades (reflected by increase in porosity) do not
+usually occur in these two subunits unless affected by granite or basic
+dyke intrusions. For example, grey marble containing thin granite veins
+gave UCS = 72 to 122 MPa and 47 to 70 MPa in the case of partially
+discoloured (and possibly slightly dissolved) and completely discoloured
+specimens respectively (Table 8). The strength is significantly higher in
 
 
 ===== PDF PAGE 23 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+22
 
+silicified marble specimens, where UCS values of 121 to 188 MPa were
+obtained on fresh grey marble specimens which appeared to have been
+affected by a granitic intrusion nearby.
+
+No fresh specimens of impure marble (termed “banded impure marble")
+interbedded with metasiltstone were available for testing. Specimens
+showing slight effects of solution (in the form of increased porosity and
+discoloration) gave UCS of 39 to 66 MPa (i.e. moderately strong rock).
+
+5.2 STRESS-STRAIN BEHAVIOUR AND ELASTIC PROPERTIES
+5.2.1 Tuff Breccia
+
+The results of the uniaxial stress-strain tests for tuff breccia
+specimens are given in Tables 5 and 6 in terms of tangent Young's modulus,
+Ete (at 50% of ultimate stress), secant modulus, Es, (at 0 to 50% of
+ultimate stress), and Poisson's ratio.
+
+The two freshest tuff breccia specimens showed very high elastic
+modulus values of Et = 137 and 128 GPa. In general, pure tuff specimens
+gave lower modulus values, Et = 50 to 75 GPa, compared to the specimens
+containing marble clasts, Et = 62 to 137 GPa. The stress-strain curves
+show differences in behaviour (Figure 6). The marble clast-bearing
+specimens generally show curvilinear and concave-upward initial portions
+(the type IV behaviour of Deere & Miller, 1966, see also Hendron, 1968)
+indicating inelastic behaviour, while those of pure tuff specimens show
+steep straight line behaviour (type I behaviour). The typical stress-
+strain curves of Deere & Miller for various rocks in uniaxial compression
+to failure are given in Figure 10.
+
+Tangent modulus values of E+ = 55 to 80 GPa were obtained for the
+highly discoloured {grade 2ii) tuff breccia specimens. The variation in Et
+values with increased weathering, at least in the initial stages, is masked
+by that due to textural and compositional variation in the tuff breccia
+unit. The value drops to Ey = 17 to 37 GPa once the rock is completely
+discoloured and small voids are formed as a result of solution of marble
+inclusions in the rock (i.e. honeycombed texture). The secant modulus
+value correspondingly decreases with increased weathering. A relationship
+Ez = 1.14 Es exists between the two moduli (Figure 7).
+
+No systematic variation is apparent in the values of Poisson's ratio,
+both in terms. of rock type and weathering grade, with slightly discoloured
+(grade 21) and highly discoloured (grade 2ii) specimens having v = 0.18 to
+0.54 and Wv = 0.22 to 0.45 respectively (Table 5). Slightly lower values
+of vb = 0,11 to 0.38 were obtained for the specimens showing honeycombed
+texture.
+
+5.2.2 Marble
+
+The results of the uniaxial stress-strain tests for marble specimens
+are given in Table 7 and are summarised in Table 8.
+
+The purer white marble subunit shows a narrow band of tangent modulus
+values within the range of E¢ = 65 to 83 GPa, with most test values falling
+around 66 GPa. The corresponding secant modulus values at 0 to 50%
 
 
 ===== PDF PAGE 24 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+23
 
+ultimate stress level are E, = 55 to 86 GPa. The grey marble specimens
+show a wider scatter of moduli values of Et = 43 to 93 GPa and Eg = 30 to
+83 GPa, reflecting the greater natural variation in texture and composition
+of this rock. The grey marble specimens affected by granitic intrusions
+gave values as high as Et = 111 GPa in the case of slightly decomposed
+marble with granitic veins, and as low as Et = 33 GPa in the case of
+silicified marble (Table 8}, The impure banded marble specimens gave
+generally lower moduli values of E¢ = 34 to 53 GPa and E, = 22 to 56 GPa.
+
+The Poisson's ratios vary between v = 0.23 and 0.49 for the grey,
+white and banded marble varieties. No discernible differences were
+observed between these types except for the grey marble affected by
+intrusions, where lower values of vb = 0.16 to 0.28 were obtained, for
+example, on silicified marble specimens. The mean Poisson's ratio values
+are, respectively, 0.37, 0.30 and 0.31 for the fresh grey, white and banded
+marble subunits.
+
+Some clear differences in stress-strain behaviour of the various
+marble types were observed in the specimens tested. While the grey marble
+generally displayed the type IV-V behaviour (i.e. plastic-elastic- plastic)
+the white marble showed type I behaviour (with a straight line in the
+initial stages of compression) in the case of strong specimens to type IV
+behaviour in the case of less strong specimens (Figure 8). The behaviour
+displayed by the impure banded marble is of type V (plastic-elastic-
+plastic), which is typical of schistose rocks, whereas the silicified
+marble and the marble with granitic veins showed straight lines typical of
+strong igneous rocks, limestones, etc. (Figure 9).
+
+5.3 POINT LOAD STRENGTH (PLS)
+5.3.1 Classification of Rocks in Terms of Point Load Strength
+
+Extensive point load testing was carried out on a wide spectrum of
+materials from various weathering grades, including very weak rocks of all
+the major rock units present in the project area. The mean results of the
+point load tests carried out on the specimens adjacent to core sections
+tested in uniaxial compression are presented in Tables 5 and 7 for the tuff
+breccia and marble units respectively, and the ranges of values for each
+rock type and weathering grade are given in Tables 6 and 8. Figures 11 to
+13 show the mean point load strength values obtained on all specimens
+including those prepared from the renainder of the UCS samples for the tuff
+breccia and various marble types. The mean results on specimens from the
+metasandstones and metasiltstones of the Lok Ma Chau Formation and basic
+dykes are presented in Figures 13 and 14 respectively. Table 9 gives a
+classification of the rock units in terms of point load strength and
+weathering grade of material.
+
+5.3.2 Tuff Breccia
+
+The grade 1-2i tuff breccia is a very strong rock with PLS 2 7 MPa.
+The fresher varieties and pure tuff bands have strengths up to 14 MPa
+(Tables 5 and 6). The strength is reduced with increased discoloration as
+a result of slight chemical alteration of tuff components (i.e. feldspars
+and biotite), and possibly slight solution of marble clasts. The highly
+discoloured tuff breccia specimens (grade 2ii) have strengths in the range
 
 
 ===== PDF PAGE 25 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+24
 
+of PLS = 4.5 to 11 MPa (Figure 11). The strength is drastically reduced
+when the rock is moderately decomposed (i.e. grade 3) and large pores are
+formed as a result of solution of marble clasts. The test is
+insufficiently sensitive to accurately determine the strengths of weaker
+material because of its honeycombed texture.
+
+No testing was carried out on the tuffaceous sandstone and siltstone
+member of this unit, as the weathering profile is very deep and no suitable
+rock specimens were available for testing.
+
+5.3.3 Marble
+
+The point load strengths of the fresh white and grey marble subunits
+vary between PLS = 2.8 and 5.4 MPa (Figure 12, Table 8}. The grey marble
+which has been affected by granitic intrusion and/or containing siliceous
+patches shows a wider range of weathering than the more pure variety, with
+the fresh rock having PLS > 6.5 MPa. The strength gradually drops to about
+3.0 MPa with increased discoloration and solution. More weathered material
+(i.e. grades 3 to 5), although present in the boreholes, was not tested.
+
+The point load strength results are given separately for the
+interbedded impure marble and metasiltstones of the uppermost subunit of
+the Yuen Long Formation (Figure 13). Only one test result exists for the
+fresh marble from this subunit since fresh rock was not encountered within
+the depths reached by the boreholes sunk in the project area. The impure
+marble showing slight effects of decomposition (solution) has PLS = 1.5 to
+4.0 MPa. The strength reduces gradually with increasing solution of CaC03
+and disintegration before the rock is left as a sandy silty residue. The
+metasiltstones are slightly stronger, but highly fractured, with PLS = 2.0
+to 5.5 MPa (Figure 13).
+
+5.3.4 Metasiltstones and Metasandstones
+
+The point load strength testing was limited to the moderately and
+highly decomposed/disintegrated rock specimens of metasiltstone and
+metasandstone from the Mai Po Formation . Fresh and slightly decomposed/
+disintegrated rock was not reached in any of the initial boreholes
+completed until the start of the testing programme. The strongest rock
+tested gave PLS = 3.4 MPa for a test carried out perpendicular to the
+foliation direction (Figure 13). The fresh metamorphic rock is expected to
+be very strong, with PLS > 6 MPa. These rocks generally have a strong
+foliation and the PLS values are likely to be smaller for tests carried out
+in directions other than perpendicular to the foliation planes.
+
+5.3.5 Basic Dykes
+
+Limited point load testing was undertaken on specimens selected from
+the thick basic dykes, particularly those present in the foundations of
+Bridge Nos 13 and 13A. The freshest rock specimen tested showed slight
+effects of weathering in the form of slight discoloration, with PLS =9.0
+MPa (Figure 14), The strength is reduced significantly from about 5 MPa to
+0.4 MPa once the rock jis completely discoloured. Some specimens which
+initially appeared to be fresh were observed to be affected by weathering
+and alteration when examined in detail after testing.
 
 
 ===== PDF PAGE 26 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+25
 
+5.4 PHYSICAL INDEX PROPERTIES
+5.4.1 Tuff Breccia
+
+In the slightly discoloured and fresh states, the tuff breccia is a
+very dense rock having a very small saturation moisture content, is, of
+< 0.2%, and a related effective porosity, neff, of < 0.8% (Tables 5 and 6).
+With increasing discoloration, these values increase to 0.4% and 1.0%
+respectively. Once the rock is completely discoloured, i.e. moderately
+decomposed, the values increase significantly, with i, increasing to 5% or
+more and nef¢ to 12% or more, particularly in the marble-bearing breccia
+member .
+
+The variation in density with weathering is not clear at the early
+stages, with the highly discoloured specimens having generally a higher
+density than the slightly discoloured specimens. This discrepancy may be
+due to the limited testing carried out on the tuff breccia unit, which has
+a very variable composition. The slightly to highly discoloured tuff
+specimens gave generally lower dry density values (dg = 2.70 to 2.82 Mg/ qs)
+than those of the marble~clast bearing specimens (dg = 2.62 to 3.03 Mg/m”).
+Once the rock is completely discoloured or affected by solution or both,
+the density drops significantly to dg = 2.25 Mg/m? or lower.
+
+5.4.2 Marble
+
+Fresh grey and white marble have similar saturation moisture contents
+(ig < 0.2%), density (dg = 2.70 to 2.85 Mg/m3) and effective porosity
+(neff < 0.5%). The freshest impure banded marble specimens tested gave
+slightly higher saturation moisture contents (up to 0.5%) and relatively
+high effective porosity (up to 1.4%) but similar density values (Tables 7
+and 8). The dry density of the grey marble affected by granitic intrusion
+is higher than the pure marble (dg = 3.07 to 3.23 Mg/m3) , contrary to the
+expected values based on mineralogical composition of these two rocks, i.e.
+the specific gravity of quartz is 2.65 whereas that of calcite is 2.72.
+Some heavy minerals (e.g. iron-oxides) may have been introduced into the
+marble by the granite intrusion. Higher saturation moisture contents and
+effective porosities were found in the marble specimens affected by
+intrusion (i.e. ig = 1.5% and neff = 4.0%).
+
+5.5 RELATIONSHIPS BETWEEN INDEX PROPERTIES AND STRENGTH PROPERTIES
+
+For prediction purposes, and also to assess graphically the effect of
+weathering on each property, selected index properties were plotted against
+the strength properties of the marble and tuff breccia units. Plots of
+uniaxial compressive strength and point load strength versus saturation
+moisture content, effective porosity and dry density are given in Figures
+15 and 16 for the tuff breccia specimens and in Figures 17 and 18 for
+marble specimens.
+
+No statistical analysis of the correlations between the various
+properties has been attempted because of the limited test data.
 
 
 ===== PDF PAGE 27 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+26
 
+5.6 CORRELATION BETWEEN POINT LOAD STRENGTH AND UNIAXIAL COMPRESSIVE
+STRENGTH
+
+Point load strength has been widely used to estimate uniaxial
+compressive strength of rocks in the field and laboratory (Broch &
+Franklin, 1972; Bieniawski, 1975; Irfan & Dearman, 1978). A figure of 24
+first proposed by Broch & Franklin (1972) and recommended by IAEG (1981)
+appears to be the most appropriate correlation factor for strong and
+isotropic rocks. For weaker rocks (i.e. strength less than 50 MPa) it is
+considered essential to establish a site-specific correlation factor.
+
+No correlation factors have been determined for marble or tuff
+breccia, either in Hong Kong or elsewhere. However, correlation factors
+have been determined on various types of limestones. For example, Hawkins
+& Olver (1984) determined a factor of 26.5 for oolitic limestone of
+Jurassic age from England, while Carter & Sneddon (1977) obtained 26 and
+28.5 for Carboniferous limestones from core samples. Norbury (1984) quoted
+correlation values of 24 to 54 for crystalline limestones,
+
+The best-fit relationships obtained in this study for the marble
+subunits are UCS = 24 PLS for all specimens and UCS = 25.5 PLS for
+specimens without granitic veins (Figure 19). The test results on marble
+specimens significantly affected by granitic intrusions have been excluded,
+
+For the tuff breccia unit, a significant number of failures occurred
+through pre-existing cracks or weak veins. These have been excluded from
+the calculation of the correlation factor, The best-fit relationship
+obtained for the tuff breccia unit is UCS = 22.5 PLS (Figure 19).
+
+5.7 GEOMECHANICAL CLASSIFICATION OF MARBLE AND TUFF BRECCIA IN TERMS OF
+INTACT STRENGTH AND ELASTIC MODULUS
+
+Geomechanical classification of intact rock material is commonly based
+on uniaxial compressive strength and the modulus of elasticity (Deere &
+Miller, 1966, see also Deere, 1968). The values of the compressive
+strength and the modulus are plotted on a logarithmic scale to accommodate
+a wide range of values. Three modulus classes are delineated based on the
+ratio of the modulus to the uniaxial compressive strength (H - High Modulus
+Ratio, M - Average Modulus Ratio and L - Low Modulus Ratio) with the class
+boundaries at Ez : UCS = 500 : 1 and 200: 1.
+
+The uniaxial compressive strengths and tangent elastic moduli of
+marble specimens determined in this study are plotted on Deere & Miller's
+strength classification chart in Figure 20. The strength envelopes of
+marble (based on limited test results) and limestone-dolomite determined by
+Deere & Miller (1966), and dolomite-limestone-marble given by Dearman
+(1981), are also shown in this figure. The range of strength and moduli
+values for concrete commonly used in foundations are plotted on the graph
+for comparison, i.e. UCS = 17,5 to 35 MPa and Ey = 17 to 34 GPa. All the
+results, with the exception of two which plot above the 1000 : 1 line, fall
+between the 1000 : 1 and 500 : 1 lines, i.e. all marble subunits have High
+Modulus Ratios. The uniaxial compressive strength values show a wider
+scatter than that determined by Deere & Miller, falling generally between
+the Strong (S) and Very Strong (VS) classes depending on the presence of
+impurities, banding, grain size, and the effects of solution and granitic
+intrusion.
 
 
 ===== PDF PAGE 28 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+27
 
+The test values for tuff breccia fall in the Average Modulus Ratio
+class, with those of the pure tuff specimens plotting in the lower half of
+the class, i.e. nearer to the 200 : 1 line (Figure 21). The weathering
+scale of the material is also shown in the figure. The strength values
+fall in the range of Extremely Strong (ES) for the freshest specimens to
+Moderately Strong (MS) and even lower in the more weathered specimens
+showing honeycombed solution features (Figure 21). As expected, the
+strengths cover a wide range of values due to variation in mineralogy,
+porosity, grain size, weathering state and other fabric features which may
+be present in the specimens. No comparative envelopes exist for similar
+rocks tested elsewhere.
 
 
 ===== PDF PAGE 29 =====
@@ -117,332 +1280,3372 @@
 
 
 ===== PDF PAGE 30 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+29
 
+6. ROCK MASS PROPERTIES
+
+6.1 GENERAL
+
+There are no rock outcrops in the project area which can be used to
+direct ly assess the mass properties of the foundation rocks. The following
+description of rock mass properties is based on borehole records.
+
+The weathering profiles formed in various rocks in the project area
+are very variable. This reflects the wide variation in rock type (even
+within the same unit), the discontinuity pattern and other structural
+elements of the area. In addition, the effects of contact metamorphism,
+hydrothermal alteration and mineralization, as related to acidic and basic
+intrusions prior to weathering and post-dating general metamorphism of the
+rocks, have contributed further to the formation of complex weathering
+profiles. The rock mass conditions are locally very variable under each
+bridge site, and sometimes across each pier location.
+
+6.2 WEATHERING PROFILES
+6.2.1 Volcanic Rock Units
+
+The tuff breccia and tuffs which underlie the southern part of the
+route, near Tuen Mun, are generally deeply weathered. The weathering
+profile is deepest in the upper tuffaceous sandstone-siltstone member. The
+thickness of the completely to highly weathered rock is generally between
+20 and 40 m underneath an alluvium/fill cover 5 to 12 m thick (Figure 22).
+Thin layers of more resistant highly/moderately decomposed rock, generally
+of sandstone or tuff breccia beds, are present in the completely weathered
+rock. In the moderately weathered rock mass, marble-clast bearing
+bands/beds are differentially weathered to honeycomb-textured rock as a
+result of solution of marble clasts, whereas the pure tuff bands are more
+resistant to weathering (Plates 10 to 13). The tuffaceous sandstone/
+siltstone beds are more intensely weathered to a clayey sandy silt to silty
+sand. Therefore, the moderately weathered rock mass zone may be made up of
+layers of very strong tuff with intervening porous tuff breccia and/or
+clayey silt and sand, generally following bedding structures which appear
+to dip towards the northwest. This zone, which can be extremely variable
+in terms of rock and soil proportions and mass permeability, is up to 10 m
+thick before the slightly weathered tuff breccia is reached.
+
+Honeycombed structure may not form if the tuff breccia contains a high
+percentage of marble fragments, as observed in the Tin Shui Wai area
+(Darigo, 1989). Collapse of the rock mass may occur at an early stage in
+weathering due to dissolution of a large number of marble clasts.
+Relatively large cavities, up to a few metres in diameter, may occur if the
+rock is made up of large fragments of marble,
+
+6.2.2 Metasedimentary Rock Unit
+
+Metasedimentary rocks of the Mai Po Member (phyllites, metasandstones
+and occasionally quartzites) commonly underlie the northern part of the
+project area (Interchange No. 4) but also occur, overlying marble, on both
+sides of the nuilah at Interchange No. 3 (Figure 1). The weathering
 
 
 ===== PDF PAGE 31 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+30
 
+profile developed over these metamorphic rocks is very similar to those
+developed in metasedimentary rocks elsewhere in the Territory (e.g. as
+described by Greenway et al, 1987). A thick completely weathered zone,
+consisting generally of yellowish brown (in the case of metasandstone) to
+purplish grey (in the case of metasiltstone and phyllite) silty sand to
+clayey sandy silt, passes into a highly weathered rock consisting of either
+very weak rock with little soil along discontinuities or as intervening
+bands of very weak to weak rock and soil (Plates 14 and 15). The total
+thickness of the completely to highly weathered rock is generally 15 to
+30 m, but can be up to 60 m (Figure 23). Horizontal to subvertical zones
+of less weathered material may occur depending on the bedding direction and
+other structural features. Moderately and less weathered rocks occur at
+depths of over 30 m in areas where there is a thick metasedimentary
+succession, In areas where pure marble of the Yuen Long Formation
+underlies the metasedimentary rocks at shallow depths, there may be a sharp
+transiton from conpletely weathered rock (clayey silts and sands) to almost
+fresh marble. Slightly weathered and fresh metasandstones are very strong
+rocks but may show a strong strength anisotropy due to the presence of a
+pronounced foliation (Plate 15).
+
+6.2.3 Marble Unit
+
+In general, a complete weathering profile is absent in the white and
+grey marble subunits, and a thin or absent residual soil layer is underlain
+by marble containing solution features and cavities near its top. Fresh
+marble with no effects of solution was not generally encountered in the
+boreholes drilled for this project (up to 100 m). However, in almost all
+of the bridge sites underlain by marble, this simple picture of the
+weathering profile is complicated by faulting, dyke intrusion and the
+related metamorphism, and by the presence of impure marble and
+metasiltstone beds (Figure 4).
+
+In the interbedded marble and metasiltstone subunit, a more or less
+complete weathering profile is present (Plate 7). This is formed by both
+solution of pure marble beds, and solution and disintegration of calcareous
+siltstone and sandstone beds. The thicknesses of the original strata have
+presumably been reduced greatly and the mass structure disturbed as a
+result of solution of pure marble beds and subsequent collapse of the
+overlying siltstone beds. Adjacent to the major basic and acidic dykes,
+the marble has been affected by contact metamorphism and hydrothermal
+alteration to varying degrees. A range of weathering zones are present as
+a result of variable solution of calcite minerals and decomposition of non-
+calcite minerals (see, for example, Figure 4). In such instances, vertical
+to subvertical layers of completely decomposed material can occur at great
+depths (Plate 5), in contrast to marble which has not been affected by
+alteration.
+
+6.3 DISCONTINUITIES (RQD AND FRACTURE INTENSITY)
+
+Discontinuities, particularly those which are weathered open or
+infilled with relatively weak material, significantly increase the
+deformability of the rock mass, The discontinuity state of the rock mass
+can be assessed by Rock Quality Designation (RQD) values determined on
+cores, but it should be noted that RQO does not take into account the
+discontinuity roughness, opening, continuity or condition, or the presence
 
 
 ===== PDF PAGE 32 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+31
 
+and nature of any infilling material (Irfan & Powell, 1985). However, RQD
+is useful in classifying rock masses for the selection of tunnel support
+systems and for foundations when used with other parameters (e.g. strength
+of intact rock, weathering state, etc.). Fracture intensity (number of
+fractures per metre) is preferred to RQD, particularly in weathered rocks,
+because of inherent errors in determining the latter.
+
+For the present investigation, the RQD values given on the
+contractor's logs have been plotted against the fracture intensity for
+various rock units and weathering zones (Figures 24 and 25). RQD values
+have been standardized to about 1.5 m core lengths, where necessary, to be
+compatible with the normal practice of determining RQD for use in
+foundation design. No fracture intensities were determined by the
+contractor where the rock was very fractured. These were determined by
+GCO staff, either by counting the pieces or by measuring the average size
+of core pieces from the good-quality photographs provided. A
+classification of various foundation units in terms of RQD and fracture
+intensity, based on the borehole records and Figures 24 and 25, is given in
+Table 10,
+
+In general, the grey and white marble subunits in the fresh state have
+widely- to very widely-spaced discontinuities (i.e. 0.6 to 6 m). The
+discontinuity spacing in the interbedded marble and metasiltstone subunit
+depends on the thickness of the siltstone layers, which are generally very
+closely-spaced (i.e. 0.06 to 0.2 m). Pure marble layers in this subunit
+have widely-spaced discontinuities. The tuffs and tuff breccia of the Tuen
+Mun Formation in the fresh to slightly weathered state have moderately- to
+widely-spaced discontinuities, with tuffaceous siltstone and sandstone
+units having more closely-spaced bedding planes, foliation and joints. The
+metasedimentary rocks of the Mai Po Member are generally closely-bedded or
+foliated with discontinuity spacings of less than 0.2 m, except in
+unfoliated metasandstones where these may be up to 0.6 m or larger. In
+thick basic dyke intrusions, the discontinuities are generally moderately-
+spaced (i.e. 0.2 to 0.6 m) in the fresh to slightly weathered state. In
+rocks affected by faulting and dyke intrusion, the discontinuity spacing is
+closer and the rocks are more intensely weathered or altered. The
+discontinuity dip and dip directions, particularly bedding and foliation
+planes, can vary widely as a result of faulting and folding. The general
+structural features of the project site have already been described in
+Chapter 2,
 
 
 ===== PDF PAGE 33 =====
-
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+32
 
 
 ===== PDF PAGE 34 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+33
 
+7. PRELIMINARY ASSESSMENT OF BEARING CAPACITY OF FOUNDATION ROCKS
+
+7.1 GENERAL
+
+As part of the GCO involvement in the Yuen Long - Tuen Mun Eastern
+Corridor project, the site investigation results and an outline of methods
+for preliminary assessment of bearing capacity for large-diameter bored
+Piles and hand-dug caisson piles were compiled in an internal report. The
+approach adopted for bearing capacity assessment is summarised in this
+Chapter. It should be emphasised that this is not intended to be a state
+of the art review of the subject nor is it a guide to standards of
+practice.
+
+Allowable bearing pressures for the design of deep foundations on rock
+can be selected on the basis of one or more of the following :
+
+(a) building codes,
+(b) empirical rules,
+
+(c) rational methods based on bearing capacity and
+settlement analysis, and
+
+(d) field load tests.
+
+Building codes are traditionally conservative. Theoretical
+considerations and field test results suggest that the ultimate bearing
+capacity of a rock mass is unlikely to be reduced much below the uniaxial
+compressive strength of the intact rock material even if open vertical
+discontinuities are present (Poulos & Davis, 1980). The presence of large
+voids below the foundation would of course be an exception to this general
+rule,
+
+The allowable bearing pressure depends on the compressibility and
+strength of the rock mass and the permissible settlement of the structure.
+Both the compressibility and the strength of the rock mass are related to
+the strength of the intact rock, the lithology, the frequency, nature and
+orientation of the discontinuities, and the weathering and alteration
+state. The compressibility of the intact rock is dependent on the degree
+of decomposition and disintegration.
+
+The compressibility and strength of rock masses are difficult to
+quantify and even large scale test results on individual piles may not be
+representative of the bearing characteristics of the foundation as a whole.
+
+7.2 ALLOWABLE BEARING PRESSURES FOR DEEP FOUNDATIONS IN THE PROJECT AREA
+7.2.1 Code Values
+
+The “presumed bearing values", i.e. the presumptive allowable bearing
+pressures specified by various building codes and authorities are
+invariably very conservative. They also differ in their recommendations
+for the same rock. Many design codes relate the presumed bearing values
+to a geological rock classification (e.g. BSI, 1986), while others base
+then on a proportion of the unconfined compressive strength of the intact
 
 
 ===== PDF PAGE 35 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+34
 
+rock, generally 0.2 x UCS.
+
+Table 11 gives a comparison of presumptive allowable bearing stresses
+for various rock types including partially weathered and intensely
+fractured rocks. The broad foundation rock groupings in Table 11 have been
+assigned approximate mass weathering and discontinuity classes in
+accordance with the terms used elsewhere in this document. No specific
+values are given for marble, nor for the volcanic rocks common in Hong
+Kong. With reference to the rock types present in the project area in
+particular, and the Yuen Long area in general, in the fresh or slightly
+weathered state, the metasedimentary rocks of the Lok Ma Chau Formation and
+the interbedded marble and metasiltstones of the Yuen Long Formation would
+be included under the "foliated metamorphic rock" category in Table ll.
+The grey and white marble subunits would be included in either the
+metamorphic group or the sedimentary group, being similar to many
+limestones of medium strength. The tuff breccia unit could be placed in
+any of the first three groups, depending on whether it is composed of pure
+tuff, marble clast-bearing tuff or interbedded tuff and
+sandstone/siltstone. Moderately weathered rocks could be classified as the
+fourth category in Table 11, i.e. "badly fractured, or broken, or partially
+weathered rocks", and the highly weathered rocks would come under the fifth
+category where no stress values are specified.
+
+7.2.2 RQD Method
+
+Table 12 presents values of allowable contact pressure for jointed
+rocks on the basis of their RQD (Peck et al, 1974). The values refer to
+average RQD within a depth below the foundation level equal to the width of
+the foundation, provided that the RQD is fairly uniform, Peck et al (1974)
+state that the values are based on settlement criteria, with settlement not
+exceeding 12.5 mm.
+
+The ranges of RQD values and the fracture intensities are given in
+Table 10 for each weathering grade in each rock type. These values can be
+used to calculate the allowable bearing stress for each foundation unit for
+preliminary design purposes, However, as discussed in Section 6.3, there
+are drawbacks to using RQD to assess rock quality, particularly for
+closely-jointed or bedded rocks and for rocks containing thick compressible
+discontinuity fillings and voids.
+
+7.2.3 Canadian Foundation Engineering Method
+Allowable bearing pressure for "sound rock" foundations can be
+calculated by using the following formula, as given in the Canadian
+
+Foundation Engineering Manual (Canadian Geotechnical Society, 1985) :
+
+da=Ksp duds. 6 ee ee ee ee eee ee CY
+
+where qa = allowable bearing pressure on the rock,
+du = average uniaxial compressive strength (UCS) of rock core,
+Ksp = 0. 1 to 0.4, an empirical coefficient depending on the joint
+
+spacing and including a factor of safety of 3,
 
 
 ===== PDF PAGE 36 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+35
 
+d = depth factor, given by :
+
+L
+d=1+04—2<3.4 , ae 2. (2)
+bg
+where L, = depth (length) of the rock socket,
+bg = diameter of the rock socket.
+
+Ranges of uniaxial compressive strength that can be used for the
+computation of qa are given in Tables 6 and 8 for the rocks in the project
+area. Kgp can also be calculated from the following formula :
+
+ke. = 3S tC/B |
+SP "10/1 + 3008/c
+
+where c = discontinuity spacing,
+6 = thickness of infilling of discontinuity,
+B = foundation width.
+
+The mean discontinuity spacings for each foundation unit are given in
+Table 10 and the properties of the discontinuities are discussed in Section
+6.3. The Canadian Foundation Engineering Manual (Canadian Geotechnical
+Society, 1985) states that the above relationship is valid for thicknesses
+of discontinuity less than 25 mm, if filled with soil or rock debris.
+While the formula may be valid for fresh to moderately weathered meta-
+sedimentary, igneous and volcanic rocks, and marble with no solution
+features, it will not be applicable to the white and grey marble subunits
+containing voids, nor to the highly and completely weathered rocks.
+
+7.2.4 Settlement Calculations : Rock Mass Factors and Rock Mass
+Deformation Moduli
+
+The settlement of a rigid foundation or average settlement, S, of a
+flexible foundation at the surface of a rock mass modelled as an
+homogeneous elastic half-space can be calculated by the following formula :
+
+_ 801 = 24) I (4)
+Em
+where ga = average bearing pressure on the rock,
+B = width or diameter of the foundation,
+
+DV = Poisson's ratio of the rock mass,
+Em = deformation modulus of the rock mass,
+
+I = influence value, which is dependent upon the shape of
+the foundation (see, for example, BSI, 1986).
 
 
 ===== PDF PAGE 37 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+36
 
+Solutions also exist for piles embedded in an elastic medium (e.g.
+Poulos & Davis, 1980).
+
+The following approach can be used as a simple means of determining
+approximate values of the rock mass modulus.
+
+The rock mass deformation modulus, Em, can be calculated by :
+
+where Ej is the Young's modulus of the intact rock and j is the Rock Mass
+Factor (Hobbs, 1975). The latter reflects the effects of discontinuities
+on the expected performance of the intact rock. The Rock Mass Factor can
+be assessed for each structural or lithological unit from the discontinuity
+spacing or RQD (Table 13). If elastic properties of the intact rock have
+not been determined, Ej; can be calculated by :
+
+Ex =Mrqce + 6 8 we ww we we we we tw (6)
+
+where Mr is the modulus ratio of intact rock (Deere & Miller, 1966) and q¢
+is the uniaxial compressive strength of intact rock.
+
+Table 13 gives a rock mass quality classification based on approx imate
+relationships between RQD, discontinuity spacing and rock mass factors.
+For practical purposes, BS 8004 (BSI, 1986) suggests that the value for j
+can be approximated by the average discontinuity spacing in metres, if the
+discontinuities are reasonably tight.
+
+Alternatively, the rock mass deformation modulus can be assessed from
+the rock mass class. For example, Bieniawski (1978) proposed the following
+formula:
+
+Em = 1.76 RMR - 84.3. 6 2 ee ee ee ee ee (7)
+
+where En is the insitu static modulus of deformation in GPa and RMR is the
+Rock Mass Rating in accordance with the geomechanics classification of
+Bieniawski (1978). This formula is not applicable to rock masses of
+relatively low quality (i.e. with RMR values < 48),
+
+For preliminary settlement analysis, mean rock mass factors that can
+be used to determine rock mass moduli are given in Table 10 for each main
+lithological unit. The deformation moduli, Poisson's ratios and uniaxial
+compressive strengths of intact rock material are given in Tables 5 to 9
+for each grade of material in each rock type (tuff breccia and marble units
+only).
 
 
 ===== PDF PAGE 38 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+37
 
+8. GENERAL COMMENTS ON FOUNDATIONS WITH RESPECT TO THE MARBLE UNIT
+
+Foundation conditions within the marble unit are very complex,
+particularly near the top of the succession, due to :
+
+(a) the presence of a karstic surface with extremely
+variable rockhead levels (the legacy of weathering
+and erosion before the deposition of the
+superficial deposits),
+
+(b) the weathering state of the rock mass,
+particularly with regard to voids and widened
+discontinuities formed by solution weathering in
+the pure marble subunits,
+
+(c) the presence of alternating competent and
+incompetent beds or layers in the interbedded
+subunits formed as a result of differential
+weathering of marble, impure marble and
+metasiltstone members,
+
+(d) the presence of folding and faulting, particularly
+the thrust faults bringing older strata above the
+younger strata, and
+
+(e) the dyke intrusions and associated alteration
+(e.g. contact metamorphism, hydrothermal
+alteration and mineralization), with
+differentially weathered/altered, near-vertical to
+vertical zones extending to great depths in the
+marble and dyke rock.
+
+The presence of voids and enlarged discontinuities, and the extremely
+variable karstic surface, are likely to be the major geotechnical
+constraints in the design of deep pile foundations on marble bedrock, The
+bedrock surface (defined as moderately weathered/altered rock mass or
+better) may vary very rapidly, particularly in the pure marble members,
+which contain individual pinnacles of rock up to many metres high. The
+rock surface underneath a residual soil or superficial soil cover may also
+be uneven at a small scale. The marble most susceptible to void formation
+is the pure white marble subunit. The voids generally occur near the
+karstic surface in this rock and range in height from 0.1 to 2 m in the
+boreholes drilled in the project area. Pascal (1987) and Langford et al
+(1989) reported void heights of 5 to 15 m, occasionally 25 m, under Yuen
+Long town itself. Most cavities appear to be confined to a level above -70
+mPD (Langford et al, 1989). It is therefore very important to ensure that
+sufficient boreholes are drilled at all deep foundation sites in order to
+adequately investigate the variation in the bedrock profile and the
+presence of voids. Houghton & Wong (1990) state that cross-hole seismic
+surveys can be used to define the lateral continuity of dissolution
+features.
+
+Chan & Hong (1985) reported the presence of a "weak compressible
+layer" with SPT 'N' values less than 5 just above the limestone bedrock in
+Malaysia. Sowers (1976b) also reported that the residual soil close to the
+contact with limestone is much softer and sometimes “pasty”. The formation
 
 
 ===== PDF PAGE 39 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+38
 
+of this weak compressible clayey soil layer is attributed by Sowers to the
+downward percolation of water which then flows laterally across the rock
+surface, Such a layer was not detected from SPTs in this investigation,
+but there were no undisturbed drillhole samples available to check for its
+existence: thus its presence cannot be precluded in the project area (and
+in the Yuen Long area in general). Weak and compressible clayey soils may
+also occur inside cavities and close to dyke contacts in the altered
+marble. The possible presence of these compressible pockets may need to be
+taken into account in foundation design, since they could lead to large
+differential settlement of individual piles or pile groups.
+
+Other problems to be considered in the design and construction of
+piled foundations in the Yuen Long area are similar to those described by
+Sowers (1976a) and briefly summarized by Dearman (1981). Some of these
+problems have been highlighted by Pascal (1987), McNichol] et al (1989) and
+Houghton & Wong (1990) in the Yuen Long and Tin Shui Wai areas. For driven
+piles, the common design and construction problems are likely to be pile
+buckling, pile deflection, tip damage and uncertain support, particularly
+for piles founded on a sloping "bedrock" surface (see, for example Houghton
+& Wong, 1990). Uncertain or discontinuous support due to the presence of
+compressible layers or voids, sudden loss of bentonite support (during
+boring) and dewatering are the likely major problems for cast-insitu piles.
+Another problem which often affects shallow foundations above marble
+bedrock is collapse or subsidence of the ground surface due to the upward
+migration of voids through the soil cover by erosion (Sowers, 1976b). This
+is aggravated by changes in the groundwater table due to seasonal
+variations or dewatering. Pascal (1987) reported formation of such
+collapse features during a pumping test carried out in Yuen Long.
+Sinkholes and collapses may also occur when the rock roof of a cavity
+eventually becomes incapable of supporting its own weight. Changes in pH
+of the groundwater, for example as a result of contamination, can also
+result in solution of marble.
+
+The bearing capacity of unweathered marble rock masses with
+widely-spaced tight discontinuities is likely to be high and the
+compressibility low. Both the white and grey marble subunits are strong
+rocks with intact UCS values in excess of 60 MPa (Table 8), i.e. stronger
+than the concrete used for pile foundations. These rocks also have very
+high intact elastic modulus values of over 45 GPa. However, the impure
+marble, which is generally found interbedded with metasiltstone of varying
+thickness, can have values of UCS of less than 40 MPa and elastic modulus
+of less than 35 GPa in their more weathered states. Although the marble
+slightly affected by granitic intrusions can have a higher strength in the
+fresh state than the unaltered marble, the strength reduces drastically
+once the rock is affected by both decomposition and solution (Table 8).
+This type of rock was found locally in one or two boreholes. It appears
+that the marble adjacent to thick basic dykes has generally been altered to
+a mixture of weak rock and soil for some distance away from the dyke.
+
+Fresh marble with a high bearing capacity is generally found only at a
+significant depth, over 30 m, in the Yuen Long area. In cases where end-
+bearing piles are chosen as the foundation type, the marble bedrock needs
+to be properly investigated, with particular emphasis on the possible
+presence of cavities near the bedrock surface. Design revisions or
+remedial works during construction may need to be considered, since the
+size and distribution of cavities cannot generally be economically
+determined by normal site investigation techniques. Probing below the
 
 
 ===== PDF PAGE 40 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+39
 
+founding level by coring is one means of ensuring that no opening or
+compressible filling of significant thickness exists below the pile.
+Alternatively, the defects can be treated by grouting or minipiling, or can
+be allowed for by building in a suitable degree of redundancy into a
+revised foundation design.
 
 
 ===== PDF PAGE 41 =====
-
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+40
 
 
 ===== PDF PAGE 42 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+41
+9. CONCLUSIONS
 
+Foundation conditions in the area between Tuen Mun and Yuen Long are
+varied and locally very complex. This reflects the variable geology and
+alteration and weathering processes. Marble is present in the northern
+portion of the area near Yuen Long, underlying superficial deposits or
+intensely weathered metasedimentary rocks, whereas the southern portion of
+the area near Tuen Mun is dominantly underlain by a marble-clast bearing
+tuff breccia and other tuffaceous rocks. The marble locally contains
+cavities and generally has a very irregular karstic surface,
+
+The complex foundation conditions have been characterized by a
+simplified geomechanical classification based on lithological
+characteristics, discontinuity properties and mass weathering/alterat ion
+classes, primarily as determined from borehole logs. A laboratory testing
+programme was carried out to determine the intact properties of the various
+rock types, particularly the marble and marble-clast bearing tuff breccia.
+These properties can be used as the basis for calculating the bearing
+capacity and settlement of foundations by various methods.
+
+No material weathering grades between fresh rock and residual soil
+states are present in the pure marble (or at least are not recognisable in
+hand specimens). However, various weathered states of rock material can
+be present in the very impure marble members and those subunits affected by
+acidic and basic intrusions.
+
+The pure marble subunits (the white and grey marble) are strong rocks
+in the fresh state with uniaxial compressive strengths in excess of 65 MPa
+and up to 140 MPa, and elastic modulus values of over 45 GPa and up to
+95 GPa. The inpure marble is generally weaker than the pure white and
+grey marble, with specimens showing slight affects of weathering hav ing
+uniaxial strengths of 40 to 65 MPa. No fresh impure marble specimens were
+recovered in the boreholes. When the rock is affected by granitic
+intrusions, the strength is increased, up to a value of 190 MPa.
+
+On the strength versus modulus chart, all the marble types plot in the
+High Modulus Ratio class. The stress-strain behaviour of the intact rock
+is variable, depending on the rock type, presence of impurities,
+foliation/bedding and other characteristics.
+
+The relationships between the uniaxial compressive strength, UCS, and
+the point load strength, PLS, determined for the marble are UCS = 24 PLS
+for all specimens and UCS = 25.5 PLS for specimens not affected by
+intrusions (i.e. without granitic veins).
+
+The tuff breccia is a very strong to extremely strong rock in the
+slightly decomposed to fresh state, with uniaxial strength in excess of
+150 MPa and elastic modulus of over 50 GPa. The strength and moduli values
+vary according to the different lithologies. The pure tuff bands are
+stronger than those containing marble clasts. There is a gradual decrease
+of strength and moduli with decomposition in the early stages of
+weathering. The strength and moduli are drastically reduced in the tuff
+breccia once the solution of marble clasts produces a honeycombed texture.
+
+The stress-strain behaviour of the tuff breccia is also affected by
+the lithology. The pure tuff specimens show elastic behaviour, whereas the
 
 
 ===== PDF PAGE 43 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+42
 
+marble-clast bearing specimens display a plastic-elastic-plastic behaviour.
+These rocks have Average Modulus Ratios. No comparative stress-strength
+envelopes exist for similar rocks elsewhere,
+
+The relationship between the uniaxial compressive strength and the
+point load strength determined for the tuff breccia is UCS = 22.5 PLS.
+
+The UCS/PLS correlation factors determined in this investigation for
+the marble and tuff breccia units are similar to the value of 24
+recommended by many researchers for isotropic rocks.
+
+No correlations have been attempted between the index and strength
+properties of the rocks because of limited test results. Except for point
+load strength, no strength and deformation properties were determined for
+the metasedimentary rocks and the dyke intrusions present in the project
+area, since no suitable cores were available for testing.
+
+A preliminary assessment of the bearing capacity of the foundation
+rocks has been carried out and various material and mass parameters that
+can be used to calculate bearing capacity and settlement by a number of
+methods have been presented. These are summarised in Tables 5 to 10.
+
+A number of problems to be considered in the design and construction
+of foundations on marble in the Yuen Long area have been outlined. For
+piles founded on marble bedrock, the irregular nature of the karstic
+surface and the possible presence of cavities are two important factors
+that deserve careful attention during detailed ground investigation.
+Consideration may need to be given to design revisions and remedial works
+during construction, since the size and distribution of cavities cannot
+generally be economically determined by normal investigation techniques.
 
 
 ===== PDF PAGE 44 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+43
+REFERENCES
 
+ASTM (1985). Standard test method for elastic moduli of intact rock core
+specimens in uniaxial compression. Test Designation D 3148-80. 1985
+Annual Book of ASTM Standards, American Society for Testing and
+Materials, Philadelphia, vol. 04.08, pp 519-525.
+
+Barton, N., Lien, R. & Lunde, J. (1974). Engineering classification of
+rock masses for the design of tunnel support. Rock Mechanics, vol. 6,
+pp 189-236.
+
+Bieniawski, Z.T. (1975). The point load test in geotechnical practice.
+Engineering Geology, vol. 9, pp 1-11.
+
+Bieniawski, Z.T. (1976). Rock mass classification in rock engineering.
+Proceedings of the Symposium on Exploration for Rock Engineering,
+Johannesburg, pp 97-106.
+
+Bieniawski, Z.T. (1978). Determining rock mass deformability : experience
+from case histories. International Journal of Rock Mechanics and
+Mining Sciences and Geomechanics Abstracts, vol. 15, pp 237-247,
+
+Broch, E. & Franklin, J.A. (1972). The point load strength test.
+International Journal of Rock Mechanics and Mining Sciences, vol. 9,
+pp 667-697.
+
+BSI (1981). Code of Practice for Site Investigations, BS5930: 1981
+(Formerly (P 2001). British Standards Institution, London, 147 p.
+
+BSI (1986). British Standard Code of Practice for Foundations, BS 8004:
+1986 (Formerly CP 2004). British Standards Institution, London,
+149 p.
+
+Canadian Geotechnical Society (1985). Canadian Foundation Engineering
+Manual. Second Edition. Canadian Geotechnical Society, Ottawa, 456
+
+p.
+
+Carter, P.G. & Sneddon, M. (1977). Comparison of Schmidt hammer, point
+load and unconfined compression tests in Carboniferous Strata.
+Proceedings of the Conference on Rock Engineering, Newcastle, U.K. pp
+197-210.
+
+Chan, S.F. & Hong, L.P. (1985). Pile foundations in limestone areas of
+Malaysia. Proceedings of the Eighth Southeast Asian Geotechnical
+Conference, Kuala Lumpur, pp 4.17-4.28.
+
+Choy, H.H., Earle, Q.C., Irfan, T.¥. & Burnett, A.D. (1987). Studies for
+the extension of a major urban quarry in Hong Kong. Planning and
+Engineering Geology, (edited by M.G. Culshaw, F.G. Bell, J.C. Cripps &
+M. O’hara), Geological Society Engineering Geology Special Publication
+No. 4, London, pp 367-377.
+
+Coon, R.F. & Merritt, A.H. (1970). Predicting insitu modulus of
+deformation using rock quality indexes. In Situ Testing in Rock,
+American Society for Testing and Materials, Special Technical
+Publication No. 477, pp 154-173.
 
 
 ===== PDF PAGE 45 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+44
 
+Darigo, N.J. (1989). A volcanic breccia in the buried karst of Hong Kong.
+Proceedings of the Third Multidisciplinary Conference on Sinkholes and
+the Engineering and Environmental Impacts of Karst, Florida, pp
+225-232.
+
+Dearman, W.R. (1981). Engineering properties of carbonate rocks. (General
+Report). Proceedings of the Symposium on Engineering Geology Problems
+of Construction on Soluble Rocks, Istanbul. Published in Bulletin of
+the International Association of Engineering Geology, No. 24, pp 3-17.
+
+Deere, D.U. (1968). Geological considerations. Rock Mechanics in
+Engineering Practice, (edited by K.G. Stagg & 0.C. Zienkiewicz), John
+Wiley, New York, Chapter 1, pp 1-20.
+
+Deere, D.U. & Miller, R.P. (1966). Engineering Classification and Index
+Properties for Intact Rock. Report AFWL-TR-65-116, Air Force Weapons
+Laboratory (WLDC), Kirtland Air Force Base, New Mexico, 273 p.
+
+Deere, D.U., Merritt, A.H. & Coon, R.F. (1969). Engineering Classification
+of In Situ Rock. Report AFWL-67~144, Air Force Systems Command,
+Kirtland Air Base, New Mexico.
+
+Deere, D.U. & Patton, F.0D. (1971). Slope stability in residual soils.
+Proceedings of the Fourth Panamerican Conference on Soil Mechanics and
+Foundation Engineering, San Juan, Puerto Rico, American Society of
+CiviT Engineers, pp 87-170.
+
+Frost, D.V. (1989). Palaeokarst of Yuen Long, northwest New Territories,
+Hong Kong. Proceedings of the Third Multidisciplinary Conference on
+Sinkholes and the Engineering and Environmental Impacts of Karst,
+Florida, pp 239-246.
+
+Frost, D.V. (1991). Geology of the Yuen Long Designated Area,
+Geotechnical Control Office, Hong Kong, (Hong Kong Geological Survey
+Memoir no. 7), (in press).
+
+GcO (1988). Guide _to Rock and Soil Descriptions (Geoguide 3).
+Geotechnical Control Office, Hong Kong, 189° p.
+
+Greenway, D.R. , Powell, G.E. & Irfan, T.Y. (1987). A case history of
+slope design in complex weathered low grade metamorphic rock.
+Geotechnical Engineering, vol. 18, pp 145-166.
+
+Hawkins, A.B. & Olver, J.A.G. (1984). Point load tests. Correlation
+factors and contractual use, an example from the Corallian at
+Weymouth. Site Investigation Practice : Assessing BS 5930, (edited by
+A.B. Hawkins), Geological Society, Engineering Geology Special
+Publication No. 2, 1986, London, pp 269-271.
+
+Hendron, A.J. Jr. (1968) Mechanical properties of rock. Rock Mechanics in
+Engineering Practice, (edited by K.G. Stagg & 0.C. Zienkiewicz). John
+Wiley, New York, Chapter 2, pp 21-53.
+
+Hobbs, N.B. (1975). Factors affecting the prediction of settlement of
+structures on rock : with particular reference to the Chalk and Trias.
+(Review Paper}. Proceedings of the Conference on Settlement of
+Structures. Pentech Press, London, pp 529-610.
 
 
 ===== PDF PAGE 46 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+45
 
+Hong Kong Government (1985). Buildings Ordinance (and Building
+Reguiations). Laws of Hong Kong, Chapter 123, revised edition 1985.
+Hong Kong Government Printer, 387 p. (Amended from time to time),
+
+Houghton, D.A. & Wong, C.M. (1990). Implications of the karst marble at
+Yuen Long for foundation investigation and design. Hong Kong
+Engineer, vol. 18, no. 6, pp 19-27.
+
+IAEG (1981). Rock and soil description for engineering geological mapping.
+Report by the IAEG Commission on Engineering Geological Mapping.
+Bulletin of the International Association of Engineering Geology, no.
+24, pp 235-274,
+
+Irfan, T.Y. & Dearman, W.R. (1978). Engineering classification and index
+properties of a weathered granite. Bulletin of the International
+Association of Engineering Geology, no. 17, pp 79-90,
+
+Irfan, T.Y. & Powell, G.E. (1985). Engineering geological investigations
+for pile foundations on a deeply weathered granitic rock in Hong Kong.
+Bulletin of the International Association of Engineering Geology, no.
+32, pp 67-80.
+
+Irfan, T.Y. (1988). Rock Weatherability Tests on Metamorphic Rocks from
+
+Seung Ma Lei Yue. GCQ Advisory Report, ADR 8/88, Geotechnical Control
+Office, Hong Kong, 40 p. plus plates (Unpublished),
+
+ISRM (1978). Suggested methods for determining water content, porosity,
+density, absorption and related properties and swelling and slake-
+durability index properties. International Society for Rock Mechanics
+Committee on Laboratory Tests. Internationa! Journal of Rock
+Mechanics and Mining Sciences and Geomechanics Abstracts, vol. 16, no.
+2, pp 141-156.
+
+ISRM (1985). Suggested method for determining point load strength.
+International Society for Rock Mechanics Commission on Testing
+Methods. International Journal of Rock Mechanics and Mining Sciences
+and Geomechanics Abstracts, vol. 22, no. 2, pp 51-60.
+
+Langford, R.L., Lai, K.W., Arthurton, R.S. & Shaw, R. (1989). Geology of
+the Western New Territories. Geotechnical Control Office, Hong Kong,
+140 p. (Hong Kong Geological Survey Memoir No. 3).
+
+McNicholl, D.P., Yiu, M., Mak, L.M., Clover, A.W. & Ho, H.Y.S. (1989).
+Piled foundation in Tin Shui Wai Area 5, Yuen Long marble area, Hong
+Kong. Proceedings of the Second International Conference on
+Foundations and Tunnels, London, pp 181-193.
+
+Moneymaker, B.C. (1968). Reservoir leakage in limestone terranes.
+Proceedings of the Symposium on Reservoir Leakage and Groundwater
+Control, Association of Engineering Geologists, SeattTe.
+
+NAVFAC (1982). Design Manual 7.2 - Foundations and Earth Structures,
+Department of the Navy, Naval Facilities Engineering Command,
+Washington, D.C., 244 p.
+
+Norbury, D.R. (1984). The point load test. Site Investigation Practice :
+Assessing BS 5930, (edited by A.B. Hawkins), Geological Society
+Engineering Geology Special Publication No. 2, 1986, pp 325-329.
 
 
 ===== PDF PAGE 47 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+46
 
+Pascal, D. (1987). Cavernous ground in Yuen Long, Hong Kong. Geotechnical
+Engineering, vol. 18, pp 205-221.
+
+Peck, R.B., Hanson, W.E. & Thornburn, T.H. (1974). Foundation Engineering.
+(Second edition). John Wiley, New York, 514 p.
+
+Poulos, H.G. & Davis, E.H. (1980). Pile Foundation Analysis and Design.
+John Wiley, 397 p.
+
+Powell, G.E. & Irfan, T.Y. (1987). Geotechnical design for a controlled
+tip in Hong Kong. Planning and Engineering Geology, (edited by M.G.
+Culshaw, F.G. Bell, J.C. Cripps & M. O'Hara), Geological Society
+Engineering Geology Special Publication No. 4, London, pp 517-523.
+
+Siu, K.L. & Wong, K.M. (1985). Concealed marble at Yuen Long. Proceedings
+of Conference on Geological Aspects of Site Investigation, Geologica
+Society of Hong Kong, Bulletin No. 2, pp 75-88.
+
+Sowers, G.F. (1976a). Foundation bearing in weathered rock. Rock
+Engineering for Foundations and Slopes, American Society of Civi
+Engineers, New York, vol. 2, pp 32-42.
+
+Sowers, G.F. (1976b). Settlement in terranes of well-indurated limestone.
+In Analysis and Design of Building Foundations, (edited by H.Y. Fang),
+Envo Publishing Co., pp 701-725.
+
+Sowers, G.F. (1979). Introductory Soil Mechanics and Foundations
+Geotechnical Engineering. (Fourth edition}. Macmillan, New York,
+621 p.
+
+Sowers, G.F. (1984). Correction and protection in limestone terrane.
+Proceedings of the First Multidisciplinary Conference on Sinkholes,
+Orlando, Florida, pp 373-378.
+
+Tsui, P.C. & Irfan, T.¥. (1990). Complex site geology in marble bedrock,
+Southwest Yuen Long, Hong Kong. Karst Geology in Hong Kong, (edited
+by R.L. Langford, R. Shaw & A. Hansen), Geological Society of Hong
+Kong, Bulletin No. 4, (in press).
+
+Yiu, M. & Tang, K.H. (1990), Case study of pile construction problems in
+faulted marble bedrock in Tin Shui Wai Area 5, Hong Kong. Proceedings
+of the Conference on Deep Foundation Practice, Singapore, (in press).
 
 
 ===== PDF PAGE 48 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+47
 
+TABLES
 
 
 ===== PDF PAGE 49 =====
-
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+48
 
 
 ===== PDF PAGE 50 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Table
+No.
 
+10
+
+11
+
+12
+
+13
+
+49
+
+LIST OF TABLES
+
+Geological Succession in the Western New Territories
+(Langford et al, 1989)
+
+Lithostratigraphy of the Carboniferous San Tin
+Group
+
+Unified Mass Weathering/Alteration Classification
+Scheme for All Rocks in the Tuen Mun -~
+Yuen Long Area
+
+Unified Material Weathering Classification Scheme
+for All Rocks in the Tuen Mun - Yuen Long Area
+
+Laboratory Test Results for Tuff Breccia
+
+Ranges of Laboratory Test Values for Tuff Breccia
+Laboratory Test Results for Marble
+
+Ranges of Laboratory Test Values for Marble
+
+Classification of Rock Units in Terms of Point
+Load Strength Values (MPa)
+
+Classification of Rock Units in Terms of RQD,
+Fracture Intensity and Rock Mass Factor
+
+Presumptive Allowable Bearing Stress (MPa) for
+Rock Specified by Various Building Codes and
+Authorities
+
+RQD and Allowable Contact Pressure on Jointed Rock
+(Peck et al, 1974)
+
+Rock Mass Quality Classification Based on
+
+Rock Mass Factor, Discontinuity Spacing and
+
+RQD (Based on Deere et al, 1969; Coon & Merritt,
+1970 and Hobbs, 1975)
+
+Page
+No.
+51
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+59
+
+60
+
+61
+
+62
+
+62
 
 
 ===== PDF PAGE 51 =====
-
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+50
 
 
 ===== PDF PAGE 52 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+51
 
+Table 1 - Geological Succession in the Western New Territories
+(Langford et al, 1989)
+
+Superficial Deposits
+
+(Onshore )
+
+Age
+
+Genetic Classification
+
+Principal Materials
+
+QUATERNARY Holocene
+
+Hotocene
+and
+Pleistocene
+
+Pleistocene
+
+Fill; sanitary fill
+Alluvium
+
+Beach deposits
+
+Raised beach deposits
+Debris flow deposits
+Talus (rockfall deposits)
+
+Terraced alluvium
+Debris flow deposits
+
+Clay, silt, sand and gravel
+
+Sand
+
+Sand
+
+Silt and sand with cobbles and boulders
+Boulders
+
+Clay, silt, sand and gravel
+Silt and. sand with cobbles and boulders
+
+Superficial Deposits
+
+(Offshore }
+
+Age
+
+Named Divisions
+
+Principal Materials
+
+QUATERNARY Holocene
+
+Pleistocene
+
+Hang Hau Formation
+Marine Sand
+
+Chek Lap Kok Formation
+
+Mainly mud
+Sand
+
+Clay, silt, sand and gravel
+
+Solid Rocks
+
+Age Named Rock Divisions Principal Rock Types
+MESOZOIC Upper Kat O Formation Sedimentary breccia
+Cretaceous
+Upper Reputse Tai Mo Shan Formation Coarse ash crystal tuff
+Jurassic Bay Ap Lei Chau Formation Fine ash crystal tuff
+Volcanic Shing Mun Formation Lithic and crystal tuff, tuff-breccia
+Group and tuffite
+Ngou Liu Member Ash crystal tuft
+Shek Lung Kung Member | Crystal tuff and tuff- breccia
+Yim Tin Tsai Formation | Coarse ash crystal tuff
+Tuen Mun Formation Meta-andesite lava
+Tsing Shan Formation Sandstone and conglomerate
+PALAEOZOIC Carboniferous | San Tin Lok Ma Chau Formation Metasandstone and metasittstone
+Group Yuen Long Formation Marble
+
+Major Intrusive Rocks
+
+MESOZOIC Upper Fine - grained granite
+Jurassic- Fine to medium-grained granite
+Lower Medium-grained granite
+Cretaceous | Coarse-grained granite
+Granodiorite and Dacite
+Minor Intrusive Rocks
+TERTIARY Palaeocene | Andesite
+Basalt and Gabbro
+Lamprophyre
+MESOZOIC Upper Feldsparphyric Rhyolite
+Jurassic - Quartzphyric Rhyolite
+Lower Aplite and Fine-grained granite
+Cretaceous | Pegmatite
 
 
 ===== PDF PAGE 53 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+52
 
+Table 2 - Lithostratigraphy of the Carboniferous San Tin Group
+
+. Thickness
+Lithology (m)
+Tai White to yellowish-grey, metamorphosed
+Shek fine - to medium-grained sandstone, > 300
+Mo quartzite and conglomerate, with thin
+Member | layers of phyllite
+Lok Ma Chau
+Formation
+Pale - to dark-grey, metamorphosed fine -
+Mai Po | grained sandstone, siltstone and > 500
+Member | carbonaceous siltstone, with thin
+layers of phyllite and graphite schist
+San
+Tin interbedded marble and siltstone, with S70
+Group thin layers of graphite schist
+Ma Tin
+Member White to grey, fine - to coarse-grained
+Yuen Long marble, partly dolomitic, with thin > 250
+Formation layers of phyllite
+Long Grey to dark grey marble, with
+Ping disrupted bedding planes and laminae, > 300
+
+Member
+
+siliceous horizons
 
 
 ===== PDF PAGE 54 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Table 3 - Unified Mass Weathering/Alteration Classification Scheme for All Rocks in the Tuen Mun - Yuen Long Area
 
+Weathering/Alteration State Marble Unit Volcanic Rock Units | Metasedimentary Rocks | Minor Major
+of Rock Mass (Yuen Long Formation) |(Tuen Mun Formation)|/(Lok Ma Chau Formation) |Intrusionsjintrusions
+Metasandstone ;
+Broad ass Mass R age White | Grey interbedded Tuff puttaceous Tut Metasiltstone, , Basalt/ eranite,
+Class one one « ecognition Marble |Marbte |Marble an Breccia Siltstone/ Tuff Phyllite and Rhyolite rano-
+Descriptor | Symbol Metasiltstone Sandstone a : diorite
+uartzite
+Fresh Fresh WI 100% rock v v Vv v v Vv v v v
+Rock {see Note 1)
+Slightly WIL 100% rock x x v v v v v v v
+Weathered/ (with {see (see
+Weatherea/| Altered discoloration) Note 2)/ Note 2)
+Altered Moderately | WIli | >90% rock Vv Vv Vv v v v v v v
+Rock Weathered/ (see (see (see
+Altered WIIlit |50-90% rock Note 3 | Note 3 Note 7)
+Highly WIV 0-50% rock x x v v v Vv v v Vv
+Weathered/ (see (see (see (see
+Sapro4 Altered Note 4}/ Note 4}/ Note 6) | Note 7}
+te | completely| WV 100% soil x x v v v v v v v
+Weathered /| with structure/ (see
+Altered texture Note 6}
+Residual Wi 100 % soil x x v v v v v v v
+Soil Soil without structure/| (see (see (see
+texture Note 5)j| Note 5) Note 6)
+Legend :
+v Present x Not generally present {see notes) * Suffix A is used if rock mass is altered
+Notes : (1) For thick pure marble beds the weathering profile is similar to that of the white and grey marble. Fresh rock not reached at depths
+
+up to 100m drilled.
+
+(2) Generally not present in pure marble unless altered/veined by intrusions and mineralization.
+
+{3} Up to 50% dissolved voids may be partially or completely fitled with clay residue.
+
+(4) Generally not present due to collapse of mass structure in advanced stages of solution.
+
+(5) Very thin or missing in pure marble.
+
+(6) Metasiltstone beds may be structurally disturbed due to solution of purer marble beds in Zone WV. Significant volume reduction in
+Zone WVI if largely composed of marble beds.
+
+{7} May contain small voids due to solution of marble clasts.
+
+es
 
 
 ===== PDF PAGE 55 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Table 4 - Unified Material Weathering Classification Scheme for All Rocks in the Tuen Mun - Yuen Long Area
 
+Weathering/Alteration Marble Unit Volcanic Rock Units | Metasedimetary Rocks | Minor Major
+State of Rock Material {Yuen Long Formation) (Tuen Mun Formation)|{Lok Ma Chau Formation)|intrusions|intrusions aie
+quivalen
+Interbedded Tuff iti
+Material Marble Breccia Tuffaceous Metasandstone/ Granite, Decomposition
+Broad Grade . Metasiltstone, Basalt/ Grades
+Class Descriptor Grade |White |Grey | Impure | Meta- Affected by |(Marble-| Tuff |Siltstone/ Phy(lite and Rhyolite Grano- (Gco, 1988)
+Symbol | Marble / Marble | Marble | Siltstone | intrusions Clast Sandstone Quartzite diorite co,
+Bearing)
+
+Fresh Rock |Fresh 1 v v Vv Vv Vv v Vv v v v t
+Slightly , 2 x x v v ¥v v v v Vv v Vv ist
+Decomposed/ {see {see (see
+
+Decomposed / Disintegrated Note 1)/ Note 1}| Note 3)
+
+Disintegrated | Moderately 3 x x Vv Vv Vv v Vv v Vv Vv v Il
+
+Rock Decomposed/ (see {see {see (see
+
+(Weathered |Disintegrated Note 1)/Note 1} Note 3) Note 4)
+
+Rock) Highly F x x Vv Vv Vv viviov Vv Vv Vv Vv
+Oecomposed/ (see (see
+Disintegrated Note 3} Note 4)
+
+Completely 5 x x Vv Vv Vv Vv Vv Vv Vv Vv Vv v
+Decomposed/ (see
+seit Disintegrated Note 3)
+Residual 6 Vv Vv v v Vv vioiv v v Vv v I
+Soil {see (see
+Note 2) Note 2)|
+Legend :
+Vv Present
+x Not generally present (see notes)
+* The term “Decomposition “ includes both solution and chemical alteration of mineral constituents. Suffix (A) is used if rock is altered.
+a Slightly decomposed rock may be subdivided into slightly discoloured (less than 50% staining of rock material, Grade 2i) and highly discoloured
+(more than 50% staining of rock material, Grade 2ii}. Moderately decomposed rock, except marble, is generally wholly discoloured.
+Notes : (1) In pure carbonate rocks intermediate grades between fresh rock and residuat soil do not usually occur or are difficult to distinguish by simple
+
+visual means unless tested in the laboratory (i.e. increase in porosity due to solution}.
+Generally not present unless impure, formed of insoiuble residue.
+Not present in purer marble members.
+May be porous due to solution of marble clasts.
+Rock material may show various degrees of disintegration { microfracturing, etc.) with little or no chemical alteration, particularly in
+
+(2)
+(3)
+(4)
+($8)
+
+tectonically disturbed rocks.
+
+vS
 
 
 ===== PDF PAGE 56 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Table 5 - Laboratory Test Results for Tuff Breccia
 
+Saturation Uniaxiat |__ Modulus of Elasticity Point
+Rock |Sample[Borehole|Depth| Weathering |" yoisture (Saturated) Dry |Effectivel. mi sressive Poisson's] Load
+T Grade Density |Density|Porosity ° Tangent Secant i (1]} Remarks
+ype} No. No. {m) Content Strength 5 2 Ratio {Strength
+{see Table 4) (fe) (Mg/m?) |(Mg/m3)|  (*/0) {MPa} at 50% oy, fat 0-50% oun (MPa)
+(GPa) (GPa)
+cTB11/ BO BA | 25.6 2i 0.2 2.86 2.84 0.5 296.4 136.6 80.5 0.536 11.9
+cts 2] OT} 27.8 2i 0.1 2.79 2.78 0.3 281.7 128.2 106.7 0.37% 13.0
+cTe 3) oT 7 16.8 2i 0.1 2.83 2.82 0.3 246.0 75.7 ThA 0.270 Wt Tuff Band
+cTp12| BO 8A | 25.8 2i 0.3 2.85 2.84 0.8 224.3 63,2 60.6 0.210 9.9
+crp13| 6D 9B | 33.8 2i 0.2 2.70 2.69 0.5 217.2 $1.7 47.6 0.323 11.3 Tuff Band
+CTB14| BD 98 | 34.6 2i 0.1 2.71 2.70 0.3 210.1 50.0 49.6 0.232 10.2 Tuff Band
+cTeB15| BD 9B | 348 2i 0.2 2.72 2.71 0.5 185.2 50.0 52.0 0.468 9.2 Tuff Band
+cTa 3| 603 | 38.9 2i 0.2 2.64 2.86 0.5 149.7 61.7 464.0 0.2484 7.2
+cTB10| BO 3 | 40.3 2i O14 2.73 2.73 0.3 90.0 * 78.9 72.6 0.184 11.9 Tuff Band
+cTe18| Bp 32.6 2i 0.2 2.70 2.70 0.5 102.2 # nd. nd. nd. 7.7
+Tutt |CTB20] 8020 | 32.9 2i 0.0 2.65 2.65 0.0 127.7 & 73.7 1.3 0,203 8.8 Tuff Band
+Breccia
+CIB 4] OT 7 17.6 2ii 0.3 2.98 2.98 0.8 193.2 76.7 66.6 0.220 8.3
+cTB 5| oT 7 19.7 aii 0.3 2.89 2.89 0.7 193.2 69.2 61.5 0.231 8.0
+cTB 1} OT 1 26.5 2it 0.3 3.03 3.02 0.8 173.8 75.0 73.6 0.242 6.9
+cTeB 6/ BD 1 36.1 2ii 0.2 2.97 2.97 0.5 170.0 680.3 82.5 0.250 8.7
+cTB 7/ BD1 61.2 2ii 0.3 2.94 2.94 0.7 156.6 59.7 45.0 0.279 7.3
+cte 8| BD 2 | 316 2ii 0.2 2.97 2.97 0.5 119.6 # 75.0 63.6 0.475 8.4 Tuff Band
+cTB17| BD11 32.3 2ii 0.2 2.72 2.71 05 71.3 % 54.7 45.7 0.219 5.9
+C1819} BOI12 | 30.8 2ii 0.4 2.62 2.61 1.0 56.6 * nd. nd. n.d, 6.1 Tuff Gand
+cTB16| BOIS 31.2 2ii 0.1 2.72 2.72 0.3 84.2 % 59.7 56.9 0.306 5.4
+cTB22| BOI. | 31.5 2ii 01 2.90 2.90 0.3 139.2 76.9 76.8 0.279 5.6
+cTB2é] BD 1 38.2 3 1.6 2.65 2.62 3.6 152.6 31.9 27.1 0.383 5.2 Tuff Band
+tuft |CT825| BD 9B } 23.8 3 1.5 2.70 2.66 4.0 147.6 37.4 29.3 0.271 n.d,
+Breccia] C1827] BD 9B | 24.7 3 2.0 2.59 2.54 §.2 69.4 32.8 28.2 0,180 2.6
+{honey-1|CTB23| BD 1 33.0 3 2.8 2.54 2.47 7.0 68.6 29.7 26.4 0.119 2.4
+combed} CTB26] GD 9B | 24.1 3 5.3 2.37 2.25 12.0 26.1 17.0 17.9 0.106 1.7
+CTB21| BD 1é | 27.6 3 2.6 2.56 2.49 6.6 22.1 nd. nd. nd. 0.8
+Legend
+n.d. Not determined * Failed prematurely along pre-existing crack/ vein
+
+Note :
+
+(1] Average of 5 to 15 results on specimens adjacent to core section tested in uniaxial compression.
+
+GS
 
 
 ===== PDF PAGE 57 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Table 6 - Ranges of Laboratory Test Values for Tuff Breccia
 
+. oe Modulus of Elasticity .
+Rock Weathering Motes Saturated Dry Effective Compressive Poisson's rood
+Type | Orde | Content | Density | Density | Porosity |"“cifengtn | Tangent | Secant Ratio |Strength| Remarks
+{see Table 4) ("%e) (Mg/m>) | (Mg/m3) (*/e) (MPa) at 50% dyrjat 0-50% out (MPa)
+° (GPa) (GPa)
+1 nd. ad. n.d. nad. nd, nd. n.d. n.d. nd,
+2i 0.0-0.3 | 2.65-2.85|2.65- 2.84) 00-05 150 - 296 50-137 44-107 0.18 - 0.54) 7.2 - 13.01) on
+(0.0 - 0.2) 1{2.65 - 2.632.65 - 2.82 (0.0 - 0.3)! (185 - 246) (50 - 76) (50- 74) {8.8 - 11.) thology with
+tuff bands and
+2ii 0.1- 0.6 | 2.62-3.03|2.61- 3.02] 03-10] 139-193 55- 80 65-63 0.22 - 0.48|5.4- 8.7 |marble-clast
+rich layers
+Tuff
+Breccia L— —— —+ — te — +. — —4 4 4] dE
+2 0.0-0.4 | 2.62-3.03/2.61- 3.02} 00-10 139 - 296 50-137 44-107 0.18 0.54] 5.4 - 13.0
+3 1.6+5.3 | 237-270] 2.25- 2.66} 3.6 -12.0 22-152 17-37 18- 29 0.11-0.38/08- 5.2
+Honeycombed
+texture when
+& n.d. nd. n.d. nd. n.d. n.d. n.d. nd. nd. rich in marble
+clasts
+Legend :
+n.d. Not determined
+Note Numbers in brackets are for pure tuff members.
+
+9S
 
 
 ===== PDF PAGE 58 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Table 7 - Laboratory Test Results for Marble
 
+Saturation; Uniaxial Modulus of Elasticity Point
+Rack |Sample|Borehole|Depth| Weethering Vyoisture |Saturated| Dry [Effective inpressive T Poisson's} Load
+Grade Density |Density|Porosity angent Secant i (1) Remarks
+Type | No. No, (m} Content Strength Fy 0, Ratio (Strength
+(see Table 4) Ch) (Mg/m?) |(Mg/m)]  (*/e} (MPa) at 50% oye fat 0- 50% yt (MPa)
+(GPa} (GPa}
+M21 BOSO | 55.4 1 0.1 2.70 2.70 0.2 125.6 59.8 69.8 0.313 4.0
+M22 | Bose | 448 1 0.1 2.81 2.81 0.2 137.5 93.0 62.8 0.488 4.6
+M23 | BOSS | 45.2 1 0.1 2.85 2.85 03 111.9 78.1 68.2 0.383 4.3
+m9 | B47 | 597 1 01 27 2.7 0.3 89.1 52.1 40.5 0.375 3.6
+Ms | Bos7 | 565 ! 0.1 20 2.70 0.3 61.2 50.0 39.4 0.300 3.4
+Mio | BD47 | 59.9 1 0.2 2.69 2.69 0.5 64.6 52.2 43.1 0.254 34
+6 Mit BOL7 | 64.6 1 0.1 2.71 2.71 0.3 76.0 43.5 29.4 0.466 3
+rey
+Morbte | M6 | BD47 | 46.9 2 0.2 3.10 3.09 07 122.4 wd v7 0.203 6.1 with
+M3 | BDs7 | 39.6 2 0.3 2.87 2.86 1.0 120.7 66.7 65.6 0.278 4.8 antic
+M5 | 8047 | 475 2 0.2 2.98 2.98 0s 83.2 42.4 81.6 0.336 4 granite
+Ms BDS7 | 45.4 2 0.5 2.81 2.80 1.3 72.0 46.5 35.4 0.346 4.6 veins
+M1 BOs? | 34.5 3 1.2 2.60 2.57 31 673 46.5 46.4 0.217 ad. With
+M2 | BD47 | 34.7 3 3 2.93 2.89 3.8 70.0 53.7 53.6 0.208 nd. granitic
+M7 | BOs? | 492 3 3.08 3.05 33 5b4 # 1.6 68,7 0.100 n.d. veins
+mie | Bos0 | 519 1 0. 2.76 2.76 0.2 90.5 64.9 56.6 0.286 4A
+White mig | sDs0 | 520 1 0.1 2.75 2.76 0.2 121.5 66.7 65.3 0.292 5.1
+Morbte | M20 | BD50 | 533 1 0.1 2.79 2.78 0.4 115.1 83.3 68.9 0.258 5.4
+M26 | Boss | 473 1 0.1 2.70 2.69 03 87.9 64.5 56.9 0.323 24
+M25 | BOSS | 48.2 1 0.1 2.68 2.68 0.4 86.3 66.7 56.8 0.347 3.6
+Banded | “27 | 8053 | 70.8 2 0.2 27 2.70 0.4 64.0 46.0 26.0 0.230 “7
+impure | M28 | BDS3 | 73.2 2 05 2.79 2.77 1b 51.6 33.7 22.3 0.416 2.0
+Marble | M29 | B8D53 | 74.3 2 0.3 2.80 2.80 028 65.6 33.9 26.9 n.d. 2.7
+M26 | BD53 | 307 2 0.1 2.76 2.76 0.4 38.5 53.3 55.8 0.293 nd.
+MI5 BD40 | 575 1 0.1 3.09 3.09 02 188.2 103.8 112.0 0.276 6.8
+ees M16 | B040 | 599 1 0.3 3.26 3.23 1.0 145.7 90.9 101.2 0.227 78
+Silicified| wie BD40 | 506 1 0.2 3.11 at 0.7 121.0 85.1 93.8 0.160 6.6
+Grey mi2 | BD40 | 49.7 2 0.6 3.10 3.08 2.0 2.9% 70.0 62.8 0.240 6.1
+Marble | mi3 | Boso | 50.2 2 0.7 3.23 3.21 2.2 60.9 * 87.9 98.2 n.d. 6.6
+MI7 BD4O | 601 2 13 3.17 3.13 4.0 529 % 38.0 327 0.170 nd.
+Legend
+n.d. Not determined * Failed prematurely along pre-existing crack/vein
+Note : (1) Average of 5 to 15 results on specimens adjacent to core section tested in uniaxial compression.
+
+LS
 
 
 ===== PDF PAGE 59 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Table 8 - Ranges of Laboratory Test Values for Marble
+. a. Modulus of Elasticity .
+: turation : Uniaxial Point No. of
+Weathering |®ot Saturated] Dry | Effective : cea’
+, f ; ‘oisson’s
+Tose Grade Moisture Density | Density | Porosity coer Tangent Secant P Ratio strength Tests Remarks
+y (see Table 4) e (Mg /m?) (mg/m?) (fe) at 50% Ay, fat O-50% Tut
+(fo) (MPa) {MPa) Cores
+(GPa) (GPa}
+1 0.0-0.2 [2.69 -2.85/2.69 - 2.85] 0.2-0.5 65 -136 44- 93 29. 83 0.31-0.49] 3.1 - 4.6 7
+2 0.2-0.5 |2.81-3.10/2.80- 3.09] 0.7- 1.3 72-122 46-111 35-118 0.20-0.35] 4.4-6.4 4 — | With granitic veins
+we tte 3 1.14.3 12,60 -3.08/2.57- 3.05] 9.7-3.8] 47- 70 47-74 46-69 0.10 - 0.22 nd. 3 | With granitic veins
+Range 1-3] 0.0- 1.3 [2.60 - 3,10] 2.57- 3.09] 0.2- 3.9 47-138 64-114 29-116 0.10- 0.69} 3.4 -6.1 1h
+White Limited occurrence
+Marble 1 0.0- 0.1 | 2.68 - 2.79] 2.68 - 2.78] 0.2- 0.4 66 -122 65- 83 55- 86 0.26-0.35] 2.8-5.4 5 in project area
+Banded Generally impure
+Impure 2 0.1- 0.5 | 2.71 - 2.80]2.70 - 2.80] O.4- 1.4 39- 66 34-53 22- 56 0.23- 0.42] 4.7 -2.7 3 and interbedded
+Marble with metasiltstones
+Silicified 1 0.1-0.3 [3.09 -3.24/3.09- 3.23] 0.2-1.0] 121-108 a5 -104 94-112 0.16 -0.27} 66-7.5 3
+Marble ra
+(Grey %* * Limited occurrence
+Marble) 2 0.6- 41.3 | 3.10 - 3.23] 3.08 - 3.21] 2.0- 4.0 53- 73 38- a8 33- 98 0.17-0.26| 6.1-6.6 3
+Legend
+n.d. Not determined * Failed prematurely along pre-existing crack / vein
 
+8S
 
 
 ===== PDF PAGE 60 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Table 9 - Classification
 
+of Rock Units in Terms of Point Load Strength Values (MPa)
+
+Material Weathering Grade
+
+Rock Type Slightly Moderately Highly Completely
+Fresh Decomposed / Decomposed / Decomposed / Decomposed /
+Disintegrated Disintegrated Disintegrated Disintegrated
+1 2i 2ii 3 4 5
+Basic Dykes | Basalt (Over 8.0) 9.0 - 4.0 5.0 - 0.3 Less than 0.5 } Not determined
+Mai Po Metasiltstone and .
+For mation Metasandstone (Over 5.5} (Over 3.5 ) 3.5 - 03 Less than 0.5 | Not determined
+Banded Impure Marble ( Over 4.0 ) 4.0 - 1.5 2.0 - 0.3 Less than 0.5 Not determined
+Metasiltstone (Over 5.5 } 5.5(?) - 2.0 2.5 - 0.3 Less than 0.5 | Not determined
+Yuen Long j Grey Marble 5.5 - 3.0 <~—_—_—_——-Not generally present ———————_>
+For mation hie (Silicified
+Grey Marble ilicified / . . . .
+with granitic veins) 9.5(?) - 6.5 7.0 - 3.5 (4.0 0.3) Less than 0.5 | Not determined
+White Marble 60 - 3.0 _—____——— Not present —————_>
+Lorration | Tuff Breccia [Over 8.0) | 14.0-7.0 1-45] 7.0 - 03 | Less than 05 | Not determined
+
+Note : Numbers in brackets are based on limited test results or tests on more weathered samples.
+
+6S
 
 
 ===== PDF PAGE 61 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Table 10 - Classification of Rock Units in Terms of RQD, Fracture Intensity and Rock Mass Factor
 
+Lithological . Fracture RaD Rock Mass
+Unit Mass Weathering Zone Intensity. 1%} Factor (2) Remarks
+Tuff Fresh 05 - 3 90 - 100 0.8 - 1.0 Not present at depths drilled.
+Breccia of Slightly Weathered 1 - 5 75 - 100 05-10
+coer tion Moderately Weathered 3 .- «15 20 - 80 0.2 -0.6 May contain small solution features
+Highly Weathered Over 10 0-25 Less than 0.2| if marbte-clast bearing.
+White and Fresh / Slightly 02- 3 80 - 100 0.8 - 1.0
+Grey Weathered
+Marble of Moderately Weathered 1 - 7 30-100 |(see Note 1) | May contain up to 50% by volume
+Yuen Long ( Dissolved ) solution features (may be filled}.
+Formation Highly Weathered Less than 50 |{see Note 1) | Not generally present.
+( Dissolved }
+interbedded Fresh 1 - 12 50 - 100 0.3 - 1.0 Not encountered at depins ee
+i . . RQD and fracture intensity depend on
+impure Slightly Weathered 1 - 12 50 - 100 0.2 - 1.0 the thickness of metasiltstone layers:
+Marble and Moderately Weathered 2 - 15 10 - 90 0.2 - 0.6 usually marble layers have higher
+Metasiltstone of | Highly Weathered Over 12 0- 50 Less than 0.2 | RQD; may be structurally disturbed
+Yuen Long if significant solution is present in
+Formation pure marble layers.
+Metasiltstone and | Fresh 3. - 15 10 - 100 03-08 Very closely spaced fotiation planes;
+Metasandstones | Slightly Weathered 3. - #15 10 - 100 0.2 - 0.8 higher values for non-foliated rocks.
+of Mai Po Moderately Weathered 8 - 25 0 - 50 Less than 0.2
+Member Highly Weathered Over 15 0- 10 Less than 0.2
+Basic Dykes Fresh to Highly Limited occurrence in project area
+Weathered
+Notes: (1) Rock mass factors may not be applicable if the rock contains voids or thick compressible layers.
+
+(2) See Table 13.
+
+09
 
 
 ===== PDF PAGE 62 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Table 11 - Presumptive Allowable Bearing Stress (MPa) for Rock Specified by Various
 
+Building Codes and Authorities
+
+Reference
+
+Massive Crystalline
+Rocks in
+Sound Condition
+
+(Granite, Basalt, Gneiss)
+
+Foliated
+Metamorphic Rocks
+in Sound Condition
+
+{Slate, Schist)
+
+Sedimentary
+Rocks in
+Sound Condition
+
+Badly Fractured Rocks,
+or Broken Rocks, or
+Partially Weathered
+
+Rocks except
+Argillaceous Rocks
+
+Heavily Shattered
+or
+Weathered Rocks
+
+Remarks
+
+Increase by 10% for
+
+NAVFAC, USA 1982 6-10 3-4 15-25 0.8- 12.2 each 300mm embedment
+Canadian To be assessed by
+Geotechnical 10 3 1-4 1.0 examination in
+Society 1985 situ
+National Building
+Code, USA 1967 10 4 1s
+Uniform Building
+Code, USA 1964 0.2 qu 9.2 qu 0.2 qu 9.2 qu
+Los Angeles 1970 1.0 0.4 03 Earthquake area
+Pritish Standards 10 3 2-6 To be assessed To be assessed May need alteration
+BS 8004 , 1986 after inspection efter inspection upwards or downwards
+US Bureau of
+Reclamation 1965 10.7 38 Ww
+
+Increase by 1/3 if the
+Dallas 4968 0.2 qu 0.2 qu 0.2 ay 0.2 qy foundation is
+
+relatively dry
+
+‘ . (Increase by 10% for
+
+New York City 1970 6 6 2-4 0.8 each 300mm embedment
+Building Construction
+Regulations, 5 1-3 ro be assessed
+Hong Kong * 1985 after inspection
+Sowers 1979 > 10 [RAD=90%) 1.5-4 (RQD=50%)} 0.5-1.2 (SPT>50]
+
+Widely to Very Widely
+
+Medium to Closely
+
+Closely to Medium
+
+Weathering/Alteration . Moderately Highly to Completely
+State Fresh to Slightly Weathered Weathered Weathered
+Discontinuity Closely. to
+
+Very Closely
+
+Spacing Very Closely
+Legend:
+qu Uniaxial compressive strength {UCS] of intact rock sample
+* Building Construction Regulations (Hong Kong Government, 1985): these are currently under revision
+
+19
 
 
 ===== PDF PAGE 63 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+62
 
+Table 12 - RQD and Allowable Contact Pressure on Jointed Rock
+
+(Peck et al, 1974)
+
+RQD qa
+(%) (MPa)
+100 30
+90 20
+75 13
+50 7
+25 3
+
+) 1
+
+Note :
+
+of intact samples of the rock, take qqg= qy.
+
+If tabulated value of qq exceeds unconfined compressive strength qu
+
+Table 13 - Rock Mass Quality Classification Based on Rock Mass Factor,
+Discontinuity Spacing and RQD (Based on Deere et al, 1969;
+Coon & Merritt, 1970 and Hobbs, 1975)
+
+Rock Mass Quality RQD Discontinuity Rock Mass
+Classification (%) Spacing, per m Factor, j
+Very poor 0 - 25 Over 15 Less than 0.2
+Poor 25 - 50 15 - 8 Less than 0.2
+Fair 50 - 75 8 - 5 02 - 0.5
+Good 75 - 90 5 - 1 05 - 08
+Excellent 90 - 100 Less than 1 08 - 1.0
 
 
 ===== PDF PAGE 64 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+63
 
+FIGURES
 
 
 ===== PDF PAGE 65 =====
-
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+64
 
 
 ===== PDF PAGE 66 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Figure
+No.
 
+10
+
+11
+
+12
+
+13
+
+14
+15
+
+16
+
+7
+
+65
+
+LIST OF FIGURE
+
+Location Plan of the Yuen Long to Tuen Mun
+Eastern Corridor
+
+Geological Map of Part of Designated Area
+(Darigo, 1989)
+
+Generalized Section of the Strata in the Yuen Long
+Area (Frost, 1989)
+
+Complex Foundation Conditions in Marble Intruded by
+Dykes. at Interchange No. 3
+
+A Typical Weathering Profile in Carbonate Rocks
+(Deere & Patton, 1971 and Dearman, 1981)
+
+Stress-Strain Behaviour of Tuff Breccia
+
+Relationship Between Tangent Young’s Modulus
+and Secant Modulus for Tuff Breccia
+
+Stress-Strain Behaviour of Pure Marble
+
+Stress-Strain Behaviour of Banded Impure Marble
+and Marble Affected by Intrusions
+
+Typical Stress-Strain Curves for Rock in Uniaxial
+Compression to Failure (Based on Deere &
+Miller, 1966)
+
+Ranges of Point Load Strength Values for Tuff
+Breccia
+
+Ranges of Point Load Strength Values for White
+and Grey Marble
+
+Ranges of Point Load Strength Yalues for Banded
+Impure Marble and Metasiltstone (Yuen Long
+Formation), and Metasandstone and Metasiltstone
+(Lok Ma Chau Formation)
+
+Ranges of Point Load Strength Values for Basalt
+
+Relationships Between Index Properties and
+Uniaxial Compressive Strength for Tuff Breccia
+
+Relationships Between Index Properties and Point
+Load Strength for Tuff Breccia
+
+Relationships Between Index Properties and Uniaxial
+Compressive Strength for Marble
+
+Page
+No.
+67
+68
+69
+70
+
+7
+
+72
+73
+
+74
+75
+
+76
+
+77
+
+78
+
+79
+
+8D
+81
 
 
 ===== PDF PAGE 67 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Figure
+No.
+18
 
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+66
+
+Relationships Between Index Properties and Point
+Load Strength for Marble
+
+Relationships Between Uniaxial Compressive
+Strength and Point Load Strength for Marble and
+Tuff Breccia
+
+Engineering Classification of Marble in Terms of
+Elastic Modulus and Uniaxial Compressive Strength
+
+Engineering Clasification of Tuff Breccia
+in Terms of Elastic Modulus and Uniaxial
+Compressive Strength
+
+Weathering Profile in Volcanic Rock Units
+at Interchange No. 1
+
+Weathering Profile in Metasedimentary Rocks
+at Interchange No. 4
+
+Fracture Intensity Versus RQD for Tuff Breccia
+(Tuen Mun Formation) and Metasedimentary Rocks
+(Lok Ma Chau Formation)
+
+Fracture Intensity Versus RQD for Grey and White
+Marble and Interbedded Marble and Metasiltstone
+Subunits (Yuen Long Formation)
+
+Page
+No.
+
+85
+
+86
+
+87
+
+89
+
+90
+
+91
 
 
 ===== PDF PAGE 68 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Shekou
 
+N
+>
+
+Q 2kmm Pillar
+— Paint
+
+Scale
+
+stand
+
+KEY PLAN
+
+Figure 1 - Location Plan of the Yuen Long to Tuen Mun Eastern Corridor
+
+19
 
 
 ===== PDF PAGE 69 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+68
 
+—+ ze
+
+DEEP BAY
+
+JTU
+
+EXPLANATION
+SEDIMENTARY AND VOLCANIC ROCKS
+3 Undivided | JTU | Tuff, tuffite
+313s
+3 *8 Interbedded
+~ | este. + ee tuffite and
+JTU cmp € | 22] Tin Shui Wai Byes marble -
+gs Member bearing
+breccia
+3
+° 3 | Mai Po F
+cmp = ge Member Cmp ; Metasittstone
+5 )xi
+TIN SHUI WAI ajyS
+3
+6
+- Yuen Long FAGIN
+: Formation (&Y4° Marble
+fh al
+Ty’
+4 K 9 IGNEOUS ROCKS
+tw Y YUEN
+! Sg ~ LONG assic
+urassic- = .
+Cmp/N mg] Cretaceous _ 9 -| Granite
+XY
+mA VAN
+f + Some
+~A)SI/ N sympois :
+, ‘ \ eo
+“aN “95 Fault
+| \
+sp yi! AQ + thrust fault
+. if -fn-
+so GA SRN corr Geological boundary
+- r, » fi LAM
+
+Town or place name
+
+TE!
+
+JTU 8 3
+Superficial deposits
+=
+rr
+>
+e
+Ey)
+0 1km 0 Vkm
+[|
+Scale Scale
+
+Figure 2 - Geological Map of Part of Designated Area (Darigo, 1989}
 
 
 ===== PDF PAGE 70 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+69
 
+Debris flow
+-Marine sediments Alluvial deposits
+West . East
+10 Fill -
+ok”:
+- 10
+- 20-4
+= - 30.
+a
+£-40
+= -50E ON KY , y Volcanics y 4
+z Yuen Long Ss ~Pivvvvyvy
+3 60b Formation ne Dyke v v4
+vVoVoVoVoV
+-70r Yuen Long Vvvvvvd
+x Formation, Vv Vovveey
+~ 80/- xx voy Vovovwow
+L vVoveyv VovVoVoYV
+~ 90 i / ete «OX x vovoyv voveyv
+-100 fbx ™ x “ vo oyoy v yoy oy
+
+Figure 3 - Generalized Section of the Strata in the Yuen Long Area
+(Frost, 1989)
 
 
 ===== PDF PAGE 71 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+70
 
+| Bridge
+
+10 [ Nulah
+
+0 Altuvium
+
+~10
+
+-20
+
+Level (mPD)
+rn)
+lan}
+T
+
+-404
+-50r
+~60b
+-70"
+Sketch Plan
+Legend:
+Marble (M) >) Void
+af] Marble altered by intrusion &® Void infilled
+— Marble and metasiltstone --—-—- Weathering zone boundary
+OVi| Basic dyke ——_ Lithological boundary
+Fill --—~ Lithological boundary
+(inferred }
+or |. .
+“aS” Acidic dyke WI-WY¥I Mass weathering zone
+| Borehole
+
+Figure 4 - Complex Foundation Conditions in Marble Intruded
+by Dykes at Interchange No. 3
 
 
 ===== PDF PAGE 72 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+71
 
+Limestone outcrop
+
+WEATHERING ZONES
+
+Pedological horizons
+
+Zones WV and WVI
+if impure
+
+Zones WII and WIV
+
+Zone WI
+
+Legend :
+
+~~ Open cavities
+
+Infilled cavities, may be soft clay
+{Weathered insitu or transported from upper horizons }
+
+Figure 5 - A Typical Weathering Profile in Carbonate Rocks
+(Deere & Patton, 1971 and Dearman, 1981)
 
 
 ===== PDF PAGE 73 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+72
 
+300 rc
+
+T
+
+250
+
+200
+
+150
+
+T
+
+wv
+100-
+
+Compressive Stress (MPa)
+
+oie
+
+50
+
+T
+
+1 1 |
+
+L 1
+0 0.5 1.0 1.5 2.0 25
+Axiat Strain (107%)
+
+(a) MARBLE-CLAST BEARING TUFF BRECCIA
+
+200-
+— cy
+A
+& et
+= 150+
+uw
+nw
+i
+H 100+ ae
+wv
+2
+uw
+wa
+wv
+= 50h
+E
+oO
+oOo
+I 1 L | 1 i 1 J
+0 05 1.0 15 20 25 3.0 3.5
+
+Axial Strain («107?)
+
+(b) FINE ASH TUFF MEMBER OF TUFF BRECCIA
+
+40
+
+Figure 6 - Stress-Strain Behaviour of Tuff Breccia
 
 
 ===== PDF PAGE 74 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+73
 
+0 -
+
+120 -
+E, = 1.14% Es
+
+(GPa)
+
+100
+
+fon)
+
+fo)
+T
+s
+
+Tangent Modulus of Elasticity, E,
+i an
+oO oO
+T T
+a
+s
+
+20 -
+
+| ! n 1 ! j
+0) 20 40 60 80 100 120
+
+Secant Modulus of Elasticity, Es, (GPa)
+
+TUFF BRECCIA
+
+Legend: Weathering Grade
+
+a 2i
+s 2ii
+A 3
+
+Figure 7 - Relationship Between Tangent Young's Modulus and Secant
+Modulus for Tuff Breccia
 
 
 ===== PDF PAGE 75 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+74
 
+200
+
+1
+
+(MPa)
+
+150
+
+100
+
+50
+
+Compressive Stress
+
+) 05 1.0 15 2.0 25
+Axial Strain (1073)
+
+(a) GREY MARBLE
+
+% 1507
+i“
+=
+a 00
+4 =
+v > 9
+= W ww whine
+$
+% 50F Vg
+¥
+a
+E
+8 ! L L j
+i) 0.5 1.0 15 2.0
+
+Axial Strain (x10)
+
+(b) WHITE MARBLE
+
+Figure 8 - Stress-Strain Behaviour of Pure Marble
 
 
 ===== PDF PAGE 76 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+75
 
+o 1507
+
+a
+
+=
+
+u
+
+v 100-
+
+a
+
+g 29
+
+ww 50F
+
+1)
+
+2
+
+a
+
+=
+
+8 i \ 1 1 Jj
+0 05 1.0 15 20 25
+
+Axial Strain (*1073)
+
+(a} BANDED IMPURE MARBLE
+
+200
+
+(MPa)
+
+150
+
+100
+
+50
+
+Compressive Stress
+
+L 1 | j
+0 0.5 1.0 15 20
+
+Axial Strain (1079)
+
+(b) GREY MARBLE WITH GRANITIC VEINS/SILICIFIED MARBLE
+
+Figure 9 - Stress-Strain Behaviour of Banded Impure Marble
+and Marble Affected by Intrusions
 
 
 ===== PDF PAGE 77 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+76
 
+5 8
+a a
+aH a
+BASALT SILTSTONE
+Strain, € Strain, €
+(a) Type I: Elastic (b) Type II: Elastic-Plastic
+8 ’
+4
+2 Ma
+a a
+SANDSTONE MARBLE
+Strain, € Strain , €
+(c) Type III: Plastic- Elastic (d) Type IV: Plastic -Elastic - Plastic
+’ ’
+a aH
+SCHIST ROCKSALT
+Strain , € Strain, €
+(e) Type V: Plastic-Elastic-Plastic (tf) Type VI: Elastic-Plastic-Creep
+
+Figure 10 - Typical Stress-Strain Curves for Rock in Uniaxial Compression
+to Failure (Based on Deere & Miller, 1966)
 
 
 ===== PDF PAGE 78 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+wu
+ao]
+o eee
+4
+Og Bats
+mn
+£ |
+& Pa ae ee
+£ 3 oe b+ Oe bab. + + ey *
+g |
+au be ——— ES
+>= aii ++ ©@0@0@ @:0 e068 ws ¢
+3 i |e & © 08 e648 +6 4 +
+c Se T as ae
+oi 2 1
+= ‘ {
+n L n L n n t LL L a —_L be m 1 _i
+ie) 1 2 3 4 5 6 7 8 9 10 "W 12 13 7 15 16 17
+Point Load Strength (MPa)
+TUFF BRECCIA
+Legend:
+ro) Average of 5 to 15 results on specimens adjacent to ry Average of § to 15 results on core specimens
 
+core sections tested in uniaxial compression
+
+Figure 11 - Ranges of Point Load Strength Values for Tuff Breccia
+
+Ld
 
 
 ===== PDF PAGE 79 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+2 to S not present
 
+a
+Oo
+2
+Ss o
+zo
+oa +. — — —— ——_--——. -—-— ee
+o&
+Ze£
+3 _. be se se. _
+0 1 2 3 4 5 6 7 8 9 10
+Point Load Strength (MPa)
+(a) WHITE MARBLE
+3 4 to 5 not present
+2
+oO L — eee
+a 2. With granitic veins /silicified ?
+c eee ~
+£ Not present unless impure foe}
+4 + 3 @ @6 | gs +
+= i With granitic veins / siticified
+s Not generally present unless impure
+£ 70. .9% . ee
+2 [With granitic veins / silicified
+= eo
+® se @® + ee
+1 L L* * Grey Marble t 1 1 L
+0 1 2 3 4 5 6 7 8 9 10
+Point Load Strength { MPa)
+(b) GREY MARBLE
+Legend:
+@ Average of 5 to 15 results on specimens adjacent to + Average of 5 to 15 results on core specimens
+
+core sections tested in uniaxial compression
+
+Figure 12 - Ranges of Point Load Strength Values for White and Grey Marble
 
 
 ===== PDF PAGE 80 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+79
 
+Material Weathering Grade
+
+Material Weathering Grade
+
+5 |l
+
+was
+ES
+ee
+M
+b
+a] ae a
+M *
+to sbel tg
+S
+6 +
++
++? +@Qet + @ete + + +
+ay s}
+—_———— ee |
+IM T
+2 . 9
+L t 1 Lo L al L
+0 1 2 3 4 5 6 7 8
+
+Point Load Strength (MPa }
+(a) INTERBEDDED IMPURE MARBLE AND METASILTSTONE
+
+L++
+Res
+T ee
++! +
+atte bate Ce 2 a+ +
+L T —-S4--
+' !
+i Net tested 9
+t
+Po
+T :
+i Not tested
+1 1 1 AL. 1 Le ole
+0 1 2 3 4 5 6 7 8
+
+Point Load Strength (MPa)
+(b}) METASANDSTONE AND METASILTSTONE (MAI PO FORMATION )
+
+Legend :
+
+S
+
+Metasiltstone M Marble
+
+Figure 13 - Ranges of Point Load Strength Values for Banded Impure Marble
+
+and Metasiltstone (Yuen Long Formation), and Metasandstone
+and Metasiltstone (Lok Ma Chau Formation)
 
 
 ===== PDF PAGE 81 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+a
+uv
+rs]
+i
+(G)
+on
+¢
+€
+x os ; t+
+S 3 etter te ee oe eo + t+ 2
+ow
+= { | oo
+3 |
+co
+o 2 2 t+, +e @ +
+=
+ts]
+2 L
+H ~7
+' ? Not tested
+{
+1 1 1 i L 1 1 Lo abt L
+0 t 2 3 4 5 6 7 8 $] 10 if
+Point Load Strength (MPa)
+BASALT
+Legend:
+® Average of 5 to 15 results on specimens adjacent to + Average of 5 to 18 results on core specimens
 
+core sections tested in uniaxial compression
+
+Figure 14 - Ranges of Point Load Strength Values for Basait
+
+08
 
 
 ===== PDF PAGE 82 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Saturation Moisture Content (%)
 
+(%)
+
+Effective Porosity
+
+4 os
+5+ 3.0 eo:
+a "
+4 & 28b a Do, a a
+2 A Or yoo,
+3h > 26F 4
+a * a a °°
+c a4
+2t A & 24F
+“a z= 4
+Tb Oo 22-r
+l L Aa fom n°? o oF ! 20 L 1 1 1 1 4 —)
+0 50 100 150 200 250 300 350 0 = 650©6=«6©100 150 200 250 300 350
+Uniaxial Compressive Strength (MPa) Uniaxial Compressive Strength (MPa)
+12Pr 4
+10+
+at Legend: Weathering Grade
+a * . 1
+4 . 2ii
+4b a A 3
+° 4 (not tested)
+2+ T Tuff bands
+1 1 eee” qa 0% 1
+
+0 50 100 150 200 250 300 350
+Uniaxial Compressive Strength { MPa)
+
+Figure 15 - Relationships Between Index Properties and Uniaxial Compressive Strength for Tuff Breccia
+
+18
 
 
 ===== PDF PAGE 83 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Saturation Moisture Content (%)
 
+Effective Porosity (%)
+
+2
+1 1 a Boils o “a FR oY
+
+2 4 6 8 10 12,0 «14
+Point Load Strength {MPa}
+
+a
+
+.
+4 1 mt Sotto To PB Oy
+
+2 4 6 8 10 12 14
+Point Load Strength {MPa}
+
+Dry Density {Mg/m?)}
+
+3.2
+
+3.0
+
+2.8
+
+2.6
+
+24
+
+2.2
+
+2.0
+
+_*
+. .
+o a a
+Oo, a
+"=. o 6 o7"h,
+a or
+Tay
+Aa
+Aa
+
+L 1 J 1 1 1 J
+
+2 4 6 8 10 12 14
+Point Load Strength {MPa}
+
+Legend :. Weathering Grade
+
+. 1
+a 2i
+a 2ii
+A 3
+° 4 (not tested)
+
+T Tuff bands
+
+Figure 16 - Relationships Between Index Properties and Point Load Strength for Tuff Breccia
+
+28
 
 
 ===== PDF PAGE 84 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Saturation Moisture Content (%)
 
+Effective Porosity (%}
+
+o Og
+m@ og Og
+oy, = eetf rveer 8 FF )
+
+50 100 150 200
+Uniaxial Compressive Strength (MPa)
+
+.
+1 wa Se 1
+
+50 100 150 200
+Uniaxial Compressive Strength { MPa)
+
+Dry Density (Mg/m3}
+
+3.2
+
+3.0
+
+2.8
+
+2.6
+
+2.4
+
+Og
+
+4g
+Ag Ug ,
+a
+a
+a
+7
+o" . 7a
+.
+a
+4 aag . . ye
+“as 77
+oo 9° s ? .
+a
+a
+a
+45 7
+a
+1 1 1 !
+50 100 150 200
+
+Uniaxial Compressive Strength (MPa)
+
+Legend: Weathering Grade
+. 1 {White and Grey Marble)
+
+(Banded Impure Marble and
+
+1
+2 Marble with granitic veins)
+
+boa
+
+Marble with granitic veins
+
+Figure 17 - Relationships Between Index Properties and Uniaxial Compress ive Strength for Marble
+
+€8
 
 
 ===== PDF PAGE 85 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Saturation Moisture Content (%)}
 
+Effective Porosity (%]
+
+o Dg
+o ° e Og “e Us
+n eee fore er \
+2 4 6
+Point Load Strength (MPa)
+a Oy
+Q,
+o
+n n bl 1 !
+2 4 6 8
+
+Point Load Strength (MPa)
+
+Dry Density (Mg/m3)
+
+3.2
+
+3.0
+
+2.8
+
+2.6
+
+2.4
+
+Point Load Strength {MPa}
+
+Legend:
+
+Weathering Grade
+
+1 (White and Grey Marble)
+
+1
+2 | Marble with granitic veins)
+
+Marble with granitic veins
+
+7
+“ °9
+7
+a 7
+4
+4
+7 Y
+“ 7
+Lal
+4 _ “
+L 3 8 /
+at . ¢
+7 ve
+foo 73° “7
+7
+7
+L 7
+7
+7
+1 1 1 i
+2 4 6 8
+
+(Banded Impure Marble and
+
+Figure 18 - Relationships Between Index Properties and Point Load Strength for Marble
+
+v8
 
 
 ===== PDF PAGE 86 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+85
 
+Point Load Strength, PLS (MPa)
+
+Point Load Strength, PLS (MPa)
+
+8 UCS = 24 PLS (including marble with granitic veins)
+UCS = 25.5 PLS (shown )
+6F 9
+9 . .
+ab “de .
+2 i" .
+1 1 1 1 1 v —I
+0 25 50 75 100 125 150 178
+Uniaxial Compressive Strength, UCS (MPa}
+(a) MARBLE
+14> UCS = 22.5PLS {excluding failures through pre-existing
+cracks and veins ) o
+12+ wT o
+or
+10+ . J
+qo a
+baa
+Bt xo :
+Q
+es
+6; x om
+x bad &
+‘Ag
+2F A &
+A
+i 4 4 1 1 L i 4
+
+4 J 1 1
+Q 2 50 75 100 12 150 175 200 225 250 275 300
+
+Uniaxial Compressive Strength, UCS (MPa)
+(b) TUFF BRECCIA
+
+Legend:
+
+Weathering Grade
+
+1 x Failure through pre-existing crack
+2i in uniaxial compression
+
+2ii T Pure tuff specimens
+
+3 9 Marble with granitic veins
+
+4 (not tested}
+
+Figure 19 - Relationships Between Uniaxial Compressive Strength and Point
+
+Load Strength for Marble and Tuff Breccia
 
 
 ===== PDF PAGE 87 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+86
 
+Approximate Point Load Strength (MPa)
+
+0.25 05 1 2 4 8 16
+T T T T T T T
+T
+Strength
+VW Ww MW MS s VS ES | cle
+Marble
+(Deere & Miller,
+1966)
+Dolomite, Limestone, i
+1007 Marble & Marlstone ox \
+= Ff (Dearman, 1981) f ™~
+&é L fog e
+L I
+ra) 2
+~ L oO “yes
+2 | hg
+3 fy»
+= L ! /
+Ww
+= | Concrete —————_—__>}
+ra’
+3 Yow
+3 19h & ., Limestone
+Bor S (Deere & Miller,
+= fF 1966}
+r 6
+L
+we
+L <<
+RS)
+ae x
+1 3 10 30 100 ~300.~~~~~1000
+Uniaxial Compressive Strength {MPa}
+Legend
+. Fresh marble (1)
+a Slightly decomposed marble with slight effects of solution and/or
+discolouration (2)
+A Moderately decomposed impure marble (3)
+Q Marble with granitic veins
+* Silicified marble
+
+Figure 20 - Engineering Classification of Marble in Terms of Elastic
+Modulus and Uniaxial Compressive Strength
 
 
 ===== PDF PAGE 88 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+87
 
+Approximate Point Load Strength (MPa)
+
+0.25 0.5 1 2 4 8 16
+T T T T T T T
+T
+VW w MW MS S vS ES 1 clase
+o
+¢
+o
+EDDY
+LYLE
+& Ee,
+Vf
+gy
+SY, Tuff
+o,f Breccia”
+4
+100} y,
+ge f
+oOo Ff
+2 |
+s
+Ss
+& Concrete
+W =
+a)
+a
+2
+3 10
+3 c ey
+= CF ee?
+L 7
+~~
+L a
+ia . R4 6
+X »
+L » RS
+4 x
+L we
+LS XS,
+x x
+nm nN 1 1 pe a n 1 41 1
+1 3 10 30 100 300 1000
+Uniaxial Compressive Strength ( MPa}
+Legend : Weathering Grade
+. 1 (not tested)
+a 2i
+. 2ii
+a 3
+9 4 (not tested}
+T Pure tuff bands
+Note : Failures through pre-existing cracks and veins are excluded.
+
+Figure 21 - Engineering Classification of Tuff Breccia in Terms of Elastic
+
+Modulus and Uniaxial Compressive Strength
 
 
 ===== PDF PAGE 89 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+88
 
+10 -
+Alluvium
+fa] =
+2
+€- 10
+@ -20-
+a
+a
+-30 =
+a a é
+-L0 L ASAAAAAA Pa as cal al eal al a ad aoa a a a VOAARKRBAAKBAABKA ran oaVvVoaaAA a
+{ r L i ! n i 1! 1 ! n J J
+0 50 100
+Distance [(m}
+Legend
+Tuffaceous Siltstone / Sandstone I
+with thin tuff breccia ITM (3) Borehole
+Sandstone layer ——— Weathering zone boundary
+vera Tuff breccia (marble-clast bearing) Lithalogical boundary
+sss] Granite WI-WYI Mass weathering zone
+
+Fine Ash Tuff } JTM (?}
+
+ene
+
+Fault (probable)
+
+Figure 22 - Weathering Profile in Volcanic Rock Units at Interchange No. 1
 
 
 ===== PDF PAGE 90 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+89
 
+| Bridge
+
+(mPD)
+
+Level
+
+1
+0 50 100
+Distance (m)
+
+Legend :
+Metasiltstone -——— Weathering zone boundary
+Cmp
+Metasandstone Lithological boundary
+I Borehole WI-WNI Mass weathering zone
+Note : Exact orientation and thickness of beds not known (sketch only).
+
+Figure 23 - Weathering Profile in Metasedimentary Rocks
+at Interchange No. 4
 
 
 ===== PDF PAGE 91 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+90
 
+255
+Highly Weathered
+20 \
+E \ | Moderately Weathered |
+$ NI am
+o ° ‘SQ Fresh to
+SP x NN ° Slightly Weathered
+= x x eK ONS .
+4 boreal
+2 ox ~~ x x .
+= xi x x wsN
+10+ Sax KOK xi x x Seay x x
+$ mA x x x oe xi
+2 “s, . OG
+3 xP, xi x x a 1
+im aoe xx Ox x XT SAX!
+5- x ™ x x ¥ Re . )
+x OTK i “ase t
+wee Xi xe x soe
+Xp Teese oi
+wT ee 8
+1 1 L 1 n rt n 1 Nubia
+ie) 10 20 30 40 50 60 70 80 90 100
+Rock Quality Designation , RAD (%)
+(a) TUFF BRECCIA
+\ .
+23x LNs. Fresh to Slightly Weothered \
+Ss
+N.
+x,
+< xx x Moderately Weathered _
+NN ~T
+20 x8 ‘Me
+e ~\.
+E . ° X.
+. my,
+& 4 xXx ‘\
+15° . xi “\w
+> “ x x oe sO,
+= SQ xi ee ° ~.
+F ss ‘s
+2 “ew xi x “AY
+= 10+ “sx xi xi “ss
+¥ SAM . x wee, xi Xi
+2 ry Seay . xi . ee
+° ~ ee ee
+Fa ~~ ay —
+5+ ~s .
+| XT eee '
+n rt 1 1 1 ‘ L 4 Totes
+o 10 20 30 40 $0 60 70 80 90 100
+Rock Quality Designation, RQD ({")
+(b} METASEDIMENTARY ROCKS
+Legend:
+. Fresh to slightly weathered ° Highly weathered
+xi Moderately weathered (i<10% soil)
+Note : ROD values are standardized to 1.5m core lengths.
+
+Figure 24 - Fracture Intensity Versus RQD for Tuff Breccia (Tuen Mun
+Formation) and Metasedimentary Rocks (Lok Ma Chau Formation)
 
 
 ===== PDF PAGE 92 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+91
 
+Marble with Solution Effects
+| (WIE - WIV) |
+
+>|
+Fresh Marbie
+
+{WI}
+
+a
+T
+
+Fracture Intensity, per m
+()
+T
+
+See o 79
+ee 4
+a ee oo 4 9
+4 a0 of 60
+a oa og oO pitt Sey ‘
+Sr o a oa ~~
+a a a aoa 4 ~a
+--8-pg, 4g a 44 Wer
+\ oD a ae ae oe oa a ne, am 4 fa a
+7 . Tae Aa gt
+i i 1 i] J. 1 1 1
+0 10 20 30 40 so 60 70 80 90 100
+Rock Quality Designation, RQD (%)
+(a) GREY AND WHITE MARBLE
+25
+i Moderately Weathered
+| (WI) |
+E IN, |
+& 207 x OS. Slightly Weathered
+_ | (WII)
+> se [ “|
+‘w x en Fresh
+Sst xs *sy > (wl)
+= I x *sn ' °
+© —_ x am A
+5 xm NX * % Om ee Xm
+~ ~
+7] NG mm aE =e
+© 10F “s x Xm em Loe
+re SS xin % em Xm Xm Xm
+Ss SmXm Xm OM Om |
+xX “sx xm en ay Gn
+5 aR Xs an Bn xm Xm XX Sam |
+L ~ °, & dul
+Mn ae, Xm Xen me a ao om
+~~ Xm om fm Om Xm
+Xes Tem tn %
+L n 1 n 1 rs . SF Om
+Qo 10 20 30 40 50 60 70 80 90 100
+Rock Quality Designation, RAD (%)
+(b) INTERBEDDED MARBLE AND METASILTSTONE
+Legend :
+4 Fresh marble ia) Marble with solution effects
+° Fresh/Slightly weathered x Moderately weathered
+m Marble s Metasiltstone
+Note : RQD values are standardized to 1.5m core lengths.
+
+Figure 25 - Fracture Intensity Versus RQD for Grey and White Marble and
+Interbedded Marble and Metasiltstone Subunits
+(Yuen Long Formation)
 
 
 ===== PDF PAGE 93 =====
-
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+92
 
 
 ===== PDF PAGE 94 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+93
 
+PLATES
 
 
 ===== PDF PAGE 95 =====
-
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+94
 
 
 ===== PDF PAGE 96 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Plate
+No.
 
+10
+11
+12
+13
+
+14
+
+15
+
+95
+
+LIST OF PLATES
+
+Oblique Aerial Photograph Showing the Northwest
+New Territories and the Proposed Yuen Long to
+Tuen Mun Eastern Corridor
+
+Grey Marble with Granitic Veins
+(Yuen Long Formation)
+
+Grey Marble (Yuen Long Formation)
+
+Impure Marble Interbedded with Phyllite, and Grey
+Marble (Uppermost Part of the Ma Tin Member,
+
+Yuen Long Format ion)
+
+White Marble Altered by Basalt Dyke Intrusion
+
+White and Grey Marble (Ma Tin Member, Yuen Long
+Format ion)
+
+Banded Impure Marble with Metasiltstone (Uppermost
+Part of the Ma Tin Member, Yuen Long Formation)
+
+Silicified Grey Marble
+
+Dark Grey to Black Marble (Long Ping Member,
+Yuen Long Format ion)
+
+Tuff Breccia with Marble Clasts (Tuen Mun Formation)
+Tuff Breccia with Marble Clasts (Tuen Mun Formation)
+Tuff Breccia with Marble Clasts (Tuen Mun Formation)
+
+Sandstone, Siltstone and Tuff Breccia (Tuen Mun
+Format ion)
+
+Metasandstone and Metasiltstone
+(Lok Ma Chau Formation)
+
+Metasandstone and Metasiltstone
+(Lok Ma Chau Formation)
+
+Page
+No.
+
+97
+
+98
+
+99
+
+100
+
+101
+
+102
+
+103
+
+104
+105
+
+106
+107
+108
+109
+
+110
+
+111
 
 
 ===== PDF PAGE 97 =====
-
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+96
 
 
 ===== PDF PAGE 98 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+97
 
+Territories and the Proposed Yuen Long to Tuen Mun
+
+Plate 1 - Oblique Aerial Photograph Showing the Northwest New
+Eastern Corridor
 
 
 ===== PDF PAGE 99 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+98
 
+Borehole No. BD 47
+
+Borehole No. BD 47
+
+Test Specimens :
+M1 (34.5-34.7m); M2 (34.7-34.9m); M3 (39.6-39.8m);
+M4 (45.4-45.8m); M5 (47.5-47.7m); M6 (48.9-49.2m);
+M7 (49.2-49. 4m)
+
+Completely to highly decomposed basalt dyke at 11.7 - 29.0m,
+completely decomposed altered marble (by basic and
+
+acidic dyke intrusions) at 29.0-34.4m, marble with granitic veins at
+34.4 - 35.05m, completely decomposed altered fault / dyke at
+35.05-39.3m, slightly to completely discoloured grey marble with
+granitic veins at 39.3-52.9m,slightly discoloured to fresh grey marble
+over 52.9m. Possible void (no core recovery) at 45.8- 46.9m,
+highly to completely decomposed (altered) marble at 41.2-42.3m,
+43.4-45.4m and 49.45-52.9m.
+
+Plate 2 - Grey Marble with Granitic Veins (Yuen Long Formation)
 
 
 ===== PDF PAGE 100 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+99
 
+rehole No. BD 47
+
+Borehole No. BD 47
+
+Test Specimens :
+
+M8 (56.5-56.65m); M9 (56.65-56.8m]; M10 (59.8-60.0m);
+M11 (64.6- 64.8m)
+
+Solution effects and staining along joints. Colour changes to dark
+grey at 65.2m. Infilled cavities at 56.9, 58.15 and 60.0m.
+
+Plate 3 - Grey Marble (Yuen Long Formation)
 
 
 ===== PDF PAGE 101 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+100
 
+Borehole No. BD 54
+
+Borehole No.BD 54
+
+Test Specimens :
+M22 (44.6-44.8m); M23 (45.2-45.4m)
+
+Alluvium 0 -12m, completely weathered metasiltstone and impure marble
+zone 12 -18m {SPT < 60), highly weathered metasiltstone and impure
+marble zone 18- 30m (SPT > 60), moderately weathered impure
+marble with metasiltstone zone 30 - 40m, slightly weathered impure
+marble zone 40 - 43m and fresh grey marble, over 43m.
+
+Jar samples : highly decomposed impure marble and metasiltstone.
+
+Plate 4 - Impure Marble Interbedded with Phyllite, and Grey Marble
+(Uppermost Part of the Ma Tin Member, Yuen Long Formation)
 
 
 ===== PDF PAGE 102 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+101
 
+Borehole No. BD 55
+
+Test Specimens :
+M24 (47.3-47.6m)
+
+Highly to completely decomposed/altered (by dyke intrusion) marble
+at 33.6 - 35.6m and 40.1-44.0m, basalt dyke at 35.65 - 40.0m,
+white marble with slight solution effects and grey marble bands at
+44.0 - 47. 75m.
+
+Plate 5 - White Marble Altered by Basalt Dyke Intrusion
 
 
 ===== PDF PAGE 103 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+102
 
+Borehole No.BD 50A
+
+Hk
+BSS
+2
+®
+é
+2
+3
+a
+ar
+A
+as
+=
+ns
+vw
+:
+=
+=
+&
+Ss
+*
+e
+
+pal
+~
+Re)
+all
+&
+cy
+Sy
+~
++
+
+Test Specimens :
+
+M18 (51.8-52.0m); M19 (52.0-52.2m); M20 (53.3-53.5m),
+Borehole BD 50; M25 (48.2-48.4m), Borehole BD 55
+
+Plate 6 - White and Grey Marble (Ma Tin Member, Yuen Long Formation)
 
 
 ===== PDF PAGE 104 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+103
 
+Borehole No. BD 53
+
+Borehole No. BD 53
+
+Test Specimens :
+
+M26 (30.6-30.9m). Other test specimens M27 (70.8 - 71.0m),
+M28 (73.2-73.4m) and M29 (74.3-74.5m) are not shown.
+
+Moderately to highly decomposed impure marble at 30.9 - 31.6m.
+Metasiltstone at 37.4 -39.3m.
+
+Plate 7 - Banded Impure Marble with Metasiltstone (Uppermost Part
+of the Ma Tin Member, Yuen Long Formation)
 
 
 ===== PDF PAGE 105 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+104
 
+Borehole No. BD 40
+
+Borehole No. BD 40
+
+Test Specimens :
+
+M12 (49.7-49.9m); M13 (50.15-50.3m); M14 (50.6-50.8m);
+M15 (57.5-57.7m). Other test specimens M16 (59.9-60.1m) and
+M17 (60.2-60.4m) are not shown.
+
+Plate 8 - Silicified Grey Marble
 
 
 ===== PDF PAGE 106 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+105
 
+Borehole No.BGS 2 [Hong Kong Geological Survey Borehole).
+
+SRE
+
+Test Specimens :
+Not tested.
+
+Plate 9 - Dark Grey to Black Marble (Long Ping Member, Yuen Long
+Formation)
 
 
 ===== PDF PAGE 107 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+106
 
+Borehole No. BD 9B
+
+Test Specimens :
+
+CTB13 (33.8-34.0m); CTB14 (34.6-3
+(24.1-2
+
+}; CTB15 (34.8-35.0m);
+CTB25 (23.8- 24.0m); CTB26 );
+
+CTB27 (24.6-24.8m)
+
+Honeycombed [with solution voids] moderately to highly decomposed
+tuff breccia at 21.0-22.8m, 23.6- 24.3m and 24.6- 27.2m,
+slightly decomposed tuff breccia at 22.8- 23.6m and 24.3-24.6m,
+slightly decomposed to fresh tuff bands (with marble clasts)
+
+at 33.6- 35.9m.
+
+Plate 10 - Tuff Breccia with Marble Clasts (Tuen Mun Formation)
 
 
 ===== PDF PAGE 108 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+107
 
+Borehole No. BD 8A
+
+Test Specimens :
+
+CTB11 (25.6-25.8m); CTB12 (25.8-26.0m), Borehole BD8A;
+CTB9 (38.8-40.0m), Borehole BD3
+
+Slightly decomposed (slightly to highly discoloured ) tuff breccia
+
+at 37.4-40.0m, and moderately decomposed (completely discoloured
+and with minor solution holes ) tuff breccia at 36.45- 37.4m in
+borehole BD 3. Slightly decomposed marble clast- bearing tuff
+
+breccia at 23.8 - 26.5m, pure tuff band at 24.9m, in borehole BD8A.
+
+Plate 11 - Tuff Breccia with Marble Clasts (Tuen Mun Formation)
 
 
 ===== PDF PAGE 109 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+108
 
+Borehole No. DT 7
+
+Test Specimens :
+
+CTB1 (26.5-26.8m); CTB2 (27.8 -28.1m)}, Borehole DT1;
+CTB3 (16.8-17.0m); CTB4 (17.6-17.75m), Borehole DT7
+
+Slightly decomposed (slightly to highly discoloured) tuff breccia at
+15.8- 18.58m in Borehole DT7, moderately decomposed (completely
+discoloured) tuff breccia at 25.7- 27.25m in Borehole DT1.
+
+Plate 12 - Tuff Breccia with Marble Clasts (Tuen Mun Formation)
 
 
 ===== PDF PAGE 110 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+109
 
+Borehole No. BD 11
+
+Borehole No. BD 11
+
+Test Specimens :
+
+CTB16 (31.2- 31.35 m); CTB17 (32.3-32.6m); CTB18 (32.6-32.9m)
+
+Siltstone 16.2-17.5m, sandstone 17.5-28.0m, tuff breccia 28,0 -35.1m.
+
+Plate 13 - Sandstone, Siltstone and Tuff Breccia (Tuen Mun Formation)
 
 
 ===== PDF PAGE 111 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+110
 
+Borehole No. BD 59
+
+—
+
+Test Specimens :
+Not tested
+
+Alluvium 0-5m, completely weathered metasiltstone zone 5- 11m,
+highly weathered metasandstone with metasiltstone zone (SPT >60)
+10 - 31.8m, moderately weathered metasandstone zone 31.8 -37.2m.
+
+Plate 14 - Metasandstone and Metasiltstone (Lok Ma Chau Formation)
 
 
 ===== PDF PAGE 112 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+111
 
+Borehole No. BD 59
+
+Test Specimens :
+Not tested
+
+Slightly weathered metasandstone zone 37.2 -44.4m,
+fresh metasandstone zone over 44.4m.
+
+Plate 15 - Metasandstone and Metasiltstone (Lok Ma Chau Formation)

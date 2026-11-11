@@ -2,12 +2,6 @@
   "query": "\"renewal of consent\" OR \"consent\" OR \"validity\"",
   "results": [
     {
-      "code": "APP-097",
-      "source": "indexed_text/PNAP/APP/APP-097.txt",
-      "pdf_page": 4,
-      "excerpt": " … If the plans can be approved, approval and [consent]\n                          will be given at the same time with the required\n                        [consent] notice in … "
-    },
-    {
       "code": "APP-060",
       "source": "indexed_text/PNAP/APP/APP-060.txt",
       "pdf_page": 4,
@@ -18,6 +12,12 @@
       "source": "indexed_text/PNAP/APP/APP-050.txt",
       "pdf_page": 1,
       "excerpt": " … Form BD107, otherwise an application on Form BA9 for [renewal of consent] has to be made.\nOnce erected, a temporary building may … "
+    },
+    {
+      "code": "APP-097",
+      "source": "indexed_text/PNAP/APP/APP-097.txt",
+      "pdf_page": 4,
+      "excerpt": " … If the plans can be approved, approval and [consent]\n                          will be given at the same time with the required\n                        [consent] notice in … "
     },
     {
       "code": "ADM-02",
@@ -68,16 +68,16 @@
       "excerpt": "Practice Note for Authorized Persons,\nBuildings Department    Registered Structural Engineers and          APP-97\n                         Registered Geotechnical Engineers\n\n\n           [Consent] Procedures for Building Works and … "
     },
     {
-      "code": "APSEC-DF-2020-05-29",
-      "source": "indexed_text/APSEC/2020/APSEC-DF-2020-05-29.txt",
-      "pdf_page": 4,
-      "excerpt": " … Only \n[consent] for basement was given and covered walkway had to be erected \nprior to [consent] application for superstructure works. \n \nSuch requirement … "
-    },
-    {
       "code": "APSEC-DF-2025-05-09",
       "source": "indexed_text/APSEC/2025/APSEC-DF-2025-05-09.txt",
       "pdf_page": 16,
       "excerpt": " … Regarding building products for which the [validity] dates of the test and \nassessment reports available in the CDB had already lapsed, BD … "
+    },
+    {
+      "code": "APSEC-DF-2020-05-29",
+      "source": "indexed_text/APSEC/2020/APSEC-DF-2020-05-29.txt",
+      "pdf_page": 4,
+      "excerpt": " … Only \n[consent] for basement was given and covered walkway had to be erected \nprior to [consent] application for superstructure works. \n \nSuch requirement … "
     },
     {
       "code": "APP-097",
