@@ -1,6 +1,7 @@
 {
-  "generated_at": "2026-11-11T06:35:35.777478+00:00",
-  "tested_commit": "8885f3ab311455b88557de3078b908f245ffae42",
+  "generated_at": "2026-11-11T06:38:13.358921+00:00",
+  "tested_commit": "47d7fd9b8cc811c895404bc5da0a7ff0f4f2d2c7",
+  "engine_worktree_changes": false,
   "index_sha256": "36ec4910ba43c1b5ad171bd42d6e6ffc8f8fdd92d7d68338f8e0f0a1e3565c28",
   "question_dataset_sha256": "6a84533058a55b9b5c8b20e6e58ef3e512451c75859da74cf37b14f98e11f458",
   "engine_source_sha256": {
@@ -30142,6 +30143,5 @@
       },
       "answer_correctness": null
     }
-  ],
-  "engine_worktree_changes": true
+  ]
 }
