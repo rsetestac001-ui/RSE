@@ -14,6 +14,9 @@ def main():
     results = []
     with sqlite3.connect(ROOT / "search/pnap_fts.sqlite3") as db:
         assert db.execute("PRAGMA integrity_check").fetchone()[0] == "ok"
+        db.execute("INSERT INTO page_fts(page_fts,rank) VALUES('integrity-check',1)")
+        db.execute("CREATE VIRTUAL TABLE temp.tokens USING fts5vocab(main, page_fts, instance)")
+        tokens = dict(db.execute("SELECT doc,min(term) FROM temp.tokens GROUP BY doc"))
         for item in manifest["documents"]:
             pdf = ROOT / item["source_pdf"]
             assert hashlib.sha256(pdf.read_bytes()).hexdigest() == item["sha256"], pdf
@@ -23,10 +26,9 @@ def main():
             rows = db.execute("SELECT id,content FROM page WHERE source=? ORDER BY page_no", (source,)).fetchall()
             assert len(rows) == item["pages"], source
             for row_id, content in rows:
-                import re
-                words = re.findall(r"[A-Za-z]{3,}", content)
-                if words:
-                    assert db.execute("SELECT rowid FROM page_fts WHERE page_fts MATCH ? AND rowid=?", ('"'+words[0]+'"', row_id)).fetchone(), (source, row_id)
+                token = tokens.get(row_id)
+                if token:
+                    assert db.execute("SELECT rowid FROM page_fts WHERE page_fts MATCH ? AND rowid=?", ('"'+token.replace('"','""')+'"', row_id)).fetchone(), (source, row_id)
             results.append({"source_pdf":item["source_pdf"], "indexed_pages":len(rows), "verified":True})
         # Retain the pre-existing PNAP retrieval guarantees after adding codes.
         for code in ["ADM-16", "APP-030"]:
