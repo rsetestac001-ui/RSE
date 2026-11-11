@@ -42,3 +42,7 @@ APP-56 的新界豁免建築相關 SF 豁免條件、APP-25 的 GBP 階段岩土
 ## APSEC Discussion Forum retrieval
 
 相關問題亦須查閱 `apsec/manifest.json` 的年份覆蓋及來源，再讀取 `documents/APSEC/` 或 `indexed_text/APSEC/` 原文。必須區分左欄提出的問題與右欄 BD 回應，並引用會議日期、item 編號、欄位及 PDF 實體頁碼。APSEC Discussion Forum 摘要並非法例、PNAP 或完整 APSEC 正式會議紀錄；須核對現行法例、PNAP、codes 及原文交叉引用。公開收藏未核實為完整歷史檔案；較早或未列出的會議缺漏必須如實交代，不可把未下載當成沒有相關討論。
+
+## GEO guidance retrieval
+
+岩土問題須查閱 `geo/manifest.json`、`geo/search_audit.json` 及官方目錄保存的狀態註記，再讀 `documents/GEO/` 或 `indexed_text/GEO/` 原文。涵蓋 Geoguides、GCO/GEO Publications 及 TGN；GEO Reports、Geospecs 等其他系列不在此下載範圍。目錄可能同時提供原版、整合修訂版及 amendments，必須核對版本、取代／取消及交叉引用（包括 TGN master list、TGN 1 及相關 PNAP）；不可把歷史版本或已取消 TGN 當作現行指引。須區分技術指引與法例，列文件編號／版本、段落及 PDF 實體頁碼。空白或掃描頁、公式及圖表須回看 PDF，全文未抽出不代表沒有規定。
