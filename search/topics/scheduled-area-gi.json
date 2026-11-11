@@ -2,16 +2,22 @@
   "query": "\"ground investigation\" OR \"scheduled area\" OR \"scheduled areas\"",
   "results": [
     {
+      "code": "APP-141",
+      "source": "indexed_text/PNAP/APP/APP-141.txt",
+      "pdf_page": 3,
+      "excerpt": " … Geotechnical Task\n\n   Executive    [Ground Investigation] in [Scheduled Areas] (Task 2A in Appendix B)\n\n              [Ground Investigation] in Non-[scheduled Areas] (Task 2B in … "
+    },
+    {
       "code": "APP-030",
       "source": "indexed_text/PNAP/APP/APP-030.txt",
       "pdf_page": 1,
       "excerpt": " … By virtue of section 41(3) of the BO, [ground investigation] in [Scheduled\nArea] No. 1 requires approval from the Building Authority … "
     },
     {
-      "code": "APP-141",
-      "source": "indexed_text/PNAP/APP/APP-141.txt",
-      "pdf_page": 3,
-      "excerpt": " … Geotechnical Task\n\n   Executive    [Ground Investigation] in [Scheduled Areas] (Task 2A in Appendix B)\n\n              [Ground Investigation] in Non-[scheduled Areas] (Task 2B in … "
+      "code": "FoundationCode2017",
+      "source": "indexed_text/BD_CODES/foundations/FoundationCode2017.txt",
+      "pdf_page": 54,
+      "excerpt": "3.5  [GROUND INVESTIGATION] IN [SCHEDULED AREAS]\n\n      [Ground investigation] works in the [Scheduled Areas] are subject to special control\n       under the Buildings … "
     },
     {
       "code": "ADM-16",
@@ -44,6 +50,12 @@
       "excerpt": " … Excavation Works,\nPNAP APP-28   Foundation Works on Sloping Ground, and\n               [Ground Investigation] Works in the [Scheduled\n                Areas] - Buildings Ordinance section 17"
     },
     {
+      "code": "FoundationCode2017",
+      "source": "indexed_text/BD_CODES/foundations/FoundationCode2017.txt",
+      "pdf_page": 101,
+      "excerpt": "7.8  FOUNDATION WORKS IN [SCHEDULED AREAS]\n\n7.8.1 GENERAL\n\n       For foundation works in the [Scheduled Areas], there are usually special … "
+    },
+    {
       "code": "APP-115",
       "source": "indexed_text/PNAP/APP/APP-115.txt",
       "pdf_page": 2,
@@ -68,28 +80,16 @@
       "excerpt": " … 2 and 4 of the [Scheduled Areas] (these Areas).  It applies\nto submissions relating to [ground investigation] (GI), foundation design and construction … "
     },
     {
-      "code": "APP-028",
-      "source": "indexed_text/PNAP/APP/APP-028.txt",
-      "pdf_page": 1,
-      "excerpt": " … Works, Foundation Works on Sloping Ground, and\n             [Ground Investigation] Works in the [Scheduled Areas]\n                           Buildings Ordinance Section 17\n\n              Buildings Ordinance Section 17 … "
+      "code": "FoundationCode2017",
+      "source": "indexed_text/BD_CODES/foundations/FoundationCode2017.txt",
+      "pdf_page": 41,
+      "excerpt": " … 2.8  FOUNDATION DESIGN IN [SCHEDULED AREAS]\n\n2.8.1 GENERAL\n\n       In accordance with the Fifth Schedule to the Buildings Ordinance, there … "
     },
     {
-      "code": "APP-128",
-      "source": "indexed_text/PNAP/APP/APP-128.txt",
-      "pdf_page": 3,
-      "excerpt": " … [Scheduled Area]) and\nfoundation works in [Scheduled Area] Nos. 2 and 4 (North West New Territories and\nMa On Shan [Scheduled Areas] … "
-    },
-    {
-      "code": "APP-062",
-      "source": "indexed_text/PNAP/APP/APP-062.txt",
-      "pdf_page": 1,
-      "excerpt": " … of sewage tunnels or for [ground investigation]\nworks within Area Number 5 of the [scheduled areas] will be circulated to the DSD … "
-    },
-    {
-      "code": "ADM-01",
-      "source": "indexed_text/PNAP/ADM/ADM-01.txt",
-      "pdf_page": 8,
-      "excerpt": " … [Scheduled Areas]\n              Sewage Tunnel Works - Sewage Tunnels         May 95     PNAP 165\n                   (Statutory Easements) Ordinance Section 17A\nPNAP APP-62\n                and [Scheduled Area] … "
+      "code": "FoundationCode2017",
+      "source": "indexed_text/BD_CODES/foundations/FoundationCode2017.txt",
+      "pdf_page": 5,
+      "excerpt": " … 44\n            3.4.6   Depth of [Ground Investigation] ............................................................... 45\n            3.4.7   Groundwater ........................................................................................... 45\n    3.5   [Ground Investigation] in [Scheduled Areas]............................................................. 46 … "
     }
   ]
 }

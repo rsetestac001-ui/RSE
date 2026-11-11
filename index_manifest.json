@@ -1,9 +1,144 @@
 {
-  "total_pdfs": 224,
-  "indexed": 224,
+  "total_pdfs": 238,
+  "indexed": 238,
   "failed": 0,
-  "needs_review": 7,
+  "needs_review": 10,
   "documents": [
+    {
+      "source": "BD_CODES/concrete/CoP_SUC2013e.pdf",
+      "text_file": "indexed_text/BD_CODES/concrete/CoP_SUC2013e.txt",
+      "sha256": "2af81851e1db0a7ce9bdd96d6714885d7d6fc408861060aeec247935da1e5664",
+      "status": "ok",
+      "pages": 212,
+      "empty_pages": [],
+      "characters": 669049
+    },
+    {
+      "source": "BD_CODES/concrete/CoP_SUC2013e_amendment202202.pdf",
+      "text_file": "indexed_text/BD_CODES/concrete/CoP_SUC2013e_amendment202202.txt",
+      "sha256": "a824ca1fa850faae8eb390e66f246eb19970449a7f72a93528114b7433338edb",
+      "status": "ok",
+      "pages": 9,
+      "empty_pages": [],
+      "characters": 97619
+    },
+    {
+      "source": "BD_CODES/concrete/CoP_SUC2013e_amendment202306.pdf",
+      "text_file": "indexed_text/BD_CODES/concrete/CoP_SUC2013e_amendment202306.txt",
+      "sha256": "84e1254130abbc70a3d36e316750e712389ebaa875e353c8a86b6e9780620bdd",
+      "status": "ok",
+      "pages": 4,
+      "empty_pages": [],
+      "characters": 6212
+    },
+    {
+      "source": "BD_CODES/concrete/CoP_SUC2013e_amendment202404.pdf",
+      "text_file": "indexed_text/BD_CODES/concrete/CoP_SUC2013e_amendment202404.txt",
+      "sha256": "19835165b297115767c08c2b57ae4acfbbebdbbec41c0b7501e315640a713e7e",
+      "status": "ok",
+      "pages": 15,
+      "empty_pages": [],
+      "characters": 33628
+    },
+    {
+      "source": "BD_CODES/dead-imposed-loads/DIL2011e.pdf",
+      "text_file": "indexed_text/BD_CODES/dead-imposed-loads/DIL2011e.txt",
+      "sha256": "84b8cbdc76b6f3ee6e6adf405701b894db021ae58718ba8c971c47871ce382eb",
+      "status": "ok",
+      "pages": 31,
+      "empty_pages": [],
+      "characters": 76717
+    },
+    {
+      "source": "BD_CODES/foundations/FoundationCode2017.pdf",
+      "text_file": "indexed_text/BD_CODES/foundations/FoundationCode2017.txt",
+      "sha256": "a3c1721c6d95d045ad9d188cd60aac71840fd26f0a8a0044d57485d196ec306d",
+      "status": "ok",
+      "pages": 111,
+      "empty_pages": [],
+      "characters": 281746
+    },
+    {
+      "source": "BD_CODES/foundations/FoundationCode2017_amendment202509.pdf",
+      "text_file": "indexed_text/BD_CODES/foundations/FoundationCode2017_amendment202509.txt",
+      "sha256": "b0616c60207b419e15e26741f1b7196d2dc7687dfb8e03a870bee1fe5dedc11d",
+      "status": "ok",
+      "pages": 6,
+      "empty_pages": [],
+      "characters": 11024
+    },
+    {
+      "source": "BD_CODES/steel/EMSUOS2011e.pdf",
+      "text_file": "indexed_text/BD_CODES/steel/EMSUOS2011e.txt",
+      "sha256": "17ce5c23c776acf0fbe3061adf80a5e7d3e89c458c9ff0d933edeb5947853d9a",
+      "status": "review_empty_pages",
+      "pages": 180,
+      "empty_pages": [
+        2,
+        6
+      ],
+      "characters": 505911
+    },
+    {
+      "source": "BD_CODES/steel/SUOS2011.pdf",
+      "text_file": "indexed_text/BD_CODES/steel/SUOS2011.txt",
+      "sha256": "67e21506b7ee319cae22103a33c1fdc7952c13560920251c3627e57cb0b9507d",
+      "status": "ok",
+      "pages": 418,
+      "empty_pages": [],
+      "characters": 1455198
+    },
+    {
+      "source": "BD_CODES/steel/SUOS2011e_Amend202604.pdf",
+      "text_file": "indexed_text/BD_CODES/steel/SUOS2011e_Amend202604.txt",
+      "sha256": "0c230d30e0b4f9798a4d9464401f53bb8e83948caddb697191ca9efcd8c4a857",
+      "status": "ok",
+      "pages": 20,
+      "empty_pages": [],
+      "characters": 54416
+    },
+    {
+      "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.pdf",
+      "text_file": "indexed_text/BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+      "sha256": "296bb24de65b93edb2296ea0fbd429ddb3054d5a909e7ae837a96dec7c81140f",
+      "status": "review_empty_pages",
+      "pages": 83,
+      "empty_pages": [
+        2,
+        8
+      ],
+      "characters": 151900
+    },
+    {
+      "source": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e_Amend2023e.pdf",
+      "text_file": "indexed_text/BD_CODES/wind/ExplanatoryNotesWindEffects2019e_Amend2023e.txt",
+      "sha256": "3007be1c41c1a5f79410c45b08f8e995e132f8cac4001379aef501e4432b34aa",
+      "status": "ok",
+      "pages": 6,
+      "empty_pages": [],
+      "characters": 12664
+    },
+    {
+      "source": "BD_CODES/wind/WindEffects2019e.pdf",
+      "text_file": "indexed_text/BD_CODES/wind/WindEffects2019e.txt",
+      "sha256": "b9ebec57a88fecd8ee2a15cc557716e583f5c6595881772f341d0f0a8ca1f625",
+      "status": "review_empty_pages",
+      "pages": 74,
+      "empty_pages": [
+        2,
+        10
+      ],
+      "characters": 110860
+    },
+    {
+      "source": "BD_CODES/wind/WindEffects2019e_Amend2023e.pdf",
+      "text_file": "indexed_text/BD_CODES/wind/WindEffects2019e_Amend2023e.txt",
+      "sha256": "6a2ba05320ee67b95085b5158ad72f4dd7a2c5105e68c929ee6182477478be94",
+      "status": "ok",
+      "pages": 5,
+      "empty_pages": [],
+      "characters": 2931
+    },
     {
       "source": "PNAP/ADM/ADM-01.pdf",
       "text_file": "indexed_text/PNAP/ADM/ADM-01.txt",

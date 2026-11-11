@@ -1,0 +1,182 @@
+
+
+===== PDF PAGE 1 =====
+Amendments to the Explanatory Notes to
+       the Code of Practice on Wind Effects in Hong Kong 2019
+                      (December 2023)
+
+
+
+
+
+Legends:
+     Amended
+      Deleted
+
+
+
+
+(12/2023)
+
+
+                                                                               - 1 -
+
+
+===== PDF PAGE 2 =====
+Amendments to the Explanatory Notes to the Code of Practice on Wind Effects
+in Hong Kong 2019 in December 2023 included:
+
+        (a)    Clause  2.2.3 – Addition of  guidelines  for determination of fundamental
+             frequency for assessing across wind effects;
+
+        (b)    Clause 2.5 – Addition of design net pressure for hoarding and covered walkway
+               associated with construction site; and
+
+        (c)    Clause 4.3.1, Clause 6.4, Figure B-1, Appendices C2 and E3.1 – Textual
+              refinement.
+
+
+
+
+
+                                                                  - 2 -
+
+
+===== PDF PAGE 3 =====
+Amendments to the Explanatory Notes to the Code of Practice on Wind Effects in Hong Kong 2019
+
+    Item                        Current version                                    Amendments
+1. Clause     Last paragraph –                                               Last paragraph –
+    2.2.3      According  to a parametric study with selected parameters,  According  to  a  parametric  study with  selected  parameters,
+              assuming natural periods of      in both directions, for buildings  assuming natural periods of      in both directions, for buildings
+             which satisfy                      and           the along-  which  satisfy                         and              the             wind base moment is always𝐻𝐻/46larger than the across-wind base  along-wind base moment is𝐻𝐻/46always larger than the across-wind            moment in the𝐻𝐻/𝑚𝑚𝑚𝑚𝑚𝑚(𝐵𝐵,𝐷𝐷)<5,same direction,𝐻𝐻<100meven with consideration𝑁𝑁>0.5Hz,  of some  base moment in𝐻𝐻/𝑚𝑚𝑚𝑚𝑚𝑚(𝐵𝐵,𝐷𝐷)<5,the same direction,𝐻𝐻<100meven with consideration𝑁𝑁>0.5Hz,   of
+                 level of uncertainty on the period estimation. Therefore checking  some level of uncertainty on the period estimation. Therefore
+                of the across-wind base moment is not required when these  checking of the across-wind base moment is not required when
+                conditions are met.                                              these conditions are met.
+
+                                                                        For multiple towers over a common podium, the fundamental
+                                                                          frequency for estimation of across wind effects could be assessed
+                                                                  by either one of the following assumptions:
+                                                                                          (a) assuming individual tower standing alone and extended to the
+                                                                                  building base without connecting to the podium;
+
+
+
+                                                                                                    Tower
+
+
+
+
+                                                                                                   Podium
+
+
+
+
+
+                                                                                                         - 3 -
+
+
+===== PDF PAGE 4 =====
+Item                        Current version                                    Amendments
+
+                                                                                 (b) assuming individual tower integrated with the portion of the
+                                                                podium measured from structural wall/column edge of the
+                                                                      modelled tower by not exceeding the minimum of 20m, three
+                                                                        bays of the podium structure, and the middle line between the
+                                                                      modelled tower and its nearby tower, subject to no substantial
+                                                                         openings in floor slabs of the integrated portion of the podium.
+                                                               The  effect  of those  floor openings might be considered
+                                                                                   separately; or
+                                                                                     (c) assuming individual tower integrated with the portion of the
+                                                                podium  in  conformity  with  the  recognised  engineering
+                                                                                   principles and engineering practices.
+
+                                                                                Alternatively, if an integrated computer model of the towers and
+                                                             podium was set up, the dominant fundamental frequency of the
+                                                        mode of vibration mainly aligned with the across-wind direction
+                                                                           of the respective towers obtained from the computer analysis
+                                                                      could be adopted based on engineering justification.
+
+                                                                    For cases where the tributary extent could not be clearly defined
+                                                                     based on the above-mentioned criteria (b), an integrated computer
+                                                               model with all the towers and podium might be used to obtain the
+                                                                  dominant fundamental frequency of the respective towers.
+
+
+
+
+
+                                                                                                   - 4 -
+
+
+===== PDF PAGE 5 =====
+Item                        Current version                                    Amendments
+2. Clause    End of 2nd paragraph –                                 End of 2nd paragraph –
+    2.5        For designing hoarding and covered walkway associated with  For designing hoarding and covered walkway associated with
+                construction site, contractor shed, bamboo shed, tent or marquee  construction site, contractor shed, bamboo shed, tent or marquee
+                 that are not for residential use, wind pressures of not less than 37  that are not for residential use, wind pressures of not less than 37
+               per cent of the pressures given in the Code should be used.       per cent of the pressures given in the Code should be used. In
+                                                                                       particular for hoarding and covered walkway associated with
+                                                                                construction site, the design net pressure in Table 2-1 may be used.
+
+                                                                                         Table 2-1 Design net pressure for hoarding and covered walkway
+                                                                                                associated with construction site
+                                                                                                  Height above ground     Design Net Pressure (kPa)
+                                                                                                                               level, Z(m)               (all-inclusive value)
+                                                                                       ≤ 2.5                       0.63
+                                                                                                 5                        0.70
+                                                                                                10                        0.77
+                                                                                           Notes:
+                                                                                                           (a) For intermediate values of height, linear interpolation is permitted.
+                                                                                                      (b) Cp and Ss have been included.
+                                                                                                           (c) Beneficial effect due to self-weight of steel members may be considered.
+                                                                                                      (d) Topography factor should be considered in location where local topography
+                                                                        may adversely affect wind effect.
+
+3. Clause     Last paragraph –                                               Last paragraph –
+    4.3.1      However, the accidental dominant open scenario is out of scope  However,  the  accidental dominant open  scenario  is 1not a
+                of this Code, as discussed in Appendix B1.3.                  compulsory requirement of this Code, as discussed in Appendix
+                                                                             B1.3.
+
+4. Clause     Last sentence of 2nd paragraph –                                Last sentence of 2nd paragraph –
+    6.4           If a building removal investigation is not carried out, then the   If a building removal investigation is not carried out, then the
+                 shelter benefit is limited to 80% of the along-wind value in  shelter benefit is limited to 80% of the 1loads of the Standard
+              accordance with the Code.                                 Method. The comparison should be in the form of total base
+                                                                    moments.
+
+
+
+                                                                                                         - 5 -
+
+
+===== PDF PAGE 6 =====
+Item                        Current version                                    Amendments
+5.  Figure     Top left figure –                                       Top left figure –
+   B-1
+
+
+
+
+
+6. Appendix   2nd paragraph –                                                    2nd paragraph –
+   C2         Outlying high damping value was recorded for a 200m building  Outlying high damping value was recorded for a 1250m building
+             which was cubic.                                        which was cubic.
+
+7. Appendix  The critical torsional load cases can be obtained by the following  The critical torsional load cases can be obtained by the following
+   E3.1       procedures:                                                    procedures:
+                 1.   For  each  tower,  the  loads on  individual  towers  are  1.   For each tower, the loads on individual towers are calculated
+                     calculated following the Code as shown in Figure E-7(a),       following the Code as shown in Figure E-7(a), (b) 1, (c) and
+                      (b) and (c).                                                               (d).
+                 2.   Obtain the eight translational governed loads according to  2.   Obtain the eight translational governed loads according to
+                    Section E2.  In each subzones defined in Figure E-5, the       Section E2.   In each subzones defined in Figure E-5, the
+                      resultant  force   (Flateral-i)  can  be  calculated by  vector        resultant  force   (Flateral-i)  can  be  calculated  by  vector
+                  summation.  For example, Flateral-1 is the resultant force by      summation.  For example, Flateral-1 is the resultant force by
+                         F1-1, F2-1 and F3-1, as shown in Figure E-7(d).                          F1-1, F2-1 1, F3-1 and F4-1, as shown in Figure E-7 1(e).
+                 3.   For each Flateral-i, the maximum projecting diagonal breadth  3.   For each Flateral-i, the maximum projecting diagonal breadth
+                    Bi can be identified as shown in Figure E-7(e).                   Bi can be identified as shown in Figure E-7 1(f).
+
+
+
+
+
+                                                                                                         - 6 -

@@ -1,0 +1,167 @@
+
+
+===== PDF PAGE 1 =====
+Appendix A
+                                                                               (PNAP APP-18)
+
+
+
+Amendments to the Code of Practice for Foundations 2017 (2024 Edition)
+                                   ( September 2025 )
+
+
+
+
+
+  Legends:
+       New/Amended
+        Deleted
+
+
+
+
+
+  (9/2025)
+
+
+
+
+
+                                                                                   - 1 -
+
+
+===== PDF PAGE 2 =====
+Amendments to the Code of Practice for Foundations 2017 (2024 Edition)
+
+ Item              Current version                                    2025 Amendments
+
+ 1. Clause 2.2.41    Allowable  Vertical  Bearing  Pressure  of  Shallow   Allowable Vertical Bearing Pressure of   Foundation
+                   Foundation founded on Soil                        Founded on Soil
+                  The allowable vertical bearing pressure of foundations   The allowable vertical bearing pressure of foundations
+                    founded on soils derived by bearing capacity equation may    founded on soils derived by bearing capacity equation may
+                    be taken as:                                           be taken as:
+
+                                          q u − q o                                            q u − q o                                      q a =      + q o                                    q a =      + q o                                        F                                            F
+
+                    where   qa  =  allowable vertical bearing pressure       where   qa  =  allowable vertical bearing pressure
+                                qu  =   ultimate  bearing  capacity  of  the             qu  =   ultimate  bearing  capacity  of  the
+                                         granular soil, which should be limited                      granular soil, which should be limited
+                                            to 3 000 kPa                                                   to  3  000  kPa.  For  foundations
+                                                                                                  supporting       building(s)      with
+                                                                                               basement(s) on granular soil, this limit
+                                                                                              should be increased to 4 500 kPa.
+                                qo  =   effective overburden pressure  at the             qo  =   effective overburden pressure  at the
+                                      base of the foundation, i.e. qo = γs'                    base of the foundation, i.e. qo = γs' Df ,
+                                Df , whereγs' and Df are respectively                  whereγs' and Df are respectively the
+                                          the effective unit weight and depth of                       effective unit weight and depth of the
+                                          the soil that originally exists above the                         soil that originally exists above the base
+                                      base of the foundation                                      of the foundation
+                        F  =   factor of safety not less than 3                 F  =   factor of safety not less than 3
+
+1  Revision of the maximum value of ultimate bearing capacity.
+                                                                                                       - 2 -
+
+
+===== PDF PAGE 3 =====
+Item              Current version                                    2025 Amendments
+
+ 2. Clause 2.2.4      Notes:                                                   Notes:
+    Note 12
+                        (1)    q should not include any overburden pressure that  (1)    q should not include any overburden pressure that
+                      may be temporarily or permanently removed during       may be temporarily or permanently removed during
+                              the design life of the foundation.  In its derivation,          the design life of the foundation.    In the derivation
+                              the maximum effective overburden depth of subsoil          of q for shallow foundation, the depth of subsoil
+                            should not be greater than 3 m or Bf, whichever is         should not exceed 3 m or Bf, whichever  is the
+                              the lesser, and suitable adjustments should be made          smaller.   For foundations supporting building(s)
+                                to discount any voids  that may be allowed for         with basement(s) on granular  soil, the effective
+                           underground utilities.                                     depth  of  subsoil,  defined  as  the  minimum
+                                                                                  overburden depth around the basement perimeter,
+                                                                                    should not exceed 10 m or Bf, whichever is the
+                                                                                               smaller,  in  the  derivation  of  q.     Suitable
+                                                                                      adjustments should be made to discount any voids
+                                                                                                   that may be allowed for underground utilities.
+
+
+
+
+
+2  Revision of the maximum effective overburden depth of subsoil.
+                                                                                                       - 3 -
+
+
+===== PDF PAGE 4 =====
+Item              Current version                                    2025 Amendments
+
+ 3. Clause 2.3.1(4)     (4)   Young’s Modulus                                      (4)   Young’s Modulus
+    paragraph 23     …                        …
+
+                          Care should be taken in determining the Young’s         Care should be taken in determining the Young’s
+                         modulus  of  soils  by  the  use  of  empirical         modulus of soils by the use of empirical correlations
+                               correlations with the SPT N-value as  it can be          with the SPT N-value as it can be unsafe in some
+                            unsafe in some cases and over-conservative in          cases and over-conservative in others.  For shallow
+                                others.   For shallow  foundations with design          foundations    , in the absence of more accurate data,
+                            allowable  bearing  pressures  not  greater  than           the Young’s modulus Es (in MPa) of granular soils
+                        250 kPa, in the absence of more accurate data, the        may be taken as   1 times the SPT N-value.  For
+                          Young’s modulus Es (in MPa) of granular soils may             raft foundation on granular soils derived from in-situ
+                          be taken as one time the SPT N-value.                     rock weathering (e.g. saprolites and residual soils)
+                                                                                   with SPT N-value > 30, in the absence of more
+                                                                                         accurate data, the Young’s modulus Es (in MPa) may
+                                                                               be taken as 1.5 times the SPT N-value.
+
+
+
+
+
+3  Revision of the requirement for determination of Young’s modulus.
+                                                                                                       - 4 -
+
+
+===== PDF PAGE 5 =====
+Item              Current version                                    2025 Amendments
+
+ 4. Clause             (2)   Testing Requirements                                  (2)   Testing Requirements
+     4.2.2(2)(c)4      …                        …
+
+                                 (c)  the Young’s modulus, Es (in MPa), of the            (c)  the Young’s modulus, Es  (in MPa), of the
+                                 bearing  strata  used  in  the  estimation  of               bearing  strata  used  in  the  estimation  of
+                                   settlement is greater than one time the SPT               settlement is greater than   1 times the SPT-N
+                                 N-value.                                                 value or 1.5 times the SPT N-value (for granular
+                                                                                                          soils derived from in-situ rock weathering (e.g.
+                                                                                                      saprolites and residual soils) with SPT N-value
+                                                                     > 30) as appropriate.
+
+ 5.  Table 7.2        Table 7.2      Typical Values for the Three Triggering  Table 7.2      Typical Values for the Three Triggering
+                                   Levels on Nearby Buildings, Structures                Levels on Nearby Buildings, Structures,
+                                  or Services  that are not  Sensitive  to             Land or Services that are not Sensitive to
+                                   Settlement                                             Settlement
+
+         …                        …
+
+
+
+
+
+4  Revision of the requirement for plate load test.
+                                                                                                       - 5 -
+
+
+===== PDF PAGE 6 =====
+Item              Current version                                    2025 Amendments
+
+ 6. Clause 8.10    TENSION LOADING TEST                   TENSION LOADING TEST
+    paragraph 45  …                        …
+
+                  The maximum test load should not result in the test pile or  The maximum test load should not result in the test pile or
+                     anchor being stressed beyond the yield stress.  Where the  anchor being stressed beyond the yield stress.  Where the
+                     design uplift capacity of the test pile is based on bond and  design    tension capacity of test pile is based on bond
+                         tensile stresses which are taken as 50% of the corresponding    or friction between rock/soil and concrete/grout for pile
+                      values in compression, the test load may be 1.5 times the  and is taken as not exceeding 50% of the corresponding
+                     design uplift capacity of the pile under working load.          allowable bond stress in compression, the test load may
+                                                                        be set at 1.5 times the design   tension capacity    .
+
+
+
+
+
+5  Refinement of the wording.
+                                                                                                       - 6 -

@@ -1,0 +1,453 @@
+
+
+===== PDF PAGE 1 =====
+Amendments to the Code of Practice for Structural Use of Concrete 2013 (2020 Edition)
+                                                ( April 2024 )
+
+
+
+
+
+            Legends:
+               Amended
+                   Deleted
+
+
+
+
+             (4/2024)
+
+
+
+
+                                                                                         - 1 -
+
+
+===== PDF PAGE 2 =====
+Amendments to the Code of Practice for Structural Use of Concrete 2013
+(2020 Edition) in April 2024 included:
+
+        (a)    Clause 3.2.8.3 and Figure 3.9a – addition of maximum allowable permanent
+              elongation for mechanical couplers longer than 100 mm;
+
+        (b)    Clauses 6.1.2.1, clause 6.9 and Figures 6.21 to 6.25 – addition of provisions for
+                strut-and-tie system;
+
+        (c)    Figure 9.5(g), (h) and (i) – addition of column transverse reinforcement details;
+
+        (d)    Clause 11.7.1 – addition of mix proportion for concrete of strength not
+             exceeding 20 N/mm2 for minor  structural and non-structural works and
+                clarification of the limitation on the volume of concrete for exceptional project;
+
+        (e)    Equation 12.2 – rectification of typo in equation; and
+
+         (f)    Annex A – update of version of standard BS 8500 Parts 1 & 2 and addition of
+              standard BS EN 206:2013.
+
+
+
+
+
+                                                           - 2 ­
+
+
+===== PDF PAGE 3 =====
+Amendments to the Code of Practice for Structural Use of Concrete 2013 (2020 Edition)
+
+    Item                         Current version                                     Amendments
+1.  Contents     6.8 BEAM-COLUMN JOINTS                                6.8 BEAM-COLUMN JOINTS
+                       6.8.1    General principles and requirements                    6.8.1    General principles and requirements
+                                                                                6.9 STRUT-AND-TIE SYSTEM
+                                                                                         6.9.1    General
+                                                                                         6.9.2    Modelling and analysis
+                                                                                         6.9.3    Design
+
+2.  List of       Table 11.1  - Objects of production and construction control     Table 11.1  - Objects of production and construction control
+   Tables       Table 11.2  - Correction factor applied to the estimated insitu    Table 11.1a - Mix proportions for concrete for minor structural
+                              concrete compressive strength                              and non-structural works
+                                                                          Table 11.2  - Correction factor applied to the estimated insitu
+                                                                                            concrete compressive strength
+
+3.  List of       Figure 3.9   - Short-term design stress-strain curve for           Figure 3.9   - Short-term design stress-strain curve for
+    Figures                   reinforcement                                                reinforcement
+                Figure 3.10 - Short-term design stress-strain curve for           Figure 3.9a - Maximum allowable permanent elongation for
+                               prestressing tendons                                           type 1 mechanical couplers
+                                                                             Figure 3.10 - Short-term design stress-strain curve for prestressing
+                                                                                        tendons
+
+4.  List of       Figure 6.20 - Effective joint widths                            Figure 6.20 - Effective joint widths
+    Figures      Figure 7.1   - Assumptions made in calculating curvatures       Figure 6.21 - Nodal condition
+                                                                             Figure 6.22 - Static equilibrium of a strut-and-tie model
+                                                                             Figure 6.23 - Load distribution area and loaded area for
+                                                                                         determining the confinement modification factor
+                                                                             Figure 6.24 - Classification of nodes
+                                                                             Figure 6.25 - Anchorage of tie reinforcements
+                                                                             Figure 7.1   - Assumptions made in calculating curvatures
+
+
+
+
+                                                                                                         - 3 -
+
+
+===== PDF PAGE 4 =====
+Item                         Current version                                     Amendments
+5. Clause 1.5   1.5  SYMBOLS                                              1.5  SYMBOLS
+                F    design ultimate load (e.g. 1.4Gk + 1.6Qk)            F    design ultimate load (e.g. 1.4Gk + 1.6Qk)
+                               fcu    characteristic compressive strength of concrete                 Ftie   design resistance of non-prestressed ties
+                                                                                                                      fcb    design ultimate bearing strength based on the weaker
+                                                                                            of the two bearing surfaces
+                                                                                                                           fce    design compressive strength of the concrete in a strut
+                                                                                            or a nodal zone
+                                                                                                                       fcu    characteristic compressive strength of concrete
+
+6. Clause        3.2.8.3  Performance of type 1 mechanical couplers             3.2.8.3  Performance of type 1 mechanical couplers
+    3.2.8.31             Type 1 mechanical coupler satisfying the following          Type 1 mechanical coupler  satisfying  the following
+                               criteria may be used as an alternative to tension or              criteria may be used as an alternative to tension or
+                        compression laps:                                          compression laps:
+                              (a) when a  representative gauge  length assembly             (a)  when  a  representative  gauge  length  assembly
+                            comprising reinforcement of the diameter, grade               comprising reinforcement of the diameter, grade and
+                          and profile to be used, and a coupler of the precise                  profile to be used, and a coupler of the precise type
+                             type to be used, is tested in tension the permanent                  to be used,  is  tested  in tension the permanent
+                              elongation after loading to 0.6fy should not exceed                elongation after loading to 0.6fy should not exceed
+                              0.1 mm1; and ……                                              0.1 mm1; _
+                                                                                                 (b)  For couplers longer than 100 mm, the permanent
+                                                                                              elongation greater than 0.1 mm may be accepted as
+                                                                                             per Figure 3.9a  subject  to crack width  control
+                                                                                           requirements in clauses 7.2.1, 9.4.1 and 12.3.4; and
+                                                                                                      (c)  the coupler bar……
+
+
+
+
+
+   1 Addition of maximum allowable permanent elongation for mechanical couplers longer than 100 mm.
+                                                                                                         - 4 ­
+
+
+===== PDF PAGE 5 =====
+Item                         Current version                                     Amendments
+
+
+
+
+
+                                                            Key
+                                              X   length of the mechanical coupler, in mm
+                                              Y   permanent elongation after loading to 0.6fy, in mm
+
+                                                                                Figure 3.9a – Maximum allowable permanent elongation for
+                                                                                                 type 1 mechanical couplers
+
+7. Clause        6.1.2.1  General                                                 6.1.2.1  General
+    6.1.2.1                  (a)   Design limitations                                              (a) Design limitations
+                             This sub-clause deals with the design of beams               This sub-clause deals with the design of beams of
+                                of normal proportions.  Deep beams (see clause              normal  proportions.   Deep beams  (see  clause
+                                   5.2.1.1(a)) are not considered.  For the design                 5.2.1.1(a)) are not considered.   For the design of
+                                of deep beams, reference should be made to              deep beams, reference should be made to specialist
+                                   specialist literature.                                                  literature or strut-and-tie system in clause 6.9.
+
+8. Clause 6.92                                                                  6.9    STRUT-AND-TIE SYSTEM
+                                                                                    6.9.1   General
+                                                                                     Non-flexural components, e.g. locations near supports and
+                                                                                      concentrated loads, of reinforced concrete structures can be
+
+   2 Additional of provisions for strut-and-tie system.
+                                                                                                         - 5 -
+
+
+===== PDF PAGE 6 =====
+Item                         Current version                                     Amendments
+                                                                              designed using strut-and-tie model. A strut-and-tie model
+                                                                                                        is an  idealized  pin-jointed  truss, comprising  concrete
+                                                                           compression struts, reinforcement tension ties, and concrete
+                                                                                 nodes.
+
+                                                                              6.9.2   Modelling and analysis
+                                                                   The angle between the axis of a strut and the axis of a tie
+                                                                                        (θ) shall not be less than 25° nor exceed 60°.   The
+                                                                         boundary forces and the internal forces can be determined
+                                                                            based on the static equilibrium and the truss analysis.
+
+                                                                   The dimensions of nodes shall be determined based on the
+                                                                              nodal condition shown in Figure 6.21 by using the static
+                                                                                  equilibrium corresponding to shear failure and plastic stress
+                                                                                              state (see Figure 6.22).
+
+
+
+
+
+                                                                                         Figure 6.21 – Nodal condition
+
+
+
+
+
+                                                                                                  - 6 -
+
+
+===== PDF PAGE 7 =====
+Item                         Current version                                     Amendments
+
+
+
+
+
+                                                                             Figure 6.22 – Static equilibrium of a strut-and-tie model
+
+                                                                              6.9.3   Design
+                                                                                6.9.3.1 Design compressive strength of strut
+                                                                          Design compressive strength of concrete in strut fce should
+                                                                         be calculated from:
+
+                                                                                                                           fce = 0.32mfcu                                  6.74
+
+                                                                       where
+                                              m     is 𝐴𝐴2the confinement modification factor taken as
+                                                                    A1    is                                                                                                              area,                                                                                                                                               𝐴𝐴1loaded≤ 2,                                                   ට
+                                                                    A2    is load distribution area (see Figure 6.23).
+
+
+
+
+
+                                                                                                  - 7 -
+
+
+===== PDF PAGE 8 =====
+Item                         Current version                                     Amendments
+
+
+
+
+
+                                                                                                               Side view
+                                                                                Plan view
+
+                                                                             Figure 6.23 – Load distribution area and loaded area for
+                                                                                determining the confinement modification factor
+
+                                                                                6.9.3.2 Design compressive strength of nodes
+                                                                          Design compressive strength of concrete at a nodal zone fce
+                                                                              should be calculated as follows:
+
+                                                                                                                      fce = 0.45mfcu   for node bounded by struts,         6.75
+                                                                                                bearing areas or both (C-C-C
+                                                                                   Node)
+                                                                                                                      fce = 0.4mfcu    for node anchoring one tie          6.76
+                                                                                    (C-C-T Node)
+                                                                                                                      fce = 0.32mfcu   for node anchoring two or more tie  6.77
+                                                                                         (C-T-T Node)
+
+                                                                                        Classification of nodes is illustrated in Figure 6.24.
+
+
+
+                                                                                                  - 8 -
+
+
+===== PDF PAGE 9 =====
+Item                         Current version                                     Amendments
+
+
+
+
+
+                                                                                                                  (i) C-C-C Node       (ii) C-C-T Node      (iii) C-T-T Node
+
+                                                                                            Figure 6.24 Classification of nodes
+
+                                                                                6.9.3.3 Design compressive strength of bearing
+                                                                          Design ultimate bearing strength based on the weaker of the
+                                                                     two bearing surfaces fcb should be calculated as follows:
+
+                                                                                                                  fcb = 0.27mfcu   for dry bearing on concrete         6.78
+                                                                                                                  fcb = 0.40mfcu   for bedded bearing on concrete     6.79
+                                                                                                                  fcb = 0.80mfcu   for contact face of a steel bearing   6.80
+                                                                                                          plate cast into a member or
+                                                                                                     support, with each dimension not
+                                                                                            exceeding 40% of the
+                                                                                              corresponding concrete
+                                                                                             dimension.
+
+                                                         An intermediate value of bearing stress between dry and
+                                                                        bedded bearings may be used for flexible bedding.
+
+                                                                                6.9.3.4 Ties
+                                                                                              (a) Design resistance of ties
+                                                                              Design  resistance of non-prestressed  ties  shall be
+                                                                                          calculated as follows:
+
+                                                                                                                       Ftie = 0.87fy As                              6.81
+                                                                                                  - 9 -
+
+
+===== PDF PAGE 10 =====
+Item                         Current version                                     Amendments
+
+                                                                                         (b) Arrangement of ties
+                                                                      The reinforcing bars in a tie shall be evenly distributed
+                                                                                        across the nodal depth such that the centroid axis of the
+                                                                                          reinforcing bars coincides with the axis of the tie in the
+                                                                                                 strut-and-tie model.
+
+                                                                                              (c) Anchorage of ties
+                                                                      The reinforcing bars in a tie shall be properly anchored
+                                                                                             to transfer the tension force into the node through
+                                                                                  adequate anchorage of longitudinal reinforcement in
+                                                                                 accordance with clause 8.4.  The anchorage begins at
+                                                                                         the location where the edge of strut meets the bearing
+                                                                                        surface (see Figure 6.25).  For straight bars, they shall
+                                                                             be extended beyond the node.
+
+
+
+
+
+                                                                                                 - 10 -
+
+
+===== PDF PAGE 11 =====
+Item                         Current version                                     Amendments
+
+
+
+
+
+                                                                                  Figure 6.25 – Anchorage of tie reinforcements
+
+                                                                                6.9.3.5 Minimum reinforcement
+                                                         An orthogonal grid of reinforcing bars shall be placed evenly
+                                                                                    across each face of the section.  The minimum percentage
+                                                                                   of reinforcement is 0.25%.
+
+
+
+
+
+                                                                                                 - 11 -
+
+
+===== PDF PAGE 12 =====
+Item                         Current version                                     Amendments
+9.  Figure 9.53
+                                                                                                        Link passing around the
+                                                                                                                          longitudinal   bars   and
+                                                                                                            having an included angle
+                                                                                                                      of not more than 135o.
+
+                                                                                      > 150
+
+
+                                                                                 g)
+
+
+
+                                                                                                  Link anchored by hooks with
+                                                                                               bend not less than 135o.
+
+
+                                                                                  > 150
+
+
+
+
+
+                                                                                h)
+
+
+
+
+
+   3 Addition of column transverse reinforcement details.
+                                                                                                         - 12 -
+
+
+===== PDF PAGE 13 =====
+Item                         Current version                                     Amendments
+
+                                                                        Link should be adequately                                                                                                               Link anchored by                                                                          anchored  by  means  of                                                                                                              hooks with bend                                                                       hooks  bent  through  an                                                                                                                           not less than 135o                                                                              angle of not less than 135o
+
+
+                                                                                                        ≤ 150
+
+
+
+
+
+                                                                                                             i)                                                                                             ≤ 150
+                                                                                       Figure 9.5 – Column transverse reinforcement
+
+10. Clause        (c) Anchorage                                                        (c) Anchorage
+    9.9.2.2(c)4      Links and ties should be adequately anchored by means of     Links and ties should be adequately anchored by means of hooks
+                  hooks with bend not less than 135o in accordance with clause     with bend not less than 135o in accordance with clause 9.5.2 (see
+                     9.5.2 (see Figure 9.5b, c, d & e).  Where ……                 Figure 9.5b, c, d, _e, g, h & i).  Where ……
+
+11. Clause       Structural concrete for  all works should be obtained from  Structural concrete_ should be obtained from concrete suppliers
+    11.7.15      concrete suppliers who are certified under the Quality Scheme  who are certified under the Quality Scheme for the Production and
+                  for the Production and Supply of Concrete (QSPSC) or similar  Supply of Concrete (QSPSC) or similar equivalent, except for those
+                  equivalent, except for those located at remote areas (such as  located at remote areas (such as outlying islands) or where the total
+
+   4 Addition of Figures 9.5(g), (h) and (i)
+   5 Addition of mix proportions for concrete of strength not exceeding 20N/mm2 for minor structural and non-structural works and clarification of the limitation
+   on the volume of concrete for exceptional project.
+                                                                                                         - 13 ­
+
+
+===== PDF PAGE 14 =====
+Item                         Current version                                     Amendments
+            outlying islands) or where the volume of concrete involved is  volume of concrete per building project involved is less than 50 m3 .
+             less than 50 m3.  Even for these “exceptional” projects, the  Even for these “exceptional” projects, the structural concrete should
+             structural concrete should be obtained from a supplier operating  be obtained from a supplier operating an approved quality system.
+           an approved quality system.
+                                                                      Concrete with strength not exceeding 20 N/mm2 may be made using
+                                                            mix proportions, batching by weight, selected from Table 11.1a for
+                                                                  minor structural and non-structural works such as on-grade slabs,
+                                                                           blinding   layer,  U-channels/stepped  channels,  bedding  and
+                                                                    haunching for pipe works, concrete footings for posts and fences,
+                                                                 and mass concrete fill which does not sustain appreciable loading.
+
+                                                                                          Weight of aggregate
+                                                                                          Maximum                                                                                                         per bag of cement
+                                                                       Concrete                                               free water/                                                                                          Material             kg                                                                            Strength                                       cement                                                                                       45 kg bag   50 kg bag                                                                                                                                                      ratio
+                                                                                                         of cement   of cement
+                                                                                       Fine                                                                                          145        160                                                                                       aggregate
+                                                                10 N/mm2
+                                                                          20 mm coarse                                                                                          185        205                                                                                       aggregate
+                                                                                       Fine                                                                                          120        130                                                                                       aggregate
+                                                                15 N/mm2                                            0.65
+                                                                          20 mm coarse                                                                                          165        180                                                                                       aggregate
+                                                                                       Fine                                                                                          95        105                                                                                       aggregate
+                                                                20 N/mm2
+                                                                          20 mm coarse                                                                                          145        160                                                                                       aggregate
+                                                                        Note: Cement shall be ordinary Portland cement.
+
+                                                                                                 - 14 -
+
+
+===== PDF PAGE 15 =====
+Item                         Current version                                     Amendments
+
+                                                                              Table 11.1a – Mix proportions for concrete for minor structural
+                                                                                       and non-structural works
+12. Equation
+    12.26                          70000𝜆𝜆1                      𝑓𝑓𝑝𝑝𝑝𝑝𝐴𝐴𝑝𝑝𝑝𝑝                                 70000𝜆𝜆1                      𝑓𝑓𝑝𝑝𝑝𝑝𝐴𝐴𝑝𝑝𝑝𝑝                                  𝑓𝑓𝑝𝑝𝑝𝑝 = 𝑓𝑓𝑝𝑝𝑝𝑝 +       ቆ1 − 0.7𝜆𝜆2     ቇ             12.2       𝑓𝑓𝑝𝑝𝑝𝑝 = 𝑓𝑓𝑝𝑝𝑝𝑝 +       ቆ1 − 0.7𝜆𝜆2     ቇ                12.2                                                                                    𝑙𝑙                               𝑓𝑓𝑐𝑐𝑝𝑝𝑏𝑏𝑑𝑑                                                                                                        𝑙𝑙                               𝑓𝑓𝑐𝑐𝑝𝑝𝑏𝑏𝑑𝑑13. Annex A    BS 8500-1:2006ൗ𝑑𝑑    Concrete.   Complementary   British   BS 8500-1:2015ൗ𝑑𝑑    Concrete.   Complementary   British
+                                     Standard to BS EN 206-1. Method of                        Standard to BS EN 206-1. Method of
+                                        specifying  and  guidance   for  the                          specifying  and  guidance   for  the
+                                           specifier                                                            specifier
+
+            BS 8500-2:2006      Concrete.   Complementary   British   BS 8500-2:2015      Concrete.   Complementary   British
+                                     Standard    to   BS  EN    206-1.                        Standard    to   BS  EN    206-1.
+                                         Specification for constituent materials                           Specification for constituent materials
+                                  and concrete                                            and concrete
+
+                                                        BS EN 206:2013     Concrete – Specification, performance,
+                                                                                                   production and conformity
+
+
+
+
+
+   6 Rectification of typo in equation.
+                                                                                                         - 15 -

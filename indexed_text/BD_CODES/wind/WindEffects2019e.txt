@@ -1,0 +1,2102 @@
+
+
+===== PDF PAGE 1 =====
+Code of Practice on Wind Effects
+        in Hong Kong 2019
+
+
+===== PDF PAGE 2 =====
+
+
+
+===== PDF PAGE 3 =====
+Code of Practice
+
+          on
+
+Wind Effects in Hong Kong
+
+          2019
+
+
+===== PDF PAGE 4 =====
+FOREWORD
+
+This Code of Practice on Wind Effects in Hong Kong 2019 (Code) was prepared
+on the basis of a consultancy study commissioned by the Buildings Department
+under the direction of a Steering Committee. The Steering Committee of the
+consultancy included members from the academia, professional institutions and
+relevant government departments.
+
+The new features introduced in this Code are:
+(a)      Calculation of across-wind and torsional forces
+(b)     Load combination factors for lateral and torsional forces for buildings
+(c)      Calculation of the direct sheltering effect of surrounding buildings, using
+         the concept of displacement height to reduce the effective height of
+        buildings for assessing reference wind pressures and force coefficients
+(d)      Calculation of acceleration and evaluation of occupant comfort
+(e)    Wind directionality factor accounting for the reduced probability of
+        strong winds from various directions
+This Code also provides information on:
+(a)     Force and pressure coefficients for design of typical buildings in Hong
+      Kong
+(b)    An updated vertical distribution of along-wind forces, through a size and
+       dynamic factor which increases with height
+(c)     Guidance for the design of building attachments
+(d)      Further guidance on requirements for wind tunnel testing
+
+As the Code has been prepared in a simple format for ease of application,
+reference should be made to the Explanatory Notes to the Code (EN), which give
+a summary of background information and  considerations reviewed  in  the
+formulation of the Code. The EN also explains in depth the major updates and
+features in the Code and to address on situations where application of the Code
+may require special attention.
+
+The contributions on the formulation of the Code by the members of the Steering
+Committee are greatly appreciated.
+
+Acknowledgement is given to the Hong Kong Observatory as the source of the
+cloud imagery on the cover page. The cloud imagery was originally captured by
+Himawari-8  Geostationary Meteorological  Satellite  of Japan  Meteorological
+Agency.
+
+This Code will be reviewed regularly. The Buildings Department welcomes
+suggestions for improving the Code.
+
+Buildings Department
+First Issue : September 2019
+
+
+
+                                                                      Page I
+
+
+===== PDF PAGE 5 =====
+Contents
+
+
+                                                                              Page
+
+FOREWORD                                                                     I
+Contents                                                                          II
+
+1      General                                                   1
+         1.1      Scope                                             1
+         1.2      Symbols                                           1
+
+2       Calculation of Wind Actions                                  5
+         2.1      Procedure for Calculating Wind Forces                   5
+         2.2     Wind Forces on Buildings                             8
+         2.3     Wind Forces on Building Elements                     14
+         2.4     Wind Acceleration of Buildings                       15
+         2.5     Minimum Wind Loads for Temporary Structures          16
+
+3      Design Wind Pressures                                     17
+         3.1      General                                           17
+         3.2     Wind Reference Pressure at Effective Height             17
+         3.3       Sheltering Effects                                   18
+         3.4      Topography Effects                                 18
+
+4      Force and Pressure Coefficients                              19
+         4.1      General                                           19
+         4.2      Force Coefficients for Buildings                       19
+         4.3       Pressure Coefficients for Building Elements              24
+
+5       Size Factor and Size and Dynamic Factor                      30
+         5.1      Size Factor                                        30
+         5.2      Size and Dynamic Factor for Buildings                  32
+
+6      Requirements for Wind Tunnel Testing                       33
+         6.1      General Requirements                               33
+         6.2      Target Reliability for Loads                           36
+         6.3      Additional Requirements for Cladding                  36
+         6.4     Minimum Loads in Sheltered Locations                 36
+         6.5     Code Wind Pressures and Treatment of Wind Directionality 37
+         6.6      Requirements for Verification                         38
+
+
+
+
+
+                                                                      Page II
+
+
+===== PDF PAGE 6 =====
+Appendix A
+Supplementary Information for Section 3: Design Wind Pressures
+
+A1    Wind Climate
+       A1.1    Wind Directionality
+       A1.2    Wind Pressure with Selected Return Periods for Acceleration
+                  Calculation
+
+A2     Exposure Adjustment for Direct Shelter
+
+A3     Topographic Multiplier
+
+Appendix B
+Supplementary Information for Section 4: Force and Pressure Coefficients
+
+B1     Pressure Coefficients for Building Envelope with Dominant
+       Openings
+       B1.1     Definition of Dominant Opening
+       B1.2     External Pressure Coefficients for Building Envelope
+       B1.3     Internal Pressure Coefficients for Building Envelope with
+               Dominant Openings
+
+B2     Pressure Coefficients for Building Attachments
+       B2.1     Sunshades, Architectural Fins and Signboards
+       B2.2     Balconies
+       B2.3     Canopies Attached to Buildings
+
+B3     Pressure Coefficient for Free-standing Walls
+
+Appendix C
+Supplementary Information for Section 5: Size Factor and Size and Dynamic
+Factor
+
+C1     Equations for Calculation of Size Factor
+
+C2    Damping of Buildings and Other Structures
+
+
+
+
+
+                                                                     Page III
+
+
+===== PDF PAGE 7 =====
+List of Tables
+Table 2-1      Load combination factors for buildings that may be treated as
+                 rectangular
+Table 3-1      Wind reference pressure, Qo,z
+Table 4-1       Net pressure coefficients for an enclosed building envelope
+                without dominant openings, Cp
+Table 4-2       Net pressure coefficients for open frameworks
+Table A1-1      Directionality factor on pressure, Sθ
+Table A1-2      Return period factor on pressure, Sr
+Table B1-1      External pressure coefficients for building envelope with
+               dominant openings, Cpe
+Table B1-2       Internal pressure coefficients for building envelope with
+               dominant openings, Cpi
+Table B2-1     Net pressure coefficients for sunshades, architectural fins and
+                signboards
+Table B2-2     Net pressure coefficients for balcony slabs, balcony walls and
+                  balustrades, Cp
+Table B3-1     Net pressure coefficient for free-standing walls
+Table C2-1     Damping ratio for typical RC buildings, ξx , ξy
+Table C2-2     Damping ratio for typical steel buildings, ξx , ξy
+
+
+
+
+
+                                                                     Page IV
+
+
+===== PDF PAGE 8 =====
+List of Figures
+Figure 2-1       Flow-chart for wind actions on structure
+Figure 2-2       Flow-chart for wind actions on building elements
+Figure 2-3       Definition of variable torsion
+Figure 2-4(a)    Co-ordinate system for along-wind and across-wind actions ­
+                  Lateral loading effects due to wind from directionFigure 2-4(b)    Co-ordinate system for along-wind and across-windX1actions ­
+                  Lateral loading effects due to wind from directionFigure 2-5       Co-ordinate system for wind forces             X2
+Figure 2-6      Acceptable occupant comfort level
+Figure 4-1       Basic definitions of building plan dimensions
+Figure 4-2      Force coefficient for simple rectangular prismatic shaped
+                  building, Cf
+Figure 4-3       Basic dimensions for considering corner effects
+Figure 4-4(a)    Basic dimensions for U-shaped buildings
+Figure 4-4(b)    Basic dimensions for X-shaped buildings
+Figure 4-4(c)    Basic dimensions for double Y-shaped buildings
+Figure 4-4(d)    Basic dimensions for single Y-shaped buildings
+Figure 4-4(e)    Basic dimensions for single L-shaped buildings
+Figure 4-4(f)    Basic dimensions for single Z-shaped buildings
+Figure 4-5(a)   Wind reference height and zone scaling dimensions for a tower
+                   set back from edge of podium
+Figure 4-5(b)   Wind reference height and zone scaling dimensions for tower at
+              podium edge
+Figure 4-6(a)    Zone key for pressure
+Figure 4-6(b)    Dimensions for pressure zones in Figure 4-6(a)
+Figure 5-1       Half perimeter of the loaded area, L0.5p
+Figure 5-2       Size factor, Ss
+Figure 5-3       Half-perimeter of the loaded area, L0.5p, due to several openings
+                 contributing to the dominant opening area, Ao
+Figure 6-1     Minimum adopted wind loads from a test
+Figure A2-1     Plan showing ±45 degrees of the considered wind direction
+Figure A2-2     Definition of Hi and Xi (on elevation)
+Figure A2-3     Variation of Hdi/H with Xi/H and Hi/H
+Figure A2-4     Variation of building height across sector (a demonstration case
+              on plan with four unequal divisions)
+
+
+
+
+                                                                      Page V
+
+
+===== PDF PAGE 9 =====
+Figure A3-1(a)   Definition of topographic dimensions for hills and ridges
+Figure A3-1(b)  Definition of topographic dimensions for cliffs and escarpments
+Figure A3-2(a)  Topographic location factor, s, for upwind section for both hills
+                          / ridges and cliffs / escarpments (significant zone in orange
+                 colour in Figure A3-1(a) and Figure A3-1(b))
+Figure A3-2(b)  Topographic location factor, s, for downwind section for hills
+               and ridges (significant zone in blue colour in Figure A3-1(a))
+Figure A3-2(c)  Topographic location factor, s, for downwind section for cliffs
+               and escarpments (significant zone in blue colour as defined in
+                A3-1(b))
+Figure B1-1    Wind pressure on external walls due to dominant opening
+Figure B1-2    Wind pressure on internal walls due to dominant opening not
+                 located in corner
+Figure B1-3    Wind pressure on internal walls due to dominant opening
+                 located in upwind corner
+Figure B1-4    Wind pressure on internal walls due to dominant opening
+                 located in downwind corner
+Figure B2-1     Sunshades, architectural fins and signboards
+Figure B3-1     Pressure zone definition for free-standing walls
+
+
+
+
+
+                                                                     Page VI
+
+
+===== PDF PAGE 10 =====
+
+
+
+===== PDF PAGE 11 =====
+1     General
+
+1.1     Scope
+         The Code of Practice on Wind Effects in Hong Kong 2019 (Code)
+            stipulates the approach for calculating the wind loads for the structural
+           design of buildings or  parts of buildings,  referred hereinafter as
+           “Standard Method”. Compliance with the requirements of this Code
+              is deemed  to  satisfy  the  relevant  provisions  of  the  Buildings
+          Ordinance and related regulations.
+          Values of wind loads for use in design shall be established.  The
+           values shall be appropriate for the type of structure or structural
+           element, its intended use, design working life and exposure to wind
+            loads.
+         The  Standard  Method   is  intended  to  cover  normal  building
+            constructions.  Users of this Code should satisfy themselves that the
+          guidance  is  rationally applicable  to  the form  of  structure under
+            consideration.
+         The Standard Method is applicable to typical buildings with a height
+         up to 200m. The wind tunnel testing method should be used for any
+           of the following conditions:
+             (a)     buildings of height exceeding 200m;
+            (b)     buildings having an unusual shape not covered by this Code;
+             (c)     buildings in locations where complicated local topography or
+                   surroundings adversely affect the wind conditions;
+            (d)     buildings with codified across-wind moment  substantially
+                     larger than the along-wind moment as detailed in clause 2.2.3;
+                   or
+             (e)     buildings  with  B/D>6,  except  for  those  satisfying  the
+                   conditions in clause 2.2.4 so that the torsional load cases can
+                 be neglected.
+          Guidance for wind tunnel testing is provided in Section 6.
+
+1.2    Symbols
+         The symbols used in this Code shall have the following meanings with
+            respect to a structure, member or condition to which a clause  is
+            applied.
+          Except where specifically noted, this Code uses the SI units. Angles
+            are given in degrees.
+          For subscripts, lower case letters are used.
+
+
+
+
+                                                                      Page 1
+
+
+===== PDF PAGE 12 =====
+peak acceleration at height Z (m/s2)
+             breadth of building, the horizontal dimension of the building    𝐴𝐴z
+            normal to the direction of the wind    𝐵𝐵
+               scaling length defining loaded areas for pressure coefficients,
+             taken as the smaller of B or 2H     𝑏𝑏
+              force coefficient determined in accordance with Section 4      𝐶𝐶𝑓𝑓        net pressure coefficient, or total pressure coefficient for
+               building elements     𝐶𝐶𝑝𝑝
+              external pressure coefficient    𝐶𝐶𝑝𝑝𝑝𝑝         internal pressure coefficient     𝐶𝐶𝑝𝑝𝑝𝑝        depth of building, the horizontal dimension of the building
+                parallel to the direction of the wind    𝐷𝐷
+             diameter of circular cylinder
+               eccentricity for calculating variable torsional load     𝑑𝑑
+             along-wind forces  𝑒𝑒1,𝑒𝑒2
+              across-wind forces𝐹𝐹𝑥𝑥1, 𝐹𝐹𝑥𝑥2𝐹𝐹𝑦𝑦1, 𝐹𝐹𝑦𝑦2     peak factor on standard deviation of across-wind resonant
+             response in one hour    𝐺𝐺𝑟𝑟𝑦𝑦                                      (up𝐿𝐿𝐿𝐿𝐿𝐿𝑝𝑝to(1800the top𝑁𝑁𝑦𝑦)roof) above ground              height of building structure= ඥ2
+                level for the approaching wind direction under consideration.    𝐻𝐻            Note that for sloping terrain, building height for different
+               directions may be different.
+              height of building structure above ground level, excluding the
+              height of irregular roof features above main roof    𝐻𝐻𝑏𝑏
+               effective building height, based on    taking account of the
+               sheltering effect of surrounding buildings.  It is obtained by    𝐻𝐻𝑝𝑝              taking        for the   formula in 𝐻𝐻,Appendix A2.
+              height of obstructing buildings in the surroundings                             𝑍𝑍 = 𝐻𝐻              𝑍𝑍𝑝𝑝
+              reduction in reference height due to sheltering effect     𝐻𝐻𝑝𝑝
+              (‘displacement height’)    𝐻𝐻𝑑𝑑
+              height of hill defined on the windward side. See Appendix A3
+           when not subscripted, parapet height, free-standing wall     𝐻𝐻𝑡𝑡
+               height, attached canopy height, or signboard height   ℎ
+            wind turbulence intensity at effective building height     𝐼𝐼𝑜𝑜,ℎ       wind turbulence intensity at building height               𝐻𝐻𝑝𝑝     𝐼𝐼𝑣𝑣,ℎ       wind turbulence intensity at height          𝐻𝐻
+            wind turbulence intensity at effective height      𝐼𝐼𝑣𝑣,𝑧𝑧                                                              𝑍𝑍      𝐼𝐼𝑜𝑜,𝑧𝑧         half-perimeter length around a tributary area𝑍𝑍𝑝𝑝   𝐿𝐿0.5𝑝𝑝       peak across-wind moment at base (ground) level𝑀𝑀𝑥𝑥𝑥𝑥,𝑏𝑏𝑏𝑏𝑏𝑏𝑝𝑝
+
+
+
+
+
+                                                         Page 2
+
+
+===== PDF PAGE 13 =====
+mass of the building above      25% of imposed loads can
+          be added with the dead loads together as the mass source for𝑀𝑀ℎ                For E&M room, either still2𝐻𝐻𝑏𝑏follow/3.   the rule or use the actual
+          imposed loads together with dead loads for              𝑀𝑀ℎ.
+           frequency of fundamental mode of lateral vibration,    or                                                            𝑀𝑀ℎ.
+           For buildings of typical construction below 100m height, the 𝑁𝑁                                                                                                𝑁𝑁𝑥𝑥     𝑁𝑁𝑦𝑦.            expression,         may be used. Otherwise, the natural
+            frequencies shall be obtained from a modal dynamic analysis                           𝑁𝑁 = 46/𝐻𝐻            using best-estimates of stiffness and mass.
+           fundamental frequency for a mode mainly aligned with the
+           along-wind direction 𝑁𝑁𝑥𝑥
+           fundamental frequency for a mode mainly aligned with the
+            across-wind direction 𝑁𝑁𝑦𝑦
+           net pressure on a surface
+            pressure on external surface  𝑃𝑃
+            pressure on internal surface  𝑃𝑃𝑝𝑝
+          wind reference pressure determined from Table 3-1 at the  𝑃𝑃𝑝𝑝
+             effective height,     , for open exposure in flat terrain𝑄𝑄𝑜𝑜,𝑧𝑧
+          wind reference pressure,        , corrected for effects topography                                                   𝑍𝑍𝑝𝑝
+          and wind direction at height 𝑄𝑄𝑧𝑧                                                               𝑄𝑄𝑜𝑜,𝑧𝑧
+          wind reference pressure,     , at effective building height,                                                         𝑍𝑍
+            return period of wind (years) 𝑄𝑄ℎ                                                        𝑄𝑄𝑧𝑧                                              𝐻𝐻𝑝𝑝
+            radius  𝑅𝑅
+              size and dynamic factor on applied forces for overall structure  𝑟𝑟
+            design of buildings𝑆𝑆𝑞𝑞,𝑧𝑧
+             factor on wind pressure for return period,   (with 63.2%
+             likelihood of exceedance within this period)  𝑆𝑆𝑟𝑟                                                                   𝑅𝑅
+              size effect factor depending on the “half-perimeter” length,
+                  of the loaded area   may be greater than 1.0 for small  𝑆𝑆𝑏𝑏           elements)                  𝐿𝐿0.5𝑝𝑝,                                   (𝑆𝑆𝑏𝑏
+              size effect factor for internal pressure under dominant opening
+             case, depending on the size of the dominant opening or 𝑆𝑆𝑏𝑏𝑝𝑝            openings. The size factor is defined in Section 5.1.
+           topographic multiplier on wind pressure, evaluated at
+           See Appendix A3.  𝑆𝑆𝑡𝑡                                                           2𝐻𝐻⁄3.
+           topographic location factor. See Appendix A3.
+             directionality factor on wind pressure   𝑠𝑠
+             variable torsional load per unit height about a vertical axis 𝑆𝑆𝜃𝜃
+           through the centre of width at height,Δ𝑇𝑇𝑧𝑧
+           mean-hourly wind speed                                                                      𝑍𝑍
+         when not subscripted, width of wedge in re-entrant or  𝑉𝑉𝑧𝑧
+          chamfered corners 𝑤𝑤
+           along-wind load per unit height, at height, Z 𝑊𝑊𝑧𝑧
+
+
+
+                                                       Page 3
+
+
+===== PDF PAGE 14 =====
+set of along-wind forces in direction         etc., causing shears
+              and moments at all heights, applied at centres of area 𝑊𝑊𝑧𝑧,𝑥𝑥1, 𝑊𝑊𝑧𝑧,𝑥𝑥2                                                     𝑋𝑋1, 𝑋𝑋2,
+               along-wind directions. For building that may be treated as
+                 rectangular,   and    will be orthogonal.𝑋𝑋, 𝑋𝑋1, 𝑋𝑋2, 𝑒𝑒𝑒𝑒𝑒𝑒.
+                 subscripts denoting the nominal along-wind directions                                     𝑋𝑋1      𝑋𝑋2
+                distance downwind from crest of hill or escarpment. See    𝑥𝑥, 𝑥𝑥1, 𝑥𝑥2
+               Appendix A3.          𝑋𝑋𝑡𝑡
+                separation distance between the building and upwind
+                surrounding buildings, used to calculate           𝑋𝑋𝑝𝑝
+                across-wind directions                                                                                          𝐻𝐻𝑝𝑝
+                height above ground level 𝑌𝑌, 𝑌𝑌1, 𝑌𝑌2, 𝑒𝑒𝑒𝑒𝑒𝑒.
+                  effective height, taking account of sheltering effect of        𝑍𝑍
+                surroundings         𝑍𝑍𝑝𝑝
+                height of site on a hill. See Appendix A3.
+                ultimate wind load factor, taken as 1.4.          𝑍𝑍𝑡𝑡
+                  ratio of damping to critical damping in the relevant direction of         𝛾𝛾𝑤𝑤
+                 vibration       𝜉𝜉𝑥𝑥 ,  𝜉𝜉𝑦𝑦
+                 direction the wind comes from (rotating east from north), or
+              wind direction from the normal to building face         𝜃𝜃
+              mass density of air, taken as 1.2x10-3 T/m3 (=1.2 kg/m3)
+                   solidity ratio of walls or frames         𝜌𝜌𝑏𝑏
+                  effective slope of topographic feature. See Appendix A3.       𝜑𝜑
+              upwind slope of topographic feature. See Appendix A3.        𝜓𝜓𝑝𝑝
+            mode deflection variation with height in the across-wind        𝜓𝜓𝑢𝑢
+                 direction                    . This is typically in the range 1.0-2.0 for         𝜂𝜂𝑦𝑦                  buildings, determined by comparison with modal analysis.               ≈ (𝑍𝑍⁄𝐻𝐻)𝜂𝜂𝑦𝑦
+
+
+
+
+
+                                                           Page 4
+
+
+===== PDF PAGE 15 =====
+2      Calculation of Wind Actions
+
+2.1     Procedure for Calculating Wind Forces
+        An outline of the Standard Method is given in the flowcharts shown in
+           Figure 2-1 and Figure 2-2, showing the stages of calculation and
+             listing the conditions for carrying out wind tunnel testing.
+
+2.1.1   Wind Forces on Buildings
+             (a)   Determine along-wind forces (in the direction of the wind) as in
+                 clause 2.2.1.
+            (b)   Determine torsional forces as in clause 2.2.2.
+             (c)   Determine across-wind base moment, if required, in clause 2.2.3.
+            (d)  Apply  the wind  forces  in two  orthogonal  directions  with
+                  torsional forces to the buildings using the load combinations as
+                  in clause 2.2.4.
+
+2.1.2   Wind Forces on Building Elements
+          Clause 2.3 determines wind pressures and wind forces for building
+           elements.
+
+2.1.3     Acceleration of Buildings Affecting Occupants
+          Clause 2.4.1 determines peak acceleration and clause 2.4.2 provides
+           acceptable acceleration limits.
+
+
+
+
+
+                                                                      Page 5
+
+
+===== PDF PAGE 16 =====
+structure
+      on
+                      actions
+            wind
+         for
+                               Flow-chart
+
+         2-1
+                   Figure
+
+
+
+
+
+Page 6
+
+
+===== PDF PAGE 17 =====
+elements
+                                building
+        on
+                            actions
+                wind
+            for
+                                         Flow-chart
+
+            2-2
+                        Figure
+
+
+
+
+
+Page 7
+
+
+===== PDF PAGE 18 =====
+2.2    Wind Forces on Buildings
+
+2.2.1    Along-wind Force
+        Wind load per unit height at a height,    for a building on level ground
+              is calculated using the equation below:                                                                     𝑍𝑍,
+                                      -   Equation 2-1         Where𝑊𝑊𝑧𝑧 = 𝑄𝑄𝑧𝑧𝐶𝐶𝑓𝑓𝑆𝑆𝑞𝑞,𝑧𝑧𝐵𝐵
+                    along-wind load per unit height, at height,
+                  wind reference pressure adjusted for effects from sheltering,                      𝑊𝑊𝑧𝑧                                                                𝑍𝑍
+                    topography  and  wind  direction  in  accordance  with                       𝑄𝑄𝑧𝑧     clause 3.1
+                      force coefficient determined in accordance with clause 4.2                          𝐶𝐶𝑓𝑓     size and dynamic factor from clause 5.2                             𝑆𝑆𝑞𝑞,𝑧𝑧    breadth of building
+         The components of this equation may vary with height as described in                  𝐵𝐵
+           Section 3 for wind pressure,     in Section 4 for force coefficients,
+          and in clause 5.2 for the size and dynamic factor,                                                             𝑄𝑄𝑧𝑧,                                                           𝐶𝐶𝑓𝑓,           Additional variable torsional moments at the same𝑆𝑆𝑞𝑞,𝑧𝑧. height,       , are
+           obtained by offsetting    from the centre of area, as described in           clause 2.2.2.                                                                                  𝛥𝛥𝑇𝑇𝑧𝑧                                                   𝑊𝑊𝑧𝑧
+2.2.2    Torsional Force
+          For buildings that may be treated as rectangular, the variable torsional
+           load at height,          is derived assuming the along-wind force,
+            in each direction (see Figure 2-3), is applied at a point offset from the           geometric centre𝑍𝑍,of𝛥𝛥𝑇𝑇𝑧𝑧,area by a horizontal distance given by:            𝑊𝑊𝑧𝑧,
+                               for
+                               for                        𝑒𝑒 = ±0.05𝐵𝐵      𝐵𝐵/𝐷𝐷 ≤ 1
+         Use  linear  interpolation  for  intermediate  values  of        For                        𝑒𝑒 = ±0.20𝐵𝐵      𝐵𝐵/𝐷𝐷 = 6
+            extrapolation outside this range, data from wind tunnel testing should          be used.                                                            𝐵𝐵/𝐷𝐷.
+          For non-rectangular building shapes that may be treated as rectangular,
+           see clause 4.2 for relevant dimensions  and
+          For buildings that may be treated as rectangular,                                                              𝐵𝐵      𝐷𝐷.
+                                    or          whichever𝛥𝛥𝑇𝑇𝑧𝑧 = 𝑒𝑒1is ∙of𝑊𝑊𝑧𝑧,𝑥𝑥1greater magnitude.𝛥𝛥𝑇𝑇𝑧𝑧 = 𝑒𝑒2 ∙ 𝑊𝑊𝑧𝑧,𝑥𝑥2
+
+
+
+                                                                      Page 8
+
+
+===== PDF PAGE 19 =====
+Figure 2-3   Definition of variable torsion
+
+2.2.3    Across-wind Base Moment
+           Buildings with height less than 100 m, with      for all directions less
+           than 5, and with fundamental frequencies greater than 0.5 Hz, will             satisfy the check in this section.  The calculated𝐻𝐻⁄𝐵𝐵   along-wind forces
+        may be used without modification.
+           Otherwise, for buildings that may be treated as rectangular, the across-
+         wind base moment for two orthogonal wind directions should be
+           assessed as in Equation 2-2 and, if necessary, the along-wind forces
+           should be increased as described below.
+
+
+
+
+
+                                                                      Page 9
+
+
+===== PDF PAGE 20 =====
+The across-wind base moment at ground level due to dynamic across-
+wind forces should be calculated as below, using consistent units, i.e.
+ T, m, s, and kPa:
+                                                                3.3   2                                   𝐺𝐺𝑟𝑟𝑦𝑦              𝜌𝜌𝑎𝑎         0.215ඥ2𝛾𝛾𝑤𝑤𝑄𝑄ℎ⁄𝜌𝜌𝑎𝑎       𝐻𝐻𝑏𝑏 𝑀𝑀𝑥𝑥𝑥𝑥,𝑏𝑏𝑏𝑏𝑏𝑏𝑝𝑝 = ± 𝛾𝛾𝑤𝑤 𝜉𝜉𝑦𝑦                            0.5 𝑁𝑁𝑦𝑦1.3(𝐵𝐵𝐵𝐵)𝑏𝑏 0.15 ൬     1+3.7𝐼𝐼𝑣𝑣,ℎ   ൰    3                                                                  -   Equation 2-2
+Where
+          peak factor on standard deviation of across-wind resonant
+          response in one hour 𝐺𝐺𝑟𝑟𝑦𝑦           ultimate wind load factor,= ඥ2taken𝐿𝐿𝐿𝐿𝐿𝐿𝑝𝑝as(18001.4   𝑁𝑁𝑦𝑦)
+            ratio  of damping  to  critical damping  in  across-wind 𝛾𝛾𝑤𝑤
+           direction of vibration in Appendix C2 𝜉𝜉𝑦𝑦
+         mass density of air, taken as 1.2x10-3 T/m3
+          fundamental frequency for mode mainly aligned with the 𝜌𝜌𝑏𝑏
+          across-wind direction 𝑁𝑁𝑦𝑦
+           the average plan area of the enclosing rectangle over the top
+            third of the building (𝐵𝐵𝐷𝐷)𝑏𝑏
+         wind reference pressure,     at effective building height,
+         wind turbulence intensity at building height,     , may be 𝑄𝑄ℎ                                                  𝑄𝑄𝑧𝑧,                                            𝐻𝐻𝑝𝑝
+          taken as      in Equation 3-3 or 3-4, from wind tunnel 𝐼𝐼𝑣𝑣,ℎ                                                             𝐻𝐻            testing, or be calculated by the method of the Engineering          Sciences Data𝐼𝐼𝑜𝑜,ℎ Unit (ESDU)
+           height  of  building  structure  above  ground  level,  but
+          excluding the height of irregular roof features above main 𝐻𝐻𝑏𝑏        roof.
+Where the calculated across-wind base moment  is larger than the
+along-wind base moment, then  the along-wind  forces should be
+ factored upwards to match the across-wind moment.  i.e.
+
+ (a)    If                                        ,          should  be  factored  with                 𝑚𝑚𝑏𝑏𝑥𝑥(𝑀𝑀−𝑥𝑥1𝑥𝑥1, 𝑀𝑀+𝑥𝑥1𝑥𝑥1)                        ห𝑀𝑀−𝑦𝑦2𝑦𝑦2ห  ,  > 1     𝑊𝑊𝑧𝑧,−𝑥𝑥2            𝑚𝑚𝑚𝑚𝑥𝑥(𝑀𝑀−𝑥𝑥1𝑥𝑥1, 𝑀𝑀+𝑥𝑥1𝑥𝑥1)                    ห𝑀𝑀−𝑦𝑦2𝑦𝑦2ห
+ (b)    If                                           ,         should  be  factored  with                𝑚𝑚𝑏𝑏𝑥𝑥(𝑀𝑀−𝑥𝑥1𝑥𝑥1, 𝑀𝑀+𝑥𝑥1𝑥𝑥1)                        ห𝑀𝑀+𝑦𝑦2𝑦𝑦2ห  ,  > 1     𝑊𝑊𝑧𝑧,+𝑥𝑥2          𝑚𝑚𝑏𝑏𝑥𝑥(𝑀𝑀−𝑥𝑥1𝑥𝑥1,𝑀𝑀+𝑥𝑥1𝑥𝑥1)                  ห𝑀𝑀+𝑦𝑦2𝑦𝑦2ห
+ (c)    If                                           ,         should  be  factored  with                𝑚𝑚𝑏𝑏𝑥𝑥(𝑀𝑀−𝑥𝑥2𝑥𝑥2, 𝑀𝑀+𝑥𝑥2𝑥𝑥2)                        ห𝑀𝑀−𝑦𝑦1𝑦𝑦1ห   > 1     𝑊𝑊𝑧𝑧,−𝑥𝑥1           𝑚𝑚𝑏𝑏𝑥𝑥(𝑀𝑀−𝑥𝑥2𝑥𝑥2, 𝑀𝑀𝑥𝑥2𝑥𝑥2)                  ห𝑀𝑀−𝑦𝑦1𝑦𝑦1ห
+
+
+                                                           Page 10
+
+
+===== PDF PAGE 21 =====
+(d)    If                                           ,         should  be  factored  with                                  𝑚𝑚𝑏𝑏𝑥𝑥(𝑀𝑀−𝑥𝑥2𝑥𝑥2,𝑀𝑀+𝑥𝑥2𝑥𝑥2)                                         ห𝑀𝑀+𝑦𝑦1𝑦𝑦1ห   > 1      𝑊𝑊𝑧𝑧,+𝑥𝑥1                             𝑚𝑚𝑏𝑏𝑥𝑥(𝑀𝑀−𝑥𝑥2𝑥𝑥2,𝑀𝑀𝑥𝑥2𝑥𝑥2)                                   ห𝑀𝑀+𝑦𝑦1𝑦𝑦1ห
+              If the factor                      or                          is greater than                                         𝑚𝑚𝑏𝑏𝑥𝑥(𝑀𝑀−𝑥𝑥1𝑥𝑥1,𝑀𝑀+𝑥𝑥1𝑥𝑥1)          𝑚𝑚𝑏𝑏𝑥𝑥(𝑀𝑀−𝑥𝑥2𝑥𝑥2,𝑀𝑀+𝑥𝑥2𝑥𝑥2)             1.5, then wind𝑚𝑚𝑏𝑏𝑥𝑥൫ห𝑀𝑀−𝑦𝑦2𝑦𝑦2ห,ห𝑀𝑀+𝑦𝑦2𝑦𝑦2ห൯tunnel testing must be𝑚𝑚𝑏𝑏𝑥𝑥൫ห𝑀𝑀−𝑦𝑦1𝑦𝑦1ห,ห𝑀𝑀+𝑦𝑦1𝑦𝑦1ห൯conducted. The along-wind and
+           the across-wind effects for wind directions   and    are shown in
+           Figure 2-4(a) and Figure 2-4(b).                                                                            𝑋𝑋1       𝑋𝑋2
+
+
+
+
+
+Figure 2-4(a)   Co-ordinate system for along-wind and across-wind actions ­
+            Lateral loading effects due to wind from direction X1
+
+
+
+
+
+                                                                     Page 11
+
+
+===== PDF PAGE 22 =====
+Figure 2-4(b)   Co-ordinate system for along-wind and across-wind actions ­
+            Lateral loading effects due to wind from direction X2
+
+2.2.4    Combinations of Wind Forces for Design
+         The lateral loads in the two orthogonal directions and the torsional
+           load  should  be  applied  simultaneously  to  the  building  with
+          combination factors in Table 2-1.
+          Table 2-1   Load combination factors for buildings that may be
+                        treated as rectangular
+
+               Case                                               𝑾𝑾𝒛𝒛,𝒙𝒙𝒙𝒙                                 𝑾𝑾𝒛𝒛,𝒙𝒙𝒙𝒙                                       𝜟𝜟𝑻𝑻𝒛𝒛                = 𝑴𝑴𝑴𝑴𝒙𝒙(𝑾𝑾𝒛𝒛,+𝒙𝒙𝒙𝒙 , 𝑾𝑾𝒛𝒛,−𝒙𝒙𝒙𝒙 ) = 𝑴𝑴𝑴𝑴𝒙𝒙(𝑾𝑾𝒛𝒛,+𝒙𝒙𝒙𝒙 , 𝑾𝑾𝒛𝒛,−𝒙𝒙𝒙𝒙 )
+                1                ±1.00                   ±0.55               ±0.55
+
+                2                ±0.55                   ±1.00               ±0.55
+
+                3                ±0.55                   ±0.55               ±1.00
+
+         The resultant of loads at each level must act through the centre-of-area
+             at each level (which may vary with height). The co-ordinate system is
+         shown in Figure 2-5.
+
+
+
+
+
+                                                                     Page 12
+
+
+===== PDF PAGE 23 =====
+Figure 2-5      Co-ordinate system for wind forces
+
+
+All buildings should be designed  to be capable of  resisting the
+torsional loads of this Code in conjunction with the lateral loads.
+However,  if torsional loads are well resisted by certain forms of
+construction, the torsion loadcases above may be formally ignored in
+the following cases:
+   (a)  buildings of single storey up to 10m height;
+   (b) buildings of up to 70 m height with a peripheral lateral load
+        resisting construction;
+   (c)  buildings which pass the torsional regularity check. The check
+         is that in each lateral direction   and    in turn, the maximum
+        inter-story drift in each storey due to the torsion load must be        less than 25% of that due to theX1lateralX2load (for buildings with
+       a vertically continuous lateral and torsional resisting structure,
+        this check may be made only at the base and at higher storeys
+      where the resisting capacity reduces by more than 25% when
+      compared with nearby storeys); or
+   (d) where the torsional inter-story drift calculated above are not
+       greater than 50% of the lateral drift, the Case 3 in Table 2-1
+       (primarily torsion) loadcases do not need to be calculated.
+
+
+
+
+
+                                                          Page 13
+
+
+===== PDF PAGE 24 =====
+2.3    Wind Forces on Building Elements
+          Net pressures on solid surface areas of enclosed building without
+          dominant openings (defined in Appendix B1.1) are given by:
+                                                               -      Equation 2-3a         Where               𝑃𝑃 = 𝑄𝑄𝑧𝑧𝐶𝐶𝑝𝑝𝑆𝑆𝑏𝑏
+                      net pressure on surface
+                  wind reference pressure adjusted for effects from sheltering,               𝑃𝑃
+                    topography  and  wind  direction  in  accordance  with                  𝑄𝑄𝑧𝑧        clause 3.1.  The reference height, Z, is defined with the
+                      pressure coefficients, but is normally the building height,
+                      net pressure coefficient (total pressure coefficient including                                                                                                𝐻𝐻.
+                      the contribution from  internal pressures), in accordance                   𝐶𝐶𝑝𝑝       with clause 4.3.1
+                       size factor depending on the “half-perimeter” length,
+                      of the loaded area. The size factor is defined in clause 5.1.                       𝑆𝑆𝑏𝑏                                                                                          𝐿𝐿0.5𝑝𝑝,
+          Equation 2-3a is also used for calculating the net pressures on open
+          frameworks, building attachments and free-standing walls.
+          Net pressures on surface areas of buildings with dominant openings
+            are determined from the difference between pressures on opposite
+            surfaces.  For a typical single skin cladding panel the net pressure is
+           given by:
+                                                               -      Equation 2-3b
+                                                               -      Equation 2-3c                                       𝑃𝑃 = 𝑃𝑃𝑝𝑝 − 𝑃𝑃𝑝𝑝                                                            𝑃𝑃𝑝𝑝 = 𝑄𝑄𝑧𝑧𝐶𝐶𝑝𝑝𝑝𝑝𝑆𝑆𝑏𝑏          -      Equation 2-3d         Where                        𝑃𝑃𝑝𝑝 = 𝑄𝑄𝑧𝑧𝐶𝐶𝑝𝑝𝑝𝑝𝑆𝑆𝑏𝑏,𝑝𝑝
+                      net pressure on surface
+                      pressure on external surface               𝑃𝑃
+                      pressure on internal surface                       𝑃𝑃𝑝𝑝
+                  wind reference pressure, adjusted for sheltering, topography                         𝑃𝑃𝑝𝑝                   and wind direction in accordance with clause  3.1. The                  𝑄𝑄𝑧𝑧        reference height, Z, is defined with the pressure coefficients,
+                     but is normally the building height,
+                      external pressure coefficient in accordance with Appendix                                                                     𝐻𝐻.
+                   B1.2                     𝐶𝐶𝑝𝑝𝑝𝑝
+                        internal pressure coefficient in accordance with Appendix
+                   B1.3                       𝐶𝐶𝑝𝑝𝑝𝑝
+
+
+
+
+                                                                     Page 14
+
+
+===== PDF PAGE 25 =====
+size factor depending on the “half-perimeter” length,
+                      of the loaded area. The size factor is defined in clause 5.1                       𝑆𝑆𝑏𝑏                                                                                          𝐿𝐿0.5𝑝𝑝,
+                       size factor for internal pressure under dominant opening
+                       case, depending on the size of the dominant opening or                          𝑆𝑆𝑏𝑏,𝑝𝑝       openings.  See clause 5.1.
+
+2.4    Wind Acceleration of Buildings
+
+2.4.1    Peak Acceleration
+         The peak acceleration (in m/s2) for orthogonal wind directions may be
+           assessed separately at any height,   and return period,    using the
+          formula below. Consistent units (i.e. T, m, s, and kPa) should be used.                                                                 𝑍𝑍,                          𝑅𝑅,                                                                       3.3                                                                                                                                                           𝜂𝜂𝑦𝑦                                       𝐺𝐺𝑟𝑟𝑦𝑦 𝜌𝜌𝑏𝑏         0.215ඥ2𝑆𝑆𝑟𝑟𝑄𝑄ℎ⁄𝜌𝜌𝑏𝑏        𝐻𝐻𝑏𝑏  2 + 𝜂𝜂𝑦𝑦     𝑍𝑍                                     0.15                 𝐴𝐴𝑧𝑧 =             ൭            ൱                .               . ൬  ൰                             𝜉𝜉𝑦𝑦 0.5𝑁𝑁𝑦𝑦 1.3(𝐵𝐵𝐷𝐷)𝑏𝑏      1 + 3.7𝐼𝐼𝑣𝑣,ℎ       3𝑀𝑀ℎ -  3Equation𝐻𝐻𝑏𝑏 2-4
+                   peak factor on standard deviation of resonant response in
+                   one hour                    𝐺𝐺𝑟𝑟𝑦𝑦                         ratio  of =dampingඥ2 𝐿𝐿𝐿𝐿𝐿𝐿𝑝𝑝to(1800critical𝑁𝑁𝑦𝑦) damping  in  across-wind
+                       direction of vibration in Appendix C2                     𝜉𝜉𝑦𝑦
+                    fundamental frequency for mode mainly aligned with the
+                    across-wind direction                 𝑁𝑁𝑦𝑦
+                           is the plan area of the enclosing rectangle, averaged over
+                      the top third of the building, excluding upper level cut­              (𝐵𝐵𝐷𝐷)𝑏𝑏    backs.  If                 take
+                       factor on wind  pressure  for  different  return  period  in                                       (𝐵𝐵𝐷𝐷)𝑏𝑏 > 𝐻𝐻2⁄9,       (𝐵𝐵𝐷𝐷)𝑏𝑏 = 𝐻𝐻2⁄9.
+                  Appendix A1                      𝑆𝑆𝑟𝑟
+                  wind reference pressure,     at effective building height,
+                  mass density of air, taken as 1.2x10-3 T/m3             𝑄𝑄ℎ                                                  𝑄𝑄𝑧𝑧,                                            𝐻𝐻𝑝𝑝
+                  wind turbulence intensity at building height,     , may be                    𝜌𝜌𝑏𝑏
+                     taken as      in Equation 3-3 or 3-4, from wind tunnel                     𝐼𝐼𝑣𝑣,ℎ                                                             𝐻𝐻                         testing, or as calculated by the ESDU method                                                         𝐼𝐼𝑜𝑜,ℎ
+                      height  of  building  structure  above  ground  level,  but
+                    excluding the height of irregular  roof features above main                 𝐻𝐻𝑏𝑏        roof
+                  mass of the building above
+                    parameter  used  to  describe  the  approximate  mode           𝑀𝑀ℎ                                   2𝐻𝐻𝑏𝑏⁄3
+                      deflection variation with height. Where this is not obtained                   𝜂𝜂𝑦𝑦
+
+
+                                                                     Page 15
+
+
+===== PDF PAGE 26 =====
+by comparison with a modal analysis, it may be assumed to
+                   be 1.5 for calculation of accelerations within the top quarter
+                      height of a building.
+
+2.4.2    Peak Acceleration Limits
+         The occupant comfort  is considered acceptable  if the 1-year and
+           10-year peak  accelerations  are  less than  the  limits  stipulated  in
+           Figure 2-6 below.
+
+
+
+
+
+            Figure 2-6      Acceptable occupant comfort level
+
+
+2.5    Minimum Wind Loads for Temporary Structures
+        Wind loads on temporary buildings and associated constructions that
+            are not used for residency, and which will remain in position for a
+           period of not more than one year, may be designed for a minimum of
+        70% of the design loads for permanent buildings.
+          For  designing  hoarding  and  covered  walkway  associated  with
+           construction site, contractor shed, bamboo shed, tent or marquee that
+            are not for residential use,     is taken as 37% of      defined in
+           clause 3.2 and no other adjustment factor should be applied.                                                                 𝑄𝑄𝑧𝑧                                        𝑄𝑄𝑜𝑜,𝑧𝑧
+
+
+
+
+
+                                                                     Page 16
+
+
+===== PDF PAGE 27 =====
+3     Design Wind Pressures
+
+3.1     General
+        Wind pressure,     is given by:
+                                         -   Equation 3-1                                         𝑄𝑄𝑧𝑧,         Where𝑄𝑄𝑧𝑧 = 𝑄𝑄𝑜𝑜,𝑧𝑧 𝑆𝑆𝑡𝑡 𝑆𝑆𝜃𝜃
+                     defined in clause 3.2,                     𝑄𝑄𝑜𝑜,𝑧𝑧       the topography factor in Section 3.4,
+                      the wind directionality factor in Appendix A1.                        𝑆𝑆𝑡𝑡                    𝑆𝑆𝜃𝜃3.2    Wind Reference Pressure at Effective Height
+        Wind reference pressures of this Code are provided at effective height
+            for open exposure,      , as in Table 3-1 below.   Ze  is defined in
+           clause 3.3.                                                        𝑍𝑍𝑝𝑝
+          Table 3-1   Wind reference pressure, Qo,z
+
+                 Effective height   Wind reference pressure
+                     (m)                   (kPa)
+                 ≤ 2.5                   1.59                                   𝒁𝒁𝒆𝒆                                    𝑸𝑸𝒐𝒐,𝒛𝒛                    5                     1.77
+                    10                    1.98
+                    20                    2.21
+                    30                    2.36
+                    50                    2.56
+                    75                    2.73
+                   100                    2.86
+                   150                    3.05
+                   200                    3.20
+                   250                    3.31
+                   300                    3.41
+                   400                    3.57
+                   500                    3.70
+                  >500          Seek specialist advice
+
+          For any effective height between 2.5m and 500m, the pressure can be
+            calculated as:
+                                               -   Equation 3-2                     𝑄𝑄𝑜𝑜,𝑧𝑧 = 3.7(𝑍𝑍𝑝𝑝⁄500)0.16
+
+
+
+
+                                                                     Page 17
+
+
+===== PDF PAGE 28 =====
+The turbulence intensity can be taken as:
+                                                   -   Equation 3-3         Where𝐼𝐼𝑜𝑜,𝑧𝑧 = 0.087(𝑍𝑍𝑝𝑝⁄500 )−0.11
+                  wind reference pressure at height,                          𝑄𝑄𝑜𝑜,𝑧𝑧   effective height, taking account of 𝑍𝑍𝑝𝑝surroundings
+                  wind turbulence intensity at height                         𝑍𝑍𝑝𝑝          For𝐼𝐼𝑜𝑜,𝑧𝑧across-wind base moment and for acceleration𝑍𝑍𝑝𝑝         calculation,  if
+                                 the turbulence intensity may be modified as:
+                                                                       -   Equation 3-4          0.25 ≤ 𝐻𝐻𝑝𝑝 /𝐻𝐻 ≤ 0.5,                          𝐼𝐼𝑜𝑜,𝑧𝑧 = [4 − (6𝐻𝐻𝑝𝑝⁄𝐻𝐻)] 0.087(𝑍𝑍𝑝𝑝⁄500 )−0.11
+3.3     Sheltering Effects
+         The effects of direct shelter from other buildings surrounding a site
+        may be taken into account by using a reduced height, i.e. the effective
+            height,     , for calculation of wind pressure, turbulence intensity and
+            force coefficient. The method of calculating effective height is given            in Appendix𝑍𝑍𝑝𝑝   A2.
+          may conservatively be taken as the actual height,   above ground
+             level.                    𝑍𝑍𝑝𝑝                                                                       𝑍𝑍,
+3.4    Topography Effects
+         The  effects  of  topography  should  be  estimated  as  defined  in
+          Appendix A3.
+
+
+
+
+
+                                                                     Page 18
+
+
+===== PDF PAGE 29 =====
+4     Force and Pressure Coefficients
+
+4.1     General
+           This section gives force and pressure coefficients for assessing total
+         wind force on buildings and building elements respectively. They are
+            for use in the equations of Section 2.
+
+4.2     Force Coefficients for Buildings
+          For buildings, force coefficients for rectangular plan are given in
+           clause 4.2.1. Considerations of modifications on rectangular plan are
+           given in clauses 4.2.2 and 4.2.3. Conditions where building plans can
+          be treated as rectangles are given in clause 4.2.4.
+          Force  coefficients  for  buildings  of  circular plan with  height  to
+           diameter ratio not larger than 6 can be taken as 0.75.
+
+4.2.1    Rectangular Buildings
+        When a building varies from a simple rectangular plan, additional
+          guidance for using the formulas below is provided in clauses 4.2.1 to
+             4.2.4.
+         The force coefficient for a rectangular building as shown in Figure 4-1
+              is a function of effective height,      , breadth,   and depth,    as in
+           Figure 4-2.                                                                      𝐻𝐻𝑝𝑝              𝐵𝐵,               𝐷𝐷,
+          For calculation of overall wind loads (cumulative shear, torsions and
+          moments),   may vary with height (or conservatively use                                    𝑄𝑄𝑧𝑧                                                     𝑄𝑄ℎ).
+
+
+
+
+
+       Figure 4-1      Basic definitions of building plan dimensions
+
+
+
+
+
+                                                                     Page 19
+
+
+===== PDF PAGE 30 =====
+Figure 4-2      Force coefficient for simple rectangular prismatic shaped
+                               building, Cf
+                                 0.055 𝐻𝐻𝑝𝑝⁄𝐷𝐷     𝐶𝐶𝑓𝑓 = 1.1 +                   exp൛|𝑙𝑙𝐿𝐿𝐿𝐿𝑝𝑝 [(0.6𝐵𝐵/𝐷𝐷)(1 − 0.011 𝐻𝐻𝑝𝑝⁄𝐷𝐷) ]|[1.7−0.0013(𝐻𝐻𝑒𝑒⁄𝐵𝐵)2]ൟ-   Equation 4-1
+       Where
+                     effective building height, based on H, taking account of
+                    surroundings.                   𝐻𝐻𝑝𝑝
+                   breadth of building
+                   depth of building                𝐵𝐵
+         Equation 4-1 can be used for               𝐷𝐷                                               𝐻𝐻𝑝𝑝⁄𝐷𝐷 ≤ 12.
+
+
+
+
+
+                                                                   Page 20
+
+
+===== PDF PAGE 31 =====
+4.2.2     Effect of Variation of Plan with Height
+         The force coefficient,     at a particular height should be calculated
+           using equation 4-1 by adopting local values for  and   the effective                                                             𝐶𝐶𝑓𝑓,           building height,    with       equals or less than 12. Steps in plan                                                                                 𝐵𝐵       𝐷𝐷,            size affecting less than 10% of   should be ignored for calculating                                               𝐻𝐻𝑝𝑝        𝐻𝐻𝑝𝑝⁄𝐷𝐷           Pressures should be applied to the actual area.                                                    𝐻𝐻                                                                  𝐶𝐶𝑓𝑓.
+4.2.3     Effect of Corner Shapes
+         The force  coefficient  for  rectangular  buildings with symmetrical
+           corner cut-outs or chamfers can be reduced using the following factor:
+
+                                                                -       Equation 4-2                                     𝑤𝑤                 ቂ1Where− 2 𝐵𝐵 (1 − cos 𝜃𝜃)ቃ
+                                          ,    and    are  defined  in  Figure  4-3 below  and
+                  0≤     ≤0.31                          𝑤𝑤    𝐵𝐵         𝜃𝜃
+                    For              take              or treat as X-shaped.                           𝑤𝑤⁄𝐵𝐵
+         The force coefficient for rectangular buildings with rounded corners                            𝑤𝑤⁄𝐵𝐵 > 0.31,     𝑤𝑤⁄𝐵𝐵 = 0.31
+          can be reduced based on smooth rounding of the corners with a radius,
+               r, by the factor:
+                                                                -       Equation 4-3
+                Where                 [1 − 2.5 𝑟𝑟⁄𝐵𝐵]
+
+
+                    For                   , take    = 0.1.               0≤ 𝑟𝑟⁄𝐵𝐵 ≤0.1
+          For unsymmetrical corners, the corner that produces least reduction                                 𝑟𝑟⁄𝐵𝐵 > 0.1        𝑟𝑟⁄𝐵𝐵
+             shall be taken.
+
+
+
+
+
+      Figure 4-3      Basic dimensions for considering corner effects
+
+
+
+
+
+                                                                     Page 21
+
+
+===== PDF PAGE 32 =====
+4.2.4     Buildings with Wings (i.e. U-, X-, Y-, Z- and L-shaped)
+          For a building with wings, the force coefficients should be calculated
+           as for a rectangular building based on the dimensions of the equivalent
+            rectangle.
+
+          For ‘U’ & ‘X’ shapes, see Figure 4-4(a) and Figure 4-4(b) for the
+           equivalent rectangle.
+          For a Y-shaped building, see Figure 4-4(c) and Figure 4-4(d) for the
+           equivalent rectangle.
+          For ‘Z’ & ‘L’ shapes, see Figure 4-4(e) and Figure 4-4(f) for the
+           equivalent rectangle.
+          For the above, the effect of corner shapes can be taken into account as
+         shown in Figure 4-4(b) to Figure 4-4(d).
+
+
+
+
+
+         Figure 4-4(a)   Basic dimensions for U-shaped buildings
+
+
+
+
+
+         Figure 4-4(b)   Basic dimensions for X-shaped buildings
+
+
+
+
+
+      Figure 4-4(c)   Basic dimensions for double Y-shaped buildings
+
+
+
+
+                                                                     Page 22
+
+
+===== PDF PAGE 33 =====
+Figure 4-4(d)   Basic dimensions for single Y-shaped buildings
+
+
+
+
+
+Figure 4-4(e)   Basic dimensions for single L-shaped buildings
+
+
+
+
+
+Figure 4-4(f)    Basic dimensions for single Z-shaped buildings
+
+
+
+
+
+                                                              Page 23
+
+
+===== PDF PAGE 34 =====
+4.3     Pressure Coefficients for Building Elements
+
+4.3.1    Net Pressure  Coefficients  for an Enclosed  Building
+        Envelope without Dominant Openings
+          For buildings with rectangular corners,  if there are no dominant
+          openings as defined in Appendix B1.1, the net pressure coefficients
+             (total pressure coefficient including effects of internal pressures) for
+            the building envelope are obtained from Table 4-1.
+          Table 4-1    Net pressure coefficients for an enclosed building
+                       envelope without dominant openings, Cp
+
+                              Case                      Zones
+                                                             applicable                                                                                                                                    𝑪𝑪𝒑𝒑                                Negative pressure in                                                A                -1.4                             edge zone
+                                Negative pressure              Wall                                    B                -1.0                               elsewhere
+                                    Positive pressure          A & B            +1.1
+                                Negative pressure in                                                     C                -2.2                                corner zone
+                                Negative pressure in                 Flat roof or roof                         D                -1.6                             edge zone              with pitch less
+                                Negative pressure              than 30 degrees                               E                -1.0                               elsewhere
+                                    Positive pressure               C, D, E           +0.3
+                                Negative pressure in                                                     C                -1.4                                corner zone
+                                Negative pressure in                Pitch roof of                           D                -1.4                             edge zone               greater than 60
+                                Negative pressure              degree slope                                  E                -1.0                               elsewhere
+                                    Positive pressure               C, D, E           +1.1
+             Notes:
+                (a)    should be used when calculating the net pressures.
+               (b) The size factor,   depends on the tributary area (structural span                    𝑄𝑄ℎ
+                  of the panel) and may be larger than 1.0.                                                             𝑆𝑆𝑏𝑏,
+                 (c) Cladding pressures can be reduced by 20%, below a height of
+
+               (d) Where there are significant steps in building form, i.e. podiums, the                  0.5(𝐻𝐻 − 𝐻𝐻𝑝𝑝).
+                 height rules for tower and podium in Figure 4.6(a) and Figure 4.6(b)
+                should be followed.
+                (e) Linear interpolation is allowed for roofs with a pitch between 30
+               and 60 degrees.
+                     (f)  Pressure coefficients for roofs of low-rise buildings may also be
+                obtained from reliable published sources.
+
+
+
+
+                                                                     Page 24
+
+
+===== PDF PAGE 35 =====
+For the tower set back from edge of podium as shown in Figure 4-5(a),
+        zone definitions are given in Figure 4-6(a) and Figure 4-6(b). For
+       podium roof areas under influence of the tower, pressures on the
+         adjacent tower elevation/elevations should be adopted.
+
+
+
+
+
+Figure 4-5(a)   Wind reference height and zone scaling dimensions for a
+                tower set back from edge of podium
+
+
+
+
+
+                                                                   Page 25
+
+
+===== PDF PAGE 36 =====
+Figure 4-5(b)  Wind reference height and zone scaling dimensions for
+                      tower at podium edge
+
+
+
+
+
+                                                                  Page 26
+
+
+===== PDF PAGE 37 =====
+Figure 4-6(a)   Zone key for pressure
+
+
+
+
+
+                                                  Page 27
+
+
+===== PDF PAGE 38 =====
+Figure 4-6(b)   Dimensions for pressure zones in Figure 4-6(a)
+
+
+    For the tower at the edge of a podium as shown in Figure 4-5 (b), zone
+    definitions in Figure 4-6 (a) and the extent of the zones in Figure 4-6
+    (b) should be  used.   For  the  design  pressure on  the podium,
+                and max          should be used for determining the
+    extent of zone A in Figure 4-6 (b). The reference height should refer    tomax൫𝑏𝑏1𝑡𝑡the requirement, 𝑏𝑏1𝑝𝑝൯     in Figure൫𝑏𝑏2𝑡𝑡 ,4-5𝑏𝑏2𝑝𝑝൯(b).
+
+
+
+
+
+                                                              Page 28
+
+
+===== PDF PAGE 39 =====
+4.3.2    Pressure  Coefficients  for  Building  Envelope  with
+        Dominant Openings
+         Dominant openings are defined in Appendix B1, which also provides
+           a method for deriving building envelope pressures.
+          Guidance on the determination of the effect of non-dominant openings
+              is also provided in Appendix B1.
+
+4.3.3    Pressure Coefficient for Open Frameworks
+          Table 4-2 provides guidance for planar frameworks such as exposed
+              lattice beams attached to buildings.
+          Table 4-2    Net pressure coefficients for open frameworks
+
+                   Solidity ratio φ             Pressure coefficient
+                      0.01                            2.0                                                                                                         𝑪𝑪𝒑𝒑
+                        0.1                             1.8
+                        0.2                             1.7
+                        0.3                             1.6
+                        0.5                             1.5
+                        0.8                             1.5
+                        0.9                             1.6
+                        1.0                             2.0
+          Notes:
+            (a) The solidity ratio is equal to the effective projected area of
+             the open framework divided by the area enclosed by the
+            boundary of the frame normal to the direction of the wind.
+            (b) Linear  interpolation  is  allowed  to  obtain  intermediate
+              values.
+             (c) Pressures are applied to the solid area of the framework
+              only.
+
+4.3.4    Pressure Coefficients for Other Building Attachments
+           Additional pressure coefficients for building attachments are given in
+          Appendix B2.1 to B2.3.
+
+4.3.5    Pressure Coefficients for Free-standing Walls
+           Pressure coefficients for free-standing walls are given in Appendix B3.
+
+
+
+
+
+                                                                     Page 29
+
+
+===== PDF PAGE 40 =====
+5      Size Factor and Size and Dynamic Factor
+
+5.1     Size Factor
+         The size factor,    depends on the size and location of the loaded area.
+         The size of the loaded area is evaluated by the half perimeter of the            area,          , and𝑆𝑆𝑏𝑏,is given in Figure 5-1.  The perimeter is measured
+          around the tributary area making the main contribution to a load effect.            In case𝐿𝐿0.5𝑝𝑝of more complex shapes of loaded area, the half-perimeter is
+            half the length the  taut string that would  just extend around  all
+            extremities of the area (i.e. For a circle of diameter,          Values of    are shown in Figure 5-2 or may be𝑑𝑑,calculated𝐿𝐿0.5𝑝𝑝 = 𝜋𝜋𝑑𝑑/2).using
+          Appendix C1.                                            𝑆𝑆𝑏𝑏
+
+
+
+
+
+          Figure 5-1      Half perimeter of the loaded area, L0.5p
+
+
+
+
+
+                                                                     Page 30
+
+
+===== PDF PAGE 41 =====
+Figure 5-2      Size factor, Ss
+       For  definition  of  the  corner zone and  the edge  zone,  refer  to
+       Figure 4-6(a) and Table 4-1.
+     When  calculating  internal  pressures  with dominant  openings  as
+        defined in Appendix B1.1, the size factor,    corresponds to the half-
+        perimeter of the largest opening, or the notional perimeter around        several openings (see Figure 5-3), which form𝑆𝑆𝑏𝑏𝑝𝑝,  the dominant opening
+        as described in Appendix B1.1, and is evaluated using the ‘Other’
+       curve of Figure 5-2.
+
+
+
+
+
+Figure 5-3      Half-perimeter of the loaded area, L0.5p, due to several
+       openings contributing to the dominant opening area, Ao
+
+
+
+                                                                  Page 31
+
+
+===== PDF PAGE 42 =====
+5.2     Size and Dynamic Factor for Buildings
+         The combined size and dynamic factor applied to the gust forces at the
+           top of the building is given by:
+
+                                                                                 - Equation 5-1                                             2                                                              0.25                                                                                  𝐵𝐵0.5𝐻𝐻𝑁𝑁𝑥𝑥2𝜉𝜉𝑥𝑥                 𝑆𝑆𝑞𝑞,ℎWhere= 0.5 + ටቀ𝑆𝑆𝑏𝑏(𝐿𝐿0.5𝑝𝑝=𝐵𝐵) − 0.5ቁ +
+                       size factor, depends on the half-perimeter length,
+                      of the loaded area at the top of the building. For evaluation                       𝑆𝑆𝑏𝑏        of    in Figure 5-2, the curve for ‘Other’ should be 𝐿𝐿0.5𝑝𝑝used.= 𝐵𝐵
+                     building height                                               𝑆𝑆𝑠𝑠
+                     breadth of building             𝐻𝐻
+                    fundamental frequency for mode mainly aligned with the              𝐵𝐵
+                    along-wind direction                  𝑁𝑁𝑥𝑥
+                         ratio  of damping  to  critical damping  in  the  relevant
+                       direction of vibration                      𝜉𝜉𝑥𝑥
+           This factor can be reduced over the height of the building using the
+          formula below:
+
+                                                                                 - Equation 5-2
+
+          These formulas are dimensional with units of metres and Hertz.                     𝑆𝑆𝑞𝑞,𝑧𝑧 = 𝑆𝑆𝑞𝑞,ℎ− 1.2൫𝑆𝑆𝑞𝑞,ℎ− (10⁄𝐻𝐻)0.14൯(1 − 𝑍𝑍⁄𝐻𝐻)
+          For buildings of  less than 50m  height, the following simplified
+          formula can be used to calculate    at all heights:                                                                                    𝑆𝑆𝑞𝑞  - Equation 5-3         Where𝑆𝑆𝑞𝑞 = 1.1 𝑆𝑆𝑏𝑏൫𝐿𝐿0.5𝑝𝑝=𝐻𝐻/1.5+2𝐵𝐵൯
+                       size factor, depending on the half-perimeter length,       of
+                      the  equivalent  loaded  area.   For  Equation  5-3,  half-                       𝑆𝑆𝑏𝑏                                                                                      𝐿𝐿0.5𝑝𝑝,                     perimeter length,                    should be used.                                                          𝐿𝐿0.5𝑝𝑝 = 𝐻𝐻/1.5 + 2𝐵𝐵
+
+
+
+
+
+                                                                     Page 32
+
+
+===== PDF PAGE 43 =====
+6     Requirements for Wind Tunnel Testing
+
+6.1     General Requirements
+         The guidance below is intended for modelling complete buildings as
+           required for overall forces, accelerations and surface pressures.  This
+            applies to typical testing requirement in Hong Kong.
+
+6.1.1   Wind Modelling and Instrumentation
+              (a) The natural wind is to be represented (*) (physically or analytically)
+                 to account for the variation with height of hourly mean wind
+               speed, and the turbulence intensity and length-scales appropriate
+                 to the site.
+             (b) The  instrumentation,   its  response  characteristics,  and  data
+               recording methods are  to be appropriate  to the loads under
+                consideration.
+              (c) The measurements should enable peak wind loads of reliability
+               compatible with code intentions to be derived.
+                     (*) Frequencies of oncoming turbulence corresponding  to vortex
+              shedding  processes  should  be  modelled  physically.  Lower
+               frequency turbulence may be included analytically.
+
+6.1.2    Modelling of Dynamic Responses
+         Where resonant dynamic response may be significant, the structure
+           should be accurately represented (physically or analytically) in mass
+            distribution and  stiffness  in accordance with  established laws of
+           dimensional scaling and the effect of damping should be appropriately
+             reflected.
+          For buildings close to prismatic form and with     and       less
+           than 15, it may be assumed for the calculation of resonant (dynamic)            amplification of the wind responses that only the𝐻𝐻/𝐵𝐵lowest frequency𝐻𝐻/𝐷𝐷
+         modes in each lateral direction and in torsion (3 modes in total) need
+            to be considered.
+
+6.1.3    Topography Modelling
+              If the loading on a building may be significantly influenced by the
+            local  topography,  the  effect on  the wind  properties  should be
+            investigated by small-scale wind tunnel testing or established using
+             reliable published data.
+         The topography model should normally be equal to or larger than
+          1:5000 scale. If the topography model scale needs to be smaller than
+           1:5000, further considerations are elaborated in the Explanatory Notes
+            to the Code (EN).
+
+
+
+
+
+                                                                     Page 33
+
+
+===== PDF PAGE 44 =====
+The topography model should include the majority of the topographic
+            features likely to have a significant influence on the wind conditions
+             at the site.
+       A minimum of 18 wind directions at 20o intervals is necessary.
+         The topographic multiplier obtained from the measured wind profiles
+           of a topographic wind tunnel test can be calculated using the formula
+          below:
+                                                                                      2ൣ                  - Equation 6-1                              𝑆𝑆𝑡𝑡 = ቊ 𝑉𝑉𝑧𝑧൫1+3.7𝐼𝐼𝑣𝑣,𝑧𝑧൯൧𝑡𝑡𝑡𝑡𝑝𝑝𝑡𝑡𝑡𝑡𝑟𝑟𝑎𝑎𝑝𝑝ℎ𝑦𝑦𝑉𝑉𝑧𝑧൫1+3.7𝐼𝐼𝑣𝑣,𝑧𝑧൯൧𝑎𝑎𝑝𝑝𝑝𝑝𝑟𝑟𝑡𝑡𝑎𝑎𝑎𝑎ℎቋ         Where
+          “topography” means at the site from the topographic test
+          “approach” is from the wind profile approaching the test model and at
+            the same height above ground.
+
+6.1.4    Proximity Model
+              If the loading on a building is likely to be significantly influenced by
+            the presence of surrounding buildings or topographic features,  it is
+           necessary to include the models of these proximity features in the
+         wind tunnel testing.
+         The  proximity model  should  include  all  buildings which may
+            significantly affect windiness around the development. A general
+           guide is that the extent of the proximity model should normally be not
+             less than 400m radius from the site.
+         Where the local topography is too large to be sensibly accounted for in
+            the proximity model, its effects should be accounted for as described
+            in clause 6.1.3.
+       A minimum of 36 wind  directions  at 10o  intervals  is normally
+           necessary for pressures and loads.
+
+6.1.5    Model Scale Limitations
+         The geometric scale and velocity scale employed in the wind tunnel
+            testing should enable an appropriate level of model details to be
+           achieved and meet the requirements of a minimum Reynolds number.
+       A general guide is that the building model should normally be not
+           smaller than 1:500 in scale. For building models with sharp corners,
+            the Reynolds number based on the typical breadth of the building
+         model should not be less than 1x104.
+          For rounded shapes, this condition is not generally sufficient, and
+            further evidence of the suitability of the test conditions is required.
+           This may include larger scale testing to verify suitability of additional
+           surface  ‘trip’ features to ensure suitable turbulence in the surface
+          boundary layer over the model.
+
+
+
+                                                                     Page 34
+
+
+===== PDF PAGE 45 =====
+Measurements should be corrected appropriately  for wind tunnel
+           blockage, which may vary with wind direction.  Blockage during
+            testing should not normally be allowed to exceed 10%, including
+            effects of surrounding buildings. If the visual blockage exceeds 10%,
+          measurement evidence is required.
+
+6.1.6   Wind Profiles
+         The variations of hourly mean wind speed, turbulence intensity and
+            length-scales with height in the wind tunnel, with the proximity and
+              test model removed, should be similar (after being scaled up with
+           appropriate geometric scale and velocity scale) to the full-scale values
+           as assessed using the methods compatible with the Harris and Deaves
+          model, i.e. as described most fully by computer program ESDU 01008
+           issued by ESDU. Where the effect of topography is modelled in a
+            separate wind tunnel study  at a smaller  scale, the wind  profiles
+           determined from this should be used in matching to the building
+         model  tests,  noting  that  the wind  profile  in  Section 3  closely
+            represents an ESDU open sea profile.
+
+6.1.7    Requirement to Match Wind Pressures
+         The relationship below should be used to match the wind pressures of
+            the code.
+
+                                                                       - Equation 6-2                              ρ𝑎𝑎                 2         Where𝑄𝑄𝑧𝑧 = 𝑉𝑉𝑧𝑧൫12    + 3.7𝐼𝐼𝑣𝑣,𝑧𝑧൯൧
+                  is the target peak gust pressure
+                  is the hourly-mean matching speed  to be compared with the                  𝑄𝑄𝑧𝑧
+          approach wind tunnel wind speed profile with zero displacement                        𝑉𝑉𝑧𝑧height (e.g. as measured over a bare turntable)
+                   is the turbulence intensity in the wind tunnel            In𝐼𝐼𝑣𝑣,𝑧𝑧built-up terrain, the matching height,   should be taken at 150m
+             (full-scale) above the height of upwind surroundings (the effective            height)  or at 2/3 of the building height,𝑍𝑍,whichever is greater.  For
+          open terrain,   should be taken as 2/3 of the building height. In
+           intermediate circumstances both cases should be considered.                                   𝑍𝑍
+         At the matching height, peak gust pressure (converted to full-scale),
+            calculated by the equation above in the testing condition, should be
+           corrected to match the target peak gust pressure (full-scale) from
+           equation 3-1.
+         The requirements for calculating    from wind tunnel testing are
+           described in clause 6.1.3.                                                                                                𝑆𝑆𝑡𝑡
+
+
+
+
+                                                                     Page 35
+
+
+===== PDF PAGE 46 =====
+6.2     Target Reliability for Loads
+        Wind loads for structural design should correspond to the expected
+          peak response in one hour of exposure to ultimate wind pressures,
+            calculated by multiplying the code reference pressures by the wind
+            direction factor,    as introduced in clause 6.5.2 and by the wind load
+             factor,    from the relevant structural code of practice.                                             𝑆𝑆𝜃𝜃,                             𝛾𝛾𝑤𝑤,6.3     Additional Requirements for Cladding
+        Wind loads on cladding panels should be derived for typical panel
+             sizes, for example half-perimeter length of 2m to 5m, with an 80%
+          chance of non-exceedance in one hour. Wind loads for panel sizes
+            significantly larger, if they apply, may also be required for reduced
+         wind loads.
+            Internal pressures should be calculated from consideration of the
+          measured external pressures.
+
+6.4    Minimum Loads in Sheltered Locations
+         Where particular adjoining or surrounding buildings could provide
+            significant shelter (determined in Appendix A2 as the buildings that
+           provide most shelter in each wind direction), the effect on overall
+           building loads due to their possible removal should also be considered.
+        New buildings should resist a minimum of 80% of the load of the
+           Standard Method. This limitation can be relaxed to 70% of the along-
+         wind load of the Standard Method, if additional wind tunnel testing is
+          conducted with  significant  sheltering obstructions removed  (in a
+         Removal Testing Configuration) and the adopted wind loads are not
+          lower than 80% of the additional testing results.
+         The principle for removal of sheltering obstruction is that the building
+                 / building lot that provides the most significant sheltering (i.e. the
+          most beneficial building) in each wind direction should be considered
+            for removal.  The procedure for determining the most significant
+            sheltering obstruction is provided in Appendix A2.
+        New buildings beyond the scope of the Code should resist a minimum
+           of 80% of the load obtained from the Removal Testing Configuration.
+         The adopted wind loads should not be lower than 70% of the along-
+         wind load of the Standard Method.
+         The rule is demonstrated in Figure 6-1. Otherwise the maximum loads
+           with existing and likely future surroundings should be used.
+
+
+
+
+
+                                                                     Page 36
+
+
+===== PDF PAGE 47 =====
+Figure 6-1    Minimum adopted wind loads from a test
+
+
+6.5    Code Wind Pressures and Treatment of Wind
+        Directionality
+
+6.5.1    Use of Ultimate Wind Loads
+           Ultimate loads should be determined  directly using  directionally
+           adjusted speeds multiplied by         , and the loads should then be
+            calculated by dividing the ultimate loads by                                                  ඥ𝛾𝛾𝑤𝑤
+         The wind loads derived here are intended to be multiplied by the                                                                                     𝛾𝛾𝑤𝑤.
+           appropriate load factors, including    from the material codes.                                                                       𝛾𝛾𝑤𝑤,6.5.2     Directionality
+         The reference pressure can be adjusted to account for the reduced
+            probability of  strong winds from  various wind  directions using
+            directionality factors as noted in Appendix A1 for the Sector Method.
+            Alternatively,           can  be  used  for  forces  and  pressures
+           determined by using Storm Passage, Up-crossing, or similar methods.                                              𝑆𝑆𝜃𝜃 = 1.0
+6.5.3   Wind Pressure for Acceleration Calculation
+          For determination of building accelerations, the code pressures should
+          be adjusted to an appropriate return period using the return period
+            factors in Table A1-2 of Appendix A1.
+            Alternatively, the return period of accelerations can be calculated by
+           using combined directional probability methods (i.e.  Storm Passage
+           or Up-crossing) and using the resultant  (i.e. combined X, Y and
+            rotational) responses for all wind directions.
+
+
+
+
+
+                                                                     Page 37
+
+
+===== PDF PAGE 48 =====
+6.6     Requirements for Verification
+         Where wind tunnel  testing  is used  to  substantiate design  loads,
+             sufficient detail of the test conditions and results should be provided
+            to enable independent verification of applicability of the modelling.
+
+
+
+
+
+                                                                     Page 38
+
+
+===== PDF PAGE 49 =====
+Appendix A
+Supplementary Information
+for Section 3:
+Design Wind Pressures
+
+
+===== PDF PAGE 50 =====
+A1   Wind Climate
+
+A1.1   Wind Directionality
+         The reference pressure can be adjusted to account for the reduced
+            probability of strong winds from various wind directions using the
+            directionality factors in Table A1-1.
+          Table A1-1   Directionality factor on pressure, Sθ
+         Wind      Direction
+           Direction    factor,         N          0.82 𝑺𝑺𝜽𝜽
+         NE         0.84
+           E          0.85
+           SE         0.85
+            S          0.85
+        SW         0.84
+       W          0.82
+       NW         0.80
+
+
+         The   value between any of the eight directions in Table A1-1 can be
+           obtained by linear interpolation.  The maximum   value in the 90o           studied𝑆𝑆𝜃𝜃 sector should be adopted when using the Standard Method.                                                                                                           𝑆𝑆𝜃𝜃
+         The directionality factor does not apply to circular buildings.  For
+            circular buildings,        should be used.                                                    𝑆𝑆𝜃𝜃 = 1A1.2   Wind Pressure with Selected Return Periods for
+        Acceleration Calculation
+          For  determination  of  building  accelerations,  the wind  reference
+           pressure should be adjusted to the appropriate return period using the
+            return period factors in Table A1-2.
+          Table A1-2  Return period factor on pressure, Sr
+
+         Return Period,   Return Period
+        R (years)        Factor,               1               0.25 𝑺𝑺𝒓𝒓
+              10              0.55
+
+
+
+
+
+                                                                     Page A1
+
+
+===== PDF PAGE 51 =====
+A2    Exposure Adjustment for Direct Shelter
+
+          For use with the Standard Method of the Code, the effects of direct
+            shelter from other buildings surrounding a  site can be taken into
+           account by using a reduced height, i.e. the effective height,     , for
+            calculation of wind reference pressure, turbulence intensity, and force             coefficient.                                                                                         𝑍𝑍𝑝𝑝
+         The effective height,     , is taken as the maximum of         and
+                 where     is the height of reduction and may be taken as zero           or as the minimum of the𝑍𝑍𝑝𝑝 following:                           (𝑍𝑍 − 𝐻𝐻𝑑𝑑)             (0.25𝑍𝑍),           𝐻𝐻𝑑𝑑
+             (a)                                              -  Equation A2-1
+            (b)                                             -  Equation A2-2                    0.8𝐻𝐻𝑝𝑝
+             (c)                                              -  Equation A2-3                    1.2𝐻𝐻𝑝𝑝 − 0.2𝑋𝑋𝑝𝑝 𝑏𝑏𝑏𝑏𝑒𝑒 ≥ 0
+         Where               0.75𝐻𝐻
+                          is the actual building height of the proposed building
+                          is the height of obstructing building above ground level                𝐻𝐻
+                     within ±45 degrees of the considered wind direction (Figure                          𝐻𝐻𝑝𝑝     A2-1).     is taken as less than or equal to
+                          is the horizontal distance from the upwind edge of the                                                    𝐻𝐻𝑝𝑝                                       𝐻𝐻.
+                   proposed building to the obstructing building (Figure A2-2).                           𝑋𝑋𝑝𝑝       It is sufficient to consider buildings within a distance    less
+                     than 6 times the proposed building height.                                                                                                                                              𝑋𝑋𝑝𝑝
+              If there  is only one obstructing building, no sheltering  effect  is
+           allowed.  If there are two or more obstructing buildings in the upwind
+            direction, the reduction in height can be calculated for the building
+          which provide the second-most sheltering effect in that direction.
+           Figure A2-3 can be used to determine the most and the second most
+            obstructing buildings.  The largest and the second largest        are
+           taken as the following:                                                                                                    𝐻𝐻𝑑𝑑. 𝑍𝑍𝑝𝑝
+                              for                        -  Equation A2-4a
+                             for                          -  Equation A2-4b                         𝑍𝑍𝑝𝑝 = 𝑍𝑍 − 𝐻𝐻𝑑𝑑,      𝑍𝑍 ≥ 1.33𝐻𝐻𝑑𝑑
+         Where the surround building heights vary across a sector of ±45                         𝑍𝑍𝑝𝑝 = 0.25𝑍𝑍,      𝑍𝑍 < 1.33𝐻𝐻𝑑𝑑
+           degrees of the considered wind direction,    should be taken as the
+          weighted average value across the sector calculated as shown in           Figure A2-4 with the effective height in𝐻𝐻𝑑𝑑each division calculated
+           following the rule in the above paragraphs.  For ease of calculation,
+          each sector may be divided into not less than 4 equal divisions.
+
+
+
+
+
+                                                                     Page A2
+
+
+===== PDF PAGE 52 =====
+The obstructing building height should be the actual height of that
+          building or the reduced height of that building calculated from the
+         base  level  of  the  proposed  building,  whichever  gives  smaller
+           sheltering effect. The details are discussed in the Explanatory Notes.
+
+
+
+
+
+Figure A2-1    Plan showing ±45 degrees of the considered wind direction
+
+
+
+
+
+          Figure A2-2     Definition of Hi and Xi (on elevation)
+
+
+
+
+
+                                                                    Page A3
+
+
+===== PDF PAGE 53 =====
+Figure A2-3    Variation of Hdi/H with Xi/H and Hi/H
+
+
+
+
+
+Figure A2-4    Variation of building height across sector (a demonstration
+                 case on plan with four unequal divisions)
+
+
+
+
+
+                                                                    Page A4
+
+
+===== PDF PAGE 54 =====
+A3    Topographic Multiplier
+
+          For use of topographic multiplier with the Standard Method,   can be
+            calculated as below.  The method below  for  calculation of  the           topographic multiplier is applicable to hills and ridges, or cliffs𝑆𝑆𝑡𝑡   and
+           escarpments, which, for the cross-section considered, may be taken
+           reasonably as 2-dimensional.
+          For  the  purpose  of  this  Code,  local  topography  is  considered
+            significant when           and when a site  is located within the
+          topography significant zone as shown in Figure A3-1(a) and Figure          A3-1(b) and as defined𝜓𝜓𝑢𝑢 > below:0.05
+             (a)
+            (b)   For sites on the downwind slope where                          𝑍𝑍𝑡𝑡⁄𝐻𝐻𝑡𝑡 ≥ 0.5
+         Where the following definitions of topographic form are applicable:                                                                                                    𝑋𝑋𝑡𝑡 < 1.5 𝐻𝐻𝑡𝑡⁄𝜓𝜓𝑝𝑝
+
+                           is the maximum slope for a quarter of the hill-height in the
+                     top half of the hill on the windward side                  𝜓𝜓𝑢𝑢         is the minimum of    or 0.3
+                           is the height of the  hill from the windward side above                   𝜓𝜓𝑝𝑝       surrounding ground𝜓𝜓𝑢𝑢with a mean slope of less than or equal                    𝐻𝐻𝑡𝑡        to 5%
+                           is the height of the highest part of the site measured from
+                      the same datum as     . (i.e.           )                       𝑍𝑍𝑡𝑡         is the distance to the site downwind from the crest of the                            hill, when applicable𝐻𝐻𝑡𝑡           𝑍𝑍𝑡𝑡 ≤ 𝐻𝐻𝑡𝑡                      𝑋𝑋𝑡𝑡
+
+
+
+
+
+                                                                     Page A5
+
+
+===== PDF PAGE 55 =====
+ridges
+
+  /apply;
+     apply.hills
+colour  for     colour         value             ridgesorange   blue
+in  in            smaller       and                        hills     the
+               for
+     usedimensions         dimensions
+         side,side,    side,                                                 dimensionsupwind              downwindthedownwind         escarpments.
+
+   /     theonon
+    on                                                      topographicsite𝑠𝑠site     cliffs
+ForForForand   of
+                                                 Definition
+                                  A3-1(a)
+                             Figure
+
+
+
+
+
+              Page A6
+
+
+===== PDF PAGE 56 =====
+/apply;
+         hills     apply.
+     forcolour     colour         valueorange   blue
+in  in            smaller                                                             escarpments
+     the
+                 and     usedimensions         dimensions
+                                 cliffs         side,side,    side,                 for       wind                                escarpments.
+
+   /upwind       downthedownwind     cliffs     the                            dimensions
+onon  and    on
+site𝑠𝑠site
+ForForForridges                                                             topographic
+           of
+                                                        Definition
+                                       A3-1(b)
+                                 Figure
+
+
+
+
+
+             Page A7
+
+
+===== PDF PAGE 57 =====
+If a topographic adjustment is not required, then
+
+
+          Otherwise,       ,  the  topographic  multiplier  of wind  pressure,  is                                           𝑆𝑆𝑡𝑡 = 1.0
+           calculated as below:                                              𝑆𝑆𝑡𝑡
+                                             -   Equation A3-1                           2                                    2𝜓𝜓𝑒𝑒𝑏𝑏                                 1+3.7𝐼𝐼𝑣𝑣,𝑧𝑧                  𝑆𝑆𝑡𝑡 = ൤1 +                             ൨
+        Where
+                          is    the   topographic    location    factor   given    in
+                    Figures A3-2(a, b or c) or calculated with the Equations                  𝑠𝑠       A3-2 to A3-11.
+                   and    should be calculated at height,
+               may be taken as     in Equations 3-3 or 3-4.                                     𝑠𝑠           𝐼𝐼𝑣𝑣,𝑧𝑧                                           𝑍𝑍 = 2/3𝐻𝐻                        𝐼𝐼𝑣𝑣,𝑧𝑧                                                      𝐼𝐼𝑜𝑜,𝑧𝑧
+
+
+
+
+
+Figure A3-2(a)  Topographic location factor, s, for upwind section for both
+  hills / ridges and cliffs / escarpments (significant zone in orange colour in
+                  Figure A3-1(a) and Figure A3-1(b))
+
+
+
+
+
+                                                                    Page A8
+
+
+===== PDF PAGE 58 =====
+Figure A3-2(b) Topographic location factor, s, for downwind section for
+      hills and ridges (significant zone in blue colour in Figure A3-1(a))
+
+
+
+
+
+ Figure A3-2(c)  Topographic location factor, s, for downwind section for
+cliffs and escarpments (significant zone in blue colour as defined in A3-1(b))
+
+
+
+
+
+                                                                    Page A9
+
+
+===== PDF PAGE 59 =====
+(a) For upwind section for both hills  / ridges, and cliffs  / escarpments
+     (significant zone in orange colour in Figure A3-1), if the following
+    conditions:
+
+                  and       0.5 ≤ 𝐻𝐻𝑡𝑡𝑍𝑍𝑡𝑡 ≤ 1.0    0 ≤ 𝑍𝑍𝜓𝜓𝑒𝑒𝐻𝐻𝑡𝑡 ≤ 2.0
+    are satisfied,   shall be calculated as:                              𝑠𝑠
+                                                               -   Equation A3-2                        ቂ−𝐾𝐾𝑏𝑏2ቀ1−𝐻𝐻𝑒𝑒𝑍𝑍𝑒𝑒 ቁቃ             𝑠𝑠 = 𝐾𝐾𝑏𝑏1 · 𝑒𝑒   Where                                 4                3                2                   𝐾𝐾𝑢𝑢1 = 0.1552 ቀ𝑍𝑍𝜓𝜓𝑒𝑒𝐻𝐻𝑡𝑡 ቁ − 0.8575 ቀ𝑍𝑍𝜓𝜓𝑒𝑒𝐻𝐻𝑡𝑡 ቁ + 1.8133 ቀ𝑍𝑍𝜓𝜓𝑒𝑒𝐻𝐻𝑡𝑡 ቁ                                                     𝑍𝑍𝜓𝜓𝑒𝑒
+                                                               -   Equation A3-3              −1.9115 ቀ  𝐻𝐻𝑡𝑡 ቁ + 1.0124
+                                  2                                            𝑍𝑍𝜓𝜓𝑝𝑝                     𝑍𝑍𝜓𝜓𝑝𝑝               𝐾𝐾u2 = 0.3542 ൬  ൰− 1.0577 ൬    ൰ +-2.6465Equation A3-4                                                  𝐻𝐻𝑡𝑡                          𝐻𝐻𝑡𝑡
+    Otherwise,  = 0.                           𝑠𝑠
+(b) For downwind section for hills and ridges (significant zone in blue
+    colour), if following conditions:
+
+                  and       0.5 ≤ 𝐻𝐻𝑡𝑡𝑍𝑍𝑡𝑡 ≤ 1.0    0 ≤ 𝑍𝑍𝜓𝜓𝑒𝑒𝐻𝐻𝑡𝑡 ≤ 2.0
+    are satisfied,   shall be calculated as:                              𝑠𝑠
+                                                               -   Equation A3-5                                                         𝐻𝐻𝑡𝑡               𝑠𝑠 = 𝐾𝐾𝑑𝑑1 · 𝑒𝑒 ൤𝐾𝐾𝑑𝑑2൬1−𝑍𝑍𝑡𝑡൰൨
+    Where                                  4                3                2                   𝐾𝐾𝑑𝑑1 = 0.1552 ቀ𝑍𝑍𝜓𝜓𝑒𝑒𝐻𝐻𝑡𝑡 ቁ − 0.8575 ቀ𝑍𝑍𝜓𝜓𝑒𝑒𝐻𝐻𝑡𝑡 ቁ + 1.8133 ቀ𝑍𝑍𝜓𝜓𝑒𝑒𝐻𝐻𝑡𝑡 ቁ                −1.9115 ቀ𝑍𝑍𝜓𝜓𝑒𝑒𝐻𝐻𝑡𝑡 ቁ + 1.0124                                                               -   Equation A3-6
+                                2                                         𝑍𝑍𝜓𝜓𝑝𝑝                     𝑍𝑍𝜓𝜓𝑝𝑝              𝐾𝐾𝑑𝑑2 = −0.3056 ൬    ൰ + 1.0212 ൬  ൰− 1.7637                                               𝐻𝐻𝑡𝑡                          𝐻𝐻𝑡𝑡        -   Equation A3-7
+    Otherwise,  = 0.                           𝑠𝑠
+
+
+
+
+
+                                                             Page A10
+
+
+===== PDF PAGE 60 =====
+(c) For downwind section for cliffs and escarpments only (significant
+    zone in blue colour), if following conditions:
+
+                   and                          𝑋𝑋𝑡𝑡𝜓𝜓𝑒𝑒                              𝑍𝑍𝜓𝜓𝑒𝑒    are 0satisfied,<    𝐻𝐻𝑡𝑡 ≤the3.5equations0 < below𝐻𝐻𝑡𝑡 ≤ 2.0should be used to calculate the value,
+       taking    ≥ 0.1 and        𝑠𝑠,                𝑋𝑋𝑡𝑡𝜓𝜓𝑒𝑒𝐻𝐻𝑡𝑡                      𝑧𝑧𝜓𝜓𝑒𝑒𝐻𝐻𝑡𝑡 ≥ 0.1                                2                                         𝑋𝑋𝑡𝑡𝜓𝜓𝑝𝑝                             𝑋𝑋𝑡𝑡𝜓𝜓𝑝𝑝                 𝑠𝑠 = 𝐾𝐾𝑝𝑝1 ൤log10 ൬     ൰൨ + 𝐾𝐾𝑝𝑝2 ൤log10 ൬     ൰൨-+ 𝐾𝐾𝑝𝑝3Equation A3-8                                             𝐻𝐻𝑡𝑡                                  𝐻𝐻𝑡𝑡
+
+    Where                                          3                       2                    𝐾𝐾𝑝𝑝1 = −1.3420 ቂlog10 ቀ𝑍𝑍𝜓𝜓𝑒𝑒𝐻𝐻𝑡𝑡 ቁቃ − 0.8222 ቂlog10 ቀ𝑍𝑍𝜓𝜓𝑒𝑒𝐻𝐻𝑡𝑡 ቁቃ                                                       𝑍𝑍𝜓𝜓𝑝𝑝                +0.4609 log10 ൬  ൰− 0.0791   -   Equation A3-9                                                               𝐻𝐻𝑡𝑡
+                                            3                        2                                                         𝑍𝑍𝜓𝜓𝑝𝑝                                𝑍𝑍𝜓𝜓𝑝𝑝                     𝐾𝐾𝑝𝑝2 = −1.0196 ൤log10 ൬  ൰൨− 0.8910 ൤log10 ൬    ൰൨                                                                 𝐻𝐻𝑡𝑡                                       𝐻𝐻𝑡𝑡                +0.5343 log10 ቀ𝑍𝑍𝜓𝜓𝑒𝑒ቁ𝐻𝐻𝑡𝑡 − 0.1156    -   Equation A3-10
+                                         3                       2                    𝐾𝐾𝑝𝑝3 = 0.8030 ቂlog10 ቀ𝑍𝑍𝜓𝜓𝑒𝑒𝐻𝐻𝑡𝑡 ቁቃ + 0.4236 ቂlog10 ቀ𝑍𝑍𝜓𝜓𝑒𝑒ቁቃ𝐻𝐻𝑡𝑡                −0.5738 log10 ቀ𝑍𝑍𝜓𝜓𝑒𝑒ቁ𝐻𝐻𝑡𝑡 + 0.1606    -   Equation A3-11
+
+For the range                the formula above should be used by taking           0 < ZψeHt < 0.1,Zψe
+For Ht =the0.1.range                    linear interpolation of  should be made                 Xtψe
+between the values of   at the crest of the  hill,   (0), calculated using           0 <  Ht < 0.1,                                               𝑠𝑠formula in Section (a), and that of       in an escarpment in this section                                              𝑠𝑠                                                  𝑠𝑠by taking         Xtψe                         𝑠𝑠(0.1)Downwind Htof =the0.1.hill crest, the lower value of   for hills and ridges, or
+  for cliffs and escarpments should be used.                                                                                      𝑠𝑠If𝑠𝑠 the condition                 or              does not apply, it should                                             𝑋𝑋𝑡𝑡𝜓𝜓𝑒𝑒                           𝑍𝑍𝜓𝜓𝑒𝑒
+take  = 0.             0 <    𝐻𝐻𝑡𝑡 ≤ 3.5   0 <   𝐻𝐻𝑡𝑡 ≤ 2.0,         𝑠𝑠
+
+
+
+
+
+                                                             Page A11
+
+
+===== PDF PAGE 61 =====
+Appendix B
+Supplementary Information
+for Section 4:
+Force and Pressure Coefficients
+
+
+===== PDF PAGE 62 =====
+B1    Pressure Coefficients for Building Envelope
+       with Dominant Openings
+
+B1.1    Definition of Dominant Opening
+       A dominant opening occurs if the opening area,                       , where
+                   Area of the largest opening, or sum of areas of openings of                                                                                            𝐴𝐴𝑜𝑜 > 1.5𝐴𝐴𝑡𝑡𝑜𝑜𝑡𝑡
+                       similar  sizes and  within  the same  or  similar  pressure                       𝐴𝐴𝑜𝑜    zone/zones on the same building face
+               Sum of areas of openings on other faces, including leakage.
+                 The leakage contribution to       is defined as 0.1% of the                             𝐴𝐴𝑡𝑡𝑜𝑜𝑡𝑡    total external surface area of the other surfaces. Other                  numbers may be used with𝐴𝐴𝑡𝑡𝑜𝑜𝑡𝑡justification and  specialist
+                     advice may be sought.
+         Where openings that are not dominant the internal pressures may be
+            calculated from consideration of the balance of airflow.  See the
+           Explanatory Notes.
+
+B1.2   External  Pressure  Coefficients  for  Building
+       Envelope
+          For buildings with rectangular corners in plan, the external pressure
+            coefficients for the building envelope are given in Table B1-1.
+         Zone definitions are given in Figure 4-6(a) and Figure 4-6(b).  For
+           buildings with plan shape other than simple rectangles, the zone
+            definitions can be referred to the Explanatory Notes.
+          Table B1-1   External pressure coefficients for building envelope
+                      with dominant openings, Cpe
+
+             Case                                  Zones applicable
+                                   Negative pressure                                                A                 -1.2𝑪𝑪𝒑𝒑𝒆𝒆                                          in edge zone
+                                   Negative pressure              Wall                                     B                 -0.8                                  elsewhere
+                                        Positive pressure        A & B             +0.8
+                                   Negative pressure                                                     C                 -2.0                                          in corner zone
+                                   Negative pressure                 Flat roof or roof                         D                 -1.4                                          in edge zone               pitch less than 30
+                                   Negative pressure              degrees                                      E                  -0.8                                  elsewhere
+                                        Positive pressure           C, D, E              0.0
+              Pitched roof greater   Negative pressure                                                     C                 -1.2             than 60 degrees        in corner zone
+
+
+
+                                                                     Page B1
+
+
+===== PDF PAGE 63 =====
+Negative pressure                                              D                 -1.2                                          in edge zone
+                                   Negative pressure                                                          E                  -0.8                                  elsewhere
+                                        Positive pressure           C, D, E             +0.8
+
+             Notes:
+                (a)    should be used for the external pressure calculation.
+               (b) The size factor,     , depends on the tributary area (structural span of                    𝑄𝑄ℎ
+                the panel) and may be larger than 1.0.                                                                 𝑆𝑆𝑏𝑏
+                 (c) Cladding pressures can be reduced by 20%, below a height of
+
+               (d) Where there are significant steps in building form, i.e. podiums,                  0.5(𝐻𝐻 − 𝐻𝐻𝑝𝑝).
+                 reference  height  for tower and podium  in  Figure  4.6(a) and
+                 Figure 4.6(b) should be followed.
+               (e) Linear interpolation is allowed for pitch angles between 30 and 60
+                 degrees.
+                   (f)  Pressure coefficients for roofs of low-rise construction can also be
+                obtained from reliable published sources.
+                (g) The net pressure coefficients of Table 4-1 can be obtained from the
+               above by considering internal pressure coefficients of +0.2 and -0.3.
+
+B1.3    Internal  Pressure  Coefficients  for  Building
+       Envelope with Dominant Openings
+            Internal pressure coefficients for buildings with dominant openings
+            are given in Table B1-2.
+          Table B1-2   Internal pressure coefficients for building envelope
+                      with dominant openings, Cpi
+
+             Case                1.  Dominant opening cases (See B1.1                                       𝑪𝑪𝒑𝒑𝒑𝒑                    for definition of   and      )                                               𝐶𝐶𝑝𝑝𝑝𝑝                                                                                  2                                                                                                                                                     𝐴𝐴𝑡𝑡𝑜𝑜𝑡𝑡                                                        𝐴𝐴𝑜𝑜          𝐴𝐴𝑡𝑡𝑜𝑜𝑡𝑡                2.  Cases with opening/openings                                            not               ൤1 + ቀ 𝐴𝐴𝑜𝑜 ቁ ൨
+                    qualified as dominant opening           See the Explanatory Notes.
+                  cases
+             Notes:
+                (a) Internal pressure coefficients should be adopted in combination with
+                the  external  coefficients  to  generate  the  worst  net  pressure
+                   coefficients.
+               (b) The reference height for calculating internal pressure should be
+                taken as that for calculating external pressure at the same location.
+
+
+
+
+
+                                                                     Page B2
+
+
+===== PDF PAGE 64 =====
+Figures B1-1 to B1-4 describe combinations of external and internal
+          pressures to be considered.
+
+
+
+
+
+Figure B1-1   Wind pressure on external walls due to dominant opening
+
+
+
+
+
+                                                                   Page B3
+
+
+===== PDF PAGE 65 =====
+Figure B1-2   Wind pressure on internal walls due to dominant opening
+                         not located in corner
+
+
+
+
+
+Figure B1-3   Wind pressure on internal walls due to dominant opening
+                        located in upwind corner
+
+
+
+
+
+                                                                   Page B4
+
+
+===== PDF PAGE 66 =====
+Figure B1-4   Wind pressure on internal walls due to dominant opening
+                       located in downwind corner
+
+
+
+
+
+                                                                   Page B5
+
+
+===== PDF PAGE 67 =====
+B2    Pressure    Coefficients    for    Building
+      Attachments
+
+B2.1   Sunshades, Architectural Fins and Signboards
+          Net pressure coefficients, Cp, for calculating the net wind loads on
+           sunshades, architectural fins and signboards attached to the walls of
+           buildings are given in Table B2-1.
+            Effect on overall structural forces should refer to Section 4.
+          Table B2-1  Net    pressure    coefficients    for    sunshades,
+                         architectural fins and signboards
+
+                                                 At Edge Zones      Other Zones                           Case                                                        of Building          of Building
+                1.   Directly attached to facade               ±1.8                ±0.9
+
+                2.  Spaced away from facade*               ±3.0                ±1.5
+            * When the gap between the element and the façade is less than 2/3 of the
+            element width, the load can be taken as Case 1, assuming that the gap is
+               closed.  Resulting load should be applied at the centre of the area.  See
+              Figure B2-1(d) and Figure B2-1(e).
+
+             Notes:
+                (a)    should be used for the net pressure calculation.
+               (b) Figure B2-1(c) provides edge zone definitions.                    𝑄𝑄ℎ
+                (c)  It should take   = 1.0.
+               (d) Pressures can be reduced by 20%, below a height of                                                              𝑆𝑆𝑏𝑏
+               (e) For  Case  2,                                                         ,  whichever  is  of                                                                      0.5(𝐻𝐻 − 𝐻𝐻𝑝𝑝).
+                 smaller  magnitude  should  be  used. See  Figure  B2-1(d) and                                                            𝐶𝐶𝑝𝑝−𝑐𝑐𝑏𝑏𝑏𝑏𝑝𝑝1 × 𝐴𝐴𝑔𝑔𝑟𝑟𝑜𝑜𝑏𝑏𝑏𝑏 𝐿𝐿𝑟𝑟 𝐶𝐶𝑝𝑝−𝑐𝑐𝑏𝑏𝑏𝑏𝑝𝑝2 × 𝐴𝐴𝑛𝑛𝑝𝑝𝑡𝑡                 Figure B2-1(e).
+
+
+
+
+
+                                                                     Page B6
+
+
+===== PDF PAGE 68 =====
+Case 1: Horizontal / vertical arrangement       Case 2: Horizontal / vertical arrangement
+       (directly attached to facade)                   (spaced away from facade)
+        Figure B2-1(a)                      Figure B2-1(b)
+
+
+
+
+
+       Figure B2-1(c) Zone definition (b is the smaller value of B and 2H)
+
+
+
+
+
+          Figure B2-1(d)                         Figure B2-1(e)
+    Figure B2-1    Sunshades, architectural fins and signboards
+
+
+
+
+
+                                                                  Page B7
+
+
+===== PDF PAGE 69 =====
+B2.2    Balconies
+       A net pressure coefficient, Cp, for balcony walls, slabs and balustrades
+              is given in Table B2-2.  This coefficient is referenced to the pressure
+             at the roof height of the building to which the balconies are attached.
+          Table B2-2  Net pressure coefficients for balcony slabs, balcony
+                        walls and balustrades, Cp
+           Location                          Cp
+              balcony walls and balustrades   ±1.8
+
+              balcony slabs                  +0.9 and -1.8
+            Notes:
+               (a)    should be used as reference pressure and   = 1.0
+                should be taken.                   𝑄𝑄ℎ                                                                                          𝑆𝑆𝑏𝑏
+               (b) Pressures can be reduced by 20%, below a height of
+                     0.5(𝐻𝐻-𝐻𝐻𝑝𝑝).
+B2.3   Canopies Attached to Buildings
+          For canopies attached below half-way up the building
+          and below a height of twice the canopy projection the net pressure            coefficients can be taken as + 0.9 and -1.3.    should(ℎ/𝐻𝐻be used< 0.5)as
+           reference pressure. Positive pressures act downwards.                                                                  𝑄𝑄ℎ
+
+
+
+
+
+                                                                     Page B8
+
+
+===== PDF PAGE 70 =====
+B3    Pressure   Coefficient   for  Free-standing
+      Walls
+
+          For free-standing walls and parapets, the net pressure coefficient Cp
+            for Zones A, B, C and D (indicated on Figure B3-1) are given in
+          Table B3-1.
+          Values are given in Table B3-1 for two different solidity ratios. The
+           reference area in both cases is the gross area.  Linear interpolation
+        may be used for solidity ratios between 0.8 and 1.
+          Table B3-1  Net pressure coefficient for free-standing walls
+
+                Solidity             Zone            A       B       C     D
+
+                                                            2.3       1.4       1.2                        Without return     𝑙𝑙/ℎ ≤ 3                                                            2.9       1.8       1.4      1.2                              corners                                                        𝑙𝑙/ℎ = 5
+                                                            3.4       2.1       1.7      1.2                    𝜑𝜑 = 1                                                       𝑙𝑙/ℎ ≥ 10
+                       With return corners of length                                                                            (a)                2.1       1.8       1.4      1.2                     ≥ ℎ
+                                             All cases               1.2       1.2       1.2      1.2                 𝜑𝜑 = 0.8(b)
+            Notes:
+              (a) Linear interpolation may be used for return corner lengths between
+             0 and
+              (b) Use Table 4-2 for open frameworks, if solidity ratio                      ℎ.                                    < 0.8.
+         The reference height for calculation of pressures on free-standing
+           walls and building parapets is the top height of the wall above ground
+             level. For a wall cantilevering from a continuous base, the size factor
+           should be calculated using              In other cases, the relevant
+            tributary area should be used.                                                          𝐿𝐿0.5𝑝𝑝 = 2ℎ.
+
+
+
+
+
+                                                                     Page B9
+
+
+===== PDF PAGE 71 =====
+Figure B3-1    Pressure zone definition for free-standing walls
+
+
+
+
+
+                                                             Page B10
+
+
+===== PDF PAGE 72 =====
+Appendix C
+Supplementary Information
+for Section 5: Size Factor
+and Size and Dynamic
+Factor
+
+
+===== PDF PAGE 73 =====
+C1    Equations for Calculation of Size Factor
+
+         The size factor,    depends on the loaded area and is defined by the
+            half-perimeter of the area,      as shown in Figure 5-2. Alternatively,                                                  𝑆𝑆𝑠𝑠,           may be calculated using the formulas below:                                                           𝐿𝐿0.5𝑝𝑝
+         Other zones and for Overall Wind Loads                     𝑆𝑆𝑠𝑠,
+                                                                     -   Equation C1-1a         Edge𝑆𝑆𝑏𝑏=𝐿𝐿0.5𝑝𝑝zones if= 𝐸𝐸𝑥𝑥𝑝𝑝൫0.17< 15m− 0.07 𝐿𝐿0.5𝑝𝑝 0.32൯                                        𝐿𝐿0.5𝑝𝑝                                -   Equation C1-1b         Corner𝑆𝑆𝑏𝑏=𝐿𝐿0.5𝑝𝑝zones=if1.3 − log𝑛𝑛൫𝐿𝐿0.5𝑝𝑝൯15m     /9.0 > 1.0                                       𝐿𝐿0.5𝑝𝑝<                           -   Equation C1-1c                              𝑆𝑆𝑏𝑏=𝐿𝐿0.5𝑝𝑝 = 1.5 − log𝑛𝑛(𝐿𝐿0.5𝑝𝑝) /5.4 > 1.0
+         Where
+
+                          size factor depending on the half-perimeter length,
+                        of the loaded area (this may be greater than 1.0 for small                       𝑆𝑆𝑏𝑏          elements)                                                            𝐿𝐿0.5𝑝𝑝,
+
+                         half-perimeter length around a tributary area                 𝐿𝐿0.5𝑝𝑝
+
+
+
+
+
+                                                                     Page C1
+
+
+===== PDF PAGE 74 =====
+C2   Damping of Buildings and Other Structures
+
+          Values of damping used in assessment of dynamic responses should
+          be established from reliable measurements from similar structures.
+         The tables below give damping ratios of the fundamental mode for
+            typical  buildings.    For  composite  steel/concrete  constructions,
+           intermediate values should be used.
+          For particularly slender buildings, lower values may be appropriate
+          and specialist advice should be sought.
+         The aspect ratio should be calculated from the overall structural depth
+           of the building in the direction of vibration. The aspect ratio for the
+          purpose of assessing the damping, is the total tower height, above
+           foundation level divided by the dimension of the tower lateral load
+             resisting structure in the direction of the vibration.  If there are plan
+            set-backs, the aspect ratio shall also be checked with height above the
+           set-back divided by the overall structural depth above the set-back and
+            the largest value shall be used. Towers constructed on shared podium
+            slabs shall be similarly checked above podium level.
+          Table C2-1  Damping ratio for typical RC buildings, ξx , ξy
+
+                         Recommended         Tentative damping
+           Aspect ratio     damping ratio for        ratio for structural
+            in the direction       accelerations                loads
+             of vibration    Maximum damping    Maximum damping
+                                        ratio                      ratio
+              ≥ 8                 0.010                    0.015
+                7                  0.011                    0.017
+                6                  0.013                    0.020
+                5                  0.016                    0.024
+                                    0.020                    0.030          Table C2-2<4   Damping ratio for typical steel buildings, ξx , ξy
+
+                         Recommended         Tentative damping
+           Aspect ratio     damping ratio for        ratio for structural
+            in the direction       accelerations                loads
+             of vibration    Maximum damping    Maximum damping
+                                        ratio                      ratio
+              ≥ 8                 0.005                    0.008
+                7                  0.006                    0.009
+                6                  0.007                    0.010
+                5                  0.008                    0.012
+                                    0.010                    0.015            <4
+
+
+
+                                                                     Page C2

@@ -1,0 +1,1644 @@
+
+
+===== PDF PAGE 1 =====
+2011
+( 2021 Edition )
+
+
+===== PDF PAGE 2 =====
+Code of Practice for
+Dead and Imposed Loads
+
+         2011
+
+     (2021 Edition)
+
+
+
+
+
+                                              i
+
+
+===== PDF PAGE 3 =====
+FOREWORD
+
+The Code of Practice for Dead and Imposed Loads 2011 (the Code), provides guidelines on determination
+of dead loads and minimum imposed loads for design of building, building works, street and street works.
+Floor uses and corresponding minimum imposed loads stipulated in the Building (Construction)
+Regulation are also included in the tables in Section 3 of the Code for easy reference.
+
+Although provisions in the Code are not statutory save those that are quoted from the Building
+(Construction) Regulation, compliance with the requirements of the Code is deemed to satisfy the relevant
+provisions of the Buildings Ordinance and the related regulations.
+
+The Code was finalised by a Review Committee, and was prepared by the Buildings Department (BD) on
+the basis of the consultancy study on the Minimum Design Loads for Buildings and Streets commissioned
+by BD and overseen by a Steering Committee comprising members from the academia, professional
+institutions and relevant Government departments.
+
+The contribution and the effort given by members of the Steering Committee and the Review Committee
+are sincerely acknowledged.
+
+The Code of Practice for Dead and Imposed Loads 2011 (2021 Edition) incorporates amendments made
+in March 2014, August 2016 and December 2020 since its first publication in May 2011 as summarised
+below:
+
+             Date of Amendment                        Reference
+                                                https://www.bd.gov.hk/doc/en/resources/c
+         7 March 2014 by circular letter          odes-and-references/code-and-design-
+               (2014 Corrigenda)              manuals/OldVersions/CoP_DILov.zip
+
+
+         26 August 2016 by circular letter
+              (2016 Amendments)
+
+
+
+        2 December 2020 by circular letter
+              (2020 Amendments)
+
+
+
+The Code and  its 2021 edition are available  for viewing in the Buildings Department website
+www.bd.gov.hk under the “Codes, design manuals and guidelines” page of the “Resources” section.  It
+may be downloaded subject to the terms and conditions stipulated in the website.
+
+
+
+
+First Issue      : May 2011
+
+This revision  : July 2021
+
+
+
+
+
+                                                                          ii
+
+
+===== PDF PAGE 4 =====
+CONTENTS
+
+ 1  GENERAL
+
+      1.1    Scope .......................................................................................................... 1
+
+      1.2    Symbols ...................................................................................................... 1
+
+
+2   DEAD LOADS
+
+      2.1        General........................................................................................................ 2
+
+      2.2     Determination of Dead Loads ...................................................................... 2
+
+
+3   IMPOSED LOADS
+
+      3.1        General........................................................................................................ 4
+
+      3.2     Class 1 to 5: Imposed Loads for Domestic,  Office,  Social,
+            Commercial, Administration and Industrial Floor Uses ................................ 4
+
+      3.3     Class 6: Imposed Loads for Vehicular Traffic and Parking Areas. ................ 8
+
+      3.4     Class 7: Imposed Loads for Roofs.............................................................. 11
+
+      3.5     Class 8: Imposed Loads for Affiliated Building Elements .......................... 12
+
+      3.6     Partitions (positions of which are not indicated on building plan). .............. 13
+
+      3.7     Reduction of Distributed Imposed Loads on Beams and Vertical
+           Members ................................................................................................... 13
+
+      3.8     Horizontal Imposed Loads on Protective Barriers....................................... 14
+
+      3.9     Surcharges and Lateral Loads on Earth Retaining Structures ...................... 17
+
+      3.10   Dynamic Loads ......................................................................................... 17
+
+      3.11    Notice as to Load....................................................................................... 18
+
+
+4   IMPOSED LOADS NOT PRESCRIBED IN THIS CODE
+
+      4.1        General...................................................................................................... 19
+
+      4.2    Approaches ............................................................................................... 19
+
+
+APPENDICES
+
+Appendix A  Densities of Materials ................................................................................. 20
+
+Appendix B  Examples of Loaded Lengths for Different Structural Design
+
+             Parameters for Area Class 6B, 6C and 6D....................................................21
+
+Appendix C  Loading Curves for Area Class 6B, 6C and 6D........................................... . 26
+
+
+
+
+
+                                                                         iii
+
+
+===== PDF PAGE 5 =====
+1    GENERAL
+
+1.1     Scope
+
+1.1.1     This Code specifies the dead and imposed loads for building, street, building works and street
+        works in Hong Kong.
+
+1.1.2    Where the imposed loads for specific uses are not prescribed in the Building (Construction)
+         Regulation or Section 3 of this Code, the imposed loads to be adopted for design must be based
+        on reliable information or data or as described in Section 4, and subject to the acceptance of the
+         Building Authority.
+
+1.1.2.1   Examples of reliable information are:
+           (a)   The “Port Works Design Manual” published by the Civil Engineering Development
+              Department for loading on marine structures; and
+           (b)   The “Structures Design Manual for Highways and Railways”(SDM) published by the
+             Highways Department for loading on highway and railway structures.
+
+1.1.2.2   Examples of reliable data are:
+           (a)   research results from recognized academic institutions;
+           (b)   reference from international standards or codes of practice;
+           (c)   reports from accredited testing laboratories; and
+           (d)   technical literatures from suppliers/manufacturers.
+
+1.1.3     All values of loads given in this Code are unfactored values and may be taken as characteristic
+          loads when carrying out design using limit state method.
+
+1.1.4     Construction loads are not covered by this Code and the designer should consider the relevant
+          construction loads and effect thereof as part of their design.
+
+1.2     Symbols
+
+           qk    uniformly distributed load in kPa
+        Qk   concentrated load in kN, or line load in kN/m, as appropriate
+     M    gross mass of the heaviest vehicle to be accommodated in kg
+          velocity of the vehicle normal to the barrier in m/s
+       c   deformation of the vehicle in mm
+       b   deflection of the barrier in mm
+          γ     factor in determining the horizontal imposed loads on barriers located at the lower end of
+                  straight ramp
+
+
+
+
+
+                                        1
+
+
+===== PDF PAGE 6 =====
+2    DEAD LOADS
+
+2.1     General
+
+2.1.1    Dead loads shall include self-weight of all items of permanent nature that will act continuously
+         throughout the service life of the building, street, building works, street works, and the
+          variations of its magnitude with time are insignificant.  It shall be taken to include but not
+          limited to the following:
+
+           (a)   the structure;
+           (b)    all other structural elements that are affixed to the structure (e.g. windows, claddings and
+                other forms of permanent construction);
+           (c)   non-structural elements (e.g. finishes, roofings, surfacing and coverings, linings, kerbs,
+              suspended ceilings, insulation, earth and ballast);
+           (d)   permanent equipment including fixtures and fittings (e.g. permanently fixed wiring and
+                 reticulated services);
+           (e)    partitions the positions of which are indicated on the building plans submitted to BD for
+                approval; and
+             (f)    soil fill, waterproofing and drainage system for gardening, greenery or planting.
+
+2.1.2    The weights of tanks and other receptacles shall be considered as dead loads. The contents of
+          tanks and receptacles shall be considered as imposed loads.
+
+2.1.3    When there is doubt to the permanency of loads, such loads should be treated as imposed loads
+         while reduction of which under clause 3.7 should not be taken on beams and vertical members.
+
+
+2.2     Determination of Dead Loads
+
+2.2.1     General
+
+2.2.1.1   Dead loads shall be calculated from the design or known dimensions of the structures and the
+          density of the materials used. The density of some common materials is given in Appendix A
+           for reference.  For materials not included in Appendix A, the determination of their density
+           shall be based on reliable data. Some common items for assessment of dead loads are described
+          in more details in clause 2.2.2 to 2.2.5.
+
+2.2.2     Partitions
+
+2.2.2.1    Partitions indicated on the building plans submitted to BD for approval are considered as
+         permanent partitions. Their weight shall be considered as dead loads and calculated according
+          to the layout shown on the building plans.
+
+2.2.2.2   Where partitions are envisaged but the location of which are not indicated on the building plans,
+          the weights of these partitions shall be considered as imposed loads and to be calculated in
+         accordance with clause 3.6.
+
+2.2.3     Roofings
+
+2.2.3.1   The weight of roofings such as waterproofing membrane, protective screeding, and tiles shall
+         be calculated from the weight of the component materials and their geometry such as the
+          thickness and area.
+
+2.2.3.2   Where a roof is to be provided with greenery, the weight of soil, waterproofing and drainage
+          system, and plants for greenery shall be taken as dead loads.
+
+
+
+
+
+                                        2
+
+
+===== PDF PAGE 7 =====
+2.2.4     Claddings and Finishes
+
+2.2.4.1   Claddings shall include aluminium or metal cladding, polished granite slabs or limestone
+          cladding, marble facing and their fixings.  Finishes shall include in-situ finishes (e.g. plaster,
+          screeds), pre-fabricated wall-panel finishes, suspended ceilings, timber and other floor finishes.
+
+2.2.5    Niches in Columbaria
+
+2.2.5.1  The weight of niches in columbaria shall be determined according to the material used for the
+          construction of niches and the weight of the urns. For lightweight niches, such as niches made
+          of wood or lightweight metals, the weight shall be not less than 2.0 kN/m length for each metre
+          height. For heavy weight niches, such as niches made of concrete, the weight shall be not less
+         than 4.5 kN/m length for each metre height.
+
+
+
+
+
+                                        3
+
+
+===== PDF PAGE 8 =====
+3     IMPOSED LOADS
+
+3.1     General
+
+3.1.1    Under the Building (Construction) Regulation, the imposed load on any building, street,
+          building works or street works shall be the greatest applied load likely to arise from their
+          intended use or purpose during the service life of the building, street, building works or street
+        works (including forces exerted by the adjacent ground but excluding dead loads and wind
+           loads).
+
+3.1.2    The values of imposed loads are categorized and given in this section according to specific use
+          of the related floor or structure, and they shall be considered as the minimum values to be
+         adopted in design. Where higher values are anticipated or considered more appropriate, based
+        on knowledge of the intended use of the floor or the intended installation of equipment,
+         machinery or displayed items, they shall be considered in determining the imposed loads on the
+           floor.
+
+3.1.3    The imposed loads as given in clause 3.2 to 3.5 shall be:
+
+           (a)   a uniformly distributed load, qk, in kPa; or
+           (b)   a concentrated load or line load, Qk, in kN or kN/m, as appropriate;
+
+              whichever shall produce the most adverse effect.
+
+3.1.4    The uniformly distributed load,  qk, and the concentrated load or line load, Qk, shall be
+         considered separately.
+
+3.1.5    The uniformly distributed load, qk, shall be applied to one or more areas such that the most
+         adverse effect will be produced for the design parameter under consideration.
+
+3.1.6    The concentrated load or line load, Qk, shall be applied in a position that will produce the most
+         adverse effect for the design parameter under consideration. The concentrated load shall be
+        assumed to be uniformly distributed over a contact area as specified in this Code. The line load
+           shall be applied in the manner as specified in this Code.
+
+3.1.7     Reduction of distributed imposed loads in accordance with clause 3.7 may be applied as
+          appropriate.
+
+3.1.8    Allowance for partitions (where positions of which are not indicated on building plan) and
+          horizontal imposed loads as specified in clause 3.6 and 3.8 respectively shall be considered as
+          appropriate.
+
+3.1.9     Floor uses are categorized into eight classes as shown in Table 3.1
+
+
+3.2      Class 1  to  5: Imposed Loads  for  Domestic,  Office,  Social, Commercial,
+        Administration and Industrial Floor Uses
+
+3.2.1    Imposed loads with examples of specific use for Class 1 to 5 are given in Table 3.2.
+
+3.2.2    The concentrated loads Qk given in Table 3.2 shall be applied on plan over any square with a
+        50 mm side.
+
+
+
+
+
+                                        4
+
+
+===== PDF PAGE 9 =====
+Table 3.1
+                                Classification of Floor Uses
+
+         Class                                    Use
+
+          1                 Floors for domestic use and residential activities
+          2                 Floors for offices and other non-industrial work places
+          3                 Floors where people may congregate
+          4                 Floors for shopping purposes
+          5                 Floors for storage, equipment, plant and industrial use
+          6               Areas for vehicular traffic
+          7               Roofs
+          8                  Affiliated building elements
+
+
+
+
+                                   Table 3.2
+                      Minimum Imposed Loads
+
+Class        Use          Examples of Specific Use          qk (kPa)       Qk (kN)
+
+  1       Floors for     Domestic uses                             2.0             2.0
+          domestic use                        Dormitories                               2.0             2.0
+         and
+                          Private sitting rooms, bedrooms and
+           residential
+                               toilet rooms in hotels, motels and           2.0             2.0            activities
+                        guesthouses
+                      Wards, bedrooms and toilet rooms in
+                            hospitals, nursing homes and
+                                                                    2.0             2.0
+                            residential care homes for elderly
+                        persons
+                      Bathrooms (load from Jacuzzi in
+                       bathrooms shall be assessed                 2.0             2.0
+                          separately and on individual basis)
+                          Pantries                                   2.0             2.0
+                        Kitchens                                  2.0             2.0
+  2       Floors for     Medical consulting or treatment
+                                                                    2.5             3.0
+           offices and    rooms
+           other non­     Hospital operating theatres and X-ray
+           industrial     rooms                                     2.5             3.0
+        work places    Laboratories                               3.0             4.5
+                        Light workrooms with neither central
+                                                                    3.0             4.5                        power-driven machines nor storage
+
+                         Offices for general use                     3.0             4.5
+                   Rooms for lightweight electrical and
+                                                                    3.0             4.5                           electronic installations
+                   Rooms for meters and not for
+                                                                    3.0             4.5                         storage
+
+                          Pantries                                   3.0             4.5
+
+                      Banking halls                              4.0             4.5
+
+                        Kitchens and laundries not in
+                                                                    4.0             4.5                        domestic buildings
+
+                          Projection rooms                           5.0             4.5
+
+
+
+
+                             5
+
+
+===== PDF PAGE 10 =====
+Table 3.2 (continued)
+
+
+Class       Use         Examples of Specific Use          qk (kPa)       Qk (kN)
+
+  3       Floors        3A: Floors with tables
+         where                        Childcare centers and
+          people may                                              2.5              3.0                         kindergartens
+          congregate
+                        Classrooms, lecture rooms, tutorial
+                                                                   3.0              4.5
+                       rooms, computer rooms
+                           Internet computer services centres         3.0              4.5
+                          Leisure, recreational and
+                     amusement areas that cannot be
+                       used for assembly purposes (e.g.           3.0              4.5
+                           private clubs with cubicles and
+                            restricted number of patrons)
+                     Massage rooms, sauna rooms, bath
+                       houses (load from water pools and
+                                                                   3.0              4.5
+                           fountains, if any, to be
+                         assessed separately)
+                      Reading rooms without book
+                                                                   3.0              4.5
+                        Storage
+                         Cafes, mahjong parlours,
+                                                                   4.0              4.5
+                     amusement games centres
+                          Restaurants, night-clubs, lounges,
+                            bars, canteens, fast food shops and
+                                                                   4.0              4.5
+                         dining rooms not in domestic
+                        premises
+                      3B: Floors with fixed seating (seating is regarded as fixed if the
+                          removal of the seating and the use of the relevant space for other
+                           purposes are unlikely to occur)
+                     Assembly areas with fixed seating         4.0              4.5
+                        Chapels, churches and places of
+                                                                   4.0              4.5
+                       worship with fixed seating
+                       Concert halls                             5.0              4.5
+                       Conference rooms,
+                                                                   5.0              4.5                         waiting rooms
+
+                       Grandstands (refer to clause 3.8.2
+                                                                   5.0              4.5
+                            for additional loads)
+                         Public halls, theatres, cinemas             5.0              4.5
+                     3C: Floors without obstacles for moving people
+                      Columbaria (areas other than for
+                                                                   4.0              4.5
+                          niches)
+                       Art galleries and museums                 5.0              4.5
+                     Assembly areas without fixed
+                                                                   5.0              4.5
+                            seating, refuge floors
+                          Footbridges between buildings,
+                            footpaths, terraces, plazas, areas              5.0               4.5
+                        used for pedestrian traffic
+                     Open areas in gardens (including
+                            short grass turf suitable for foot              5.0               4.5
+                                traffic)
+
+
+
+
+
+                             6
+
+
+===== PDF PAGE 11 =====
+Table 3.2 (continued)
+
+
+Class        Use         Examples of Specific Use          qk (kPa)       Qk (kN)
+
+  3       Floors       3D: Floors with possible physical activities
+         where                            Billiard rooms and bowling alleys          3.0              4.5
+          people may
+                     Dance practice rooms                     3.0              4.5          congregate
+                     Dance halls, karaoke
+                          establishments, discotheques,              5.0              4.5
+                      gymnasia
+                          Ice rinks (weight of ice shall be
+                         assessed separately), ball courts,           5.0              4.5
+                           golf driving ranges
+                          Stages, television studios used as
+                                                                   7.5              9.0
+                          stages
+  4       Floors for     Department stores, supermarkets,
+         shopping      markets, shops for display and sale         5.0              4.5
+          purposes       of merchandise1
+  5       Floors for     Library rooms with book storage
+                                                                   5.0              4.5
+           storage,       (excluding library stack rooms)
+          equipment,    Offices for storage and normal
+                                                                   5.0              4.5           plant and       filing purposes
+            industrial                                                To be
+           uses3                                                             determined
+                                                                             according to
+                                                               2.5 for each
+                                                                                 the weight of
+                       Refuse storage                       metre of
+                                                                                   storage
+                                                              storage height2
+                                                                                      material, but
+                                                                               not less than
+                                                                                    9.0
+                                                              To be
+                                                                           determined
+                                                               3.5 for each
+                                                                             according to
+                                                            metre of
+                        Stack rooms in book stores and                         the weight of
+                                                               storage height2
+                             libraries                                                  storage
+                                                               but not less
+                                                                                      material, but
+                                                               than 10.0
+                                                                               not less than
+                                                                                    9.0
+                                                              To be
+                                                                           determined
+                                                               5.0 for each
+                                                                             according to
+                                                            metre of
+                                                                                 the weight of
+                      Cold storage                         storage height2
+                                                                                   storage
+                                                               but not less
+                                                                                      material, but
+                                                               than 15.0
+                                                                               not less than
+                                                                                    9.0
+                                                              To be
+                                                                           determined
+                                                                             according to
+                                                               8.0 for each
+                                                                                 the weight of
+                       Paper storage in printing plants         metre of
+                                                                                   storage
+                                                              storage height2
+                                                                                      material, but
+                                                                               not less than
+                                                                                    9.0
+
+
+
+
+
+                             7
+
+
+===== PDF PAGE 12 =====
+Table 3.2 (continued)
+
+
+             Class       Use         Examples of Specific Use          qk (kPa)       Qk (kN)
+
+                5       Floors for                                               To be
+                           storage,                                                           determined
+                       equipment,                                                         according to
+                                                                         10.0 for each
+                          plant and      Battery rooms and uninterruptible                       the weight of
+                                                                         metre of
+                            industrial     power supply rooms                                      storage
+                                                                             storage height2
+                        uses                                                                      material, but
+                                                                                             not less than
+                                                                                                  9.0
+                                                                         To be
+                                                                                         determined
+                                                                                           according to
+                                     General storage other than those       2.5 for each
+                                                                                                the weight of
+                                          specified in this class, including        metre of
+                                                                                                  storage
+                                        storage in warehouses                storage height2
+                                                                                                     material, but
+                                                                                             not less than
+                                                                                                  9.0
+                                        Plant rooms, boiler rooms, fan
+                                                                                 7.5              9.0
+                                     rooms, motor rooms and the like
+                                   Workshops, factories and other
+                                        buildings or parts of buildings of
+                                          similar category for industrial
+                                      use –
+                                             (a) for light weight loads                  5.0              9.0
+                                            (b) for medium weight loads               7.5              9.0
+                                              (c) for heavy weight loads                10.0             9.0
+                                           (d) for printing plants                    12.5             9.0
+
+             Notes:   1   For stacking or storage area, reference shall be made to the appropriate example of specific use and the
+                          corresponding imposed load given in Class 5.
+
+                    2   Storage height in Class 5 shall be the height of the space between the following: the floor, and a physical
+                              constraint to the height of storage formed by a ceiling, soffit of a floor, roof or other obstruction.
+
+
+
+3.3      Class 6: Imposed Loads for Vehicular Traffic and Parking Areas
+
+3.3.1     Areas for vehicular traffic and parking (such as carriageways, floors, driveways, ramps,
+          carparking, garages, loading and unloading bay) are further categorized into five sub-classes
+         according to the gross weight of the heaviest vehicle running on the areas. The categorization
+             is in accordance with the Road Traffic (Construction and Maintenance of Vehicles) Regulations
+         (Cap. 374A) and the sub-classes are shown in Table 3.3.
+
+
+
+
+
+                                        8
+
+
+===== PDF PAGE 13 =====
+Table 3.3
+                                 Classification of Vehicular Traffic and Parking Areas
+
+              Class                      Specific Use                    Examples of Vehicles
+
+           6           Areas accessible to vehicles not exceeding       Private cars, taxies, van-type light
+              6A
+                         3,000 kg gross weight                          goods vehicles, motor cycles
+                        Areas accessible to vehicles not exceeding        Light goods vehicles, light buses
+              6B
+                         5,500 kg gross weight                              (not exceeding 16 passengers)
+                                                        Medium goods vehicles, single-
+                        Areas accessible to vehicles not exceeding
+              6C                                                 decked buses, double-decked
+                         24,000 kg gross weight
+                                                                                      buses, coaches
+                                                                              Fire engines, refuse collection
+                        Areas accessible to vehicles not exceeding
+              6D                                                           vehicles, rigid heavy goods
+                         30,000 kg gross weight
+                                                                                          vehicles
+                        Areas accessible to vehicles other than Class
+               6E                                                      Articulated heavy goods vehicles
+                       6A, 6B, 6C or 6D above
+
+
+3.3.2     Loading and unloading areas including the driveway that lead to these areas are classified as
+         Class 6B, 6C or 6D depending on the type of vehicular use for the subject area.
+
+3.3.3     Areas accessible to fire engines shall, in addition, be checked for the effect due to a concentrated
+          load of 230 kN uniformly distributed on plan over an area of 950 mm  750 mm and a
+          concentrated load of 100 kN uniformly distributed on plan over an area of 300 mm  300 mm.
+
+3.3.4    Imposed loads for areas for vehicular traffic and parking are given in Table 3.4 to 3.6.
+
+3.3.5     Vehicular Traffic and Parking Area Class 6A
+
+3.3.5.1   Imposed loads for Area Class 6A are given in Table 3.4.
+
+                                               Table 3.4
+                          Minimum Imposed Loads for Area Class 6A
+
+                      Class                          qk (kPa)                    Qk (kN)
+
+                  6A                              3.0                            20.0
+
+
+3.3.5.2   In Table 3.4, the concentrated load, Qk, shall be applied on plan over any square with a 200 mm
+           side.
+
+3.3.5.3   Where provision for double-deck parking  is required for Area Class 6A, the uniformly
+           distributed load, qk, shall be twice the value given in Table 3.4.
+
+3.3.6     Vehicular Traffic and Parking Area Class 6B, 6C and 6D
+
+3.3.6.1   Imposed loads for Area Class 6B, 6C and 6D are given in Table 3.5 and Table 3.6.
+
+                                               Table 3.5
+                      Minimum Imposed Loads for Area Class 6B, 6C and 6D
+
+                      Class                             qkNote (kPa)                       QkNote (kN)
+
+                  6B                      See Table 3.6                       30.0
+                  6C                      See Table 3.6                       60.0
+                  6D                      See Table 3.6                       80.0
+
+            Note:    Minimum imposed loads can also be determined according to recognized engineering principles.
+
+                                        9
+
+
+===== PDF PAGE 14 =====
+Table 3.6
+             Minimum Uniformly Distributed Load, qkNote (kPa), for Area Class 6B, 6C and 6D
+
+
+          Loaded Length L (m)         Class 6B              Class 6C              Class 6D
+
+                 0 to 5                   13.9                   34.7                   46.6
+                   6                     11.4                   29.9                   39.4
+                   7                       9.7                    26.6                   34.4
+                   8                       8.6                    24.0                   30.6
+                   9                       7.7                    22.0                   27.8
+                   10                      7.0                    20.5                   25.5
+                   12                      6.0                    17.9                   21.9
+                   14                      5.3                    16.0                   19.4
+                   16                      4.8                    14.6                   17.6
+                   18                      4.4                    13.5                   16.2
+                   20                      4.1                    12.6                   15.1
+                   25                      3.6                    11.0                   13.1
+                   30                      3.2                     9.9                    11.8
+                   35                      3.2                     9.1                    10.9
+                   40                      3.2                     8.5                    10.2
+                   45                      3.2                     8.0                     9.6
+               50 or above                  3.2                     7.6                     9.2
+
+            Note: Uniformly distributed load for intermediate loaded length can be obtained either by linear interpolation using the
+                    values in Table 3.6 or from the loading curves shown in Appendix C.
+
+3.3.6.2   The loaded length of the structural member under consideration shall be the shorter side of the
+         loaded area.  It shall also be the full base length of the adverse area. Where there is more than
+         one adverse area, for example in the case of continuous construction, the maximum effect shall
+         be determined by consideration of the adverse area or combination of adverse areas using the
+          load appropriate to the full base length or the sum of the full base lengths of any combination
+          of the adverse areas selected.  Examples of loaded length for different structural design
+         parameters are shown in Appendix B. Exception to the above is at area where the direction of
+            traffic will not be changed (except for reverse flow) during the life of the structure because of
+          physical constraint (e.g. access ramp).  In such exceptional case, the loaded length can be
+         measured along the direction of traffic.
+
+3.3.6.3   In Table 3.5, the concentrated load, Qk, for Area Class 6B shall be applied on plan over any
+         square with a 200 mm side. The concentrated load, Qk, for Area Class 6C and 6D shall be
+          applied on plan over any square with a 300 mm side.
+
+3.3.7     Vehicular Traffic and Parking Area Class 6E
+
+        Imposed loads for Area Class 6E shall be the appropriate highway loading in accordance with
+          the latest edition of the SDM published by the Highways Department. The appropriate highway
+          loading may be HA or HB loading depending on the intended use.   If the structure is not
+         designed for HB loading then HA loading derived from the SDM with the following
+          modifications are considered acceptable:
+
+            (a)    for the purpose of transforming the loading intensity per lane, as shown in Figure 3,
+              Table 17 of the SDM, to uniformly distributed load, a notional lane width of 3 m shall be
+               adopted;
+
+
+
+
+                                        10
+
+
+===== PDF PAGE 15 =====
+(b)   the knife edge load shall be taken as 40 kN/m applied in the direction perpendicular to
+                the loaded length;
+            (c)   the uniformly distributed load and the knife edge load shall act together at the position
+                 that will produce the most adverse effect;
+           (d)    all notional lanes that will produce most adverse effect shall be fully loaded;
+            (e)   the single wheel load of 100 kN shall be applied on plan over any square with a 300 mm
+                  side, and in a position that will produce the most adverse effect, and shall be assessed
+                separately from the uniformly distributed imposed and knife edge load; and
+             (f)    the secondary imposed loads arising from vehicles, like centrifugal, traction, braking and
+               skidding loads from vehicular traffic need not be considered in the design of car parking
+                 structures.
+
+
+3.4      Class 7: Imposed Loads for Roofs
+
+3.4.1     Roofs including canopies are further categorized into four sub-classes according to their
+           specific uses as shown in Table 3.7.
+
+                                               Table 3.7
+                                          Classification of Roofs and Canopies
+
+                      Class                                        Specific Use
+
+               7          7A        Inaccessible roofs and flat roofs (where no access is provided to
+                                             the roof except such access as may be necessary for maintenance
+                                    work only)
+                        7B        Accessible roofs (where access is provided in addition to such
+                                            access as may be necessary for maintenance work only) or for use
+                                            of Class 1 to 6
+                        7C        Accessible flat roofs or for use of Class 1 to 6Note
+                       7D       Canopies
+
+            Note :   Specific uses that are not specified in the Building (Construction) Regulation.
+
+3.4.2    The imposed loads for Class 7A, 7B, 7C and 7D are given in Table 3.8.
+
+3.4.3    The concentrated load, Qk, shall be applied on plan over any square with a 50 mm side.
+
+                                               Table 3.8
+                        Minimum Imposed Loads on Roofs and Canopies
+
+                  Class             Roof Slope                qk (kPa)             Qk (kN)
+
+                               Of or less than 5º                2.0
+
+                                   Greater than 5º but of
+                                                                   0.75
+                                        or less than 20º
+
+                                                             Linear interpolation             7A                                                                1.5
+                                     Greater than 20º but    from 0.75 kPa to 0 kPa
+                                              less than 40º         according to the roof
+                                                                      slope
+                               Of 40º or greater              0
+
+
+
+
+
+                                        11
+
+
+===== PDF PAGE 16 =====
+Table 3.8 (continued)
+
+                  Class             Roof Slope                qk (kPa)             Qk (kN)
+
+                                               As given in Table 3.2, 3.4 and 3.5 according to
+                              Of or less than 20º       the specific use but qk not less than 2.0 kPa and
+                                                             Qk not less than 1.5 kN
+
+                                                             Linear interpolation
+              7B
+                                     Greater than 20º but     from 2.0 kPa to 0 kPa
+                                                                                               1.5
+                                              less than 40º         according to the roof
+                                                                      slope
+                               Of 40º or greater              0                      1.5
+                                               As given in Table 3.2, 3.4 and 3.5 according to
+                  7C1             Not applicable        the specific use but qk not less than 2.0 kPa and
+                                                             Qk not less than 1.5 kN
+                                                          Lightweight
+                                                      canopy (e.g.
+                                                                               0.752
+                                                                     glass, metal               7D             Not Applicable                                         1.5
+                                                                    sheet, etc.)
+                                                           Concrete
+                                                                                  2.03
+                                                           canopy1
+
+            Notes :  1    Specific uses that are not specified in the Building (Construction) Regulation.
+
+                   2   The value of qk does not take into account of uncontrolled accumulations of construction materials and
+                             debris that may occur during maintenance or repair.
+
+                   3   The value of qk takes into account of additional loads due to accumulations of construction materials and
+                             debris during maintenance or repair.
+
+
+3.4.4    Where bottom chords of roof trusses, joists and hangers for ceiling, ribs of skylights, frames
+         and coverings of ceiling access hatches and any similar structure are required to support the
+          force imposed by people for any purpose, they shall be designed to support a concentrated load
+          of 1.5 kN acting at a position that will produce the most adverse effect. Such concentrated load
+           shall be considered together with the appropriate loads given in Table 3.8
+
+3.5      Class 8: Imposed Loads for Affiliated Building Elements
+
+3.5.1    Imposed loads with examples of specific use for affiliated building elements are given in
+         Table 3.9.
+
+3.5.2    The concentrated load, Qk, shall be applied on plan over any square with a 50 mm side unless
+         otherwise stated.
+                                               Table 3.9
+                     Minimum Imposed Loads on Affiliated Building Elements
+
+             Class       Examples of Specific Use             qk (kPa)             Qk (kN)
+
+              8        Projecting window hoods, air
+                          conditioner hoods (lower and                                   1.5 kN/m run applied
+                                                                                         -
+                       upper slabs) and air conditioner                               along the outer edge
+                         platforms
+                                              Same as the floors to
+                                                       which they give       2.0 kN/m run applied
+                            Utility platforms
+                                                               access but not less      along the outer edge
+                                                                  than 4.0
+                                              Same as the floors to
+                                                       which they give       2.0 kN/m run applied
+                        Balconies
+                                                               access but not less      along the outer edge
+                                                                  than 3.0
+
+
+                                        12
+
+
+===== PDF PAGE 17 =====
+Table 3.9 (continued)
+
+
+             Class       Examples of Specific Use             qk (kPa)             Qk (kN)
+
+              8                                 Same as the floors to
+                                                       which they give
+                             Stairs, landings and corridors          access but not less              4.5
+                                                            than 3.0 and not more
+                                                                  than 5.0
+                      Maintenance catwalks                                -                1.0 at 1 m centres
+
+
+
+3.6      Partitions (positions of which are not indicated on building plan)
+
+3.6.1    Where a building is to support partitions but the position of the partitions is not indicated on
+          the building plans submitted to BD for approval, the weight of such partitions shall be regarded
+          as imposed distributed load applied uniformly on plan and shall, in addition to other imposed
+          loads, be:
+
+           (a)    not less than 1/3 of the weight per metre length of the partitions uniformly distributed per
+               square metre; and
+           (b)    not less than 1 kPa if the floor is used for office purposes.
+
+
+
+3.7     Reduction of Distributed Imposed Loads on Beams and Vertical Members
+
+3.7.1    The following loads do not qualify for reduction in distributed imposed loads:
+
+           (a)    floor loads from plant or machinery which are specifically allowed for;
+           (b)   floor loads less than 7.5 kPa in factories and workshops (see clause 3.7.3.2);
+           (c)    floor loads from vehicles;
+           (d)   floor loads from storage and filing in offices;
+           (e)   forces produced by dynamic effects;
+             (f)    floor loads from storage;
+           (g)   floor loads from partitions (the position of which are not indicated on building plan); or
+           (h)   floor loads determined as imposed loads due to  its uncertainty of permanency as
+               described in clause 2.1.3.
+
+3.7.2     Reduction of Total Distributed Imposed Loads on Beams
+
+3.7.2.1   The total distributed imposed loads on beams may be reduced by the percentage given in
+         Table 3.10, except as provided in clause 3.7.1.
+
+                                                Table 3.10
+                            Reduction of Total Distributed Imposed Loads on Beams
+
+                    Floor Area Supported by                     Percentage Reduction of
+                      Single Span of Beam (m²)                   Total Distributed Imposed Load
+
+                           Less than 45                                   0
+                             45                                        5
+                             90                                       10
+                            135                                       15
+                            180                                  20 maximum
+
+            Note:  Reduction for intermediate area size may be calculated by linear interpolation except for floor area less than
+                 45 m² where no interpolation is allowed.
+
+
+
+                                        13
+
+
+===== PDF PAGE 18 =====
+3.7.2.2   The reduction of total distributed imposed loads on beams shall be applicable only to the design
+          of the beams under consideration. The reduced imposed loads on beams shall not be applicable
+          to the design of vertical members supporting the beams.
+
+3.7.3     Reduction of Total Distributed Imposed Loads on Vertical Members
+
+3.7.3.1   The total distributed imposed loads on every floor carried by a vertical member may be reduced
+        by the percentage given in Table 3.11, except as provided in clause 3.7.1 and 3.7.3.2.
+
+                                               Table 3.11
+                      Reduction of Total Distributed Imposed Loads on Vertical Members
+
+
+          Number of floors (including the roof) with      Percentage reduction of total distributed
+            loads qualifying for reduction carried by the    imposed load on all floors (including roof)
+               member under consideration            carried by the member under consideration
+
+                             1                                        0
+                             2                                        5
+                             3                                        10
+                             4                                        15
+                             5                                        20
+                             6                                        25
+                             7                                        30
+                             8                                        35
+                           Over 8                                 40 maximum
+
+
+
+
+3.7.3.2   For floors for workshops, factories under Class 5 of Table 3.2 with distributed imposed load
+          not less than 7.5 kPa on every floor, the total distributed imposed load on every floor carried
+        by a vertical member may be reduced by the percentage given in Table 3.12, except as provided
+          in clause 3.7.1.
+
+                                               Table 3.12
+                Reduction of Total Distributed Imposed Loads on Floors for Workshops, Factories
+               under Class 5 of Table 3.2 with Distributed Imposed Load of not less than 7.5 kPa
+
+          Number of floors (including the roof) with      Percentage reduction of total distributed
+             imposed loads qualifying for reduction      imposed load on all floors (including roof)
+            carried by the member under consideration     carried by the member under consideration
+
+                             1                                        0
+                             2                                        10
+                             3                                        20
+                            Over 3                                 25 maximum
+
+            Note: In no case can the reduced imposed load at each floor be less than 7.5 kPa.
+
+
+3.8      Horizontal Imposed Loads on Protective Barriers
+
+3.8.1     Horizontal Imposed Loads on Protective Barriers to Restrict or Control Movement of Persons
+
+3.8.1.1    Partition walls, glass walls, curtain walls, lightweight structures and barriers installed to restrict
+          or control the movement of persons shall be designed to resist the minimum horizontal imposed
+          loads given in Table 3.13 when separately applied or the wind load (where applicable),
+         whichever shall produce the most adverse effect.
+
+
+
+                                        14
+
+
+===== PDF PAGE 19 =====
+Table 3.13
+                    Minimum Horizontal Imposed Loads on Protective Barriers
+                                      to Restrict or Control Movement of Persons
+
+
+                                                     Uniformly distributed   Concentrated load to
+                                  Line Load to be       load to be applied on   be applied on any part
+               Category               appliedNote        the infill between floor    of the infill between
+                                    (kN/m)             and top rail           floor and top rail
+                                                               (kPa)                 (kN)
+
+           Areas where
+            congregation of
+                                           0.75                      1.0                      0.5
+           people is not
+            expected
+           Areas where people
+         may congregate but
+                                             1.5                      1.5                      1.5
+           overcrowding is not
+            expected
+           Areas susceptible to
+                                             3.0                      1.5                      1.5
+           overcrowding
+
+            Note :   The line load is to be applied at a height of 1.1m above the floor level or the top edge of the protective barrier,
+                     whichever is lower.
+
+3.8.1.2   Examples of areas where congregation of people is not expected are internal areas of building
+           for domestic uses, offices, stairs and landings.
+
+3.8.1.3   Examples of areas where people may congregate but overcrowding is not expected are areas
+         with fixed seating or tables; balconies; utility platforms; edges of roofs; and footbridges or
+          footpaths not greater than 3 m wide.
+
+3.8.1.4   Examples of areas susceptible to overcrowding are theatres; cinemas; discotheques; bars;
+         shopping areas; assembly areas; and footbridges or footpaths greater than 3 m wide.
+
+
+3.8.2     Horizontal Imposed Loads on Grandstands Due to Crowd Movement
+
+3.8.2.1   Grandstands, stadiums, assembly platforms, reviewing stands, and similar, shall be designed to
+          withstand minimum horizontal imposed loads due to crowd movement as follows:
+
+           (a)    for platforms with seats, the following separate load cases (not applied simultaneously),
+                applied at floor level at each row of seats:
+
+                     (i)    0.35 kN/m of seating along the line of seats; or
+                      (ii)   0.15 kN/m of seating perpendicular to the line of the seats;
+
+           (b)   for platforms without seats, 0.25 kPa of plan area applied in any direction.
+
+
+3.8.3     Horizontal Impact Force on Vehicle Barriers
+
+3.8.3.1    Barriers subject to vehicle impact must be designed to withstand the greatest impact force
+          anticipated subject to the following minimum requirement of horizontal impact force, F (in kN),
+         given by:
+
+
+                        0.5 M v²
+           F =
+                c +  b
+
+
+                                        15
+
+
+===== PDF PAGE 20 =====
+where
+
+     M     is the gross mass of the heaviest vehicle to be accommodated (in kg);
+         v      is the velocity of the vehicle normal to the barrier (in m/s);
+       c    is the deformation of the vehicle (in mm); and
+       b    is the deflection of the barrier (in mm).
+
+        The values of M, v,  c and  b, except provided in clause 3.8.3.2, are given in Table 3.14.
+
+                                               Table 3.14
+                 Design Values for Determination of Horizontal Impact Force on Vehicle Barriers
+
+              Class       M (kg)             v (m/s)     c (mm)        b (mm)
+
+           6A                3,000                3.0
+
+            6B                5,500                2.5
+            6C               24,000                          b = actual                                                           100 mm
+                                                                                               deflection for           6D               30,000                           (unless better
+                                                                                                    flexible barriers
+                      To be determined in                   evidence is
+                                                          1.5         provided)                         accordance with the Road                                                   b = 0 for rigid barriers
+             6E        Traffic (Construction and
+                        Maintenance of Vehicles)
+                                 Regulations
+
+
+3.8.3.2   The velocities given in Table 3.14 should be increased if the barriers are located at the lower
+         end of a straight ramp, which exceeds 10 m in length. Such increase in velocities shall result
+          in the horizontal impact force, F, being increased by a factor, γ. The values of γ are given in
+         Table 3.15.
+
+                                               Table 3.15
+            Values of Factor γ for Determination of Horizontal Impact Force on Barriers Located at the
+                                  Lower End of Straight Ramp
+
+                      Length of Ramp (m)                               Factor γ
+
+                            <10                                             1.0
+                            10 - 20                          Linear interpolation between 1.0 and 2.0
+                          > 20                                             2.0
+
+3.8.3.3   The horizontal impact force, F, determined in clause 3.8.3.1, shall act at bumper height, in the
+          direction normal to and uniformly distributed over any length of 1.5 m of the barrier. Values
+         given in Table 3.16 are the design bumper height for each class of vehicles.
+
+                                               Table 3.16
+                                  Design Bumper Height for Each Class of Vehicles
+
+                              Class                   Bumper Height above Floor Level (mm)
+
+                       6A                                      600
+                        6B                                      800
+                        6C
+                        6D                                      1200
+                          6E
+
+
+3.8.3.4   For barriers alongside an access ramp, the vehicle impact will be oblique.  The horizontal
+         impact force, F, in such case will be half the values obtained in clause 3.8.3.1 or clause 3.8.3.2,
+         whichever as appropriate. The direction of the horizontal impact force, F, for design purpose,
+
+                                        16
+
+
+===== PDF PAGE 21 =====
+is taken as normal to and uniformly distributed over any length of 1.5 m of the barrier at the
+         design bumper height in accordance with clause 3.8.3.3.
+
+
+3.9     Surcharges and Lateral Loads on Earth Retaining Structures
+
+3.9.1     Surcharge loads applied to slopes and earth retaining structures are given in Table 3.17.
+
+                                           Table 3.17
+                   Minimum Surcharges on Slopes and Earth Retaining Structures
+
+                                Category                            Surcharge Load (kPa)
+
+                                         Public Roads                             20
+          Highways and Roads
+                                           Private Roads                             10
+            Footpaths isolated from roads, cycle tracks and play areas                   5
+
+
+3.9.2     In assessing surcharges from buildings with shallow foundations, where the actual loads can be
+          derived from available records, the actual surcharge loads should be used for design.  If no
+          records are available, the surcharges shall be assessed with respect to the existing uses and the
+           structural forms with a minimum value of 10 kPa per storey.
+
+3.9.3     Surcharge loads other than those given in Table 3.17 are to be considered, where applicable, in
+          the building design.
+
+3.9.4     Designer must also consider the effect of lateral loads due to earth retaining actions, including
+        where applicable, impact loads from landslide debris, using established soil mechanics
+           principles.  Reference can be made to the Geoguide 1 – Guide to Retaining Wall Design
+          published by the Geotechnical Engineering Office.
+
+
+
+3.10    Dynamic Loads
+
+3.10.1   The imposed loads given in this Code have allowed for small dynamic effects and should be
+           sufficient for most structures without the need for further dynamic checks. However they do
+          not cover the special type of loading conditions, for example, caused by the rhythmical and
+         synchronized movement of crowds or the operation of some types of machinery.  Where
+          necessary, the designer should make reference to specialist literature for design of these types
+          of dynamic effect.
+
+3.10.2    For workshops,  factories and other buildings  for  industrial use and where no specific
+          information on machinery is available, the buildings or part of the buildings should be designed
+           for the following additional imposed loads:
+
+           (a)      for the purpose of determining the design of slabs and beams only, a vertical uniformly
+                   distributed load of 2.5 kPa; and
+           (b)      for the purpose of determining the design of structural frames and foundations, an
+                  additional horizontal force (which may be assumed not to act together with the wind
+                  load) of 10% of the vertical imposed load specified in (a) above acting simultaneously
+               on the N number of floors which will produce the most adverse effects, where N is a
+               whole number not less than 0.2 times the total number of floors subject to dynamic
+                    effects.
+
+
+
+
+
+                                        17
+
+
+===== PDF PAGE 22 =====
+3.11    Notice as to Load
+
+3.11.1    In every storey of every industrial building or warehouse, a notice in English and Chinese
+          incised or embossed of durable materials, in legible letters and figures not less than 15 mm high,
+           stating the designed distributed imposed load (設計分布外加荷載) for which the floor has been
+         designed shall be displayed permanently and conspicuously at:
+
+           (a)     each staircase; or
+           (b)     another appropriate place
+
+          in the following form:
+
+                            BUILDINGS ORDINANCE
+                                              (Chapter 123)
+
+                                  NOTICE
+
+                 The designed  distributed imposed  load on  this  floor  is  not  to
+                   exceed ………………… kilograms per square metre.
+
+
+
+
+                    建築物條例
+
+                               (第 123 章)
+
+
+                      告示
+
+
+      此樓面之設計分布外加荷載重量每平方米不得超
+
+         過…………………千克
+
+
+3.11.2     If different parts of a floor of the industrial building or warehouse have different designed
+           distributed imposed loads, a notice in the form provided in clause 3.11.1 above stating the
+         designed distributed imposed load of each part of the floor shall be displayed permanently and
+         conspicuously on that part indicating the variations.
+
+3.11.3    Designed distributed imposed load in relation to a floor of an industrial building or warehouse
+        means the distributed imposed load in terms of weight per square metre by the conversion of
+        1 kPa to 102 kilograms per square metre, excluding the dynamic effects, for which the floor of
+          the industrial building or warehouse is designed.
+
+
+
+
+
+                                        18
+
+
+===== PDF PAGE 23 =====
+4     IMPOSED LOADS NOT PRESCRIBED IN THIS CODE
+
+4.1     General
+
+4.1.1    Where imposed loads for specific uses are not prescribed in this Code and other sources of
+           reliable information or data about the specific uses are not available, performance based
+         approach as a means to establishing the design imposed loads for the specific uses may be
+          adopted, subject to the acceptance of the Building Authority.
+
+4.2     Approaches
+
+4.2.1     In using the performance based approach, the imposed load to be adopted for design should
+         have regard to the greatest applied load likely to arise during the service life of the building,
+            street, building works or street works for the intended use and shall be determined from:
+
+           (a)     measured load information together with a probability-based analysis with the design
+               imposed load not more than 5 percent probability of the design imposed load being
+                exceeded during the service life; or
+           (b)     an assessment of the imposed load for the intended use resulting from:
+                        (i)   assembly of people;
+                         (ii)   accumulation of equipment and furnishings; and
+                         (iii)  storage of materials.
+
+
+
+
+
+                                        19
+
+
+===== PDF PAGE 24 =====
+Appendix A
+
+                             Density of Materials
+
+                          Materials                               Density (kN/m³)
+
+   Concrete (normal weight                    Plain                             23.6
+aggregate, with or without PFA)            Reinforced                          24.5
+
+                                             Prestressed                          24.5
+     Brick and block work                 Brick work                          21.7
+
+                                       Concrete blocks                        20.6
+           Metals                    Aluminium                          27.2
+
+                                            Brass                             83.3
+
+                                        Bronze                            87.7
+
+                                       Copper                            87.7
+
+                                             Iron (cast)                           70.7
+
+                                           Iron (wrought)                         75.4
+
+                                       Lead                            111.0
+
+                                                  Steel                             77.0
+
+                                           Zinc                             70.0
+           Mortar                   Cement mortar                      23
+
+                               Gypsum mortar                      18
+
+                                  Lime-cement mortar                    20
+
+                                  Lime mortar                       18
+
+         Natural stone                       Granite                         29
+
+                                       Marble                         27
+
+                                              Basalt                          30
+
+                                         Sandstone                        25
+
+                                                 Slate                          28
+         Wood                        Timber               Refer to suppliers specifications
+
+                                       Hardboard                        11
+
+                                       Chipboard                          8
+
+                                     Plywood                           6
+
+                                       Blockboard                          5
+
+                                   Wood-wool                          6
+
+       Other materials                      Glass                          26
+
+                                                  Soil                           20
+
+                                          Acrylic sheet                       12
+
+                                       Asphaltic concrete                     25
+
+                                       Mastic asphalt                      18
+
+                                   Hot rolled asphalt                     23
+
+
+
+
+
+                               20
+
+
+===== PDF PAGE 25 =====
+Appendix B
+
+       Examples of Loaded Length for Different Structural Design Parameters
+                              for Area Class 6B, 6C and 6D
+
+
+   Design Parameter                   Loaded Area / Loaded Length
+
+
+1. Mid-span Moment (M)
+   of Slab                                                                                         Loaded Area
+
+                                                                                                                Structural Member
+                                                                                          Under Consideration
+
+
+
+
+
+                                  Loaded Length = The Shorter of L1 or L2
+
+
+
+
+
+2. Support Moment (M) of
+   Slab                                                                                        Loaded Area
+
+                                                                                                                Structural Member
+                                                                                         Under Consideration
+
+
+
+
+
+                                  Loaded Length = The Shorter of L1 or L2
+
+
+
+
+
+                                     21
+
+
+===== PDF PAGE 26 =====
+Design Parameter                   Loaded Area / Loaded Length
+
+
+3. Support Moment (M) of
+   Cantilevered Slab                                                                                        Loaded Area
+
+                                                                                                               Structural Member
+                                                                                         Under Consideration
+
+
+
+
+
+                                  Loaded Length = The Shorter of L1 or L2
+
+
+
+
+
+4. Mid-span Moment
+   (M)/Shear (S) of                                                                                        Loaded Area
+   Secondary Beam
+                                                                                                               Structural Member
+                                                                                         Under Consideration
+
+
+
+
+
+                                  Loaded Length = The Shorter of L1 or L2
+
+
+
+
+
+                                     22
+
+
+===== PDF PAGE 27 =====
+Design Parameter                 Loaded Area / Loaded Length
+
+
+5. Support Moment (M)/
+   Shear (S) of Secondary                                                                                     Loaded Area
+  Beam
+                                                                                                           Structural Member
+                                                                                      Under Consideration
+
+
+
+
+
+                                 Loaded Length = The Shorter of L1 or L2
+
+
+
+
+
+6. Mid-span Moment (M)/
+   Shear (S) of Main                                                                                     Loaded Area
+  Beam
+                                                                                                           Structural Member
+                                                                                      Under Consideration
+
+
+
+
+
+                                 Loaded Length = The Shorter of L1 or L2
+
+
+
+
+
+                                   23
+
+
+===== PDF PAGE 28 =====
+Design Parameter                 Loaded Area / Loaded Length
+
+
+7. Support Moment (M)/
+   Shear (S) of Main
+                                                                                     Loaded Area
+  Beam
+                                                                                                           Structural Member
+                                                                                      Under Consideration
+
+
+
+
+
+                                 Loaded Length = The Shorter of L1 or L2
+
+
+
+
+
+8. Support Moment (M)/
+   Shear (S) of
+   Cantilevered Beam                                                            Loaded Area
+
+                                                                                                           Structural Member
+                                                                                      Under Consideration
+
+
+
+
+
+                                 Loaded Length = The Shorter of L1 or L2
+
+
+
+
+
+                                   24
+
+
+===== PDF PAGE 29 =====
+Design Parameter                  Loaded Area / Loaded Length
+
+
+9. Axial Load (P) of
+  Column                                                                        Loaded Area
+
+                                                                                                           Structural Member
+                                                                                      Under Consideration
+
+
+
+
+
+                                 Loaded Length = The Shorter of L1 or L2
+
+
+
+
+
+                                   25
+
+
+===== PDF PAGE 30 =====
+Appendix C
+
+Loading Curves for Area Class 6B, 6C and 6D
+
+
+
+
+
+               qk = 13.9 for 0 to 5 m loaded length
+               qk = exp (5.158 L-0.413) - 0.335 for 5 m to 30 m loaded length
+               qk = 3.2 for longer than 30 m loaded length
+
+
+
+
+
+      Figure C1: Loading Curve for Area Class 6B
+
+
+
+
+
+                 qk = 34.7 for 0 to 5 m loaded length
+                 qk = exp (5.200 L-0.241) + 0.675 for 5 m to 10 m loaded length
+                 qk = exp (5.450 L-0.259) + 0.346 for 10 m to 50 m loaded length
+                 qk = 7.6 for longer than 50 m loaded length
+
+
+
+
+
+      Figure C2: Loading Curve for Area Class 6C
+
+
+
+
+
+                        26
+
+
+===== PDF PAGE 31 =====
+qk = 46.6 for 0 to 5 m loaded length
+       qk = exp (5.660 L-0.237) - 1.099 for 5 m to 10 m loaded length
+       qk = exp (6.279 L-0.300) + 2.200 for 10 m to 50 m loaded length
+       qk = 9.2 for longer than 50 m loaded length
+
+
+
+
+
+Figure C3: Loading Curve for Area Class 6D
+
+
+
+
+
+                  27

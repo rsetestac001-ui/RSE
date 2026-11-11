@@ -1,4 +1,74 @@
 {
+  "COP_SUC2013E": {
+    "path": "indexed_text/BD_CODES/concrete/CoP_SUC2013e.txt",
+    "pages": 212,
+    "source_pdf": "BD_CODES/concrete/CoP_SUC2013e.pdf"
+  },
+  "COP_SUC2013E_AMENDMENT202202": {
+    "path": "indexed_text/BD_CODES/concrete/CoP_SUC2013e_amendment202202.txt",
+    "pages": 9,
+    "source_pdf": "BD_CODES/concrete/CoP_SUC2013e_amendment202202.pdf"
+  },
+  "COP_SUC2013E_AMENDMENT202306": {
+    "path": "indexed_text/BD_CODES/concrete/CoP_SUC2013e_amendment202306.txt",
+    "pages": 4,
+    "source_pdf": "BD_CODES/concrete/CoP_SUC2013e_amendment202306.pdf"
+  },
+  "COP_SUC2013E_AMENDMENT202404": {
+    "path": "indexed_text/BD_CODES/concrete/CoP_SUC2013e_amendment202404.txt",
+    "pages": 15,
+    "source_pdf": "BD_CODES/concrete/CoP_SUC2013e_amendment202404.pdf"
+  },
+  "DIL2011E": {
+    "path": "indexed_text/BD_CODES/dead-imposed-loads/DIL2011e.txt",
+    "pages": 31,
+    "source_pdf": "BD_CODES/dead-imposed-loads/DIL2011e.pdf"
+  },
+  "FOUNDATIONCODE2017": {
+    "path": "indexed_text/BD_CODES/foundations/FoundationCode2017.txt",
+    "pages": 111,
+    "source_pdf": "BD_CODES/foundations/FoundationCode2017.pdf"
+  },
+  "FOUNDATIONCODE2017_AMENDMENT202509": {
+    "path": "indexed_text/BD_CODES/foundations/FoundationCode2017_amendment202509.txt",
+    "pages": 6,
+    "source_pdf": "BD_CODES/foundations/FoundationCode2017_amendment202509.pdf"
+  },
+  "EMSUOS2011E": {
+    "path": "indexed_text/BD_CODES/steel/EMSUOS2011e.txt",
+    "pages": 180,
+    "source_pdf": "BD_CODES/steel/EMSUOS2011e.pdf"
+  },
+  "SUOS2011": {
+    "path": "indexed_text/BD_CODES/steel/SUOS2011.txt",
+    "pages": 418,
+    "source_pdf": "BD_CODES/steel/SUOS2011.pdf"
+  },
+  "SUOS2011E_AMEND202604": {
+    "path": "indexed_text/BD_CODES/steel/SUOS2011e_Amend202604.txt",
+    "pages": 20,
+    "source_pdf": "BD_CODES/steel/SUOS2011e_Amend202604.pdf"
+  },
+  "EXPLANATORYNOTESWINDEFFECTS2019E": {
+    "path": "indexed_text/BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+    "pages": 83,
+    "source_pdf": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.pdf"
+  },
+  "EXPLANATORYNOTESWINDEFFECTS2019E_AMEND2023E": {
+    "path": "indexed_text/BD_CODES/wind/ExplanatoryNotesWindEffects2019e_Amend2023e.txt",
+    "pages": 6,
+    "source_pdf": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e_Amend2023e.pdf"
+  },
+  "WINDEFFECTS2019E": {
+    "path": "indexed_text/BD_CODES/wind/WindEffects2019e.txt",
+    "pages": 74,
+    "source_pdf": "BD_CODES/wind/WindEffects2019e.pdf"
+  },
+  "WINDEFFECTS2019E_AMEND2023E": {
+    "path": "indexed_text/BD_CODES/wind/WindEffects2019e_Amend2023e.txt",
+    "pages": 5,
+    "source_pdf": "BD_CODES/wind/WindEffects2019e_Amend2023e.pdf"
+  },
   "ADM-01": {
     "path": "indexed_text/PNAP/ADM/ADM-01.txt",
     "pages": 14,

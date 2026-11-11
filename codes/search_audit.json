@@ -1,0 +1,77 @@
+{
+  "documents": 14,
+  "pages": 1174,
+  "errors": [],
+  "results": [
+    {
+      "source_pdf": "documents/BD_CODES/dead-imposed-loads/DIL2011e.pdf",
+      "indexed_pages": 31,
+      "verified": true
+    },
+    {
+      "source_pdf": "documents/BD_CODES/foundations/FoundationCode2017.pdf",
+      "indexed_pages": 111,
+      "verified": true
+    },
+    {
+      "source_pdf": "documents/BD_CODES/foundations/FoundationCode2017_amendment202509.pdf",
+      "indexed_pages": 6,
+      "verified": true
+    },
+    {
+      "source_pdf": "documents/BD_CODES/concrete/CoP_SUC2013e.pdf",
+      "indexed_pages": 212,
+      "verified": true
+    },
+    {
+      "source_pdf": "documents/BD_CODES/concrete/CoP_SUC2013e_amendment202404.pdf",
+      "indexed_pages": 15,
+      "verified": true
+    },
+    {
+      "source_pdf": "documents/BD_CODES/concrete/CoP_SUC2013e_amendment202306.pdf",
+      "indexed_pages": 4,
+      "verified": true
+    },
+    {
+      "source_pdf": "documents/BD_CODES/concrete/CoP_SUC2013e_amendment202202.pdf",
+      "indexed_pages": 9,
+      "verified": true
+    },
+    {
+      "source_pdf": "documents/BD_CODES/steel/SUOS2011.pdf",
+      "indexed_pages": 418,
+      "verified": true
+    },
+    {
+      "source_pdf": "documents/BD_CODES/steel/SUOS2011e_Amend202604.pdf",
+      "indexed_pages": 20,
+      "verified": true
+    },
+    {
+      "source_pdf": "documents/BD_CODES/steel/EMSUOS2011e.pdf",
+      "indexed_pages": 180,
+      "verified": true
+    },
+    {
+      "source_pdf": "documents/BD_CODES/wind/WindEffects2019e.pdf",
+      "indexed_pages": 74,
+      "verified": true
+    },
+    {
+      "source_pdf": "documents/BD_CODES/wind/WindEffects2019e_Amend2023e.pdf",
+      "indexed_pages": 5,
+      "verified": true
+    },
+    {
+      "source_pdf": "documents/BD_CODES/wind/ExplanatoryNotesWindEffects2019e.pdf",
+      "indexed_pages": 83,
+      "verified": true
+    },
+    {
+      "source_pdf": "documents/BD_CODES/wind/ExplanatoryNotesWindEffects2019e_Amend2023e.pdf",
+      "indexed_pages": 6,
+      "verified": true
+    }
+  ]
+}

@@ -1,7 +1,31 @@
 {
-  "documents": 224,
-  "pages": 1995,
+  "documents": 238,
+  "pages": 3169,
   "empty_pages": [
+    {
+      "file": "BD_CODES/steel/EMSUOS2011e.txt",
+      "page": 2
+    },
+    {
+      "file": "BD_CODES/steel/EMSUOS2011e.txt",
+      "page": 6
+    },
+    {
+      "file": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+      "page": 2
+    },
+    {
+      "file": "BD_CODES/wind/ExplanatoryNotesWindEffects2019e.txt",
+      "page": 8
+    },
+    {
+      "file": "BD_CODES/wind/WindEffects2019e.txt",
+      "page": 2
+    },
+    {
+      "file": "BD_CODES/wind/WindEffects2019e.txt",
+      "page": 10
+    },
     {
       "file": "PNAP/ADM/ADM-02.txt",
       "page": 39
@@ -96,7 +120,7 @@
     }
   ],
   "errors": [],
-  "manifest_documents": 224,
+  "manifest_documents": 238,
   "manifest_failed": 0,
-  "manifest_needs_review": 7
+  "manifest_needs_review": 10
 }
