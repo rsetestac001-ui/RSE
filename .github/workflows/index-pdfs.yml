@@ -18,6 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: ${{ github.ref_name }}
           fetch-depth: 0
           persist-credentials: true
       - uses: actions/setup-python@v5
@@ -44,6 +45,7 @@ jobs:
             git commit -m "Update searchable PDF text batch $((i/batch_size+1))"
             success=false
             for attempt in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME"
               if git -c pack.window=0 -c pack.depth=0 push origin HEAD:main; then
                 success=true
                 break
