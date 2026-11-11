@@ -7,6 +7,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/bd_codes.py'
+      - 'scripts/verify_bd_codes.py'
       - '.github/workflows/update-bd-codes.yml'
 permissions:
   contents: write
@@ -37,7 +38,7 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git config pack.window 0
           git config pack.depth 0
-          git add documents/BD_CODES indexed_text/BD_CODES codes index_manifest.json search/pnap_fts.sqlite3 search/search_audit.json search/document_catalog.json search/topics
+          git add documents/BD_CODES indexed_text codes index_manifest.json search/pnap_fts.sqlite3 search/search_audit.json search/document_catalog.json search/topics
           if ! git diff --cached --quiet; then
             git commit -m 'Sync official BD codes, amendments and page search index'
             git pull --rebase origin main
