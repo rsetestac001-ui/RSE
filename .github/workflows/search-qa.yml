@@ -1,0 +1,25 @@
+name: Cross-source search QA
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'indexed_text/**'
+      - 'scripts/build_search.py'
+      - 'scripts/test_cross_references.py'
+      - 'tests/search_cases.json'
+      - '.github/workflows/search-qa.yml'
+jobs:
+  search-qa:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build index
+        run: python scripts/build_search.py build
+      - name: Evaluate candidate retrieval
+        run: python scripts/test_cross_references.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cross-search-qa
+          path: search/qa_report.json
