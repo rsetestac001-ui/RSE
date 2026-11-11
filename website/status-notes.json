@@ -1,11 +1,39 @@
 {
   "updated_at": "2026-11-11",
-  "current_focus": "確認版本、修補抽字問題、補齊核對紀錄。",
-  "verification": "完整 100 題問題、原答案及逐題官方核對尚未能證實。唔顯示猜測嘅完成百分比或答案準確率。",
+  "current_focus": "已建立100條不同的條文參考題並完成逐題搜尋診斷；下一步修補中文問句、法例整合與排序。",
+  "verification": "已找回未合併分支的原100列：60個不同搜尋字串、40列重複、沒有完整待評答案。另建立100條新中文參考題並依原文核對。中文前10頁文件命中58/100、指定頁命中50/100；英文關鍵字指定頁90/100。這些是搜尋診斷，答案準確率仍未知。",
   "next_steps": [
-    "核對各來源現行版本、取消／取代及修訂狀態。",
-    "處理 index_manifest 同 audit 所列待覆核文件、空白／掃描頁。",
-    "補齊測試原題同原答案，再逐題對官方原文並記錄改善。",
-    "每次更新資料或搜尋邏輯後，重跑搜尋回歸。"
-  ]
+    "改善中文問題處理，使用額外新題驗證而非針對本題庫硬編碼。",
+    "整合主分支搜尋的獨立法例索引；目前5題法例未能命中條文。",
+    "處理長文件多頁佔位、漏搜PNAP及鄰近段落補讀。",
+    "先固定待評系統的完整答案，再獨立評核數值、邏輯、例外、版次與引文。"
+  ],
+  "answer_review": {
+    "questions": 100,
+    "ai_source_reviewed_reference_answers": 100,
+    "historical_answers_graded": 0,
+    "independent_professional_reviews": 0,
+    "answer_accuracy": null,
+    "chinese_document_hits_at_10_pages": 58,
+    "chinese_reference_page_hits_at_10_pages": 50,
+    "english_keyword_reference_page_hits_at_10_pages": 90,
+    "live_official_pdf_matches": 10,
+    "live_official_xml_matches": 2,
+    "report": "search/answer_review_v1.md",
+    "dataset": "tests/answer_cases_v1.json",
+    "raw_results": "search/answer_retrieval_v1.json"
+  },
+  "stage_overrides": {
+    "verify": {
+      "state": "review",
+      "label": "100條新參考題已實跑，答案準確率未評",
+      "detail": "已找回未合併分支的原100列：60個不同搜尋字串、40列重複、沒有完整待評答案。另建立100條新中文參考題並依原文核對。中文前10頁文件命中58/100、指定頁命中50/100；英文關鍵字指定頁90/100。這些是搜尋診斷，答案準確率仍未知。",
+      "evidence": [
+        "tests/answer_cases_v1.json",
+        "search/answer_review_v1.md",
+        "search/answer_retrieval_v1.json",
+        "search/answer_official_sources_v1.json"
+      ]
+    }
+  }
 }

@@ -1,0 +1,127 @@
+{
+  "method": "Fresh official downloads compared byte-for-byte with pinned repository files. Hash match verifies copied bytes, not semantic correctness or completeness of version discovery.",
+  "pdf_results": [
+    {
+      "path": "documents/PNAP/ADM/ADM-16.pdf",
+      "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/ADM/ADM016.pdf",
+      "checked_at": "2026-11-11T06:07:45.319655+00:00",
+      "http_status": 200,
+      "repository_sha256": "e6818a97a326e029596f5020f50732100f0ce8bf5e81c0245b3d0f18139de3bd",
+      "official_sha256": "e6818a97a326e029596f5020f50732100f0ce8bf5e81c0245b3d0f18139de3bd",
+      "match": true,
+      "bytes": 43126
+    },
+    {
+      "path": "documents/PNAP/APP/APP-030.pdf",
+      "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP030.pdf",
+      "checked_at": "2026-11-11T06:07:45.320389+00:00",
+      "http_status": 200,
+      "repository_sha256": "2a1707428fee7f4db1f8f51fe02647c3cc985be4d9570ef6a97a6cbb17f6179f",
+      "official_sha256": "2a1707428fee7f4db1f8f51fe02647c3cc985be4d9570ef6a97a6cbb17f6179f",
+      "match": true,
+      "bytes": 98179
+    },
+    {
+      "path": "documents/PNAP/APP/APP-025.pdf",
+      "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP025.pdf",
+      "checked_at": "2026-11-11T06:07:45.320841+00:00",
+      "http_status": 200,
+      "repository_sha256": "c2c727d25b0ec62a0cde7b90640b530c9fbc6890612ddc120a91d14218ae2dfd",
+      "official_sha256": "c2c727d25b0ec62a0cde7b90640b530c9fbc6890612ddc120a91d14218ae2dfd",
+      "match": true,
+      "bytes": 12697
+    },
+    {
+      "path": "documents/PNAP/APP/APP-056.pdf",
+      "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP056.pdf",
+      "checked_at": "2026-11-11T06:07:45.325097+00:00",
+      "http_status": 200,
+      "repository_sha256": "09c8971ca111afbfcaa4987713d21c34e2b370798feb8fb7f25f830b4e7342ad",
+      "official_sha256": "09c8971ca111afbfcaa4987713d21c34e2b370798feb8fb7f25f830b4e7342ad",
+      "match": true,
+      "bytes": 54172
+    },
+    {
+      "path": "documents/PNAP/APP/APP-057.pdf",
+      "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP057.pdf",
+      "checked_at": "2026-11-11T06:07:45.326630+00:00",
+      "http_status": 200,
+      "repository_sha256": "8d01dd704341af4aa9267781aa38b10923395b62557d19d8c48663184df4a8f2",
+      "official_sha256": "8d01dd704341af4aa9267781aa38b10923395b62557d19d8c48663184df4a8f2",
+      "match": true,
+      "bytes": 181855
+    },
+    {
+      "path": "documents/PNAP/APP/APP-049.pdf",
+      "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP049.pdf",
+      "checked_at": "2026-11-11T06:07:45.327987+00:00",
+      "http_status": 200,
+      "repository_sha256": "83512f6b61ddb8a3a02243178a48586c8d78be1d712ae87332775fa856686514",
+      "official_sha256": "83512f6b61ddb8a3a02243178a48586c8d78be1d712ae87332775fa856686514",
+      "match": true,
+      "bytes": 154522
+    },
+    {
+      "path": "documents/PNAP/APP/APP-018.pdf",
+      "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP018.pdf",
+      "checked_at": "2026-11-11T06:07:51.539677+00:00",
+      "http_status": 200,
+      "repository_sha256": "0bbad37c1fbc9c3d22da92806e74f3350e7313cdd36bd895257b0d88f03663a2",
+      "official_sha256": "0bbad37c1fbc9c3d22da92806e74f3350e7313cdd36bd895257b0d88f03663a2",
+      "match": true,
+      "bytes": 490906
+    },
+    {
+      "path": "documents/BD_CODES/foundations/FoundationCode2017.pdf",
+      "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/FoundationCode2017.pdf",
+      "checked_at": "2026-11-11T06:07:51.590772+00:00",
+      "http_status": 200,
+      "repository_sha256": "a3c1721c6d95d045ad9d188cd60aac71840fd26f0a8a0044d57485d196ec306d",
+      "official_sha256": "a3c1721c6d95d045ad9d188cd60aac71840fd26f0a8a0044d57485d196ec306d",
+      "match": true,
+      "bytes": 1776254
+    },
+    {
+      "path": "documents/BD_CODES/foundations/FoundationCode2017_amendment202509.pdf",
+      "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/FoundationCode2017_amendment202509.pdf",
+      "checked_at": "2026-11-11T06:07:51.611728+00:00",
+      "http_status": 200,
+      "repository_sha256": "b0616c60207b419e15e26741f1b7196d2dc7687dfb8e03a870bee1fe5dedc11d",
+      "official_sha256": "b0616c60207b419e15e26741f1b7196d2dc7687dfb8e03a870bee1fe5dedc11d",
+      "match": true,
+      "bytes": 214233
+    },
+    {
+      "path": "documents/HKIE/HKIE-foundations-2017.pdf",
+      "url": "https://hkie.org.hk/st/wp-content/uploads/sites/40/hkie/a5de54214e8bbba4d24c55cffae6e480/79_Foundation-Code-Handbook-2017.pdf",
+      "checked_at": "2026-11-11T06:07:51.651732+00:00",
+      "http_status": 200,
+      "repository_sha256": "aa33cfd244d7c05683a43af202f67dbf9e51de4f4e5ad829f3da1057130b7e51",
+      "official_sha256": "aa33cfd244d7c05683a43af202f67dbf9e51de4f4e5ad829f3da1057130b7e51",
+      "match": true,
+      "bytes": 10725740
+    }
+  ],
+  "legislation_results": [
+    {
+      "chapter": "123",
+      "path": "legislation/raw/cap123/en/cap_123_20260301000000_en_c.xml",
+      "url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_en.zip",
+      "version_date": "2026-03-01",
+      "checked_at": "2026-11-11T06:08:12.922786+00:00",
+      "official_sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+      "repository_sha256": "f5f297444f92b43adfaba3accb159e954ea68a230765dc015dd82a831229272b",
+      "match": true
+    },
+    {
+      "chapter": "123A",
+      "path": "legislation/raw/cap123A/en/cap_123A_20240630000000_en_c.xml",
+      "url": "https://resource.data.one.gov.hk/doj/data/hkel_c_leg_cap_1_cap_300_en.zip",
+      "version_date": "2024-06-30",
+      "checked_at": "2026-11-11T06:08:12.924531+00:00",
+      "official_sha256": "5771573b06136e07b8ae6089ce698688f3d10bcd2b49e6a2bc79daddd58fb6f9",
+      "repository_sha256": "5771573b06136e07b8ae6089ce698688f3d10bcd2b49e6a2bc79daddd58fb6f9",
+      "match": true
+    }
+  ]
+}
