@@ -1,0 +1,2618 @@
+
+
+===== PDF PAGE 1 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+WIND LOADING HANDBOOK
+
+A practical guide to
+the Code of Practice on Wind Effects in Hong Kong 2004
+
+Structural Division
+The Hong Kong Institution of Engineers
+
+
+===== PDF PAGE 2 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+WIND LOADING HANDBOOK
+
+A practical guide to
+the Code of Practice on Wind Effects in Hong Kong 2004
+
+June 2005
+
+Prepared by a working group of
+Structural Division
+
+The Hong Kong Institution of Engineers
+
+
+===== PDF PAGE 3 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Published by the Structural Division of the Hong Kong Institution of Engineers
+
+The content of this Handbook is an expression of opinion only. The guidance and
+recommendations given in this Handbook should always be reviewed by those using the
+handbook in the light of the facts of their particular case. The Structural Division of the Hong
+Kong Institution of Engineers, the members of the Working Group and their servants or
+agents assume no responsibility to any party for the whole or any part of this Handbook and
+- its content.
+
+No part of oe Handbook may be reproduced, stored in a retrieval system or transmitted in
+any form or by any means without prior permission of the Suc Division of the Hong
+
+Ko Institution of Engineers.
+
+|
+=
+
+
+===== PDF PAGE 4 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Foreword
+
+I am honoured to represent the Structural Division of the Hong Kong Institution of Engineers
+to express our gratitude to the working group writing up this handbook on the Code of
+Practice on Wind Effects in Hong Kong 2004. In my mind, this handbook would greatly
+benefit the industry in various perspectives:
+
+(a) It serves as a self-explanatory practical guide to designers and graduates who would
+hence demand less hand-on individual guidance from their supervisors on the use of the code.
+
+(b) It provides a consistent interpretation and application of the code based on typical
+worked examples, which could also be taken as good reference for submissions to relevant
+authorities.
+
+(c) It allows the users to better appreciate the order of magnitude and implications of the
+code recommendations through the worked examples, which may throw light on the designers
+in arriving at optimized solutions.
+
+On this particular new wind code, there are several major breakthroughs from the previous
+code issued in 1983:
+
+(a) The simplification to only one open sea terrain.
+
+(b) The review on the wind velocities and wind pressures.
+
+(c) The introduction of topographic factor for hill and ridges, and cliff and escarpment.
+
+(d) The adoption of dynamic magnification factor for significant resonant dynamic
+response.
+
+I am delighted to find that all these have been clearly addressed and illustrated in this
+handbook.
+
+Lastly, I would like to congratulate the team, led by Ir H. K. Ng and including Dr K. M. Lam,
+Ir K. L. Lo and Ir Y. C. Tsui for their fine works which would not come on stream without
+their dedicated effort and professionalism.
+
+Joseph Y W Mak
+Structural Division Chairman 2004/2005
+
+
+===== PDF PAGE 5 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+(Blank)
+
+
+===== PDF PAGE 6 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Wind loading handbook
+
+Contents
+
+1. Introduction
+
+2. Calculation procedure
+
+3. Topography factor
+
+4. Classification rules for significant resonant dynamic response
+5. Wind pressure profile
+
+6. Force coefficient for enclosed building
+
+7. Dynamic magnification factor for enclosed building
+
+8. Total force on enclosed building
+
+9. Pressure coefficient and force on building elements of enclosed building
+10. Open framework building
+
+11.‘ Information to be provided in a wind tunnel testing report
+Appendix A
+
+Example calculation on a multi-storey building not significant in
+resonant dynamic response — Building A
+
+Appendix B
+Example calculation on a multi-storey building significant in
+resonant dynamic response — Building B
+
+iii
+
+Page
+
+14
+15
+17
+21
+25
+27
+29
+
+32
+
+37
+
+43
+
+
+===== PDF PAGE 7 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+(Blank)
+
+iv
+
+
+===== PDF PAGE 8 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+1.1
+
+1.2
+
+1.3
+
+Introduction
+
+The Code of Practice on Wind Effects in Hong Kong 2004 introduces several new
+concepts in the basis for assessing wind loads. This handbook is intended to provide
+engineers with a guide to calculate the wind loads effectively in accordance with the
+Code, for the design of ordinary buildings.
+
+The handbook does not attempt to interpret the Code for application to complex
+topography or unusual features of wind loading, nor it attempts to provide solution for
+situations not covered by the Code. For background information of the Code and
+considerations reviewed by the Code Drafting Committee, the reader can make
+reference to the Buildings Department’s technical publication “Explanatory Materials
+to the Code of Practice on Wind Effects in Hong Kong 2004”.
+
+The handbook should be read in conjunction with the Code. It does not override the
+recommendations of the Code.
+
+
+===== PDF PAGE 9 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+2.1
+
+2.2
+
+2.3
+
+Calculation procedure
+
+The calculation of wind loads on buildings consists of three main parts:
+
+(a) The determination of the wind pressure profile
+
+(b) The determination of the total wind force acting on the building
+
+(c) The determination of the force acting on individual elements
+
+The Code provides general methods for calculating the wind loads. Outline of the
+calculation procedure for an enclosed building is illustrated in the flowchart given in
+
+figure 2.1. Outline of the calculation procedure for an open framework building is
+illustrated in the flowchart given in figure 2.2.
+
+The stages given in the flowcharts are to be carried out for each critical wind direction.
+
+
+===== PDF PAGE 10 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+For each critical wind direction:
+
+Determine the topography factor S, for the site. (Section 3)
+
+No] Determine whether the building has significant] Yes
+
+resonant dynamic response. (Section 4)
+
+Determine the design wind pressure for
+various height z of the building above site-
+ground level:
+
+3-second gust pressure q, for both total wind
+force on building and wind force on individual
+elements. (Section 5)
+
+Determine the design wind pressure for
+various height z of the building above site-
+ground level:
+
+Hourly mean wind pressure q, for total wind
+
+force on building.
+3-second gust pressure q, for wind force on
+individual elements. (Section 5)
+
+Reduce the design wind pressure q, to 70% in
+the case of temporary building with life span
+not more than one year. (Section 5)
+
+Reduce the design wind pressure q,and q, to
+70% in the case of temporary building with life
+
+span not more than one year. (Section 5)
+
+Yes| Determine whether the fundamental
+
+natural frequency of the building is
+less than 0.2Hz.
+
+No
+
+Determine the force coefficient C; for the
+building. (Section 6)
+
+Determine the force coefficient C; for the
+building. (Section 6)
+
+Determine the frontal projected area reduction
+factor Ra. (Section 6)
+
+Determine the dynamic magnification factor G
+of the building. (Section 7)
+
+|
+
+Calculate the total wind force acting on the
+building from qz, Sz, Cr, Ra and the effective
+projected area of the building. (Section 8)
+
+Calculate the total along-wind force acting on
+the building from q,, Sz, C; G and the
+
+effective projected area of the building.
+(Section 8)
+
+Yes|Determine whether the building is
+
+with significant cross-wind / torsional
+resonant response.
+
+No
+Investigate the resonant dynamic effects in
+accordance with recommendations given in
+published literature and/or through the use of
+dynamic wind model studies.
+Determine the pressure coefficient C, for individual elements. (Section 9)
+
+Calculate the wind force acting on individual element from qz, Sa, Cp and the
+corresponding surface area of the element. (Section 9)
+
+Figure 2.1 — Flowchart illustrating outline procedure for wind load on an enclosed
+
+building
+
+
+===== PDF PAGE 11 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+For each critical wind direction:
+
+Determine the topography factor S, for the site. (Section 3)
+
+No | Determine — whether
+significant resonant
+(Section 4)
+
+the building has | ves
+
+dynamic response. ]
+
+Determine the design wind pressure for
+various height z of the building above site-
+ground level:
+
+3-second gust pressure q, for both total wind
+force on building and wind force on individual
+elements. (Section 5)
+
+Determine the design wind pressure for
+various height z of the building above site-
+ground level:
+
+Hourly mean wind pressure q, for total wind
+
+force on building.
+3-second gust pressure q, for wind force on
+individual elements. (Section 5)
+
+Reduce the design wind pressure q, to 70%
+in the case of temporary building with life
+span not more than one year. (Section 5)
+
+Investigate the resonant dynamic response in
+accordance with recommendations given in
+published literature and/or through the use of
+dynamic wind model studies. (Section 10)
+
+Determine the force coefficient C; for the
+open framework building. (Section 10)
+
+Calculate the total wind force acting on the
+building from gz, Sz, C; and the effective
+projected area of the open _ framework
+building. (Section 10)
+
+Determine the pressure coefficient C, for individual elements. (Section 10)
+
+Calculate the wind force acting on individual elements from qz, Sa, C, and the
+surface area of the element. (Section 10)
+
+Figure 2.2 — Flowchart illustrating outline procedure for wind load on an open
+
+framework building
+
+
+===== PDF PAGE 12 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+3. Topography factor
+
+3.1 Wind speed increases on blowing up the windward slope of a hill. Clause 4.2 of the
+Code requires the topography effect to be considered when the local topography is
+significant.
+
+3.2 When the local topography is significant, the Code recommends the design wind
+pressure to be increased by multiplication with a topography factor to account for the
+topography effect of the hill or escarpment.
+
+3.3 The user of the Code may follow the steps outlined in section 3.4 below to consider
+the topography effect, with reference to Appendix C of the Code.
+
+3.4 The basic data required for the determination of the topography factor are illustrated in
+figure 3.1.
+
+Wind direction A Wind direction B
+ead fe
+<—_XxXi—
+
+where ay is the upwind slope with respect to wind direction A, which is
+the slope of the ground where the site is located.
+
+(on) is the upwind slope with respect to wind direction B.
+
+H, is the height of the crest above the foreground of slope ay.
+He is the height of the crest above the foreground of slope a.
+Xi is the horizontal distance of the building from the crest, in the
+
+upwind direction.
+
+Xo is the horizontal distance of the building from the crest, in the
+downwind direction.
+
+Figure 3.1 — Legends of topography data
+
+5
+
+
+===== PDF PAGE 13 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+The step-by-step approach to the calculations are given below. The building should be
+considered for both upwind and downwind. The topography factors in each wind
+direction should be respectively determined.
+
+(A)
+
+(Al)
+
+(A2)
+
+(A3)
+
+(A4)
+
+(AS)
+
+(A6)
+
+(A7)
+
+(A8)
+
+(A9)
+
+(A10)
+
+Topography factor for wind direction A (upwind on the building)
+
+Determine the upwind slope ay in the wind direction A. This is the value @ in
+figure 3.1.
+
+Is ay greater than 0.05?
+
+Yes: Go to step (A3)
+No: Local topography for wind direction A is not significant. Take the
+topography factor S, = 1 and go to step (B1).
+
+Determine the effective height H of the crest above the foreground level of the
+upwind slope in the direction of the wind. This is the value H; in figure 3.1.
+
+Determine the horizontal distance X of the building from the crest. X is
+negative with respective to wind direction A. This is equal to -X7 in figure 3.1.
+
+Is the site located within a height 0.5H from the crest?
+
+(i.e., is @y X; < 0.5H?)
+
+Yes: Go to step (A6)
+
+No: _ Site is located outside significant distance from crest. Local topography
+for wind direction A is not significant. Take the topography factor
+Sa= 1 and go to step (B1).
+
+Determine the downwind slope @p in the wind direction. This is the value a
+in figure 3.1.
+
+Is @p in step (A6) greater than 0.05?
+Yes: Topography is “hill-and-ridge” with respect to wind direction A.
+No: Topography is “cliff-and-escarpment” with respect to wind direction A.
+
+Determine the length of the upwind slope Zy in the wind direction,
+by Lu = H/ay.
+
+Determine the effective slope a according to the steepness of the upwind slope
+au:
+If ay is not greater than 0.3, a = ay
+
+If ay is greater than 0.3, a = 0.3
+
+Determine the effective slope length L, according to the steepness of the
+upwind slope ay:
+
+If ay is not greater than 0.3, L. = Lu
+If ay is greater than 0.3, Le = H/0.3
+
+
+===== PDF PAGE 14 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+(All)
+
+(A12)
+
+(A13)
+
+(B)
+
+(B)
+
+(B2)
+
+(B3)
+
+(B4)
+
+(B5)
+
+(B6)
+
+(B7)
+
+(B8)
+
+Calculate the distance ratio X/Ly. (For wind direction A, X/Ly is negative.)
+
+Determine the topography location factor s for various height z above ground
+according to the height ratio z/L, and the distance ratio X/Ly, from the upwind
+side (left-hand side) of Figure C3 in the Code in the case of “hill-and-ridge”
+topography, or Figure C4 in the Code in the case of “cliff-and-escarpment”
+
+topography.
+
+Calculate the topography factor S, for various height z above ground, by the
+following equation:
+
+S,=(1+1.2a,s)
+
+Topography factor for wind direction B (downwind on the building)
+
+Determine the upwind slope q@y in the wind direction B. This is the value q@ in
+figure 3.1.
+
+Is ay in step (B1) greater than 0.05?
+
+Yes: Go to step (B3)
+No: Local topography for wind direction B is not significant. No further
+calculation is necessary. Take the topography factor S, = 1.
+
+Determine the downwind slope ap in the wind direction. This is the value a,
+in figure 3.1.
+
+Is @p in step (B3) greater than 0.05?
+Yes: Topography is “hill-and-ridge” with respect to wind direction B.
+No: Topography is “cliff-and-escarpment” with respect to wind direction B.
+
+Determine the effective height H of the crest above the foreground level of the
+upwind slope in the direction of the wind. This is the value A? in figure 3.1.
+
+Determine the length of the upwind slope Zy in the wind direction,
+
+Determine the horizontal distance X of the site from the crest. X is positive
+with respective to wind direction B. This is equal to _X2 in figure 3.1.
+
+Determine the downwind horizontal influence distance by:
+
+For “hill-and-ridge” topography:
+If ay is less than 0.3, influence distance = 0.5Ly
+If ay greater than 0.3, influence distance = 1.6H
+
+For “cliff-and-escarpment” topography:
+If ay is less than 0.3, influence distance = 1.5Ly
+If au greater than 0.3, influence distance = 5H
+
+
+===== PDF PAGE 15 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+3.5
+
+3.6
+
+(B9)
+
+(B10)
+
+(B11)
+
+(B12)
+
+(B13)
+
+(B14)
+
+(B15)
+
+Is the site located within the downwind horizontal influence distance from the
+crest?
+(i.e., is X in step (B7) < influence distance?)
+
+Yes: Go to step (B10)
+No: Local topography for downwind is not significant. No further
+calculation is necessary. Take the topography factor S, = 1.
+
+Determine the length of the downwind slope Lp in the wind direction by
+Lp = H/ ap.
+
+Determine the effective slope a according to the steepness of the upwind slope
+ay determined in step (B1):
+
+If ay is not greater than 0.3, @ = Qu
+If ay is greater than 0.3, a. = 0.3
+
+Determine the effective slope length L, according to the steepness of the
+upwind slope ay determined in step (B1):
+
+If ay is not greater than 0.3, Le = Lu
+If ay is greater than 0.3, L. = H/0.3
+
+Calculate the distance ratio X/Lp in the case of “hill-and-ridge” topography, or
+X/L, in the case of “cliff-and-escarpment” topography. (A/Lp or X/Le is
+positive with respect to wind direction B.)
+
+Determine the topography location factor s for various height z above ground:
+
+For “hill-and-ridge” topography:
+
+Obtain s from the downwind side (right-hand side) of Figure C3 in the Code,
+according to the height ratio z/L, and the distance ratio X/Lp.
+
+For “cliff-and-escarpment” topography:
+
+Obtain s from the downwind side (right-hand side) of Figure C4 in the Code,
+according to the height ratio z/L, and the distance ratio X/Le.
+
+Calculate the topography factor S, for various height z above ground, by the
+following equation:
+
+S, =(1+1.2a,s)
+
+In Figures C3 and C4 of the Code, the height above ground ratio is in log scale and the
+horizontal position ratio is in natural scale. Figures C3 and C4 of the Code are
+reproduced in figure 3.2 and figure 3.3 respectively, with minor grids added for user’s
+convenience.
+
+Example calculations of topography factors are given in calculation sheets 3.1, 3.2
+and 3.3.
+
+
+===== PDF PAGE 16 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+(apoy ay} jo ¢D ainbi4 wo1 peonpoides) sabpis pue sijiy 10} S 10}9e) UOIVed0] AydesBodoy — Z’¢ ainBi4
+
+soles UONIsod jeyUuOZUOH
+
+ayy <—| s "x
+Ge OC Gt Ol gO 0 GO- Ol- GI- 0
+7 AAA ian | -0 28
+Va Vea | ZO. 6G
+AT AAY [] L =
+fa)
+if \ \.09'0/ in| co O06
+: | Sayan) Gn | 2
+\ \ Ov 0-7 i SO 3
+\ Af 90 =#=§
+\ aa NEY 90 5
+\ \ 020" S]
+IN ~ | [ L Y 0 | =
+oN 4 choON
+_ = . |
+= are — GL °
+“ UL ae aa Oz
+_ - LC citmen rz
+PEEP QZ
+JSOs0 JO puMUMOGq <—+—> }S9J9 Jo pulmdy+)
+
+
+===== PDF PAGE 17 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+(apoa 24} Jo yD ainbi4 wo paonpoides) s}uawidseosa puke SjjI/9 10) S 10}9e} UO!}e90] AydeiBodo|— ¢"¢ ounbi4
+
+soled UolIsod je]uOZO}]
+
+°YX <—
+
+G2 0@ Gl OF GO
+
+t—> "VX
+
+0 GO Ol GI
+
+LO
+
+N
+——s
+
+40
+
+9L'O
+
+N
+
+—|
+Pee
+
+c 0
+
+\
+
+£0
+
+v0
+
+S'°0
+
+QW
+
+90
+
+80
+
+“A
+-)
+
+cl
+
+GL
+
+a
+
+yak
+
+w
+
++O
+
+ySeu0 JO pulmMuMOq <—
+
+|__» }S9J9 Jo puimd¢
+
+ez oles punos6 anoge jybley
+
+10
+
+
+===== PDF PAGE 18 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Calculation Sheet for Topography Factor S,
+
+H,= 420|(m) Wind direction A x1 Wind direction B
+He = 50}(m) ——> X2 <—— +H,
+ay= 0.6 a ia tan
+a2 = 0.04 ae siopd «;
+X= 185|(m) mand Slope a ;
+Xp = 165|(m)
+Wind direction A (upwind on building)
+Upwind slope @y in the wind direction (= a; in the figure) 0.60
+ay > 0.05? Yes
+Effective height H of crest (=H; in the figure) (m) 420
+Horizontal distance X of site from crest (= -X, in the figure) (m) -185
+Effective height of site below crest (= X;@y) (m) 411
+Site within 0.5H below crest? Yes
+Downwind slope @p in the wind direction (= a in the figure) 0.04
+Topography (if @p>0.05, hill-and-ridge; otherwise cliff-and-escarpment) Cliff-and-escarpment
+Length of upwind slope L y = H/ay (m) 700
+Effective slope @ (If ay < 0.3, a, = ay; otherwise a, = 0.3) 0.30
+Effective slope length L. (If ay <0.3,L. =Ly; otherwise L, = H/0.3) (m) 1400
+X/L y (X/L y is negative for upwind) -0.264
+Wind direction B (downwind on building)
+Upwind slope @y in the wind direction (a, in the figure) 0.04
+ay > 0.05? No Local topography not significant for wind direction B
+Topography factor S, for height z above ground
+Height Wind direction A (upwind on building) Wind direction B not significant
+ground X/L_y _=-0.264 _(cliff-and-escpmt)
+z(m) the s Sq =(1+1.2a6s)* the s S, =(1+ 1.2a,8)*
+5 0.004 0.60 1.48 1.00
+30 0.021 0.60 1.48 1.00
+50 0.036 0.60 1.48 1.00
+75 0.054 0.60 1.48 1.00
+100 0.071 0.60 1.48 1.00
+150 0.107 0.59 1.47 1.00
+200 0.143 0.54 1.43 1.00
+250 0.179 0.51 140 1.00
+300 0.214 0.46 1.36 1.00
+400 0.286 0.38 1.29 1.00
+500 0.357 0.30 1.23 7.00
+
+Calculation sheet 3.1 —- Example calculation of topography factor (1)
+
+11
+
+
+===== PDF PAGE 19 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Calculation Sheet for Topography Factor S,
+
+x
+H,= 300](m) Wind direction A 1
+Hp = 420|(m) ——_> X> <—_—.
+
+Wind direction B
+
+ay,= 0.35
+
+a2
+
+X2= 250}(m)
+
+* 0.6 H, a ~ ow °
+Xr = 280) (m) Slopea, Slope a2
+
+Wind direction A (upwind on building)
+
+Upwind slope @y in the wind direction (= @, in the figure) 0.35
+ay > 0.05? Yes
+Effective height H of crest (=H ; in the figure) (m) 300
+Horizontal distance X of site from crest (= -X, in the figure) (m) -280
+Effective height of site below crest (= X; ay) (m) 98
+Site within 0.5H below crest? Yes
+Downwind slope @p in the wind direction (= > in the figure) 0.60
+Topography (if a@p>0.05, hill-and-ridge; otherwise cliff-and-escarpment) Hill-and-ridge
+Length of upwind slope L y = H/ay (m) 857
+Effective slope ae (If ay <0.3, a, = ay; otherwise a, = 0.3) 0.30
+Effective slope length L, (If ay < 0.3, L. =Ly; otherwise L. = H/0.3) (m) 1000
+X/L y (X/L y is negative for upwind) -0.327
+Wind direction B (downwind on building)
+Upwind slope @y in the wind direction (a in the figure) 0.60
+ay > 0.05? Yes
+Downwind slope ap in the wind direction (= a, in the figure) 0.35
+Topography (if @p>0.085, hill-and-ridge; otherwise cliff-and-escarpment) Hill-and-ridge
+Effective height H of crest (= H in the figure) (m) 420
+Length of upwind slope L y = H/ay (m) 700
+Horizontal distance X of site from crest (= X 2 in the figure) (m) 250
+Influence distance from crest: Hill-and-ridge: =0.5L y if ay < 0.3; otherwise =1.6H 672
+Cliff-and-escarpment: =1.5L y if ay < 0.3; otherwise =5H (N.A.)
+Site within influence distance from crest? Yes
+Length of downwind slope Lp = H/ap (m) 1200
+Effective slope a, (If ay <0.3, a, = ay; otherwise a, = 0.3) 0.30
+Effective slope length L. (If @y <0.3,L. =Ly; otherwise L, =H/0.3) (m) 1400
+X/L p (for hill and ridge) 0.208
+X/L ¢ (for cliff and escarpment) (N.A.)
+Topography factor S, for height z above ground
+Height Wind direction A (upwind on building) Wind direciton B (downwind on building)
+ground X/L y = -0.327 (hill-and-ridge) X/L p =0.208 —_(hill-and-ridge)
+z(m) Le s Se =(1+1.2a¢s)” Zhe s Sa =(1+ 1.20.8)"
+5 0.005 0.47 1.37 0.004 0.61 1.49
+30 0.030 0.47 1.37 0.021 0.61 1.49
+50 0.050 0.47 1.37 0.036 0.61 1.49
+75 0.075 0.47 1.37 0.054 0.61 1.49
+100 0.100 0.47 1.37 0.071 0.61 1.49
+150 0.150 0.45 1.35 0.107 0.61 1.49
+200 0.200 0.38 1.29 0.143 0.57 1.45
+250 0.250 0.34 1.26 0.179 0.55 1.44
+300 0.300 0.31 4.24 0.214 0.51 1.40
+400 0.400 0.25 1.19 0.286 0.42 1.33
+500 0.500 0.19 1.14 0.357 0.35 1.27
+
+Calculation sheet 3.2 —- Example calculation of topography factor (2)
+
+12
+
+
+===== PDF PAGE 20 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Calculation Sheet for Topography Factor S, x
+H, = 10](m) Wind direction A =! Wind direction B
+Hz = 80](m) TH, Xo <¢———_
+aye 0.03 z =
+a2 = 0.27 Slope a ; | ”
+Xr 230)(m) Slopé a> bce
+X2= 200|(m)
+Wind direction A (upwind on building)
+Upwind slope ay in the wind direction (= a, in the figure) 0.03
+ay > 0.05? No Local topography not significant for wind direction A
+Wind direction B (downwind on building)
+Upwind slope ay in the wind direction (a2 in the figure) 0.27
+ay > 0.05? Yes
+Downwind slope @p in the wind direction (= @; in the figure) 0.03
+Topography (if @p>0.05, hill-and-ridge; otherwise cliff-and-escarpment) Cliff-and-escarpment
+Effective height H of crest (= H2 in the figure) (m) 80
+Length of upwind slope Ly = H/ay (m) 296
+Horizontal distance X of site from crest (= X 2 in the figure) (m) 200
+Influence distance from crest: Hill-and-ridge: =0.5L y if ay < 0.3; otherwise =1.6H (N.A.)
+Cliff-and-escarpment: =1.5L y if ay < 0.3; otherwise =5H 444
+Site within influence distance from crest? Yes
+Length of downwind slope Lp = H/ap (m) (N.A.)
+Effective slope @, (If ay < 0.3, a, = ay; otherwise a, = 0.3) 0.27
+Effective slope length L, (If ay <0.3,L,. =Ly; otherwise L. = H/0.3) (m) 296
+X/L p (for hill and ridge) (N.A.)
+X/L ¢ (for cliff and escarpment) 0.675
+Topography factor S, for height z above ground
+Height Wind direction A not significant Wind direciton B (downwind on building)
+above X/L ¢ = 0.675 (cliff-and-escpmt)
+on) the s S, =(1+1.2a-s)” the s S, =(1+ 1.2a28)"
+5 1.00 0.017 0.41 1.28
+30 1.00 0.101 0.41 1.28
+50 1.00 0.169 0.52 1.37
+75 1.00 0.253 0.61 1.43
+100 4.00 0.338 0.52 1.37
+150 1.00 0.506 0.33 1.23
+200 1.00 0.675 0.24 1.16
+250 1.00 0.844 0.18 1.12
+300 1.00 1.013 0.14 1.09
+400 1.00 1.350 0.10 1.07
+500 1.00 1.688 0.07 1.05
+Calculation sheet 3.3 - Example calculation of topography factor (3)
+13
+
+
+===== PDF PAGE 21 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+4.1
+
+4.2
+
+43
+
+4.4
+
+Classification rules for significant resonant dynamic response
+
+The Code recommends a quasi-static approach for the determination of the total wind
+force acting on buildings that are not significant in resonant dynamic response. In the
+quasi-static approach, the design wind pressure obtained from the 3-second gusts is
+applied directly to the calculation of the total wind force.
+
+When a building is considered with significant resonant dynamic response, the quasi-
+static approach would not be appropriate for to the determination of total wind force
+acting on the building. Additional parameters are required to be included in the
+analysis to assess the response more precisely. The Code recommends the total wind
+force to be calculated from the pressure obtained from the hourly mean velocity. The
+force so calculated is to be augmented by a dynamic magnification factor determined
+from the turbulence intensity of the wind, the damping and natural frequency of the
+structure and other descriptors of wind energy.
+
+The Code considers that a building is with significant resonant dynamic response if it
+has either the following properties, unless it could be justified that the fundamental
+natural frequency of the building is greater than 1 Hz:
+
+(a) The height exceeds five times the least horizontal dimension.
+(b) The height of the building is greater than 100m.
+For the purpose of the classification rules, the Code specifies that the least horizontal
+
+dimension is the smallest dimension of the rectangular envelop enclosing the main
+vertical structural elements of the building.
+
+When the classification is to be determined by the vibration frequency criterion, the
+user may apply a modal dynamic analysis by computer software to determine the
+fundamental natural frequency of the building.
+
+
+===== PDF PAGE 22 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+5.1
+
+5.2
+
+5.3
+
+5.4
+
+5.5
+
+Wind pressure profile
+
+The Code provides two sets of wind pressure profile for the design of buildings and
+building elements. The first set is given in Table 1 of the Code (denoted by g.), which
+is obtained from the 3-second gust velocities. The second set is given in Table 2 of the
+Code (denoted by 7, ), which is obtained from the hourly mean wind velocities.
+
+For buildings not significant in resonant dynamic response, the 3-second gust wind
+pressure gz should be used as the design wind pressure for the determination of the
+total wind force acting on the building and for the determination of the wind forces
+acting on the individual elements.
+
+The Explanatory Materials to the Code published by the Buildings Department
+provides background information and equations on how the 3-second gust design wind
+pressures given in Table 1 of the Code are calculated. The following direct
+expression, derived from the equations in the Explanatory Materials, may be useful for
+the development of spreadsheets for the computation of the 3-second design wind
+pressure g, at various height z:
+
+q, = 0.0006 x (19.26 + 302")
+where qz is the 3-second gust design wind pressure at height z, in kPa
+Zz is the height above site-ground level, in m
+
+The Code sets the 3-second gust design wind pressure to a maximum value of
+3.72 kPa for height z of 500m (the gradient height) and above. The Code also sets the
+3-second gust design wind pressure to a minimum value of 1.82 kPa for height z of Sm
+and below.
+
+For buildings significant in resonant dynamic response, the Code requires the hourly
+mean wind pressure g, to be used as the design wind pressure for the determination of
+the total wind force acting on an enclosed building. However, the 3-second gust wind
+pressure g, should be used for the determination of the wind forces acting on the
+individual elements.
+
+The Explanatory Materials to the Code also provides background information and
+equations on how the hourly mean design wind pressures given in Table 2 of the Code
+are calculated. The following direct expression, derived from the equations in the
+Explanatory Materials, may be useful for the development of spreadsheets for the
+computation of the hourly mean design wind pressure g, at various height z:
+
+J, = 0.542 2°?
+
+15
+
+
+===== PDF PAGE 23 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+where @, is the hourly mean design wind pressure at height z, in kPa
+
+Zz is the height above site-ground level, in m
+
+The Code sets the hourly mean design wind pressure to a maximum value of 2.13 kPa
+for height z of 500m (the gradient height) and above. The Code also sets the hourly
+
+mean design wind pressure to a minimum value of 0.77 kPa for height z of 5m and
+
+below.
+
+5.6 By Clauses 4.3 and 7.4 of the Code, the 3-second gust design wind pressures given in
+Table 1 of the Code and the hourly mean design wind pressures given in Table 2 of the
+Code may be reduced to 70% when applied to the design of temporary buildings or
+buildings which will remain in position for a period of not more than one year.
+
+5.7. The design wind pressures should be multiplied by the topography factor S,
+determined by the steps in section 3, to account for the topography effect of the site.
+
+16
+
+
+===== PDF PAGE 24 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+6.1
+
+6.2
+
+6.3
+
+Force coefficient for enclosed building
+
+The wind force acting on a building is mainly a function of the shape of the building.
+The Code adopts the force coefficient method in the determination of the total force on
+a building due to wind effects. The design total force on the building is expressed as
+the design wind pressure acting on the projected area of the building multiplied by the
+force coefficient of the building. The force coefficient is defined in the Code by:
+
+For buildings not significant in resonant dynamic response:
+
+F=C;3\9.4,
+
+For buildings significant in resonant dynamic response:
+F=GC,>.9,4,
+where F is the total wind force on the building
+
+CG is the force coefficient for the building
+
+dz is the 3-second gust design wind pressure at height z
+q- is the hourly mean design wind pressure at height z
+
+A, is the effective projected area of that part of the building corresponding
+to g, or g,
+
+G is the dynamic magnification factor to account for the dynamic
+response of the structure
+
+This section only discusses the steps for the determination of the force coefficient for
+enclosed buildings. Steps for the determination of the dynamic magnification factor G
+are given in section 7 and steps for the computation of the total force acting on the
+building are given in section 8. The determination of wind force acting on open
+framework buildings is discussed in section 10.
+
+Appendix D1 of the Code gives the general method for the determination of the force
+coefficient for an enclosed building. The Code expresses the force coefficient as a
+function of the basic dimensions of the building, obtained from the product of a height
+aspect factor C;, and a shape factor C;. The expression given in the Code is:
+
+C,=C,xC,
+
+17
+
+
+===== PDF PAGE 25 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+6.4
+
+6.5
+
+6.6
+
+6.7
+
+6.8
+
+6.9
+
+6.10
+
+For enclosed building of generally uniform section, the height aspect factor C;, is a
+function of the height to breadth ratio of the building in the direction of the wind, and
+the shape factor C, is a function of the breadth to depth ratio of the plan shape. Values
+of C, and C, are given in Tables D1 and D2 of the Code. Although the Code only
+gives the shape factors for buildings of rectangular and circular plan shapes, the Code
+recommends using coefficients for the respective enclosing rectangles for all other
+shapes.
+
+The force coefficient should be applied to the enclosed building as a whole. In the
+case of a building with isolated blocks projecting above a general roof level, the Code
+recommends that individual force coefficients corresponding to the height and shape
+of each block should be applied.
+
+In the case of a building composed of similar contiguous structures separated by
+expansion joints, the force coefficient should be determined from the configuration of
+the whole building because it is the overall shape which conditions the flow pattern.
+
+The size of a gust is related to it duration. The 3-second duration gust wind may not
+be large enough to envelop entirely a building of large size. For larger buildings, a
+longer duration gust corresponding to lower wind velocity is required to be effective
+over the whole building. Since the 3-second gust design wind pressure is adopted for
+the determination of the total force on buildings not significant in resonant dynamic
+response, the Code recommends applying a frontal projected area reduction factor Ry
+to buildings with frontal projected area larger than 500m” to account for the reduced
+wind pressure. Values of frontal area reduction factor are given in Table D3 of the
+Code.
+
+The user may adopt appropriate values of force coefficient for enclosed buildings
+specified in other International Codes acceptable to the Building Authority.
+
+When the actual shape of a building renders it to become sensitive to wind acting not
+perpendicular to its face, the diagonal wind effects and torsional wind effects should
+be considered.
+
+Example calculations of force coefficient for enclosed buildings are given in
+calculation sheet 6.1.
+
+18
+
+
+===== PDF PAGE 26 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+General plan shape deen (rn) m ' a ) | nb | ba | cy | c. |= cmc,
+12m, 20m 16m
+r al x 38 | 48 2.632|0.792|1.016|1.000] 1.016
+xX! 1 _
+_ & 100
+g
+7 ~ y | 48 | 38 1.083|1.263/1.002/1.026] 1.028
+xX  |45.25] 42.43 2.210| 1.068) 1.005]1.007) 1.012
+100
+Y  |42.43/45.25 2.357|0.938|1.009]1.000] 1.009
+Wind 45° to building axes
+fem 20m tem x 36 | 48 2.778|0.750|1.019}1.000| 1.019
+&
+Ee 100
+a
+4 = Y 48 | 36 2.083] 1.333|1.002|1.033] 1.035
+Y
+Wind parallel to building axes
+x |59.40/59.40 1.684|1.000/0.984| 1.000] 0.984
+100
+Y — |59.40|59.40 1.684|1.000]0.984|1.000} 0.984
+
+Ned
+aed
+
+Wind 45° to building axes
+
+Calculation sheet 6.1 - Example calculation of force coefficients
+
+19
+
+
+===== PDF PAGE 27 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Wind
+General plan shape direction (m) | (m) | (m) h/p | b/d | C, Cy |Cr= CyxCs
+xX 20 | 35 5.000|0.507|1.075|1.000} 1.075
+€
+oO
+= 100
+€
+4
+Y 35 | 20 2.857 | 1.750|1.021|1.075| 1.098
+x 36.77 | 29.70 2.720|1.238/1.018/1.024) 1.042
+100
+:
+Y= |29.70|36.77 3.367 |0.808]1.034}1.000| 1.034
+Wind 45° to buildiing axes
+
+: Calculation sheet 6.1 — Example calculation of force coefficients (continued)
+
+20
+
+
+===== PDF PAGE 28 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+7.1
+
+7.2
+
+73
+
+Dynamic magnification factor for enclosed building
+
+The quasi-static method using 3-second gust wind pressures is not applicable to
+structures prone to dynamic excitation. For buildings with significant resonant
+dynamic response, the Code requires a dynamic analysis to be applied.
+
+Clause 7 of the Code recommends a dynamic magnification factor method for the
+determination of the total wind force acting on an enclosed building under along-wind
+motion. In this method, the total force on the enclosed building is determined from the
+hourly mean wind pressure g, in conjunction with the effective projected area 4, and
+the force coefficient Cy The wind force so obtained is then augmented by a dynamic
+magnification factor G.
+
+The dynamic magnification factor G is a function of the turbulence intensity and hurly
+mean velocity at the roof level, the height and breadth of the building, the natural
+frequency and damping ratio of the fundamental mode of vibration and the other
+descriptors of the wind energy parameters. Appendix F of the Code provides the
+equation for calculating the dynamic magnification factor G. The following is the
+step-by-step procedure:
+
+(1) Determine the height / of the building above ground.
+
+(2) Determine the breadth b of the building (horizontal dimension normal to the
+direction of the wind).
+
+(3) Determine the fundamental natural frequency n, in Hertz of the building in the
+direction of the wind.
+
+The Code provides an empirical expression n, = 46/h for the determination of
+the fundamental natural frequency of the building. This is a very general
+expression with no specific account on the shape and structural form of the
+building. In critical cases, the user may apply a modal dynamic analysis by
+computer methods to determine the fundamental natural frequency.
+
+(4) Determine the critical damping ratio ¢ of the structure.
+
+The Code recommends the critical damping ratio to be normally taken as 1.5%
+for steel structures and 2.0% for concrete structures. Lower values of critical
+damping ratio may be appropriate for particularly slender buildings. Stocky
+buildings may have higher damping values.
+
+(5) Determine the design hourly mean velocity V,, at the top of the building.
+
+The design hourly mean velocities at various heights above ground are given in
+Table F3 of the Code. The following direct expression may be useful for the
+development of spreadsheets for the computation of the design hourly mean
+
+velocity V, at height A:
+
+21
+
+
+===== PDF PAGE 29 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+0.11
+V, = 59.5) as
+500
+
+(6) Determine the turbulence intensity J; at the top of the building.
+
+The Code gives the following expression for the computation of the turbulence
+intensity /;, at height A:
+
+pve
+I, = 0.10853)
+90
+(7) Determine the effective turbulence length scale L;, by:
+
+0.25
+L, = 1000 +\
+10
+
+(8) | Determine the background factor B by:
+
+1
+
+V 36h? +64b?
+
+I+
+L,
+
+B=
+
+(9) Determine the size factor S by:
+
+1
+
+1+ 3.5mah I+ 4nab
+V, Vi,
+
+(10) Determine the effective reduced frequency N by:
+
+S=
+
+(11) Determine the wind energy spectrum E by:
+
+0.47N
+(2+)?
+
+E=
+
+(12) Determine the peak factor for background response g,.
+
+The Code recommends the peak factor g, for background response to be 3.7.
+
+(13) Determine the peak factor for resonance response gy by:
+
+gy = {2 log.(3600n, )
+
+22
+
+
+===== PDF PAGE 30 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+(14) Compute the dynamic magnification factor G by:
+
+2
+SE
+G=1+2I, B+
+
+7.4 Example calculation of dynamic magnification factor is given in calculation sheets 7.1.
+
+23
+
+
+===== PDF PAGE 31 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Calculation sheet for dynamic magnification factor G
+
+. Wind along | Wind along
+Particulars X-direction | Y-direction
+Height of building h (m) 160 160
+Breadth of building b (m) 40 30
+Fundamental natural frequency of building n, (taken as 46/h) (Hz) 0.29 0.29
+Damping ratio of the fundamental mode ¢ (reinforced concrete) 2.0% 2.0%
+
+_ h Yet
+Hourly mean velocity at top of building V, = 59.5 x (=, 52.5 52.5
+h vot
+Turbulence intensity at top of building J, =0.1055 x & 0.0990 0.0990
+h \25
+Effective turbulence length scale 4, = 1000 x (+) 2000 2000
+Background factor B = 1
+1, ¥36.h? + 64 b? 0.664 0.669
+L,
+Size factor S = U
+3.5n,h 4n,b 0.131 0.148
+1+ = 1+ —~3
+Vn Vi
+. nl,
+Effective reduced frequency N = vy 10.954 10.954
+h
+0.47N
+Wind energy spectrum E=———~ 0.0940 0.0940
+oysP (2+N)*
+Peak factor for background response g, (taken as 3.7) 3.7 3.7
+Peak factor for resonance response G1 = y2 log « (3600 na) 3.726 3.726
+Dynamic magnification factor G=1+ 2/,,/9,°B+ < 1.83 1.86
+>
+
+Calculation sheet 7.1 —- Example calculation of dynamic magnification factor
+
+24
+
+
+===== PDF PAGE 32 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+where Ry
+CG
+
+Sa
+
+qz
+
+where G
+
+8. Total force on enclosed building
+
+8.1 Building not significant in resonant dynamic response
+
+Referring to section 3, the design wind pressure is required to be modified by the
+topography factor S, to account for the topography effect. Following section 6, the
+general expression for calculating the total force F acting on an enclosed building not
+significant in resonant dynamic response becomes:
+
+F=R,C,>.S,.9,4;
+
+is the reduction factor according to frontal projected area
+is the force coefficient for the building
+
+is the topography factor for the site (determined by the method in
+section 3, or taken as 1.0 when topography effect is not significant)
+
+is the 3-second gust design wind pressure at height z
+
+is the effective projected area of that part of the building corresponding
+to qz
+
+8.2 Building significant in resonant dynamic response
+
+For an enclosed building significant in resonant dynamic response, the general
+expression for calculating the total along-wind force F acting on the building is:
+
+F =GC,;)S,9,4,
+
+is the dynamic magnification factor to account for the dynamic
+response of the structure
+
+is the force coefficient for the building
+
+is the topography factor for the site (determined by the method in
+section 3, or taken as 1.0 when topography effect is not significant)
+
+is the hourly mean design wind pressure at height z
+
+is the effective projected area of that part of the building corresponding
+to q:
+
+8.3 For multi-storey enclosed buildings, the total force on the building is usually
+computed as horizontal forces acting at story levels. In this respect the along-wind
+force F, acting at storey level z is expressed by:
+
+25
+
+
+===== PDF PAGE 33 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+8.4
+
+8.5
+
+F.=R,C,S,q,A, for force on an enclosed building not significant in resonant
+
+dynamic response
+
+F,=GC,S,g.4, for along-wind force on an enclosed building significant in
+
+resonant dynamic response
+
+The effective projected area A, corresponding to the force at storey level z may be
+computed by:
+
+A= half of the effective projected area of storey above level z
++ half of the effective projected area of storey below level z
+
+Clause 7.6 of the Code requires the resonant dynamic effects of the following
+categories of enclosed buildings to be investigated in accordance with
+recommendations given in published literature or through the use of dynamic wind
+tunnel model studies: :
+
+(1) Buildings for which the fundamental natural frequency is less than 0.2 Hz.
+
+(2) Buildings with significant cross-wind resonant response or torsional resonant
+response.
+
+Example calculation of the total force acting on a multi-storey building not significant
+in resonant dynamic response is given in Appendix A. Example calculation of th
+total force acting on a multi-storey building significant in resonant dynamic response
+is given in Appendix B.
+
+26
+
+
+===== PDF PAGE 34 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+4
+;
+i
+i
+
+9.2
+
+9.3
+
+9.4
+
+Pressure coefficient and force on building elements of enclosed
+building
+
+The Code recommends the total wind force acting on the surface or part of the surface
+of an enclosed building to be calculated from the area of that particular surface
+multiplied by total pressure coefficient and the design wind pressure q- appropriate to
+the height of the surface. The total force F, acting in a direction normal to the
+individual elements therefore is:
+
+F, = C8492 4m
+where C, is the total pressure coefficient for the individual element
+
+dz is the 3-second gust design wind pressure corresponding to the height z
+of the element
+
+Sa is the topography factor of the site (determined by the method in
+section 3, or taken as 1.0 when topography effect is not significant)
+
+Am is the surface area of the element
+
+It is to be noted that the 3-second gust design wind pressure g- should be used in the
+determination of the force acting on individual elements, and the equation for the total
+force F, should be applied to buildings with and without significant resonant dynamic
+response.
+
+For the determination of the wind force acting on individual elements of an enclosed
+building, Clause 6.2 of the Code further requires the 3-second gust design wind
+pressure q- to be a constant value over the lower part of the building. The height up to
+this constant value occurs is to be taken as the lesser of the height equal to the breadth
+of the building (the horizontal dimension of the building normal to the direction of the
+wind) or the actual height of the building. The constant value in this respect is the
+design wind pressure at this height. In the case of a building with isolated blocks
+projecting above a general roof level, individual constant values corresponding to the
+height and shape of each block may be applied.
+
+The total pressure coefficient C, for walls, claddings and flat roofs of enclosed
+buildings with negligible probability of dominant opening are given in Table E1 of the
+Code. These coefficients represent the most onerous effect on a particular surface
+with respect to various wind directions on the building. It will be appropriate to use
+these coefficients in conjunction with the design wind pressure corresponding to the
+most critical wind direction on the building irrespective of the orientation of the
+surface, unless a detailed directional analysis on the pressure effects is carried out.
+
+The total pressure coefficients C, for canopies are given in Table El] of the Code.
+These coefficients represent the most onerous effect on the canopy surface with
+
+27
+
+
+===== PDF PAGE 35 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+9.5
+
+9.6
+
+respect to the wind towards the building elevation adjacent to the canopy, and should
+be used in conjunction with the design wind pressure from such wind direction. For
+the determination of the edge zones of the canopy, the span refers to the projection of
+the canopy from the adjacent wall and the edge zones exclude the edge abutting the
+adjacent wall, as illustrated in figure 9.1.
+
+It is to be noted that canopy is defined in the Code are a structure projecting more than
+500 mm from the wall of a building and at a height of not more than 7.5 m above the
+level of the ground.
+
+0.2L
+
+tr
+TTT 0.2L
+
+Wind direction applicable to
+pressure coefficients for canopy
+
+Building ———
+
+JT 0.2L [25] edge zones of canopy
+
+i
+
+Span L [S889 other areas of canopy
+
+Figure 9.1— Wind direction and zone locations corresponding to pressure
+coefficients for canopy
+
+In the case where a dominant opening is likely to occur during a severe storm, the total
+pressure on walls and roofs of an enclosed building should be determined with the aid
+of other published materials acceptable to the Building Authority or through the use of
+wind tunnel model studies.
+
+Example calculations of pressure coefficients and total force acting on individual
+elements of enclosed buildings are given in the calculation sheets A4 and AS in
+Appendix A.
+
+28
+
+
+===== PDF PAGE 36 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+10.
+
+10.1
+
+10.2
+
+10.3
+
+10.3
+
+10.4
+
+Open framework building
+
+Total force on the whole structure
+
+For open framework buildings (e.g. sign frames, lattice towers) the total force on the
+whole structure can be determined from the sum of the force acting on the individual
+members using the total pressure coefficient of the element member, provided that the
+element members are separated wide apart. When the spacing of the elements is small,
+the flow around the element members will interfere with each other, and the
+interference is a function of the solidity ratio.
+
+The general equation for the determination of total force on an open framework
+building not significant in dynamic resonant response is:
+
+F=C,5S,4.4.
+where Cy is the force coefficient for the open framework building
+
+Sa is the topography factor for the site (determined by the method in
+section 3, or taken as 1.0 when topography effect is not significant)
+
+q: is the 3-second gust design wind pressure at height z
+A, is the effective projected area of that part of the open framework
+
+building corresponding to q,
+
+Table D4 of the Code gives the values of force coefficient for an open framework
+building not significant in resonant dynamic response. The force coefficient is given
+as a function of the solidity ratio ¢ of the framework. The solidity ratio is defined as:
+
+_ Effective projected area of the open framework building
+Area enclosed by the boundary of the frame normal to the wind direciton
+
+The effective projected area of the open framework building is the aggregate projected
+area of all members of the frame projected on a plane normal to the direction of the
+wind front.
+
+It is to be noted from Table D4 of the Code that the force coefficient has a value of 2.0
+when the solidity ratio is 0.01. This value represents the force coefficient for long and
+small cross-sectional size members separated wide apart. The force coefficient for a
+frame of solidity ratio approaching 1.0 also has the value of 2.0. This represents the
+case that long and small cross-sectional size members are very closely spaced and
+their total projected areas amount to 100% of the bounded area of the frame. If the
+
+29
+
+
+===== PDF PAGE 37 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+10.5
+
+10.6
+
+10.7
+
+10.8
+
+Force on individual members
+
+10.9
+
+cross-sectional size of the members is not small, then the structure will become a si
+body and the force coefficient will be that of a solid body.
+
+The user may adopt appropriate values of force coefficient for open framework
+buildings specified in other International Codes acceptable to the Building Authority.
+
+The windward frame of a structure having two or more parallel frames may have a
+shielding effect upon the frame to leeward. In this respect the wind load acting on the
+windward frame can be determined by the force coefficient method based on the
+solidity ratio of the windward frame and an appropriate shielding factor may be
+applied to the wind load on the parts of frames that are sheltered to account for the
+shielding effect. The loads on the various frames are added together to obtain the total
+load on the structure. The user may refer to the recommendations on multiple frames
+given in other International Codes acceptable to the Building Authority.
+
+Lattice towers (such as transmission towers and pylons) are usually regarded as special
+cases of open framework building for which it may be convenient to use an overall
+force coefficient in the calculation of wind load. The user may refer to the
+recommendations on lattice tower structures given in other International Codes
+acceptable to the Building Authority.
+
+Clause 7.6 of the Code requires the resonant dynamic effects of the open framed
+buildings with significant resonant dynamic response to be investigated in accordance
+with recommendations given in published literature or through the use of dynamic
+wind tunnel model studies.
+
+The general equation for the determination of the force on individual members of an
+open framework building not significant in dynamic resonant response is:
+
+Fi= C,5.9:Am
+
+where C, is the total pressure coefficient for individual elements
+
+dz is the 3-second gust design wind pressure corresponding to the height z
+of the element
+
+Sa is the topography factor for the site (determined by the method in
+section 3, or taken as 1.0 when topography effect is not significant)
+
+Am is the projected area of the element in the direction of the wind
+
+30
+
+
+===== PDF PAGE 38 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+10.10 The total pressure coefficient C, for individual elements of open framework buildings
+i should be taken as 2.0, or appropriate value specified in other International Codes
+i acceptable to the Building Authority.
+
+10.11 Example calculation of total force coefficient and force on an open framework
+structure is given in calculation sheet 10.1.
+
+|
+i
+|
+2m
+| |
+r 17.5m |
+Total force on frame
+Member Projected area of each member A,, Total projected area
+Diagonal 0.3 m? 0.3x14= 42m?
+Vertical 0.2 m? 0.2x8= 1.6m?
+Horizontal chord 2.7 m 2.7x2= 5.4m?
+Sum = 11.2 m?
+Effective projected area of frame A = 11.2 m?
+Area enclosed by boundary of frame = 17.5 x 2 = 35 m? |
+Solidity ratio g= 11.2 / 35 = 0.32 |
+Force coefficient C;= 1.66
+Height of frame above ground = 15m
+3-second gust design wind pressure at z = 15m, g, = 2.14 kPa
+Topography factor of site S, = 1.30
+Total force on the frame F = C,S.q/A = 1.7 x 1.3 x 2.14 x 11.2 = 53.0 KN
+Force on individual element of frame
+Force on individual member
+Member Projected area of each member Ap, | Fp = Coq:-Am
+(Total pressure coefficient C, = 2.0)
+Diagonal 0.3 m? 2.0 x 1.3 x 2.14 x 0.3 = 1.67 KN
+Vertical 0.2 m? 2.0x 1.3.x 2.14 x 0.2 = 1.11 kN
+Horizontal chord 2.7m 2.0 x 1.3.x 2.14 x 2.7 = 15.02 kN
+Calculation sheet 10.1 — Example calculation of total force on a framework and
+total force on individual members
+31
+:
+
+
+===== PDF PAGE 39 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+il.
+
+11.2
+
+Information to be provided in a wind tunnel testing report
+
+The necessary provisions for wind tunnel testing are given in Appendix A of the Code.
+A brief description of the principles, methodology, procedures and quality assurance
+procedures of wind tunnel testing of building for wind loading is given in Section 5 of
+the Explanatory Materials. This section is intended to provide guidance to the
+engineer on the essential information to be included in a report on wind tunnel testing.
+
+The report on wind tunnel testing should describe fully the aspects of methodology,
+testing procedures and quality assurance. Sufficient information and data are to be
+included in the report to support the quality of wind simulation, building models,
+testing instrumentation and test data. It is important to include some intermediate data
+to enable validation checking.
+
+Method statement
+
+11.3
+
+It is a good practice to include a method statement for the wind tunnel test to describe
+the facilities, instrumentation, measurement procedures and analysis methods
+employed. The requirements of the Code should be specifically addressed.
+
+Background and scope of study
+
+11.4
+
+A general description of the building being tested and the special features of wind
+effects is to be given in the report. The scope of study is to be given. The scope of
+study may be specific to one or all of the following areas:
+
+(a) wind pressure investigation using pressure models;
+
+(b) dynamic wind load and wind effect investigation using the high-frequency base
+balance technique or equivalent method; and
+
+(c) wind environment investigation.
+
+The conventions for the wind load directions and the wind incidence directions are to
+be shown ina plan. The number of wind angles tested is to be stated.
+
+Boundary-layer wind flow simulation
+
+11.5
+
+A description of simulation method and results of natural wind is to be given with the
+following information:
+
+(a) geometric scale of wind simulation;
+
+(b) wind tunnel speeds used in the tests and the corresponding full-scale/model
+velocity scale;
+
+(c) profile of mean wind speed variation with height measured in the wind tunnel
+and comparison with target profile;
+
+32
+
+
+===== PDF PAGE 40 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+(d) variation of longitudinal component of turbulence with height; |
+
+’ (e) integral scale of turbulence measured in the wind tunnel, or wind spectrum;
+and
+
+(f evidence of a zero longitudinal pressure gradient.
+
+Surrounding buildings and topography
+
+' 11.6 The following details of the proximity model and of the topographic model (if any) are
+to be given:
+
+; (a) extent of coverage of the proximity model and the surrounding buildings;
+
+(b) effects of removal/inclusion of some particular surrounding buildings if judged
+to be significant;
+
+(c) approach flow characteristics in the “near-field” flow which are modified from
+the “far-field” flow by adjacent natural (topographical) and man-made features;
+
+i (d) photographs or sketches of topography and proximity models; and
+
+(e) value of blockage ratio.
+
+Scaling ratios in wind tunnel tests
+
+11.7. The scaling ratio refers to the ratio between full scale and wind tunnel values. Wind
+forces, moments, time and frequencies are derived from the geometric length and
+velocity scales. The following information is to be given in the report:
+
+(a) geometric scaling ratio of building model, which is normally the same as that
+of wind simulation;
+
+(b) velocity scaling ratio used in different parts of the testing, preferably stated as
+the values of wind speeds used in the wind tunnel and the corresponding full-
+scale wind speeds;
+
+(c) reference height for wind speed, with clear indication that velocity scaling is
+made on the mean wind speed or gust wind speed;
+
+(d) justifications for the chosen full-scale wind speeds, as appropriate to the
+relevant return periods; and
+
+(e) minimum Reynolds number of the wind tunnel flow based on the model
+building dimensions.
+
+Measurement of wind pressure
+
+11.8 The following information on the pressure model is to be given in the report:
+
+(a) design of the pressure model to approximate the test building including
+information on any simplification of building shape, any omission of
+architectural features and the accuracy of building dimensions;
+
+33 '
+
+
+===== PDF PAGE 41 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+11.9
+
+11.10
+
+(b) arrangement of pressure taps around the building plan and along the building
+height (shown by a diagram with pressure tap identification labels); and
+
+(c) number of pressure taps and the average pressure tap density.
+
+The following descriptions on the instrumentation, measurement and data analysis
+procedures are to be given:
+
+(a) number of wind directions tested;
+
+(b) frequency response of the wind pressure measurement system;
+
+(c) evidence to show that the any extraneous acoustic pressure fluctuations are
+minimal;
+
+(d) sampling rate and measurement duration for a pressure tap;
+
+(e) methodology used in statistical determination of peak pressure; and
+
+(f) methodology used to estimate internal pressures, if applicable.
+
+The following minimum amount of pressure data is to be given:
+
+(a) full listing of the measured mean, standard deviation, minimum and maximum
+pressure coefficients for each wind direction (with clear statement of the
+reference wind speed used); and
+
+(b) expected largest mean and peak positive and negative full-scale pressure on all
+pressure tap locations at the chosen full-scale design wind speed over all
+possible wind angles (with consideration of wind directionality effects if
+applicable), provided in the form of table or contour map.
+
+If desirable, force and moment coefficients can be derived from the mean pressure
+data and given in the report as follows:
+
+(a) force and moment coefficients applicable to different vertical sections of the
+building; and
+
+(b) force and moment coefficients on the entire building and their variations with
+wind angles.
+
+Wind-Induced overall loads and dynamic responses
+
+11.11
+
+The assessment of wind-induced dynamic effect on the test building is carried out with
+the base-balance technique or equivalent method. The following information is to be
+given in the report on the base-balance model or the equivalent building model for
+dynamic modeling:
+
+(a) point of connection (load centre) of the base-balance model onto the force
+balance;
+
+(b) evidence that the model/balance assembly is sensitive enough to measure small
+wind loads in the wind tunnel but yet stiff enough to suppress its own vibration
+(usually by stating the natural frequency of the model-balance assembly and
+the extent higher than the frequency of the dominant wind eddies);
+
+34
+
+
+===== PDF PAGE 42 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+11.12
+
+11.13
+
+11.14
+
+(c) wind speed in the wind tunnel during wind load measurement;
+
+(d) corresponding values of velocity scale and frequency scale when converting to
+appropriate full-scale wind speeds of different return periods; and
+
+(e) sampling rate and duration of wind load measurement.
+
+The base moments measured by the balance are used to represent the generalized wind
+forces. The following data are to be given as intermediate results of the test:
+
+(a) | mean values, root-mean-square values and power spectral densities of the base
+moments (in wind tunnel scale or at appropriate full-scale wind speeds); and
+
+(b) some representative, if not the whole set of, power spectra densities of the
+moments.
+
+The base-balance technique uses the dynamic properties of the building in the
+computation of wind-induced responses. These properties are usually provided by the
+design engineer. The essential information to be stated in the report includes:
+
+(a) general dynamical characteristics of the prototype building;
+
+(b) mode shapes and natural frequencies of at least the first three modes of
+vibration of the prototype building (to judge whether the assumption of near-
+linear mode shapes is valid and whether there is strong mode coupling);
+
+(c) — mass distribution along the building height; and
+
+(d) characteristics of structural damping of the prototype building and the assumed
+values of critical damping ratio to be used in the computation.
+
+Computation of wind-induced responses of the building from the measured base-
+balance signals and the dynamic properties of the building is based on modal analysis.
+The computed wind-induced responses depend on the full-scale (mean) wind speeds
+used and the structural damping ratio assumed. The following results of responses are
+to be given in the report:
+
+(a) | mean, root-mean-square and peak deflections at different floor levels;
+(b) mean and peak moments at the building base;
+
+(c) | root-mean-square and peak accelerations at different floor levels, with
+comparison to comfort criteria (these are related to serviceability aspect of the
+building at short return periods, not being part of the wind loading
+requirements in the Code); and
+
+(d) __ the return period, full-scale wind speed and damping ratio in use corresponding
+to the responses in peak and normal loading conditions for the derivation of
+wind loads for structural safety and serviceability.
+
+For structural design of the building, the following summary loading information is to
+be provided in the report:
+
+es
+
+
+===== PDF PAGE 43 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+(a)
+
+(b)
+
+wind-induced peak dynamic base moments expected at the most critical wind
+directions or integrated over all wind angles with wind directionality effect;
+and
+
+equivalent static wind load distribution along the height of the building (by
+apportioning the design base moments along the building height).
+
+Environmental wind studies
+
+11.15 Assessment of environmental wind conditions at the pedestrian level around the base
+of the building is not part of the wind loading requirements in the Code but is a
+convenient add-on to the wind tunnel test. The following information are usually
+given in this part of the report:
+
+(a)
+(b)
+(c)
+
+(d)
+
+(e)
+
+(6
+(g)
+
+number of wind speed measurement positions;
+diagrams of measurement locations and identification labels;
+
+instrumentation of wind speed measurement, frequency response of
+instrumentation, identification of mean or gust wind speed, identification of
+omni-directional or velocity components,
+
+number of wind directions tested;
+
+a description of the analysis method for the determination of wind climate,
+including analysis of directionality effects;
+
+effects of variation in vegetation modeling; and
+
+assessment criteria of wind environment.
+
+36
+
+
+===== PDF PAGE 44 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Appendix A
+
+Example calculation on a multi-storey building not significant in resonant
+dynamic response — Building A
+
+20m
+Height of building not greater than
+five times the least horizontal
+| dimension of the main part (99m
+: not greater than 5 x 20m); and
+| height of building not greater than
+' 100m
+28 x 3m = 84m Not significant in resonant dynamic
+i Tower
+| Canopy
+| 6m above ground
+/ +180,0 PD
++165.0PD 3*5m= 15m Podium
+Elevation
+| 3m
+i — 2m
+x —~
+————> Am 16m
+T3m
+
+50m
+
+Plan
+
+ty
+
+250m
+
+k++ 200m
+
+250m
+
+Topography section of site along X
+
+Topography section of site along Y
+
+37
+
+
+===== PDF PAGE 45 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Calculation Sheet for Topography Factor S,
+
+Hy = 250] (m) Wind direction A Xs Wind direction B
+
+Hp = O|(m) ——> X2 <—— +H,
+
+ay 0.35 . _
+
+a2= 0 H, [A : Slopé a2
+
+X1 = 250](m) = Slope a ;
+
+Xo = 200](m)
+Wind direction A (upwind on building)
+Upwind slope ay in the wind direction (= a; in the figure) 0.35
+ay > 0.05? Yes
+Effective height H of crest (=H ; in the figure) (m) 250
+Horizontal distance X of site from crest (= -X; in the figure) (m) -250
+Effective height of site below crest (= X; au) (m) 88
+Site within 0.5H below crest? Yes
+Downwind slope @p in the wind direction (= a2 in the figure) 0.00
+Topography (if ap >0.05, hill-and-ridge; otherwise cliff-and-escarpment) Cliff-and-escarpment
+Length of upwind slope Ly = H/ay (m) 714
+Effective slope @ (If ay < 0.3, a. = ay; otherwise ae = 0.3) 0.30
+Effective slope length Le (If ay <0.3, Le =Ly; otherwise L. = H/0.3) (m) 833
+XL y (X/Ly is negative for upwind) -0.350
+Wind direction B (downwind on building)
+Upwind slope ay in the wind direction (a2 in the figure) 0.00
+
+ay > 0.05? No
+
+Topography factor S$, for height z above ground
+
+Local topography not significant for wind direction B
+
+Height Wind direction A (upwind on building) Wind direction B not significant
+ground X/L y= -0.350. (cliff-and-escpmt)
+z(m) the s S, =(1+1.2aes)* the s Sq =(1+ 1.2a¢s)*
+
+5 0.006 0.48 1.38 1.00
+10 0.012 0.48 1.38 1.00
+15 0.018 0.48 1.38 1.00
+20 0.024 0.48 1.38 1.00
+40 0.048 0.48 1.38 1.00
+60 0.072 0.48 1.38 1.00
+80 0.096 0.48 1.38 1.00
+84 0.101 0.47 1.37 1.00
+99 0.119 0.46 1.36 1.00
+
+Calculation sheet A1 — Building A: Topography of site along X
+
+
+===== PDF PAGE 46 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Calculation sheet for wind forces acting on building - wind along and opposite to X-direction
+Height not greater than 5 x least horizontal dimension, and height not greater than 100m
+Resonant dynamic response is not significant
+Determination of force coefficient C; and frontal area reduction factor R 4
+Part him) | bim | dim | he | wa Ch C. Cc; [Ashxb| Ra
+3/F-Roof (tower) 84 34 20 2.47 1.70 1.012 1.070 1.083 2856 0.92
+G-3/F (podium) 15 40 50 0.38 0.80 0.950 1.000 0.950 600 0.98
+Note:
+(1) A, = 0.5x(effective projected area of storey above level z + effective projected area of storey below level z)
+(2) F, = R.C,S.9,4,
+i Wind along X-direction (uphill) Wind opposite to X-direction (downhill)
+q . Effective | Design Wind . Effective | Design Wind
+Level P.p. | Height projected} 3-sec TOPO | force at | Height projected ase Topo- force at
+ref. level | above area | gust wind graphy height z above area | gust wind graphy height z
+ground A; pressure factor F, ground A; pressure factor FE,
+7 | wote1)| 92 * | (Note2)} 7 | (Notet)| az | (Note 2)
+(m) (m) (m?) (kPa) (KN) (m) (m?) (kPa) (KN)
+Roof | +264.0 99.0 51.0 2.86 1.36 197.2 84.0 51.0 2.78 1.00 141.3
+30F +261.0 96.0 102.0 2.84 1.36 392.4 81.0 102.0 2.77 1.00 280.9
+29F +258.0 93.0 102.0 2.83 1.36 390.4 78.0 102.0 2.75 1.00 279.2
+i 28F | +255.0 90.0 102.0 2.81 1.36 388.4 75.0 102.0 2.73 1.00 277.5)
+| 27F +252.0 87.0 102.0 2.80 1.37 389.2 72.0 102.0 2.72 1.00 275.7 [es
+| 26F +249.0 84.0 102.0 2.78 1.37 387.0 69.0 102.0 2.70 1.00 273.9 |
+25F +246.0 81.0 102.0 2.77 1.38 387.6 66.0 102.0 2.68 1.00 272.0
+i 24F +243.0 78.0 102.0 2.75 1.38 385.3 63.0 102.0 2.66 1.00 270.0
+| 23F | +240.0 75.0 102.0 2.73 1.38 383.0 60.0 102.0 2.64 1.00 268.0)
+22F +237.0 72.0 102.0 2.72 1.38 380.5 57.0 102.0 2.62 1.00 265.8
+21F +234.0 69.0 102.0 2.70 1.38 378.0 54.0 102.0 2.60 1.00 263.6 |
+20F +231.0 66.0 102.0 2.68 1.38 375.4 51.0 102.0 2.57 1.00 261.3
+19F +228.0 63.0 102.0 2.66 1.38 372.6 48.0 102.0 2.55 1.00 258.8 a
+18F +225.0 60.0 102.0 2.64 1.38 369.8) 45.0 102.0 2.52 1.00 256.3 |
+17F +222.0 57.0 102.0 2.62 1.38 366.9) 42.0 102.0 2.50 1.00 253.5
+16F | +219.0 54.0 102.0 2.60 1.38 363.8 39.0 102.0 2.47 1.00 250.7
+15F +216.0 51.0 102.0 2.57 1.38 360.6) 36.0 102.0 2.44 1.00 247.6
+\ 14F | +213.0 48.0 102.0 2.55 1.38 357.2 33.0 102.0 2.41 1.00 244.3
+/ 13F +210.0 45.0 102.0 2.52 1.38 353.6) 30.0 102.0 2.37 1.00 240.8
+12F | +207.0 42.0 102.0 2.50 1.38 349.9 27.0 102.0 2.33 1.00 236.9
+11F | +204.0 39.0 102.0 2.47 1.38 345.9 24.0 102.0 2.29 1.00 232.8
+10F +201.0 36.0 102.0 2.44 1.38 341.7 21.0 102.0 2.25 1.00 228.1
+OF +198.0 33.0 102.0 2.41 1.38 337.2 18.0 102.0 2.20 1.00 222.9
+8F +195.0 30.0 102.0 2.37 1.38 332.3 15.0 102.0 2.14 1.00 216.9
+7F +192.0 27.0 102.0 2.33 1.38 327.0) 12.0 102.0 2.07 1.00 209.8
+6F +189.0 24.0) 102.0 2.29 1.38 321.2 9.0 102.0 1.98 1.00 201.1
+5F +186.0 21.0 102.0 2.25 1.38 314.8) 6.0 102.0 1.87 1.00 189.6
+4F +183.0 18.0 102.0 2.20 1.38 307.6 3.0 102.0 1.82 1.00 184.8
+3F +180.0 15.0 51.0 2.14 1.38 149.6 0.0 51.0 1.82 1.00 92.4
+P3F | +180.0 15.0 100.0 2.14 1.38 275.4
+P2F +175.0 10.0 200.0 2.01 1.38 518.8
+P1F | +170.0 5.0 200.0 1.82 1.38 469.2
+G +165.0 0.0 100.0: 1.82 1.38 234.6:
+
+Calculation sheet A2 - Building A: Total force on building (wind along and opposite to
+
+X-direction)
+
+39
+
+
+===== PDF PAGE 47 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Calculation sheet for wind forces acting on building - wind along and opposite to Y-direction
+Height not greater than 5 x least horizontal dimension, and height not greater than 100m
+Resonant dynamic response is not significant
+
+Determination of force coefficient C; and frontal area reduction factor R 4
+
+Part n(m | b(m) | dim) | hb b/d Ch Cs Cr |A=hxb| Ra
+3/F-Roof (tower) 84 20 40 4.20 0.50 1.055 1.000 1.055 1680 0.94
+G-3/F (podium) 15 50 40 0.30 1.25 0.950 1.025 0.974 750 0.97
+Note:
+(1) A, = 0.5 x(effective projected area of storey above level z + effective projected area of storey below level Z)
+(2) F, =R.C;S.9,4.
+Wind along Y-direction Wind opposite to Y-direction
+. Effective | Design Wind . Effective | Design Wind
+Level | P.D. | Height | projected 3800 TOPO | force at | HeiSht | projected asec Topo | force at
+ref. level | above area | gust wind graphy height z above area | gust wind graphy height z
+ground Az pressure ne F, ground Az pressure ral F,
+(Note 1) qz (Note 2) (Note 1) Qz (Note 2)
+(m) (m) (m*) (kPa) (KN) (m) (m*) (kPa) (kN)
+Roof | +264.0 99.0 30.0 2.86 1.00 85.2
+30F | +261.0 96.0 60.0 2.84 1.00 169.6
+29F +258.0 93.0 60.0 2.83 1.00 168.8
+28F +255.0 90.0 60.0 2.81 1.00 167.9
+27F +252.0 87.0 60.0 2.80 1.00 167.0
+26F +249.0 84.0 60.0 2.78 1.00 166.1
+25F +246.0 81.0 60.0 2.77 1.00 165.1
+24F +243.0 78.0 60.0 2.75 1.00 164.2)
+23F | +240.0 75.0 60.0 2.73 1.00 163.2
+22F +237.0 72.0 60.0 2.72 1.00 162.1
+21F | +234.0 69.0 60.0 2.70 1.00 161.0
+20F | +231.0 66.0 60.0 2.68 1.00 159.9)
+19F | +228.0 63.0 60.0 2.66 1.00 158.8
+18F +225.0 60.0 60.0 2.64 1.00 157.6
+17F | +222.0 57.0 60.0 2.62 1.00 156.3 Same as wind along Y-direction
+16F +219.0 54.0 60.0 2.60 1.00 155.0
+15F +216.0 51.0 60.0 2.57 1.00 153.6}
+14F +213.0 48.0 60.0 2.55 1.00 152.2
+13F +210.0 45.0 60.0 2.52 1.00 150.7
+12F | +207.0 42.0 60.0 2.50 1.00 149.1
+41F | +204.0 39.0 60.0 2.47 1.00 147.4
+40F | +201.0 36.0 60.0 2.44 1.00 145.6
+OF +198.0 33.0 60.0 241 1.00 143.6
+8F +195.0 30.0 60.0 2.37 1.00 141.6
+7F +192.0 27.0 60.0 2.33 1.00 139.3
+6F +189.0 24.0 60.0 2.29 1.00 136.8
+5F +186.0 21.0 60.0 2.25 1.00 134.1
+4F +183.0 18.0 60.0 2.20 1.00 131.0
+3F +180.0 15.0 30.0 2.14 4.00 63.8)
+P3F | +180.0 15.0 125.0 2.14 1.00 253.2
+P2F | +175.0 10.0 250.0 2.01 1.00 476.9
+PIF +170.0 5.0 250.0 1.82 1.00 431.3)
+G +165.0 0.0 125.0 1.82 1.00 215.7
+
+Calculation sheet A3 — Building A: Total force on building (wind along and opposite to
+Y-direction)
+
+
+===== PDF PAGE 48 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Wind opposite to || Wind along and
+Wind along X-direction (uphill) X-direction opposite to Design
+(downhill) Y-direction wind
+(Al (B] [C] pressure
+Level | PD 3-second 3-second 3-second |] for walls,
+evel .D. f .
+ref. | level |f Height aoe Topo- oe Height ee Height a claddings
+above gust wind graphy win above win above wind, and roofs
+fact i
+ground pressure S or pressure ground pressure ground pressure (maximum
+92 ° S292 (Sq = 1.0) (S, =1.0)| Of [A] [B]
+dz qd: and [C])
+(m) (m) (kPa) (kPa) (m) (kPa) (m) (kPa) (kPa)
+
+Design wind pressure for building elements in tower block
+
+Breadth of tower
+block = 20m
+Value of constant
+wind pressure taken
+at 20m above
+
+Breadth of tower block = 34m
+Value of constant wind pressure taken
+at 34m above podium roof
+(i.e. at +214.0 P.D.)
+
+podium roof
+(i.e. at +200.0 P.D.)
+Roof | +264.0}} 99.0 2.86 1.36 3.88 84.0 2.78 99.0 2.86 3.88
+30F | +261.0]/ 96.0 2.84 1.36 3.87 81.0 2.77 96.0 2.84 3.87 :
+19F-29/F omitted '
+18F | +225.0}1 60.0 2.64 1.38 3.64 45.0 2.52 60.0 2.64 3.64
+17F | +222.0]| 57.0 2.62 1.38 3.61 42.0 2.50 57.0 2.62 3.61 i
+16F | +219.0}]} 54.0 2.60 1.38 3.58 39.0 2.47 54.0 2.60 3.58
+15F | +216.0]] 51.0 2.57 1.38 3.55 36.0 2.44 51.0 2.57 3.55 i
++214.0 [49.0 2.56 1.38] 3.53 34.0 | 2.42 49.0 2.56 3.53 7
+14F | +213.0}) 48.0 2.55 1.38 3.53 33.0 2.42 48.0 2.55 3.53 a
+13F | +210.0]] 45.0 2.52 1.38 3.53 30.0 2.42 45.0 2.52 3.53 i
++200.0 |} 35.0 243 1.38 3.53 20.0 2.42 35.0 2.43 3.53
+12F | +207.0]] 42.0 2.50 1.38 3.53 27.0 2.42 42.0 2.43 3.53 a.
+11F | +204.0]] 39.0 2.47 1.38 3.53 24.0 2.42 39.0 2.43 3.53 ,
+10F | +201.0]} 36.0 244 1.38 3.53 21.0 2.42 36.0 2.43 3.53 i
+OF +198.0] 33.0 2.41 1.38 3.53 18.0 2.42 33.0 2.43 3.53 .
+8F +195.0}} 30.0 2.37 1.38 3.53 15.0 2.42 30.0 2.43 3.53 .
+7F +192.0]} 27.0 2.33 1.38 3.53 12.0 2.42 27.0 2.43 3.53 ;
+6F +189.0}} 24.0 2.29 1.38 3.53 9.0 2.42 24.0 2.43 3.53 i
+5F +186.0]} 21.0 2.25 1.38 3.53 6.0 2.42* 21.0 2.43 3.53 :
+4F | +183.0]] 18.0 2.20 1.38] 3.53 3.0 2.42 18.0 2.43 3.53
+3F +180.0]} 15.0 2.14 1.38 3.53 0.0 2.42 15.0 243 3.53 :
+*For canopy}
+
+Design wind pressure for building elements in podium block
+
+Breadth of podium
+
+block = 50m
+Breadth of podium block = 40m Height of podium
+Height of podium roof = 15m roof = 15m
+Value of constant wind pressure taken Value of constant
+at height of podium roof wind pressure
+i (i.e. at +180.0 P.D.) taken at height of
+| podium roof
+(i.e. at +180.0 P.D.)
+| P3F | +180.0]/ 15.0 2.14 1.38 2.95 15.0 2.43 2.95
+| P2F | +175.0}| 10.0 2.01 1.38 2.95 NA 10.0 2.43 2.95
+| P1F | +170.0]] 5.0 1.82 1.38} 2.95 - 5.0 2.43 2.95
+i G +165.0 0.0 1.82 1.38 2.95 0.0 2.43 2.95
+
+Calculation sheet A4 — Building A: Design wind pressure for force on building
+elements
+
+
+===== PDF PAGE 49 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Total pressure Total pressure Design 3-second
+EI nt of buildin coefficient C, for | coefficient C, for otter to Oe eeaphy
+ement o g outward or inward or q pography
+factor modification)
+upward force downward force kPa
+Al edge zones of tower 22 NA. 3.88
+omer surfaces of tower 42 NA. 3.88
+Cladding near tower roof,
+all edge zones of tower -1.4 +1.0 3.88
+block
+Cladding near tower roof,
+all other surfaces of tower -1.0 +1.0 3.88
+block
+Cladding between 3/F to
+14/F, all edge zones of -1.4 +1.0 3.53
+tower block
+Cladding at 11/F, all other
+surfaces of tower block 1.0 +1.0 3.53
+Av edge zones of podium 22 NA. 2.95
+Other surfaces of podium 12 NA. 2.95
+Cladding in all edge
+zones of podium block 14 +1.0 2.95
+Cladding in all other
+surfaces of podium block 1.0 +10 2.95
+All edge zones of canopy -2.0 +2.0 2.42
+Other surfaces of canopy -1.2 +41.2 2.42
+
+Note:
+
+For claddings and roofs, the design wind pressure corresponds to the most critical wind
+direction (i.e. uphill wind along X-direction) with the application of conatant value over the
+lower part of the respective building block.
+
+For canopy, the design wind pressure corresponds to the wind direction towardsthe building
+elevation adjacent to the canopy (i.e. downhill wind opposite to X-direction) at canopy level,
+with the application of constant value over the lower part of the tower block.
+
+Determination of the design wind pressure for the building elements is given in calculation
+
+sheet A4.
+
+Calculation sheet A5 — Buildiing A: Total pressure coefficient and design wind
+
+42
+
+pressure for building elements
+
+
+===== PDF PAGE 50 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Appendix B
+Example calculation on a multi-storey building significant in resonant
+
+dynamic response — Building B
+
+20m
+
+Height of building greater than
+100m
+Significant in resonant dynamic
+
+31 x 3m = 93m Tower
++180.0 PD
+
++165.0 Pp? * 5m = 15m Podium
+v
+
+Elevation
+
+3m
+
+3m
+
+250m
+
+Topography section of site along X Topography section of site along Y
+
+43
+
+
+===== PDF PAGE 51 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Calculation Sheet for Topography Factor S,
+
+H,= 250](m) Wind direction A Wind direction B
+H,= 230] (m) —> X2 <——_
+ay = 0.35 =) —
+a2= 0.5 H, He
+X,= 250 (m) _ a a, Slop az =
+X= 200|(m)
+Wind direction A (upwind on building)
+Upwind slope ay in the wind direction (= a, in the figure) 0.35
+ay > 0.05? Yes
+Effective height H of crest (=H; in the figure) (m) 250
+Horizontal distance X of site from crest (= -X in the figure) (m) -250
+Effective height of site below crest (= X; ay) (m) 88
+Site within 0.5H below crest? Yes
+Downwind slope @p in the wind direction (= @2 in the figure) 0.50
+Topography (if @ p>0.05, hill-and-ridge; otherwise cliff-and-escarpment) Hill-and-ridge
+Length of upwind slope Ly = H/ay (m) 714
+Effective slope ae (If ay < 0.3, a» = ay; otherwise a, = 0.3) 0.30
+Effective slope length L. (If ay <0.3,L_ =Luy; otherwise L. = H/0.3) (m) 833
+X/L y (X/Ly is negative for upwind) -0.350
+Wind direction B (downwind on building)
+Upwind slope @y in the wind direction (a2 in the figure) 0.50
+ay > 0.05? Yes
+Downwind slope @p in the wind direction (= a, in the figure) 0.35
+Topography (if a p>0.05, hill-and-ridge; otherwise cliff-and-escarpment) Hill-and-ridge
+Effective height H of crest (= H 2 in the figure) (m) 230
+Length of upwind slope L y = H/ay (m) 460
+Horizontal distance X of site from crest (= Xz in the figure) (m) 200
+Influence distance from crest: Hill-and-ridge: =0.5L y if wy < 0.3; otherwise =1.6H 368
+Cliff-and-escarpment: =1.5L y if ay < 0.3; otherwise =5H (N.A.)
+Site within influence distance from crest? Yes
+Length of downwind slope L p = H/a@p (m) 657
+Effective slope @g (If ay <0.3, a = ay; otherwise a, = 0.3) 0.30
+Effective slope length L. (If ay <0.3,L_ =Ly; otherwise L - = H/0.3) (m) 767
+X/L p (for hill and ridge) 0.304
+X/L ¢ (for cliff and escarpment) (N.A.)
+Topography factor S, for height z above ground
+Height Wind direction A (upwind on building) Wind direciton B (downwind on building)
+ground X/L y= -0.350  (hill-and-ridge) X/L p =0.304 —_(hill-and-ridge)
+z(m) the s Sq =(14+ 1.2a¢s)* the s Sq =(1+ 1.2aes)”
+5 0.006 0.44 1.34 0.007 0.51 1.40
+30 0.036 0.44 1.34 0.039 0.51 1.40
+50 0.060 0.44 1.34 0.065 0.51 1.40
+78 0.094 0.44 1.34 0.102 0.51 1.40
+81 0.097 0.44 1.34 0.106 0.50 1.39
+87 0.104 0.43 1.33 0.113 0.50 1.39
+90 0.108 0.43 1.33 0.117 0.49 1.38
+99 0.119 0.41 1.32 0.129 0.49 1.38
+102 0.122 0.41 1.32 0.133 0.48 1.38
+108 0.130 0.40 1.34 0.144 0.48 1.38
+
+Calculation sheet B1 — Building B: Topography of site along X
+
+44
+
+
+===== PDF PAGE 52 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Si Pt, ini ais se
+
+Calculation sheet for dynamic magnification factor G
+
+. Wind along | Wind along
+Particulars X-direction | Y-direction
+Height of building h (m) 108 108
+Breadth of building 6 (m) 34 20
+Fundamental natural frequency of building n, (taken as 46/h ) (Hz) 0.43 0.43
+Damping ratio of the fundamental mode ¢ (reinforced concrete) 2.0% 2.0%
+
+_ ( h ett
+Hourly mean velocity at top of building V, =59.5x (sas) 50.3 50.3
+h yor
+Turbulence intensity at top of building J, = 0.1055 x & 0.1034 0.1034
+hn \225
+Effective turbulence length scale L, = 1000 x (4) 1813 1813
+1
+Background factor B =
+7. N36.h* + 64 b? 0.721 0.731
+L A
+. 1
+Size factor S$ =
+44 3:50_h 44 4Mab 0.111 0.142
+Vp Vp
+. nlp
+Effective reduced frequency N = —S=+- 15.360 15.360
+Ah
+0.47N
+Wind energy spectrum E= Ge nye 0.0755 0.0755
++
+Peak factor for background response g, (taken as 3.7) 3.7 3.7
+Peak factor for resonance response 91 = ¥2 log. (3600 na) 3.830 3.830
+23, 9 SE
+Dynamic magnification factor G=1+2/,,/9,°B+ a 1.83 1.87
+
+Calculation sheet B2 — Building B: Dynamic magnificaion factor
+
+45
+
+
+===== PDF PAGE 53 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Calculation sheet for wind forces acting on building - wind along and opposite to X-direction
+Resonant dynamic response is significant (height > 100m) Dynamic magnification factor G = 1.83
+Determination of force coefficient C
+Part h(m) | 6 (m) d (m) h/b | b/d Ch Cs Cy
+3/F-Roof (tower) 93 34 20 2.74 1.70 1.018 1.070 1.090
+G-3/F (podium) 15 40 50 0.38 0.80 0.950 1.000 0.950
+Note:
+(1) A, =0.5 x(effective projected area of storey above level z + effective projected area of storey below level z)
+(2) F, = GC;SaG2Az
+Wind along X-direction (uphill) Wind opposite to X-direction (downhill)
+. Design . A Design 5
+. Effective Wind . Effective Wind
+Level | P.p. | Height) rojected hourly | TOPO | torce at | HeISMt | crojected hourly | TOPO | force at
+ref. level | above area mean | graphy height z above area mean | graphy height z
+ground Ay wind factor F, ground A, wind factor F,
+Z| ote 1) | Pressure! S* | ote 2) | 7 | (Note 1) | Pressure Se | (Note 2)
+qz qz
+(m) (m) (m?) (kPa) (KN) (m) (m?) (kPa) (KN)
+Roof | +273.0} 108.0 60.0 1.52 1.32 240.1 93.0 60.0 1.47 1.38 242.6
+33F +270.0 105.0 120.0 1.51 1.32 477.0 90.0 120.0 1.46 1.38 481.7
+32F +267.0 102.0 120.0 1.50 1.33 477.4 87.0 120.0 1.45 1.39 481.5)
+31F +264.0 99.0 120.0 1.49 1.33 474.2 84.0 120.0 1.44 1.39 477.8
+30F | +261.0 96.0 120.0 1.48 1.33 471.0 81.0 120.0 1.43 1.39 474.0
+29F +258.0 93.0 120.0 1.47 1.34 471.4 78.0 120.0 1.41 1.40 473.5)
+28F +255.0 90.0 120.0) 1.46 1.34 468.1 75.0 120.0 1.40 1.40 469.4)
+27F +252.0 87.0 120.0 1.45) 1.34 464.9 72.0 120.0 1.39 1.40 465.2)
+26F | +249.0 84.0 120.0 1.44 1.35 465.2 69.0 120.0 1.38 1.40 460.9
+25F | +246.0 81.0 120.0 1.43 1.34 458.5 66.0 120.0 1.36 1.40 456.4
+24F +243.0 78.0 120.0 1.41 1.34 452.1 63.0 120.0 1.35 1.40 451.8)
+23F +240.0 75.0 120.0 1.40 1.34 448.9 60.0 120.0 4.33 1.40 446.9)
+22F +237.0 72.0 120.0 1.39 1.34 445.7 57.0 120.0 1.32 1.40 441.9
+21F +234.0 69.0 120.0: 1.38 1.34 442.5 54.0 120.0 1.30 1.40 436.7
+20F +231.0 66.0 120.0 1.36 1.34 436.1 51.0 120.0 1.29 1.40 431.2
+19F +228.0 63.0 120.0 1.35 1.34 432.9 48.0 120.0 1.27 1.40 425.5
+418F | +225.0 60.0 120.0 1.33 1.34 426.5) 45.0 120.0 41.25 1.40 419.5
+17F | +222.0 57.0 120.0 1.32 1.34 423.3 42.0 120.0 1.23 1.40 413.2
+16F | +219.0 54.0 120.0 1.30 1.34 416.8 39.0 120.0 1.21 1.40 406.5
+15F | +216.0 51.0 120.0 1.29 1.34 413.6) 36.0 120.0 1.19 1.40 399.4
+14F | +213.0 48.0 120.0 1.27 1.34 407.2 33.0 120.0 4.17 1.40 391.9
+13F | +210.0 45.0 120.0 1.25 1.34 400.8 30.0 120.0 1.15 1.40 383.7
+12F | +207.0 42.0 120.0 1.23 1.34 394.4 27.0 120.0 1.12 1.40 374.9)
+41F | +204.0 39.0 120.0 1.21 1.34 388.0) 24.0 120.0 1.09 1.40 365.3
+40F | +201.0 36.0 120.0 1.19 1.34 381.6 21.0 120.0 1.06 1.40 354.8
+QF } +198.0 33.0 120.0 41.17 4.34 375.2 18.0 120.0 1.02 1.40 342.9
+8F | +195.0 30.0 120.0 1.15 1.34 368.7 15.0 120.0 0.98 1.40 329.5
+7F | +192.0 27.0 120.0 1.12 1.34 359.1 12.0 120.0 0.94 1.40 313.7)
+6F | +189.0 24.0 120.0 1.09 1.34 349.5 9.0 120.0 0.88 1.40 294.4
+5F | +186.0 21.0 120.0 1.06 1.34 339.9 6.0 120.0 0.80 1.40 269.3
+4F | +183.0 18.0 120.0 1.02 1.34 327.1 3.0 120.0 0.77 1.40 258.0
+3F__| +180.0 15.0 60.0 0.98 4.34 157.1 0.0 60.0 0.77 1.40 129.0
+P3F | +180.0 15.0 100.0 0.98 1.34 228.3)
+P2F | +175.0 10.0 200.0 0.90 1.34 419.3
+P1F | +170.0 5.0 200.0 0.77 1.34 358.8
+G +165.0 0.0 100.0 0.77 1.34 179.4
+
+Calculation sheet B3 — Building B: Total force on building (wind along and opposite to
+X-direction)
+
+
+===== PDF PAGE 54 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+Calculation sheet for wind forces acting on building - wind along and opposite to Y-direction
+Resonant dynamic response is significant (height > 100m) Dynamic magnification factor G = 1.87
+i Determination of force coefficient C;
+i Part h (m) b (m) d (m) h/b b/d Ch Cs Cy
+4 3/F-Roof (tower) 93 20 34 4.65 0.59 1.066 1.000 1.066
+4 G-3/F (podium) 15 50 40 0.30 1.25 0.950 1.025 0.974
+(1) A, = 0.5 x(effective projected area of storey above level z + effective projected area of storey below level z)
+7 (2) Fz =GCrSaq2Az
+i Wind along Y-direction Wind opposite to Y-direction
+: ___ | Effective | Design Wind Effective | Design i
+7 Level | P.D. | Height projected hourly | Topo- force at | Height projected hourly | Topo- force at
+' ref. level | above area mean | graphy height z above area mean | graphy height z
+ground A; wind factor F, ground Ay wind factor F,
+: 2 | ote 1) | Press] Se | ote 2) | 2 | note 1) | PESSHE] Se | note 2)
+: qz Qz
+au (m) (m) (m’) (kPa) (KN) (m) (m*) (kPa) (kN)
+. Roof | +273.0 108.0 30.0 1.52 1.00 90.9
+‘ 33F | +270.0} 105.0 60.0 1.51 1.00 180.6
+i 32F +267.0 102.0 60.0 1.50 1.00 179.4
+: 31F | +264.0 99.0 60.0 1.49 1.00 178.3
+i 30F +261.0 96.0 60.0 1.48 1.00 177.1
+i 29F +258.0 93.0 60.0 1.47 1.00 175.9
+7 28F +255.0 90.0 60.0 1.46 1.00 174.7
+i 27F +252.0 87.0 60.0 1.45 1.00 173.5
+j 26F | +249.0 84.0 60.0 1.44 1.00 172.3
+i 25F +246.0 81.0 60.0 1.43 1.00 171.1
+{ 24F | +243.0 78.0 60.0 1.41 1.00 168.7
+23F +240.0 75.0 60.0 1.40 1.00 167.5
+22F +237.0 72.0 60.0 1.39 1.00 166.3
+21F +234.0 69.0 60.0 1.38 1.00 165.1
+20F +231.0 66.0 60.0 1.36 1.00 162.7
+19F +228.0 63.0 60.0 1.35 1.00 161.5
+18F +225.0 60.0 60.0 1.33 1.00 159.1
+17F | +222.0 57.0 60.0 1.32 1.00 157.9 Same as wind along Y-direction
+16F +219.0 54.0 60.0 1.30 1.00 155.5
+15F | +216.0 51.0 60.0 1.29 1.00 154.3
+( 14F +213.0 48.0 60.0 1.27 1.00 151.9
+i 13F +210.0 45.0 60.0 1.25 1.00 149.5
+é 12F | +207.0 42.0 60.0 1.23 1.00 147.1
+i 11F +204.0 39.0 60.0 1.21 1.00 144.8
+j 10F | +201.0 36.0 60.0 1.19 1.00 142.4
+i OF +198.0 33.0 60.0 1.17 1.00 140.0
+5 8F +195.0 30.0 60.0 1.15 1.00 137.6
+; 7F +192.0 27.0 60.0 4.12 1.00 134.0
+6F +189.0 24.0 60.0 1.09 1.00 130.4
+5F +186.0 21.0 60.0 1.06 1.00 126.8
+4F +183.0 18.0 60.0 1.02 1.00 122.0
+3F +180.0 15.0 30.0 0.98 1.00 58.6
+4 P3F | +180.0 15.0 125.0 0.98 1.00 223.1
+i P2F | +175.0 10.0 250.0 0.90 1.00 409.7
+: P1F | +170.0 5.0 250.0 0.77 1.00 350.5)
+G +165.0 0.0 125.0 0.77 1.00 175.3
+Calculation sheet B4 — Building B: Total force on building (wind along and opposite to
+Y-direction)
+
+47
+
+
+===== PDF PAGE 55 =====
+[OCR transcription: verify wording, numbers and tables against the original PDF.]
+(Blank)
+
+48

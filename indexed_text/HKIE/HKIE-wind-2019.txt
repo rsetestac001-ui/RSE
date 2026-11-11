@@ -1,0 +1,3274 @@
+
+
+===== PDF PAGE 1 =====
+A Practical Guide
+to the Code of Practice
+on Wind Effects In Hong Kong 2019
+
+
+===== PDF PAGE 2 =====
+Contents
+
+
+
+
+1.       Introduction                                                                    1
+2.       Calculation Procedure                                                            1
+3.       Reference Wind Pressure                                                         2
+3.1       Directionality                                                                    2
+3.2     Topography factor                                                                3
+3.3      Direct Sheltering                                                                12
+4.       Structural wind loads & responses                                                15
+4.1     Along-wind Loads                                                               15
+4.2      Torsional loads and exemptions                                                    20
+4.3      Across-wind Loads                                                              21
+4.4     Load Combination                                                               23
+4.5      Acceleration Calculation and Human Comfort Assessment                               27
+5.      Cladding Wind Loads                                                           28
+5.1      Reference Wind Pressure                                                         28
+5.2      Pressure Coefficients                                                             29
+5.3      Size Factor                                                                     32
+5.4     Working Example for Cladding Wind Load Calculation                                 35
+5.5     Working Example for Cladding Wind Load Calculation for a building with dominant
+         openings                                                                      42
+6.     Wind Tunnel Test Requirements                                                  45
+6.1      Buildings to be wind tunnel tested                                                  45
+6.2      Reports                                                                       45
+6.3      Items to be addressed in Reports and the Corresponding Testing Requirement                45
+6.4      Rules for removal configuration (principle and example)                                49
+6.5     Minimum loads                                                                 49
+7.      Working Examples                                                             50
+7.1      Single tower sitting on podium for tower structural force calculation                       50
+7.2      Multi-towers on podium                                                          58
+
+
+Tables
+Table 3-1 Determined Directionality Factors                                                   3
+Table 4-1 Crosswind load judgment                                                         21
+Table 4-2 Overturning Moment Comparison (Macross/Malong of the same loading direction)              23
+Table 4-3 Load combination factors for lateral wind loads only                                   24
+Table 4-4 Load combination factors with torsion                                               24
+Table 4-5 Modal Properties                                                               25
+Table 4-6 Input Wind Load to Etabs Model                                                   25
+Table 4-7 Inter Storey Drift Output From the Etabs Model                                       26
+Table 5-1 Summary of reference wind pressure                                                38
+Table 5-2 Summary of size factors                                                          38
+
+
+
+
+  | 1st Issue Rev | 5 February 2024
+
+
+===== PDF PAGE 3 =====
+Table 5-3 Key Zone Dimensions                                                           39
+Table 5-4 Cladding Wind Load for Case 1                                                    39
+Table 5-5 Cladding Wind Load for Case 2                                                    40
+Table 5-6 Calculation of Cpi                                                               43
+Table 7-1 The height of reduction                                                          53
+Table 7-2 Design wind reference pressure summary                                            53
+Table 7-3 Summary of force coefficients                                                     54
+Table 7-4 Calculation of Sq,h in WX2+ and WX2-                                              54
+Table 7-5 Along wind load calculation for WX2-                                              54
+Table 7-6 Calculation of eccentricity                                                        55
+Table 7-7 Calculation of across-wind base moment                                             55
+Table 7-8 Summary of lateral wind load                                                     56
+Table 7-9 Calculation of acceleration                                                        56
+Table 7-10 Wind Loads for the towers and the podium                                          58
+Table 7-11 Combined translational load cases for individual block                                 59
+Table 7-12 Calculated combined translational forces                                            59
+Table 7-13 Pick up the load combination in Zone 1                                             63
+Table 7-14 Final Load Cases                                                              63
+Table 7-15 Resultant Lateral Forces Summary and Calculation of M*i                              65
+Table 7-16 Summary of the Overall Loading Effect of the Critical Torsional Load Cases              65
+
+
+
+Figures
+Figure 3-1 Examples of the equivalent rectangles for non-rectangular building plan shapes              2
+Figure 3-2 Determination of Directionality Factor                                               3
+Figure 3-3 Wind speed-up over hills                                                          3
+Figure 3-4 Topographic significant zone for hills/ridges                                          4
+Figure 3-5 Topographic significant zone for cliffs/escarpments                                    4
+Figure 3-6 Hill sections                                                                    5
+Figure 3-7 Upwind slope at S1-3                                                            5
+Figure 3-8 Site location                                                                    6
+Figure 3-9 Flowchart for topographic multiplier                                                8
+Figure 3-10 Site location of the example (not to scale)                                           9
+Figure 3-11 Building geometry of the example                                                 9
+Figure 3-12 Topographic dimensions for WX1                                                10
+Figure 3-13 Building located on the upwind section for both hills and ridges                         10
+Figure 3-14 Building located on the downwind section for both hills and ridges                      11
+Figure 3-15 Example of the map showing building lot                                          13
+Figure 3-16 Site on a sloped terrain                                                         13
+Figure 3-17 Surrounding buildings on a sloped terrain                                          14
+Figure 4-1 Example of force coefficient in differect wind directions                               16
+Figure 4-2 Example of a tower sitting on a podium                                             17
+Figure 4-3 Rectangles with corner cuts                                                      19
+Figure 4-4 Flow chart of size and dynamic factors calculation                                    20
+
+
+
+
+  | 1st Issue Rev | 5 February 2024
+
+
+===== PDF PAGE 4 =====
+Figure 4-5 A Case Study for Torsional Regularity Check                                        25
+Figure 4-6 Structural System in ETABS                                                     25
+Figure 5-1 Cladding Pressure over heights                                                    28
+Figure 5-2 definition of the edge zones for some irregular shapes                                  30
+Figure 5-3 Dimension for pressure zones                                                     31
+Figure 5-4 Zone key for pressure                                                           31
+Figure 5-5 Schematic of typical cladding system                                               33
+Figure 5-6 L0.5p for a cladding panel                                                         34
+Figure 5-7 L0.5p for an anchor                                                             34
+Figure 5-8 L0.5p for a mullion                                                              34
+Figure 5-9 L0.5p for a transom                                                              35
+Figure 5-10 Dimensions for Case 1                                                         36
+Figure 5-11 Dimensions for Case 2                                                         36
+Figure 5-12. Directionality factors                                                          37
+Figure 5-13 Reference Pressure Zone                                                        37
+Figure 5-14 Pressure Zone for Case 1                                                       40
+Figure 5-15 Pressure Zone for Case 2                                                       42
+Figure 5-16 Building Geometries                                                           42
+Figure 5-17 Example of internal and external wind pressure combination                           44
+Figure 6-1 Removal Configuration Rules                                                     49
+Figure 6-2 Minimum adopted wind loads from a test                                           49
+Figure 7-1 Building Information                                                            50
+Figure 7-2 Surrounding Buildings within 500m radius from the site.                               51
+Figure 7-3 Identification of the most and the second most sheltering buildings                       52
+Figure 7-4 Effective Height Summary                                                       53
+Figure 7-5 Site Plan                                                                     58
+Figure 7-6 Detailed combined force vectors for each block                                       62
+Figure 7-7 Vector summation for Zone 1.                                                    64
+Figure 7-8 Example of Bi                                                                 65
+Figure 7-9 Critical torsional load cases (copy from the Code)                                     65
+
+
+
+
+
+| 1st Issue Rev | 5 February 2024
+
+
+===== PDF PAGE 5 =====
+Acknowledgment
+
+The preparation of this Handbook owes a great deal to the time and effort given by Mr. Alexis Lee, Dr. Neptune
+Yu and Dr. Lynn Cheng from ARUP, as well as Hong Kong Wind Engineering Society which Dr. Yu and Dr.
+Cheng also represent for. The handbook would not come to stream without their dedicated effort and
+professionalism.
+Disclaimer
+
+The content of this Handbook is an expression of opinion only. The guidance and recommendations given in this
+Handbook should always be reviewed by those using the handbook in the light of their particular case. The
+Structural Division of the Hong Kong Institution of Engineers, the members of the Working Group and their
+servants of agents assume no responsibility to any party for the whole or any part of this Handbook and its
+content.
+
+
+
+
+
+| 1st Issue Rev | 5 February 2024
+
+
+===== PDF PAGE 6 =====
+1.     Introduction
+
+
+This handbook is intended to provide engineers with a guide to calculate the wind loads effectively
+in accordance with the Code of Practice on Wind Effects in Hong Kong 2019 (the Code) for the
+design of standard buildings.
+
+The handbook should be read in conjunction with the Code and Explanatory Notes to the Code of
+Practice on Wind Effects in Hong Kong 2019 (EN). It does not override the recommendation of the
+Code or the EN.
+2.     Calculation Procedure
+
+
+The calculation of wind loads for standard structures shall follow the procedure shown in Figure 2-1
+of the Code, which is referred as the “Standard Method” by the Code.
+
+As a preliminary judgement for the use of the Standard Method, the building shall fulfil the following
+requirements:
+
+   •    H≤200m,
+
+   •      Regular building shape covered by the Code
+
+   •     Not in complex topography or surroundings which adversely affect the  site wind
+           condition.
+
+Wind forces on buildings fulfil the requirements from Section 1.1 can be determined using the
+Standard Method. The total wind load following the Standard Method consist of four components:
+
+   •      Determination of along-wind forces
+
+   •      Determination of torsional wind forces
+
+   •      Determination of across-wind base moment, if required
+
+   •     Load combination of the wind forces in the two orthogonal and torsional directions
+
+The procedure of calculating of wind loading on building elements is given in the flowchart in Figure
+2-2 of the Code.
+
+The calculation of wind loads on buildings and building elements shall start with correct estimation
+of the design wind reference pressure, which is the wind reference pressure calculated at the effective
+height Ze considering the topographic effect, sheltering effect and wind directionality as described in
+Section  3. The  structural wind load calculation and the cladding wind load calculation are
+demonstrated in Section 4 and Section 5 respectively. Section 6 will discuss in detail about the wind
+tunnel test requirements. Section 7 shows the working examples for the Code application.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                            Page 1
+
+
+===== PDF PAGE 7 =====
+3.    Reference Wind Pressure
+
+
+3.1       Directionality
+
+3.1.1       Principle
+
+The reference wind pressure may be adjusted using the directionality factor provided by Table A1-1
+in the Code to account the reduced probability that the strongest wind direction coincides the direction
+with the strongest building responses aerodynamically.
+
+The directionality factor does not apply to circular buildings as it has uniform force coefficient for all
+directions.
+
+The directional factors can be directly adopted in the wind tunnel tests to adjust the reference pressure
+if the Sector Method is adopted. For Up-crossing Method, Storm Passage Method, or other similar
+methods, Sθ = 1.0 shall be used for forces and pressures.
+
+3.1.2      Procedure and Example
+
+The user of the Standard Method of the Code may follow the steps outlined below to get the
+directionality factor Sθ. Alternatively it is safe to take Sθ = 0.85 for all wind directions.
+
+For buildings with non-rectangular shapes, an enclosed rectangle can be synthetically created to
+envelope the original building plan, which shall keep the maximum of the breadth of windward face
+of the building from each wind direction. Some examples are given in Figure 3-1.
+
+
+
+
+
+Figure 3-1 Examples of the equivalent rectangles for non-rectangular building plan shapes
+
+
+
+The building plan, a synthetically generated enclosed rectangle, is shown in Figure 3-2 . The polar
+diagram shows the wind directionality factors from Appendix A of the Code. For each wind direction,
+the wind directionality factor should be identified as the maximum of the section, which covers ±45o
+from the centre of the rectangle as shown by the red dash line in Figure 3-2 . The values of the wind
+directionality factor at the edge (red dash line) are calculated using interpolation as marked in Figure
+3-2. For each section, the directionality factor shall be taken as the maximum value of the
+directionality factors taken from the interpolated values at the section edges and the values from any
+of the 8 standard wind directions within that section as shown in Table 3-1.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                            Page 2
+
+
+===== PDF PAGE 8 =====
+Figure 3-2 Determination of Directionality Factor
+
+
+
+Table 3-1 Determined Directionality Factors
+ Sector        Wind Directionality factors in the Sector    𝑺𝜽
+
+ WX1+        Max (0.81,0.82,0.84,0.845)                  0.845
+
+ WX1-        Max (0.83,0.84,0.85,0.85)                    0.85
+
+ WX2+        Max (0.845,0.85,0.85,0.85)                   0.85
+
+ WX2-        Max (0.81,0.80,0.82,0.83)                    0.83
+
+
+
+
+3.2     Topography factor
+
+3.2.1       Principle
+
+The topographic multiplier shall be calculated for buildings located in the topographic significant
+zones. The calculation procedure applies to hills and ridges, cliffs, and escarpments, which can
+accelerate the mean wind speed over the summit or crest as shown in Figure 3-3.
+
+
+
+
+
+                                       Figure 3-3 Wind speed-up over hills
+
+Topographic impact is considered significant when the maximum slope for a quarter of the hill in the
+top half of the hill on the wind ward side is bigger than 0.05 and when the site is located in a
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                            Page 3
+
+
+===== PDF PAGE 9 =====
+topographic significant zone as shown in the shaded areas in Figure 3-4 and Figure 3-5. The
+topographic multiplier shall be determined according to the procedure described in Section 3.2.2 next.
+
+
+
+
+
+          Figure 3-4 Topographic significant zone for hills/ridges
+
+
+
+
+
+          Figure 3-5 Topographic significant zone for cliffs/escarpments
+
+
+
+3.2.2      Procedure
+
+Part A: Determine if the site is located in the topographic significant zone
+
+1) Requirements of the upwind slope >0.05
+The maximum slope for a quarter of the hill height in the top half of the wind on the wind ward side
+bigger than 0.05 is the first requirement to determine if the site is topographically significant. The
+upwind slope can be determined following the procedures below.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                            Page 4
+
+
+===== PDF PAGE 10 =====
+Divide the approaching wind directions into 4 sectors, each sector is generated as the ±45o from the
+orthogonal direction of each building face. In each sector, draw a cross section through the site at an
+appropriate angular interval, e.g., every 22.5o, as shown in Figure 3-6. Then evaluate the topography
+factor for all the sections, such as S1-1, S1-2 and S1-3, for example. Pick up the section give the
+biggest St. An example for S1-3 is shown in Figure 3-7. The cross-section of the hill is then shown in
+Figure 3-6. The slope shall be determined as the maximum slope of each quarter height of the hill
+section (from ½ Ht, 5/8Ht, 3/4Ht) of the top half height of the hill. For this case,
+
+     𝜓𝑢=max (𝜓𝑢1, 𝜓𝑢2, 𝜓𝑢3)=0.4663>0.05
+
+      where
+
+      𝜓𝑢1 represents the slope from ½ Ht to 3/4Ht as shown by the yellow line in Figure 3-7;
+      𝜓𝑢2 represents the slope from 5/8 Ht to 7/8 Ht as shown by the green line in Figure 3-7;
+      𝜓𝑢3 represents the slope from 3/4 Ht to Ht as shown by the red line in Figure 3-7.
+
+
+
+
+
+         Figure 3-6 Hill sections
+
+
+
+
+                                                                        ψu2=0.4663
+
+
+
+
+
+                                                                ψu1=0.4245
+
+                                                                              ψu3=0.4452
+
+
+
+        Figure 3-7 Upwind slope at S1-3
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                            Page 5
+
+
+===== PDF PAGE 11 =====
+2)Requirement of the site located in the topography significant zone
+
+The criteria shall be used to determine if the site is located within the topographic significant zone,
+for which the topographic multiplier shall be applied.
+
+If the site falls in any of the topographic zones as listed in Case 1 to Case 3 as shown in Figure 3-8,
+the site is considered located in the topography significant zone.
+
+       •  Case 1: For the upslope of hills and ridges or cliffs and escarpments, the site must be at
+           the top half of the topographic feature.
+
+       •  Case 2: Downwind of hills and ridges, the site should be above the top half height of the
+            crest and within a distance of 1.5𝐻𝑡/𝜓𝑒 from the top of the feature.
+       •  Case 3: Downwind of cliffs and escarpments, the site should be above the top half height
+           of the crest and within a distance of 1.5𝐻𝑡/𝜓𝑒 from the top of the feature.
+
+
+
+
+
+                                             Figure 3-8 Site location
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                            Page 6
+
+
+===== PDF PAGE 12 =====
+Part B: Calculation of Topographic multiplier for a site located in the topographic significant zone
+
+
+Following Part A, if the site is located in the topographic significant zone, the following procedures can be
+followed to calculate the topographic multiplier.
+    1) For each of the four sectors, further cut a section through the site at an appropriate angular
+        interval as a way, as shown in Figure 3-6.
+    2) At each section, e.g. S1-1, determine the upwind slope 𝜓𝑢 as introduced in Section 3.2.2.
+      The value of 𝜓𝑒=min (𝜓𝑢, 0.3).
+    3) Determine the topographic dimensions.
+    4) Determine Ht, the height of the hill from the windward side above surrounding ground with a
+      mean slope of less than or equal to 5%.
+    5) Determine Zt, the height of the highest part of the site measured from the same datum as Ht.
+    6)  If the site is located on the downwind side, determine Xt, the distance from the crest of the
+         hill to the site.
+    7)  Calculate the topographic location factor s following the flow chart in Figure 3-9.
+    8)  Calculate Iv,z by Equation 3-3 of the Code.
+    9)  Calculate the topographic multiplier of wind pressure by
+
+                                                               2
+                                          2𝜓𝑒𝑠
+                           𝑆𝑡= [1 +            ]
+                                      1 + 3.7𝐼𝑣,𝑧
+
+      Note that s and Iv,z should be calculated at height Z=2/3H.
+
+   10) Take the most onerous St from S1-1 to S1-3 as the St for Sector 1.
+
+   11) Repeat steps 1) to 10) for all the four sectors.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                            Page 7
+
+
+===== PDF PAGE 13 =====
+Figure 3-9 Flowchart for topographic multiplier
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                            Page 8
+
+
+===== PDF PAGE 14 =====
+3.2.3     Example
+This section will demonstrate the procedure of topographic factor calculation. The example is a
+construction site in the hilly area of Hong Kong. The building geometries are given in Figure 3-11.
+Only the topographic condition of Section S1-3 for WX1 direction is selected for demonstration
+purpose.
+
+Step 1:
+
+Divide the approaching wind directions into 4 sectors, each sector is generated as the ±45o from the
+orthogonal direction of each building face as shown in Figure 3-10. The most significant slope
+through the site is searched to represent the topographic condition in that direction and assume it is
+S1-2 within all the sections (S1-1 to S1-3).
+
+
+
+
+
+          Figure 3-10 Site location of the example (not to scale)     Figure 3-11 Building geometry of the example
+
+
+Step 2: Calculation of St for S1-1 at wind direction WX1+ and WX1-
+
+For Section S1-2 in direction WX1+ and WX1-, the topographic profile is shown in Figure 3-12.
+For each topographic condition, the slopes at the three different heights are measured to derive the
+maximum slope representing this topographic feature. And the topographic significance could be
+determined as below.
+
+WX1+: Building is located on the upwind slope
+
+    𝜓𝑢= max(𝜓𝑢1, 𝜓𝑢2, 𝜓𝑢3) = max(0.36,0.45,0.40) = 0.45 > 0.05
+
+      where
+
+           𝜓𝑢1 represents the slope from ½ Ht to 3/4Ht
+           𝜓𝑢2 represents the slope from 5/8 Ht to 7/8 Ht
+           𝜓𝑢3 represents the slope from 3/4 Ht to Ht
+
+      The local topographic is considered as significant.
+
+       Zt/Ht=192/286=0.67>0.5
+
+    𝜓𝑒= min⁡(𝜓𝑢, 0.3) = min(0.45,0.3) = 0.3
+
+WX1-: Building is located on the downwind slope (ridge)
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                            Page 9
+
+
+===== PDF PAGE 15 =====
+𝜓𝑢= max(𝜓𝑢4, 𝜓𝑢5, 𝜓𝑢6) = max(⁡0.53,0.55,0.42) = 0.55 > 0.05
+
+      where
+
+           𝜓𝑢6 represents the upwind slope from ½ Ht to 3/4Ht
+
+           𝜓𝑢5 represents the upwind slope from 5/8 Ht to 7/8 Ht
+           𝜓𝑢4 represents the upwind slope from 3/4 Ht to Ht
+
+      The local topographic is considered as significant.
+
+       Zt/Ht=192/286=0.67>0.5
+
+     𝜓𝑒= min⁡(𝜓𝑢, 0.3) = min(0.55,0.3) = 0.3
+
+                    1.5𝐻𝑡
+     𝑋𝑡= 235𝑚<    = 1430𝑚
+                    𝜓𝑒
+
+
+
+
+
+          Figure 3-12 Topographic dimensions for WX1
+
+Step 3:
+
+As for both WX1+ and WX1-, the local topographic are considered as topographic significant. The
+topographic multipliers are calculated as below.
+
+
+
+
+
+          Figure 3-13 Building located on the upwind section for both hills and ridges
+
+
+      WX1+: The site is on the upwind section for both hills or ridges,
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 10
+
+
+===== PDF PAGE 16 =====
+0.5 ≤ Zt/Ht=192/286=0.67 ≤ 1.0
+
+               𝑠 and 𝐼𝑣,𝑧 are calculated at height, 𝑍= 2 ⁄3 𝐻=60m
+
+                   𝑍𝜓𝑒   60×0.3
+             0 ≤ 𝐻𝑡=  286 ≈0.07 ≤2
+
+                      s, Ku1 and Ku2 shall be calculated using Equation A3-2 to A3-4 of the Code.
+               𝐾𝑢1 = 0.1552 (𝑍𝜓𝑒 )4 −0.8575 (𝑍𝜓𝑒 )3 + 1.8133 (𝑍𝜓𝑒 )2 −1.9115 (𝑍𝜓𝑒 ) + 1.0124
+                             𝐻𝑡             𝐻𝑡             𝐻𝑡             𝐻𝑡
+                   = 0.90
+              𝐾𝑢2 = 0.3542 (𝑍𝜓𝑒 )2 −1.0577 (𝑍𝜓𝑒 ) + 2.6465 = 2.58
+                            𝐻𝑡             𝐻𝑡
+                       𝑍   −0.11
+               𝐼𝑣,𝑧= 0.087 ( 500)   = 0.11
+
+                            [−𝐾𝑢2(1−𝑍𝑡                                          𝐻𝑡)] = 0.90 × 𝑒[−2.58(1−0.67)] = 0.38         𝑠= 𝐾𝑢1 ∙𝑒
+
+                                   2
+                            2𝜓𝑒𝑠
+           𝑆𝑡= [1 + 1+3.7𝐼𝑣,𝑧] =1.36
+
+           Z           Ku1         Ku2            s              St
+
+              60           0.90          2.58          0.38          1.36
+
+
+
+
+
+          Figure 3-14 Building located on the downwind section for both hills and ridges
+       WX1-: The site is on the downwind section on the hills or ridges
+
+               𝑠 and 𝐼𝑣,𝑧 are calculated at height, 𝑍= 2 ⁄3 𝐻=60m
+
+              Zt/Ht=192/286=0.67
+
+             𝑍𝜓𝑒  60 × 0.3
+            =       ≈0.07
+               𝐻𝑡     286
+               𝐾𝑑1 = 0.1552 (𝑍𝜓𝑒 ) 4 −0.8575 (𝑍𝜓𝑒 ) 3 + 1.8133 (𝑍𝜓𝑒 ) 2 −1.9115 (𝑍𝜓𝑒 ) + 1.0124
+                             𝐻𝑡             𝐻𝑡             𝐻𝑡             𝐻𝑡
+                   = 0.90
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 11
+
+
+===== PDF PAGE 17 =====
+𝐾𝑑2 = −0.3056 (𝑍𝜓𝑒 ) 2 + 1.0212 (𝑍𝜓𝑒 ) −1.7637 = −1.70
+                              𝐻𝑡             𝐻𝑡
+
+                             [𝐾𝑑2(1−𝑍𝑡                                         𝐻𝑡)] = 0.90 × 𝑒[−1.70(1−0.67)] = 051         𝑠= 𝐾𝑑1 ∙𝑒
+
+                       𝑍   −0.11
+               𝐼𝑣,𝑧= 0.087 ( 500)   = 0.11
+
+                                   2
+                            2𝜓𝑒𝑠
+           𝑆𝑡= [1 + 1+3.7𝐼𝑣,𝑧] =1.49
+
+
+          Z             Kd1           Kd2              s                 St
+
+              60             0.90            -1.70           0.51            1.49
+
+Step 4:
+
+Because it has assumed S1-2 has the most onerous St between S1-1 to S1-3 in both WX1+ and
+WX1- directions. The St of WX1+ is 1.36 and is 1.49 for WX1-.
+
+
+
+3.3       Direct Sheltering
+
+3.3.1       Principles
+
+The exposure adjustment for direct shelter shall be considered using the concept of displacement
+height and the corresponding reduced effective height. Standard method and Simplified method are
+introduced in Appendix A2 of the EN.
+
+Several rules shall be followed when applying sheltering effects.
+
+   •  The benefit due to the most significant sheltering building should not be considered. The same
+       concept applies to both the code based sheltering effect calculation and the determination of
+       building removal for the removal configuration of wind tunnel tests. While one building could
+      be the most beneficial building in one division, it could be retained in another division if it is
+       not the most beneficial building there.
+
+   •  Buildings in the same building lot shall be treated as a whole, when evaluating the direct
+        sheltering effect for the determination of the most beneficial building/buildings to be removed.
+      Here the building lot may refer to the Lot layer in iC1000 map from Land’s Department as
+      shown by the yellow blocks in Figure 3-15.*
+
+   •   If there is level differences of the site and the surrounding buildings, the rules are given in
+      Appendix A2 of the EN. Two examples are given in Figure 3-16 and Figure 3-17 to
+       demonstrate the application of the rules for buildings on a slope.
+
+        o  Example 1:
+
+             For T1, the building height used for direct sheltering is calculated as 50m-30m=20m
+
+             For T2, the building height for direct sheltering is calculated as 100m-20m=80m, as
+               the obstructing height shall be taken as less than or equal to the height of the proposed
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 12
+
+
+===== PDF PAGE 18 =====
+building,   the   building   height   for   sheltering   calculation    is   min(HT1,
+               HProposedBuilding)=min(80,40)=40m.
+
+        o  Example 2:
+
+             For T1, the building height is 40m
+
+             For T2, the original building height is 100m. However, as the obstructing height shall
+             be taken as less than or equal to the height of the proposed building, the building height
+             used   for   sheltering   efeect   calculation   shall   be   taken   as   min(HT2,
+               HProposedBuilding)=min(100,50)=50m.
+
+*It should also be noted that when replying HKIE’s query on the definition of “building lot” in
+APSEC Discussion Forum in May 2021, BD advised that “buildings issued with the same occupation
+permit within a cluster could be treated as “buildings in the same building lot” when evaluating the
+direct sheltering effect and determining the most beneficial building/buildings”. This definition is
+believed to lead to bigger sheltering benefit than that of land lot.
+
+
+
+
+
+Figure 3-15 Example of the map showing building lot
+
+
+
+
+
+Figure 3-16 Site on a sloped terrain
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 13
+
+
+===== PDF PAGE 19 =====
+Figure 3-17 Surrounding buildings on a sloped terrain
+
+
+3.3.2      Procedure and Examples
+
+The standard procedure of the sheltering effect calculation is described in more detail in the EN,
+which is applicable to most of the site surroundings. A simplified approach is also demonstrated in
+the EN with a case example.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 14
+
+
+===== PDF PAGE 20 =====
+4.     Structural wind loads & responses
+
+
+The wind loads acting on a standard building have been updated to incorporate the along wind loads,
+across wind loads and torsional wind loads, which is not only more in line with the other international
+standard, but also more reflective of the physical nature of the wind induced loading.
+
+4.1      Along-wind Loads
+
+A uniform approach using a size and dynamic factor, Sq,z, has been adopted in the Code to replace the
+“Static Approach” and “Dynamic Approach of the 2004 Code. The along wind force per unit height
+at a height, Z, for a building on level ground is calculated from the product of wind reference pressure,
+force coefficient, size and dynamic factor and the breadth of the building:
+
+                       𝑊𝑧= 𝑄𝑧𝐶𝑓𝑆𝑞,𝑧𝐵
+
+where
+
+𝑊𝑧    along wind load per unit height, at height, Z
+𝑄𝑧    wind reference pressure adjusted for effects from sheltering, topography and wind direction
+𝐶𝑓     force coefficient
+
+𝑆𝑞,𝑧    size and dynamic factor
+
+B     Breadth of building
+
+The wind reference pressure adjustment is discussed in Section 3. The force coefficient will be
+introduced in Section 4.1.1 and the size and dynamic factor will be covered in Section 4.1.2.
+
+4.1.1      Force coefficients
+
+The force coefficients are determined based on the building shapes and dimensions. The Code has
+introduced an equation and a chart for calculating force coefficients of buildings which can be treated
+as rectangles based on the aspect ratio He/D and plan ratio B/D. The following rules shall be followed:
+
+    1) When calculating the force coefficient in each direction, the effective height corresponding to
+        that direction can be used. A simple example in Figure 4-1 is shown as below:
+
+             a. When calculating along wind force from direction WX1+, He/D =1.05. B/D = 0.6, the
+               force coefficient Cf = 1.128
+
+            b. When calculating along wind force from direction WX1-, He/D = 1.5, B/D = 0.6, the
+               force coefficient Cf = 1.120
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 15
+
+
+===== PDF PAGE 21 =====
+Figure 4-1 Example of force coefficient in differect wind directions
+
+For the buildings could be treated as rectangular, the rules below shall be followed.
+
+    2) Force Coefficients variation along elevations
+
+      For buildings with plan shape variation along the building height, Section 4.2.2 shall be
+       followed. If the plan variation affecting less than 10% of H, the plan variation can be ignored.
+
+      Example:
+
+      The tower is about 110m as shown in Figure 4-2. It consists of 3 parts, Part A: the roof top
+        structure of 15m, Part B: main tower of 75m and Part C: podium of 20m. Considering the
+        sheltering effect, the effective height in wind direction WX1 is He=0.7H=77m.
+
+      For Part A, the portion over the total height is about 15/110=13.6% > 10 %, the force
+        coefficient shall be calculated using the local plan dimension and the total effective height as
+      below :
+
+                                   𝐻𝑒  77
+                   𝐷= 15 = 5.13
+
+                            𝐵  10
+                     𝐷= 15 = 0.67
+                                      0.055𝐻𝑒/𝐷
+          𝐶𝑓= 1.1 +                                                           2 = 1.21
+                                                                         [1.7−0.0013(𝐻𝑒   ]
+                         exp⁡{|𝑙𝑜𝑔𝑒[(0.6𝐵 (1 −0.011𝐻𝑒 )]|         𝐷)  }                   𝐷)      𝐷
+
+
+      For Part B, the force coefficient shall be calculated using the local plan dimension of the main
+       tower and the total effective height as below:
+
+                                   𝐻𝑒  77
+                   𝐷= 20 = 3.85
+
+                            𝐵  35
+                     𝐷= 20 = 1.75
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 16
+
+
+===== PDF PAGE 22 =====
+0.055𝐻𝑒/𝐷
+          𝐶𝑓= 1.1 +                                                           2 = 1.311
+                                                                        [1.7−0.0013(𝐻𝑒   ]
+                         exp⁡{|𝑙𝑜𝑔𝑒[(0.6𝐵 (1 −0.011𝐻𝑒 )]|         𝐷)  }                   𝐷)     𝐷
+
+      For Part C, as a podium, the force coefficient shall be calculated using the plan dimension of
+       the podium and the total effective height as below:
+
+                                   𝐻𝑒  77
+                   𝐷= 30 = 2.57
+
+                            𝐵  50
+                     𝐷= 30 = 1.67
+                                      0.055𝐻𝑒/𝐷
+          𝐶𝑓= 1.1 +                                                           2 = 1.241
+                                                                        [1.7−0.0013(𝐻𝑒   ]
+                         exp⁡{|𝑙𝑜𝑔𝑒[(0.6𝐵 (1 −0.011𝐻𝑒 )]|         𝐷)  }                   𝐷)     𝐷
+
+
+
+
+
+          Figure 4-2 Example of a tower sitting on a podium
+
+
+    3) Force Coefficients for buildings with corner cuts/ round corners
+
+      For the buildings with the symmetrical corners cuts or round corners, Section 4.2.3 of the
+      Code  shall be followed  to consider the  effects from the corner shapes. The corner
+       modifications, either corner cut or round corner, are considered to provide beneficiary
+       reduction on the wind loading and the Code has reflected this impact by applying a corner
+       reduction factor on the force coefficients. It shall be noted that for only single corner cut/
+        single round corner on building plan, the corner reduction is not applicable. An example of
+       the building shapes to use this rule is given as below.
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 17
+
+
+===== PDF PAGE 23 =====
+Case 1:
+
+                                            Only corner cut at Corner A of the windward
+                                                     face
+
+                                    No corner reduction shall be applied.
+
+
+
+
+
+                                             Case 2:
+
+                                                Corner A: corner reduction with size 10m x
+                                           10m;
+
+                                                Corner B: corner reduction with size 4m x
+                                           3m;
+
+                                        As both corners of the windward face have
+                                                    corner cut, the corner cut effect shall be
+                                                       calculated as below:
+
+                                                Corner A:
+
+                                    𝑤
+                                            1 −2 𝐵(1 −𝑐𝑜𝑠𝜃)
+
+                                = 1 −2 × 10/50 × (1 −cos(45°)) = 0.883⁡
+
+                                                Corner B:
+
+                                    𝑤
+                                            1 −2 𝐵(1 −𝑐𝑜𝑠𝜃)
+
+                                = 1 −2 × 3/50 × (1 −cos(53°)) = 0.952⁡
+
+                                                     Conservatively, the corner effect factor is
+                                                 max(0.883, 0.952)=0.952
+
+       Similar rules shall also be applied to the rectangular shapes with round corners using Equation
+       4-3 of the Code
+
+    4)  Special shapes in considering force coefficient (U, X, double Y, L and Z)
+
+       Normally, a rectangle with corner cut-outs (Shape 1) in Figure 4-3 shall adopt the approach
+        in clause 3). But if the w/B value exceeds 0.31 (Shape 2), it shall also be considered as an X-
+      shaped building following Section 4.2.4 of the Code. The equivalent rectangle leading to
+       smaller wind loads between the two options can be selected for calculation.
+
+      For the shapes such as Y-shaped, L-shaped, Z-shaped, it shall be noted that the equivalent
+       rectangle may be different from different wind approaching angles referring to Figure 4-4 of
+       the Code.
+
+    5) For the plan shapes not covered by the Code, the main principle in Section 4.2.4 of the EN.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 18
+
+
+===== PDF PAGE 24 =====
+Shape 1: w/B <0.31
+
+                                               w/B=10/50=0.2<0.31 → it can be treated as
+                                                   a  rectangle shape  (red dash  line) with
+                                                     corner cut (blue dash line)
+
+
+
+
+
+       Shape 2: w/B ≥ 0.31
+
+
+
+
+
+                       Option 1                                Option 2
+
+       w/B=25/75=0.33>0.31 → take w/B=0.31, it OR it can be treated as an X-shape.
+        can be treated as a rectangle shape (red dash
+         line) with corner cut (blue dash line)
+
+                                          Figure 4-3 Rectangles with corner cuts
+
+For buildings of circular plan with height to diameter ratio not larger than 6, the force coefficient can
+be taken as 0.75.
+
+4.1.2       Size and dynamic factors
+
+The size and dynamic factors is applied to the peak gust pressures following the Code rather than the
+mean pressure in the 2004 Code. It is first calculated at the top height of the building and then reduced
+linearly along the height. It will directly result in an appropriate shear and base moment and a
+reasonable distribution of loading with height. The calculation procedure is summarized in Figure 4-
+4 as below. It shall be noted that in the calculation of Sq,h, the actual building height shall be used.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 19
+
+
+===== PDF PAGE 25 =====
+Figure 4-4 Flow chart of size and dynamic factors calculation
+
+Size factor is incorporated in the Code to address the effect of the size and the location of the loading
+area to get in line with other international wind codes. Generally, the size factor will increase with
+smaller area, particularly in the corners or edges where flow separation will exist. In the Code, Ss will
+be used in the cladding wind load calculation as demonstrated in Section 5.3 and in the calculation of
+the size and dynamic factor Sq,h for the along-wind load as described below.
+
+                                                                                                                              ⁡⁡⁡⁡⁡⁡⁡⁡⁡0.32)
+                                     𝑆𝑠(𝐿0.5𝑝=𝐵) = 𝑒(0.17−0.07𝐿0.5𝑝
+
+This equation applies to the size factor for the “other” zones and the over-all wind loads.
+
+The L0.5p shall be directly adopted as the breadth of the building. If the building breadth varies with
+the height, the breadth shall be the one at the top of the main structure.
+
+For the tall buildings, size and dynamic factor shall be calculated using Equation 5-1 of the Code.
+
+                                                          2      0.25
+                   𝑆𝑞,ℎ= 0.5 + √(𝑆𝑠(𝐿0.5𝑝=𝐵) −0.5) +                                                        𝐵0.5𝐻𝑁𝑥2𝜉𝑥
+
+For the short buildings that less than 50m in the Code, it is less dependent on the dynamic effect. The
+simplified equation as below (Equation 5-3 of the Code), which is independent on the natural
+frequency, can be used.
+
+
+                                          𝐻                       𝑆𝑞= 1.1𝑆𝑠(𝐿0.5𝑝=1.5+2𝐵)
+
+4.2      Torsional loads and exemptions
+
+Torsional force usually is generated due to the non-uniform wind pressure distribution on the surface
+or the unsymmetric building geometry. The Code has provided a simplified rule to calculate the
+torsional force by, in each orthogonal direction, shifting the along wind load from the geometric
+centre of the area by a horizontal distance e, which is defined as:
+
+𝑒=⁡±0.05⁡𝐵 for 𝐵/𝐷≤1
+
+𝑒=⁡±0.20⁡𝐵 for 𝐵/𝐷= 6
+
+Interpolation can be applied for e when 1 < B / D < 6.
+
+For non-rectangular buildings that may be treated as rectangular, the same methodology of treating
+irregular plan shapes in force coefficient calculation in Section 4.1.1 shall be adopted to generate a
+synthetic rectangle to obtain the dimensions B and D.
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 20
+
+
+===== PDF PAGE 26 =====
+4.3      Across-wind Loads
+
+The across wind loads are normally generated by vortex shedding and act in the direction
+perpendicular to the approaching wind. It is an indispensable part of wind loading for those relative
+flexible buildings with large aspect ratio. In the Code, the across-wind loads checking can only be
+exempted if the building could fulfil all the following three requirements:
+
+   •    H<100m
+
+   •     Max(H/B) < 5
+
+   •     The fundamental frequencies greater than 0.5Hz
+
+Otherwise, the across-wind base moment for the two orthogonal wind directions shall be assessed
+using Equation 2-2 of the Code.
+
+4.3.1     Wind Loading Scale up and Judgement on the Necessity of Wind Tunnel Tests
+
+After calculating the across-wind base moment,  it shall be compared with the along wind base
+moment acting in the same direction. Table 4-1 shows the wind loading direction for each
+approaching angle.
+
+The across wind base moment (Mx1x1) from WX1+ and WX1- shall be compared with the along wind
+base moment (My2y2) as X1 and Y2 are in the same direction. If max(M-x1x1,M+x1x1)/ My2y2 ≤1, the
+along wind force Fx1 shall not be changed.
+
+If 1<max(M-x1x1,M+x1x1)/ My2y2 ≤1.5, the along wind force Fx1 shall be factored up by max(M-
+x1x1,M+x1x1)/ My2y2, to make the scaled along-wind force match with the across wind force.
+
+If max(M-x1x1,M+x1x1)/ My2y2 >1.5, according to the Code, the building needs to be wind tunnel tested,
+because the across-wind impact is very substantial and it needs a more accurate assessment of the
+across wind load and responses.
+
+The comparison shall be applied to each wind approaching direction to adjust the corresponding along
+wind load. An example is given in Section 2.2.3 of the EN.
+
+Table 4-1 Crosswind load judgment
+
+                                         wind  is  approaching  from  four  directions
+                                     (WX1+, WX1-, WX2+, WX2-) normal to each
+                                                   side of the building as shown in the left
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 21
+
+
+===== PDF PAGE 27 =====
+For WX1+, the along wind and across wind force and base moment are marked in left. Y1, implying
+ the across wind load due to wind in X1 direction, is in the same direction as X2 (the approaching
+ wind direction in next case).
+
+
+
+
+
+ For WX2+, the along wind and across wind force and base moment are marked in left. Y2 is in the
+ same direction with X1.
+
+
+
+A parametric study is conducted to investigate the across wind and along wind load relationship for
+various buildings. The building height varies from 90m to 200m with an aspect ratio from 4 to 8. The
+natural frequencies are calculated using 46/H for simplicity. The results are presented in terms of the
+ratio of the across-wind base moment divided by the corresponding along-wind base moment as
+shown in Table 4-2. From the table, the highlighted cells represent the conditions in which the 1.5
+base moment ratio is exceeded and those conditions in general covers buildings with high aspect ratio
+and bigger building heights.
+
+Under the studied parameters, it could be concluded that:
+
+   •  Unless in very dense urban center, wind tunnel testing will be required for buildings with
+      H/min(B,D)  >=7.  This  includes  exposed  (He/H=1)  or  mildly  sheltered  conditions
+       (He/H=0.75).
+
+   •   In significantly sheltered condition (He/H<0.5) due to exceeding the 1.5 ratio, such normal
+       buildings in extremely dense urban center, compulsory wind tunnel test due to exceeding the
+       1.5 ratio is very rare, except for very limited buildings with very big slenderness ratio.
+
+However, it should be noted that the conclusions in this parametric study are valid under the adopted
+natural frequencies only, but they are expected still give some indicative information for general
+cases.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 22
+
+
+===== PDF PAGE 28 =====
+Table 4-2 Overturning Moment Comparison (Macross/Malong of the same loading direction)
+
+
+
+
+
+4.4     Load Combination
+
+4.4.1      Torsional loads exemptions
+The torsional load cases can be exempted if the structural system are proved well resistant to the
+lateral loads. The Code has given the below conditions, where torsional load cases could be
+exempted.
+
+    (a) Buildings of single storey up to 10m height;
+
+    (b) Buildings of up to 70 m height with a peripheral lateral load resisting construction;
+
+    (c) Buildings which pass the torsional regularity check. The check that in each lateral direction
+     X1 and X2 in turn, the maximum inter-storey drift in each storey due to the torsional load
+      must be less than 25% of that due to the lateral load ( for buildings with a vertically continuous
+        lateral and torsional resisting structure, this check may be made only at the base and at higher
+       storeys where the resisting capacity reduces by more than 25% when compared with nearby
+        storeys); or
+
+    (d) Where the torsional inter-storey drift calculated above are not greater than 50% of the lateral
+         drift, the Case 3 in Table 2-1 of the Code, (primarily torsion) load cases do not need to be
+       calculated.
+
+If the torsional load case exemption rules (a) to (c) is fulfilled, only 8 load cases by the lateral wind
+loads in the two orthogonal directions shall be considered as shown in Table 4-3 Load combination
+factors for lateral wind loads only.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 23
+
+
+===== PDF PAGE 29 =====
+Table 4-3 Load combination factors for lateral wind loads only
+
+
+
+
+
+If the torsional load case exemption rules (a) to (c) is not fulfilled but the check in (d) is passed, totally
+16 load cases as shown in Table 4-4 Load combination factors with torsion shall be considered.
+
+Table 4-4 Load combination factors with torsion
+
+
+
+
+
+4.4.2     An example of application of Item (c) of torsional exemption
+
+We consider a 156m high building with a rectangle plan shape (32.3m x 36.4m) as shown in Figure
+Figure 4-5. It is located in a flat terrain without any other buildings sheltered. A frame-shear wall is
+modeled in the ETABS as shown in Figure 4-6. The lateral load is resisted by the moment frames and
+the inner core walls. The mass of the building composed of dead load, superimposed dead load and
+25% of the imposed loads is added to the model for the modal analysis. Through the modal analysis,
+the natural frequencies of the building for the lateral X1 (X direction in Figure 4-6) and X2 (Y
+direction in Figure 4-6) and torsional (Rz in Figure 4-6) directions are summarized in Table 4-5.
+
+Since it is over 70m, the building torsional regularity check is required if taking the load clause to
+exempt the torsion load cases. Three wind load cases following the Code are added to the model as
+listed below and tabulated in Table 4-6:
+
+   •  WIND X1: maximum lateral wind loading in X1 direction;
+
+   •  WIND X2: maximum lateral wind loading in X2 direction;
+
+   •  WIND T (Rz direction): the torsional wind loading.
+
+The eccentricity e is calculated using B/D ratio as below:
+
+WX1: B/D= 32.3/36.4 < 1, e = 0.05
+
+WX2: B/D = 36.4/32.3 = 1.13, e = 0.0539
+
+The inter-storey drift for each storey under WIND X1, WIND X2 and WIND T is tabulated in Table
+4-7. It could be observed that the maximum inter-storey drift due to torsion (WIND T) is less than
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 24
+
+
+===== PDF PAGE 30 =====
+25% of that due to the lateral load, fulfills the requirement (c) in Section 4.4.1. Only the load cases in
+Table 4-3 need to be considered in the structural design.
+
+Figure 4-5 A Case Study for Torsional Regularity Check
+
+
+
+
+
+Figure 4-6 Structural System in ETABS
+
+
+
+Table 4-5 Modal Properties
+ Mode                            Direction                           Natural Frequency (Hz)
+
+ 1                       X-X                               0.237
+
+ 2                       Y-Y                               0.269
+
+ 3                         Rz                                0.482
+
+
+
+Table 4-6 Input Wind Load to Etabs Model
+       Wind X1 (kN)  Wind X2 (kN)  Wind T (kNm)
+ ROOF      402           327           787
+  32/F       586           477          1147
+  31/F       609           496          1192
+  30/F       597           487          1170
+  29/F       582           475          1141
+  28/F       565           461          1106
+  27/F       550           450          1078
+  26/F       539           441          1057
+  25/F       528           433          1035
+  24/F       517           424          1014
+  23/F       506           415           992
+  22/F       495           407           970
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 25
+
+
+===== PDF PAGE 31 =====
+21/F       484           398           949
+  20/F       473           389           927
+  19/F       462           381           906
+  18/F       451           372           884
+  17/F       440           363           862
+  16/F       429           355           841
+  15/F       418           346           819
+  14/F       407           337           797
+  13/F       396           328           775
+  12/F       384           319           753
+  11/F       407           338           797
+  10/F       444           370           871
+   9/F        427           356           836
+   8/F        400           334           783
+   7/F        391           328           767
+   6/F        359           302           703
+   5/F        307           259           602
+   4/F        273           230           534
+   3/F        250           211           489
+   2/F        261           221           511
+   1/F        259           220           507
+  G/F       150           128           294
+
+
+
+Table 4-7 Inter Storey Drift Output From the Etabs Model
+                Max Inter storey drift in X1          Inter storey      Max Inter storey drift in X2          Inter storey
+                                  direction                    drift ratio (due                 direction                    drift ratio (due
+      Story           Inter storey        Inter storey        to WIND T/        Inter storey        Inter storey        to WIND T/
+                           drift due to         drift due to      due to WIND        drift due to         drift due to      due to WIND
+              WIND X1      WIND T          X1)       WIND X2      WIND T          X2)
+                         (lateral load)        (Torsion)                               (lateral load)        (Torsion)
+    ROOF          9.3E-04          2.0E-06        0%            6.3E-04          2.0E-06        0%
+
+      32/F           9.4E-04          4.0E-06        0%            6.4E-04          4.0E-06        1%
+
+      31/F           9.5E-04          5.0E-06        1%            6.5E-04          5.0E-06        1%
+
+      30/F           9.7E-04          7.0E-06        1%            6.6E-04          7.0E-06        1%
+
+      29/F           9.8E-04          9.0E-06        1%            6.6E-04          9.0E-06        1%
+
+      28/F           9.9E-04          1.1E-05        1%            6.7E-04          1.1E-05        2%
+
+      27/F           1.0E-03          1.3E-05        1%            6.8E-04          1.2E-05        2%
+
+      26/F           1.0E-03          1.5E-05        1%            6.9E-04          1.4E-05        2%
+
+      25/F           1.0E-03          1.7E-05        2%            6.9E-04          1.6E-05        2%
+
+      24/F           1.0E-03          1.8E-05        2%            7.0E-04          1.8E-05        3%
+
+      23/F           1.0E-03          2.0E-05        2%            7.0E-04          1.9E-05        3%
+
+      22/F           1.1E-03          2.2E-05        2%            7.1E-04          2.1E-05        3%
+
+      21/F           1.1E-03          2.3E-05        2%            7.1E-04          2.2E-05        3%
+
+      20/F           1.1E-03          2.5E-05        2%            7.1E-04          2.4E-05        3%
+
+      19/F           1.1E-03          2.7E-05        3%            7.1E-04          2.5E-05        4%
+
+      18/F           1.1E-03          2.8E-05        3%            7.0E-04          2.7E-05        4%
+
+      17/F           1.0E-03          3.0E-05        3%            7.0E-04          2.8E-05        4%
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 26
+
+
+===== PDF PAGE 32 =====
+16/F           1.0E-03          3.1E-05        3%            6.9E-04          3.0E-05        4%
+
+      15/F           1.0E-03          3.3E-05        3%            6.8E-04          3.1E-05        5%
+
+      14/F           1.0E-03          3.4E-05        3%            6.7E-04          3.2E-05        5%
+
+      13/F           9.9E-04          3.5E-05        4%            6.5E-04          3.4E-05        5%
+
+      12/F           9.6E-04          3.7E-05        4%            6.3E-04          3.5E-05        6%
+
+      11/F           9.4E-04          3.9E-05        4%            6.1E-04          3.7E-05        6%
+
+      10/F           9.1E-04          4.3E-05        5%            5.8E-04          4.1E-05        7%
+
+       9/F            8.3E-04          3.8E-05        5%            5.2E-04          3.5E-05        7%
+
+       8/F            7.5E-04          3.7E-05        5%            4.6E-04          3.4E-05        7%
+
+       7/F            7.1E-04          3.7E-05        5%            4.4E-04          3.5E-05        8%
+
+       6/F            6.5E-04          3.6E-05        6%            3.9E-04          3.4E-05        9%
+
+       5/F            5.7E-04          3.0E-05        5%            3.3E-04          2.8E-05        9%
+
+       4/F            5.1E-04          2.9E-05        6%            2.9E-04          2.6E-05        9%
+
+       3/F            4.4E-04          2.7E-05        6%            2.4E-04          2.4E-05        10%
+
+       2/F            3.8E-04          2.7E-05        7%            1.9E-04          2.5E-05        13%
+
+       1/F            3.6E-04          3.4E-05        9%            1.9E-04          3.3E-05        17%
+
+
+
+4.5      Acceleration Calculation and Human Comfort Assessment
+
+The 2019 Code specifically requires the human comfort to be assessed by comparing calculated
+acceleration using Equation 2-4 of the Code with the peak acceleration limits in Section 2.4.2 of the
+Code. It shall be noted that the damping ratio for checking acceleration is given separately from the
+one for strength design as tabulated in Appendix C2 of the Code. The peak acceleration limits reflect
+that human tolerance to building motion is frequency dependent.
+
+                                                                            3.3
+                       𝐺𝑟𝑦 𝜌𝑎                ⁄      𝐻𝑏  2 + 𝜂𝑦  𝑍  𝜂𝑦                            (0.215√2𝑆𝑟𝑄ℎ𝜌𝑎 )                .               . (  )        𝐴𝑧=                   0.15                  𝜉𝑦 0.5𝑁𝑦 1.3(𝐵𝐷)𝑏      1 + 3.7𝐼𝑣,ℎ      3𝑀ℎ   3    𝐻𝑏
+
+A parametric study  is conducted using the same building geometry information and natural
+frequencies as shown in Section 4.3.1 and two sets of mass densities (400kg/m3 and 500 kg/m3) and
+two sets of return periods (1-year and 10-year). The results summarized in Appendix A are compared
+with the acceleration limitation introduced in the Code. N/A represents buildings falling out of the
+standard approach due to Macross/Malong ≥ 1.5 as shown in Table 4-2. In the legend, red represents
+conditions that exceed the human comfort limit for office buildings; blue represents conditions that
+are below the comfort limit for residential building; pink represents conditions exceeding residential
+but within the office limit.
+
+On analysing results shown in Appendix A, the trend can be observed that, under the same building
+height, more slender buildings lead to bigger acceleration responses and therefore have bigger
+possibility to exceed the human comfort criteria. It is also observed that for tall buildings, the
+residential comfort can be satisfied in most less slender buildings (H/min(B,D)≤6), even under the
+unsheltered condition. Although a big exceedance of residential comfort limit is observed in short
+slender buildings, a common understanding is that shorter buildings are relatively easier to get
+significant sheltering benefit from surroundings so that their residential comfort may not be a big
+concern in urban city terrain with and without sheltering conditions.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 27
+
+
+===== PDF PAGE 33 =====
+5.    Cladding Wind Loads
+
+
+For the calculation of cladding wind loads, the procedure is summarized in Figure 2-2 of the Code.
+
+The cladding loads calculation shall depend on the different opening conditions of the building
+envelope.
+
+For the buildings without dominant openings:
+
+                     𝑃= 𝑄𝑧𝐶𝑝𝑆𝑠
+
+For the buildings with dominant openings:
+
+                𝑃= 𝑃𝑒−𝑃𝑖= 𝑄𝑧(𝐶𝑝𝑒𝑆𝑠−𝐶𝑝𝑖𝑆𝑠,𝑖)
+
+From the equations above, three main factors will affect the cladding wind loads, i.e., reference wind
+pressure, pressure coefficient and size factor, which will be discussed in the following chapters.
+
+5.1      Reference Wind Pressure
+
+Reference wind pressure is calculated at the reference height using the same procedure as that
+introduced in the structure wind load calculation. The 2019 Code takes reference height as building
+top rather than following approaching wind profile, which is different from the requirement of the
+2004 Code.
+
+In the CoP 2019, if no sheltering effect is considered, the cladding pressure will be a constant value
+over the building height. If the sheltering effect is considered, the reference wind pressure will be
+calculated based on a reduced building height, effective height. And the cladding pressure below a
+height of 0.5(H-He) can be reduced by 20%. A simple example for a building with He/H=0.6 is shown
+in Figure 5-1. Below the height 0.5(H-He)=0.2H, the cladding pressure could be reduced by 20%.
+
+       1.2
+
+        1
+
+       0.8
+
+   h/H 0.6
+
+       0.4
+
+       0.2
+
+        0
+          0        0.2       0.4       0.6       0.8      1        1.2
+                                  Q(z)/QHref
+
+
+Figure 5-1 Cladding Pressure over heights
+
+For a tower sitting on a podium, the reference wind pressure shall be calculated according to the
+different locations.
+
+   •  For the towers sitting more than 0.2b from the podium edge as shown in Figure 4.5(a) of the
+      Code, the calculation of the cladding wind load for the podium shall use the reference wind
+       pressure calculated at the top of the podium, while the cladding wind load for the tower shall
+      be calculated using the reference wind pressure at the top of the tower.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 28
+
+
+===== PDF PAGE 34 =====
+•  For the tower at the edge of a podium (gap ≤ 0.2b), as shown in Figure 4.5(b) of the Code,
+      some podium portion may be affected by tower and therefore the reference height for those
+       portions shall be the tower height.
+
+
+
+5.2      Pressure Coefficients
+
+The net pressure coefficients for an enclosed building envelop without dominant openings are
+provided in Section 4.3.1 of the Code. The net pressure coefficients are derived assuming the internal
+pressure coefficients as +0.2 or -0.3 with the same values in the 2004 Code. The corresponding
+external pressures are given in Table B1-1 of Appendix B1 of the Code. It shall be noted that the net
+pressure coefficients shall be applied together with the wind reference pressure at the top of the
+building, Qh.
+
+The pressure coefficients for building envelop with dominant openings are provided in Appendix B1
+of the EN.
+
+5.2.1      Guidance for Edge Zone Extent of Irregular Shapes
+
+The zone definitions for rectangular shaped buildings are given in Figure 4-6(a) and (b) of the Code.
+For the irregular shaped buildings, the definition of the edge zone follows the rule for the rectangles
+as shown in Figure B-1 of the EN, which is also shown in Figure 5-2 below with a slight expansion
+of the demonstration on L shape.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 29
+
+
+===== PDF PAGE 35 =====
+Figure 5-2 definition of the edge zones for some irregular shapes
+
+
+
+5.2.2     Podium roof cladding affected by tower
+
+For the towers sitting on the podium, some of the podium areas may be under the influence of the
+tower and shall adopt the same pressure values from the adjacent elevations of the tower. The zone
+definitions and dimensions are shown in Figure 5-3 and Figure 5-4.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 30
+
+
+===== PDF PAGE 36 =====
+Figure 5-3 Dimension for pressure zones
+
+
+
+
+
+ Figure 5-4 Zone key for pressure
+
+
+
+5.2.3       Internal Pressure with dominant openings
+
+For the buildings with dominant openings, the cladding wind pressure shall be calculated as the net
+pressure of the external and internal wind pressure together. The external pressure coefficients for
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 31
+
+
+===== PDF PAGE 37 =====
+building envelope are provided in Appendix B1.2 of the Code. The internal pressure coefficients shall
+be calculated following the guidance of Appendix B1.3 of the Code.
+
+If the openings can be justified as dominant openings, the internal pressure coefficient shall be
+calculated as:
+
+                                             𝐶𝑝𝑒
+                           𝐶𝑝𝑖=            2
+                                       [1 + (𝐴𝑡𝑜𝑡 ) ]
+                                         𝐴0
+
+where
+
+Atot is the sum of areas of openings on other faces, including leakage. The leakage contribution to Atot
+is defined as 0.1% of the total external surface area of the other surfaces. Other numbers may be used
+with justification and specialist advice may be sought.
+
+A0 is the area of the largest opening or sum of areas of openings of similar sizes and within the same
+or similar pressure zone/zones on the same building face.
+
+If the openings are not qualified as dominant openings, the internal pressure coefficient can be
+estimated from the balance of flow, using the formula below:
+
+
+                                           𝑆𝑖𝑔𝑛(𝑃𝑒𝑗−𝑃𝑖)]                 𝑜∗= ∑𝐴𝑗[√2|𝑃𝑒𝑗−𝑃𝑖|                                        𝜌𝑎
+                                              𝐴𝑙𝑙⁡𝑗
+
+where
+
+𝑃𝑒𝑗 is the external pressure at the jth opening
+
+𝑃𝑖 is the wanted internal pressure
+
+  2|𝑃𝑒𝑗−𝑃𝑖|√          is the air flow speed at the jth opening
+     𝜌𝑎
+
+𝑆𝑖𝑔𝑛(𝑃𝑒𝑗−𝑃𝑖) is the direction of flow – inward if positive
+
+𝐴𝑗 is the effective opening size at position j, typically 0.6 of the gross area for a rectangular building.
+
+The Definition of dominant openings
+
+The definition of dominant openings is shown in Appendix B1 of the Code. An example is shown in
+Section 5.5.2 to demonstrate how to define if the opening is dominant.
+
+
+
+5.3      Size Factor
+
+Size factor reflects the correlation between the loading area and the turbulence scales. For a small
+area, the wind flow will be highly correlated, the peak pressure of the load areas is therefore big. The
+sensitivity of peak pressure against the size of loading is more obvious in edge and corner zones. This
+section will introduce the procedure of the size factor calculation for various components.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 32
+
+
+===== PDF PAGE 38 =====
+5.3.1       Size factor for various components
+
+Figure 5-5 shows the typical cladding system for buildings. 4 different elements,  i.e., anchors,
+mullions, horizontal rail, spandrel panel/vision glasses are highlighted with different colours. An
+example of calculating the half perimeter length of the four elements are shown from Figure 5-6 to
+Figure 5-9. It is reminded that the example here is for reference only and it should be the responsibility
+of the designers to make a reasonable judgement of the loading areas of their specific projects.
+
+
+
+
+
+ Figure 5-5 Schematic of typical cladding system
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 33
+
+
+===== PDF PAGE 39 =====
+Figure 5-6 L0.5p for a cladding panel
+
+
+
+
+
+ Figure 5-7 L0.5p for an anchor
+
+
+
+
+
+ L0.5p is the half perimer as marked by yellow line.
+
+ Figure 5-8 L0.5p for a mullion
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 34
+
+
+===== PDF PAGE 40 =====
+L0.5p is the half perimer as marked by yellow line.
+
+ Figure 5-9 L0.5p for a transom
+
+
+
+5.4     Working Example for Cladding Wind Load Calculation
+In this section, two working examples are illustrated to show the procedure of the cladding wind
+load calculation following HKCOP 2019. The examples show the differences in considering the
+reference height under different relative positions between the tower and the podium.
+
+5.4.1      General Information
+The example is a 90m tower sitting on a 16m podium with different relative positions (total height of
+106m). The key dimensions for the tower and the podium are illustrated in Figure 5-10 and Figure
+5-11. The building is located on an open flat terrain without any significant topographic features or
+the complex surroundings. The cladding panel is assumed as a 1.5m × 1.5m size on the tower and a
+1.5m × 3m size on the podium.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 35
+
+
+===== PDF PAGE 41 =====
+Figure 5-10 Dimensions for Case 1                     Figure 5-11 Dimensions for Case 2
+
+
+
+5.4.2      Calculation of the cladding pressure
+      Based on the assumption of the topography, the topography factor is 1.0. For remaining
+        steps, the calculation procedure is as follows.
+
+             a.  Determine the directionality factor on pressure, Sθ
+
+            The directionality factor is obtained following the procedure described in Section
+               3.1.2 as summarized in Figure 5-12. For the easy demonstration, the directionality
+               factor is taken as 0.85 for all the directions conservatively.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 36
+
+
+===== PDF PAGE 42 =====
+Figure 5-12. Directionality factors
+
+
+b.  Consider the different reference heights
+
+     It should be noted that the podium walls close to the tower may be under the impact of the wind
+   flows from the tower. Thus, the reference height in those regions shall be the same as the tower
+   according to the Code, as marked in the blue region on the podium part in Figure 5-13. The
+   dimension of the region extend from the tower footprint (0.5b1t or 0.5b2t subject to approaching
+   wind direction) is determined based on cladding zone scaling length b as defined in Figure 4-5 of
+    the Code in the corresponding wind direction. As for the reference wind pressure on the podium
+    roof, it shall follow the pressure zones in Figure 5-4. If the pressure zone is the extension of the
+    pressure zone from the tower wall, the reference wind pressure for the tower shall be used.
+   Otherwise, the reference wind pressure for the podium is adopted.
+
+
+
+
+
+Figure 5-13 Reference Pressure Zone
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 37
+
+
+===== PDF PAGE 43 =====
+Table 5-1 Summary of reference wind pressure
+                     Wind Reference Height                               Reference Wind
+         Case 1                                          Directionality factor
+                                 (m)                                           Pressure (kPa)
+
+        Tower*                 106                     0.85                     2.45
+
+        Podium                  16                      0.85                     1.81
+
+                     Wind Reference Height                               Reference Wind
+         Case 2                                          Directionality factor
+                                 (m)                                           Pressure (kPa)
+
+        Tower*                 106                     0.85                     2.45
+
+        Podium                 106                     0.85                     2.45
+  (elevation of blue zone)
+        Podium
+                                16                      0.85                     1.81   (roof and elevation of
+      orange zone)
+* Including podium roof zone under influence of the tower as defined in Figure 4-6(a) in the Code.
+
+
+    c.  Calculation of size factor
+
+The cladding panel is assumed as a 1.5m × 1.5m size on the tower and a 1.5m × 3m size on the
+podium. The size factors for the cladding panel design are calculated following Appendix C1 of the
+Coded and summarized in Table 5-2 depending on the size and the location of a panel.
+
+
+
+Table 5-2 Summary of size factors
+                                                   Tower
+
+                                     Location                        L0.5p                     Ss
+
+                              Edge (suction)            3m                   1.18
+
+                                 Corner (suction)           3m                   1.30
+
+                            Other zones (suction) & all
+                                             3m                   1.07
+                             zones for positive pressure
+
+                                                   Podium
+
+
+                                     Location                        L0.5p                     Ss
+
+
+                              Edge (suction)              4.5m                  1.13
+
+
+                                 Corner (suction)             4.5m                  1.22
+
+                            Other zones (suction) & all
+                                                        4.5m                  1.06
+                             zones for positive pressure
+
+
+d.  Calculation of the cladding load
+
+   For the enclosed buildings, the net pressure coefficients are given in Table 4-1 of the Code. The
+    different wind reference pressures calculated using the reference heights in step b are used. The
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 38
+
+
+===== PDF PAGE 44 =====
+cladding pressures calculated for Case 1 and Case 2 are summarized in Table 5-4 and Table 5-5
+    respectively.
+
+   For the podium roof, the more onerous values of that following the podium roof rule and that
+   following the tower wall rule, if it is applicable, are adopted conservatively.
+
+e.  Calculation of the key zone dimensions
+
+   Once the cladding wind pressure are calculated, the loading zones shall be defined on the building
+    envelop. The key dimensions, b1t, b2t, b1p, b2p are taken following the rules in Figure 4-5 of the
+   Code and summarized in Table 5-3. The dimensions of the loading zones are then defined
+   following Figure 4-6 of the Code. For the cladding wind load on the podium roof, the area close
+    to the tower are under the impact of the wind flow around the tower and shall take the wind load
+   same as either Zone A or Zone B of the tower as shown in Figure 4-6 of the Code, for which the
+   dimensions vary for positive and negative pressures.
+
+                                        Table 5-3 Key Zone Dimensions
+                                 Key Dimensions
+
+                        𝑏2𝑡= min(2𝐻𝑡𝑜𝑤𝑒𝑟, 𝐵𝑡𝑜𝑤𝑒𝑟−2) = 40 m
+                     𝑏2𝑝= min(2𝐻𝑝𝑜𝑑𝑖𝑢𝑚, 𝐵𝑝𝑜𝑑𝑖𝑢𝑚−2) = 32 m
+
+                        𝑏1𝑡= min(2𝐻𝑡𝑜𝑤𝑒𝑟, 𝐵𝑡𝑜𝑤𝑒𝑟−1) = 25 m
+
+                      𝑏1𝑝= min(2𝐻𝑝𝑜𝑑𝑖𝑢𝑚, 𝐵𝑝𝑜𝑑𝑖𝑢𝑚−1) = 32 m
+
+
+
+Table 5-4 Cladding Wind Load for Case 1
+                                           Tower
+                                             Negative Cladding Pressure        Positive Cladding Pressure
+                               Reference
+                    Colour                   Size                Pressure     Size                 Pressure
+ Location  Zone              Wind                    Cp_neg                                Cp_pos
+                  Code                  Factor Ss               (kPa)    Factor Ss               (kPa)
+                                  Pressure
+        A                 2.45kPa     1.18        -1.4       -4.05      1.07      +1.1       2.89
+  Wall*
+         B                 2.45kPa     1.07        -1.0       -2.62      1.07      +1.1       2.89
+
+         C                 2.45kPa     1.30        -2.2       -7.01      1.07      +0.3       0.79
+
+   Roof   D                 2.45kPa     1.18        -1.6       -4.63      1.07      +0.3       0.79
+
+          E                 2.45kPa     1.07        -1.0       -2.62      1.07      +0.3       0.79
+                                          Podium
+                                             Negative Cladding Pressure        Positive Cladding Pressure
+                               Reference
+                    Colour                   Size                Pressure     Size                 Pressure
+ Location  Zone              Wind                    Cp_neg                                Cp_pos
+                  Code                  Factor Ss               (kPa)    Factor Ss               (kPa)
+                                  Pressure
+        A                 1.81kPa     1.13        -1.4       -2.86      1.06      +1.1       2.11
+   Wall
+         B                 1.81kPa     1.06        -1        -1.92      1.06      +1.1       2.11
+
+         C                 1.81kPa     1.22        -2.2       -4.86      1.06      +0.3       0.58
+
+   Roof   D                 1.81kPa     1.13        -1.6       -3.27      1.06      +0.3       0.58
+
+          E                 1.81kPa     1.06        -1        -1.92      1.06      +0.3       0.58
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 39
+
+
+===== PDF PAGE 45 =====
+* including podium roof if the tower wall clause in Figure 4-6 (b) of the Code is applicable and gives more
+ onerous results.
+
+
+
+
+
+    (a) Positive Cladding Pressure for Case 1             (b) Negative Cladding Pressure for Case 1
+
+Figure 5-14 Pressure Zone for Case 1
+
+Table 5-5 Cladding Wind Load for Case 2
+                                          Tower
+                                                      Negative Cladding
+                                                                                       Positive Cladding Pressure
+                                                               Pressure
+                                        Referenc     Size                        Size
+                                                                        Pressure                     Pressure
+  Location   Zone     Colour Code      e Wind     Factor    Cp_neg              Factor    Cp_pos
+                                                                         (kpa)                        (kpa)
+                                          Pressure       Ss                            Ss
+         A                      2.45kPa     1.18     -1.4     -4.05      1.07     +1.1     2.89
+   Wall*
+          B                       2.45kPa     1.07     -1.0     -2.62      1.07     +1.1     2.89
+
+          C                       2.45kPa     1.30     -2.2     -7.01      1.07     +0.3     0.79
+
+    Roof    D                      2.45kPa     1.18     -1.6     -4.63      1.07     +0.3     0.79
+
+           E                       2.45kPa     1.07     -1.0     -2.62      1.07     +0.3     0.79
+
+                                          Podium
+                                                      Negative Cladding
+                                                                                       Positive Cladding Pressure
+                                                               Pressure
+                                        Referenc     Size                        Size
+                                                                        Pressure                     Pressure
+  Location   Zone     Colour Code      e Wind     Factor    Cp_neg              Factor    Cp_pos
+                                                                       (kPa)                       (kPa)
+                                          Pressure       Ss                            Ss
+         A                      1.81kPa     1.13     -1.4     -2.86      1.06      1.1     2.11
+    Wall
+          B                        1.81 kPa     1.06      -1      -1.92      1.06      1.1     2.11
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 40
+
+
+===== PDF PAGE 46 =====
+A’                       2.45 kPa     1.13     -1.4     -3.88      1.06      1.1     2.86
+
+             B’                       2.45 kPa     1.06      -1      -2.60      1.06      1.1     2.86
+
+          C                        1.81 kPa     1.22     -2.2     -4.86      1.06      0.3     0.58
+
+   Roof    D                        1.81 kPa     1.13     -1.6     -3.27      1.06      0.3     0.58
+
+           E                        1.81 kPa     1.06      -1      -1.92      1.06      0.3     0.58
+ * including podium roof if the tower wall clause in Figure 4-6 (b) of the Code is applicable and gives
+ more onerous results.
+
+
+
+
+
+      (a) Positive Cladding Pressure for Case 2            (b) Negative Cladding Pressure for Case 2
+        (View 1)                                    (View 2)
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 41
+
+
+===== PDF PAGE 47 =====
+(c)  Positive Cladding Pressure for Case 2           (d) Negative Cladding Pressure for Case 2
+        (View 1)                                    (View 2)
+
+ Figure 5-15 Pressure Zone for Case 2
+
+5.5     Working Example for Cladding Wind Load Calculation for a building with
+        dominant openings
+This example demonstrating how to derive the wind pressure coefficients for the buildings with
+dominant openings is shown below.
+
+5.5.1      General Information
+The example is a 30m low rise building with permanent openings designed on the building envelope
+as shown in the 3D image of Figure 5-16. As the calculation of wind reference pressure have been
+demonstrated in the previous example, only the calculation of pressure coefficient will be shown here.
+
+
+
+
+
+                           Figure 5-16 Building Geometries
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 42
+
+
+===== PDF PAGE 48 =====
+5.5.2      Define the dominant opening
+The largest opening area is
+
+                           𝐴0 = 20𝑚× 20𝑚= 400𝑚2
+
+The sum of the areas of openings on other faces, including 0.1% leakage of the total external surface
+area of the other surfaces:
+
+      𝐴𝑡𝑜𝑡= 5 × 5 + 0.1%(40 × 30 + 25 × 30 × 2 + 25 × 40) = 25 + 3.7 = 28.7𝑚2
+
+                                 𝐴0 > 1.5𝐴𝑡𝑜𝑡
+
+Therefore, this opening is considered as a dominant opening
+
+5.5.3      Calculation of the internal pressure coefficient
+The internal pressure coefficient can be calculated using the equation below..
+                                                      𝐶𝑝𝑒
+                                   𝐶𝑝𝑖=             2
+                                                [1 + (𝐴𝑡𝑜𝑡 ) ]
+                                                 𝐴0
+
+Depending on the location of the dominant opening and whether the opening is under negative or
+positive pressures, Table 5-6 summarizes the calculated Cpi assuming the dominant opening is on
+wall edge under negative pressure (Zone A), on wall general zone under negative pressure (Zone B)
+and under positive pressure respectively.
+Table 5-6 Calculation of Cpi
+                                          Cpe              Atot (m2)        A0 (m2)             Cpi
+            A (negative)          -1.2            28            400             -1.19
+      Wall      B (negative)          -0.8            28            400             -0.80
+           A&B (positive)         0.8            28            400             0.80
+
+
+
+5.5.4      Combination with external pressure
+The internal pressure shall be combined with the external pressure aiming at the most critical wind
+loads on the elements. The example in Figure 5-17 shows the wind pressure directions on the
+external due to the dominant opening when the wind is approaching towards the dominant opening.
+According to this figure, the wind pressures on the external walls are summarized as below
+
+    •   P(Side A)=𝑠𝑖𝑔𝑛(𝑃𝑒)||𝑃𝑒| −|𝑃𝑖||
+
+    •   P(Side B)=𝑠𝑖𝑔𝑛(𝑃𝑒)||𝑃𝑒| −|𝑃𝑖||
+
+    •   P(Side C)=𝑠𝑖𝑔𝑛(𝑃𝑒)||𝑃𝑒| −|𝑃𝑖||
+
+    •   P(Side D)=𝑠𝑖𝑔𝑛(𝑃𝑒)||𝑃𝑒| −|𝑃𝑖||
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 43
+
+
+===== PDF PAGE 49 =====
+Figure 5-17 Example of internal and external wind pressure combination
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 44
+
+
+===== PDF PAGE 50 =====
+6.    Wind Tunnel Test Requirements
+
+
+The necessary provisions for wind tunnel testing are given in Chapter 6 of the Code; further
+supplementary information is given in the EN.
+
+6.1      Buildings to be wind tunnel tested
+For buildings outside the applicability of the Standard Method, as defined in Section 1.1 of the Code,
+a wind tunnel test is compulsory.
+
+Even if a building may use the Standard Method, a designer can still decide to conduct wind tunnel
+tests from the safety or economy perspective.
+
+6.2      Reports
+
+6.2.1     Method of statement
+
+There should be a method statement of the wind tunnel tests to describe the facilities (including the
+information of the wind tunnel), instrumentation and measurement equipment and techniques,
+analysis methods to be employed and the compliance with the requirement in the Code. It will reduce
+the risk of different opinions from the designer or the approval authorities, if the method statement
+report is fully discussed and agreed among the testing laboratory, the designer and the authority prior
+to the tests.
+
+6.2.2      Testing report/reports
+The wind tunnel testing report should include the methodology of testing, referring to the Method
+Statement report, show how the wind tunnel testing requirements of the code (including quality
+assurance) are satisfied, and the findings and conclusions. Sufficient information should be included
+to support the quality of the wind simulation, building modelling, test instrumentation and the test
+data processing. Intermediate data should be made available if required for the purpose of independent
+validation and checking.
+
+
+
+6.3      Items to be addressed in Reports and the Corresponding Testing
+        Requirement
+
+The following items shall be addressed in the reports mentioned above:
+
+    1) Background and testing scope
+
+      The background information of the testing building shall be briefly introduced. The testing
+       scope shall specifically demonstrate the testing scope and items and identify the key outcomes
+       expected from the wind tunnel tests, which could be one or all of the following areas:
+
+          •  Wind climate study
+
+          •  Topographic tests to identify the impact of the topographic features on the site wind
+              condition
+
+          •   Structural wind studies through either a High frequency force balance (HFFB) test or
+              simultaneous pressure integration (SPI) method to derive the structural wind load and
+              responses
+
+          •  Pressure measurement for cladding wind load
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 45
+
+
+===== PDF PAGE 51 =====
+2) Boundary layer wind flow simulation
+
+       Description of simulation method and results of the natural boundary layer wind shall be
+       given. Some key features must be included:
+
+          •  Geometric testing scale of wind simulation:
+
+          •  Wind tunnel testing wind speeds and the corresponding full-scale/ model velocity
+               scale
+
+          •  Mean wind speed profile measured in the wind tunnel and comparison with the target
+                profile
+
+          •  The longitudinal component of turbulence intensity profile in the wind tunnel and
+             comparison with the target profile, and
+
+          •   Integral scale of turbulence measured in the wind tunnel, or wind spectrum
+
+         Note that this required information applies to both the topography test and the loading
+             tests such as the HFFB or cladding test.
+
+    3) Topographic test
+
+      The following details of the topographic test (if any) shall be included or satisfied:
+
+          •  Topographic model extent of coverage, which shall include the major topographic
+               features likely to have an impact on the wind conditions on the site,
+
+          •  Buildings to be included in the proximity model excluded,
+
+          •  Proposed levels for profile measurement,
+
+          •  Measured mean velocity and turbulence intensity profiles at site for all the tested wind
+               directions
+
+    4) Surrounding buildings and proximity model
+
+      The surrounding buildings are included in the proximity model in the wind tunnel to model
+       the near field impact to site. The following details of the proximity model shall be included:
+
+          •  Proximity model extent of coverage with a radius not less than 400m
+
+          •  Calculation details of the blockage ratio*
+
+          •  The details of the removed buildings and the calculation procedure demonstrating the
+             proposed buildings to be removed are those providing most sheltering effects, if a
+             removal configuration is conducted.
+
+         *The estimated maximum value of the blockage ratio during testing should not be over
+       10% with both the proximity model and the model to be tested included, except that a
+          blockage tolerance wind tunnel is adopted. If a blockage tolerance tunnel is adopted,
+            sufficient information to demonstrate the effectiveness of the blockage tolerance shall be
+           provided.
+
+    5)  Testing models
+
+      The following information about the testing models shall be provided
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 46
+
+
+===== PDF PAGE 52 =====
+•  Description of the design and construction of the testing models (HFFB or cladding
+              model), including materials, construction method, and any simplification of the model
+            which may affect the accuracy of the test
+
+          •  For cladding models, demonstration of tapping layout on building plan or elevations
+              or on 3D models, with pressure tap identification labels and description of Code
+             compliance on pressure tap density
+
+          •  For  cladding models,  demonstration  of  tapping  layout  of  the  simultaneously
+              instrumented taps, if the SPI approach for structural wind loads is adopted
+
+          •  For HFFB models, point of location of the sensor of the HFFB
+
+          •  For HFFB models, evidence that the model/balance assembly is stiff enough to
+              suppress its own vibration, such as by demonstrating the natural frequencies of the
+             model-balance assembly is at least two times of the building natural frequencies when
+              converted to full scale
+
+    6)  Scaling ratio in wind tunnel tests
+
+          •  Topographic model: normally shall be equal to or larger than 1:5000
+
+          •  Proximity model: normally shall be not smaller than 1:500
+
+          •  Velocity scaling ratio adopted for various tests, with reference height for reference
+            wind speed clearly specified
+
+          •  Minimum Reynolds number based on the building dimension shall be not less than
+             1x104 for sharp edges; for rounded shapes, requirement in D1.5 of the EN shall be
+               referred to. The length dimension for calculating the Reynolds number shall be the
+               smallest dimension of the main massing of the building.
+
+    7) Measuring directions
+
+          •  Topographic test shall be conducted in at least 18 wind directions at 20o interval.
+
+          •  Proximity model shall be measured at least 36 wind directions at 10o interval for
+               pressures and loads.
+
+    8) Requirement to matching of wind pressures
+
+      Where the  effect of topography  is modelled, the wind  profiles determined from the
+       topographic test shall be used to match to the building model tests.
+
+          •  The methodology of wind profile matching shall be stated and fulfil the requirements
+              of the Code as stated in Section 6.1.3 and Section 6.1.7 of the Code.
+
+          •  Special attention shall be paid on the matching height selection as specified in Section
+               6.1.7 of the Code, especially the different matching heights on different exposed
+               conditions.
+
+    9) Measurement in cladding test
+
+      For cladding test, the following information shall be available:
+
+          •  Frequency response of the wind pressure measurement system
+
+          •  Information on tubing response correction
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 47
+
+
+===== PDF PAGE 53 =====
+•  Sampling rate and measurement duration
+
+          •  Methodology of statistical determination of peak pressure, and
+
+          •  Methodology to estimate internal pressure, if applicable
+
+   10) Requirement on testing data or testing results
+
+       Following testing data or testing results are normally required in a cladding test:
+
+          •  Tabulated data of measured mean, standard deviation, minimum and maximum
+               pressures or pressure coefficients (with clear statement of the reference wind speed or
+               reference wind pressure so that the associated pressures can be calculated easily) for
+             each wind direction and each pressure tap,
+
+          •  Contour plots or blockage diagrams of peak cladding pressure enveloping all the
+               studied wind directions,
+
+          •  Pressure time history shall be well recorded and achieved, which may be required per
+               request for checking and peer review purpose.
+
+   11) Measurement and required data in HFFB test
+
+      For a HFFB test, the following information is normally required:
+
+          •  Sampling rate and measurement duration
+
+          •  Information of any single filtering or spectra correction, if applicable
+
+          •  Mean, root-mean-square values and power spectral densities of the base shear and base
+            moment, with reference wind speed clearly specified
+
+          •  Time history of base shear and moment shall be well recorded and achieved, which
+          may be required per request for checking and peer review purpose.
+
+   12) Dynamic properties
+
+       Information on dynamic properties shall be including in the testing report, including
+
+          •  Natural frequencies of mode shapes of at least the first two translational mode and the
+                   first torsional mode,
+
+          •  Mass distribution along the building height, and
+
+          •  Assumed damping ratio to be used for the wind-induced response calculation
+
+   13) Summary of wind loads or wind induced responses in structural wind loading test
+
+          •  Wind-induced peak base moment for all the studied wind directions,
+
+          •  Equivalent static wind load distribution/distributions along the height of the building
+
+          •  Load combination factors or critical wind load cases covering all the likely critical
+              loading effects with consideration of simultaneous contributions from the torsional
+            and the two lateral loading components
+
+          •  Peak accelerations at the level of interest at the required return periods, and their
+             comparison against the acceptable criteria
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 48
+
+
+===== PDF PAGE 54 =====
+6.4      Rules for removal configuration (principle and example)
+
+The buildings provide the most significant sheltering effect shall be removed under the removal
+configuration.
+
+The principle is to find the surrounding building with maximum Hd in each wind direction, which is
+considered as the first beneficial building in the calculation of effective height as demonstrated in
+Appendix A2 of the Code.
+
+As shown in Figure 6-1, Building 1 to Building 3 are the obstruction buildings in Wind X direction.
+The height of reduction can be calculated using Equation A2-1 to Equation A2-3 or Figure A2-3 of
+the Code. As Hd2>Hd1>Hd3, building 2 should be removed as it provides the most significant sheltering
+effect to the target building.
+
+
+
+
+
+Figure 6-1 Removal Configuration Rules
+
+6.5     Minimum loads
+
+CoP 2019 allows testing only existing configuration by setting a lower bound of testing the results at
+80% of Code wind loads, including the across-wind effect if applicable. By contrast, CoP 2004
+requires to test both configurations.
+
+If a removal configuration is tested, the lower bound can be relaxed to 70% of the Code along-wind
+loads.
+
+
+
+
+
+Figure 6-2 Minimum adopted wind loads from a test
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 49
+
+
+===== PDF PAGE 55 =====
+7.    Working Examples
+
+
+7.1      Single tower sitting on podium for tower structural force calculation
+This example is to demonstrate the procedure of structural wind load calculation of a single tower
+sitting on the podium following the CoP 2019. The basic geometry of the building is shown in Figure
+7-1. The total height of the building is 105m. The building is located on the flat terrain. The site
+surrounding condition is showing in Figure 7-2. The natural frequency is 0.44Hz for both directions.
+
+Preliminary judgement on the applicability of the Code:
+
+    1) H=105m ≤ 200m
+
+    2)  Building shape: rectangular shape with round corners, which is well covered by the Code
+
+    3) Topographic condition: flat terrain, topographically insignificant
+
+    4) Surrounding condition: surrounding by buildings as shown in Figure 7-2 and the sheltering
+        effect could be addressed using the codified method.
+
+Based on the above judgement, the Standard Method could be used to assess the wind loading and
+wind responses of the building.
+
+
+
+
+
+      (a) 3D Image                                         (b) Plan Dimension
+
+ Figure 7-1 Building Information
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 50
+
+
+===== PDF PAGE 56 =====
+Figure 7-2 Surrounding Buildings within 500m radius from the site.
+
+
+
+
+7.1.1      Determine the reference wind pressure
+    1)  Directionality
+
+       Conservatively, the directionality factor Sθ is taken as 0.85 for all wind directions.
+
+    2) Topographic factor
+
+      The site is located in the topographic insignificant zones. The topographic factor is then taken
+       as St=1.0.
+
+    3)  Effective height
+
+       Following the guidance of Appendix A2 of the Code and the EN, the surrounding building
+      shows similar plan shape and heights, which is applicable to the simplified method.
+
+       Circles with radius from 1H to 4H are drawn on the map for easy identification of the
+        sheltering effect of the buildings. Four sectors are divided representing 4 directions to be
+       considered in the wind load calculation. The alphabetic letters marked represent the name of
+       the building lot. The buildings are named by the combination of an alphabetic letter and a
+      number, i.e. Building A1 means the building No. 1 in Lot A. (In this example, the lot
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 51
+
+
+===== PDF PAGE 57 =====
+information is from iC 1000 map from Lands Department for demonstration purpose; however,
+       please also note the interpretation of building lot from BD introduced in Section 3.3.1 of the
+       handbook.)
+
+      According to the rule of Simplified method, some preliminary judgement could be made by
+        visual checking:
+
+          •  In Sector 1, buildings in Lot A, Lot B, Lot C and Lot D are taller than 0.9H (94.5m)
+            and sitting within 2H radius, the Hdi/H could be taken as 0.7.
+
+          •  In Sector 2, buildings in Lot D, Lot E and Lot F are taller than 0.9H (94.5m) and sitting
+              within 2H radius, the Hdi/H could be taken as 0.7.
+
+          •  In Sector 3, buildings in Lot F are taller than 0.9H (94.5m) and sitting within 2H radius,
+               the Hdi/H could be taken as 0.7.
+
+          •  In Sector 4, buildings in Lot A, Lot D, Lot H, Lot F and Lot G are taller than 0.9H
+             (94.5m) and sitting within 2H radius, the Hdi/H could be taken as 0.7.
+
+      From this preliminary judgement, the most-sheltering building could be identified as marked
+      by red in Figure 7-3. The dash lines are drawn according to the angle covered by the most-
+        sheltering building to divide each sector into several sub-sectors. From each sub-sector (SS),
+       the second most-sheltering building for the effective calculation as highlighted by blue.
+
+
+
+
+
+Figure 7-3 Identification of the most and the second most sheltering buildings
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 52
+
+
+===== PDF PAGE 58 =====
+Table 7-1 The height of reduction
+
+                                                          0.8Hi    1.2Hi-0.2Xi   0.75H                      Hd×α/90o
+   Sub Section    Lot    Building    Hi (m)    Xi (m)                               Hd (m)   Α (o)
+                                                     (m)     but ≥0 (m)     (m)                         (m)
+
+    SS 1-1    A     A        94      159      75.2       81         78.8      75.2      7         5.8
+    SS 1-2          -            -             -            -            -              -              -        0       56         0.0
+    SS 1-3     C     C2 C3      98      140      78.4        89.6        78.8      78.4      26        22.6
+    SS 2-1          -            -             -            -            -              -              -        0       10         0.0
+    SS 2-2      F     F1 F2      97      112      77.6       94         78.8      77.6      19        16.4
+             E     E2 E3      98       62       78.4       105.2       78.8      78.4      22        19.2
+             E      E1       98      123      78.4       93         78.8      78.4      14        12.2
+    SS 3-1        J          J        74      219      59.2       45         78.8      45       16         8.0
+                         I            I        78      239      62.4        45.8        78.8      45.8      13         6.6
+    SS 3-2    K     K        77      213      61.6        49.8        78.8      49.8      18        10.0
+    SS 4-1    A     A        94      169      75.2       79         78.8      75.2      14        11.7
+    SS 4-2    H   H1 H2 H3    99      133      79.2        92.2        78.8     78.75     40        35.0
+    SS 4-3    G     G       104      145      83.2        95.8        78.8     78.75     26        22.8
+         *H: the actual building height of the proposed building
+            Hi: the height of the obstructing building above the ground level within ±45 degrees of the considered wind direction, taken as less than or
+           equal to H
+             Xi: Horizontal distance from the upwind edge of the proposed building to the obstructing building.
+           Hd: the height of reduction
+           α: occupied angle of the obstructing building
+The final effective height is calculated as Z-Hd, summarized in Figure 7-4.
+The corresponding design wind reference pressures for each direction is then tabulated in Table 7-2
+
+
+
+
+
+Figure 7-4 Effective Height Summary
+Table 7-2 Design wind reference pressure summary
+                  Direction   He (m)       Sθ           St     Qh (kPa)
+    Section 1    WX2-      76.5       0.85        1.0        2.33
+    Section 2    WX1-      57.3       0.85        1.0        2.22
+    Section 3    WX2+      80.4       0.85        1.0        2.35
+    Section 4    WX1+      35.6       0.85        1.0        2.06
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 53
+
+
+===== PDF PAGE 59 =====
+7.1.2      Determine the force coefficient
+The building geometry changes significantly between the podium and the tower. The force
+coefficient shall be calculated for the tower and the podium respectively using the local plan
+dimensions and overall effective height as tabulated in Table 7-3. The round corner will provide the
+reduction on the force coefficient by a factor of 1-2.5r/B.
+
+
+
+Table 7-3 Summary of force coefficients
+                                                                                     Corner
+   Tower     He (m)    R (m)    B (m)    D (m)      He /D      B/D         Cf                              Cf_final
+                                                                                         Reduction
+  Section 1      76.5        3         40         25         3.06         1.6        1.266       0.813       1.029
+  Section 2      57.3        3         25         40         1.43       0.625       1.129        0.75        0.847
+  Section 3      80.4        3         40         25         3.22         1.6        1.275       0.813       1.306
+  Section 4      35.6        3         25         40         0.89       0.625       1.118        0.75        0.839
+                                                                                     Corner
+  Podium    He (m)        r      B (m)    D (m)      He /D      B/D         Cf                              Cf_final
+                                                                                         Reduction
+  Section 1      76.5      N/A        80         80         0.96        1         1.138      N/A        1.138
+  Section 2      57.3      N/A        80         80         0.72        1         1.128      N/A        1.128
+  Section 3      80.4      N/A        80         80         1.01        1         1.140      N/A        1.140
+  Section 4      35.6      N/A        80         80         0.44        1         1.118      N/A        1.118
+
+
+
+7.1.3      Determination of the Size and Dynamic Factor
+The combined size and dynamic factor at the building height Sq,h is calculated using Equation 5-1 of
+the Code. Sq,z is then reduced from Sq,h using Equation 5-2 of the Code. An example for Sq,h in WX2+
+and WX2- direction is given in Table 7-4.
+
+Table 7-4 Calculation of Sq,h in WX2+ and WX2-
+                 L0.5p = B of the loaded area at the top of the building for
+  L0.5p                                                 40m
+              buildings over 50m
+             Size factor using Equation C1-1a of the Code. Ss =Exp(0.17-
+  Ss                                                                    0.94             0.07 L0.5p 0.32)
+ H          Building height                                  105m
+ B          Breadth of the building                           40m
+            Fundamental frequency for the mode mainly aligned with the
+ Nx                                                             0.44Hz
+            alongwind direction
+             Ratio of the damping to critical damping in the relevant
+  ξx                                                                   0.030
+               direction of vibration
+           The combined size and dynamic factor at the top of the
+  Sq,h                                                                   1.01
+              building
+
+
+7.1.4      Calculation of along-wind load and torsional wind load
+Through Section 7.1.1 to Section 7.1.3, the three key parameters are calculated for the along wind
+load using Equation 𝑊𝑧= 𝑄𝑧𝐶𝑓𝑆𝑞,𝑧𝐵. The spreadsheet for the along wind load in WX2- direction is
+shown in Table 7-5 for reference. The shear force and the bending moment at each level are further
+derived as shown in the rightmost two columns.
+
+Table 7-5 Along wind load calculation for WX2-
+                                                                                            Design               Shear    Bending
+                   Ze       hi    B                     Qz,flat                  Qz           Wz                TorsionLevel   Z (m)                           Cf             Sθ       St                Sqz               Force               Force   Moment                 (m)    (m)   (m)            (kPa)                    (kPa)          (kN/m)            (kNm)
+                                                                                             (kN)                (kN)    (kNm)
+ 34     105.0    76.5    1.5    40    1.029    2.74    0.85    1.00    2.33    1.01     97      219       595      219       0
+ 33     102.0    73.5    3.0    40    1.029    2.72    0.85    1.00    2.31    1.00     96      287       781      506      656
+ 32      99.0    70.5    3.0    40    1.029    2.70    0.85    1.00    2.30    0.99     94      282       768      788      2174
+ 31      96.0    67.5    3.0    40    1.029    2.69    0.85    1.00    2.28    0.98     92      277       755      1066     4538
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+ | 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 54
+
+
+===== PDF PAGE 60 =====
+30      93.0    64.5    3.0    40    1.029    2.67    0.85    1.00    2.27    0.97     91      273       741      1338     7735
+ 29      90.0    61.5    3.0    40    1.029    2.65    0.85    1.00    2.25    0.96     89      268       728      1606     11749
+ 28      87.0    58.5    3.0    40    1.029    2.62    0.85    1.00    2.23    0.95     88      263       715      1869     16567
+ 27      84.0    55.5    3.0    40    1.029    2.60    0.85    1.00    2.21    0.94     86      258       701      2126     22173
+ 26      81.0    52.5    3.0    40    1.029    2.58    0.85    1.00    2.19    0.93     84      253       688      2379     28552
+ 25      78.0    49.5    3.0    40    1.029    2.56    0.85    1.00    2.17    0.92     83      248       674      2627     35690
+ 24      75.0    46.5    3.0    40    1.029    2.53    0.85    1.00    2.15    0.91     81      243       660      2869     43570
+ 23      72.0    43.5    3.0    40    1.029    2.50    0.85    1.00    2.13    0.90     79      237       646      3107     52179
+ 22      69.0    40.5    3.0    40    1.029    2.47    0.85    1.00    2.10    0.89     77      232       631      3339     61499
+ 21      66.0    37.5    3.0    40    1.029    2.44    0.85    1.00    2.08    0.88     76      227       616      3565     71516
+ 20      63.0    34.5    3.0    40    1.029    2.41    0.85    1.00    2.05    0.87     74      221       601      3786     82212
+ 19      60.0    31.5    3.0    40    1.029    2.38    0.85    1.00    2.02    0.86     72      215       586      4002     93571
+ 18      57.0    28.5    3.0    40    1.029    2.34    0.85    1.00    1.99    0.85     70      209       569      4211    105576
+ 17      54.0    25.5    3.0    40    1.029    2.30    0.85    1.00    1.95    0.84     68      203       553      4414    118209
+ 16      51.0    22.5    3.0    40    1.029    2.25    0.85    1.00    1.91    0.83     66      197       535      4611    131451
+ 15      48.0    19.5    3.0    40    1.029    2.20    0.85    1.00    1.87    0.82     63      190       517      4801    145284
+ 14      45.0    16.5    3.0    40    1.029    2.14    0.85    1.00    1.82    0.81     61      183       497      4984    159688
+ 13      42.0    13.5    3.0    40    1.029    2.08    0.85    1.00    1.76    0.80     58      175       475      5159    174639
+ 12      39.0    10.5    3.0    40    1.029    1.99    0.85    1.00    1.70    0.79     55      166       451      5324    190115
+ 11      36.0     9.0     3.0    40    1.029    1.95    0.85    1.00    1.65    0.78     53      160       434      5484    206087
+ 10      33.0     8.3     3.0    40    1.029    1.92    0.85    1.00    1.63    0.77     52      155       423      5639    222539
+  9      30.0     7.5     3.0    40    1.029    1.89    0.85    1.00    1.61    0.76     50      151       411      5790    239457
+  8      27.0     6.8     3.0    40    1.029    1.86    0.85    1.00    1.58    0.75     49      147       399      5937    256828
+  7      24.0     6.0     3.0    40    1.029    1.82    0.85    1.00    1.55    0.74     47      166       450      6102    274639
+  6      21.0     5.3     4.0    40    1.029    1.78    0.85    1.00    1.52    0.73     46      194       776      6296    299048
+  5      16.0     4.0     4.5    80    1.138    1.77    0.85    1.00    1.51    0.71     98      392      1566     6688    327382
+  4      12.0     3.0     3.5    80    1.138    1.77    0.85    1.00    1.51    0.70     96      312      1249     7000    350790
+  3       9.0      2.3     3.0    80    1.138    1.77    0.85    1.00    1.51    0.69     95      284      1136     7284    371791
+  2       6.0      1.5     3.0    80    1.138    1.77    0.85    1.00    1.51    0.68     93      280      1119     7564    393643
+  1       3.0      0.8     3.0    80    1.138    1.77    0.85    1.00    1.51    0.67     92      207       827      7771    416335
+ G       0.0      0.0     1.5    80    1.138    1.77    0.85    1.00    1.51    0.66     90       68       271      7838    427990
+
+
+After the along wind load is derived, the torsional force is considered by shifting the storey along
+wind force by the eccentricity calculated by B/D ratio as calculated in Table 7-6. The torsional forces
+are tabulated in the rightmost column of Table 7-5.
+
+Table 7-6 Calculation of eccentricity
+
+                  WX1+, WX1-              WX2+, WX2-
+
+                 B/D           e (m)         B/D           e (m)
+
+    Tower          0.625       0.05B=1.25          1.6        0.068B=2.72
+
+    Podium          1          0.05B=4          1          0.05B=4
+
+
+
+7.1.5      Calculation of across-wind base moment and checking
+The building is over 100m, thus the across wind base moments shall be checked.
+
+The across wind base moment WX2- is calculated as shown in Table 7-7following Equation 2-2 of
+the Code.
+
+Table 7-7 Calculation of across-wind base moment
+ Ny      Fundamental frequency for model mainly aligned with the    0.44Hz
+          across-wind direction
+
+ Gry     Peak factor, 𝐺𝑟𝑦= √2𝐿𝑜𝑔𝑒(1800𝑁𝑦)                       3.65
+
+ γw      Ultimate wind load factor                                    1.4
+
+ ξy       Ratio of damping to critical damping in across-wind          0.029
+           direction
+
+ ρa      Mass density of air                                            1.2x10-3 T/m3
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 55
+
+
+===== PDF PAGE 61 =====
+(BD)b   The average plan area of the enclosing rectangle over the top  1000m2
+           third of the building
+
+ Qh     Wind reference pressure at the effective height               2.33kpa
+
+  Iv,h     Wind turbulence intensity                                  0.107
+
+ Hb      Height of building structure above ground level but         105m
+          excluding the height of irregular roof features above the
+        main roof.
+
+ Mx2x2   Across-wind base moment                       213MNm
+
+
+It shall be noted that for WX1+, He/H = 0.34, the turbulence intensity shall be modified using
+Equation 3-4 of the Code.
+
+
+
+Table 7-8 Summary of lateral wind load
+               M±x1x1      M±y1y1                  M±x2x2      M±y2y2
+ Direction    Across     Along    Direction    Across     Along
+             wind      wind                wind      wind
+  WX1+      69       205    WX2+      217       437
+  WX1-      191       218     WX2-      213       428
+
+
+
+max(𝑀−𝑥1𝑥1,𝑀+𝑥1𝑥1)   max(69,191)          =      < 1, Wz,-x2 no need to scale up
+      |𝑀−𝑦2𝑦2|            428
+
+max(𝑀−𝑥1𝑥1,𝑀+𝑥1𝑥1)   max(69,191)          =      < 1, Wz,+x2 no need to scale up
+      |𝑀+𝑦2𝑦2|            437
+
+max(𝑀−𝑥2𝑥2,𝑀+𝑥2𝑥2)   max(217,213)          =       < 1, Wz,-x1 no need to scale up
+      |𝑀−𝑦1𝑦1|            218
+
+max(𝑀−𝑥2𝑥2,𝑀+𝑥2𝑥2)   max(217,213)          =       = 1.06 > 1, Wz,-x1 shall be scaled up by the factor of 1.06
+      |𝑀+𝑦1𝑦1|            205
+Based on the across wind base moment check, only Wz,-x1 needs to be adjusted as above.
+
+7.1.6      Acceleration and checking
+The acceleration (in m/s2) for orthogonal wind directions at the top of the building is assessed using
+Equation 2-4 of the Code. An example for acceleration for 1-year return period is given as below.
+The ratio of damping for acceleration is adopted using the aspect ratio from Table C2-1 of the Code.
+
+Table 7-9 Calculation of acceleration
+ Ny           Fundamental frequency for model mainly aligned with    0.44Hz
+                the across-wind direction
+
+ Gry          Peak factor, 𝐺𝑟𝑦= √2𝐿𝑜𝑔𝑒(1800𝑁𝑦)                   3.65
+
+ Sr             Factor on wind pressure for different return period         0.25 (1 year return)
+
+ ξy            Ratio of damping to critical damping in across-wind       0.020
+                 direction
+
+ ρa          Mass density of air                                        1.2x10-3 T/m3
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 56
+
+
+===== PDF PAGE 62 =====
+(BD)b       The average plan area of the enclosing rectangle over the  1000m2
+                top third of the building
+
+ Qh         Wind reference pressure at the effective height           2.33kPa
+
+  Iv,h         Wind turbulence intensity                              0.107
+
+ Hb           Height of building structure above ground level but      105m
+               excluding the height of irregular roof features above the
+             main roof.
+
+ Mh         Mass of the building above 2/3H, assuming 400kg/m3 as   14000000kg
+                the building density for this case
+
+ ηy            Parameter used to describe the approximate mode          1.5
+                 deflection variation with height
+
+ Acceleration  1 year return period acceleration                        0.022m/s2
+
+
+According to Figure 2-6 of the Code, the acceleration limit under 1 year return period for office
+tower is 0.086 m/s2 , the acceleration is within the limit.
+
+
+
+7.1.7     Load combination
+The lateral load and the torsional load calculated in Section 7.1.4 shall be applied simultaneously to
+the building with combination factors in Table 2-1 of the Code. The resultant of loads from 24 load
+cases shall be applied at the centre of the area at each level.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 57
+
+
+===== PDF PAGE 63 =====
+7.2      Multi-towers on podium
+The example is shown to demonstrate the load combination for multi towers sitting on the same
+podium. Figure 7-5 shows that 7 towers / blocks share one podium. The global axis XOY follows the
+axis of the podium, and the local axis xoy is based on the individual tower orientation. Here, the local
+axis for the 7 towers is same as shown in Figure 7-1.
+
+
+
+
+
+Figure 7-5 Site Plan
+
+
+Assume the two orthogonal loads and the torsion loads for the towers and podium have been
+calculated, following the same procedure introduced in the example in Section 7.1; Table 7-10
+summarized the calculated wind loading for the podium and the blocks in their own calculation axis.
+
+
+
+Table 7-10 Wind Loads for the towers and the podium
+
+                 FX (MN)    MYY (MNm)    TX(MNm)      FY (MN)    MXX (MNm)    TY(MNm)     T(MNm)
+
+ Podium to Base        4.0            47.6            36.6             1.9            17.5             9.3            36.6
+
+                Fx (MN)    Myy (MNm)    Tx(MNm)      Fy (MN)    Mxx (MNm)    Ty(MNm)     T(MNm)
+   Tower 1 to
+                        2.6            64.2             3.1              6.9            169.9           51.8            51.8
+    Podium
+   Tower 2 to
+                        3.1           120.9            2.6            11.1           437.0          109.6          109.6
+    Podium
+   Tower 3 to
+                        3.1           119.6            2.6            10.8           422.9           98.9            98.9
+    Podium
+   Tower 4 to
+                        6.1           237.4           10.9            10.5           407.9           47.2            47.2
+    Podium
+   Tower 5 to
+                        6.8           264.1           14.3             4.7            185.2            6.4            14.3
+    Podium
+   Tower 6 to
+                        8.3           321.6           24.9             4.4            178.2            6.0            24.9
+    Podium
+   Tower 7 to
+                        2.7            66.3             3.3              4.1            102.5           11.0            11.0
+    Podium
+
+
+
+7.2.1       Critical Translational Load Cases
+This step aims to generate the maximum translational wind load from all the towers in each checking
+direction.
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 58
+
+
+===== PDF PAGE 64 =====
+Step 1: Under global axis, which is defined as the main axis of the podium in this case, 8 subzones
+(Zone 1 to Zone 8 as shown in Figure 7-6) are defined representing 8 main checking directions. The
+selection of the global axis is independent from the local axis of the tower and the podium.
+
+Step 2: For each tower and the podium, the translation loads (Fx and Fy) are combined using the
+combination factors of Case 1 and Case 2 ,which are the governing translational load cases of Table
+2-1 of the Code, are generated and summarized in Table 7-11 for each tower. The calculated load
+vectors for each tower and the podium are shown in Table 7-12. The combined translation forces,
+presented as a load vector under the local axis for each tower and the podium, are plotted into the 8
+zones in global axis in Figure 7-6.
+
+An example of the vector summation for Zone 1 is shown in Figure 7-7
+
+Step 3: For each zone,
+
+   •  pick up a load vector from each tower and the podium and do a vector summation; this vector
+     sum correspond to a specific series of load vectors from each other in this zone. (An example
+       of a possible vector summation for Zone 1 is shown in Figure 7-7.)
+
+   •   there could be many such series of load vectors; as an example all the series of load vectors
+        in Zone 1 are listed in Table 7-13. However, only the specific series of load vectors giving the
+     maximum magnitude of the vector sum in the studied zone will finally be selected to represent
+       the governing global translational loads of this zone; as an example, for Zone 1, this can be
+       selected based on the magnitude of the resultant force are shown in the last row of Table 7-13.
+
+Step 4: Repeat the same procedure in Step 3 for all the 8 zones. Finally 8 global load cases giving the
+biggest translational loads in each of the 8 zones are decided, as summarized in Table 7-14. For
+example, Case 1 in the table represent the series of load vectors giving the biggest translational loads
+in Zone 1.
+
+Step 5: For each of the global load cases in Table 7-14, individual torsions of each tower and podium
+should be added simultaneously, with the factor of ±0.55. This gives totally 16 load cases.
+
+Table 7-11 Combined translational load cases for individual block
+ Combined Force                         Load          Combined      Load
+                                                           Force
+
+ X-1                                       0.55Fx+Fy      X-5             -0.55Fx-Fy
+
+ X-2                                       Fx+0.55Fy      X-6             -Fx-0.55Fy
+
+ X-3                                         Fx-0.55Fy       X-7             -Fx+0.55Fy
+
+ X-4                                         0.55Fx-Fy       X-8             -0.55Fx+Fy
+
+ X represents either any of the individual
+ tower or the podium.
+
+Table 7-12 Calculated combined translational forces
+
+                               X-1              X-2               X-3               X-4
+                            0.55FX     FY       FX      0.55FY      FX      -0.55FY     0.55FX       -FY
+ Podium to Base (MN)        2.2      1.9      4.0       1.0       4.0       -1.0        2.2       -1.9
+                           0.55Fx    Fy      Fx     0.55Fy     Fx     -0.55Fy    0.55Fx      -Fy
+ Tower 1 to Podium (MN)    1.4      6.9      2.6       3.8       2.6       -3.8        1.4       -6.9
+ Tower 2 to Podium (MN)    1.7     11.1     3.1       6.1       3.1       -6.1        1.7      -11.1
+ Tower 3 to Podium (MN)    1.7     10.8     3.1       5.9       3.1       -5.9        1.7      -10.8
+ Tower 4 to Podium (MN)    3.4     10.5     6.1       5.8       6.1       -5.8        3.4      -10.5
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 59
+
+
+===== PDF PAGE 65 =====
+Tower 5 to Podium (MN)    3.7      4.7      6.8       2.6       6.8       -2.6        3.7       -4.7
+ Tower 6 to Podium (MN)    4.6      4.4      8.3       2.4       8.3       -2.4        4.6       -4.4
+ Tower 7 to Podium (MN)    1.5      4.1      2.7       2.3       2.7       -2.3        1.5       -4.1
+                          X 5            X 6             X 7             X 8
+                             -0.55FX     -FY       -FX     -0.55FY      -FX      0.55FY     -0.55FX      FY
+ Podium to Base (MN)        -2.2     -1.9     -4.0       -1.0       -4.0       1.0        -2.2       1.9
+                           0.55Fx    Fy      Fx     0.55Fy     Fx     -0.55Fy    0.55Fx      -Fy
+ Tower 1 to Podium (MN)    -1.4     -6.9     -2.6       -3.8       -2.6       3.8        -1.4       6.9
+ Tower 2 to Podium (MN)    -1.7     -11.1     -3.1       -6.1       -3.1       6.1        -1.7      11.1
+ Tower 3 to Podium (MN)    -1.7     -10.8     -3.1       -5.9       -3.1       5.9        -1.7      10.8
+ Tower 4 to Podium (MN)    -3.4     -10.5     -6.1       -5.8       -6.1       5.8        -3.4      10.5
+ Tower 5 to Podium (MN)    -3.7     -4.7     -6.8       -2.6       -6.8       2.6        -3.7       4.7
+ Tower 6 to Podium (MN)    -4.6     -4.4     -8.3       -2.4       -8.3       2.4        -4.6       4.4
+ Tower 7 to Podium (MN)    -1.5     -4.1     -2.7       -2.3       -2.7       2.3        -1.5       4.1
+
+
+
+
+ Podium                                   Tower 1
+
+
+
+
+
+ Tower 2                                  Tower 3
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 60
+
+
+===== PDF PAGE 66 =====
+Tower 4                                  Tower 5
+
+
+
+
+
+ Tower 6                                  Tower 7
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 61
+
+
+===== PDF PAGE 67 =====
+Figure 7-6 Detailed combined force vectors for each block
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 62
+
+
+===== PDF PAGE 68 =====
+Table 7-13 Pick up the load combination in Zone 1
+                                      Zone 1
+         Case         1      2      3      4      5      6      7      8      9
+         P         N/A    N/A    N/A    N/A    N/A    N/A    N/A    N/A    N/A
+          T1          T1-1    T1-2    T1-1    T1-2    T1-1    T1-2    T1-1    T1-2    T1-1
+          T2          T2-1    T2-1    T2-2    T2-2    T2-8    T2-8    T2-1    T2-1    T2-2
+          T3          T3-1    T3-1    T3-1    T3-1    T3-1    T3-1    T3-2    T3-2    T3-2
+          T4          T4-1    T4-1    T4-1    T4-1    T4-1    T4-1    T4-1    T4-1    T4-1
+          T5         N/A    N/A    N/A    N/A    N/A    N/A    N/A    N/A    N/A
+          T6         N/A    N/A    N/A    N/A    N/A    N/A    N/A    N/A    N/A
+          T7          T7-1    T7-1    T7-1    T7-1    T7-1    T7-1    T7-1    T7-1    T7-1
+    Magnitude (MN)   44.45    41.72    39.98    37.37    43.82    40.94    40.09    37.48    35.79
+         Case         10     11     12     13     14     15     16     17     18
+         P        N/A   N/A   N/A   N/A   N/A   N/A   N/A   N/A   N/A
+         T1         T1-2   T1-1   T1-2   T1-1   T1-2   T1-1   T1-2   T1-1   T1-2
+         T2         T2-2   T2-8   T2-8   T2-1   T2-1   T2-2   T2-2   T2-8   T2-8
+         T3         T3-2   T3-2   T3-2   T3-8   T3-8   T3-8   T3-8   T3-8   T3-8
+         T4         T4-1   T4-1   T4-1   T4-1   T4-1   T4-1   T4-1   T4-1   T4-1
+         T5        N/A   N/A   N/A   N/A   N/A   N/A   N/A   N/A   N/A
+         T6        N/A   N/A   N/A   N/A   N/A   N/A   N/A   N/A   N/A
+         T7         T7-1   T7-1   T7-1   T7-1   T7-1   T7-1   T7-1   T7-1   T7-1
+    Magnitude (MN)   33.36    39.26    36.48    43.84    40.97    39.17    36.40    43.46    40.46
+
+
+
+Table 7-14 Final Load Cases
+
+        Zone          Case 1    Case 2    Case 3    Case 4    Case 5    Case 6    Case 7    Case 8
+
+         P           N/A       P-2       P-3      N/A     N/A       P-6       P-7      N/A
+
+        T1            T1-1     N/A     N/A      T1-4      T1-5     N/A     N/A      T1-8
+
+        T2            T2-1     N/A     N/A      T2-3      T2-5     N/A     N/A      T2-7
+
+        T3            T3-1     N/A     N/A      T3-3      T3-5     N/A     N/A      T3-7
+
+        T4            T4-1      T4-2     N/A      T4-4      T4-5      T4-6     N/A      T4-8
+
+        T5          N/A      T5-2      T5-3      T5-4     N/A      T5-6      T5-7      T5-8
+
+        T6          N/A      T6-2      T6-3      T6-4     N/A      T6-6      T6-7      T6-8
+
+        T7            T7-1      T7-2     N/A      T7-4      T7-5      T7-6     N/A      T7-8
+
+   Magnitude (MN)      44.45      31.34      19.96      47.44      44.45      31.34      19.96      47.44
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 63
+
+
+===== PDF PAGE 69 =====
+Figure 7-7 Vector summation for Zone 1.
+
+7.2.2       Critical Torsional Load Cases
+
+
+The critical torsional load cases can be obtained following the steps as below:
+
+Step 1: For each zone, the resultant translational governed lateral forces are calculated through vector
+summation as described in Section 7.2.1 and shown in Table 7-13. Totally 8 resultant lateral forces
+can be obtained, summarized as Flateral in Table 7-15 .
+
+Step 2: For each lateral force, it is plotted in the global axis and the maximum projecting diagonal
+breadth Bi can be identified. An example of Zone 1 is shown in Figure 7-8.
+
+Step 3: For each subzone, the overall torsion can be calculated as M*i=Flateral_i*0.1Bi, as summarized
+in Table 7-15.
+
+Step 4: The maximum torsion is chosen as the overall torsional loads due to partial tower load as
+M*=max(M*i) = 744.8MNm, and it will be applied as a concentrated torque with full value on the
+podium roof.
+
+Step 5: All the local/individual torsions on the tower and the podium, as shown in the last column of
+Table 7-10 shall be applied with full value to the model as well, and their total value M is 394.3MNm.
+
+Step 6: The load vectors corresponding to the 8 Flateral cases in Table 7-14, representing the largest
+translational loading effect in each zone, shall also be applied to the model with reduced magnitude
+(factor of 0.55).
+
+Step 7: Figure 7-9 is an example demonstrating an overall critical torsional load case, including the
+load vectors for reduced translational loads in Step 6, the full concentrated torque in Step 4 and the
+full individual torsions in Step 5.
+
+Step 8: The overall loading effects are summarized in Table 7-16. With consideration the opposite
+directions of M and M*, there are another 16 load cases.
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 64
+
+
+===== PDF PAGE 70 =====
+Figure 7-8 Example of Bi
+
+
+Table 7-15 Resultant Lateral Forces Summary and Calculation of M*i
+               Zone 1      Zone 2      Zone 3      Zone 4    Zone 5  Zone 6  Zone 7  Zone 8
+    Flateral_i (MN)      44.45        31.34        19.96        47.44      44.45   31.34   19.96   47.44
+     Bi (m)        163         186         195         157       163     186     195     157
+  M* i(MNm)      724.5        582.9        389.2        744.8      724.5   582.9   389.2   744.8
+
+
+
+
+
+Figure 7-9 Critical torsional load cases (copy from the Code)
+
+
+
+Table 7-16 Summary of the Overall Loading Effect of the Critical Torsional Load Cases
+               Zone 1      Zone 2      Zone 3      Zone 4    Zone 5  Zone 6  Zone 7  Zone 8
+    Flateral_i (MN)       24.4           17.2           11.0           26.1        24.4      17.2      11.0      26.1
+  M (MNm)      ±394.3      ±394.3      ±394.3      ±394.3    ±394.3  ±394.3  ±394.3  ±394.3
+  M* (MNm)      ±744.8      ±744.8      ±744.8      ±744.8    ±744.8  ±744.8  ±744.8  ±744.8
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 65
+
+
+===== PDF PAGE 71 =====
+Appendix A: Parametric Study for Acceleration
+
+
+
+
+
+                                                                                                           (COP 2019)
+
+
+
+
+
+Table A 1 Acceleration Comparison (500kg/m3,1-year return)
+
+
+
+
+
+                                                                                                           (COP 2019)
+
+
+
+
+
+Table A 2 Acceleration Comparison (500kg/m3,10-year return)
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 66
+
+
+===== PDF PAGE 72 =====
+(COP 2019)
+
+
+
+
+
+Table A 3 Acceleration Comparison (400kg/m3,1-year return)
+
+
+
+
+
+                                                                                                           (COP 2019)
+
+
+
+
+
+Table A 4 Acceleration Comparison (400kg/m3,10-year return)
+
+
+
+
+
+                                                A Practical Guide to the Code of Practice on Wind Effects in Hong Kong 2019
+
+| 1st Issue Rev | 5 February 2024                                      Wind Loading Handbook                                           Page 67

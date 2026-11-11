@@ -1,6 +1,6 @@
 {
-  "documents": 356,
-  "pages": 9648,
+  "documents": 365,
+  "pages": 11272,
   "empty_pages": [
     {
       "file": "BD_CODES/steel/EMSUOS2011e.txt",
@@ -5887,6 +5887,266 @@
       "page": 63
     },
     {
+      "file": "HKIE/HKIE-demolition-2004.txt",
+      "page": 103
+    },
+    {
+      "file": "HKIE/HKIE-demolition-2004.txt",
+      "page": 107
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 2
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 6
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 8
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 110
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 112
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 114
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 116
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 118
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 132
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 138
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 140
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 144
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 148
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 150
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 152
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 162
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 164
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 170
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 176
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 190
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 194
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 206
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 218
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 226
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 228
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 232
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 234
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 244
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 250
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 264
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2004.txt",
+      "page": 270
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 4
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 22
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 138
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 140
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 142
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 148
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 162
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 168
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 170
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 174
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 178
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 180
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 182
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 188
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 200
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 206
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 212
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 226
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 232
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 234
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 246
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 258
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 272
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 280
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 282
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 286
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 288
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 300
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 306
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 320
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 322
+    },
+    {
+      "file": "HKIE/HKIE-foundations-2017.txt",
+      "page": 332
+    },
+    {
       "file": "PNAP/ADM/ADM-02.txt",
       "page": 39
     },
@@ -5980,7 +6240,7 @@
     }
   ],
   "errors": [],
-  "manifest_documents": 356,
+  "manifest_documents": 365,
   "manifest_failed": 0,
-  "manifest_needs_review": 33
+  "manifest_needs_review": 38
 }
