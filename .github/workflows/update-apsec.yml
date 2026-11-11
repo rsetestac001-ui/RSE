@@ -7,6 +7,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/apsec.py'
+      - 'scripts/build_index.py'
       - '.github/workflows/update-apsec.yml'
 permissions:
   contents: write
@@ -22,6 +23,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+      - run: sudo apt-get update && sudo apt-get install -y tesseract-ocr
       - run: pip install requests beautifulsoup4 'PyMuPDF>=1.24,<2'
       - name: Download and validate all publicly listed summaries
         run: python scripts/apsec.py

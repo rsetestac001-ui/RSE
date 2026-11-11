@@ -25,8 +25,18 @@ def main():
             entry["pages"] = len(doc)
             parts = []
             empty = []
+            apsec = rel.parts[0] == "APSEC"
+            if apsec:
+                from apsec import page_text
+                entry["extraction_mode"] = "native PDF reading order; OCR for image-only pages"
+                entry["ocr_pages"] = []
             for i, page in enumerate(doc, 1):
-                content = page.get_text(sort=True).strip()
+                if apsec:
+                    content, ocr = page_text(page, entry["sha256"])
+                    if ocr:
+                        entry["ocr_pages"].append(i)
+                else:
+                    content = page.get_text(sort=True).strip()
                 if not content:
                     empty.append(i)
                 parts.append(f"\n\n===== PDF PAGE {i} =====\n{content}\n")
@@ -37,6 +47,8 @@ def main():
             doc.close()
             if empty:
                 entry["status"] = "review_empty_pages"
+            elif entry.get("ocr_pages"):
+                entry["status"] = "review_ocr_transcription"
         except Exception as exc:
             entry["status"] = "error"
             entry["error"] = str(exc)
@@ -48,7 +60,7 @@ def main():
     summary = {"total_pdfs": len(records),
                "indexed": sum(r["status"] != "error" for r in records),
                "failed": sum(r["status"] == "error" for r in records),
-               "needs_review": sum(r["status"] == "review_empty_pages" for r in records),
+               "needs_review": sum(r["status"].startswith("review_") for r in records),
                "documents": records}
     MANIFEST.write_text(json.dumps(summary, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps({k:v for k,v in summary.items() if k != "documents"}))

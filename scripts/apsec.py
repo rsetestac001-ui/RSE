@@ -12,10 +12,6 @@ from pathlib import Path
 from urllib.parse import urljoin, urlsplit, urlunsplit
 
 import fitz
-import requests
-from bs4 import BeautifulSoup
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOGUE = 'https://hkie.org.hk/st/resources/summary-of-items-discussed-in-apsec/'
@@ -27,6 +23,9 @@ SCOPE_NOTE = ('Publicly listed HKIE Structural Division APSEC Discussion Forum s
 
 
 def session():
+    import requests
+    from requests.adapters import HTTPAdapter
+    from urllib3.util.retry import Retry
     s = requests.Session()
     s.headers['User-Agent'] = 'RSE-public-APSEC-archive/1.0'
     s.mount('https://', HTTPAdapter(max_retries=Retry(total=3, backoff_factor=1,
@@ -49,6 +48,7 @@ def meeting_date(title):
 
 
 def discover(html):
+    from bs4 import BeautifulSoup
     records = {}
     for a in BeautifulSoup(html, 'html.parser').select('a[href]'):
         title = a.get_text(' ', strip=True)
@@ -127,11 +127,45 @@ def refresh():
     print(f'Saved {len(records)} public summaries; history completeness NOT verified', flush=True)
 
 
+
+def page_text(page, pdf_sha):
+    """Preserve PDF reading order; OCR image-only pages with a hash-bound cache."""
+    text = page.get_text(sort=False).strip()
+    if text:
+        return text, False
+    cache = ROOT / 'apsec/ocr' / pdf_sha / f'page-{page.number + 1:04d}.json'
+    if cache.exists():
+        record = json.loads(cache.read_text())
+        if record['pdf_sha256'] != pdf_sha or record['pdf_page'] != page.number + 1:
+            raise ValueError(f'OCR cache provenance mismatch: {cache}')
+        text = record['text']
+    else:
+        import shutil
+        import subprocess
+        import tempfile
+        if not shutil.which('tesseract'):
+            raise RuntimeError('Image-only APSEC page requires tesseract-ocr or its hash-bound OCR cache')
+        with tempfile.TemporaryDirectory() as temp:
+            image = Path(temp) / 'page.png'
+            page.get_pixmap(dpi=300).save(image)
+            result = subprocess.run(['tesseract', str(image), 'stdout', '-l', 'eng', '--psm', '3'],
+                                    check=True, capture_output=True, text=True, timeout=120)
+            text = result.stdout.strip()
+        if not text:
+            raise ValueError(f'OCR produced no text on PDF page {page.number + 1}')
+        cache.parent.mkdir(parents=True, exist_ok=True)
+        cache.write_text(json.dumps({'pdf_sha256': pdf_sha, 'pdf_page': page.number + 1,
+                         'method': 'Tesseract English OCR at 300 dpi; unverified transcription',
+                         'text': text}, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+    return '[OCR transcription: verify wording, numbers and tables against the original PDF.]\n' + text, True
+
+
 def verify():
     manifest = json.loads((ROOT / 'apsec/manifest.json').read_text())
     docs = json.loads((ROOT / 'index_manifest.json').read_text())['documents']
     indexed = {x['source']: x for x in docs}
     import sqlite3
+    audit = {'documents': len(manifest['documents']), 'pages': 0, 'ocr_pages': [], 'searchable_documents': 0}
     with sqlite3.connect(ROOT / 'search/pnap_fts.sqlite3') as db:
         for item in manifest['documents']:
             path = ROOT / item['source_pdf']
@@ -146,6 +180,10 @@ def verify():
             hits = db.execute('SELECT count(*) FROM page_fts JOIN page p ON p.id=page_fts.rowid '
                               'WHERE page_fts MATCH ? AND p.source=?', ('APSEC', source)).fetchone()[0]
             assert hits, item['code']
+            audit['pages'] += count
+            audit['searchable_documents'] += 1
+            audit['ocr_pages'].extend({'code': item['code'], 'pdf_page': n} for n in entry.get('ocr_pages', []))
+    (ROOT / 'apsec/search_audit.json').write_text(json.dumps(audit, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
     print(f'Verified PDF hashes, page text and FTS retrieval for all {len(manifest["documents"])} APSEC summaries')
 
 

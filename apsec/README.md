@@ -29,3 +29,11 @@ absent here, disclose that gap rather than reconstructing the missing response.
 The GitHub workflow checks the public catalogue weekly, retains original PDFs,
 and rejects invalid downloads or disappearing catalogue records before updating
 the archive. It uses Python text extraction and SQLite, with no AI API calls.
+
+## Text extraction audit
+
+APSEC tables preserve native PDF reading order, including rotated landscape
+pages. Image-only pages use English Tesseract OCR at 300 dpi; OCR is explicitly
+marked and must be checked against the original for numbers, symbols and tables.
+Hash-bound OCR caches in `apsec/ocr/` ensure other index rebuilds retain the text.
+The extraction manifest flags OCR pages for review. Original PDFs are unchanged.
