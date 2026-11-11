@@ -8,6 +8,7 @@ on:
     paths:
       - 'scripts/geo.py'
       - 'scripts/verify_geo.py'
+      - 'scripts/geo_ocr.py'
       - '.github/workflows/update-geo.yml'
 permissions:
   contents: write
@@ -26,6 +27,11 @@ jobs:
       - run: pip install requests beautifulsoup4 'PyMuPDF>=1.24,<2'
       - name: Download GEO catalogues, editions and amendments
         run: python scripts/geo.py
+      - name: OCR scanned GEO pages with provenance
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y tesseract-ocr tesseract-ocr-chi-tra
+          python scripts/geo_ocr.py
       - name: Extract PDF pages and build full text search
         run: |
           python scripts/build_index.py
