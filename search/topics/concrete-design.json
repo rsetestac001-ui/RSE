@@ -1,0 +1,321 @@
+{
+  "query": "concrete design",
+  "results": [
+    {
+      "code": "APP-167",
+      "source": "indexed_text/PNAP/APP/APP-167.txt",
+      "pdf_page": 1,
+      "score": 9.071282,
+      "excerpt": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-167\n                         Registered Geotechnical Engineers\n\n\n\n          Quality of In-situ Reinforced Concrete Works at an Early Age\n\n\n           As the design and construction of reinforced concrete structures become\nmore complex, usua",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-167\n                         Registered Geotechnical Engineers\n\n\n\n          Quality of In-situ Reinforced Concrete Works at an Early Age\n\n\n           As the design and construction of reinforced concrete structures become\nmore complex, usually involving the use of fast-track construction method and different\nconcrete grades for vertical and horizontal structural elements, it is necessary to exercise\nearlier and closer quality supervision and control of in-situ reinforced concrete works\nduring construction.  This practice note sets out the requirements to ascertain earlier the\nquality of in-situ reinforced concrete works for superstructure, and an alert system for\nregistered structural engineers (RSE) and registered contractors (RC) to take early follow-\nup action if any irregularities are identified.",
+      "cross_references": [
+        "PNAP/APP/APP-158.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "APP-068",
+      "source": "indexed_text/PNAP/APP/APP-068.txt",
+      "pdf_page": 4,
+      "score": 9.068115,
+      "excerpt": "Cantilevered Beams\n\n5.    The  structural  design  of  cantilevered beams should  satisfy  the  following\n       requirements:-\n\n        (a)    The overall depth at support should be at least 300mm.\n\n        (b)    Top and bottom steel reinforcing bars should be securely held in position\n            by stirrups with the top bars anchored in accorda",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department      Registered Structural Engineers and      APP-68\n                           Registered Geotechnical Engineers\n\n\n                         Design and Construction of\n                  Cantilevered Reinforced Concrete Structures\n\n            The structural stability of cantilevered reinforced concrete structures in\nparticular those of pure slab type  relies on  their proper design, construction and\nmaintenance. Furthermore, the fact that weathering may lead to the early degradation of\nmaterial  strength  should be borne  in mind when  carrying  out  the  design and\nconstruction of cantilevered members exposed to weathering[1]. Common examples of\nthis type of structural elements are projecting structures located on the exteriors of\nbuildings like canopies, balconies, projecting windows, A/C hoods, A/C platforms,\nflowerbeds etc. Their collapse would have serious consequences.",
+      "cross_references": [
+        "PNAP/APP/APP-019.txt",
+        "PNAP/APP/APP-105.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "APP-063",
+      "source": "indexed_text/PNAP/APP/APP-063.txt",
+      "pdf_page": 1,
+      "score": 9.056572,
+      "excerpt": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-63\n                          Registered Geotechnical Engineers\n\n\n                              Geoguide 1\n                     Guide to Retaining Wall Design\n\n\n            The Geoguide 1 – Guide to Retaining Wall Design published by the\nGe",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and         APP-63\n                          Registered Geotechnical Engineers\n\n\n                              Geoguide 1\n                     Guide to Retaining Wall Design\n\n\n            The Geoguide 1 – Guide to Retaining Wall Design published by the\nGeotechnical Engineering Office recommends a standard of good practice for the design\nof permanent retaining walls in Hong Kong.   It covers common retaining walls including\nconventional reinforced concrete walls, gravity walls (such as crib walls, gabion walls\nand mass concrete walls) and cantilevered retaining walls.",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "CoP_SUC2013e",
+      "source": "indexed_text/BD_CODES/concrete/CoP_SUC2013e.txt",
+      "pdf_page": 15,
+      "score": 9.011264,
+      "excerpt": "1    GENERAL\n1.1   SCOPE\n         This Code of Practice provides recommendations for the design, construction and quality control of\n         reinforced and prestressed concrete buildings and structures where the concrete is made with normal\n        weight aggregates.  It covers the requirements for strength, serviceability, durability and fire res",
+      "title": "Code of Practice for Structural Use of Concrete 2013 (2020 Edition)",
+      "official_url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/CoP_SUC2013e.pdf",
+      "must_read_with": [
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/CoP_SUC2013e_amendment202404.pdf",
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/CoP_SUC2013e_amendment202306.pdf",
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/CoP_SUC2013e_amendment202202.pdf"
+      ],
+      "code_basis": null,
+      "catalogue_context": "",
+      "kind": "code",
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "HKIE-precast-2003",
+      "source": "indexed_text/HKIE/HKIE-precast-2003.txt",
+      "pdf_page": 73,
+      "score": 8.515664,
+      "excerpt": "Elliott K.S. and Tovey A.K. (1992), Precast Concrete Frame Buildings, BCA.\n\nJPN1:2001, Joint Practice Note No 1: Green and Innovative Buildings, HKSARG,\n2001.\n\nJPN2:2002, Joint Practice Note No 2: Second Package of Incentives to Promote\nGreen and Innovative Buildings, HKSARG, 2002.\n\nNPCA Quality Control Manual for Precast and Prestressed Concrete P",
+      "title": "Precast Concrete Construction Handbook: An explanatory handbook to CoP",
+      "official_url": "https://hkie.org.hk/st/wp-content/uploads/sites/40/hkie/a5de54214e8bbba4d24c55cffae6e480/50_PCC-Handbook-22-October-2015.pdf",
+      "must_read_with": [],
+      "code_basis": "Code of Practice for Precast Concrete Construction 2003; handbook published June 2015",
+      "catalogue_context": "",
+      "kind": "explanatory_handbook",
+      "earlier_edition_in_series": false,
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "HKIE-concrete-2013",
+      "source": "indexed_text/HKIE/HKIE-concrete-2013.txt",
+      "pdf_page": 197,
+      "score": 8.511815,
+      "excerpt": "structures where the compressive stress may be increased to 0.4𝑓𝑐𝑢.  In direct\n       compression, the compressive stress should not exceed 0.25𝑓𝑐𝑢.\n\n       Flexural tensile stresses in concrete:\n      At mortar or concrete joints of precast units, no tension should be allowed.\n       Elsewhere, the tensile stresses should not exceed the following ",
+      "title": "An Explanatory Handbook to the Code of Practice for Structural Use of Concrete 2013",
+      "official_url": "https://hkie.org.hk/st/wp-content/uploads/sites/40/hkie/a5de54214e8bbba4d24c55cffae6e480/97_An-Explanatory-Handbook-to-the-Code-of-Practice-for-Structural-Use-of-Concrete.pdf",
+      "must_read_with": [],
+      "code_basis": "Code of Practice for Structural Use of Concrete 2013; handbook foreword refers to 2020 edition",
+      "catalogue_context": "",
+      "kind": "explanatory_handbook",
+      "earlier_edition_in_series": false,
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "APP-142",
+      "source": "indexed_text/PNAP/APP/APP-142.txt",
+      "pdf_page": 7,
+      "score": 8.51175,
+      "excerpt": "Item                        Current version                                    Amendments\n                                                                                       (b)   Shear strength\n                                                                      The design shear  stress  in  the  plain concrete  lining\n                        ",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-142\n                         Registered Geotechnical Engineers\n\n\n            Code of Practice for Structural Use of Concrete 2013\n\n\n            The Buildings Department (BD) has set up a Technical Committee (TC)\nto, among others, collect and consider the views and feedback from the building industry\narising from the use of the Code of Practice for Structural Use of Concrete 2013 (Concrete\nCode 2013). The current Concrete Code 2013 (2020 Edition), which was promulgated in\nDecember 2020, incorporated the amendments made and promulgated through circular\nletters dated 13 June 2017 and 24 November 2020. Taking into account the advice of the\nTC, the following amendments to the Concrete Code 2013 (2020 Edition) have been\npromulgated and uploaded to BD website www.bd.gov.hk:\n\n        (a)    Appendix A – February 2022;\n\n        (b)    Appendix B – June 2023; and\n\n        (c)    Appendix C – April 2024.\n\n\n\n\n\n                                                           ( YU Po-mei, Clarice )\n                                               Building Authority\n\n\n\n\n\nRef.: BD GR/1-50/76\n\n\nThis PNAP is previously known as PNAP 296\nFirst issue    June 2007\nLast revision  June 2023\nThis revision  April 2024 (AD/NB2) (Paragraph 1 amended, and Appendix C added)",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "CoP_SUC2013e_amendment202202",
+      "source": "indexed_text/BD_CODES/concrete/CoP_SUC2013e_amendment202202.txt",
+      "pdf_page": 2,
+      "score": 8.510442,
+      "excerpt": "high      lining     axial    good load    been theof\n                                                                                       all   has                                                                                       with following\n\n\n           2Appendix                                                insitu         members:     ",
+      "title": "Code of Practice for Structural Use of Concrete 2013 (2020 Edition) — Amendments (February 2022)",
+      "official_url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/CoP_SUC2013e_amendment202202.pdf",
+      "must_read_with": [
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/CoP_SUC2013e.pdf"
+      ],
+      "code_basis": null,
+      "catalogue_context": "",
+      "kind": "amendment",
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "APP-174",
+      "source": "indexed_text/PNAP/APP/APP-174.txt",
+      "pdf_page": 3,
+      "score": 8.509955,
+      "excerpt": "Amendments to the Code of Practice for Precast Concrete Construction 2016\n\n\n      Item                           Current version                                    Amendments\n\n1.  Clause 2.4.3     In respect of concrete cover requirements for protection against  In respect of concrete cover requirements for protection against\n    paragraph 2       ",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-174\n                          Registered Geotechnical Engineers\n\n\n          Code of Practice for Precast Concrete Construction 2016\n\n\n            The Buildings Department (BD) has set up a Technical Committee (TC)\nto, among others, collect and consider the views and feedback from the building industry\narising from the use of the Code of Practice for Precast Concrete Construction 2016\n(The Code). Taking into account the advice of the TC, the following amendments to The\nCode have been promulgated and uploaded to BD website www.bd.gov.hk:\n\n      (a)    Appendix A – November 2020; and\n\n     (b)   Appendix B – June 2026.\n\n\n\n\n\n                                                              ( HO Chun-hung )\n                                              Building Authority\n\n\n\n\n\nRef. : BD GR/1-50/79 (VI)\n\nFirst issue     June 2026 (AD/NB2)",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "APP-129",
+      "source": "indexed_text/PNAP/APP/APP-129.txt",
+      "pdf_page": 3,
+      "score": 8.508157,
+      "excerpt": "Appendix A\n                                                 (PNAP APP-129)\n\n\n                       Technical Guidelines for Concrete\n                    with 100% Recycled Coarse Aggregates\n\nScope\n\n             This set of technical guidelines is only applicable to concrete strength\ngrade C20.\n\nApplications\n\n2.           Concrete with 100% recycle",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and       APP -129\n                          Registered Geotechnical Engineers\n\n\n                Use of Recycled Aggregates in Concrete for\n               Minor Structures and Non-structural Works",
+      "cross_references": [
+        "PNAP/ADM/ADM-08.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "APP-074",
+      "source": "indexed_text/PNAP/APP/APP-074.txt",
+      "pdf_page": 2,
+      "score": 8.507439,
+      "excerpt": "- 2  -\n\n7.         To avoid the risk of AAR occurring, authorized persons / registered structural\nengineers should consider incorporating the specification clauses for the control of AAR in\nconcrete into contracts for private development projects.  In such cases, plans for approval\nshould clearly indicate that the reactive alkali of concrete expres",
+      "title": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\nPersons, Registered Structural Engineers and Registered Geotechnical Engineers      APP-74\n\n                                     Practice Note for Authorized Persons\nBuildings Department                                                   180\n                              and Registered Structural Engineers\n\n\n             Alkali-Aggregate Reaction in Reinforced Concrete Structures\n\n              Reinforced concrete structures can suffer from alkali-aggregate reaction (AAR).",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "APP-143",
+      "source": "indexed_text/PNAP/APP/APP-143.txt",
+      "pdf_page": 1,
+      "score": 8.505846,
+      "excerpt": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-143\n                          Registered Geotechnical Engineers\n\n\n       Quality Control and Supervision of Precast Concrete Construction\n\nIntroduction\n\n          The use of precast concrete is common in private building developments in\nHon",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-143\n                          Registered Geotechnical Engineers\n\n\n       Quality Control and Supervision of Precast Concrete Construction",
+      "cross_references": [
+        "PNAP/APP/APP-158.txt",
+        "PNAP/ADV/ADV-015.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "CoP_SUC2013e_amendment202404",
+      "source": "indexed_text/BD_CODES/concrete/CoP_SUC2013e_amendment202404.txt",
+      "pdf_page": 9,
+      "score": 8.505732,
+      "excerpt": "Item                         Current version                                     Amendments\n\n\n\n\n\n                                                                                                                  (i) C-C-C Node       (ii) C-C-T Node      (iii) C-T-T Node\n\n                                                                               ",
+      "title": "Code of Practice for Structural Use of Concrete 2013 (2020 Edition) — Amendments (April 2024)",
+      "official_url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/CoP_SUC2013e_amendment202404.pdf",
+      "must_read_with": [
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/CoP_SUC2013e.pdf"
+      ],
+      "code_basis": null,
+      "catalogue_context": "",
+      "kind": "amendment",
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "APP-016",
+      "source": "indexed_text/PNAP/APP/APP-016.txt",
+      "pdf_page": 7,
+      "score": 8.485821,
+      "excerpt": "Design       Standard/Reference                     Title\n  Natural Stone   BS 8298-4:2010,     Code   of   practice   for   design  and\n             BS 8298-3:2010,       installation of natural stone cladding &\n             BS 8298-2:2010,       lining\n             BS 8298-1:2010\n\n\n                  Reference            “Guide  to  the Selection ",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department    Registered Structural Engineers and          APP-16\n                         Registered Geotechnical Engineers\n\n\n                                Cladding\n\n\n             Cladding means a facing or architectural decoration additional to the\nstructural elements of a building,  e.g. metal cladding, stone cladding,  glass-fibre\nreinforced concrete (GRC) cladding and the like.  Cladding should comply with the\nperformance requirements stipulated in sections 3 and 28 of the Building (Construction)\nRegulation in respect of materials, fixings, strength, durability, non-combustibility,\nmeans of access for maintenance or repair, etc.",
+      "cross_references": [
+        "PNAP/ADV/ADV-033.txt",
+        "PNAP/APP/APP-147.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "APP-026",
+      "source": "indexed_text/PNAP/APP/APP-026.txt",
+      "pdf_page": 1,
+      "score": 8.045603,
+      "excerpt": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n Persons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-26\n\n                                      Practice Note for Authorized Persons\n  Buildings Department                                                   81                          ",
+      "title": "Re-issued under new categorization in August 2009 as Practice Note for Authorized\n Persons, Registered Structural Engineers and Registered Geotechnical Engineers     APP-26\n\n                                      Practice Note for Authorized Persons\n  Buildings Department                                                   81                               and Registered Structural Engineers\n\n\n                                Pouring of Concrete\n                            against Walls of Adjoining Buildings\n\n\n            The use of walls of adjoining buildings as permanent shuttering during concrete\npouring operations has resulted in the failure of portions of such walls, causing damage to\nproperty and injury to persons.",
+      "cross_references": [],
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    }
+  ],
+  "legislation": [
+    {
+      "chapter": "123A",
+      "provision": "s12",
+      "heading": "Plans, etc. to be signed by person who prepared them",
+      "source": "legislation/provisions/cap123A/en/s12.json",
+      "version_date": "2024-06-30",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123A?xpid=ID_1438402644025_002",
+      "excerpt": " … [concrete];\n(d)\nthe foundations of the construction are of the spread footing type with a ground bearing pressure not exceeding 300 kPa and founded at not more than 2 m below existing ground level; and\n(e)\nthere is no structural alteration to any existing structural elements [designed] by … ",
+      "score": -6.388681277820339,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123Q",
+      "provision": "s20",
+      "heading": "Proof tests on foundation units",
+      "source": "legislation/provisions/cap123Q/en/s20.json",
+      "version_date": "2021-06-24",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645941_142",
+      "excerpt": " … by proof tests.\n(2)\nThe proof tests may be carried out by means of any of the following methods that is appropriate to the type of foundation—\n(a)\nimposition of test loads;\n(b)\ncore drilling of the completed cast-in-place [concrete] foundation;\n(c)\nany other suitable method.",
+      "score": -5.673540133805774,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123Q",
+      "provision": "s31",
+      "heading": "Curtain wall—fixing of supports and maintenance",
+      "source": "legislation/provisions/cap123Q/en/s31.json",
+      "version_date": "2021-06-24",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212646082_225",
+      "excerpt": " … Curtain wall—fixing of supports and maintenance\n(1)\nA curtain wall support of a building must be fixed on to a load-bearing structure of the building—\n(a)\nby a cast-in anchorage in a structural [concrete] member of the structure; or\n(b)\nby welding or bolting to … ",
+      "score": -4.852612114092561,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123F",
+      "provision": "s27",
+      "heading": "Cuttings",
+      "source": "legislation/provisions/cap123F/en/s27.json",
+      "version_date": "2026-09-17",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402647628_002",
+      "excerpt": " … 294 of 1976)\n(4)\nFor the purposes of this regulation the height of the cutting shall be deemed to be the height measured on a vertical line drawn from the toe of such cutting, and extending from the finished ground or [concreted] surface to a point where it … ",
+      "score": -4.7975190269811385,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123",
+      "provision": "s2A",
+      "heading": "Designation of specialized works",
+      "source": "legislation/provisions/cap123/en/s2A.json",
+      "version_date": "2026-03-01",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123?xpid=ID_1438402641045_002",
+      "excerpt": " … [Designation] of specialized works\n(1)\nThe Building Authority may [designate] any category of building works or street\nworks as specialized works.\n(2)\nThe Building Authority shall notify in the Gazette a [designation] under\nsubsection (1).\n(3)\nThe notification in subsection (2) is not subsidiary legislation.\n(Addd 20 of … ",
+      "score": -4.757577214637916,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123Q",
+      "provision": "s13",
+      "heading": "Design methodology",
+      "source": "legislation/provisions/cap123Q/en/s13.json",
+      "version_date": "2021-06-24",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645738_085",
+      "excerpt": "13.\n[Design] methodology\nThe [design] for any building, street, building works and street works must be in conformity with—\n(a)\nthe laws of mechanics;\n(b)\nrecognized engineering principles; and\n(c)\nrecognized engineering practices.",
+      "score": -4.697011457675274,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123F",
+      "provision": "s53",
+      "heading": "Contractor’s sheds",
+      "source": "legislation/provisions/cap123F/en/s53.json",
+      "version_date": "2026-09-17",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1438402648424_001",
+      "excerpt": " … 350 of 1993)\n(3)\nThe floor of every contractor’s shed which is intended for habitation, shall be properly [concreted] or raised at least 1 m above ground level.\n(L.N. 294 of 1976)",
+      "score": -4.639498388092939,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123F",
+      "provision": "s73",
+      "heading": "Building\ndesign requirements to facilitate elderly persons",
+      "source": "legislation/provisions/cap123F/en/s73.json",
+      "version_date": "2026-09-17",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123F?xpid=ID_1780630671011_001",
+      "excerpt": " … Building\n[design] requirements to facilitate elderly persons\n(1)\nThis regulation applies to—\n(a)\na specified building—\n(i)\nthat is a residential building;\n(ii)\nthat is a commercial building; or\n(iii)\nthat is neither a residential building nor a commercial building but in\nwhich there is a residential unit … ",
+      "score": -4.59952207924232,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123Q",
+      "provision": "s38",
+      "heading": "Protective barrier—design and construction",
+      "source": "legislation/provisions/cap123Q/en/s38.json",
+      "version_date": "2021-06-24",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212646129_273",
+      "excerpt": " … Protective barrier—[design] and construction\nA protective barrier required under section 37 must be [designed] and constructed so as to—\n(a)\nprevent a person or object from falling, rolling, sliding or slipping through the gap of the barrier; and\n(b)\nprevent a person from climbing over the barrier.",
+      "score": -4.585288120320779,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123Q",
+      "provision": "s40",
+      "heading": "Design and construction in connection with lift and escalator",
+      "source": "legislation/provisions/cap123Q/en/s40.json",
+      "version_date": "2021-06-24",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212646160_302",
+      "excerpt": " … [Design] and construction in connection with lift and escalator\n(1)\nA building must be [designed] and constructed so as to—\n(a)\nprovide adequate structural strength, space, protection, access and ventilation for the safe operation, inspection and maintenance of a lift or escalator; and\n(b)\nensure that the restricted … ",
+      "score": -4.549277146596844,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    }
+  ],
+  "note": "One best page per document. XML results have no PDF page number. Follow the original text, PNAP cross-references and amendment links; rankings are not answers."
+}

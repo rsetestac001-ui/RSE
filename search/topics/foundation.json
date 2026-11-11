@@ -1,95 +1,381 @@
 {
-  "query": "\"foundation\" OR \"piling\"",
+  "query": "foundation bored pile",
   "results": [
     {
-      "code": "APSEC-DF-2021-03-19",
-      "source": "indexed_text/APSEC/2021/APSEC-DF-2021-03-19.txt",
-      "pdf_page": 8,
-      "excerpt": " … Monitoring Requirements for [Piling] Works \n \nThe guideline in Appendix B of APP-137 suggests AAA levels be \nestablished with a ratio of … "
-    },
-    {
-      "code": "APP-018",
-      "source": "indexed_text/PNAP/APP/APP-018.txt",
-      "pdf_page": 16,
-      "excerpt": " … Review of [piling] design with back-analyses and submission of [foundation]\nplans  to amend  the  pile  loading  schedule would be  required  in … "
-    },
-    {
-      "code": "APSEC-DF-2024-02-23",
-      "source": "indexed_text/APSEC/2024/APSEC-DF-2024-02-23.txt",
-      "pdf_page": 10,
-      "excerpt": " … Comparison of Total Loading for [Foundation] [Piling] Plan Approval \n \nFor [foundation] [piling] submission, the following two capacity assessment \ntables are given for … "
-    },
-    {
-      "code": "APSEC-DF-2024-08-09",
-      "source": "indexed_text/APSEC/2024/APSEC-DF-2024-08-09.txt",
-      "pdf_page": 11,
-      "excerpt": " … been implemented for processing the \ncompletion of [foundation] works: \n \n(i) The review of [piling] design with back-analysis and the updated pile … "
-    },
-    {
-      "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
-      "source": "indexed_text/GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
-      "pdf_page": 75,
-      "excerpt": " … The cost of [piling] in itself constitutes only part of the total cost of [foundation] works.\nFor instance, the cost of a … "
+      "code": "FoundationCode2017",
+      "source": "indexed_text/BD_CODES/foundations/FoundationCode2017.txt",
+      "pdf_page": 6,
+      "score": 6.014938,
+      "excerpt": "5.3.3   Ground Resistance for Piles Subjected to Uplift Forces ......................... 57\n            5.3.4   Ground Resistance for Piles Subjected to Lateral Load ......................... 64\n    5.4   Common Pile Types .............................................................................................. 65\n            5.4.1    Steel H-",
+      "title": "Code of Practice for Foundations 2017 (2024 Edition)",
+      "official_url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/FoundationCode2017.pdf",
+      "must_read_with": [
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/FoundationCode2017_amendment202509.pdf"
+      ],
+      "code_basis": null,
+      "catalogue_context": "",
+      "kind": "code",
+      "version_note": "Verify edition, amendments and scope before using this passage."
     },
     {
       "code": "HKIE-foundations-2017",
       "source": "indexed_text/HKIE/HKIE-foundations-2017.txt",
-      "pdf_page": 122,
-      "excerpt": " … Concreting of raft [foundation] etc.\n\n              Generally noise levels below 75dB(A) are acceptable. In case of percussive [piling]\n            work where the construction … "
-    },
-    {
-      "code": "FoundationCode2017",
-      "source": "indexed_text/BD_CODES/foundations/FoundationCode2017.txt",
-      "pdf_page": 41,
-      "excerpt": "monitoring the verticality, inclination and alignment of the piles during\n                         installation,  the maximum number  of  [piling]  rigs  allowed  to be\n                     concurrently driving … "
-    },
-    {
-      "code": "ADM-18",
-      "source": "indexed_text/PNAP/ADM/ADM-18.txt",
-      "pdf_page": 7,
-      "excerpt": " … [Foundation]\n                                                   1 month after commencement of [piling] works\n                     Next Site Auditing\n                                                              2. Superstructure\n                                                     3 months after commencement of superstructural\n                                                           (S/S)works … "
-    },
-    {
-      "code": "ADM-18",
-      "source": "indexed_text/PNAP/ADM/ADM-18.txt",
-      "pdf_page": 4,
-      "excerpt": "Appendix I\n                                                (PNAP ADM-18)\n\n          [Foundation]            Things to be audited   Objective/concern\nDriven piles\n(A)  Materials\n       -  Steel H-pile                  Mill certificates        Proof … "
-    },
-    {
-      "code": "APP-061",
-      "source": "indexed_text/PNAP/APP/APP-061.txt",
-      "pdf_page": 4,
-      "excerpt": " … buckling of piles during driving, and reactivation of\nsinkholes or collapse of cavities during [piling] or [foundation] construction. The RSE and\nRGE … "
-    },
-    {
-      "code": "APSEC-DF-2021-03-19",
-      "source": "indexed_text/APSEC/2021/APSEC-DF-2021-03-19.txt",
-      "pdf_page": 9,
-      "excerpt": "9 \n2/2021 ADF on 19 March 2021 \n[foundation] to be re-used might be imposed for the consent application to \nthe … "
+      "pdf_page": 93,
+      "score": 5.525966,
+      "excerpt": "An Explanatory Handbook to Code of Practice for Foundations 2017\n\n\n             Capacity of the pile in accordance with its structural provision is\n          P = .0 25 × 610 2π× 5 × 10 −3 = 1460 kN (without wind).\n\n           As the geotechnical capacity of the pile which  is 1709kN  is greater than the\n                structural capacity, the stru",
+      "title": "An Explanatory Handbook to the Code of Practice for Foundations 2017",
+      "official_url": "https://hkie.org.hk/st/wp-content/uploads/sites/40/hkie/a5de54214e8bbba4d24c55cffae6e480/79_Foundation-Code-Handbook-2017.pdf",
+      "must_read_with": [],
+      "code_basis": "Code of Practice for Foundations 2017",
+      "catalogue_context": "",
+      "kind": "explanatory_handbook",
+      "earlier_edition_in_series": false,
+      "version_note": "Verify edition, amendments and scope before using this passage."
     },
     {
       "code": "GEO_PUBLICATIONS-81180f76-ep1_2006",
       "source": "indexed_text/GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-81180f76-ep1_2006.txt",
-      "pdf_page": 331,
-      "excerpt": " … Case history of a pile [foundation] in unusual ground in Hong\n      Kong.  Proceedings of the Seventh Southeast Asian Geotechnical Conference, Hong\n      Kong … "
+      "pdf_page": 2,
+      "score": 5.519609,
+      "excerpt": "2\n\n\n\n© The Government of the Hong Kong Special Administrative Region\n\nFirst published, 2006\n\n\n\n\nPrepared by :\n\nGeotechnical Engineering Office,\nCivil Engineering and Development Department,\nCivil Engineering and Development Building,\n101 Princess Margaret Road,\nHomantin, Kowloon,\nHong Kong.\n\n\n\nCaptions of Figures on the Front Cover\n\nTop Left :     ",
+      "title": "Foundation Design and Construction",
+      "official_url": "https://www.cedd.gov.hk/filemanager/eng/content_148/ep1_2006.pdf",
+      "must_read_with": [],
+      "code_basis": null,
+      "catalogue_context": "1 Foundation Design and Construction (2.74MB)",
+      "kind": "technical_guidance",
+      "version_note": "Verify edition, amendments and scope before using this passage."
     },
     {
-      "code": "APSEC-DF-2019-11-22",
-      "source": "indexed_text/APSEC/2019/APSEC-DF-2019-11-22.txt",
-      "pdf_page": 11,
-      "excerpt": " … [Piling] Amendment Plan \n \nFor design of pile [foundation], please clarify whether [piling] amendment \nplan still needs to be submitted for approval if … "
+      "code": "TGN-63b6631e-TGN-53_Issue-2",
+      "source": "indexed_text/GEO/TGN/TGN-63b6631e-TGN-53_Issue-2.txt",
+      "pdf_page": 5,
+      "score": 5.497587,
+      "excerpt": "Geotechnical Engineering Office, Civil Engineering and Development Department\n  The Government of the Hong Kong Special Administrative Region\n\n GEO Technical Guidance Note No. 53 (TGN 53)\n  Supplementary Guidelines for Foundation Design and Construction\n\n\n      Issue No.: 2          Revision: -           Date: 17.4.2026      Page: 5 of 12\n\n\n\n5.5   ",
+      "title": "Supplementary Guidelines for Foundation Design and Construction",
+      "official_url": "https://www.cedd.gov.hk/filemanager/eng/content_427/TGN 53_Issue 2.pdf",
+      "must_read_with": [],
+      "code_basis": null,
+      "catalogue_context": "53 Supplementary Guidelines for Foundation Design and Construction (188KB) 4/2026",
+      "kind": "technical_guidance",
+      "version_note": "Verify edition, amendments and scope before using this passage."
     },
     {
-      "code": "APSEC-DF-2019-03-22",
-      "source": "indexed_text/APSEC/2019/APSEC-DF-2019-03-22.txt",
-      "pdf_page": 4,
-      "excerpt": " … and services arising from the proposed [piling] \nworks should be included in the pile [foundation] submission for \napproval.  AP/RSE/RGE may … "
+      "code": "TGN-9a5b8258-TGN-26_1B",
+      "source": "indexed_text/GEO/TGN/TGN-9a5b8258-TGN-26_1B.txt",
+      "pdf_page": 5,
+      "score": 5.486549,
+      "excerpt": "Geotechnical Engineering Office, Civil Engineering and Development Department\n  The Government of the Hong Kong Special Administrative Region\n\n GEO Technical Guidance Note No. 26 (TGN 26)\n  Supplementary Guidelines for Foundation Design in Areas Underlain by\n  Marble and Marble-bearing Rocks\n\n\n      Issue No.: 1          Revision: B          Date: ",
+      "title": "Supplementary Guidelines for Foundation Design in Areas Underlain by Marble and Marble-bearing Rocks",
+      "official_url": "https://www.cedd.gov.hk/filemanager/eng/content_427/TGN 26_1B.pdf",
+      "must_read_with": [],
+      "code_basis": null,
+      "catalogue_context": "26 Supplementary Guidelines for Foundation Design in Areas Underlain by Marble and Marble-bearing Rocks (361KB) 4/2025",
+      "kind": "technical_guidance",
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "APP-018",
+      "source": "indexed_text/PNAP/APP/APP-018.txt",
+      "pdf_page": 12,
+      "score": 5.485791,
+      "excerpt": "(d)  A settlement monitoring scheme should be implemented to\n           monitor the performance of the foundations throughout the\n            construction period of the superstructure.  The monitoring\n          scheme should be submitted to the BA for agreement before the\n         commencement of pile cap/superstructure works; and\n\n       (e)  A fi",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department    Registered Structural Engineers and         APP-18\n                         Registered Geotechnical Engineers\n\n\n                 Code of Practice for Foundations 2017\n\n\n           The Buildings Department has set up a Technical Committee (TC) to,\namong others, collect and consider the views and feedback from the building industry\narising from the use of the Code of Practice for Foundations 2017 (the Code). Taking\ninto account the advice of the TC, amendments were made to the Code in February 2021,\nJuly 2022, August 2023 and June 20241, which have been incorporated in the Code\n(2024 Edition) promulgated in October 2024.",
+      "cross_references": [
+        "PNAP/ADM/ADM-19.txt",
+        "PNAP/APP/APP-141.txt",
+        "PNAP/APP/APP-061.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "GEO_PUBLICATIONS-7981be93-ep2_90",
+      "source": "indexed_text/GEO/GEO_PUBLICATIONS/GEO_PUBLICATIONS-7981be93-ep2_90.txt",
+      "pdf_page": 34,
+      "score": 5.449925,
+      "excerpt": "[OCR transcription: verify wording, numbers and tables against the original PDF.]\n33\n\n7. PRELIMINARY ASSESSMENT OF BEARING CAPACITY OF FOUNDATION ROCKS\n\n7.1 GENERAL\n\nAs part of the GCO involvement in the Yuen Long - Tuen Mun Eastern\nCorridor project, the site investigation results and an outline of methods\nfor preliminary assessment of bearing capa",
+      "title": "Foundation Properties of Marble and Other Rocks in the Yuen Long - Tuen Mun Area",
+      "official_url": "https://www.cedd.gov.hk/filemanager/eng/content_145/ep2_90.pdf",
+      "must_read_with": [],
+      "code_basis": null,
+      "catalogue_context": "1 Foundation Properties of Marble and Other Rocks in the Yuen Long - Tuen Mun Area (6.68MB)",
+      "kind": "technical_guidance",
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "APP-137",
+      "source": "indexed_text/PNAP/APP/APP-137.txt",
+      "pdf_page": 1,
+      "score": 5.048955,
+      "excerpt": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-137\n                          Registered Geotechnical Engineers\n\n\n              Ground-borne Vibration and Ground Settlement\n     arising from Pile Foundation and Excavation and Lateral Support Works\n\n\n               Pile  driving,  boring ",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        APP-137\n                          Registered Geotechnical Engineers\n\n\n              Ground-borne Vibration and Ground Settlement\n     arising from Pile Foundation and Excavation and Lateral Support Works\n\n\n               Pile  driving,  boring and  withdrawal  in  foundation  works,  similar\noperations in excavation and lateral support (ELS) works such as installation or extraction\nof temporary pile walls, collectively known as pile installation works, may cause\nvibrations and settlements.   Improper control of pile installation works may have\nadverse effects on, or cause damage to, adjacent buildings/structures/land/services, in\nparticular, non-structural elements therein.",
+      "cross_references": [
+        "PNAP/APP/APP-018.txt",
+        "PNAP/APP/APP-024.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage."
     },
     {
       "code": "HKIE-foundations-2004",
       "source": "indexed_text/HKIE/HKIE-foundations-2004.txt",
-      "pdf_page": 96,
-      "excerpt": " … Concreting of raft [foundation] etc.\n\n              Generally noise levels below 75dB(A) are acceptable. In case of percussive [piling]\n            work where the construction … "
+      "pdf_page": 72,
+      "score": 4.728294,
+      "excerpt": "An Explanatory Handbook to Code of Practice for Foundations 2004\n\n\n\n\n\n                                          Pile\n                              Cap\n             Cut-off level\n\n\n                         75\n\n\n\n           A            A\n\n\n\n                                                                          Section A-A\n                        ",
+      "title": "An Explanatory Handbook to the Code of Practice for Foundations 2004",
+      "official_url": "https://hkie.org.hk/st/wp-content/uploads/sites/40/hkie/a5de54214e8bbba4d24c55cffae6e480/49_Fdn-Code-2004-Handbook.pdf",
+      "must_read_with": [],
+      "code_basis": "Code of Practice for Foundations 2004",
+      "catalogue_context": "",
+      "kind": "explanatory_handbook",
+      "earlier_edition_in_series": true,
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "CoP_SUC2013e",
+      "source": "indexed_text/BD_CODES/concrete/CoP_SUC2013e.txt",
+      "pdf_page": 159,
+      "score": 4.680583,
+      "excerpt": "The compression caused by the support reaction from the pile may be assumed to spread at 45°\n        degree angles from the edge of the pile. This compression may be taken into account when calculating\n         the anchorage length.\n       The compression bond stresses that develop on starter bars within bases or pile caps need not be\n        check",
+      "title": "Code of Practice for Structural Use of Concrete 2013 (2020 Edition)",
+      "official_url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/CoP_SUC2013e.pdf",
+      "must_read_with": [
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/CoP_SUC2013e_amendment202404.pdf",
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/CoP_SUC2013e_amendment202306.pdf",
+        "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/CoP_SUC2013e_amendment202202.pdf"
+      ],
+      "code_basis": null,
+      "catalogue_context": "",
+      "kind": "code",
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "APSEC-DF-2023-02-10",
+      "source": "indexed_text/APSEC/2023/APSEC-DF-2023-02-10.txt",
+      "pdf_page": 8,
+      "score": 4.274693,
+      "excerpt": "8 \n1/2023 ADF on 10 February 2023 \n6. \nPost Construction Proof Drilling for Frictional Piles without End \nBearing Capacity \n \nAccording to Clause 7.4.4 of the Foundation Code, post construction proof \ndrilling shall be conducted to ascertain the soundness of concrete/rock \ninterface for each of the large diameter bored piles, barrettes and the like",
+      "title": "1 \n1/2023 ADF on 10 February 2023 \nSummary of Items Discussed in 1/2023 APSEC Discussion Forum on 10 February 2023 \n \n \nItems proposed by Convenors for Discussion \nSummary of Discussion and BD’s Response \n \nItems raised by HKIA ",
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "APSEC-DF-2024-08-09",
+      "source": "indexed_text/APSEC/2024/APSEC-DF-2024-08-09.txt",
+      "pdf_page": 17,
+      "score": 4.264418,
+      "excerpt": "17 \nADF 3/2024 on 9 August 2024 \nagain for subsequent curtain wall amendment with increased number of \ndrilled-in anchors. \n \nminimise the number of modification application could be studied. \n \n16. Minimum Number of Large Diameter Bored Piles subject to \nPost-construction Proof Drilling \n \nUpon the satisfactory submission of Form BA14 for large di",
+      "title": "1 \nADF 3/2024 on 9 August 2024 \nSummary of Items Discussed in APSEC Discussion Forum (ADF) 3/2024 on 9 August 2024 \n \n \nItems proposed by Convenors for Discussion \nSummary of Discussion and BD’s Response \n \nItems raised by HKIA ",
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "ADV-033",
+      "source": "indexed_text/PNAP/ADV/ADV-033.txt",
+      "pdf_page": 67,
+      "score": 4.240098,
+      "excerpt": "Typical Items           Requirements                             Reference\n                              Regulations, updated editions of relevant\n                         Codes of Practices and standards\n\n                           For unconventional construction\n                                materials, details of sampling method,\n              ",
+      "title": "Practice Note for Authorized Persons,\nBuildings Department     Registered Structural Engineers and        ADV-33\n                          Registered Geotechnical Engineers\n\n\n                    Essential Information in Plan Submissions",
+      "cross_references": [
+        "PNAP/ADM/ADM-19.txt",
+        "PNAP/ADM/ADM-02.txt",
+        "PNAP/APP/APP-055.txt",
+        "PNAP/ADM/ADM-04.txt",
+        "PNAP/APP/APP-025.txt",
+        "PNAP/APP/APP-151.txt",
+        "PNAP/APP/APP-156.txt",
+        "PNAP/ADM/ADM-08.txt",
+        "PNAP/APP/APP-084.txt",
+        "PNAP/APP/APP-035.txt",
+        "PNAP/ADM/ADM-09.txt",
+        "PNAP/ADM/ADM-21.txt",
+        "PNAP/APP/APP-124.txt",
+        "PNAP/APP/APP-002.txt",
+        "PNAP/APP/APP-042.txt",
+        "PNAP/APP/APP-152.txt",
+        "PNAP/APP/APP-019.txt",
+        "PNAP/ADV/ADV-014.txt",
+        "PNAP/APP/APP-136.txt",
+        "PNAP/APP/APP-043.txt",
+        "PNAP/APP/APP-130.txt",
+        "PNAP/APP/APP-126.txt",
+        "PNAP/APP/APP-108.txt",
+        "PNAP/APP/APP-104.txt",
+        "PNAP/APP/APP-089.txt",
+        "PNAP/APP/APP-093.txt",
+        "PNAP/APP/APP-040.txt",
+        "PNAP/APP/APP-027.txt",
+        "PNAP/APP/APP-098.txt",
+        "PNAP/APP/APP-065.txt",
+        "PNAP/APP/APP-114.txt",
+        "PNAP/ADM/ADM-10.txt",
+        "PNAP/APP/APP-141.txt",
+        "PNAP/APP/APP-024.txt",
+        "PNAP/APP/APP-030.txt",
+        "PNAP/APP/APP-032.txt",
+        "PNAP/APP/APP-061.txt",
+        "PNAP/APP/APP-062.txt",
+        "PNAP/APP/APP-134.txt",
+        "PNAP/APP/APP-018.txt",
+        "PNAP/ADM/ADM-06.txt",
+        "PNAP/APP/APP-022.txt",
+        "PNAP/APP/APP-049.txt",
+        "PNAP/APP/APP-137.txt",
+        "PNAP/APP/APP-057.txt",
+        "PNAP/APP/APP-115.txt",
+        "PNAP/APP/APP-015.txt",
+        "PNAP/APP/APP-143.txt",
+        "PNAP/APP/APP-053.txt",
+        "PNAP/APP/APP-068.txt",
+        "PNAP/APP/APP-037.txt",
+        "PNAP/ADM/ADM-20.txt",
+        "PNAP/APP/APP-139.txt",
+        "PNAP/APP/APP-110.txt",
+        "PNAP/APP/APP-016.txt",
+        "PNAP/APP/APP-076.txt",
+        "PNAP/APP/APP-125.txt",
+        "PNAP/APP/APP-105.txt",
+        "PNAP/APP/APP-133.txt"
+      ],
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "APSEC-DF-2023-05-05",
+      "source": "indexed_text/APSEC/2023/APSEC-DF-2023-05-05.txt",
+      "pdf_page": 13,
+      "score": 4.238004,
+      "excerpt": "13 \n2/2023 ADF on 5 May 2023 \n12. \nMinor Amendments for Deferring Submission \n   \nFor the stipulated criteria qualifying for modification of regulation 33(1) of \nthe Building (Administration) Regulations for foundation, pile cap, ELS \nand site formation works as given in PNAP ADM-19, would BD please \nclarify if the following interpretation of “mino",
+      "title": "1 \n2/2023 ADF on 5 May 2023 \nSummary of Items Discussed in 2/2023 APSEC Discussion Forum on 5 May 2023 \n \n \nItems proposed by Convenors for Discussion \nSummary of Discussion and BD’s Response \n \nItems raised by HKIA ",
+      "version_note": "Verify edition, amendments and scope before using this passage."
+    },
+    {
+      "code": "APSEC-DF-2026-02-06",
+      "source": "indexed_text/APSEC/2026/APSEC-DF-2026-02-06.txt",
+      "pdf_page": 9,
+      "score": 4.226734,
+      "excerpt": "9 \nADF 1/2026 on 6 February 2026 \ncould be deemed to satisfied if “the foundation rests directly on categories \n1(a), 1(b) and 1(d) and 2 rock or if the foundation elements are driven to sound \nbearing strata with SPT N value ≥ 200”. \n \nIf pile foundation driven to stratum with SPT N value ≥200 as stated in the \nclause is acceptable in fulfilling C",
+      "title": "1 \nADF 1/2026 on 6 February 2026 \nSummary of Items Discussed in APSEC Discussion Forum (ADF) 1/2026 on 6 February 2026 \n \n \nItems proposed by Convenors for Discussion \nSummary of Discussion and BD’s Response \n \nItems raised by HKIA ",
+      "version_note": "Verify edition, amendments and scope before using this passage."
     }
-  ]
+  ],
+  "legislation": [
+    {
+      "chapter": "123A",
+      "provision": "s2",
+      "heading": "Interpretation",
+      "source": "legislation/provisions/cap123A/en/s2.json",
+      "version_date": "2024-06-30",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123A?xpid=ID_1438402643806_002",
+      "excerpt": " … drains, sewers, [piles] or caissons;\n(L.N. 233 of\n1982)\ngeotechnical design assumption (岩土設計假定) means an assumption regarding—\n(a)\ngeological conditions;\n(b)\ngroundwater\nand\nsurfacewater\nconditions;\n(c)\nsite history;\n(d)\nlocation and nature of services, utilities, drains and sewers;\n(e)\nexisting site formation;\n(f)\n[foundations] of existing buildings … ",
+      "score": -7.732766723691265,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123Q",
+      "provision": "s20",
+      "heading": "Proof tests on foundation units",
+      "source": "legislation/provisions/cap123Q/en/s20.json",
+      "version_date": "2021-06-24",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645941_142",
+      "excerpt": " … Proof tests on [foundation] units\n(1)\nTo ascertain the performance of a [foundation] under load, representative [foundation] units of the [foundation] must be adequately tested by proof tests.\n(2)\nThe proof tests may be carried out by means of any of the following methods that is appropriate to … ",
+      "score": -6.984402896859087,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123Q",
+      "provision": "s25",
+      "heading": "Bulk excavation in area number 1 of scheduled areas",
+      "source": "legislation/provisions/cap123Q/en/s25.json",
+      "version_date": "2021-06-24",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212646004_185",
+      "excerpt": " … Bulk excavation in area number 1 of scheduled areas\n(1)\nIn this section—\nbulk excavation (大型挖掘工程) means any kind of excavation except excavation for—\n(a)\nground investigation;\n(b)\npublic utility trenches;\n(c)\ndrains;\n(d)\nsewers; or\n(e)\n[pile] installation;\ncumulative adverse effect (累積不利影響), in relation to area number … ",
+      "score": -6.775952840419698,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123Q",
+      "provision": "s18",
+      "heading": "Foundations",
+      "source": "legislation/provisions/cap123Q/en/s18.json",
+      "version_date": "2021-06-24",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645847_118",
+      "excerpt": " … [Foundations]\n(1)\nA [foundation] of a building, street, building works or street works must be capable of—\n(a)\nsafely sustaining the combination of the dead loads, imposed loads and wind loads from the building, street, building works or street works, and any other loads, exerted on the [foundation] … ",
+      "score": -6.762309959924388,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123A",
+      "provision": "s11A",
+      "heading": "Foundation plan to be submitted with site formation plan",
+      "source": "legislation/provisions/cap123A/en/s11A.json",
+      "version_date": "2024-06-30",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123A?xpid=ID_1438402644009_003",
+      "excerpt": " … [Foundation] plan to be submitted with site formation plan\nIn respect of building works in area number 1 of the scheduled areas, the [foundation] plan prescribed in regulation 8(1)(d) shall be submitted to the Building Authority for his approval with the site formation plan prescribed in … ",
+      "score": -6.327397970129366,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123Q",
+      "provision": "s19",
+      "heading": "Building Authority may require on-site tests",
+      "source": "legislation/provisions/cap123Q/en/s19.json",
+      "version_date": "2021-06-24",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645926_137",
+      "excerpt": " … Building Authority may require on-site tests\n(1)\nIf the Building Authority has any doubt as to the design assumption or load carrying capacity of a [foundation], the Building Authority may require tests to be carried out on-site.\n(2)\nThe tests may be carried out on the … ",
+      "score": -6.243316767682597,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123A",
+      "provision": "s9",
+      "heading": "Prescribed plans in respect of street works",
+      "source": "legislation/provisions/cap123A/en/s9.json",
+      "version_date": "2024-06-30",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123A?xpid=ID_1438402643962_002",
+      "excerpt": " … 438 of 1990)\n(f)\nin respect of any [foundation] and structural works for a street, a [foundation] plan showing the size the position of [foundations] together with a full report of the site investigation work undertaken and details of any grouting work to the ground proposed to be … ",
+      "score": -5.808285266932847,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123A",
+      "provision": "s12",
+      "heading": "Plans, etc. to be signed by person who prepared them",
+      "source": "legislation/provisions/cap123A/en/s12.json",
+      "version_date": "2024-06-30",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123A?xpid=ID_1438402644025_002",
+      "excerpt": " … 40)\n(2)\nSubject to paragraph (3), all [foundation] plans, structural details and calculations required under regulations 8(1)(d) and (i) and 9(f) shall be prepared and signed by a registered structural engineer, and his signature shall be deemed to be his assumption of all responsibility for … ",
+      "score": -4.530326435307311,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123Q",
+      "provision": "s2",
+      "heading": "Interpretation",
+      "source": "legislation/provisions/cap123Q/en/s2.json",
+      "version_date": "2021-06-24",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645316_004",
+      "excerpt": " … Interpretation\nIn this Regulation—\ncarriageway (車路) means a part of a private street, cul-de-sac or access road, used or intended to be used by vehicular traffic;\ndead load (恆載)—see section 4;\n[foundation] (基礎) means the part of a building, street, building works or street works … ",
+      "score": -4.259911960209422,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    },
+    {
+      "chapter": "123Q",
+      "provision": "s22",
+      "heading": "Interpretation—sections 22, 23 and 24",
+      "source": "legislation/provisions/cap123Q/en/s22.json",
+      "version_date": "2021-06-24",
+      "official_url": "https://www.elegislation.gov.hk/hk/cap123Q?xpid=ID_1595212645941_154",
+      "excerpt": " … on the upper ground level next to the wall does not exceed 15 degrees to the horizontal; and\n(c)\nthe surcharges from the [foundation] or any other structures do not impose any loading on the wall;\nretaining wall (擋土牆) means a permanent structure on land that retains earth … ",
+      "score": -4.228543038100558,
+      "pdf_page": null,
+      "page_note": "XML has no PDF page number"
+    }
+  ],
+  "note": "One best page per document. XML results have no PDF page number. Follow the original text, PNAP cross-references and amendment links; rankings are not answers."
 }
