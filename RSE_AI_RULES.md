@@ -14,6 +14,10 @@ For every question asked within the RSE project concerning Hong Kong buildings, 
 
 **Core rule: RSE repository first; verifiable citations before conclusions.**
 
+## BD Codes of Practice retrieval
+
+結構設計問題亦須查閱 `codes/manifest.json` 及 `codes/catalog.json`，按適用範圍讀取 foundation、RC、steel、dead and imposed loads、wind code 的原文，以及目錄所列修訂及相關 PNAP。官方解說與主文須分清；不可只讀舊主文而漏掉修訂。PDF 在 `documents/BD_CODES/`，附 PDF 頁碼標記的全文在 `indexed_text/BD_CODES/`。公式、圖表及表格須回看原 PDF；PDF 實體頁數與印刷頁碼須區分。
+
 This file records the user's standing preference for RSE project responses. It does not itself modify ChatGPT Project Instructions.
 
 ## 回答前防漏檢查（2026-11-11 新增）

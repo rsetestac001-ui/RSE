@@ -18,6 +18,14 @@
 - APP-30: `indexed_text/PNAP/APP/APP-030.txt` — page 1, paragraph 3 (GI in Scheduled Area No. 1).
 
 ## Full-text search
+For BD Codes of Practice, fetch `codes/manifest.json` and `codes/catalog.json`
+first. These group foundations, concrete (RC), steel, dead/imposed loads and wind
+with the official listed amendments and explanatory PDFs. Read the amendments as
+well as the main code and relevant PNAP. Text is under `indexed_text/BD_CODES/`;
+original PDFs are under `documents/BD_CODES/`. PDF markers are file pages, not
+printed page labels. Check formulae/figures/tables against the original PDF.
+The historical `pnap_fts.sqlite3` filename is retained for the combined PDF index.
+
 The existing GitHub Actions workflow `.github/workflows/build-search.yml` runs:
 `python scripts/build_search.py search "scheduled area GI" --limit 10`
 The SQLite index can be queried on a machine running the repository, but it is **not remotely callable by ChatGPT**. A separate authenticated or public read-only HTTP service is needed for arbitrary live queries. Do not claim such a service exists until deployed and tested.
