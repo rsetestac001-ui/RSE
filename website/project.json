@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "repository": "rsetestac001-ui/RSE",
-  "source_commit": "1192cc4299a4811a72be01456ffdf0aafe2c9da9",
-  "generated_at": "2026-11-11T06:10:46.819773+00:00",
+  "source_commit": "d5ae0737a5eccd45dd08ac6247d8e7878d215ccc",
+  "generated_at": "2026-11-11T06:13:00.374283+00:00",
   "stage_summary": "資料已入庫並建立搜尋；下一步係補資料覆蓋同驗證答案。",
   "counts": {
     "pdf_files": 365,
@@ -167,12 +167,12 @@
     ".github/workflows/update-project-overview.yml",
     ".github/workflows/update-apsec.yml",
     ".github/workflows/download-pnap-adm.yml",
+    ".github/workflows/build-search.yml",
     ".github/workflows/index-pdfs.yml",
     ".github/workflows/update-bd-codes.yml",
-    ".github/workflows/update-explanatory.yml",
-    ".github/workflows/update-geo.yml",
     ".github/workflows/update-legislation.yml",
-    ".github/workflows/build-search.yml",
+    ".github/workflows/update-geo.yml",
+    ".github/workflows/update-explanatory.yml",
     ".github/workflows/download-pnap-app-adv.yml"
   ],
   "notes": {
