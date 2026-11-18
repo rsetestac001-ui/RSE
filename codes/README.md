@@ -30,3 +30,10 @@ other workflows automatically. Discovery fails if any of the five families disap
 Before a technical answer, read the code, its amendments and relevant PNAP original
 text/cross-references. Explanatory material has a different role from the code itself.
 The source catalogue is https://www.bd.gov.hk/en/resources/codes-and-references/codes-and-design-manuals/index.html.
+
+Minor works are outside those five families. The current official publication is the
+Chinese Technical Guidelines on Minor Works Control System (2024 edition) plus the
+October 2025 and August 2026 amendments. There is no Code of Practice or Explanatory
+Notes of that name on the catalogue. The PDFs are not stored in this public repository;
+see [codes/minor-works/SOURCES.md](minor-works/SOURCES.md) for titles, edition dates,
+official URLs, retrieval date and checksums.

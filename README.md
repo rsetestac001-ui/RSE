@@ -7,6 +7,8 @@ See [codes/README.md](codes/README.md) for foundations, RC, steel, dead and impo
 loads, wind effects, listed amendments and official explanatory material. The
 [code catalogue](codes/catalog.json) records exact original PDF and page-marked
 text paths; the existing full-text database includes these codes alongside PNAP.
+Minor works guidelines are indexed only by official link in
+[codes/minor-works/SOURCES.md](codes/minor-works/SOURCES.md); the PDFs are not in this repository.
 
 ## APSEC Discussion Forum summaries
 See [APSEC archive and coverage notes](apsec/README.md) and
